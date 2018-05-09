@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_tsk_all_aboard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Alle an Bord</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde &lt;b&gt;Biha&lt;/b&gt; im Schlund&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Befrage &lt;b&gt;Kapitän Sedūzo&lt;/b&gt; in der &lt;b&gt;Schenke&lt;/b&gt; im &lt;b&gt;Schlund&lt;/b&gt;wegen einer Überfahrt für &lt;b&gt;Biha&lt;/b&gt; und die Kinder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Überbringe &lt;b&gt;Biha&lt;/b&gt; die Neuigkeiten in ihrem Haus im &lt;b&gt;Schlund&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich bin Zeuge von etwas geworden, das wie eine Hinrichtung aussah – ein Mann wurde in einen Käfig gezerrt und in eine tiefe Schlucht hinabgelassen. Bevor er verschwand, rief er nach einer Frau namens &lt;b&gt;Biha&lt;/b&gt;.</DefaultText>
+      <FemaleText>Ich bin Zeugin von etwas geworden, das wie eine Hinrichtung aussah – ein Mann wurde in einen Käfig gezerrt und in eine tiefe Schlucht hinabgelassen. Bevor er verschwand, rief er nach einer Frau namens Biha.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich sah, wie ein Huana-Mann namens &lt;b&gt;Botaro&lt;/b&gt; in die &lt;b&gt;Altstadt&lt;/b&gt; abgesenkt wurde. Er schrie einer Frau namens &lt;b&gt;Biha&lt;/b&gt; etwas zu, wurde jedoch in die Tiefe gelassen, bevor er ausreden konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Eine rauataianische Kapitänin namens &lt;b&gt;Sedūzo&lt;/b&gt; trinkt in der &lt;b&gt;Schenke der Slums&lt;/b&gt;. &lt;b&gt;Biha&lt;/b&gt; glaubt, dass Sedūzo sie und die Kinder nach Rauatai bringen könnte, doch nach dem, was mit Botaro passiert ist, zögert sie, die Frau selbst anzusprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe eine Überfahrt auf Kapitän Sedūzos Schiff arrangiert. &lt;b&gt;Biha&lt;/b&gt; muss die Kinder auf ihre bevorstehende Abreise vorbereiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Biha&lt;/b&gt; lebt auf den Fußwegen in der Nähe des Käfigs, wo &lt;b&gt;Botaro&lt;/b&gt; abgesenkt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Orron&lt;/b&gt; und seine Kompanie von Goldpakt-Rittern haben alle Kojen auf Sedūzos Schiff reserviert. Sie sind in einem &lt;b&gt;Raum im Obergeschoss der Schenke&lt;/b&gt; untergebracht – vielleicht kann ich ja mit ihnen reden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe mit &lt;b&gt;Orron&lt;/b&gt; gesprochen. Er scheint nicht bereit zu sein, seine Kojen auf &lt;b&gt;Sedūzos Schiff&lt;/b&gt; aufzugeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe sichergestellt, dass &lt;b&gt;Orrons&lt;/b&gt; Mannschaft sich &lt;b&gt;Sedūzo&lt;/b&gt; nicht anschließen wird. Sie ist jetzt vielleicht bereit, &lt;b&gt;Biha&lt;/b&gt; und alle Kinder mitzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe Rust angeheuert, um &lt;b&gt;Orron&lt;/b&gt; und seine Goldpakt-Ritter zu beseitigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe sichergestellt, dass &lt;b&gt;Orrons&lt;/b&gt; Mannschaft sich &lt;b&gt;Sedūzo&lt;/b&gt; nicht anschließen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>&lt;b&gt;Kapitän Sedūzo&lt;/b&gt; erklärte sich einverstanden, &lt;b&gt;Biha&lt;/b&gt; und alle Kinder nach Rauatai mitzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich konnte lediglich eine Überfahrt für drei arrangieren, da &lt;b&gt;Orron&lt;/b&gt; den restlichen Platz reserviert hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>&lt;b&gt;Sedūzo&lt;/b&gt; erklärte sich einverstanden, drei Passagiere mitzunehmen, wenn ich bezahlen kann. Jemand namens &lt;b&gt;Orron&lt;/b&gt; hat den restlichen Platz auf dem Schiff reserviert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;Botaro&lt;/b&gt; versteckte &lt;b&gt;Dereos Geld&lt;/b&gt; in einer Ecke voller Schutt in der Nähe der &lt;b&gt;Schenke&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>&lt;b&gt;Botaro&lt;/b&gt; hatte einen Beutel voller Münzen, bevor er geschnappt wurde. &lt;b&gt;Biha&lt;/b&gt; weiß nicht, wo er ist, sie vermutet aber, dass er ihn noch bei sich trägt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Ich habe angeboten, in der &lt;b&gt;Altstadt&lt;/b&gt; nach &lt;b&gt;Botaro&lt;/b&gt; zu suchen. &lt;b&gt;Biha&lt;/b&gt; bat mich, ihm zu helfen oder ihr Neuigkeiten über sein Schicksal zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>Ich habe &lt;b&gt;Botaros&lt;/b&gt; Leichnam in der &lt;b&gt;Altstadt&lt;/b&gt; gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe eine Überfahrt für Biha und alle Kinder arrangiert. Sie sind nun auf dem Weg nach Rauatai und hoffentlich in eine bessere Zukunft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich konnte lediglich eine Überfahrt für Biha und die Zwillinge arrangieren. Sie sind nun auf dem Weg nach Rauatai und hoffentlich in eine bessere Zukunft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich konnte lediglich eine Überfahrt für die älteren Kinder arrangieren. Sie sind nun auf dem Weg nach Rauatai und hoffentlich in eine bessere Zukunft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>&lt;b&gt;Biha&lt;/b&gt; und die Kinder wollen ein besseres Leben außerhalb der &lt;b&gt;Slums von &lt;b&gt;Neketaka&lt;/b&gt; finden. Ihr Partner &lt;b&gt;Botaro&lt;/b&gt; sprach eine rauataianische Kapitänin in der Schenke bezüglich einer Überfahrt an, wurde jedoch in die &lt;b&gt;Altstadt&lt;/b&gt; geworfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

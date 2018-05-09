@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_construct</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Der Stahlprediger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töten den &lt;b&gt;Stahlprediger&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Nungata&lt;b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein Magranit-Priester im Körper eines Stahlkonstrukts randaliert im Todesfeuer. Wer den &lt;b&gt;Stahlprediger für immer aus dem Verkehr zieht, den erwartet eine deftige Belohnung. Er wurde zuletzt auf einer Insel südlich &lt;b&gt;Fort Todeslichts&lt;b&gt; gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der &lt;b&gt;Stahlprediger&lt;b&gt; hört sich nicht nach einem subtilen Zeitgenossen an. Er hält sich auf einer Insel südlich &lt;b&gt;Fort Todeslichts&lt;b&gt; auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Der Stahlprediger wurde auseinandergenommen. Jetzt kann ich zu &lt;b&gt;Nungata&lt;b&gt; in der&lt;b&gt; Schlangenkrone&lt;b&gt; in Neketaka gehen und mir meine wohlverdiente Belohnung abholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe dem Stahlprediger seine letzten Leviten gelesen und das Kopfgeld von Nungata kassiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

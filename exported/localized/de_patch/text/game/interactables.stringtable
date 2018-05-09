@@ -1,0 +1,3098 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\interactables</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>617</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Default String. Nicht verwenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine Statue scheint hier umgefallen zu sein, vom Wind und Sand abgenutzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das spartanisch eingerichtete Zelt stinkt nach verdorbenen Rationen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Lichter und Formen scheinen sich direkt unter der Oberfläche des Adra zu tummeln. Sie flackern mit verzerrten Bewegungen vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kühlere Luft dringt durch den Riss im Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Eine dünne Schicht aus Sand und Staub hat sich auf diese Kisten gelegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Dieses krokodilartige Götterbild kommt dir nicht bekannt vor. Die Huana-Schnitzereien auf der Schale implizieren, dass sie einst verehrt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die lodernden Flammen der Kohlepfanne leuchten hell, aber sie strahlen keine Hitze ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Als du an den engwithanischen Silhouetten auf diesem Wandbild entlangwanderst, erkennst du etwas, das wie Huana aussieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Auf dem Wandbild sind Huana und Engwithaner zu sehen, die sich vor einer blauen Flamme versammelt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Huana werfen sich vor der blauen Flamme nieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die äußere Mauer dieses Raums scheint unter dem Sand und Geröll nachgegeben und sich gewölbt zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Der leuchtende Adra scheint infiziert zu sein, denn je weiter man an ihm nach unten sieht, desto dunkler wird seine Färbung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Auf diesem Wandbild hebt ein Engwithaner ein Opfermesser über einem liegenden Huana.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Gravur dieses Sarkophags ist so verwittert, dass man sie kaum noch entziffern kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Gerade so kannst du die folgenden Worte auf dem Sarkophag erkennen: Hier ruht das Haupt, das einst die Krone der Hingabe trug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Kleine Einbuchtungen laufen an diesem Altar entlang und steuern so den Fluss des Blutes in einen zentralen Kanal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Energie pulsiert durch die gewundene Säule wie ein unregelmäßiger Puls, den ihre Wände kaum zurückhalten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die zerbrochene Adra-Säule steht stumpf und leblos da, ihre Seelenenergie hat sich in die Luft ringsherum verflüchtigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Die Adra-Säule gibt ein energetisches Summen von sich. Seelenenergie fließt in hellen Strömen an den Seiten der Säule nach unten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Das Opfer des Huana scheint die Säule mit Energie versorgt zu haben, die hier mit blauen Flammen dargestellt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Der Obelisk ist mit engwithanischen Runen übersät. "Gebt Acht. Die Götter bestrafen Eindringlinge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Tikawara-Handelsposten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Oozapfütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Falle Typ Nekrotische Lanze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Kleinere Fische – mehr Gräten als Fleisch – trocknen auf dem Gestell. Ihre Augen sind verschrumpelt und ihre Schuppen schal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Diese Früchte sind klein und unreif. Die meisten von ihnen sind mit Löchern übersät.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Die Reliefs der Glocke sind an einigen Stellen beinahe vollständig abgenutzt und an anderen mit Patina bedeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Trommel gibt einen tiefen, befriedigenden Klang von sich, als du sie schlägst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Die Statue stellt eine üppige Frau mit dem Kopf eines Anglerfisches dar. Die Farbe ist dick, als wäre sie erst vor Kurzem aufgetragen worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Kleine Krustentiere flitzen über die Felsen im Gezeitentümpel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Dieser Treibholz-Rahmen ist mit Knochen und Muscheln behängt. Sie klimpern im Wind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Das sieht wie eine kleinere, ältere Version der Statue draußen aus. Das Holz ist glatt und vom Wasser ganz gefleckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die vielen Risse in diesem alten Banner wurden liebevoll geflickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Das Holz fühlt sich in deiner Hand glatt an. Das Totem sieht aus, als hätte man es erst kürzlich geschnitzt und bemalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Die Trommel gibt einen tiefen, befriedigenden Klang von sich, als du sie schlägst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Tiefe Abschürfungen – etwa von der Größe der Klaue eines ausgewachsenen Lagufaeth – sind auf dem Bambus zu erkennen, als ob etwas außerhalb des Käfigs versucht hätte, ihn aufzureißen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Truhe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Korb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Waffenregal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Sand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Vase</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Urne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Kiste</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Fass</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Regal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Eine Falle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Roparu-Hütte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Kuaru-Hütte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Mataru-Häuschen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Engwithanische Gravierungen laufen an diesen massiven Urnen entlang, die auf die etlichen Huana hindeuten, die hier eingesperrt wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>In einige Teile des Felsens wurden seltsame Runen und Glyphen geäzt. Etliche von ihnen scheinen die örtliche Flora und Fauna zu repräsentieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Die Tür der Behausung wurde aufgrund des Lagufaeth-Überfalls von innen verbarrikadiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Leiche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Box</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Geröll</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Im Beutel findest du eine zusammengerollte Karte. Sie zeigt einen Kurs, der von Tikawara, einer Insel im Westen ausgeht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Der Stein und das Glas dieser Vorrichtung vibrieren mit einer internen Energie, die die kupfernen Ringe summen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Tikawara-Schrein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Tikawara-Schrein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Der Dunkle Schrank</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Das Zelt ist leer, bis auf einen Haufen Ausgrabungswerkzeuge – Schaufeln, Spaten und Bürsten, die halb vom Sand verdeckt sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Versteckte Schublade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Der Laden des Spindelmanns</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Ernezzos Krämerladen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Unterhalb des Schutts sind auf einem Wandbild zwei Meeesschnecken abgebildet, die sich aus den Wellen erheben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Enarats Lederwaren und Kaufhaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Imuanis Schwerter und Schilde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Wurmpfütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Zwei kränkliche Huana-Kinder liegen gewickelt unter Lumpen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Nur schmutzige Lumpen bleiben in den Wiegen zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Iolfrs Gewänder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Das Loch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Erbarmen sei mit Ngati, Dame der Wehklage.
+So wie die Perlen-Himmelskugel sich ihrer Sicht erschließt,
+Füllen sich ihre Augen mit Tränen, unaufhörlich wie Regen.
+Aber der Mond setzt seine Reise himmelwärts rasch fort.
+Die Gefühle der Liebenden – so flüchtig wie die Berührung zweier Finger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Ein flüchtiges Betrachten der Regale enthüllt beschriftete Bücher, die Dekaden zurückreichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Zahlreiche Gäste scheinen ihre Namen in den Holzrahmen dieses Gemälde eingeritzt zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Das Licht in hier sorgt für eine schmeichelnde Spiegelung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Jedes Blatt Pergament ist mit dichtem Jargon vollgekritztelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Diese Toilette scheint selten genutzt, das Waschbecken dafür umso mehr. Eine dünne Staubschicht hat sich auf den umstehenden Dosen und Gläsern abgesetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Auch wenn ihr Stil sich stark von einander unterscheidet, so bemerkst du eine nautische Neigung bei den meisten Gemälden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Kleiderschrank</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Leuchtendes Badehaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Roparus Matte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Leichte Brise</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Meereslied</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Gebrochene und halb zerkaute Knochen liegen zwischen den erloschenen Kohlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Glühende lilafarbene Sporen haften auf deiner Hand, als du sie zurückziehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Bücherregal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Schublade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Wasserfälle hallen in der Ferne unter dir wider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Frische Stiefelabdrücke sind im Matsch zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Du hörst eine leise Melodie in der Nähe der Statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Die Knochen fühlen sich warm an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Eine Höhle führt in die Dunkelheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Regal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Mehrere Gemälde sehen identisch aus bis hin zu den Kopien der Signatur in den Ecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Verstohlenes Flüstern und Fußtritte hallen von der unteren Straße herauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Die Allee wird immer schmaler und endet in einer Sackgasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Nasse, feuchte Luft und widerhallende Stimmen kommen von unten herauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Sarkophag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Tisch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Schatzkammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Wasser</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Netz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Rüstungsregal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Tränke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Münzstapel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Schrank</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Altar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Halb verzehrte Essensreste liegen auf dem Haufen. Ein ranziger Geruch steigt empor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Süßer Weihrauch verbirgt den Geruch der Opfergaben – verrottetes Obst und vergammelter Fisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Eine klamme, moschusartige Duftwolke quillt aus dem Spalt hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Das Rad stöhnt unter dem Gewicht des Käfigs. Es wurde mit schützendem Öl eingeschmiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Unter dem Dreck und Schimmel sehen diese Schnitzereien sehr detailliert und fein aus. Und sehr alt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Die Flaschen sind leer, man sieht nur noch die  Überreste verbrauchter Medizin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Ein bitter riechender Schlamm füllt die Tassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Gekritzelte Gebete – einige in der Schrift der Huana – sind im Schrein versteckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Sanzas Kartenemporium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Botaros Leiche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Diese abgewetzte und oft gebrauchte Karte zeigt eine kleine Region des Landes der Lebenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Gekritzelte Anmerkungen verweisen auf Kommissionen und Aufträge, die noch nicht abgeschlossen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Zwischen den üblichen kartographischen Werken und Handbüchern sind einige, viel genutzte Bände mit Reiseerinnerungen und fantastischen Abenteuern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Selbst diese Schriftrollen wurden sorgfältig abgestaubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Diese Karten des Todesfeuer-Archipels sind unvollständig und übersät von Lücken, die unerforschte Regionen darstellen sollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Diese dekorativen Teller sind alle mit dem Siegel der Bardatto gestempelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Diese mürrischen Porträts scheinen all deine Bewegungen durch den gesamten Flur zu beobachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Dieses Instrument scheint häufig genutzt zu werden. Es ist einwandfrei gestimmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Diese rohen Splitter leuchtenden Adras behalten ihren überirdischen Glanz bei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Der täglich eintreffende rohe und verfeinerte leuchtende Adra wird hier sorgfältig erfasst, das gilt ebenso für abgehende Lieferungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Diese vergoldete Rahmen blättert ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Das Ticken der Uhren füllt das Esszimmer in ruhigeren Momenten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Ein trüber Anblick von Ancenze im Regen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Es sind nur wenige Gäste der letzten Zeit in diesem Buch verzeichnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Die Inhalte dieser Truhe gehören einer Handvoll vailianischer Familien aus dem Ort, die auf einer Tafel genannt sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Auf der Kennzeichnungstafel dieser Truhe steht nichts. Vermutlich ist die Truhe leer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Auf den ersten Blick scheint diese Statue aus massiver Bronze zu bestehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Jemand hat kleine und ziemlich anregende Figuren in die Wand geritzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Diese Töpfe scheinen vor Ort hergestellt worden zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Atello Valera hat seine Signatur vorsichtig in das Glas dieses Modells geätzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Die Wilde Mähre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Sanzas Kartenemporium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Dieses Wandgemälde stellt die stürmischen Gewässer dar, von denen die legendäre Stadt Ukaizo angeblich umgeben ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Hohles Buch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Versteckte Tafel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Schrank</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Ein kraftvoller Zauber hält diese Goldbarren an Ort und Stelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Buch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Diese Statue von Onekaza der Ersten hat ein wissendes Grinsen im Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>In die Kanone ist das Emblem der Königlichen Todesfeuer-Gesellschaft eingraviert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Die Hornknochen eines Gottgleichen. Auf der Tafel steht ohne Kontext einfach "Ladendiebe, aufgepasst".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Die Augen dieses Skuldrak-Kopfes wurden mit polierten Steinen ersetzt, die jede deiner Bewegungen verfolgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Diese exotischen Gewürze brennen in deinen Augen, als du sie genauer anschaust. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Marihis Metallhandwerk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Leiche des einzigen Überlebenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Ein ratterndes Geräusch ertönt aus der Vitrine, als du ihr den Rücken zudrehst. Das zweiköpfige Skelett hängt bewegungslos dar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Waffenschmied</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Schuster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Fischhändler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Schneider</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Jagdgut und Allerlei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Deine Haut kribbelt, als du dich dem Seherbecken näherst. Dein Spiegelbild grinst dich aus der Tiefe heraus an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Die Gedecke, die auf dem Tisch angeordnet sind, glänzen und sind poliert, man sieht nirgendwo ein Körnchen Staub.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Unterlagen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Buch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Flammen-Explosionsfalle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Das Fenster zur Bucht hinaus gibt den Blick frei auf Möwennester, die an den steilen Felsen von Neketaka zu finden sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Buch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Ein starker, moschusartiger Tiergeruch hängt an diesem Heubett.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Zwischen den Fässern und Kisten stehen Truhen, die mit dem Symbol der Königlichen Todesfeuer-Gesellschaft gestempelt sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Stoffrollen und Kleidungsstücke aus verschiedenen Materialien sind hier angeordnet, man sieht von feiner Seide bis Rollen mit dickem Garn alles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Zerbrochene Flaschen liegen auf den Pflastersteinen dieser schmalen Straße. Die Luft ist erfüllt mit dem Gestank von Hundekot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Passanten haben mehrere Verse vulgärer Poesie und anzügliche Zeichnungen in die Ziegel hier eingeritzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Die Falltür am oberen Ende dieser Leiter will sich einfach nicht bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Eine Gravur ist an der Basis der Statue zu erkennen, sie lautet: "Periki, erster Gildenmeister der Wasserformer-Gilde." Sie sieht bedrückt und nachdenklich aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Schwarzes Pulver, das nun durchgeweicht ist, klebt an der Innenseite der Kiste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Sowohl Muster der Region als auch aus fremden Ländern schmücken diese Ballen feinen Tuches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Cuitztlis exotische Kräuter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Feuchtigkeit perlt an dem erhitzten Kupfer ab und hinterlässt den Duft verfeinerten Adras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Von dem Gestank ausgehend hat dieser Mann vor seinem Ableben noch seinen Darm entleert. Sein Kopf hängt nur noch an einem dünnen Streifen Fleisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Dieses verzierte Becken gibt einen schrillen Klang ab, wenn man Druck auf den äußeren Rand ausübt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Falero</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Die Überreste sind verkohlt und aufgrund des verwendeten Schwarzpulvers schwarz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Seltene und bunte Fische schwimmen in diesem mit Wasser gefüllten Becken von einer Seite zur anderen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Baumhöhle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Tigerhöhle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Die Seiten, die zwischen den Büchern verstreut liegen, weisen eine seltsame Anordnung von Buchstaben auf, von denen nicht alle zum Alphabet der Huana gehören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Zu welcher Kreatur auch immer diese Kiefer gehören, sie war eindeutig riesig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Das ruhige Plätschern des Brunnens ist in diesem geräumigen Zimmer ein ständiges Hintergrundgeräusch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Auch wenn Aruihis Sammlung beeindruckend ist, sind nur wenige der Klingen wirklich scharf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Wasser tanzt in grazilen Kreisen rings um diese Korallenskulptur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Die Huana-Abbildung der Hylea ist in ihrer Intensität fast bedrohlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Welcher Mechanismus diese Tür antreibt, ist nicht klar. Der Teller bewegt sich nicht unter deinen Fingern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Jemand hat hier ein schnelles Mahl zu sich genommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Auch wenn das Becken einfach konstruiert ist, ist es dennoch sauber und aufgeräumt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Makarama der Beschwingte, der Geliebte von Ngati.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Ponamu der Vogelverschmähte, der größte aller Entdecker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Hemunga Makapu, Verteidiger seines Volkes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Das laute Kreischen der Vögel in ihren Käfigen ist endlos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Die Inschrift lautet: Eine Koīki-Ernte blüht mühelos. Die Frucht der Toten ernährt die Lebenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Die Inschrift lautet: Es ist die Aufgabe aller lebenden Dinge, den Adra zu schützen. Die Götter werden uns durch unsere Treue gegenüber diesem Bund kennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Die Inschrift lautet: Auch wenn wir zwischen den Inseln springen, ist unsere Heimat das geliebte Ukaizo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Der Kran ächzt unheilvoll über den Köpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Eine in ein Gewand gehüllte Gestalt mit einer Laterne in der Hand ist deutlich zwischen den Ätzungen zu sehen, die diesen Sarkophag verzieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Eine in eine Rüstung gehüllte Gestalt unterhalb eines Torbogens ist deutlich zwischen den Ätzungen zu sehen, die diesen Sarkophag verzieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Jäger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Ein regelrechter Gestank wabert von den Booten herüber. Eine Leiche ist hinter ihnen aufgespießt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Du denkst an die Füße, die quer über Caed Nua gestampft sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Diese Leiche weist keine sichtbaren Wunden auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Ori o Koīki</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Eine kalte, steife Hand ragt aus dem Schutt heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Flecken von Siegelwachs kleben an der Spitze der Klinge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Hasongo-Fort – Erweitertes Design</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Die Kisten riechen muffig. Du blickst hinein und siehst, dass sie voller Schwarzpulver sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Diese Kanonenkugeln sind zu klein für die Bombarde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Die Inschrift lautet: Ngati hat ihrem ausgewählten Volk die Herrschaft über das Wasser geschenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Felsen und Trümmer sind über diesem Mechanismus zusammengebrochen und haben ihn unbrauchbar gemacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Ein großes, zerfallendes Herz, das mit Stroh gestopft ist, wurde an der Wand als eine grausige Trophäe angebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Zerschlagene Kisten, zerbrochene Truhen und verschiedene andere weggeworfene Gegenstände sind an der Wand bis fast unter die Decke gestapelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Diese Fleischstücke und verkohlten Gliedmaßen zersetzen sich langsam in der tropischen Hitze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Dieser Wagen scheint in relativ gutem Zustand zu sein, was in krassem Gegensatz zu seiner verwitterten Umgebung steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Schreibtisch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Ein paar Stücke nicht identifizierbaren Fleisches liegen in einem stinkenden Brei auf dem Boden dieses Eimers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Hinter den Stadttoren liegen breite Streifen Ackerland, die hier und da vom näher kommenden Dschungel unterbrochen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Lichtpartikel fliegen wie Fischschwärme durch die sich windenden Gewässer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Das Portal hat sich hinter dir geschlossen, es gibt also keine Möglichkeit mehr, durch die leuchtende Adra-Säule zurückzukehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Angenagte und zerbrochene Knochen liegen auf dem Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Ein gut gebauter Entwässerungskanal, auch wenn er schon bessere Tage gesehen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Der Tunnel verengt sich weiter vorn ziemlich schnell, so dass man nicht mehr hindurchkommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Verschiedene Glasflaschen und glänzende Sachen haben sich hier angesammelt, auch wenn sie alle aus verschiedenen Quellen stammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Utos Schusswaffen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Lockerer Stein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Eine Anmerkung ist zwischen zwei Schaubildern an den Rand gekritzelt: 'Strom erhöhen! Blitz??'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Das Summen der Maschine wird leiser, wann immer jemand auf Armeslänge von ihr entfernt steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Das Buch enthält eine sorgfältig erstellte Liste mit Namen, Daten und Maßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Dicke Abhandlungen über eine Vielzahl der mit Beseelung in Zusammenhang stehenden Themen haben sich auf dem Schreibtisch angesammelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Ein Felsrutsch hat diesen Teil des Wachturms einstürzen lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Diese Ankerwinde ist viel zu massiv und schwer als das ein Gestandener sie bedienen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Der Rumpf dieses Langbootes wurde mit einer feuerbeständigen Quecksilberverbindung lackiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Kondensationsflüssigkeit tropft wie Schweiß von dem dunklen Metall dieser Kette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Die verbrannten Überreste dieser Gefangenen tragen Fetzen von Seemannskleidung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Stein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Die Luft in der Nähe der Mitte dieses seltsamen Geräts ist so bitterlich kalt, dass es schmerzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Flackernde Energiekörnchen fließen in einem unendlichen Marsch hin zum Vortex.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Teile dieser unnatürlichen Architektur wurden aus ihren Wurzeln gerissen und hängen immer noch im Nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Der Tisch, an dem die Brandopfer vorbereitet werden, riecht nach Gewürzen und Blut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Huana-Runen umgeben diesen Brocken leuchtender Adra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Dieser Mast ist vollkommen ruiniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Der Pylon ist dunkel, sein Ring bewegungslos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Das leise Summen, das von dieser Maschine ausgeht, klingelt in deinen Ohren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Die sich einst drehenden Ringe der Maschine sind zum Stillstand gekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Wasser tropft durch einen Spalt im Fenster herein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Ein kleiner Fischschwarm tanzt durch das Wasser direkt vor dem Fenster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Dieses dunkle, schlammige Loch führt direkt zum Ozean.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Dieses Wandgemälde deutet auf die Erschaffung einer Kreatur hin, die größer ist als alles, was vorher kam, aber es ist zu beschädigt, um mehr entziffern zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Ihr ausgestreckter Körper ist wie ein Nadelkissen mit grün- und gelb-befiederten Pfeilen übersät.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Die verbogenen Reste der Minenschienen glühen tief unten in der Dunkelheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Eine Gruppe von Bergleuten bräuchte mindestens einen Monat, um diesen Einsturz zu räumen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Diese Felle stinken nach Schimmel und ungewaschenen Körpern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Fellhaufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Das Gekritzel auf diesem Banner lautet: "SCHUTZWALL GESPERRT".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Dieser Streifen eines Segel enthüllt die mit Kohle gekritzelte Warnung: "NUR FÜR BENWETHS MANNSCHAFT".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Auf diesem Schild steht "KNAST".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Schatzkammer-Zugang nur für Benweths Mannschaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Die kaum lesbare Inschrift auf diesem Stück Plane lautet: "DIE WAFFENKAMMER IST GESCHLOSSEN, IHR SEEBÄREN."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>Ansammlungen von Korallen übersäen die Wasserlandschaft mit bunten Flecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Skelett</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Knochen, die mit gezackten Schnitten übersät sind und von denen das Fleisch sauber entfernt wurde, liegen in einem unordentlichen Haufen gestapelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Diese verkohlten und zerbrochenen Knochen sehen so aus, als würden sie von Gestandenen stammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Einige der Knochen sind gebrochen und im Lauf der Zeit ausgebleicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Fettblasen schwimmen auf der Oberfläche dieses Topfes. Der aufsteigende Dampf riecht süßlich nach Fleisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Rathun-Leiche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Jahrhundertelange Abnutzung haben einen Großteil dieser Wand zusammenbrechen lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Leichen und Skelette liegen hier verstreut. Einige sind frisch, manche nur wenig mehr als Staub.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Ein Einsturz hat diesen Durchgang unpassierbar gemacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>Der leuchtende Adra strömt die gleiche Energie aus, die du in anderen Säulen gespürt hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Diese Berichte enthalten Anmerkungen über Schiffsladungen aus Hasongo und Lieferungen, die für Sayuka und Krummhorn gedacht sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Andere Fässer sind in der Dunkelheit unten gestapelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>Diese Kisten sind für Sayuka markiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Leiche der Priesterin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Auch wenn er aschfahl ist, fühlt sich die Haut dieses toten Riesen noch warm an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Loser Staub und gezackte Felsbrocken liegen in dem zerfallenen Abschnitt dieser Brücke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Massive Ketten halten das Gewicht der Transportplattform des Schreins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Krakenauge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Der Boden hier wurde vor Kurzem aufgewühlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Eine viel genutzte und mit Eselsohren versehene Fibel der Huana-Sprache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Dieses Gemälde eines Hains im Wald ist signiert mit "Loisa Clario".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Zwischen den leeren Tellern und Fässern stecken einige Beutel mit stark riechenden Gewürzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Eine lange und über alle Maßen hinaus detaillierte Liste laufender Konten, angefangen bei örtlichen Verkäufern bis hin zu fahrenden Händlern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Diese Feuerschale leuchtet in einem ekelhaften grünen Licht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Das Sumpfgas stinkt nach verrottetem Fleisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Die Ränder dieser Bücher sind voll Notizen, die in einer zittrigen Handschrift geschrieben wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Der Körper auf dem Tisch ist mit dem Schema eines Metzgers bemalt, wie ein Schwein vor der Schlachtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Ein ekliger, salziger Gestank steigt aus den durchnässten Kisten empor, ihr Inhalt ist verrottet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Der Trick eines Rüstungsschmieds hat die Rauheit dieser getrockneten Haihäute gemildert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Gewehrschuss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Falle entschärft!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Cawldha-Debh-Modell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Kapitän Furrante "Der letzte Maresco" ist auf der Rückseite des Stuhls eingeritzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Kapitän Aeldys "Der Seewolf" ist auf der Rückseite des Stuhls eingeritzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Kapitän Falanroed "Der Drachentöter" ist auf der Rückseite des Stuhls eingeritzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>Kapitän "Zwei-Augen" Pim ist auf der Rückseite des Stuhls eingeritzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Kapitän "Brutaler" Benweth ist auf der Rückseite des Stuhls eingeritzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Kapitän "Mer" Trevisilo ist auf der Rückseite des Stuhls eingeritzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Kapitän "Goldflosse" Chiara ist auf der Rückseite des Stuhls eingeritzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Kapitän "Verrückter" Morena ist auf der Rückseite des Stuhls eingeritzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Kapitän Falenroed "Der Drache" ist auf der Rückseite des Stuhls eingeritzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Südlicher Hafen Vorräte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Tasche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Dieser antike Adra-Sarg ruht auf einem abgewetzten Sockel aus Stein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Im Gegensatz zu den Knochen, die in dieser Höhle verstreut liegen, sind diese Leichen neueren Datums.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Ein Haufen Knochen ist alles, was von den Tausenden Personen geblieben ist, die in dieser Höhe gestorben sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Dieser Hai, der mitten im Sprung porträtiert ist, wurde aus einem einzigen Stück Holz geschnitzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Du siehst Risse an der Oberfläche dieses Kampfhorns, wo es sorgfältig repariert wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Eine breite Klinge ist hier befestigt. Darunter kann man eine Gravur erkennen: "Für Mut im Kampf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Taquas Fisch-Warenhaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Koamis Waffenkammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Gefallene Frucht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Der Geruch von Bienenwachs und Weihrauch steigt aus diesen Fässern und Kisten empor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Die Winde peitschen gefährlich um die weiter unten gelegenen Klippen und tragen das Geräusch raschelnder Bäume mit sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Lange Einschnitte an Bauch und Brust der Leiche erlauben Zugang zu den Organen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Jede Tafel wurde mühselig graviert und berichtet von Mythen und Parabeln in der Schrift der Huana.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Gaun ist mit einem warmen Lächeln abgebildet, aber die Augen unterhalb seiner Kapuze zeugen von verstörender Inbrunst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>Obwohl er verwittert und alt ist, hat dieser Baum viele Knospen und neu treibende Zweige, was auf neues Wachstum deutet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Opfergaben in Form von Obst, Brot und sogar Wein wurden hier für den Tempel niedergelegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Die Schriftrollen sind angefüllt mit sorgfältigen Schaubildern von Gewehren und Pistolen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Diese Gewehre sehen alt aus, aber das Metall ist immer noch poliert und das Holz perfekt glatt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Fischhaufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Ein dutzend Gemälde, schimmelig und wertlos, sind an der Wand inmitten von zerbrochenen Flaschen und rottendem Holz aufgereiht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>Halbleere Flaschen und verfaultes Obst legen nahe, dass diese Mahlzeit nicht vollständig verzehrt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Kleine Umrisse huschen schnell zwischen den Korallen unten hin und her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Die Adra-Formation hier leuchtet hell von innen heraus und taucht seine Umgebung in seltsames grünes Licht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>Aufenthalt des Kapitäns</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Das blutige Chaos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Beinhaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Ein Fass mit frisch gegossenen Flintenkugeln lehnt an der Reling auf dem Deck der Draco.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>Der Frachtraum ist leer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Moos und Schmutz haben große Teile dieses Wandgemäldes freigelegt und enthüllen die darunter liegenden leuchtenden Farbtöne der engwithanischen Figuren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Hier ruht Ixandros, der vortrefflichste aller Architekten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Gepriesen sei der kühne Avarix, Meister der Klinge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>Alles, was von dieser Inschrift übrig geblieben ist, ist "Racca der Glückliche". Der Stein ringsherum wurde im Laufe der Zeit geglättet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Ein Teil der Statue nahe den Beinen wurde gewaltsam entfernt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Der eisenharte Lukāta hier konnte zwanzig Siege sein eigen nennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"In Erinnerung an Sama, geliebte Schwester, spende ich diese Statue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Eofanias Waren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Dieses verzauberte Diorama zeigt eine andere Insel als die, auf der du gelandet bist. Eine winzige Figur geht oben auf dem steinernen Turm auf und ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>Stimmen hallen von unten herauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>Der Duft einer kochenden Mahlzeit und starker Gewürze schweben von diesem siedenden Eintopf empor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>Auf diesem Schild steht "LAGER".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>Auf diesem Schild steht "SCHIESSPULVER".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>Das Heu riecht nach Urin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>Der Dampf, der von diesen Bottichen emporsteigt, strömt einen schwachen Geruch von Kupfer aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Eine Inschrift lautet: "Das Was Wächst Wird Gestärkt. Von Korallenmetz Torquo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>Diese Karte zeigt Schiffsrouten vom Todesfeuer nach Rauatai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>Eine Kopie des Tanvii ora Toha, des rauataianischen Buches der Tugenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>Diese grob behauene Statue ist im Laufe der Zeit gebrochen und abgewetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Die Augen dieser Statue scheinen dich zu verfolgen, wohin du dich auch wendest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Die Statue, die diesen kleinen Schrein schmückt, wurde abgestaubt und poliert, so dass sie nun glänzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Die Luft um die Koralle herum brummt vor lebenserhaltender Magie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Auf einer Tafel unter der Koralle steht: "Ein Stück von Rauataia für das Todesfeuer, gestiftet von Korallenmetz Rua. Der Ruhm ist unser, euer Ranga Nui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Du spürst eine leichte Brise, die durch den Riss in den Steinen darüber weht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Diese Wand ist mit tiefen Furchen übersät.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Angesichts der dicken Staubschicht auf diesen Steinplatten wurden sie in der letzten Zeit nicht genutzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>Das Wasser strudelt mit dem Gewimmel unzähliger kleiner Maden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Diese Statue von Woedica geht so weit in die Tiefe, dass du ihre Füße nicht sehen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>Bücher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>Auf einer winzigen Tafel steht: Horizont, schiffbrüchig unter dem Kommando von Kapitän Rakūa auf ihrer letzten Reise zum verlorenen Ukaizo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Im Wagen befinden sich nur wenige Kisten und verstreute Kleidungsstücke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Diese Karte scheint eine Art Bergbaubetrieb zu umreißen. Zahlen im nahen Buch scheinen auf Volumina zu verweisen, es ist jedoch nicht klar, um was genau es geht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Blutstreifen sind am Strick dieser Schlinge zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>Dieser Galgen ist mit Möwenkot übersät.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>Mannschaftsdienstpläne, Fahndungsplakate und verschiedene Karten hängen an dieser Hinweistafel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>Ratten huschen zwischen den weggeworfenen Fässern Grog hin und her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Kohlen knistern in diesem Ofen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Opfergaben für Skaen hängen an diesem Schrein herunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>Draußen kracht eine kalte und unbarmherzige See gegen die felsige Küste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>Der Generator brummt gelegentlich etwas heftig und du kannst im Inneren der Maschine das reibende Geräusch von Metall auf Metall hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>Durch die tanzenden Flammen hindurch sieht du etwas auf dem Altar liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Der hinter der Tür verstreute Sand dämpft alle Geräusche im Raum und verleiht ihnen eine seltsame, abgestumpfte Qualität.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>Die Türen sind durch den Sandberg versiegelt. Selbst Luft entweicht nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>Jede Insel in diesem Miniaturmodell wurde sorgfältig geformt und mit gebogenen Ringen versehen, die auf die Höhe hinweisen sollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Diese Schnitzerei von Ngati ist sehr detailliert, angefangen von den Schuppen an ihren Beinen bis hin zu den feinen Spitzen ihrer Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Wer auch immer hier war, wollte eine Tasse Tee trinken, hat sie aber halb voll zurückgelassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Diese Statue ist sehr detailliert, angefangen bei den Schnallen der Beinschienen des Kriegers bis hin zu seinen lockigen Haaren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>Diese Tür hat keinen Griff, den du siehst, noch weist sie eine Spalte auf, die man als Griff verwenden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Die Adrastücke in dieser Kiste sind verblasst. Jede Essenz, die sich in ihnen hätte befinden können, hat sich aufgelöst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>Die Wände hier sind nach innen eingestürzt und machen jedes weitere Vorankommen unmöglich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>Nāga-Nest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Markt von Port Maje</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Port Maje Handelsposten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>Weitgereister Händler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>Vorräte des Hafenmeisters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>Zwischen den Kissen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>Die Tür will sich nicht bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Die Gravur ehrt das Leben eines Helden aus alter Zeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>Abfall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>Der Gemeinschaftsraum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Bett</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>Jemand hat in mühevoller Kleinarbeit diese Schriftrollen mit arkanem Wissen mit Aussprachehilfen versehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>Gelegentlich platzt eine Schwefelblase an der Oberfläche dieses warmen Beckens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>Viele dieser abgenutzten Schriftrollen werden von Nähten zusammengehalten. Andere weisen Spuren von Kratzern auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Dünne Dampfstreifen steigen aus dem Schwefelbecken empor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>Die Augen der Statue scheinen dir zu folgen, als du im Raum umhergehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>Dieser Alkoven stinkt nach einem Destillationsexperiment, das leider nicht geklappt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>Heiße Luft wabert aus den Tiefen des Heiligtums nach oben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>Schweiß tropft von deiner Stirn als du näher an die glühende Schmiede herantrittst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>Jemand hat die Statue liebevoll mit duftenden Ölen eingerieben, die immer noch feucht sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>Die Luft fühlt sich um die geschnitzte Figur herum etwas wärmer an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>Diese Fische sind schon lange vertrocknet und haben ihren Geruch verloren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>Eine Mischung aus exotischen Düften befindet sich in den Tassen auf diesem Tisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Nussloser Ned Vorräte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>Die Werft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>Käfig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>Kissen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>Auf einer Tafel unter der Koralle steht: "So wie wir Korallen formen, werden wir Nationen formen. Der Sieg ist unser, euer Ranga Nui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>Die meisten Ankündigungen bieten Waren zum Handel an, obwohl du auch mindestens eine Rohskizze von jemandem siehst, der der Gouverneur sein könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>Der stinkende Geruch von verbrennendem Fleisch erfüllt die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>Wunder der Beseeler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>Waren und Anhänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>Seafols Waren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>Zamars Waren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>Kämmerchen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>Schädel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>Ausgestopfter Krake</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>Holztafel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>Jarrods Leiche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>Loses Bodenbrett</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>Ein salziger Wind bläst gegen das Fenster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>Farbige Stecknadeln markieren verschiedene Schiffsrouten und Hafen auf dieser Karte des Todesfeuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>Verstecktes Vorratslager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>Norgunds zum größten Teil legale Waren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>Meros Waren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>Marens Waren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>Das wurde aus Kaora-Schilf geflochten, einem widerstandsfähigen und doch flexiblen Material, das leicht nach Meersalz riecht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>Dieses zerbrochene Relief porträtiert das Symbol von Woedica, eine zerbrochene Krone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>Strohhaufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>Seltsames Ei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>'Nur die Mutigen, die Unbekümmerten und die Glücklichen werden sicher nach innen gelangen.'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>Der scharfe Geruch von Rückständen alchemischer Reagenzien brennt dir in der Nase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"Warnung – extreme Gefahr darin. Auf Befehl von Oderisi ist die Trainingshalle von jeglichen Erkundungsgängen ausgenommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>'Doro, der Unbekümmerte, hat sieben Bestien mit bloßen Händen besiegt.'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>Dieser Körper wurde seiner Essenz beraubt und ist nun nur noch kalte, leblose Asche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>'Lasst alle Meister Ixandros Ehre erweisen, da es ohne ihn keinen Ruhm geben würde.'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>Die Trainingspuppe ist schon lange aufgrund des Alters erstarrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>Diese Tür ist von der anderen Seite aus verriegelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>Diese Tür ist klemmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>Wagen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>Auf diesem Schild steht "WAFFENKAMMER".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>{ShipDuel_PlayerShip}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>Aussichtspunkt Küche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>Lindwurmei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>Fischhändler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>Die Klinge der Trainingspuppe ist von wiederholten Schlägen glückloser Trainierender völlig eingekerbt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>Der Tunnel fällt steil zum sumpfigen Wasser hinab. Man kann nicht feststellen, wie weit er in den Berg hineinführt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>Holzposten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>Die Tür ist versiegelt und es gibt scheinbar keine Möglichkeit, sie zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>Feuchte Bucht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>Der Bathyal-Fall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>Der Abgrund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>Aufstrebender Apotheker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>Emaitas Erfrischungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>Zelt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>Wasser, das durch diesen Zeitmesser fließt, hält seinen Mechanismus kontinuierlich in Bewegung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>Unas Luxusgüter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>Aufenthalt des Blinden Passagiers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>Fälschers Laune</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>Umkleidekabine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>Heißer Wind, der nach Erbrochenem und Schimmel riecht, strömt aus dem Loch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>Fleischstücke nicht identifizierbarer Herkunft liegen auf der Theke verstreut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>Das Loch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>Seelen-Fokussierer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>Behälter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>Etwas ist hinter die Tür gefallen und versperrt sie. Die Einwohner sind anscheinend geflohen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>Muhais Versteck</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>Verschiedene unfertige Briefe liegen auf dem Schreibtisch verstreut. Du siehst Fragmente einer langatmigen Entschuldigung, die größtenteils von verschütteter Tinte verdeckt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>Der Königssarg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>Strahlende Hofbar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>Allerlei des Strahlenden Hofes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>Die Schatztruhe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>Ramasos Warenhaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>Trotz ihres Aussehens scheinen diese Säcke 'leuchtender Adra' nur bunten Sand zu enthalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>Quartiermeister Sabormi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>Offizierslounge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>Gabels Waren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>Kapitänskajüte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>Offiziersquartier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>Ankerplatz der Seeleute</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>Die Bilgenpumpe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>Abenteuer-Vorräte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>Diese Türen sind fest verschlossen und du kannst keinen Mechanismus erkennen, mit dem man sie öffnen könnte. Sie müssen woanders geöffnet werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>Für den Ruhm von Rauatai und die Stärke des Ranga Nui, 2818 AI</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>Das Metall ist so glatt wie Marmor und wurde poliert, damit es glänzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>Die Kanone sieht aus, als wäre sie vor Kurzem poliert worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>Das Buch enthält Formeln für das korrekte Verhältnis von Schwefel, Kohle und Salpeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>Eine Partie Hazatōha ist gerade im Gang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>Die meisten dieser Papiere sind Briefe nach Hause. Fast alle loben das Wetter im Todesfeuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>Diese Gewehre sehen aus, als würden sie gut gewartet und jederzeit einsetzbar sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>Mit Essensresten befleckte Strichlisten stecken unter diesem Schlachtfeldmodell und deuten daraufhin, dass es Freizeitzwecken diente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>Auf den Tafeln findet sich die Geschichte von Kohopa und Tangaloa, die die Schöpfung zu Anbeginn der Zeit verschlangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>Jemand hat einen ernsthaft gemeinten, aber entsetzlichen Versuch epischer Dichtkunst gewagt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>Ein paar Bittergurkensamen stecken unter dem Kissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>Jemand namens "Peyro" verprügelt seinen Gegner in Hazatōha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>Die Mitteilung lautet: "Service reserviert für Offiziere der Königlichen Todesfeuer-Gesellschaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>Ladungslisten verraten, dass Salpeter aus Rauatai empfangen und rohe Lebensmittel dorthin zurückgeschickt wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>Die Erosion hat die bronzenen Züge weicher gemacht und der stolzen Statue etwas Brütendes verliehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>Was auch immer sich unter dieser Plane versteckt, stinkt nach Bronze-Poliermittel und Maschinenöl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>Das in dieser Kuppel eingelassene Glas ist sehr dick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>Regenwasser hat sich in diesen Bechern gesammelt, die wiederum das Schiff mit ihrem salzigen Geruch erfüllen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>Diese Kürasse wurden auf Einzelteile hin untersucht und geplündert. Diese in der Nähe liegenden Seiten sind mit gekritzelten Entwürfen für ein Steuer bedeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>Jede Klinge ist von Rost durchsetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>Lagerraum hinter den Kulissen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>Privates Tanzzimmer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>Konstantens Zimmer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>Readceranischer Händler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>Krummsporn-Sklavenhändler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>Safe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>Diese Papiere sind mit Figuren, Fetzen von Dichtkunst und Briefen nach Hause bedeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>Eine sorgfältig ausgewählte Selektion der edelsten Schnäpse Rauatais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>Die Rücken dieser Bücher sind gebrochen und ihre Seiten mit Eselsohren übersät.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>Tiefe Schnitte verunstalten die Rüstung und das Fleisch dieses Rathun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>Eine merkwürdig vielseitige Sammlung von Büchern zu Themen der Metallurgie bis hin zur Botanik.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>Nichts außer absolute Stille und der Gestank verfaulender Lebensmittelvorräte erhebt sich aus dem Lagerraum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>Die Tür bewegt sich rein gar nicht. Sie scheint von innen versperrt zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>Das Steuer des Schiffes dreht sich anstandslos. Es sieht so aus, als wäre das Ruder gebrochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>Ein paar lange verschmierte Aschestreifen dekorieren den Mast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>Der eingelegte Aal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>Der abgenutzte Anker bleibt erhoben. Dieses Schiff war vollkommen ziellos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>Seltsamerweise scheinen diese Balken nicht anderes als Holzblöcke zu sein, die mit Farbe bedeckt wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>Das Gemälde auf dem Pfeiler ähnelt dem Symbol, das von dem Bleiernen Schlüssel verwendet wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>In die Sturm hinabzusteigen wäre Selbstmord, so lange dieser unerbittliche Sturm tobt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>Die Klingen dieser Waffen haben sich nach dieser langen Zeit, während der sie der Hitze des Lavas ausgesetzt waren, verbogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>Dieser im Tod feuerlose Körper des Kriegers wird auf zeremonielle Art und Weise für die Einäscherung vorbereitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>Ranzige Luft strömt aus diesem Abzugsschacht hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>Das Holz dieser Stützpfeiler riecht immer noch frisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>Diese Kanonenkugeln sind effizient angeordnet und liegen bereit, um abgefeuert zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>Diese Marmorstatue scheint eine Kopie eines berühmten Groß-Vailianischen Werkes 'Ducala Sérre' zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>Nicht ein Körnchen Staub ruht auf den Möbeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>Blut und blutbefleckte Haare überziehen den Innenraum dieser eisernen Jungfrau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>Blut gerinnt in diesen tiefen Schnitten, die diese Holzbretter übersäen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>Der Strohhaufen stinkt nach Urin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>Zersplittertes Brett</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>Das Wasser fließt sauber und rein/</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>Die Spinnweben kleben hartnäckig an deinen Fingern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>Diese Knochen wurden sauber abgenagt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>Dieses Spielbrett ist durch häufigen Gebrauch abgewetzt und verkratzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>Die Fische an diesen Ständern sind größer gewachsen als es ihre Spezies normalerweise tut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>An diesem riesigen Schwertfisch könnte sich ganz Sayuka mindestens eine Woche lang satt essen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>Diese Kisten laufen vor privaten Besitztümern über, die nicht mehr in das Langhaus passten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>Diese fast identischen Betten sind gut gebaut, bieten aber nur wenig Privatsphäre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>Das Steingesicht ist still, auch wenn du das Gefühl nicht loswirst, dass man dich beobachtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>Krakengrube</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>Nussschalen liegen inmitten der Asche zu Fuß dieses warmen Feuers verstreut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>Osas berühmter Fisch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>Waffen und Rüstungen am Hafen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>Reberos edle Moden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>Tamas Merkwürdigkeiten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>Diese Ecke der Galerie hat einen stechenden Geruch. Auf der Plakette steht: "Koīki-Tal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>Die Wasseroberfläche kräuselt sich ein wenig. Alle paar Sekunden steckt ein Bär seinen Kopf zwischen den Bäumen hervor. Auf der Plakette steht: "Frieden in der Vergessenheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>Ein ungewöhnliches Gewächs bedeckt den Boden der Höhle. Kleine Fackeln erhellen entfernt liegende Tunnel. Auf der Plakette steht: "Vithrack Werben-Nest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>Ein Steinturm erhebt sich im Wald. Auf dem oberen Balkon läuft ein junges Mädchen nach innen, als sie dich sieht. Plakette ist keine vorhanden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>Winzige Imps tauchen und segeln zwischen giftigen Wolken und Felszungen. Auf der Plakette steht: "Paradies für die Verdorbenen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>Der Wachposten scheint zu schlafen. Auf der Plakette steht: "Die Schwierigkeit, gutes Personal zu finden, oder warum ich in Konstrukte investierte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>Einfache Schilfrohrmatte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>Von einem Loch in der Steinmauer ist ein Kettenmechanismus mit dem Schloss dieses Tores verbunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>Das Leuchtende Badehaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>... füllen sich ihre Augen mit Tränen, unaufhörlich wie Regen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>Aber der Mond setzt seine Reise himmelwärts rasch fort ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>... die Gefühle der Liebenden so flüchtig wie die Berührung zweier Finger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>Erbarmen sei mit Ngati, Dame der Wehklage.
+So wie die perlenartige Himmelskugel sich ihrer Sicht erschließt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>Salziger Sams Vorräte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>Der Dunkle Schrank</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>Diese Ranken bilden die Vorhut der Bemühungen des Dschungels, sich diesen Tempel zurückzuholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>Das von oben herabtropfende Wasser schmeckt nach kaltem Stein und Moos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>Huana Reisfarm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>Schüssel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>Die Keramikschüsseln und Teller im Schrank haben alle eine dünne Staubschicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>Entweder die früheren Bewohner oder Plünderer haben die meisten Dinge aus dem Haus mitgenommen. Ein paar wenige Müllreste schwimmen auf dem dunklen Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>Fischerhütte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>Vailianische Mühle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>Schmortopf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>Die Inschrift auf diesem Banner lautet: "VON DEN KERKERN FERNHALTEN."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>Die dicken Seile, die dieses Tor heben, können mit der Winde auf der Befestigungsmauer des Forts hochgezogen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>Das Wandbild ist ziemlich verblasst, aber du kannst eindeutig die Silhouette von Thaos ix Arkannon erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>Das Wappen der Bardatto-Familie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>Einige anzügliche Darstellungen wurden in die Statue geritzt. Einige sind recht gut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>Wenn man den Etiketten auf den Flaschen glauben darf, können diese Tränke so ziemlich alles heilen, vom Skorbut bis zum Tod selbst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>Das Regal enthält aktuelle Navigationskarten und Bestiarien über diverse Seemonster, denen ein Kapitän begegnen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>Die Wand ist übersät mit Kerben und Schrammen von zahllosen Messerwürfen, die ihr Ziel vollkommen verfehlt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>Auch wenn es an den Rändern ein wenig ausgefranst ist, wurde das Segeltuch regelmäßig gereinigt und gepflegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>Die Decke ist mit etwas verschmiert, von dem du hoffst, dass es getrocknetes Bier ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>Die Kabine ist bequem und ruhig gelegen – perfekt für diskrete Geschäfte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>Die künstlerische Qualität der Bühnenkulisse ist mit 'enthusiastisch' am besten beschrieben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>Ölgemälde – perfekt für den Kapitän mit einer trostlosen Kabine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>Dies vergoldete Rüstung ist eher etwas für zeremonielle Auftritte und für Kämpfe ungeeignet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>Huana Koīki-Farm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>Knochenhaufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>Tränke und Vorräte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>Vogelkot verkrustet die Gitterstäbe dieses Käfigs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>Rost und Blut tauchen diesen Eisenkäfig in Ockerfarben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>Windstöße kommen von unten hoch und riechen nach Leuchtfeuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>Dick wie Teer klebt eine Substanz an den Rändern dieser massiven Erdhöhle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>Knollige Pilzkolonien weichen die harschen Charakterzüge dieses antiken Aumauaner-Königs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>Eretis Haustiere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>Auf einer winzigen Gravur steht: In Erinnerung an Dūmu, Tapua und Tokima – Ngatis erste Auserwählte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>Eine Inschrift im Zauberbuch lautet: "Kalakoths versteinernde Tinte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>Die Statue strahlt Hitze in glühend heißen Wellen aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>Das Gemälde auf dem Pfeiler ähnelt dem Symbol, das vom Bleiernen Schlüssel verwendet wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>Krummsporn Waren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>Caed Nua Kiste</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>Dieser Trümmerhaufen brummt vor antiker Kraft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>Ein schwaches Echo von einer Seelenenergie dringt aus den Tiefen des Wracks zu dir nach oben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>Das Wort "Ukaizo" wurde an vielen Stellen auf diesem Globus geschrieben und wieder ausgestrichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>Giacolo</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

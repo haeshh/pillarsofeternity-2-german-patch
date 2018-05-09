@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_tekehu_black_market</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>80</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Wächter. Ich beabsichtige es nicht, mit leeren Händen zum Prinzen zurückzukehren. Was brauchst du?"</DefaultText>
+      <FemaleText>"Wächterin. Ich beabsichtige nicht, mit leeren Händen zum Prinzen zurückzukehren. Was brauchst du?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich habe noch andere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Lass uns hier verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Das ist der Schlund? Ich wusste nicht ..." Tekēhu blickt mit einem angewiderten Ausdruck um sich herum. Er hebt einen Arm, um seine Nase und seinen Mund zu verdecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Die Königin nennt das hier Rationen? Erwartet sie, dass sich die Roparu von Abfall ernähren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Die Roparu geben ihren Kindern von diesem Stapel zu essen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Unglaublich ... dass sie so viel unter der Stadt verstecken konnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Mistkerle! Alles zunichte zu machen, was wir Seite an Seite gelernt haben ..." Tekēhu drückt seine Augen fest zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Was könnte er für ein Verbrechen begangen haben, um so ein Schicksal zu verdienen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Eine Stadt unter der Stadt unter der Stadt. Jede Schicht von Neketaka ist ... übelriechender als die Letzte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Dachtest du, dieser Ort wäre in einem besseren Zustand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich habe schon Schlimmeres gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ich dachte, die Roparu hätten einen Teil der Stadt für sich. Das hier ist eine Latrine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Wurdest du in einem Haufen deiner eigenen Exkremente lebendig begraben? Nein, antworte nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Die Mataru sollen eigentlich die weiter unten versorgen. Das hier sieht für mich nicht wie Versorgen aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Lass uns ... lass uns einfach weitergehen." Er deutet nach vorne, doch seine Hand zittert so sehr, dass er sie mit der anderen unterstützen muss.
+
+Tekēhu wendet den Blick zum Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Die Zeiten sind schwer, schätze ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Du bist eindeutig verärgert. Lass uns einfach weitergehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Das würdest du nicht von den gehobenen Vierteln der Stadt erwarten, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Tekēhu schluckt und richtet seinen Blick vom Haufen weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Die Tode dieser Schüler schadet der Gilde, aber nicht mehr, als ihr Verrat es tut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Wie passt du in den Plan des Prinzen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Sag mir nochmal, wie du in den Plan des Prinzen verwickelt wurdest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Was auch immer im Schlund vor sich gehen mag, ich glaube, dass Wasserformer im Zentrum der Sache stehen." Er wendet sich angeekelt ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Aruihi hätte dir nicht nicht die ganze Geschichte erzählt. Das hat einen guten Grund."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ich erkläre es dir. Wenn Wasserformer nicht ihren Pflichten nachkommen, werden sie in die Stadt entsandt."
+
+Tekēhu spuckt auf seine Handfläche. Er konzentriert sich, und die kleine Spuckepfütze erhebt sich und formt sich zu einem Turm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Eines Abends habe ich mich herausgeschlichen und bin einer Gruppe von Formern gefolgt. Ich erwartete, dass sie zur Schlangenkrone gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Zu meiner Überraschung gingen sie zum Schlund."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Warum war das so eine Überraschung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Denkst du, sie führten etwas Illegales im Schilde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Zurück zu meinen anderen Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Es gibt keine Wasserskulpturen im Roparu-Bezirk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Die Krone prahlt nur dort mit ihrer Macht, wo sie damit Fremde beeindrucken kann." Er streicht seine Haare zurück und seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Wie du wünschst." Tekēhu nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ich hatte gedacht, dass ich eine Art ... versteckten Charme entdecken würde, wenn ich nur genug Zeit im Schlund verbringe. Ich warte immer noch darauf." Tekēhu nickt dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Zumindest eine bessere Klasse von Fremden als die Gattung, die den Schlund aufsucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Es ist uns nicht verboten, den Schlund zu betreten, aber es wird einfach nicht gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Ich folgte einer Gruppe aus Wasserformern in den Schlund – wo kein anständiges Mitglied der Gilde etwas zu suchen hat." Tekēhu verschränkt die Arme und schürzt die Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Wasserformer, die den Príncipi helfen ... sie bringen die Ladung mit der Grazie von betrunkenen Ochsen ein!" Tekēhu atmet schnappend ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ich habe noch NIE einen so würdelosen Gebrauch von unserem Talent gesehen! Haben wir alle unsere von Ngati geschenkten Talente verfeinert, um die Drecksarbeit zu erledigen?"
+
+Tekēhu ballt die Fäuste und zittert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Dich interessiert nicht, was sie tun, nur wie sie es tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Wir können später meinen emotionalen Zustand besprechen. Diese Vorführung hat mich bis ins Mark gekränkt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Sie helfen den Roparu. Das hat seinen Wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Es gibt einen Grund, warum das im Geheimen gemacht wird! Es ist ungehörig, ein Verrat unserer Kunst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Der Prinz wird davon wissen wollen, aber ..." Tekēhu verstummt plötzlich, als ein alarmierter Ausdruck sich auf sein Gesicht legt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ist dir etwas eingefallen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Ich frage mich gerade, ob die Krone überhaupt die Wahrheit über die Graberstraße erfahren muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Der Prinz muss es erfahren. Die Graberstraße darf nicht außerhalb der Zuständigkeit der Krone florieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Die Roparu werden uns dafür nicht danken. Aber sie haben die Krone nun einmal in eine unmögliche Lage gebracht." Ängstlich streicht Tekēhu seine Haare zurück, dann lässt er die Hände wieder fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ich werde es dem Prinzen nicht sagen. Die Graberstraße tut mehr Gutes als Schlechtes. Zum Wohl der Roparu sollten wir sie weiterbestehen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Bist du auf die potenziellen Folgen vorbereitet, Tekēhu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Ekera. Seit dem Moment meiner ersten Vorahnung wusste ich, dass etwas nicht stimmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ich werde dem Prinzen erzählen, was wir hier gesehen haben, aber ich werde ihn umzustimmen versuchen, damit er die Graberstraße nicht antastet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Ich werde darüber nachdenken müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Es ist keine einfache Frage und auf sie gibt es keine einfachen Antworten." Tekēhu reibt sich die Stirn mit beiden Händen und seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Lass uns hier verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Wächter, ich ..." Tekēhu zögert und sucht nach dem richtigen Wort.</DefaultText>
+      <FemaleText>"Wächterin, ich ..." Tekēhu zögert und sucht nach dem richtigen Wort.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Dieses Straßengewirr bringt Handel und Geschäfte in den Schlund. Ohne diese Dinge würden die Roparu ins Elend gestürzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Wir sollten den Prinzen den Rest handhaben lassen und uns nicht weiter darin einmischen." 
+
+Er zeigt diskret mit der Hand auf den Ausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Wenn wir diesen Ort retten wollen, dann sollten wir besser gehen, bevor wir zu viele Risiken eingehen. Unsere Anwesenheit wird nicht freundlich angenommen werden." Er zeigt mit der Hand auf den Ausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Ich bin mehr als erleichtert, in der Begleitung eines anderen Außenseiters zu sein." Er grinst, während ein Teil der Anspannung von seinen Schultern abfällt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Ekera, lass uns hoffen, dass der Prinz so scharfsinnig wie seine Schwester ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Lass uns weiterziehen. Ich würde gerne hellere Sachen sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Wenn sie das Gesetz der Krone gebrochen haben, dann würde ich gerne genau wissen, wie und warum." Er verschränkt die Arme und blickt launisch irgendwo anders hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Es sei denn, du gehörst zu Ngatis Auserwählten. Mairu hält sie an der kurzen Leine."
+
+Er schließt seine Hand zu seiner Faust und der Turm stürzt ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Neketakas große Skulpturen brauchen etwas Zuwendung, um in Form zu bleiben."
+
+Er streift seine andere Hand über die Miniatur, schärft ihre Kanten und fügt Details hinzu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Selbst das helle Neketaka hat seine Schatten, falls du es noch nicht bemerkt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Gibt es eine Antwort, die dir gefallen würde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Ekera, die gibt es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Es sei denn, du gehörst zu Ngatis Auserwählten. Mairu hat sie an der kurzen Leine gehalten."
+
+Er schließt seine Hand zu seiner Faust und der Turm stürzt ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Lass uns hier verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>[Ihn an der Hand nehmen.] "Es wird alles gut. Ich bin ja da."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>[Vorgeben, es nicht gesehen zu haben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Hat dir die Tatsache, dass dieser Ort "Der Schlund" genannt wird, nicht bereits alles verraten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Stopp, sage ich! Jetzt ist nicht der richtige Zeitpunkt für Scherze!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Kapitän, ich ... danke dir." Das habe ich gebraucht." Gemeinsam schreitet ihr voran. Tekēhus Griff wird fester.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Du hast recht. Es ist furchtbar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Ukaizo ... der Ursprung aller Huana. Ich sage, es fühlt sich so nah an, als könnte man es berühren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Ekera, was sagst du?" Tekēhu verschränkt die Arme und gibt dir mit einer Geste zu verstehen, dass du fortfahren sollst.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

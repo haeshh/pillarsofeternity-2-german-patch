@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_captain_tatzatl</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>131</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Nikze. Ich bin Tatzatl, Kapitän der Göttlichen Barge. Was hat dich zu diesem Ort geführt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Nilkzenze. Deine Anwesenheit ehrt uns, Kapitän &lt;playername&gt;. Was führt dich zu diesem Ort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wir sind wegen dem entführten Beseeler hier, Giacolo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Pallegina anschauen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Angreifen] [Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wir haben uns im Wald verirrt. Du wirst uns hinausführen indem du die Verzweigenden Wege von Atleha bereist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Du bist der Wegmeister und ich bin der Reisende?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"... Was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Die Augen zusammenkneifen und überzeugt nicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ein Wald wird durch seine Grenzen definiert. Es gibt eine begrenzte Anzahl von Wegen durch den Wald, so wie es auch eine begrenzte Anzahl von Wegen gibt, wie das hier ausgehen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich kenne die Wege, die aus dem Wald herausführen, aber du wirst die Wege wählen, die wir einschlagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Also gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wenn du das sagst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Angreifen] "Ich wähle den Weg ... des Todes!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Eine Frau erwartet ein Kind und erfährt, dass das Kind sehr leiden und nur ein kurzes Leben haben wird, wenn sie es zur Welt bringt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Wenn sie das Leben dieses Kindes beendet, bevor es beginnt, ist dies gut oder schlecht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich sah genug davon, während des Vermächtnisses. "Die Antwort ist ganz einfach.
+
+"Als sie es vorzeitig beendet haben, war das jenseits von schlecht. Und als sie nicht taten ... war es das Gleiche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich kenne mich bei anderen Göttern nicht aus, aber ich glaube nicht, dass Hylea wollte, dass irgendein Kind leiden muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich denke, es ist ... hmm." Pallegina zögert und verstummt. Sie sieht dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Warum nennst du das Wort der Mutter 'gut' oder 'schlecht'? Es ist einfach." Tekēhu schaut verblüfft in deine Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Es ist schlecht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich denke, das Ganze ist komplizierter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Das ist es, aber ich bin der Wegmeister und du bist der Reisende. Ich entscheide, welche Wege existieren und du entscheidest, welche du einschlägst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Du entdeckst eine mächtige neue Technologie, aber du fürchtest, dass manche Leute sie für böse Zwecke missbrauchen könnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Würdest du die Technologie zerstören, den Zugang zu ihr regulieren, oder sie für alle gleichermaßen zugänglich machen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Es gibt stets ein Potenzial für Missbrauch, aber wir können die Leute nicht regieren, indem wir ihnen ihre Entscheidungsfreiheit nehmen. "Wir müssen darauf vertrauen, dass Vernunft und Mäßigung die Oberhand gewinnen werden." Er nickt und sieht dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Es sollte doch sicherlich nicht &lt;i&gt;zerstört&lt;/i&gt; werden. Es wäre nur eine Frage der Zeit, bis jemand anderes dieselbe Entdeckung macht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich mache sie für alle verfügbar, ohne Einschränkungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich denke, sie sollte reguliert werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich würde kein Risiko eingehen. Ich würde sie zerstören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ein Feind von dir wird verfolgt. Die Gründe dafür sind nach deinem eigenen Ermessen ungerecht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich lasse zu, dass die Verfolgung weitergeht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich würde die Verfolgung beenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Würdest du zulassen, dass die Verfolgung weitergeht, oder würdest eingreifen und sie beenden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Du erfährst, dass eine Person, die vielen Leuten viel Gutes tut, unbeabsichtigt auch vielen Leuten Leid zufügen wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Dieses Leid &lt;i&gt;könnte&lt;/i&gt; nur gering sein, aber auch so groß, dass es die guten Taten vollkommen in den Schatten stellt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Du hast die Möglichkeit, dies verhindern, indem du diese Person tötest. Tust du es?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich würde diese Person nicht töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Es muss eine andere Möglichkeit geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"In einer anderen Welt, die ich nicht beschrieben habe, vielleicht. Aber dies sind die Verzweigenden Wege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Angreifen] "Das wird langsam langweilig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Also gut."
+
+Er macht einen vierten Strich auf die Tafel, nimmt sie dann in beide Hände und zählt die Striche ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Der Kapitän holt eine kleine Wachstafel und einen schlichten Metallstift hervor. Er kratzt ein paar Worte in die Tafel und hält den Stift darüber, bevor er dich ansieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Als einzige Reaktion macht er einen kleine Strich auf seiner Wachstafel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Er nickt und macht noch einen kleinen Strich auf der Wachstafel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Er blickt auf die Wachstafel und macht einen dritten Strich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Bei deiner Antwort bemerkst du, wie sich die Anspannung in Giacolos Blick etwas löst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Selbst auf diese Entfernung kannst du sehen, wie Giacolo bei deiner Antwort die Augen weitet und die Lippen zusammenpresst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Giacolos Schultern entspannen sich und atmet leise durch. Er fängt sich aber noch schnell, bevor der Kapitän es bemerkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Giacolo schluckt und hustet. Er blickt nervös auf die Wachstafel des Kapitän.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Dein Weg hat zu folgendem Ergebnis geführt. Giacolo wird getötet und seine Forschung zerstört werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Dein Weg hat zu folgendem Ergebnis geführt. Wir werden Giacolo freilassen, aber seine Forschung muss zerstört werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Dein Weg hat zu folgendem Ergebnis geführt. Wir werden Giacolo und seine Forschung freilassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Und wenn er diese Forschungen weiterführt, werden wir ihn verfolgen und ihn und alle anderen, die daran beteiligt sind, töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Cuè?! Was ist das? Du hast nicht einmal erklärt, was er getan hat!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Mit welcher Begründung? Du hast nicht einmal erklärt, was er getan hat!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Cuè? Was war der Zweck, ihn überhaupt zu entführen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Giacolo hat eine Methode entdeckt, mit der man den Fetus eines Gottgleichen im Mutterleib erkennen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Tatzatls Worte hängen in der Luft. Der Kapitän wartet auf Palleginas Reaktion, aber sie bleibt still. Sie beißt die Zähne zusammen und nickt Tatzatl zu, dass er fortfahren soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Im Todesfeuer-Archipel betrachten Eltern ein gottgleiches Kind als Segen. Von Berath und Hylea bis zu Ondra und Galawain werden sie alle geliebt – außer jene von Skaen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Bei der Geburt erscheinen viele Skaen-Gottgleiche verstümmelt und werden mit der stillschweigenden Zustimmung des Stammes getötet. Jene, die nicht getötet werden, führen ein elendiges Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Das ist ja furchtbar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Wissentlich herumschauen] "Na ja, man kann es den Eltern nicht übelnehmen, oder? Von einem Skaen-Gottgleichen kann nichts Gutes kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Das ist barmherzig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ich stimme zu und meine Mannschaft auch. Deswegen entschieden wir uns, Giacolo hierher zu bringen, um zu entscheiden, was mit ihm geschehen soll ... und mit seiner Forschung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Kapitän Tatzatls Gesicht bleibt ausdruckslos, aber die Männer und Frauen im Raum sehen sich angewidert an. Ein paar von ihnen legen ihre Hände auf ihre Waffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Das habt ihr vom Kapitän Wächter wohl nicht erwartet, angesichts von den Hörnern und all dem." Serafen schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ich bin sicher, dass es eine schwere Entscheidung für viele Eltern ist, aber die Tatsache bleibt, dass sie den Kindern das Leben nehmen wegen etwas, das nicht ihre Schuld ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ich verstehe das Argument, aber wenn ich das akzeptiere, dann müsste ich auch eine Welt akzeptieren, in der Aberglaube, Hass und Völkermord mit einem Schulterzucken hingenommen werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Das akzeptiere ich nicht. Das akzeptieren &lt;i&gt;wir&lt;/i&gt; nicht."
+
+Tatzatl deutet auf seine versammelte Mannschaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Das akzeptiere ich nicht. Das akzeptieren wir nicht."
+
+Tatzatl deutet auf seine versammelte Mannschaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Deswegen haben wir Giacolo gefangen und hierher gebracht, um zu entscheiden, was mit ihm geschehen soll ... und mit seiner Forschung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Und jetzt werdet ihr ihn wegen den Antworten des Wächters auf deine dummen Fragen töten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Und nach all dem werdet ihr ihn freilassen und seine Forschung zerstören, nur wegen den Antworten des Wächters auf deine dummen Fragen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Und nach all dem werdet ihr ihn freilassen, einfach nur wegen den Antworten des Wächters auf deine dummen Fragen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Das darfst du ruhig etwas näher erklären."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ich muss sagen, das ist schon ein armseliger Weg, um zwischen Leben und Tod zu entscheiden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Unsere Gruppe war zwiegespalten, also stellte ich dir eine Reihe hypothetischer Fragen zum spezifischen Kontext unseres Problems."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Angreifen.] "Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Vielleicht hast du während der Befragung ein wenig von den Zusammenhängen geahnt, aber es war eine vorurteilsfreiere Entscheidung, als wir sie alleine hätten fällen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Für uns geht es hier schließlich um Leben und Tod."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Es gibt vielleicht bessere Möglichkeiten, diese Angelegenheit zu klären, aber dies war der beste Ansatz, der mir eingefallen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Und nun, wenn du uns bitte entschuldigst, müssen wir die Sache erledigen. Du hast mein Wort, dass es schnell sein wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Und nun, wenn du uns entschuldigst, darfst du Mestre Giacolo mitnehmen. Wir werden die Forschung zerstören. Und denke an meine Warnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Mestre Giacolo und seine Forschung können gehen. Und nun, wenn du uns entschuldigst, müssen wir uns auf unsere nächste Reise vorbereiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Solltest du diese Forschung fortsetzen, werden wir dich finden und dich und alle, die dir helfen, töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Pallegina blickt dich panisch und mit großen Augen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Angreifen] [Nicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Den Kopf schütteln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Angreifen] [Zurückziehen auf Giacolo wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ich kann das nicht versprechen, Kapitän. Per med canc suolias!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Pallegina mahlt mit dem Kiefer und verzieht höhnisch das Gesicht, bevor sie sich Tatzatl zuwendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Bevor Tatzatl und seine Mannschaft reagieren können, wird Giacolo von deinem Zauber bedeckt. Kapitän Tatzatl wendet sich zu dir und zum ersten Mal seit deiner Ankunft zeigt sich eine Emotion in seinem Gesicht. Verärgerung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Clever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Pallegina schaut dich an und zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Wie du willst. Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Angreifen] "Nicht so schnell. Ihr müsst dafür büßen, dass ihr Giacolo entführt habt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Na schön. Wir nehmen, was wir kriegen können. Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Mach, was du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Cuè?! Nein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Pallegina sieht dich an, wütend, aber hin- und hergerissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Wenn Giacolo diese Entdeckung gemacht hat, dann ist es nur eine Frage der Zeit, bis es jemand anderes ebenfalls entdeckt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Angreifen] "Wir nehmen Giacolo &lt;i&gt;und&lt;/i&gt; die Forschung mit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ich hatte befürchtet, dass du das sagen würdest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Höchstwahrscheinlich, ja. Aber wer weiß schon, wie lang das dauern wird? Und wie sehr sich diese Gesellschaften bis dahin geändert haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Lügen] "Es gibt bereits eine Beseelerin in Ixamitl namens Heichali, die kurz davor steht, dieselben Entdeckungen zu machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Du weißt, dass Giacolo ein guter Mann ist, der viel getan hat, um Gottgleichen zu helfen. Wer weißt, ob der nächste Beseeler das ebenfalls sein wird?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Tatzatl hält inne und denkt über deine Worte nach. Er blickt auf seine Mannschaft, die genauso hin- und hergerissen zu sein scheint wie er, und dann auf Giacolo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Giacolo, wenn wir dich mit deiner Forschung gehen lassen, dann musst du dir bewusst sein, dass wir dich für alles verantwortlich machen, was mit dieser Forschung getan wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Wenn das nicht genug ist, dass lass dich von deinem Gewissen leiten. Du hast dein Leben gewidmet, unseresgleichen zu helfen. Lass nicht zu, dass Fanatiker deine Arbeit gegen uns einsetzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Giacolo nickt Tatzatl wortlos rasch zu. Er blinzelt und schluckt so schnell, dass er aussieht, als würde er gleich in Ohnmacht fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Sag, dass du verstanden hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Ac. Ich habe verstanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Gut." Der Kapitän wendet sich vom stotternden Beseeler wieder zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Dann werden wir sie bald besuchen. Da sie eine Angehörige meiner Nation ist, wird sie wahrscheinlich schnell einsehen, dass sie diese Forschung in Zukunft unterlassen sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Giacolos Mundwinkel verziehen sich zu einem schwachen Lächeln und er entspannt seinen Körper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Giacolo schwitzt heftig und versucht, seine Stirn mit seinem Ärmel abzuwischen, aber einer von Tatzatls Piraten packt den Arm des schwächlichen Beseelers und zieht ihn nach unten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ganz genau. Ich sehe, du bist bewandert in den philosophischen Traditionen meines Volkes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Sie tritt vor. "Ihr habt den Beseeler Giacolo entführt, einen hochgeschätzten Bürger der Vailianischen Republiken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Als Vertreterin der Bruderschaft bin ich hier, um seine sichere Freilassung zu verhandeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Er steht unter dem Schutz der Ducs Bels und Panits und durch sie auch der Frermàs mes Canc Suolias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Wenn Giacolo nicht wohlbehalten zu uns zurückkehrt, wird jeder, der an seiner Entführung beteiligt war, den Zorn der Fünf Sonnen zu spüren bekommen. Das schwöre ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Tatzatl nickt. "Ich verstehe. Wir selbst haben lange debattiert, was wir mit Giacolo machen sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Giacolo steht hinten im Raum und betrachtet dich nervös. Obwohl er unversehrt scheint, zuckt er bei jeder Bewegung der Piraten zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Tatzatl blickt auf die Decke, scheinbar in Gedanken versunken. Er seufzt tief und schließt unangenehm lange die Augen. Endlich senkt er den Kopf und nickt entschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Wenn es zum Guten eingesetzt werden kann, dann ist es sicherlich besser, es einer verantwortungsvollen Autorität anzuvertrauen." Er blickt dich fragend an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Große Klasse, Kapitän Wächter. Schade, dass bei deiner Geburt niemand da war, um dich zu ertränken." Serafen macht ein finsteres Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

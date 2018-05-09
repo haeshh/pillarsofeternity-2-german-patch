@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_08_post_sabotage_reaction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Jetzt hast du es geschafft. Glaubst du, sie bemerken das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich sage, wir bringen die Faust der Götter auf unsere Feinde nieder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich schlage vor, dass wir &lt;i&gt;nicht&lt;/i&gt; so bald dorthin zurückkehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Das versetzt mich zurück in meine Kindheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Merla, ich hätte nicht gedacht, dass die Explosion &lt;i&gt;so&lt;/i&gt; gewaltig sein würde!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Bei Magrans flammenden Titten, Käpt'n! Etwas so Irres haben wir auf der Zauberer nie getan! Da wird ja der verfickte Fisch in der Pfanne verrückt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Die Götter scheinen dich tatsächlich zu lieben, Wächter. Ich habe noch nie einen Mann getroffen, der so viel Glück hatte!"</DefaultText>
+      <FemaleText>"Die Götter scheinen dich tatsächlich zu lieben, Wächterin. Ich habe noch nie eine Frau getroffen, die so viel Glück hatte!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

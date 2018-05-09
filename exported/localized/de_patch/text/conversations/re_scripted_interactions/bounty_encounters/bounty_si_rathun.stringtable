@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\bounty encounters\bounty_si_rathun</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein Gestank wie bündelweise verbrannte Haare hängt über der Wüste. Dann siehst du Gestalten, die einen Hügel erklimmen, riesengroß und mit Flammen strotzend. Es ist ein Überfallkommando der Rathun. 
+
+Das Gemurmel, das der Wind zu dir trägt, prahlt von einem erfolgreichen Überfall - einer von vielen in der jüngsten Vergangenheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ihr Anführer passt zu der Beschreibung von Jarlseggr Brant, einem Fanatiker, der Handelsschiffe mit Gestandenen angreift. Auf ihn ist ein fettes Kopfgeld ausgesetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

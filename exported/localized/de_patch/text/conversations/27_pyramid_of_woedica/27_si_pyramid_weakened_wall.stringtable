@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\27_pyramid_of_woedica\27_si_pyramid_weakened_wall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Lauf der Zeit hat diesen Abschnitt der Wand ziemlich geschwächt. Du spürst eine leichte Brise, die durch die Risse im Stein weht. Du vermutest, dass die Wand mit ein bisschen Kraft zum Einsturz gebracht werden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Versuchen, die Wand niederzureißen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0] nimmt Anlauf und wirft sich gegen die Wand, die daraufhin in viele kleine Teile zerfällt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Die Wand mit einer Granate bombardieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Specified 0] schmeißt sich gegen die Wand, die sich aber nicht bewegt. [Specified 0] taumelt zurück und zieht vor Schmerz eine Grimasse.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Die Wand mit einer Erschütterungsbombe sprengen.] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Ein Brecheisen benutzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du versuchst, Kraft auf das Brecheisen auszuüben und die Wand beginnt zu zittern. Wenn du so weitermachst, gibt es keine Möglichkeit, das Weite zu suchen, bevor die Wand auf dich fällt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Weiter daran ziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Aufhören, das Brecheisen zu verwenden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du trittst von der Wand zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du schaffst es, die Wand einzureißen... aber sie begräbt dich unter sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

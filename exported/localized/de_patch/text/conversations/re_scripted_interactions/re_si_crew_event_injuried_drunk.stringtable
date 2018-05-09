@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_injuried_drunk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du stehst auf dem Heckkastell und blickst über das Deck der [Player Ship] und hinaus auf das Meer, als sich [Specified 1] nähert. 
+
+"Wir haben ein Problem, Kapitän. [Specified 0] hat sich wegen der Verwundung zusätzliche Rationen Grog genommen. Die gesamte Mannschaft weiß Bescheid und niemand ist sonderlich glücklich darüber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wenn [Specified 0] zusätzlichen Grog bekommen hat, steht das auch dem Rest der Mannschaft zu. Siehe zu, dass alle Extrarationen bekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"[Specified 0] hat Schmerzen. Sag den anderen, dass es keinen Grund zum Neid gibt. Wenn sie sich solche Wunden zuziehen, bekommen sie ebenfalls eine Extraration."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Schleppe [Specified 0] an Deck. Ein Peitschenhieb für jedes gestohlene Getränk scheint angemessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Zusammen mit den Grogvorräten schwindet auch jede Hoffnung auf Ruhe, während die Mannschaft immer ausgelassener feiert. Sie genießen die Fete in vollen Zügen und am nächsten Morgen ist jede Feindseligkeit gegenüber [Specified 0] vergessen.
+
+Manche von ihnen können sich überhaupt nur mehr an wenig erinnern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Spannungen köcheln, während die [Player Ship] ihre Fahrt fortsetzt.
+
+[Specified 0] bleibt unter Deck, meidet die anderen und betet für eine schnellere Genesung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 1] schleppt [Specified 0] an Deck.  Vor den Augen der Mannschaft wird [Specified 0] an den Mast gefesselt. Du schaust von oben zu, wie [Specified 0] ausgepeitscht wird. Jeder Hieb fügt den alten Wunden neue hinzu. 
+
+Ein paar der Mannschaftsmitglieder zucken während der qualvollen Bestrafung zusammen, doch als es vorbei ist, widmen sie sich mit leiser Zufriedenheit wieder ihren Aufgaben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"[Specified 0] wird über Bord geworfen. Auf meinem Schiff dulde ich keinen Diebstahl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 1] ruft die Mannschaft zum Hauptdeck, um zuzusehen, wie die anderen [Specified 0] an einem Seil an die Reling binden und den schreienden, verwundeten Seemann dann über Bord werfen.
+
+Den Schreien nach zu schließen überlebt es [Specified 0] einige Stunden, hinter der [Player Ship] hergeschleppt zu werden. Der Rest der Mannschaft ist kreidebleich vor Schrecken und hat Mühe, sich auf seine Arbeit zu konzentrieren.
+
+Als die Schreie endlich aufhören, kappt [Specified 1] das Seil und überlässt [Specified 0] der See.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 1] blinzelt zweimal und lächelt dann langsam. "Aye, Kapitän. Ich sage ihnen, sie sollen sich am Grogfass melden, sobald ihr Dienst zu Ende ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 1] bleiben die nächsten Worte fast im Halse stecken. Sie schluckt und bringt schließlich ein leises "Verstanden, Kapitän" heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Aye-Aye, Sir. Ich werde den Dieb nach oben schleppen."</DefaultText>
+      <FemaleText>"Aye-aye, Ma'am. Ich werde den Dieb nach oben schleppen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Aye, Kapitän. [Specified 0] wird froh sein, das zu hören. Die anderen eher weniger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 1] nickt. "Befehle, Kapitän?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Dann wollen wir uns mal darum kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Was würdest du an meiner Stelle tun, [Specified 1]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[[Specified 0] nach der Situation fragen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Na ja, Kapitän, ich denke, es wird erwartet, dass [Specified 0] ausgepeitscht wird. Sich ungefragt aus den Schiffsvorräten zu bedienen, kann uns alle ganz schön in die Bredouille bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Du findest [Specified 0] unter Deck und willst wissen, warum der Seemann sich eine Extraportion Grog gegönnt hat. Als Antwort löst [Specified 0] die Bandagen von der Wunde und zeigt dir das zerfetzte Fleisch und die Blutergüsse. 
+
+"Tut schrecklich weh, Kapitän, schlimmer als alles andere. Trinken ist das Einzige, was es erträglich macht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Stelle [Specified 0]s Rationen gänzlich ein und sag den anderen, dass sie zurück an die Arbeit sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Keinen Grog mehr für [Specified 0]. Svef wird viel effektiver sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich werde einen Vortrag über die Wichtigkeit von Mitgefühl und Erbarmen halten ... und darüber, wie schändlich es ist, seine eigenen Brüder und Schwestern auf See zu bestehlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[[Specified 0] öffentlich schelten und ihr dann heimlich Grog geben.] "Schleppt die Diebin an Deck, sodass ich vor den Augen der Mannschaft meinen Missfallen ausdrücken kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Die Mannschaft [Specified 0]s Schmerzen spüren lassen.] "Mir scheint, die Mannschaft braucht eine Lektion in Sachen Mitgefühl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich trenne [Specified 0] von der Befähigung, Schmerz zu spüren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du lässt [Specified 0] an Deck schleppen und machst ihr klar, dass sie keinen Grog mehr bekommt und dass, wenn du sie noch einmal beim Klauen erwischst, sie die Auspeitschung überspringen und sofort gekielholt wird. Als du fertig bist, zittert [Specified 0] vor Angst. Der Großteil der Mannschaft ist ebenfalls erbleicht.
+
+Später gibst du [Specified 0] heimlich ein Fläschchen und warnst sie, dass sie dieses Zeichen der Generosität für sich behalten soll, andernfalls müsstest du ein Exempel an ihr statuieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du öffnest deinen Verstand zu dem von [Specified 0], ortest den Schmerz und ziehst ihn heraus. Du hüllst ihn in deine Seele, verteilst ihn an die Mannschaft und bindest sie so an den Schmerz des Maates.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Aye, Kapitän. Ein paar Tage ohne Grog sollte [Specified 0]s Fehlverhalten wieder ausgleichen. Ein paar Tage mehr und die Mannschaft wird ihre Feindseligkeit vergessen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Aye, Kapitän. Ein paar Tage ohne Grog sollte [Specified 0]s Fehlverhalten wieder ausgleichen. Ein paar Tage mehr und die Mannschaft wird ihre Feindseligkeit vergessen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Aye, Kapitän. Ein paar Tage ohne Grog sollte [Specified 0]s Fehlverhalten wieder ausgleichen. Ein paar Tage mehr und die Mannschaft wird ihre Feindseligkeit vergessen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du hörst ein paar gemurmelte Beschwerden über den Mangel an Gerechtigkeit auf See, aber die meisten deiner Mannschaft scheinen mit deiner Entscheidung zufrieden und die Anspannung schwindet innerhalb der nächsten Tage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du versammelst die Mannschaft an Deck, inklusive [Specified 0] und hältst eine lange, scharfe Predigt über die Wichtigkeit von Gemeinschaft, Mitgefühl und Gnade und über die schrecklichen Folgen von Selbstsucht und Diebstahl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Außerdem wird es jegliche Zahnverfärbungen mit einer netten Schicht Schwarz bedecken." Edér nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Du steigst in den Laderaum und beschaffst [Specified 0] eine Tinktur mit einer großen Dosis Svef. Das sollte den Schmerz erträglicher machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Am Ende scheinen alle durch und durch beschämt und gehen mit stillem Ernst wieder ihrer Arbeit nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Du steigst in den Laderaum und legst deine Hand auf [Specified 0]s schweißnasse Stirn, um die verletzte Seele zu erreichen. Du dämpfst die Verbindung zwischen Seele und Körper, welcher erschlafft und sich zum ersten Mal seit Tagen ausruhen kann.
+
+"Danke, Kapitän", flüstert [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Leises Fluchen und Stöhnen begleitet die nächsten paar Stunden, und als du vorschlägst, [Specified 0] eine Ration Grog zu geben, widerspricht niemand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[[Specified 0] öffentlich schelten und ihm dann heimlich Grog geben.] "Schleppt den Dieb an Deck, sodass ich vor den Augen der Mannschaft mein Missfallen ausdrücken kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Du lässt [Specified 0] an Deck schleppen und machst ihm klar, dass er keinen Grog mehr bekommt und dass, wenn du ihn noch einmal beim Klauen erwischst, er sofort das Kielholen erleben wird. Als du fertig bist, zittert [Specified 0] vor Angst. Der Großteil der Mannschaft ist ebenfalls erbleicht.
+
+Später gibst du [Specified 0] heimlich ein Fläschchen und warnst ihn, dass er dieses Zeichen der Großzügigkeit für sich behalten soll, andernfalls müsstest du ein Exempel an ihm statuieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Specified 1] bleiben die nächsten Worte fast im Halse stecken. Er schluckt und bringt schließlich ein leises "Selbstverständlich, Kapitän" heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Specified 1] nickt. "Befehle, Kapitän?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Eine Bestrafung ist angesagt ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Die Mannschaft erwartet dein Strafmaß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Eine unorthodoxe Lösung in Betracht ziehen ...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Sie sehen dich erwartungsvoll an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Erneut deine Möglichkeiten überdenken ...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Sie sehen dich erwartungsvoll an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Specified 2] steigt in den Lagerraum hinunter und lässt eine Hand auf der feuchten Stirn von [Specified 0] ruhen. Nach mehreren Minuten wird der Seemann locker und entspannt sich zum ersten Mal seit Tagen.
+
+"Danke, [Specified 2]", flüstert [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Du hörst ein paar gemurmelte Beschwerden über den Mangel an Gerechtigkeit auf See, aber die meisten deiner Mannschaft scheinen mit deiner Entscheidung zufrieden und die Anspannung schwindet innerhalb der nächsten Tage.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

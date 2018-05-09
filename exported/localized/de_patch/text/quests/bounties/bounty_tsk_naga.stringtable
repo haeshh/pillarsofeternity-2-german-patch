@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_naga</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Flammenläuferin Vessali</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte die &lt;b&gt;Flammenläuferin Vessali&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Nungata&lt;b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Einer der Nāgastämme aus der Gegend hat ein Kopfgeld auf &lt;b&gt;Vessali&lt;/b&gt; ausgesetzt. Sie ist eine Schamanin der Flammennāga, die ihresgleichen betrogen und ermordet hat. Sie schlängelte zuletzt im &lt;b&gt;Osten der Inselkette Kua o Rikuhu&lt;/b&gt; herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Flammenläuferin Vessali&lt;/b&gt; bewohnt zur Zeit ihre neueste Eroberung, eine der östlichen Insel der Inselkette &lt;b&gt;Kua o Rikuhu&lt;/b&gt;. &lt;b&gt;Nungata&lt;/b&gt; wird für ihren Kopf ordentlich bezahlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Flammenläufer Vessali ist nicht mehr. &lt;b&gt;Nungata&lt;/b&gt; in der  &lt;b&gt;Schlangenkrone&lt;/b&gt; in Neketaka wird sich über diese Nachricht freuen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Vessali die Flamme ausgepustet und das Kopfgeld von Nungata erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

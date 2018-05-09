@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_slaver_port\14_cv_slaver_boss</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>175</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Orlaner, mit groben Gesichtszügen, aber wohl gepflegt und gekleidet, ist so klein, dass sein elegantes spitzes Kinn kaum die Oberfläche seines Schreibtischs erreicht, wenn er sich in seinem roten Bergère-Stuhl zurücklehnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Womit habe ich denn das Vergnügen deiner wiederholten Anwesenheit verdient?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ungeduldig tippt Kua die Finger gegeneinander.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was soll ich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich habe mich um die Wahaki gekümmert. Sie werden dir nicht mehr auf die Nerven gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Hast du vielleicht Lust, mir ein paar Tipps für den Umgang mit den Wahaki zu geben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Die Wahaki direkt anzugreifen wäre eine ziemliche Torheit, wenn nicht sogar völlig unmöglich. Ich empfehle eine List, um die Anführer des Stammes umso leichter ausschalten zu können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Mein Partner hat mich darüber informiert, dass er ... mir Hilfestellung leisten wird, um mein Problem zu lösen. Im Gegenzug bin ich bereit, einige Schiffe für seine Flotte bereitzustellen."
+
+Zur Linken des Meisters ruht ein Löwe auf dem Fliesenboden. Er betrachtet dich mit großem, raubtierhaftem Interesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"So wie ich das verstanden habe, bist du an meinen Arbeitskräften interessiert?"
+
+Zur Linken des Meisters ruht ein Löwe auf dem Fliesenboden. Er betrachtet dich mit großem, raubtierhaftem Interesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich lege Wert darauf, alle meine Kunden persönlich kennenzulernen. So bekomme ich einen besseren Eindruck von unserer gemeinsamen geschäftlichen Zukunft."
+
+Zur Linken des Meisters ruht ein Löwe auf dem Fliesenboden. Er betrachtet dich mit großem, raubtierhaftem Interesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich möchte einige Sklaven als Diener im Haushalt erwerben. Ich brauche vier Dienstmädchen, einen Stallknecht, eine Näherin und einen Pagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Bei diesem Geschäft gilt: Je weniger wir voneinander wissen, desto besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Angreifen] "Ich wollte dir einfach nur in die Augen blicken, bevor ich dein elendes Leben beende."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Sieben? Ja, ich glaube, wir können deine Bedürfnisse erfüllen." Seine Lippen zucken in einem boshaften Lächeln nach oben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich finde, körperliche Züchtigung ist die effektivste Methode."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich finde das nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich glaube, wir sind ganz einer Meinung. Ich möchte dir sogar Zugang zu meiner absolut besten Ware gewähren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Die Wahaki haben meine Schiffe immer wieder angegriffen. Das erschwert es ein wenig, in diesen Gewässern Geschäfte zu machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich werde die Wahaki nicht abschlachten, nur damit du Geschäfte machen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Erlaube es mir wenigstens, die Insel der Wahaki auf deiner Karte zu kennzeichnen - falls du es dir doch noch anders überlegst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Nun, lass mich doch nicht im Unklaren. Sage mir, wie du dafür sorgst, dass sie nicht aus der Reihe tanzen. Du musst mir deine Geheimnisse verraten - schließlich werde ich dir meine besten Waren zeigen."
+
+Kua springt von seinem Stuhl auf und zeigt dabei eine überraschende flinke Behendigkeit. Für einen Orlaner ist er unerwartet langgliedrig. Und sein Gang ist entschlossen, hart, fast ein wenig gemein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Tja ... Ich schätze mal, das hängt davon ab, was du denn so auf Lager hast ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Er gibt einen grunzenden Laut von sich und deutet mit einer ruckartigen Kopfbewegung auf eine seiner Wachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Der Oger, der dem Meister am nächsten steht, bläst in ein riesiges Horn. Schnell wie der Blitz schlüpft Kua unter seinen Schreibtisch. Die Fenster hinter ihm zerbersten in tausend Scherben, und es regnet Glas, während ein Hagel von Geschützfeuer auf dich zurast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Hart und gründlich - aber auf eine Weise, die nicht zu mir oder dir zurückführt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Unangekündigter Besuch ... Ich gebe zu, ich bin überrascht, dass du so weit gekommen bist. Aber ich fürchte, deine Vergnügungsreise endet hier."
+
+Zur Linken des Meisters ruht ein Löwe auf dem Fliesenboden. Er betrachtet dich mit großem, raubtierhaftem Interesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich werde es nicht zulassen, dass du deinen illegalen Handel weiterführst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Nun, worauf wartest du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Die Huana ignorieren die Not aller anderen. Sie werden erst aufmerksam, wenn es ihr eigener Stamm ist, der blutet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich habe die Wahaki aus dem Verlies befreit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Wenn es stimmt, was du sagst, wirst du für meine Verluste bezahlen - mit deinem Herzblut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Die Beweise werden offenbar werden, sobald ich dich erst einmal erledigt habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Angreifen] "Ich ziehe es vor, mit Stahl zu bezahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Die Wahaki sind unterwegs hierher. Sie sind bewaffnet, und sie werden mich bei diesem Kampf unterstützen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Sobald die befreiten Wahaki erst einmal von deinen Untaten berichtet haben, wird man dich hängen. Deine einzige Chance ist die Flucht - und zwar jetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Mit bleichem Gesicht wendet er sich erneut an seine Wache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Einige der Wachleute tauschen beunruhigte Blicke aus, bevor sie ihre Waffen wieder einstecken und den Raum verlassen. Der Meister mag sie zwar bezahlen, aber das Geld, das sie bekommen, ist es offensichtlich nicht wert, ihr Leben dafür aufs Spiel zu setzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Du bist also die Ursache unseres Aufstands! Mach dir keine Sorgen. Wie auch immer die Revolte begonnen hat - sie wird bald vorüber sein. Diese Dinger passieren nun einmal von Zeit zu Zeit."
+
+Er betrachtet seine elegant manikürten Nägel und trommelt dann ungeduldig mit ihnen auf die Tischplatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Du wärst so dumm, bewaffnete Wahaki-Krieger zu unterschätzen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Hinter dir erklingen Schritte, kommen näher heran und werden dabei zunehmend lauter. Dann tritt Meister Kua hinaus auf den unteren Flur. 
+
+Über sein Gesicht tanzt das Licht des Feuers. Das verleiht seinen Gesichtszügen einen verstörenden Anklang von Dunkelheit und Unmenschlichkeit. Ohne ein einziges Wort zieht er an einem Hebel, der sich seitlich von ihm befindet, und ein Fallgitter stürzt herab. Du bist im Verlies eingeschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Weiß er, dass du illegalen Handel betreibst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Der Meister richtet sich in seinem Stuhl ein wenig auf. Nun zeigen sich ein paar Zentimeter seines Gesichts über der dunklen, hoch polierten Fläche des Schreibtischs. Das Holz spiegelt ein verzerrtes Abbild seines höhnischen Grinsens wider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ich bin einer entlaufenen Sklavin begegnet, die von Krummsporn verkauft worden ist. Und wie das Schicksal es so will, wurde sie im Todesfeuer geboren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Häuptling Ruāsare behauptet, deine Sklavenhändler hätten den Wahaki-Stamm überfallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Die Wahaki verabscheuen Fremde und würden vor keiner Lüge zurückscheuen, um uns zu zwingen, ihre Gewässer wieder zu verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Wirst du mir jetzt helfen? Oder muss ich dich in Ketten zu deinem Kapitän zurückschicken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Er wirft den Kopf zurück und lacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ich habe meine Quellen. Einige dieser Quellen sind sogar zuverlässig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ist dir nie der Gedanke gekommen, dass diese Quelle versuchen könnte, mein Geschäft zu schädigen, um sein eigenes zu fördern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ich habe mit deinen Wahaki-Sklaven gesprochen. Mit denen, die du in dein Verlies gesperrt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Du gibst also offen zu, dass du in meinen Angelegenheiten herumgeschnüffelt hast? Ich weiß nicht, ob ich dich für mutig halten soll - oder für dumm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ich kann schweigen. Für den richtigen Preis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Aber ich habe keinen Grund, dir zu glauben." Kuas Hand gleitet nach vorn. Mit dem Daumen streicht er über eine Kerbe im Holz, nahe der Mitte des Schreibtischs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ich wollte einfach deine Mittäterschaft bestätigt wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Wenn ich mit deinem Ruf nicht so gut vertraut wäre, hätten wir vielleicht ein Problem. So wie die Dinge liegen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Die Wahaki haben meine Schiffe immer wieder angegriffen. Das erschwert es ein wenig, in diesen Gewässern Geschäfte zu machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ich kümmere mich um das Problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"So finden wir uns also völlig festgefahren wieder. Aus dieser Situation gibt es nur einen Ausweg - Blut." Seine Mundwinkel senken sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Drohend grinsen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Ein wenig seiner Überheblichkeit weicht aus seinem Gesicht, wird ersetzt durch einen Ausdruck des Unbehagens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Sollen wir gleich zur Sache kommen?"
+
+Meister Kua beugt sich vor und stützt die Unterarme auf den Tisch. Dabei fällt dir auf, dass er für einen Orlaner erstaunlich lange Glieder besitzt. Es ist der übergroße Schreibtisch, der ihn so zwergenhaft erscheinen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Zur Linken des Meisters ruht ein Löwe auf dem Fliesenboden. Er betrachtet dich mit großem, raubtierhaftem Interesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Wieso hast du denn einen so übergroßen Schreibtisch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Es war ein Geschenk. Du musst wissen, er gehörte meinem Meister. Ich habe das Unternehmen nicht geleitet, nicht bis vor zehn Jahren. Aber ich habe mich hervorragend hochgearbeitet." Die Erinnerung löst ein Stirnrunzeln bei ihm aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ich habe ihn umgebracht, genau hier."
+
+Kua greift über die weite Fläche des Schreibtischs, um mit den Fingern über eine Kerbe im Holz zu reiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ich habe das Schwert vollständig durch ihn hindurch gestoßen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ich will, dass sie aufgehalten werden. Und zwar am besten vor zwei Wochen schon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Warum greifen die Wahaki deine Schiffe an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ich nehme an, weil die Wahaki einfach Mistkerle sind, die keinerlei Eindringen in ihre Gebiete dulden. Oder vielleicht sind sie moralisch und philosophisch gegen meinen Handel eingestellt." Er wedelt mit einer Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ihre Gründe sind mir herzlich gleichgültig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Nichts anderes würde ich von dir erwarten." Er nickt, und damit scheint die Angelegenheit für den Augenblick erledigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Das ist ein ziemlich hinterhältiger Anspruch, den du da erhebst. Welche Beweise hast du, die ihn stützen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Das behauptet dein Zeuge. Sieh mal, ich habe die Gesetze nicht gemacht, aber ich gebe gerne zu, manchmal sind sie absurd. Was für einen Unterschied sollte in einem Handel wie meinem denn schon der Ort der Geburt machen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Häuptling Ruāsare kann dir keine Beweise dieser Übergriffe bieten, weil sie niemals stattgefunden haben." Er wirft dir einen bösen Blick zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Versuche es nur - und du wirst auf diesem Schreibtisch sterben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ich habe kein Interesse an Scherzen oder Ironie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Wenn diese Quelle so zuverlässig und angesehen ist, dann lass den Betreffenden doch vortreten und öffentlich seine Behauptungen wiederholen. Am besten in einem vor einem Verwaltungsgericht, das ich ausgewählt habe." Er lächelt, doch es ist ein dünnlippiges, freudloses Lächeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Und was planst du jetzt zu tun, nachdem du meine - ganz speziellen Waren ... mit eigenen Augen gesehen hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Das hast du. Und jetzt, fürchte ich, wirst du es in dein Grab mitnehmen müssen." Zornig trommelt er mit den Fingern auf die Schreibtischplatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Furrante hat mich geschickt, dir zu helfen. Also werde ich genau das tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Mehr bekommst du nicht." Er wirft dir einen kleinen Beutel mit Münzen zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"So weit ist es jetzt also gekommen!" Er runzelt die Stirn. Er schaut dich böse an und schüttelt dann den Kopf. Feine Strähnen seiner ehemals elegant zurückgekämmten Haare liegen nun wild durcheinander um seine Ohren herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Bitte, kläre mich auf. Wie viele Sklaven welcher Art möchtest du erwerben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Meine Bedürfnisse ändern sich häufig. Außerdem lege ich größten Wert auf Diskretion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ich glaube, ich kann deine ... Vorlieben zufriedenstellen." Er lächelnd wissend, sein Gesichtsausdruck kalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Aber bevor wir tiefer in die Sache einsteigen muss ich dich noch etwas fragen. Wie disziplinierst du derzeit deine Sklaven? Oder wie planst du, sie zu disziplinieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Die Versteigerung ist jetzt vorüber. Ich wäre begierig darauf, deine neuen Waren vor der nächsten Versteigerung zu erwerben. Aber es gibt da ein kleines Problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Ich bin gekommen, um etwas Lagerbestand aufzukaufen. Warum sollte ich dir außerdem auch noch einen Gefallen tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Du willst nur mein Bestes, nicht wahr?" Er spreizt die Finger, die Handflächen nach oben gerichtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Dort, hier entlang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Bitte." Er wirft den Kopf zurück und lacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Wache, überprüfe sofort die Zellen!" Er schnippt mit den Fingern in Richtung des Ogers, bevor er dich mit einem weiteren bösen Blick bedenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Jeder, der diesen Raum lebend verlassen möchte, hat dreißig Sekunden Zeit zu verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Wenn du mir in dieser Sache hilfst, gebe ich dir einen Sklaven aus meinem besten Bestand - kostenlos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Stelle das Geschäft ein und mache dich sofort zum Ablegen bereit. Dieser Handelsposten ist ab sofort außer Dienst gestellt."
+
+In seinem Kiefer zuckt ein Muskel, als er seine Aufmerksamkeit wieder dir zuwendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Meine Glückwünsche. Du hast mein Geschäft geschlossen. Für den Augenblick. Du solltest besser verschwinden. Ich hatte viele Leute beschäftigt, und sie werden alle nach einem Schuldigen für ihre Verluste suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Du musst dich ihnen nur unter dem Mantel der Freundschaft nähern, und schon sind sie dumm genug, dich willkommen zu heißen. Darauf verwette ich das Leben meines alten Meisters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Du hast Pech - ich bin nicht einmal halb so dumm, wie du mich gerne sehen würdest." Hinter den Gitterstäben zeigt er seine Zähne in einem höhnischen Grinsen, bevor er zurückweicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Du hast dir mein Interesse und meine Wertschätzung gesichert. Und einen Rabatt auf meine beste Ware."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Er legt den Kopf zur Seite. Das Ohr zuckt. Dabei packt er die Kante des Schreibtischs so fest, als wolle er das Holz zerbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ich habe einen Käufer gefunden, mit dem du vielleicht interessiert bist, Geschäfte zu machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Okay, ich bin interessiert. Wer ist dieser neue Käufer? Und was haben er oder sie mir zu bieten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Der Käufer ist ein angesehener Edelmann mit dem Namen Menzzango."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Ein Fampyr am Zersplitterten Riff ist auf der Suche nach Leichen, als Nahrung für seine Insel der Untoten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Du willst, dass ich Geschäfte mit den Untoten mache? Das ist ein verrückter Handel. Selbst für mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Wenn du dir die Untoten als Verbündete sichern kannst, musst du nie wieder Söldner anheuern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Vailian und er entstammen einem sehr alten Vermögen. Es gibt keinerlei Verbindung zu Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Edelleute lieben es auf jeden Fall, ihr Gewicht in Gold auszugeben. Lass es mich so sagen - ich bin fasziniert, aber von Natur aus vorsichtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Sie können zahlen, und sie zahlen sehr gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Wenn du dir Sorgen wegen der Behörden machst, kannst du ihm ja unsere beste Ware schicken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Sie können zahlen, und sie zahlen sehr gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Und welchen Vorteil würde mir selbst alles Gold von Ukaizo bringen, wenn ich sterben müsste, um es zu erlangen? Ich muss deinen tollkühnen geschäftlichen Vorschlag ablehnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Wie wäre es denn, wenn ich zuerst einmal ein Geschäft für nur ein oder zwei vermittle, für den Anfang? Dann können wir ja sehen, wie die Sache läuft." Er nickt, und du kannst sehen, wie die Gier bereits in seinen Augen funkelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Und woher weiß ich, ob er auch reell ist? In der letzten Zeit waren schon genügend Ermittler vom Palast in Neketaka in Zivilkleidung hier, die herumgeschnüffelt haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ich glaube kaum, dass du dich in einer Position befindest, um mir Käufer vorzuschlagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Das mag stimmen, was die meisten Angelegenheiten betrifft - aber nicht in allen. Dennoch, das ist ein Punkt, der überlegt sein will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Gedankenkontrolle. Das ist ein Trick, den ich von einem alten Freund gelernt habe, einem Vithrack. Ziemlich nervös, aber ein guter Kerl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Nun, das würde mir das Leben enorm erleichtern ... Wahrlich ein feiner Trick." Er spitzt die Ohren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ich habe so meine Methoden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Es wäre doch eine Schande, wenn wir beiden nicht zu einer Absprache kämen. Eine wahre Schande!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Du hattest also mein seltenstes und wertvollstes Angebot erworben. Du bist sichtlich ein Kunde mit einem erlesenen Geschmack. Aber jetzt wird es Zeit zu bezahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ist damit alles erledigt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Ist damit alles erledigt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Ich bin am Kauf des Sklaven nicht länger interessiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Ja, alles bestens. Ich danke dir für das Geschäft, und du kannst die Ware jederzeit abholen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Ja, alles bestens. Ich danke dir für das Geschäft, und du kannst die Ware jederzeit abholen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Ein Geschäft ist ein Geschäft. Glaub ja nicht, dass du unseres rückgängig machen kannst." Zornig schlägt er mit den Fingern gegen die dunkle Holzoberfläche seines Schreibtischs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Ich bin bereit, dir den Sklaven dafür zu bieten, dass du mir einen Gefallen tust. Schließlich weiß ich genau, warum du wirklich hier bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Oh, du wirst schon bezahlen. Entweder in klingender Münze oder mit deinem eigenen Fleisch - die Wahl liegt ganz bei dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Natürlich gibt es da noch eine Sache, die wir besprechen müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ich bezahle für ihn lieber mit meinen Diensten als mit Münzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Ich bin einer solchen Möglichkeit gegenüber nicht abgeneigt, ja. Um ehrlich zu sein, habe ich da vielleicht sogar schon etwas im Auge. Der Sklave gehört dir, wenn du mir hilfst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Aber zuerst muss ich noch etwas wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Nachdem wir unser Geschäft jetzt abgeschlossen haben, sag mir doch, was dich nach Krummsporn gebracht hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Du wirst sicher verstehen, dass mein Handel im Todesfeuer nicht gerade beliebt ist. Und du bist dennoch bereit, eine Partnerschaft mit mir einzugehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Ich bin hier im Auftrag deiner ... Geschäftspartner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Ich habe Interesse an einem Geschäft, das uns beiden Vorteile bringt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Nein, ich meine, das war alles ein Missverständnis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Wenn es dir sowohl an Münzen fehlt, als auch an der Bereitschaft, für mich zu arbeiten, lässt du mir keine Wahl, was ich mit dir anzufangen habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Unser Geschäft hier ist beendet. Du darfst mich jederzeit wieder aufsuchen, wenn sich deine Neigungen geändert haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ich bezahle nicht für den Sklaven."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Ich kann ja wohl unmöglich jemandem vertrauen, der sich weigert, Fragen direkt zu beantworten, richtig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Dennoch möchte ich keine möglichen künftigen Kunden abschrecken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Wirklich? Du hast den Stamm der Wahaki bereits lahmgelegt? Ich werde nicht vorgeben zu verstehen, wie du das angestellt hast." Er betrachtet dich und streicht sich dabei über das Kinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Nicht viele Leute schaffen es, mich zu beeindrucken - aber du bist wahrhaft beeindruckend, das muss ich zugeben.</DefaultText>
+      <FemaleText>Nicht viele Leute schaffen es, mich zu beeindrucken - aber du bist wahrhaft beeindruckend, das muss ich zugeben.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Ist damit alles erledigt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Ist damit alles erledigt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Ja, alles bestens. Ich danke dir für das Geschäft, und du kannst die Ware jederzeit abholen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ja, alles bestens. Ich danke dir für das Geschäft, und du kannst die Ware jederzeit abholen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Und noch viel weniger, wenn dieser Jemand für den Sklaven nicht bezahlt, den er in der Versteigerung gekauft hat."</DefaultText>
+      <FemaleText>"Und noch viel weniger, wenn diese Person für den Sklaven nicht bezahlt, den sie in der Versteigerung gekauft hat."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Ist damit alles erledigt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Ist damit alles erledigt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Gut. Plötzlich bin ich weit eher geneigt, dir einen Vertrauensbonus einzuräumen. Es war mir eine Freude, mit dir Geschäfte zu machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Oh. Und bevor du gehst - es sei dir erlaubt, den Sklaven mitzunehmen. Betrachte es als eine Geste des guten Willens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Nehmen wir einmal an, ich möchte mir alles anschauen, das du sonst noch anzubieten hast ... Wo hast du denn die anderen Sklaven untergebracht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Den Kunden ist der Zugang zu den Verliesen nicht gestattet. Sag mir einfach, welche Art Sklave du dir ansehen möchtest, dann lasse ich ihn hochbringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Ohne ihre Stammesführer sind diese Wahaki-Wilden nichts wert. Entledige dich der Anführer, und der Rest zerstreut sich wie ein erschreckter Vogelschwarm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Angreifen] "Kein Geschäft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Was kann ich sonst noch für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Ich wäre ein Narr, wenn ich das nicht ebenfalls wäre." Er zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Das einzige Missverständnis scheint auf deiner Seite vorzuliegen. Du hast ein Gebot abgegeben und in meiner Versteigerung einen Sklaven ersteigert. Das bedeutet, du musst für ihn bezahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Ich habe mir schon länger gewünscht, dir einmal gegenüberstehen zu können, als du weißt, Junge."
+
+Serafen betrachtet den anderen Orlaner eingehend; so, als wolle er sich jeden Flecken Fell auf seinem Gesicht ins Gedächtnis einprägen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Jetzt hast du es, und dabei werden wir es belassen. Wenn du mich allerdings provozierst, alter Mann, mache ich dich zu einem der Meinen."
+
+Der Sklavenhändler streicht sich mit der Hand über die zurückgekämmten Haare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Serafens große grüne Augen wandern zwischen dir und dem anderen Orlaner hin und her und verengen sich dabei zunehmend. Seine Nasenflügel beben, seine Ohren weisen nach unten, und seine Lippen ziehen sich von den schiefen Zähnen zurück. Seine zusammengeballten Hände schweben in der Nähe seiner Waffen.
+
+Er zittert ein wenig, so, als ob etwas in seiner pelzigen Gestalt darum kämpfen würde auszubrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Ich habe mir schon länger gewünscht, dir einmal gegenüberstehen zu können, als du weißt, Junge."
+
+Serafen betrachtet den anderen Orlaner eingehend; so, als wolle er sich jeden Flecken Fell auf seinem Gesicht ins Gedächtnis einprägen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Jetzt hast du es, und dabei werden wir es belassen. Wenn du mich allerdings provozierst, alter Mann, mache ich dich zu einem der Meinen."
+
+Der Sklavenhändler streicht sich mit der Hand über die zurückgekämmten Haare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Und was planst du in dieser Angelegenheit zu unternehmen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Wenn du mit 'Partner' Furrante meinst ... Er ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Das ist ein Jammer." Der Markt ist empfindlich, wie du weißt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Wenn du mit 'Partner' Direktor Castol meinst ... Er ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Das ist ein Jammer." Der Markt ist empfindlich, wie du weißt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Oh. Und wenn du gehst, vergiss nicht, den Sklaven mitzunehmen, den du gekauft hast. Wenn du zurückkommst, habe ich etwas Exquisites vorbereitet. Vorausgesetzt, du hast dich um mein Wahaki-Problem gekümmert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Ich denke mal, das macht &lt;i&gt;dich&lt;/i&gt; jetzt zu meinem Kontakt mit der Valianischen Handelsgesellschaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Aber du bist hier und du lebst. Also bin ich bereit, mich mit dir abzugeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

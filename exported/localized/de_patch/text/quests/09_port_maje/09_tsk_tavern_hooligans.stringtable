@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_tsk_tavern_hooligans</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der bessere Mann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde Galian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Überzeuge Galian davon, zu gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Thorel zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Besiege Galian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Da eine Reihe von Händlern nach der Zerstörung durch den Sturm in Port Maje gestrandet sind, gibt es keine freien Zimmer in der örtlichen Schenke. Der Gastwirt Thorel ist jedoch bereit, mich unterzubringen – wenn ich einen seiner derzeitigen Gäste rausschmeiße.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Thorel identifizierte den Übeltäter als Galian, einen Handelskapitän. Ich finde ihn und seine Mannschaft oben im hintersten Zimmer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe Galian und seine Kameraden gefunden. Dem Gestank nach zu urteilen haben sie schon seit Tagen gebechert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe mich um Galian gekümmert. Ich sollte zu Thorel zurückgehen und ihm Bescheid geben, was passiert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Galian hat mich zu einem Kampf herausgefordert. Ich musste mich verteidigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Galian und seine Kumpels provozieren einen Kampf. Ich muss mir überlegen, wie ich hier vorgehe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für den Abschluss dieser Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe die Unruhestifter davon überzeugt, zu verschwinden, und der Gastwirt war einverstanden, mich zum Sonderpreis einzuquartieren. Einen Ort zu haben, an dem ich mich ausruhen kann, solange ich in der Stadt bin, dürfte von Vorteil sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Thorel war nicht wirklich von meiner Vorgehensweise begeistert, ich konnte ihn aber davon überzeugen, mir das Zimmer überlassen, das ich für ihn geräumt habe. Einen Ort zu haben, an dem ich mich ausruhen kann, solange ich in Port Maje bin, dürfte von Vorteil sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe mich auf direktere Weise um Galian und seine Leute gekümmert. Der Gastwirt war weniger begeistert davon, als ich gehofft hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Der Gastwirt in der Schenke von Port Maje hat Schwierigkeiten mit einer Gruppe rauflustiger Händlern, die in einem der Zimmer im Obergeschoss wohnen. Er bot mir einen Preisnachlass an, wenn ich sie rauswerfe. Er will nicht, dass ich sie verletze, doch der eine oder andere Faustschlag könnte drin sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

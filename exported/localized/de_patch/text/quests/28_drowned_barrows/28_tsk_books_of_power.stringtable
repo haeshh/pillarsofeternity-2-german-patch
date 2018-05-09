@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\28_drowned_barrows\28_tsk_books_of_power</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die verlorenen Zauberbücher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>&lt;b&gt;Biparas Zauberbuch&lt;/b&gt; zu &lt;b&gt;Nemnok&lt;/b&gt; bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;b&gt;Menzzagos Zauberbuch&lt;/b&gt; zu &lt;b&gt;Nemnok&lt;/b&gt; bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Das Zauberbuch des &lt;b&gt;Kämpfers&lt;/b&gt; zu &lt;b&gt;Nemnok&lt;/b&gt; bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Das Zauberbuch der Sumpfhexe finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Das Zauberbuch des Fampirfürsten finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Das Zauberbuch des uralten Lichs finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Nemnok&lt;/b&gt; hat mich gebeten, drei besonders potente Zauberbücher von außerhalb der &lt;b&gt;Ertrunkenen Hügelgräber&lt;/b&gt; zu besorgen.
+
+Die geschriebenen Anweisungen beschreiben, welche Bücher Nemnok begehrt – ein Zauberbuch von einer &lt;b&gt;Sumpfhexe&lt;/b&gt;, ein Zauberbuch eines &lt;b&gt;Fampyrfürsten&lt;/b&gt; und noch eins von einem &lt;b&gt;uralten Lich&lt;/b&gt;.
+
+Es liegt an mir, sie im Todesfeuer ausfindig zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Biparas Zauberbuch&lt;/b&gt; gehört mir. &lt;b&gt;Nemnok&lt;/b&gt; wartet auf der untersten Ebene der &lt;b&gt;Ertrunkenen Hügelgräber&lt;/b&gt; darauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Menzzagos Zauberbuch&lt;/b&gt; liegt jetzt in meinen Händen. &lt;b&gt;Nemnok&lt;/b&gt; wartet auf der untersten Ebene der &lt;b&gt;Ertrunkenen Hügelgräber&lt;/b&gt; darauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Das &lt;b&gt;Zauberbuch des Kämpfers&lt;/b&gt; ist meins. &lt;b&gt;Nemnok&lt;/b&gt; wartet auf der untersten Ebene der &lt;b&gt;Ertrunkenen Hügelgräber&lt;/b&gt; darauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Es heißt, dass dieses Zauberbuch einer alten Frau in einer &lt;b&gt;entlegenen Sumpfhütte&lt;/b&gt; gehöre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Dieses Zauberbuch befindet sich im Besitz eines untoten Zauberers, der auf einem '&lt;b&gt;Friedhof gekenterter Schiffe&lt;/b&gt;' lebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Dieses Zauberbuch kann man in der &lt;b&gt;gut versteckten Bibliothek&lt;/b&gt; eines Lichs, irgendwo im &lt;b&gt;Todesfeuer&lt;/b&gt;, finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe &lt;b&gt;Biparas Zauberbuch&lt;/b&gt; zurückgebracht. &lt;b&gt;Nemnok&lt;/b&gt; hat mir gestattet, mir eine Belohnung von dem Schatzhaufen am Fuße des Statue auszusuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe &lt;b&gt;Menzzagos Zauberbuch&lt;/b&gt; zurückgebracht. &lt;b&gt;Nemnok&lt;/b&gt; hat mir gestattet, mir eine Belohnung von dem Schatzhaufen am Fuße des Statue auszusuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe das &lt;b&gt;Zauberbuch des Kämpfers&lt;/b&gt; zurückgebracht. &lt;b&gt;Nemnok&lt;/b&gt; hat mir gestattet, mir eine Belohnung von dem Schatzhaufen am Fuße des Statue auszusuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Nemnok umgebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe alle drei Zauberbücher für Nemnok aufgetrieben. Er ist zufrieden mit mir.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

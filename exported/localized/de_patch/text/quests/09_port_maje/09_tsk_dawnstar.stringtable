@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_tsk_dawnstar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Wandersterne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Spüre Torclef auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Konfrontiere Torclefs Angreifer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Maren zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Konfrontiere die Angreifer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zum Dämmerstern-Lager zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kehre mit den Neuigkeiten zu Maren zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Dämmersterne sind kürzlich in Port Maje eingetroffen und auf der Suche nach Gelegenheiten in neuen Landen. Durch ihre unermüdliche Verteidigung der Huana machten sie sich bei den Kolonisten unbeliebt.
+
+Obwohl die Interaktionen mit den einheimischen Stadtbewohnern im Allgemeinen friedlich waren, wird einer der Dämmersterne seit Kurzem vermisst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Maren macht sich Sorgen, dass einer der Dämmersterne, Torclef, in Schwierigkeiten mit den örtlichen Kolonisten geraten ist. Sie bat mich, nach ihm Ausschau zu halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Torclef scheint in Schwierigkeiten mit einigen der Einheimischen geraten zu sein. Es wird schwierig sein, ihn an einem Stück aus der Sache rauszubekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Torclef ist auf dem Weg zurück zu den Dämmersternen. Maren sollte erleichtert sein, ihn lebendig und gesund zu sehen. Nackt, aber gesund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Wie es scheint, ist ein Priester in Konflikt mit einigen der Einheimischen geraten. Ich bin mir nicht sicher, worum es hier geht, aber es scheint, als würde es übel werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Torclef meinte, ich solle ihn und die anderen Dämmersterne draußen im Hafenviertel aufsuchen. Er meinte, Maren könnte eine Belohnung für mich haben, wenn ich dort bin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Torclef ist tot. Maren wird nicht erfreut sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Maren erwähnte, dass die Schenke ein guter Ort sein könnte, um mich mal umzuhören, obwohl Torclef selbst nicht trinkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Der Gastwirt im Krakenauge hat Torclef nicht gesehen, er meinte aber, etwas von einem 'Trubel' im Westen der Stadt gehört zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Laut den Einheimischen sind die Dämmersterne eingeschritten, um den Huana bei der Aushandlung besserer Bedingungen zu helfen. Damit haben sie sich bei den Vailianern nicht wirklich beliebt gemacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Torclef ist tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Maren erwähnte, dass Torclef gesehen wurde, wie er weiter in die Stadt lief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ein NPC, der für den Abschluss dieser Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe sowohl Maren als auch Torclef sicher im Lager der Dämmersterne angetroffen. Maren war erleichtert, ihren Freund wiederzusehen, und entlohnte mich für meine Mühen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Maren die schlimmen Nachrichten über Torclef überbracht. Sie war bestürzt und schien ihre Zuversicht hinsichtlich des Wirkens der Dämmersterne in Port Maje verloren zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Da der Priester nun tot ist, hat diese Angelegenheit ein Ende gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Als ich Port Maje erkundete, stieß ich auf einen Konflikt zwischen einigen Einheimischen und einem verwirrten Readceraner. Könnte sich lohnen, sich das näher anzusehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\17_dunnage\17_tsk_troupe</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Eine saubere Leistung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde talentierte Künstler für die &lt;b&gt;Holzbein-Truppe&lt;/b&gt; am &lt;b&gt;Strahlenden Hof&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zur &lt;b&gt;Holzbein-Truppe&lt;/b&gt; am &lt;b&gt;Strahlenden Hof&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Der Erfolg der aktuellen Darbietung der &lt;b&gt;Holzbein-Truppe&lt;/b&gt; am &lt;b&gt;Strahlenden Hof&lt;/b&gt; hinkt den Erwartungen hinterher. Um eine bessere Show auf die Beine zu stellen und damit das Haus zu füllen, brauchen sie die Hilfe eines &lt;b&gt;Zauberers&lt;/b&gt; und eines &lt;b&gt;großen blauen Aumauaners&lt;/b&gt;. Im Gegenzug für eine Gewinnbeteiligung habe ich mich dazu bereiterklärt, geeignete Kandidaten für die Truppe zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Holzbein-Truppe am Strahlenden Hof benötigt &lt;b&gt;zwei neue Mitglieder&lt;/b&gt;, um Pfeffer in ihr Programm zu bringen – einen &lt;b&gt;Zauberer&lt;/b&gt; und jemanden, der groß genug ist, um die Rolle des &lt;b&gt;Eothas&lt;/b&gt; zu spielen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich konnte die zwei Darsteller auftreiben, die die Holzbein-Truppe braucht, um ihre Bühnenshow abzuziehen. Ich sollte mit &lt;b&gt;Calandra&lt;/b&gt;, der Leiterin der Truppe, am &lt;b&gt;Strahlenden Hof&lt;/b&gt; in Stauholz sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die Zauberin &lt;b&gt;Taerna&lt;/b&gt; im &lt;b&gt;Königssarg&lt;/b&gt; hat Interesse an der Show bekundet, aber ich muss in der Stadt noch jemanden auftreiben, der die Rolle des Eothas spielen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Im &lt;b&gt;Refugium des Hebers&lt;/b&gt; gibt es einen &lt;b&gt;blauhäutigen Aumauaner&lt;/b&gt;, der die Rolle des Eothas spielen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe einen blauhäutigen Aumauaner für das Stück angeheuert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;Taerna&lt;/b&gt;, die Zauberin im &lt;b&gt;Königssarg&lt;/b&gt;, hat sich bereiterklärt, bei dem Stück mitzumachen. Doch sie schuldet  &lt;b&gt;Harker&lt;/b&gt;, dem Inhaber der Schenke, 700 Pires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe einen Zauberer angeworben, der während des Stücks für Spezialeffekte sorgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>&lt;b&gt;Harker&lt;/b&gt;, der Inhaber des &lt;b&gt;Königssargs&lt;/b&gt;, hält gerüchteweise jede Menge Geld in seinen Gemächern versteckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>&lt;b&gt;Harker&lt;/b&gt; lehnte die Rückzahlung von &lt;b&gt;Taernas&lt;/b&gt; Schulden ab. Er ist der Meinung, dass ihre Dienste der Schenke auf lange Sicht mehr Gewinn einbringen würden. Ich muss überzeugender sein oder mehr Geld anbieten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe alle notwendigen Darsteller aufgetrieben, damit die Holzbein-Truppe ihr Stück aufführen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

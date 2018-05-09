@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_rdc_faction_questline\fct_qst_rdc01_poko_kohara</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Geringe Chancen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Zerstöre den leuchtenden Adra auf &lt;b&gt;Poko Kohara&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Atsura&lt;/b&gt; beim &lt;b&gt;Kaiserlichen Kommando&lt;/b&gt; in der &lt;b&gt;Messingzitadelle&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Atsura&lt;/b&gt; hat mich gebeten, die Pläne der Vailianischen Handelsgesellschaft für &lt;b&gt;Poko Kohara&lt;/b&gt; zu durchkreuzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Atsura&lt;/b&gt;, der Großsekretär der Königlichen Todesfeuer-Gesellschaft, möchte, dass ich den Fortschritt der Vailianer auf &lt;b&gt;Poko Kohara&lt;/b&gt; aufhalte.
+
+Er hat mich gebeten, eine Möglichkeit zu finden, wie ich den leuchtenden Adra dort unbrauchbar machen kann. Er hat mir keine detaillierten Anweisungen gegeben, aber mir wird schon etwas einfallen, sobald ich mir die Lage vor Ort angesehen habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Atsura&lt;/b&gt; wird wissen wollen, was auf &lt;b&gt;Poko Kohara&lt;/b&gt; geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>&lt;b&gt;Atsura&lt;/b&gt; war sehr erfreut zu erfahren, dass es mir gelungen ist, die Säule mit leuchtendem Adra auf &lt;b&gt;Poko Kohara&lt;/b&gt; zu zerstören. Gleichzeitig war er fasziniert von den Auswirkungen, die dies auf die Stürme dort hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>&lt;b&gt;Atsura&lt;/b&gt; war sehr enttäuscht zu erfahren, dass es mir gelungen ist, die Säule mit leuchtendem Adra auf &lt;b&gt;Poko Kohara&lt;/b&gt; wiederherzustellen. Allerdings war er fasziniert von den Auswirkungen, die dies auf die Stürme dort hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Die Königliche Todesfeuer-Gesellschaft will nichts mehr mit mir zu tun haben, ich werde ihnen also so schnell nicht wieder Bericht erstatten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

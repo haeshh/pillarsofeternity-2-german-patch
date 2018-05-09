@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_hunter_camp_lurker</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du bahnst dir deinen Weg durch die dichten, hügeligen Dschungel im Westen von Neketaka, als du auf ein kleines Lager triffst. Auf den ersten Blick scheint es verlassen zu sein – die zwei Zelte sind eingestürzt – aber dann siehst du die Leichen.
+
+Zwei Leichen, in Stücke gerissen und zum Großteil aufgefressen, liegen verstreut auf der dunklen Erde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Den Spuren folgen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vom Rand des Gebüsches siehst du mehrere Lauerer inmitten einiger weniger knolliger Feuchtsporen. Die urweltlichen Geschöpfe verharren fast vollkommen ruhig und scheinen nicht bedrohlicher zu sein als die Bäume um sie herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Deine Waffe ziehen und angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Näher heranschleichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 3] führt dich schweigend durch das Unterholz, nur um vor dir auf die Knie zu gehen – ein Knöchel hatte sich in einer Wurzel verfangen. [Specified 3] faucht vor Schmerz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du schleichst dich auf die Lichtung, bleibst aber mit deinem Fuß an einer Wurzel hängen. Du stöhnst vor Schmerzen auf, als du dir im Fallen den Knöchel verrenkst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Lauerer bewegen sich in deine Richtung, als winzige Sporen aus dem Unterholz empor sprießen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du erkennst die großen, ungleichmäßigen, runden Spuren als diejenigen eines &lt;link="stringtooltip://cyclopedia/49"&gt;Lauerers&lt;/link&gt;, eines riesigen Konglomerats  fleischfressender Pflanzen.
+
+Du bemerkst ebenfalls eine breite Schleifspur zwischen den Fährten. Anscheinend haben die Lauerer etwas hinter sich hergeschleppt, als sie diesen Ort verlassen haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du schleichst durch das Unterholz ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Nach Überresten suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ein paar Felle, Geweihe und andere Trophäen liegen im Lager verstreut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Einen magischen Köder als Ablenkung heraufbeschwören.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Die Spuren untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Jeder Abdruck ist so groß wie ein Kuchen und hat ungefähr die gleiche Form.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Möchtest du deine Lampe einsetzen, Xoti?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Nach der Anwesenheit von Geistern suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Das Gebiet durchsuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Wie konnte das passieren? Dies ... Dies sind Kinder der Dämmerungssterne von Neketaka. Ich... Ich habe mit ihnen gebetet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Specified 4] zeigt auf die großen, runden Spuren. "Siehst du diese Ungleichheit? Von den Wurzeln eines &lt;link="stringtooltip://cyclopedia/49"&gt;Lauerers&lt;/link&gt;."
+
+Zwischen den Fährten sieht man eine breite Schleifspur. [Specified 4] sagt, dass die Lauerer wohl etwas Schweres hinter sich hergezogen haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Das Lager wurde gründlich zerstört. Die Zelte sehen aus, als wären sie von einem großen Fuß zertreten worden, ein Kessel liegt auf der Seite, ist fast völlig platt und das Feuer wurde ausgetreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Außer den Leichen sticht in dem Lager nichts besonders hervor. 
+
+Außer einer Spur zerknickter Bäume und zerbrochener Gliedmaßen Richtung Süden und die darauf folgenden tiefen Spuren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du fokussierst deine Wächter-Fähigkeiten und öffnest dich selbst für die Anwesenheit jeglicher verbleibender Essenz. Eine Vision zieht an dir und reißt dich wie die Strömung eines gefluteten Flusses mit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ruht jetzt, meine Brüder. Ich verspreche, ich werde eure Reise beschützen."
+
+Mit gebeugtem Kopf schwingt Xoti ihre Laterne lange Zeit für die Ernte und um den Seelen der Missionare genug Zeit zu geben, den Ruf des Lichtes anzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Die Leichen begraben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Die Leichen verbrennen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du kratzt dich an der Unterseite deines Kiefers und denkst deine Optionen durch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Die Untersuchung beenden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Nachdem du die Untersuchung des Lagers beendet hast, machst du einen Schritt zurück in Richtung Pfad.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Zurückgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du sammelst die Überreste ein und sammelst dann Zunder und Holz, um ein kleines Lagerfeuer zu entzünden. Als die Körper brennen, versuchst du, nicht zu viel von dem Rauch, der von dem verbrennenden Fleisch emporsteigt, einzuatmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Der dunkle Boden ist weich und innerhalb weniger Stunden hast du ein Loch gegraben, das groß genug für die Überreste ist. Du lässt sie hinab, bedeckst sie und übergibst sie so an das Rad.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Und der Zyklus setzt sich fort. Obwohl der Körper nun seinem Ende begegnet ist - die Seele wird ihren Weg zu einem neuen Anfang finden. 
+
+Xoti senkt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ich bin froh, dass wenigstens irgendjemand über sie wacht. Auch wenn es nicht unbedingt Eothas ist. Ich weiß es wirklich zu schätzen, dass du dies übernimmst." Edér nickt dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Und der Zyklus setzt sich fort. Obwohl der Körper nun seinem Ende begegnet ist - die Seele wird ihren Weg zu einem neuen Anfang finden. 
+
+Xoti senkt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich hoffe nur, dass dein Pflanzen nicht diejenigen herbeiruft, die die Aussaat vorbereitet haben, Käpt'n."
+
+Aufmerksam beobachtet Serafen die Umgebung der Straße. Seine Ohren zucken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Die Bäume im Süden sind abgeknickt, als wäre, was auch immer dies hier verursacht hat, aus dieser Richtung gekommen und wieder dorthin verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Die Leichen – das, was von ihnen übrig ist – tragen die zerfetzten Reste der Kleidung und heiligen Symbole der Dämmerungssterne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Eine Handvoll Pfeile stecken in den Bäumen südlich des Lagers wie in einem Nadelkissen. An den Stellen, an denen sie sich in die Stämme gebohrt haben, sieht man eine dünne Eisschicht an der Rinde. Sie schmilzt langsam in der warmen tropischen Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du siehst die Kreaturen, die zweimal so groß wie ein Mensch sind, zwischen den Ruinen deines Lagers stehen. Sie essen die Leichen deiner Gefährten. Lianen und Moos hängen von ihrer amorphen, rindenbedeckten Gestalt herunter. 
+
+&lt;link="stringtooltip://cyclopedia/49"&gt;Lauerer&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Wellen von Wut und Furcht überkommen dich ... Wut und Furcht, aber auch Glaube an den zurückgekehrten Eothas – und mit einem Gebet auf den Lippen feuerst du Pfeile von deinem verzauberten Bogen ab, von denen jeder so kalt wie Eisregen ist.
+
+Du hörst ein Rauschen zu deiner Rechten und drehst dich um ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Die Vision endet plötzlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Die Kreaturen haben sich nicht wirklich bemüht, ihre Spuren zu verwischen und du kannst ihnen leicht tiefer in den Dschungel folgen. Der Pfad führt zu einer Lichtung und du betrittst sie fast, ohne die Gefahr zu erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Durch das Fernrohr schauen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Zusätzlich zu den Lauerern und Feuchtsporen enthüllt dein Fernglas einige kleinere Sporlinge, die im Unterholz lauern. 
+
+Außerdem siehst du den Leichnam einer jungen Elfenfrau, ihr rechtes Bein ist furchtbar verdreht. Ihre rechte Hand umklammert einen Bogen, dessen reich geschnitztes Holz aufgrund einer dünnen Frostschicht leicht zu schimmern scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Du verwebst mit einem ruhigen Gesang die Essenz dieses Ortes zu einem lauten Ruf, dessen Effekt sich auf die entfernte Ecke der Lichtung richtet. Momente später hörst du krachende Geräusche von der herbeigerufenen Entität, die durch das dichte Unterholz läuft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 3] führt dich schweigend durch das Unterholz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 4] singt leise und führt einen komplexen Ritus durch und ruft dadurch etwas am entfernten Ende der Lichtung herbei. Es kracht laut durch das dichte Gestrüpp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Die Lauerer drehen sich langsam um und stampfen dem Geräusch hinterher. Die Sporen bleiben jedoch hier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Die Lauerer vor dir wenden sich dir zu ... und du hörst weitere Bewegungen der Blätter im Dschungel hinter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Du kehrst zur Lichtung im Dschungel außerhalb von Neketaka zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Eine kleine Truhe, die in dem zusammengestürzten Zelt vergraben ist, enthält eine Auswahl frischer Nahrungsmittel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

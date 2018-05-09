@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hasongo\11_si_grapple_dining_hall_side</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein ganzer Abschnitt der Mauer wurde zerstört, was einen Haufen scharfkantiges Geröll hinterlassen hat.
+
+Zerbrochene Planken und Zinnen ragen auf der anderen Seite des Durchbruchs hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Dein Seil überbrückt die Bresche. Es weht im Wind hin und her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Einen Enterhaken über die Bresche werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du schleuderst einen Enterhaken auf die kaputte Mauer. Er verfängt sich sicher am Wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Das Seil überqueren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du gehst auf dem Seil zur anderen Seite der Mauer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Einen Enterhaken über die Bresche werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 0] schleudert einen Enterhaken auf die kaputte Mauer. Der Enterhaken prallt nutzlos an der Seite ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du schleuderst einen Enterhaken auf die kaputte Mauer. Der Enterhaken prallt nutzlos an der Seite ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Specified 0] schleudert einen Enterhaken auf die kaputte Mauer. Er verfängt sich sicher am Wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du schleuderst einen Enterhaken auf die kaputte Mauer. Er verfängt sich sicher am Wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du schleuderst einen Enterhaken auf die kaputte Mauer. Der Enterhaken prallt nutzlos an der Seite ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

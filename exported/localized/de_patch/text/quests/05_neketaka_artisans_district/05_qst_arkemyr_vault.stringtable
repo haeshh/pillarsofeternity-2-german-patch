@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_qst_arkemyr_vault</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Schatzkammer des Erzmagiers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde einen Weg in &lt;b&gt;Arkemyrs Anwesen&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde &lt;b&gt;Arkemyrs Schatzkammer&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Öffne &lt;b&gt;Arkemyrs Schatzkammer&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Beschaffe die Tafel aus der &lt;b&gt;Schatzkammer&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bringe das Artefakt zu &lt;b&gt;Tumara&lt;/b&gt; oder &lt;b&gt;Netehe&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Rauatai und die Huana erheben beide Anspruch auf das Harapo-Epos – eine antike Tafel, die sich derzeit im Besitz des Zauberers &lt;b&gt;Arkemyr&lt;/b&gt; befindet. Sowohl &lt;b&gt;Tumara&lt;/b&gt; als auch &lt;b&gt;Netehe&lt;/b&gt; sind begierig darauf, die Tafel in die Hände zu bekommen. Jeder von ihnen wäre dankbar, wenn das Epos ihnen in die Hände fallen würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich muss einen Weg in &lt;b&gt;Arkemyrs Anwesen&lt;/b&gt; in &lt;b&gt;Perikis Aussichtspunkt&lt;/b&gt; finden. Die offensichtliche Option ist die Vordertür, die aber verschlossen ist – und zweifelsohne bewacht wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe es in &lt;b&gt;Arkemyrs Anwesen&lt;/b&gt; geschafft. Jetzt muss ich nur noch seine &lt;b&gt;Schatzkammer&lt;/b&gt; finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe &lt;b&gt;Arkemyrs Schatzkammer&lt;/b&gt; gefunden, die Tür wird aber durch eine Art Kombinationsschloss mit seltenen Edelsteinen gesichert. Durch Herumraten werde ich sie kaum aufbekommen. Ich brauche also die Kombination, um in die Schatzkammer zu gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe &lt;b&gt;Arkemyrs Schatzkammer&lt;/b&gt; aufgebrochen. Das Harapo-Epos sollte sich darin befinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Da ich nun im Besitz des Harapo-Epos bin, ist die einzige Frage nur, was ich damit anstellen soll. &lt;b&gt;Tumara&lt;/b&gt; wird mich vor dem &lt;b&gt;Kaiserlichen Kommando&lt;/b&gt; an der &lt;b&gt;Messingzitadelle&lt;/b&gt; erwarten. &lt;b&gt;Netehe&lt;/b&gt; wartet vor dem &lt;b&gt;Palast&lt;/b&gt; in &lt;b&gt;Schlangenkrone&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Arkemyrs&lt;/b&gt; Lehrling &lt;b&gt;Fassina&lt;/b&gt; müsste mehr über das Anwesen wissen. Sie betreibt den &lt;b&gt;Dunklen Schrank&lt;/b&gt; in &lt;b&gt;Perikis Aussichtspunkt&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Jemand namens &lt;b&gt;Ifren&lt;/b&gt; hat &lt;b&gt;Arkemyr&lt;/b&gt; gegen sich aufgebracht und wurde dafür in die Wahrsagermaschine im &lt;b&gt;Dunklen Schrank&lt;/b&gt; seelengebunden. Er weiß vielleicht mehr darüber, wie ich in &lt;b&gt;Arkemyrs&lt;/b&gt; Anwesen gelangen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>In der Mitte des Schlosses fehlt ein Edelstein. Spuren um die Stelle herum deuten darauf hin, dass ihn jemand kürzlich herausgebrochen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe den fehlenden Edelstein für das Schloss zur Schatzkammer wiedergefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe die Kombination für das Schloss zur Schatzkammer erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Das Schloss zur Schatzkammer wurde repariert und sollte jetzt ohne den fehlenden Edelstein funktionieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ein Imp in der Lounge im ersten Stock steckt angeblich hinter dem Diebstahl des Edelsteins aus dem Schloss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>&lt;b&gt;Ifren&lt;/b&gt; meinte, dass er und sein Partner über einen natürlichen Tunnel mit Ursprung im &lt;b&gt;Leuchtenden Badehaus&lt;/b&gt; ins Anwesen gelangt seien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>&lt;b&gt;Fassina&lt;/b&gt; hat einen Schlüssel zu &lt;b&gt;Arkemyrs Anwesen&lt;/b&gt;, gibt ihn aber nicht her. Ich werde ihn ihr stehlen oder mit Gewalt abnehmen müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich könnte vom oberen Stockwerk des &lt;b&gt;Dunklen Schranks&lt;/b&gt; über den Balkon in &lt;b&gt;Arkemyrs Anwesen&lt;/b&gt; gelangen. Dafür brauche ich aber Enterhaken und Seil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>&lt;b&gt;Netehe&lt;/b&gt; oder &lt;b&gt;Tumara&lt;/b&gt; sollten eine Idee haben, wie ich in &lt;b&gt;Arkemyrs Anwesen&lt;/b&gt; gelangen kann. Ich finde sie tagsüber in der &lt;b&gt;Schlangenkrone&lt;/b&gt; beziehungsweise in der &lt;b&gt;Messingzitadelle&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;Arkemyrs Schatzkammer&lt;/b&gt; befindet sich in der südwestlichen Ecke der untersten Etage des Anwesens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Wenn es mir gelingt, eine von &lt;b&gt;Arkemyrs&lt;/b&gt; persönlichen Roben in seiner Kammer zu finden, könnte ich seine Imp-Wachen täuschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Ich habe den Schlüssel zur Vordertür von &lt;b&gt;Arkemyrs&lt;/b&gt; Anwesen von &lt;b&gt;Fassina&lt;/b&gt; erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>&lt;b&gt;Arkemyr&lt;/b&gt; nannte seinen Imps eine Losung, mit der sie ihn wiedererkennen, sollte er seine Gestalt ändern – Cider und Käse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Ich habe die Imps mit Erfolg an der Nase herumgeführt und kann das Herrenhaus nun ungestört erkunden – natürlich nur, solange ich mich friedlich verhalte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Artefakt zur Königlichen Todesfeuer-Gesellschaft zurückgebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe das Artefakt zum Volk der Huana zurückgebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

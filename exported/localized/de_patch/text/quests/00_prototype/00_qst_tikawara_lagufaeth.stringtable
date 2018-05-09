@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\00_prototype\00_qst_tikawara_lagufaeth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Zorn der Brutmutter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mache Jagd auf die Brutmutter in der &lt;b&gt;Hōhina-Schlucht&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zurück zu &lt;b&gt;Himuihi&lt;/b&gt; beim Handelsposten in &lt;b&gt;Tikawara&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Rette die Schlüpflinge, die im Dorf gefangen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Töte die Lagufaeth-Brutmutter in der &lt;b&gt;Hōhina-Schlucht&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Rette die Schlüpflinge, die im &lt;b&gt;Tikawara&lt;/b&gt;-Dorf gefangen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Himuihi&lt;/b&gt; ist besorgt, dass die Lagufaeth von &lt;b&gt;Tikawara&lt;/b&gt; eine ernste Gefahr für das Dorf darstellen. Sie will die Brutmutter tot sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Himuihi will die Lagufaeth von &lt;b&gt;Tikawara&lt;/b&gt; beseitigen. Sie erzählte mir, dass die Brutmutter in einer Schlucht auf der Insel lebt. Wenn ich sie töte, sollte das den Rest der Kreaturen zerstreuen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe die Brutmutter getötet. &lt;b&gt;Himuihi&lt;/b&gt; wird erfreut sein, das zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Der Stamm hat einige Lagufaeth-Schlüpflinge gefangen. Die Brutmutter will, dass sie aus dem Dorf befreit werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>&lt;b&gt;Himuihi glaubt, dass die Lagufaeth das Dorf in Ruhe lassen werden, wenn ich die Brutmutter töte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Die Lagufaeth-Brutmutter ist verzweifelt. Sie will ihre Schlüpflinge retten. Wenn sie freigelassen werden, könnte das eine Waffenruhe zwischen den Kreaturen und dem Stamm ermöglichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe die Brutmutter in der Schlucht gefunden. Seltsamerweise hat sie mich nicht angegriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe die gefangenen Schlüpflinge im Dorf befreit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Die Brutmutter könnte jetzt davon überzeugt werden, das Dorf in Ruhe zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Man sagte mir, dass &lt;b&gt;Himuihi&lt;/b&gt; sich um dieses Lagufaeth-Problem kümmern würde. Du findest sie in der Nähe des Handelspostens im Dorf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>&lt;b&gt;Himuihi&lt;/b&gt; hat mir die Erlaubnis erteilt, die Lagufaeth-Schlüpflinge freizulassen, die im Dorf gefangengehalten wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Ich habe beim Strand einen Käfig mit etlichen Lagufaeth-Schlüpflingen darin gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>&lt;b&gt;Himuihi&lt;/b&gt; hat sich geweigert, die Schlüpflinge freizulassen. Ich könnte das Problem mit den Schlüpflingen auch selbst aus der Welt schaffen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Lagufaeth-Brutmutter getötet und das Dorf von ihrer bedrohlichen Präsenz befreit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe die gefangenen Lagufaeth freigelassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe einen Waffenstillstand zwischen dem Stamm und den Lagufaeth von &lt;b&gt;Tikawara&lt;/b&gt; vermittelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe sowohl die Lagufaeth-Brutmutter als auch Himuihi getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Die Huana haben einige Lagufaeth-Schlüpflinge gefangen genommen, und die Brutmutter will sie wiederhaben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

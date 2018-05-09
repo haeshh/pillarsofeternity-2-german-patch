@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_desert_ruin_sand_trap_escape</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>83</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sand dringt in den Raum ein, sammelt sich zu deinen Füßen und steigt rasch höher und höher. Der einzige Fluchtweg ist die steinerne Tür hinter dir - und sie ist fest verschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Versuchen, die Tür zu öffnen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Einen Zauberspruch wirken, der die Tür zersetzen soll.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Eine Granate gegen die Tür schleudern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Eine Erschütterungsbombe gegen die Tür werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Eine Hitzebombe gegen die Tür werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Eine Implosionsladung gegen die Tür werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 1] greift nach der Türkante und zieht. Die Tür öffnet sich wenige Zentimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 1] hastet zur Tür und versucht, sie aufzureißen, doch sie bewegt sich nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Kräftiger schieben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Die Tür loslassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Specified 1] lässt die Tür los.. Sie knallt mit einer Kraft zu, die Gestandene zermalmen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0] beendet den Zauberspruch, der die Tür zersetzen soll, und schleudert ihn gegen den Stein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Der Riss reißt die Tür in zwei Hälften. Sie zerfällt und stürzt zu Boden. Die Gruppe drängt sich durch die Tür. Endlich sind alle sicher!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Mit einem lauten Krachen bildet sich ein Riss in der Tür. Die Tür ist massiv beschädigt, jedoch nicht zerstört.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Der Zauberspruch kracht gegen die Tür und umgibt sie mit einer zersetzenden Flüssigkeit, doch das ruft nur leichte Schäden an der Tür hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Die Granate trifft auf die Tür und explodiert in einer Wolke aus giftigem Rauch und Feuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Die Tür zerfällt und kracht zu Boden. Die Gruppe drängt sich durch die Tür. Endlich sind alle sicher!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Die Erschütterungsbombe trifft auf die Tür und explodiert in einer Wolke aus giftigem Rauch und Feuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Die Hitzebombe trifft auf die Tür und explodiert in einer Wolke aus giftigem Rauch und Feuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Die Implosionsladung trifft auf die Tür und explodiert in einer Wolke aus giftigem Rauch und Feuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Die Tür zerfällt und kracht zu Boden. Die Gruppe drängt sich durch die Tür. Endlich sind alle sicher!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Die Tür zerfällt und kracht zu Boden. Die Gruppe drängt sich durch die Tür. Endlich sind alle sicher!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Die Tür ist zerstört. Die Gruppe drängt sich durch die Tür. Endlich sind alle sicher!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Mit einem angestrengten Ächzen schiebt [Specified 1] die Tür ein wenig weiter auf. Jetzt steht sie weit genug offen, dass der Rest der Gruppe sich durch die Lücke zwängen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Specified 1] bemüht sich angestrengt, die Tür offen zu halten, doch vergebens. Die Tür knallt zu und zerquetscht dabei die Hände von [Specified 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Die Tür aufwuchten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Fliehen, während [Specified 1] die Tür aufhält.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1] hält die Tür gerade lange genug auf, dass die Gruppe entkommen kann. Nachdem sich die letzte Person durch die Tür gezwängt hat, versetzt [Specified 1] ihr einen heftigen Stoß und bringt sich durch einen Sprung aus dem Raum in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 1] zieht die Tür auf und hält sie offen, während der Rest der Gruppe entkommt. Als alle in Sicherheit sind, läuft [Specified 1] hinaus auf den Gang. Die Tür fällt mit einem lauten Knall zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 1] versucht, die Tür zu öffnen, doch der Druck des Sandes ist zu hoch, und die Tür schlägt knallend zu. Dabei kugelt sich [Specified 1] die Schulter aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 1] hält die Tür gerade lange genug auf, dass die Gruppe entkommen kann. Als sich die letzte Person durch die Tür gezwängt hat, versucht [Specified 1], sie mit einem heftigen Stoß zu schließen. Doch der Stoß ist nicht stark genug [Specified 1] wird vom eindringenden Sand erfasst und lebendig begraben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Specified 1] hält die Tür gerade lange genug auf, dass die Gruppe entkommen kann. Nachdem sich die letzte Person durch die Tür gezwängt hat, versetzt [Specified 1] ihr einen heftigen Stoß und will sich durch einen Sprung aus dem Raum in Sicherheit bringen. Doch als die Tür sich schließt, fängt sich das Bein von [Specified 1] darin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Du versuchst, die Bombe scharf zu machen, um sie zu werfen. Doch der Sand steigt zu schnell zu hoch. Du nimmst deinen letzten Atemzug. Dabei steht dir das enttäuschte Gesicht der bleichen Ritterin vor Augen.
+
+Du wirst lebendig begraben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Der Sand reicht dir schon bis zur Brust, während du dich noch immer hastig darum bemühst, die Bombe scharf zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Der Sand reicht dir bis zu den Knien. Du bereitest die Bombe vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Du versuchst, die Bombe scharf zu machen, um sie zu werfen. Doch der Sand steigt zu schnell zu hoch. Du nimmst deinen letzten Atemzug. Dabei steht dir das enttäuschte Gesicht der bleichen Ritterin vor Augen.
+
+Du wirst lebendig begraben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Der Sand reicht dir schon bis zur Brust, während du dich noch immer hastig darum bemühst, die Bombe scharf zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Der Sand reicht dir bis zu den Knien. Du bereitest die Bombe vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Du versuchst, die Bombe scharf zu machen, um sie zu werfen. Doch der Sand steigt zu schnell zu hoch. Du nimmst deinen letzten Atemzug. Dabei steht dir das enttäuschte Gesicht der bleichen Ritterin vor Augen.
+
+Du wirst lebendig begraben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Der Sand reicht dir schon bis zur Brust, während du dich noch immer hastig darum bemühst, die Bombe scharf zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Der Sand reicht dir bis zu den Knien. Du bereitest die Bombe vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Du versuchst, die Bombe scharf zu machen, um sie zu werfen. Doch der Sand steigt zu schnell zu hoch. Du nimmst deinen letzten Atemzug. Dabei steht dir das enttäuschte Gesicht der bleichen Ritterin vor Augen.
+
+Du wirst lebendig begraben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Der Sand reicht dir schon bis zur Brust, während du dich noch immer hastig darum bemühst, die Bombe scharf zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Der Sand reicht dir bis zu den Knien. Du bereitest die Bombe vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Specified 0] versucht, den Sand mit einem Zauberspruch zu belegen, doch er steigt zu schnell zu hoch. Du nimmst deinen letzten Atemzug. Dabei steht dir das enttäuschte Gesicht der bleichen Ritterin vor Augen.
+
+Du wirst lebendig begraben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Es gelingt [Specified 0], den Sand mit einem Zauberspruch zu belegen, als er bereits bis auf Brusthöhe angestiegen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Der Sand reicht dir schon über die Knie, als [Specified 0] einen Zauberspruch wirkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Du kämpfst darum, die Tür noch rechtzeitig zu öffnen, doch du bist zu spät.
+
+Der Sand steigt weiter an und bedeckt deinen Mund. Als du deinen letzten Atemzug nimmst, siehst du in deinem Geist das enttäuschte Gesicht der bleichen Ritterin vor dir.
+
+Du wirst lebendig begraben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Specified 1] kämpft sich zur Tür vor. Der Sand steigt weiter an, über deine Brust hinaus, und presst dir den Atem aus den Lungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Der Sand steigt weiter an, über deine Knie hinaus. ,[Specified 1] kämpft sich zur Tür vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Specified 1] bemüht sich darum, die Tür weiter zu öffnen. Aber [Specified 1] ist zu spät.
+
+Der Sand steigt weiter an, bedeckt deinen Mund. Du nimmst deinen letzten Atemzug. Dabei steht dir das enttäuschte Gesicht der bleichen Ritterin vor Augen.
+
+Du wirst lebendig begraben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Specified 1] stemmt sich gegen die Tür. Der Sand steigt weiter, über deine Brust hinaus. Sein Gewicht presst dir den Atem aus den Lungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Specified 1] stemmt sich gegen die Tür. Der Sand steigt an, über deine Knie hinaus. Er macht dir jede Bewegung unmöglich und hält dich gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Specified 1] versucht alles, um die Tür zu öffnen, doch der Sand fließt gnadenlos weiter. Die Tür knallt zu. [Specified 1] wird zermalmt. Es gibt keinen Ausweg. Die Gruppe wird unter dem einströmenden Sand lebendig begraben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Specified 1] wirft sich mit der Schulter gegen die Tür und stemmt sich dagegen. Der Sand hat jetzt bereits Brusthöhe erreicht, und es sieht nicht so aus, als ob er aufhören würde zu strömen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Mit heraustretenden Muskeln stemmt sich [Specified 1] gegen die Tür. Der Sand steigt bis zu deinen Knien an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Die Explosion beschädigt kaum die Oberfläche der Tür, und hinterlässt nur einen kleinen schwarzen Fleck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Specified 0] beendet den Zauberspruch, der die Tür zersetzen soll, und schleudert ihn gegen den Stein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 1] bemüht sich darum, die Tür rechtzeitig zu öffnen. Aber [Specified 1] ist zu spät.
+
+Der Sand steigt weiter an, bedeckt deinen Mund. Als du deinen letzten Atemzug nimmst, siehst du in deinem Geist das enttäuschte Gesicht der Bleichen Ritterin vor dir.
+
+Du wirst lebendig begraben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Du kämpfst dich zur Tür vor. Der Sand steigt weiter an, über deine Brust hinaus, und presst dir den Atem aus den Lungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Du greifst nach der Türkante und ziehst. Die Tür öffnet sich wenige Zentimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Als der Sand bis über deine Knie hinaus ansteigt, kämpfst du dich zur Tür vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Du kämpfst dich zur Tür vor und versuchst, sie aufzureißen, doch sie bewegt sich nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Du versuchst verzweifelt, die Tür weiter zu öffnen, aber es ist zu spät.
+
+Der Sand steigt weiter an, bedeckt deinen Mund. Als du deinen letzten Atemzug nimmst, siehst du in deinem Geist das enttäuschte Gesicht der Bleichen Ritterin vor dir.
+
+Du wirst lebendig begraben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Du drückst gegen die Tür. Der Sand steigt weiter, über deine Brust hinaus. Sein Gewicht presst dir den Atem aus den Lungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Du drückst gegen die Tür. Der Sand steigt an, über deine Knie hinaus. Er macht dir jede Bewegung unmöglich und hält dich gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Mit einem angestrengten Ächzen schiebst die Tür ein wenig weiter auf. Jetzt steht sie weit genug offen, dass der Rest der Gruppe sich durch die Lücke zwängen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Du bemühst dich angestrengt, die Tür offen zu halten, doch vergebens. Die Tür knallt zu und zerquetscht dir dabei die Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Tür offen halten, während deine Gruppe flüchtet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Du hältst die Tür gerade lange genug auf, dass die Gruppe entkommen kann. Nachdem sich die letzte Person durch die Tür gezwängt hat, versetzt du ihr einen heftigen Stoß und bringst dich durch einen Sprung aus dem Raum in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Du versuchst alles, um die Tür zu öffnen, doch der Sand fließt gnadenlos weiter. Die Tür knallt zu und zerquetscht dich dabei. Es gibt keinen Ausweg. Die Gruppe wird unter dem einströmenden Sand lebendig begraben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Du hältst die Tür gerade lange genug auf, dass die Gruppe entkommen kann. Nachdem sich die letzte Person durchgezwängt hat, versetzt du der Tür einen heftigen Stoß und möchtest dich durch einen Sprung aus dem Raum in Sicherheit bringen. Doch du bleibst mit einem Bein in der Tür hängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Du wirfst dich mit der Schulter gegen die Tür und stemmst dich dagegen. Der Sand hat jetzt bereits Brusthöhe erreicht, und es sieht nicht so aus, als ob er aufhören würde zu strömen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Mit heraustretenden Muskeln stemmst du dich gegen die Tür. Der Sand steigt bis zu deinen Knien an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Du ziehst die Tür auf und hältst sie offen, während der Rest der Gruppe entkommt. Als alle in Sicherheit sind, läufst du hinaus auf den Gang. Die Tür fällt mit einem lauten Knall zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Du versuchst, die Tür aufzudrücken, aber der Druck durch den Sand ist zu groß und die Tür regt sich nicht mehr. Du verdreht dir dabei eine Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Du lässt die Tür los. Sie knallt mit einer Kraft zu, die Gestandene zermalmen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Du versuchst, den Sand mit einem Zauberspruch zu belegen, doch er steigt zu schnell zu hoch. Als du deinen letzten Atemzug nimmst, siehst du in deinem Geist das enttäuschte Gesicht der Bleichen Ritterin vor dir.
+
+Du wirst lebendig begraben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Es gelingt dir, den Sand mit einem Zauberspruch zu belegen, als er bereits bis auf Brusthöhe angestiegen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Der Sand reicht dir schon über die Knie, als du den Zauberspruch wirkst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Du vollendest den Verätzungszauber und wirfst ihn auf die Tür.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Du vollendest den Verätzungszauber und wirfst ihn auf die Tür.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

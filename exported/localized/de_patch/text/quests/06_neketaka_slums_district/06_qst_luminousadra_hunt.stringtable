@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_qst_luminousadra_hunt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Güter und Dienstleistungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beschaffe drei Kisten mit rohem leuchtenden Adra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Liefere den Adra an die verrückte Morena.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Beschaffe vier Kisten mit rohem leuchtenden Adra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Beschaffe sechs Kisten mit rohem leuchtenden Adra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Finde die &lt;b&gt;verrückte Morena&lt;/b&gt; im &lt;b&gt;Gewölbe&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Kapitän Aeldys&lt;/b&gt; in &lt;b&gt;Fort Todeslicht&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die &lt;b&gt;verrückte Morena&lt;/b&gt;, die Príncipi-Kapitänin, die das &lt;b&gt;Gewölbe&lt;/b&gt; im Schlund regiert, möchte raffinierten leuchtenden Adra zu Schwarzmarktpreisen verkaufen. Ich muss einige Kisten für sie beschaffen, wenn ich mir ihre Gunst sichern möchte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die verrückte Morena hat einen Käufer, der rohen leuchtenden Adra zu Schwarzmarktpreisen sucht, sie hat aber nichts davon auf Lager.
+
+Ihr zufolge hat die Vailianische Handelsgesellschaft rohen leuchtenden Adra in ihrer &lt;b&gt;Mühle&lt;/b&gt; im &lt;b&gt;Ankerplatz der Königin&lt;/b&gt; gehortet.
+
+Ich könnte die drei benötigten Kisten aus der Mühle stehlen, oder die Schiffe der Gesellschaft auf See überfallen, wenn sie den Adra aus Neketaka befördern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Die verrückte Morena erwartet die Kisten mit raffiniertem leuchtenden Adra im &lt;b&gt;Gewölbe&lt;/b&gt; von Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Die verrückte Morena hat einen Käufer, der rohen leuchtenden Adra zu Schwarzmarktpreisen sucht, sie hat aber nichts davon auf Lager.
+
+Ihr zufolge hat die Vailianische Handelsgesellschaft rohen leuchtenden Adra in ihrer &lt;b&gt;Mühle&lt;/b&gt; im &lt;b&gt;Ankerplatz der Königin&lt;/b&gt; gehortet.
+
+Ich könnte die vier benötigten Kisten aus der Mühle stehlen, oder die Schiffe der Gesellschaft auf See überfallen, wenn sie den Adra aus Neketaka befördern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Die verrückte Morena hat einen Käufer, der rohen leuchtenden Adra zu Schwarzmarktpreisen sucht, sie hat aber nichts davon auf Lager.
+
+Ihr zufolge hat die Vailianische Handelsgesellschaft rohen leuchtenden Adra in ihrer &lt;b&gt;Mühle&lt;/b&gt; im &lt;b&gt;Ankerplatz der Königin&lt;/b&gt; gehortet.
+
+Ich könnte die sechs benötigten Kisten aus der Mühle stehlen, oder die Schiffe der Gesellschaft auf See überfallen, wenn sie den Adra aus Neketaka befördern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich sollte Aeldys Untergebene, die &lt;b&gt;verrückte Morena&lt;/b&gt;, im &lt;b&gt;Gewölbe&lt;/b&gt; suchen. Das Gewölbe ist eine Höhle, die vor den Behörden der Huana-Hauptstadt Neketaka geheimgehalten wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>&lt;b&gt;Kapitän Aeldys&lt;/b&gt; möchte in ihrer Festung, &lt;b&gt;Fort Todeslicht&lt;/b&gt;, mit mir sprechen. Sie hat mir zugesichert, dass dies keine Falle sei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die &lt;b&gt;verrückte Morena&lt;/b&gt; will mindestens drei Kisten mit rohem leuchtenden Adra für ihren Käufer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Die &lt;b&gt;verrückte Morena&lt;/b&gt; will mindestens vier Kisten mit rohem leuchtenden Adra für ihren Käufer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Die &lt;b&gt;verrückte Morena&lt;/b&gt; will mindestens sechs Kisten mit rohem leuchtenden Adra für ihren Käufer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe der verrückten Morena den geforderten Adra beschafft und sie bot mir als Dank die Dienste ihrer Mannschaft im Gewölbe an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe der verrückten Morena den Adra beschafft. Sie bot mir die Dienste ihrer Mannschaft im Gewölbe an und meinte, ich solle ihre Anführerin Aeldys in Fort Todeslicht aufsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>&lt;b&gt;Kapitän Aeldys&lt;/b&gt; bat mich, eine ihrer Untergebenen, eine Kapitänin namens die &lt;b&gt;verrückte Morena&lt;/b&gt;, beim Schmuggeln zu unterstützen. Ich finde sie in einem geheimen Versteck irgendwo in Neketaka, das das &lt;b&gt;Gewölbe&lt;/b&gt; genannt wird. Wenn ich diese Príncipi-Kapitänin finde und sie unterstütze, ist Aeldys vielleicht zu einer engeren Zusammenarbeit mit mir bereit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Ich habe einen Brief von &lt;b&gt;Kapitän Aeldys&lt;/b&gt; erhalten. Sie weiß, dass ich mich um ihren Stellvertreter &lt;b&gt;Benweth&lt;/b&gt; gekümmert habe und will mich nun in &lt;b&gt;Fort Todeslicht&lt;/b&gt; sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

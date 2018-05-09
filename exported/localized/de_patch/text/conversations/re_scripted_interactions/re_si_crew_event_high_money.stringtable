@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_high_money</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du bist mit der Besatzung unter Deck und nippst an einem Krug. Du wachst über eine Partie Lurch, als sich dir eine kleine Gruppe Seeleute, die allesamt mehr als einen im Tee haben und sich dadurch noch mutiger fühlen, nähert.
+
+"Ahoi, Kapitän." [Specified 0] nimmt seine Kappe zum Gruße ab. "Mir und den Anderen hier ist aufgefallen, dass du auf deinen Reisen zu einigen Münzen gekommen bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich schätze deine gute Arbeit wirklich. Und das will ich dir auch zeigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Verständlich, dass jeder einen Teil der Prämie haben will. Teilt das unter euch auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Nein. Eure Bezahlung besteht aus Heuer, Verpflegung und Logis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Der Mund von [Specified 0] steht eine Weile offen, bevor er sich zu einem riesigen Lächeln verdreht. Sie erhebt ihren Krug. "Auf den verflucht besten Kapitän, den sich ein Matrose nur wünschen kann!" 
+
+Ein Chor aus Hurras folgt. Die Neuigkeiten haben den Rest der Besatzung schneller erreicht, als eine Flamme ein Pulverfass. Eine Weile lang grüßt dich die Mannschaft mit warmem Grinsen und gezogenen Hüten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Freudestrahlend verbeugt sich [Specified 0]. "Aye, aye, Kapitän."
+
+Die Seeleute nehmen den Geldbeutel, und die nächste halbe Stunde lang hörst du sie das Geld unter sich aufteilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 0] blickt finster drein. "Wie du meinst, Kapitän, wie du meinst. Aber ab und zu braucht der Körper mehr als nur altbackenen Schiffszwieback und verwässerten Grog." Die Anderen nicken muckend. "Dann lasse ich dich mal wieder in Ruhe."
+
+Noch Tage später sind die bösen Blicke, die dir auf deinen Runden auf dem Schiff entgegengebracht werden, unübersehbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du bist am Bug, als [Specified 0] und ein paar andere Besatzungsmitglieder mit ihren Hüten in der Hand langsam auf dich zukommen. 
+
+"Ahoi, Kapitän. Wir haben uns gefragt, ob du noch einmal über die Münzproblematik der Mannschaft nachgedacht hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du schaust vom Hinterdeck auf das Kielwasser des Schiffs, als du ein paar Besatzungsmitglieder von hinten kommen hörst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Also, du kommst ja aus dem Todesfeuer und so, und da dachten wir uns, dass es dir vielleicht gefallen würde, wenn wir einen Teil dieses Reichtums in deiner Heimat ausgäben ... das käme ja auch deinen Landsmännern zu Gute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Also, da wo du herkommst kennt man vielleicht nicht den Seefahrerkodex. Auf See teilt man alles gerecht, jedenfalls gerechter als an Land. Egal, ob es aus Plündern, Handel oder Abenteuer stammt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Na gut, dann habt ihr hier ein bisschen Trinkgeld. Aber jetzt zurück an die Arbeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Jeder von euch profitiert von den Münzen, die ich für das Schiff, seine Bewaffnung und Vorräte ausgebe. Ich wünschte, ich könnte euch allen etwas geben, aber das kann ich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Der Nächste, der mich nach Geld fragt, kann nach Hause schwimmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Eine Feier schmeißen.] "Aber sicher! Ihr habt euch eine Belohnung verdient. Holt die Fässer und das gute Fleisch raus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Du bist zu großzügig, Kapitän." [Specified 0] nimmt den Beutel Silber und zieht den Hut. "Ich werde mich darum kümmern, dass jeder seinen Anteil erhält."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 0]s Gesicht wird kreidebleich, und die anderen Besatzungsmitglieder schleichen sich davon. "Aye, Kapitän. Verstanden." 
+
+Sie verteilen sich.
+
+Noch Tage später hält die Besatzung Abstand und beäugt dich misstrauisch, wenn du vorbeikommst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die Besatzungsmitglieder schauen sich, immer unzufriedener werdend, gegenseitig an.
+
+"Aye, Kapitän", sagt [Specified 0] mit finsterer Miene. "Ich werde der Mannschaft deine Grüße ausrichten."
+
+Noch Tage später folgt dir leises Brummen, wenn du deine Runden auf dem Schiff drehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Wir haben dich schon gehört, Kapitän." [Specified 0] verschränkt die Arme und sieht dich mürrisch an. "Und doch sind wir hier ..."
+
+Die Seeleute starren dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Der Jubel bringt das Boot fast zum Schwanken. Schon bald fließen Rum und Ale, die doppelte Rationen gewürzten und gesalzenen Fleischs herunterspülen. Die Seemannslieder erklingen bis tief in die Nacht, und die Forderungen nach Bezahlung sind vergessen ... fürs Erste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die Seeleute schauen sich an. "Also es ist ja nicht so, dass wir eine zünftige Feier nicht zu schätzen wüssten, Kapitän, aber irgendwann hat man den Punkt erreicht, an dem Geld auf der Hand besser ist als Alkohol im Bauch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Wir wissen eine knorke Fete so sehr wie jede andere Besatzung zu schätzen, aber vielleicht kannst du dich dieses Mal dazu überwinden, uns ein bisschen Geld für uns selbst zu geben. Ist nicht böse gemeint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Specified 0] reibt sich den Hinterkopf. "Leuchtet irgendwie ein." Die Seeleute sehen sich an. "Dann rücken wir dir mal von der Pelle, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Es ist ja nicht so, dass wir deine Position nicht respektierten, Kapitän." [Specified 0] sieht die anderen Matrosen an, die zustimmend nicken. "Aber das hier ist gefährliche Arbeit, und die muss mit mehr als nur warmen Worten entschädigt werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[[Specified 0] über Bord werfen.] "Ich habe dich gewarnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Als die Besatzung das letzte Mal den Wunsch nach einem Teil deines Vermögens äußerte, hast du ihn abgelehnt. Seitdem hörst du geknurrte Beschwerden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ahoi, mein Kapitän!" [Specified 0] und ein paar der anderen Matrosen grüßen dich herzlich. "Da du ja in der Vergangenheit so großzügig warst, hatten wir gehofft, dass du uns noch ein wenig mehr von den Reichtümern unserer Unternehmung abgeben könntest. Ich meine, du siehst ja selbst, wie sehr wir uns ins Zeug legen, die [Player Ship] blitzblank sauber zu halten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Specified 0] bringt gerade mal ein Krächzen hervor, als du sie am Hals packst und über das Schanzkleid wirfst. Die Besatzungsmitglieder reißen ihre Augen auf und sind beim Zurückweichen vor dir so laut, dass du nicht einmal das Platschen hörst. Jemand hebt sogar die Hände hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Specified 0] reibt sich den Hinterkopf. "Leuchtet irgendwie ein." Die Seeleute sehen sich an. "Dann rücken wir dir mal von der Pelle, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Der Mund von [Specified 0] steht eine Weile offen, bevor er sich zu einem riesigen Lächeln verdreht. Er hebt seinen Krug. "Auf den verflucht besten Kapitän, den sich ein Matrose nur wünschen kann!" 
+
+Ein Chor aus Hurras folgt. Die Neuigkeiten haben den Rest der Besatzung schneller erreicht, als eine Flamme ein Pulverfass. Eine Weile lang grüßt dich die Mannschaft mit warmem Grinsen und gezogenen Hüten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0] bringt gerade mal ein Krächzen hervor, als du ihn am Hals packst und über das Schanzkleid wirfst. Die Besatzungsmitglieder reißen ihre Augen auf und sind beim Zurückweichen vor dir so laut, dass du nicht einmal das Platschen hörst. Jemand hebt sogar die Hände hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Pardon, Kapitän", schluckt [Specified 1]. "Wir ... gehen dann mal wieder zurück an die Arbeit, wenn du uns entschuldigst."
+
+Du winkst die Seeleute fort, und sie fliehen vor dir. Noch Tage später hält deine Besatzung Abstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Einen Bonus geben ...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Ihre Forderungen zurückweisen ...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du überlegst, wie viel du ihnen geben sollst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Sie sehen dich erwartungsvoll an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Erneut deine Möglichkeiten überdenken ...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Sie sehen dich erwartungsvoll an.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

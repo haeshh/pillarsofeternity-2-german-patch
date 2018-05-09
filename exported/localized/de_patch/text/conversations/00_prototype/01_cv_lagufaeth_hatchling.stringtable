@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_prototype\01_cv_lagufaeth_hatchling</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Lagufaeth-Schlüpfling zwitschert aufgeregt, als er dich sieht. Seine knolligen Augen werden noch größer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Machen wir gerade neue Freunde? Nein, nein, ich schau lieber von hier hinten zu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Lenke du weiter die Großen ab. Ich will sehen, ob ich dem Kleinen beibringen kann, meine Pfeife so zu halten, als ob er sie rauchen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

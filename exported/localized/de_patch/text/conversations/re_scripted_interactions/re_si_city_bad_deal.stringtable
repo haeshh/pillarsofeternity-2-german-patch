@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_city_bad_deal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Magie", sagt die Stimme. "Sie beschwört Bestien, die euren Feinden zusetzen. Rettet dich aus einer Zwickmühle, gerade in so einer gefährlichen Stadt wie dieser hier. Dein Leben ist doch bestimmt ein paar Silberstücke wert." Das Licht von Fackeln glitzert von den Zähnen des Mannes.
+
+"Willste, kommste." Die Gestalt zieht sich in die Schatten zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Den Tunnel betreten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Der Pirat schnaubt. "Willst du sie noch immer?" Sein Blick wandert deinen Körper entlang. "Sagen wir mal zweitausend Pires. Ich bin mir nicht mal sicher, dass sie wirklich &lt;i&gt;so viel&lt;/i&gt; Kupfer wert ist, aber das sollten wir unsere Freunde nicht hören lassen." Er zeigt auf die toten Männer in der Ecke. "Wie peinlich es doch wäre, auf Rabatt gestorben zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Der Piratenanführer tritt näher und hält dir ein Licht ins Gesicht. Der Mann hält inne. "Merla, [Player Name]?"
+
+Ein weiterer Pirat erhebt seine Waffe. "Ziehen wir das jetzt durch oder nicht?"
+
+"Steck das weg, Dummkopf. Das ist [Player Name]. Er hat Freunde unter den Príncipi."</DefaultText>
+      <FemaleText>Der Piratenanführer tritt näher und hält dir ein Licht ins Gesicht. Der Mann hält inne. "Merla, [Player Name]?"
+
+Ein weiterer Pirat erhebt seine Waffe. "Ziehen wir das jetzt durch oder nicht?"
+
+"Steck das weg, Dummkopf. Das ist [Player Name]. Sie hat Freunde unter den Príncipi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Auf der anderen Seite hält eine Gruppe Príncipi Fackeln und Klingen. Leichen stapeln sich in den Ecken; Augen trocknen in den flackernden Flammen aus, manche mit verbundenen Händen, andere kopfüber im Schmodder.
+
+"Seltsam berechenbar, meinst du nicht?" Der Pirat zieht seine Waffe. "Leg ihnen ein kleines Stück Käse hin, und diese ausländischen Ratten kommen piep-piep-piepsend her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Schlitzt sie bis zum Heck auf!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Abgemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Deine Waffe ziehen und angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der Anführer schürzt seine Lippen und nickt. "Gellarde."
+
+Er nimmt den Beutel Münzen, und ein anderer Pirat gibt dir die Statuette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Die Príncipi mit einer Fähigkeit blenden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Als die Piraten näherkommen, trittst du einen Schritt vor und rufst, mit einem Wisch deiner Finger, Essenz herbei, die den Piraten ihre Sehkraft raubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Als die Piraten näherkommen, tritt [Specified 0] einen Schritt vor und ruft mit einem Fingerwisch Essenz herbei, die den Piraten ihre Sehkraft raubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Beinahe einen der Deinen anzugreifen scheint mir ganz schön schluderig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Der Anführer verbeugt sich. "Es wurde kein Blut vergossen und keine Fehler begangen. Ich werde mich nicht dafür entschuldigen, was ich bin ... aber vielleicht tut es mir leid, dass meine Augen nicht mehr so gut sind, wie sie mal waren."
+
+Die anderen Piraten beobachten den Schlagabtausch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Versuchen, zu fliehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du duckst dich und flitzt durch so viele Gassen, wie du nur kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du sprintest auf den Tunneleingang zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du drehst dich um, um aus dem Tunnel zu rennen, aber ein Pulk Piraten taucht auf und versperrt den Ausgang.
+
+Der Anführer kichert. "Hast du allen Ernstes gedacht, dass wir so langsam sind? Siehst unter uns ein Holzbein, wie? Da bin ich jetzt schon ein wenig beleidigt, um ehrlich zu sein. Schmerzt mir in der Brust, genau, wo das Herz ist. Genau dort, wo dich mein Stick treffen wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du duckst dich und flitzt durch so viele Gassen, wie du nur kannst. Zum Glück halten die Piraten nicht Schritt. 
+
+Du schnappst nach Luft, als du bemerkst, dass [Specified 1] nicht da ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Obwohl du nur einen kurzen Blick erhaschen kannst, weißt du, dass die Statuette mehr als nur Plunder ist. In ihrem Inneren befindet sich unangetastete Kraft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Her mit der Statuette. Und zwar jetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Der Anführer der Príncipi starrt dich ausdruckslos an, bevor er einen Schritt zurücktritt. Seine Mannschaft sieht sich um, manche greifen nach ihren Waffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Wie viel willst du dafür?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Andererseits, wenn ich noch einmal darüber nachdenke ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Er zuckt mit den Achseln. "Und ich dachte schon, dass du ein wohlhabender Gestandener wärest."</DefaultText>
+      <FemaleText>Er zuckt mit den Achseln. "Und ich dachte schon, dass du eine wohlhabende Gestandene wärest."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Lass uns das bereden. "Man muss sich doch nicht gleich schlagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Der Pirat kichert. "Solch schöne Worte aus einem so fantasielosen Gesicht." Er dreht seinen Kopf auf seinen Schultern. "Was glaubt du, wie viel ist ein Leben wert? Denk mal drüber nach, bevor ich meinen Preis nenne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Abgemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Der Mann sammelt den kredenzten Beutel Münzen ein. "Agracima, meine königliche Ratte. Du darfst dich entfernen."
+
+Du gehst denselben Weg zurück, auf dem du gekommen bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Einen Hinterhalt vorbereiten und angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Zurückgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Glitschigere Aale, als ich dachtet, was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Jetzt Klappe zu und Ohren auf! Die können noch in der Gegend sein ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Die Wachen informieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du kannst eine Mataru-Wache finden und berichtest ihm von der verdächtigen Stimme aus der Gasse.
+
+"Und was soll ich da jetzt machen?" fragt er mit ablehnendem Gesichtsausdruck.
+
+"Na deine Arbeit", sagt ein Anderer. "Ekera, geh jetzt. Diese Sorte flieht immer wie Ratten, aber vielleicht kannst du sie fangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Die ärmeren Viertel von Neketaka bieten mehr Dunkelheit als Licht. Die Straßen und Gassen sind die einzige Unterkunft, die viele Huana kennen. Als du an einer dieser Gassen vorbeigehst, ruft dich eine Stimme. Du drehst dich um und siehst, wie sich eine Hand aus der Dunkelheit löst. Die bleiche Handfläche balanciert vorsichtig eine Figur, im trüben Licht mehr eine Silhouette als eine Statue und als du versuchst, einen näheren Blick zu erhaschen, schließen sich die Finger wieder um die Figur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Der erste Wächter grummelt und entfernt sich, wobei er einen zweiten Wächter als Begleitung mitschleppt.
+
+"Danke", sagt der verbleibende Wächter. "Geh jetzt deines Weges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Der mit einem Umhang bekleidete Mann sieht seine Mitstreiter an. "Man muss sich bestimmt nicht schlagen, sagt er!"
+
+Sie lachen schallend.</DefaultText>
+      <FemaleText>Der mit einem Umhang bekleidete Mann sieht seine Mitstreiter an. "Man muss sich bestimmt nicht schlagen, sagt sie!"
+
+Sie lachen schallend.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Er tippt sich auf das Kinn und überlegt lange, um seine Erwägungen zur Schau zu stellen bevor er spricht. "Zweitausend Kupferhaufen hören sich gut an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Der Dieb grinst. "Wir wären eventuell willens, dich gehen zu lassen, ohne zu fest ..." – er leckt sich die Lippen – "... zuzustechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Serafen schüttelt den Kopf. "&lt;i&gt;So&lt;/i&gt; lustig war es jetzt auch nicht, meine Freunde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Hurensöhne!" schreit eine der Piraten, ihre Stimme hallt durch den Tunnel. Ein weiterer stimmt in die Klagen ein, wie unfair der Gebrauch von Magie ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Als du um die Ecke kommst, schimpft der Anführer seine Mannschaft an. "Klappe. Würde gerne denken, dass wir das Gleiche tun würden, wenn die Dinge andersherum wären."
+
+Du flüchtest auf die Straße.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Du schleichst dich weiter nach vorn, ziehst deine Waffe ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Zum Glück kennen sich die Piraten in den Straßen nicht so gut aus wie auf dem Meer und mit den Wellen. 
+
+Sie halten sich ziemlich gut für einen Haufen Seemänner, aber schließlich kannst du sie mit einer schnellen Kehrtwendung abschütteln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 1] packt dich, zieht dich zur Seite und führt dich durch die sich windenden Gassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Specified 1] packt deine Hand und fängt an zu rennen, er zieht dich mit sich durch die schmale Gasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Zum Glück haben Piraten nicht die Ausdauer für lange Verfolgungsjagden und du entkommst dank eines langen, geraden Sprints. 
+
+Deine Verfolger bleiben hinter dir zurück, krümmen sich und schnappen nach Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Der Pirat lässt enttäuscht sein Schwert sinken. "Schöne Scheiße."
+
+"Sei still, Dummkopf," faucht der Anführer. Er schnuppert die Luft. "Oder bist du eine Ratte, hm?"
+
+Der Pirat schüttelt seinen Kopf und richtet sich auf. "Nein, Sir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Du musst neu hier sein, da du nicht zu wissen scheinst, wer ich bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Der Anführer schüttelt den Kopf und kichert. "Gellarde." 
+
+Er wedelt mit einem mit Juwelen geschmückten Finger in deine Richtung und verbirgt dahinter ein goldenes Grinsen. "Du wirst einen erstklassigen Piraten abgeben. Rührt euch, Jungs. Wir haben vielleicht jetzt den Kürzeren gezogen, aber das Glück ändert sich schneller als das Meer. Gebt diesem zukünftigen Piraten die Figur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Fortgehen] "Ich gehe dann besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Lebe wohl, Fentre." Er verbeugt sich vor dir.</DefaultText>
+      <FemaleText>"Lebe wohl, Tella." Er verbeugt sich vor dir.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Der Anführer der Príncipi starrt dich ausdruckslos an, bevor er einen Schritt zurücktritt. Seine Mannschaft sieht sich um, manche greifen nach ihren Waffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Der Anführer der Príncipi starrt dich ausdruckslos an, bevor er einen Schritt zurücktritt. Seine Mannschaft sieht sich um, manche greifen nach ihren Waffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Der Anführer blickt finster drein. "Merla." 
+
+"Du würdest einen ziemlich guten Piraten abgeben. Vielleicht solltest du dir das in diesem klugen Kopf, der auf deinen Schultern sitzt, mal überlegen. Rührt euch, Jungs. Gib die Figur her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Der Pirat feixt. "Nein, ich denke nicht." Er hebt seine Waffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Er verbeugt sich vor dir. "Bis wir uns wieder treffen, bon Aimico."</DefaultText>
+      <FemaleText>Er verbeugt sich vor dir. "Bis wir uns wieder treffen, ba Aimica."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Der Anführer seufzt. "Schätze mal, wir nutzten diesen Ort ausgiebig. Jemand etwas zu trinken?"
+
+Er sieht eine der Leichen an, als eine quietschende Ratte an seinem Hosenbein hochklettert. Der Pirat lehnt sich zurück. "Ac, ein bisschen beschäftigt, wie ich sehe. Dann lasse ich euch zwei Turteltauben mal in Ruhe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>In der Gasse entzündet sich eine Fackel und enthüllt den Eingang zu einem Tunnel. Du gehst durch den Torbogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

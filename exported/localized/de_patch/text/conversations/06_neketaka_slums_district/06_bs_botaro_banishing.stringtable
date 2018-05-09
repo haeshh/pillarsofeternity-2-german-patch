@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_bs_botaro_banishing</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bitte, ich habe nichts getan!" 
+
+Du siehst, wie ein Mann über einen klapprigen Holzsteg zu einem rostigen Käfig, der über den Abgrund schwingt, gezerrt wird. Er wehrt sich gegen den Griff der Wache.
+
+Der Wachmann gibt ihm einen brutalen Schlag mit der flachen Hinterhand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Schluss jetzt! Oder willst du auch sie in die Altstadt verfrachten?" Der Krieger stiert eine nahestehende Frau an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Biha! Es tut mir leid, ich–"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Deine Zunge zappelt wie ein sterbender Fisch – ich habe genug von ihrem Gestank. Lasst ihn hinunter!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Lasst ihn gehen!"
+
+Sie schreit die Wachen an, doch sie traut sich nicht, sich zu nähern.
+
+Der Mann bemerkt sie. Sein Gesicht erfüllt sich mit Scham.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

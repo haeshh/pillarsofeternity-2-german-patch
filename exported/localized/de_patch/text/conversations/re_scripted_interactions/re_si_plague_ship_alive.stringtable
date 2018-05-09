@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_plague_ship_alive</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Am Horizont taucht ein Schiff auf. Die Segel sind aufgerollt, und das Schiff krängt auf dem Meer. 
+
+"Pestschiff!", brüllt [Specified 0] vom Fockmast. Er deutet nach oben auf die grüne Flagge, die am Hauptmast des Schiffes müde im Wind flattert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"In Ordnung. Steuert längsseits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Mannschaft steuert dein Schiff neben das Pestschiff. Matrosen und Kapitän wirken schockiert und ängstlich.
+
+"Bei Hyleas Gnade!", ruft der Kapitän mit rauer Stimme aus. "Ich hatte nicht zu hoffen gewagt, dass jemand uns zu Hilfe kommt!"
+
+Die Matrosen bemühen sich um eine straffe Haltung, doch ihr Schwanken verrät die Krankheit, die sie alle erwischt zu haben scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Holt den am meisten von der Krankheit mitgenommenen Seemann eurer Mannschaft herbei. Wir werden ihn auf unser Schiff nehmen, untersuchen und euch ein wirksames Heilmittel geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Das Schiff entern und plündern.] "In diesem Zustand sind sie wehrlos. Nehmt alles mit, das ihr in die Finger bekommt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Hier können wir nichts mehr machen. Halten wir uns von ihnen fern und machen uns auf den Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Mit dem Ausdruck bittersten, hilflosen Zorns sieht der Kapitän zu, wie deine Mannschaft die mageren Überreste ihres Proviants auf dein Schiff bringt.
+
+"Möge Ondra dich holen!" Er versucht, genügend Spucke zu sammeln, um auszuspucken, doch sein Mund ist zu trocken.
+
+Als du dich von dem Pestschiff entfernst, sieht du, wie der Kapitän voller Verzweiflung zusammenbricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Wir können nur sehr begrenzt Hilfe leisten. Wir haben keine Vorräte für die nötige Behandlung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Entmutigt sacken die völlig erschöpften Seeleute des Pestschiffs in sich zusammen. Der Kapitän senkt den Kopf, nickt jedoch.
+
+"Ich verstehe", murmelt er, seine Stimme schwer vor Enttäuschung und Verzweiflung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Nachdem er untersucht wurde, was nicht lange dauerte, kehrt der kranke Matrose mit ausreichend Heilmitteln auf sein Schiff zurück, um auch den Rest der Mannschaft zu behandeln.
+
+Erschöpft, aber voller Hoffnung, winken sie zum Abschied, als dein Schiff sich wieder auf den Weg macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Was plagt deine Leute?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Dein Hauptsegel wird gehisst. Du segelst hinaus aufs offene Meer. [Specified 2] hustet heiser und blickt sich nervös um.
+
+Der Rest der Mannschaft beißt die Zähne zusammen und murmelt Flüche. So, wie es aussieht, hat die Krankheit auf dein Schiff übergegriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Das ist der Seemannshusten", sagt der Kapitän reumütig. "Bisher ist daran noch niemand gestorben – möge Rymrgand wegschauen – aber die Krankheit raubt uns alle Kraft und hat sich rasch unter der Mannschaft verbreitet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Einige meiner Seeleute hat auch die Bauchfäule erwischt. Wir wissen ja, sie ist an sich nicht tödlich, aber wir können nicht segeln, wenn sie sich kaum aufrecht halten können." Mit mitleidigen Augen betrachtet der Kapitän die kranke Mannschaft.
+
+"Wenigstens nicht so, dass es sicher wäre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Es ist rymbán sjüdh", erklärt die Kapitänin, wobei ihre heisere Stimme vor Angst zittert. "Der Knochenfrost."
+
+"Es hat bereits die Hälfte meiner Seeleute das Leben gekostet ... Und ich fürchte, die anderen werden wir auch nicht wirksam behandeln können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Specified 2] zuckt mit den Schultern und seufzt, doch [Specified 1] nickt zustimmend.
+
+"Wie immer eine weise Entscheidung, Kapitän."
+
+Die Mannschaft steuert um das Pestschiff herum und segelt weiter, bis das dem Untergang geweihte Schiff am Horizont verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Was?", ruft [Specified 3] entsetzt.
+
+Niemand sonst in der Mannschaft wagt es, etwas laut genug auszusprechen, dass man es verstehen könnte. Das allgemeine Murmeln verrät jedoch nur zu deutlich, wie wenig es ihnen gefällt, das kranke Mitglied der Mannschaft des anderen Schiffes an Bord zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Durch das Fernrohr schauen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Du beobachtest das Deck des Schiffes. Ein paar Matrosen scheinen dabei zu sein, eine Bestandsaufnahme der Ladung anzufertigen. Sie sind alle totenbleich und scheinen völlig erschöpft. Ihre Kleidung ist schweißnass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Selbst ohne Fernrohr erkennst du, dass sich an Deck ein paar Seeleute bewegen, die noch am Leben sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Specified 1] beugt sich zu dir herüber. "Wir sind besser vorsichtig, Kapitän. Was auch immer diese armen Seelen erwischt hat - wir könnten es uns ebenfalls einfangen."
+
+"Allerdings könnte sich auch etwas Lohnendes an Bord befinden", überlegt [Specified 2].
+
+Die Mannschaft wirft dir verstohlene Blicke zu, begierig darauf herauszufinden, was du zu tun gedenkst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1] beugt sich zu dir herüber. "Ich glaube, ich muss dich nicht daran erinnern, was passiert ist, als wir das letzte Mal mit einem Pestschiff zu tun hatten ..."
+
+[Specified 0] schmunzelt. "Nichts ist ohne Risiko, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Macht die Kanonen bereit. Die Kanoniere brauchen die Übung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 1]s Augen weiten sich. "Bist du sicher, Kapitän? Kann es nicht sein, dass du diese Sache mit dem Herold des Todes ein wenig zu weit treibst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Specified 1]s Augen weiten sich. "Bist du sicher, Kapitän? Sie scheinen mir keine Bedrohung zu bedeuten ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Das ist doch besser als zuzulassen, dass die Krankheit sich verbreitet." Aloth nickt sehr ernst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Edér runzelt die Stirn. "Sie können ihren Weg zu Ondra doch allein finden, wenn es das ist, was sie wollen. Ich kapiere nicht, weshalb wir diese Entscheidung für sie treffen sollten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Das wird zumindest die Moral der Kanonen stärken." 
+
+Maja hebt die Augenbrauen und schaut interessiert zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ein grausames Schicksal, aber vielleicht nicht so grausam wie das, was sie erwartet."
+
+Sie schüttelt ihren Kopf und richtet ihren Blick auf das Deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Serafen zischt. "Bist du jetzt völlig durchgedreht, Kapitän Wächter? Du kannst doch nicht Schiffe nur deshalb versenken, weil sie da sind!"</DefaultText>
+      <FemaleText>Serafen zischt. "Bist du jetzt völlig durchgedreht, Kapitän Wächterin? Du kannst doch nicht Schiffe nur deshalb versenken, weil sie da sind!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Die Götter beobachten uns, Kapitän, und sie überlegen immer, was sinnvoller ist - einzugreifen, oder den Dingen ihren Lauf zu lassen." 
+
+Seufzend reibt sich Tekēhu den Hinterkopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Xoti ringt ihre Hände, sagt aber nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Welche Krankheit auch immer diese Leute erwischt hat - wir können es nicht zulassen, dass sie sich ausbreitet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Du hast genau gehört, was ich gesagt habe. Versenke sie!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Andererseits, wenn ich noch einmal darüber nachdenke ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Mit was? Wir haben keine Kanonenkugeln."
+
+[Specified 2] hustet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Specified 1] seufzt erleichtert auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Aye-aye, Kapitän." [Specified 1] dreht sich um, um deinen Befehl für die Kanonen weiterzugeben.
+
+[Specified 0] runzelt die Stirn. [Specified 3] lacht leise in sich hinein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Von der [Player Ship] kommt eine Feuersalve, die den Rumpf des Pestschiffes trifft.
+
+Das Schiff neigt sich zur Seite, nimmt Wasser auf. Du siehst, wie einige von der Mannschaft ins Wasser springen. Ihre Schreie sind weithin zu hören.
+
+"Was für eine Verschwendung!" [Specified 2] runzelt die Stirn. "Ich vermute mal, du willst vielleicht nachschauen, ob es etwas zu retten gibt? Ich meine, die Pest ist ja jetzt versunken, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Du siehst eine schwache Bewegung auf Deck. Kraftlos hängt die Mannschaft herum, manche an der Reling, andere auf Deck. Ein paar haben zwischen den Masten Hängematten aufgehängt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Als deine Mannschaft dein Schiff neben das heimgesuchte Schiff steuert, taumelt die Kapitänin herüber. Ein Speer hellen, weißen Knochens ragt aus der Seite ihres Halses heraus. "Bei den Göttern ...." Sie keucht. "Bist du hier, um zu helfen?"
+
+Du blickst an ihr herunter und siehst, dass ihre Handgelenke und Knöchel von ähnlichen Auswüchsen befallen sind, die Haut um ihre Wunden herum ist rot und die Wunden klaffend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Die Kapitänin nickt steif, ihr Gesicht nahezu ausdruckslos. "Ich verstehe. Der Knochenfrost ist schon ein halbes Todesurteil. Wir können dir keine Vorwürfe machen." Sie seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Was plagt deine Leute?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Wir können nur sehr begrenzt Hilfe leisten. Wir haben keine Vorräte für die nötige Behandlung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Das Schiff entern und plündern.] "In diesem Zustand sind sie wehrlos. Nehmt alles mit, das ihr in die Finger bekommt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Mit dem Ausdruck bittersten, hilflosen Zorns sieht die Kapitänin zu, wie deine Mannschaft die mageren Überreste ihres Proviants auf dein Schiff bringt.
+
+Mit einem Seufzen sackt sie in sich zusammen. "Ich hätte es besser wissen müssen. Möge Rymrgand deine Seele zu Staub zermalmen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Dein Hauptsegel wird gehisst. Du segelst hinaus aufs offene Meer. [Specified 2] hustet heiser und blickt sich nervös um.
+
+Der Rest der Mannschaft beißt die Zähne zusammen und murmelt Flüche. So, wie es aussieht, hat die Krankheit auf dein Schiff übergegriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Mit einem einschüchternden Brüllen führt [Specified 3] die Mannschaft an, die das Pestschiff entert. Die kranken Seeleute sind zu schwach, um Widerstand zu leisten, und verkriechen sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Mit einem einschüchternden Brüllen führt [Specified 3] die Mannschaft an, die das Pestschiff entert. Die kranken Seeleute sind zu schwach, um Widerstand zu leisten, und verkriechen sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ich kann dir gar nicht genug danken!", erklärt der Kapitän. "Wer weiß, wie lange wir ohne deine Hilfe überlebt hätten!"
+
+Er reicht dir ein kleines Kästchen. "Bitte, nimm dies hier als Geschenk entgegen. Als Zeichen meines Danks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Behalte es. Was auch immer es ist - du wirst es nötiger brauchen als ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ich nehme dein pestverseuchtes Geschenk ganz gewiss nicht an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Nachdem er untersucht wurde, was nicht lange dauerte, kehrt der kranke Matrose mit ausreichend Heilmitteln auf sein Schiff zurück, um auch den Rest der Mannschaft zu behandeln.
+
+Erschöpft, aber voller Hoffnung, winken sie zum Abschied, als dein Schiff sich wieder auf den Weg macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Nachdem er untersucht wurde, was nicht lange dauerte, kehrt der kranke Matrose mit ausreichend Heilmitteln auf sein Schiff zurück, um auch den Rest der Mannschaft zu behandeln.
+
+Erschöpft, aber voller Hoffnung, winken sie zum Abschied, als dein Schiff sich wieder auf den Weg macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Schlurfend begibt sich der Seemann vom Pestschiff auf deines. Deine Mannschaft weicht zurück und bildet eine breite Gasse, durch die er marschieren kann. Manche formen abwehrende Schutzsymbole mit den Fingern oder murmeln Gebete zu Rymrgand, während der kranke Mann an ihnen vorbei taumelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Mein Herr."</DefaultText>
+      <FemaleText>Meine Dame.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Am Horizont steigt ein Leuchtsignal in den Himmel und explodiert dann zu einer rötlichen Wolke, die sich langsam auflöst.
+
+"Ein Pestschiff, Kapitän", sagt [Specified 1] leise. "Eine rauataianische Dschunke, so wie es aussieht. Das Leuchtsignal ist ihre Bitte um Hilfe."
+
+[Specified 3] und [Specified 0] tauschen nervöse Blicke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Specified 2] steht an der Reling und bemüht sich darum, das Schiff zu erkennen. "Nähern wir uns dem Schiff, Kapitän? Vielleicht haben sie etwas, das einen ... ähm, Handel lohnt."
+
+"Ja, und ebenso gut könnten wir alle mit den götterverdammten Pocken enden!", murmelt [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Specified 3] runzelt die Stirn. "So weit entfernt von den normalen Schiffsrouten? Das könnte auch eine Falle sein, Kapitän. Vielleicht versuchen sie, dich heranzulocken."
+
+"Auf einer Dschunke könnten wir sehr interessante Ausrüstung finden, Kapitän", mischt sich [Specified 2] ein. "Nur so ein Gedanke ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Holt die Netze. Lasst uns sehen, was wir finden können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Wegsegeln] "Wir sind hier fertig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Jawohl, Kapitän", nickt [Specified 1].
+
+Niemand an Deck sagt ein Wort, als ihr davon segelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Specified 1] salutiert. "Aye-aye, Kapitän."
+
+[Specified 2] grinst. Die [Player Ship] verbringt die nächsten Stunden damit, die auf dem Wasser treibenden Gegenstände einzusammeln, bevor sie weitersegelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Als du das Deck überquerst, stellt sich dir der Kapitän in den Weg - mit gezogener Klinge. "Zur Hölle mit dir, [Player Name]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Fröhlich wühlt die Mannschaft in der Beute. Die dem Untergang geweihten Seeleute, die du hinter dir lässt, kümmern sie nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Ihn töten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Ihn zu Boden schlagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Ihn durch Magie zum Stolpern bringen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Der geschwächte Seemann bedeutet keine ernste Gefahr für dich. Schon bald liegt er bewegungslos zu deinen Füßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Der Sturz des Kapitäns aufs Deck nimmt allen anderen den Mund, die sonst vielleicht bereit gewesen wären, die Klinge gegen dich zu erheben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Holt den am meisten von der Krankheit mitgenommenen Seemann eurer Mannschaft herbei. Wir werden ihn auf unser Schiff nehmen, untersuchen und euch ein wirksames Heilmittel geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Specified 3] starrt dich an. "Bist du verrückt geworden, Kapitän? Es ist der Knochenfrost, rymbán sjüdh! Die Geißel der Seemänner von dem Ewigen Weiß! Wenn wir uns das einfangen, wird es unser gesamtes Schiff versenken!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Du hast mich schon verstanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Andererseits, wenn ich noch einmal darüber nachdenke ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Specified 0] seufzt erleichtert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Der Kapitän runzelt die Stirn. "Ich danke dir, Uroko. Ich weiß, was sie dir bedeuten."
+
+Der Matrose schüttelt den Kopf. "Einer Leiche bedeutet ein Erbstück nichts mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Fröhlich wühlt die Mannschaft in der Beute. Die dem Untergang geweihten Seeleute, die du hinter dir lässt, kümmern sie nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ich bin mir sicher, Rauatai würde uns jede Hilfe reich vergüten, die wir anbieten können. Irgendwie." 
+
+Maia leckt sich mit der Zunge über die Innenseite ihrer Wange und überlegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Vielleicht können wir helfen. Wenn wir sie nicht heilen können, können wir ihnen wenigstens einen gnädigen Tod gewähren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Vielleicht können wir nicht viel für sie tun. Aber ganz sicher können wir doch ihre Würde respektieren und es ihnen selbst überlassen, über ihr Schicksal zu entscheiden." Aloth runzelt die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Nur einer der Matrosen schafft es, auf die Füße zu kommen. Seine Kehle ist fast vollständig von einer Kette Knochenspeere umringt, die durch seine Haut ragen. "Wir können einen Handel abschließen, wenn du ... Wir haben ein Paar verzauberte Handschuhe, sehr weich und schnell ..."
+
+Er lehnt sich schwer gegen den Mast. Sein Atem zischt flach und schnell durch die seltsamen Knochengewächse hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_15_bs_underwater_dungeon_machine_disabled</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Dieser Fisch hat seinen Meister gefunden, sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wie hoch ist wohl die Wahrscheinlichkeit, dass wir von hier entkommen können, ohne uns &lt;i&gt;dem&lt;/i&gt; gegenüberzusehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich kann gut mit Tieren, aber es dürfte eine ganze Weile dauern, um diesen Kerl hier zu zähmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich glaube, das ist das erste Mal, dass ein Gebäude mich &lt;i&gt;angebrüllt&lt;/i&gt; hat. Und hoffentlich auch das letzte Mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Hm. Bisher bin ich noch nie einem Gebäude auf den Schlips getreten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Himmel! Ich glaube, er ist wahnsinnig."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

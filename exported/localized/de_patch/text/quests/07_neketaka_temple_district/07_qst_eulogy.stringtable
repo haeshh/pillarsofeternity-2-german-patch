@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_neketaka_temple_district\07_qst_eulogy</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Grabrede für den Toten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Steige in die &lt;b&gt;Hängenden Grabkammern&lt;/b&gt; hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Suche in den &lt;b&gt;Hängenden Grabkammern&lt;/b&gt; nach der &lt;b&gt;Grabrede für Yseyr&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Kasu&lt;/b&gt; im &lt;b&gt;Tempel von Berath&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Kasu&lt;/b&gt;, der Berath-Hohepriester, will einen heiligen Text bergen, die &lt;b&gt;Grabrede für Yseyr&lt;/b&gt;. Die Grabrede ruht in den Katakomben unter der &lt;b&gt;Heiligen Treppe&lt;/b&gt;, einem Ort, den nur von Berath Gezeichnete betreten dürfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Kasu meinte, dass die &lt;b&gt;Grabrede für Yseyr&lt;/b&gt; in Steintafeln eingeritzt worden sei, die nun in den &lt;b&gt;Hängenden Grabkammern&lt;/b&gt; liegen, einem Komplex von Katakomben unter der Heiligen Treppe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe einen Weg in die Hängenden Grabkammern gefunden und kann nun mit meiner Suche beginnen. Die Grabrede besteht aus Oden, die von &lt;b&gt;Yseyrs Meistern&lt;/b&gt; geschrieben wurde und neben deren &lt;b&gt;Gräber&lt;/b&gt; gelegt wurden. Diese Gräber zu finden wird der erste Schritt sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe die &lt;b&gt;Grabrede für Yseyr&lt;/b&gt; geborgen. &lt;b&gt;Kasu&lt;/b&gt; wird bestimmt schon auf ihren Inhalt gespannt sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich kann den Haupteingang zu den &lt;b&gt;Hängenden Grabkammern&lt;/b&gt; direkt vor dem &lt;b&gt;Tempel von Berath&lt;/b&gt; finden, am unteren Weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Nur jene, die Beraths Zeichen tragen, dürfen die &lt;b&gt;Spule des Aals&lt;/b&gt;, ein Symbol der Göttin, benutzen, um die &lt;b&gt;Gräber unter dem Tempel&lt;/b&gt; zu betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe die &lt;b&gt;Spule des Aals&lt;/b&gt; besorgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe einen Teil der Grabrede für Yseyr gelesen. Seine Meisterin &lt;b&gt;Faywden&lt;/b&gt;, die &lt;b&gt;Dame der Mahnwachen&lt;/b&gt;, kämpfte mit einem &lt;b&gt;Streitkolben&lt;/b&gt; an seiner Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe einen Teil der Grabrede für Yseyr gelesen. Sein Meister &lt;b&gt;Borthwn&lt;/b&gt;, der &lt;b&gt;Fürst von Heldentor&lt;/b&gt;, schwang einen &lt;b&gt;Speer&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Eine massive Tür versperrt den weiteren Weg in die Hängenden Grabkammern. Die Tür wird von zwei Skeletten flankiert, von denen jedes mit einem Symbol verziert ist – eines davon ein Tor, das andere eine Laterne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe den letzten Teil der &lt;b&gt;Grabrede für Yseyr&lt;/b&gt; gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe einen Teil der Grabrede gefunden. Er bezieht sich auf &lt;b&gt;Das Tor&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich habe einen Teil der Grabrede gefunden. Er bezieht sich auf &lt;b&gt;Die Mahnwache&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Kasu die Steintafeln gebracht, auf denen sich die Grabrede für Yseyr befindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

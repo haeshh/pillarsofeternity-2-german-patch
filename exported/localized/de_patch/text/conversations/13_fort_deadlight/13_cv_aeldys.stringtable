@@ -1,0 +1,1799 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_cv_aeldys</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>337</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Du musst Kapitän [Player Name] sein. Freut mich, dass du hier bist, Schätzchen."
+
+Die kampferprobte Kapitänin betrachtet dich wohlwollend und reibt sich dabei die Unterseite des Kinns. Ihre Augen passen nicht zueinander. Eines ist rabenschwarz, das andere eisig blau. Beide wandern über dein Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich sehe, du lebst noch." Sie grinst dich schief an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Du bist ein wirklich gern gesehener Gast, Kapitän. Schön, dich wiederzusehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ah, Kapitän [Player Name]. Es ist immer von Neuem ein Wunder, dich zu betrachten.
+
+"Ich wünschte nur, wir wären uns unter ... angenehmeren Umständen begegnet."
+
+Sie reibt sich mit dem Daumen über die Unterlippe. In ihren schwarzen und blauen Augen steht das Verlangen – nach Blutvergießen. Nach anderen Dingen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Was kann ich denn für dich tun, Schätzchen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Du hast mein vierten Vorsitzenden umgebracht. Und ein verdammt guter Freund war er ebenfalls! Ein Teil von mir könnte sogar beinahe beeindruckt sein. Aber ein anderer Teil von mir möchte dir lebend die Haut vom Gesicht abziehen, kapiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich sehe, du hast meine rechte Hand und den vierten Vorsitzenden des Konzils der Kapitäne bereits getroffen. Er kann einem ziemlich auf die Nerven gehen, aber ich würde nicht zögern, ihm mein Leben anzuvertrauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Das Geschäft mit Krumsporn ist perfekt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich habe deine Botschaft erhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Weshalb wolltest du dich mit mir treffen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Berichte mir von dem neuen Blut bei den Príncipi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"So nennst du die also? Ich habe dich nicht &lt;i&gt;nur&lt;/i&gt; für Kampf und Mord ausgesendet, mein Täubchen. Ich habe dich geschickt, um die Sklaven zu befreien." Sie schaut dich böse an und kneift dabei ihre Augen zusammen, die unterschiedlicher Farbe sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Aye. Und gut gemacht hast du es auch noch. Die meisten Gefangenen haben sich für Mannschaften in meiner Flotte verpflichtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Und jetzt ist der Meister in der Defensive. Das Einzige, was du erreicht hast, ist eine Stärkung seines Betriebs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich muss allerdings zugeben, betrauern werde ich den Abgang des Meisters nicht. Und ich genieße es, meine Feinde ausbluten zu lassen. 
+
+"Dafür kann ich dir wenigstens danken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Lass es uns einstweilen dabei belassen, Täubchen. Vielleicht kommt ja irgendwann einmal eine Zeit, in der wir einer Meinung sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Du hast da etwas Großartiges getan, Kapitän. Das werde ich dir so schnell nicht vergessen."
+
+Sie reibt mit dem Daumen über das Suolenet um ihren Hals. Ihre Augen, die unterschiedlicher Farbe sind, betrachten dich dabei von Kopf bis Fuß. Ihre Lippen verziehen sich zu einem verschlagenen Lächeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Du bist wirklich gut fürs Geschäft. Hoffen wir also, dass unsere Wege sich eines Tages wieder einmal kreuzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Vergib mir, dass ich dir den ganzen Weg hierher zugemutet habe. Aber ich finde einfach, der Vorschlag einer Partnerschaft muss gemacht werden, wenn man sich persönlich gegenübersteht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich und die Meinen bei den Príncipi, wir könnten dir mächtige Verbündete sein. Aber wärst du denn auch bereit, im Gegenzug uns gegenüber loyal zu sein? Das möchte ich gerne wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Nehmen wir einmal an, du wolltest eine Allianz von gleichgesinnten Kapitänen schaffen ... Dann könntest du zum Beispiel damit beginnen, dass du eine meiner besten Kräfte in Neketaka unterstützt. Sie ist eine Schmugglerin, die für ihre Aktivitäten das Gewölbe nutzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich soll also Handlangerarbeiten für einen anderen Kapitän übernehmen? Ich kann es kaum erwarten ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Das Gewölbe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich denke darüber nach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Wir können nicht alle ganz oben an der Spitze beginnen, Täubchen. Du magst zwar selbst auch ein Kapitän sein. Aber wenn ich für dich im Kampf Blut vergießen soll, muss ich auch wissen, ob du mir gegenüber wirklich loyal bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Es ist ein versteckter Hafen. Aber ich bin mir sicher, du wirst ihn auch ohne meine Hilfe finden." Sie zwinkert dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Dir steht eine strahlende Zukunft bevor, Wächter. Achte darauf, dass du sie nicht dadurch beschmutzt, dass du die Flagge des falschen Piraten hisst.
+
+"Neue Besen kehren gut, was?"</DefaultText>
+      <FemaleText>"Dir steht eine strahlende Zukunft bevor, Wächterin. Achte darauf, dass du sie nicht dadurch beschmutzt, dass du die Flagge des falschen Piraten hisst.
+
+"Neue Besen kehren gut, was?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich habe ein kleines Problem, Wächter ... Und ich glaube, du bist genau der richtige Kapitän, um es zu lösen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich und Furrante, wir sind bei vielen Dingen nicht einer Meinung. Nicht zuletzt auch, was die Zukunft der Príncipi betrifft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich bitte dich darum, nach Krumsporn zu segeln und dich dort mit einem von meinen Leuten zu treffen. Sie versteckt sich dort und wird in der Lage sein, dir wertvolle Informationen über die Sklavenhändler zukommen zu lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Furrante arbeitet womöglich mit der Vailianischen Handelsgesellschaft zusammen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Welche Verbindung besteht denn zwischen Furrante und den Sklavenhändlern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Was kannst du mir über die Sklavenhändler berichten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich denke darüber nach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Nun sieh mal einer an – gut, das zu wissen. Das ergibt auf jeden Fall Sinn." Ihre Augen verengen sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich kann dir nur Vermutungen anbieten, Schätzchen. Aber ich verwette meine Suolenet, dass Furrante versucht, bei anderen Leuten als den Sklavenhändlern Eindruck zu schinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Für einen Kapitän wie Furrante sind die Sklavenhändler doch nur kleine Fische. Das würde zu wenig abwerfen, um die Investition wert zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ich weiß, dass sie ihre Aktivitäten im Todesfeuer von Krumsporn aus organisieren. Ich weiß, dass es nur eine kleine, allerdings skrupellose Gruppe ist, und dass sie bei ihren Transporten um die Inseln herum auf Schwierigkeiten getroffen sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Suche mich wieder auf, nachdem du diese Sklaven befreit hast. Ich sorge dafür, dass es sich für dich lohnt." Sie nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Wir sind die Zukunft – und wir gehen nirgendwohin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ich hätte Furrante selbst gern hängen sehen. Ich kann es mir allerdings auch so recht gut vorstellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ich werde jetzt die Führung über die Príncipi übernehmen. Ich werde eine Sitzung des Konzils von Stauholz einberufen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Begleite mich nach Stauholz, Schätzchen. Ich hätte dich gerne an meiner Seite, wenn ich dort das Blutvergießen beginne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ich werde mit deiner Flotte nach Stauholz segeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Wir treffen uns dort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Es ist die beste Lösung, dort mit dem vollen Schutz meiner Flotte einzutreffen. Machen wir uns also auf den Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Dann werde ich mal ein herzliches Willkommen für dich vorbereiten. Wünsch mir Glück!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Du wolltest mit mir reden? Betrachte mich und meine Aufmerksamkeit ganz als gefangen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Du weißt etwas über den Fliegenden Henker, was du mir nicht verrätst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Furrante ist überzeugt, dass du Informationen über den Fliegenden Henker zurückhältst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich habe nicht die geringste Ahnung, worauf du damit anspielen willst, Schätzchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Es war wohl nur eine Frage der Zeit, vermute ich. Ich wusste genau, diese Spione, die ich da an ihren eigenen Gedärmen aufgeknöpft habe, konnten nicht die einzigen sein.
+
+"Sie waren nur die armen Jungspunde, die man erwischt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Raus mit der Sprache! Oder ich töte dich und lese es in deiner Seele!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Verrate es mir, und ich werde dafür sorgen, dass man dich anständig behandelt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Könnt ihr denn nicht zu irgendeiner Übereinkunft kommen, Furrante und du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Was hast du vor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Sie beginnt zu lachen, doch dann stellt sie fest, dass du es ernst meinst. Sofort ist es mit ihrer Fröhlichkeit wieder vorbei, und sie wird bleich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ich weiß den Vorschlag zu schätzen. Allerdings ist mir mein Leben mehr wert als deine Ideale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Nur ein Narr würde sich auf Furrantes Wort verlassen. Was glaubst du wohl, wie er zum Leiter des Konzils der Kapitäne geworden ist? Indem er dafür gesorgt hat, dass seine Seeleute ihn lieben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Leben oder Tod, genau darum geht es. Die gesamte Zukunft der Príncipi steht auf dem Spiel!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Furrante ist auf den Fliegenden Henker scharf, um die Kontrolle über die Príncipi zu gewinnen – und nicht etwa, um uns gegen Feinde von außen zu schützen. "Oder um vor deinem tobenden Gott in Ukaizo zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Aber ich bin Furrante zwei Wegstunden voraus. "Ich weiß, wie man den Fliegenden Henker herbeiruft und kommandiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Natürlich habe ich die Informationen vernichtet, sobald ich Furrantes Spione entdeckt hatte. Ohne mich wirst du sie nie erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Verschaffe mir den Fliegende Henker, und ich verschaffe dir die Príncipi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Was die Zukunft der Príncipi betrifft, ist Furrante die beste Hoffnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ich bin ein Wächter. Ich erfahre das, was du weißt, aus deiner Seele."</DefaultText>
+      <FemaleText>"Ich bin eine Wächterin. Ich erfahre das, was du weißt, aus deiner Seele."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Angreifen] "Ein Versuch ist es wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ich arbeite gerne mit dir zusammen, Schätzchen. Ich strebe schon sehr lange eine Partnerschaft mit dir an, und ich glaube, das weißt du auch ganz genau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Aber wenn wir einander helfen sollen, gibt es eine Sache, die ich von dir will, als Gegenleistung für den Fliegenden Henker. 
+
+"Dieser verfaulte Schwanz Furrante muss verschwinden. Knüpfe ihn auf, reiß ihm die Gedärme heraus – das ist mir völlig egal. Hauptsache, du wirst ihn endgültig los, okay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ich habe Beweise dafür, dass er heimlich mit der Vailianischen Handelsgesellschaft zusammenarbeitet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Gibt es auch eine Option ohne Gewalt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ich werde mich darum kümmern, dass es erledigt wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Sieh mal einer an. Das sind ja gute Nachrichten. Für uns, meine ich. Bei den Príncipi ist der Sklavenhandel ein Verbrechen, das mit dem Tode bestraft wird, musst du wissen.
+
+"Selbst ein Mitglied des Konzils muss sich an die Gesetze halten und kann nicht ungestraft ein solches Verbrechen begehen." Sie grinst fröhlich, ersichtlich zufrieden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ich sehe keine Möglichkeit, das zu erreichen. Es sei denn, wir könnten nachweisen, dass Furrante Verrat an den Príncipi begangen hat."
+
+Nachdenklich leckt sich Aeldys über die Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ich werde nach Stauholz segeln und die Führung der Príncipi übernehmen, sobald Furrante sein verdientes schlechtes Ende gefunden hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ich wünschte, es hätte nicht so enden müssen, Schätzchen. Das wünschte ich wirklich. Wie absolut bedauerlich."
+
+Sie schüttelt den Kopf. Dunkle Locken fallen über ihre Schultern. Doch dabei greift sie nach dem Wurfmesser, das sie zwischen ihren Brüsten verborgen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Es muss nicht so enden. Sag mir einfach, was ich wissen muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Der einzige Grund, aus dem ich dich jetzt ungeschoren davonkommen lasse, Kapitän, ist der, dass ich nun einmal eine Schwäche für dich habe."
+
+Sie kneift ihre Augen zu engen Schlitzen zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Und als einzige Voraussetzung für dich muss ich mich nur in eine Leiche verwandeln? Ich reagiere nicht gerade nachsichtig auf Drohungen, Freundchen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Denkst du immer noch darüber nach, dich hinter Furrante zu stellen? Das würde nicht gut für dich enden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ich wette gerne darauf, dass du verlierst. Zieh deine Waffen, Haifischköder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Für deine Treue möchte ich dir Scoredeos Klinge überreichen.
+
+"Es war mir immer ein gutes Schwert. Ich weiß, du wirst es sinnvoll nutzen. Hoffentlich dazu, noch mehr meiner Feinde umzubringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Er ist ein Arsch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Wir sind zu einer Vereinbarung gekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Wen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Wahrere Worte wurden noch nie gesprochen." Sie wirft den Kopf zurück und lacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Mein Freund Brutalo-Ben ... Oh, es wird ihm gefallen, dass du ihn vergessen hast. Er hat meine Ohren mit seinen Klagen über dich beinahe zum Bluten gebracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Es ist nicht leicht, Benny dazu zu bringen, dass er zuhört. Ich bin beeindruckt!
+
+"Ich kann allerdings natürlich nicht behaupten, dass er sehr viel Nettes über dich zu sagen hatte ..." Um ihre Lippen spielt ein stolzes Lächeln. Sie dreht das goldene Suolenet an seiner Kette über ihren Brüsten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Wenn du eine gute Erklärung parat hast, kann ich dir nur raten, sie ganz schnell mitzuteilen."
+
+Trotz der drohenden Gewalt, die in ihren Worten mitschwingt, hält sie sich noch zurück, schürzt die Lippen und wartet begierig auf deine Antwort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Du kannst es mir doch nicht vorwerfen, dass ich mich selbst verteidige!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Er hat es verdient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Der vierte Vorsitzende?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Und ob ich das kann! Der Kapitän einer gesamten Flotte zu sein bedeutet, du kannst tun und lassen, was dir gerade in den Sinn kommt."
+
+Sie hebt selbstbewusst das Kinn. Ihr schwarzes und ihr blaues Auge betrachten dich intensiv, doch um ihre Lippen zuckt ein Lächeln – allerdings ein knallhartes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Das hat er oft getan. Das bedeutet allerdings noch lange nicht, dass es mir Freude gemacht hat, seine Grabrede zu schreiben." Sie zuckt seufzend mit einer Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Glaube ja nicht, dass du mich ablenken kannst, Schätzchen. Benweth war einer von &lt;i&gt;meinen&lt;/i&gt; Kapitänen. Und außerdem auch noch einer der sieben mit einem Sitz im Konzil."
+
+Sie schüttelt den Kopf. Ihre wirren dunklen Haarsträhnen tanzen auf ihren Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Du hast mir die rechte Hand abgeschnitten. Wie bitte gedenkst du jetzt, sie zu ersetzen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ich werde Benweths Sitz im Konzil übernehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Das kannst du tun – aber nur solange, wie du mir gegenüber loyal bist. Nun, irgendjemand muss ja seinen Platz einnehmen. Und wenn ich mir vorstelle, du könntest meine Ansichten im Konzil voll unterstützen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ich habe gehört, aus Silber kann man einen hübschen Haken herstellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Er sagte mir bereits, dass du ein ziemlicher Klugscheißer bist. Aber ich vermute einmal, das wird meinen Ärger besänftigen. Für eine gewisse Zeit ..."
+
+Sie wiegt den Beutel mit Münzen in ihrer Hand und schiebt ihn sich dann zwischen die Brüste. Um dort Platz zu schaffen, zieht sie ein verstecktes Messer hervor. Es schimmert kurz golden im Licht  – verschwindet jedoch sofort wieder in einer verborgenen Scheide an ihrem Ärmel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Die Arme vor der Brust verschränken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Dir kann man deine Gedanken wirklich nicht vom Gesicht ablesen. Hast du Lust, irgendwann einmal abends ein Kartenspiel zu wagen?" Sie dreht das goldene Suolenet an seiner Kette über ihren Brüsten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Überlass das ruhig mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"So lobe ich mir das, Seemann." Es wird nicht lange dauern, bis du neben mir im Konzil der Kapitäne sitzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Natürlich. &lt;i&gt;Falls&lt;/i&gt; wir eine Partnerschaft eingehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Nein, das würde ich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Vielleicht – vielleicht aber auch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ich finde, wir sollten uns auf die Probe stellen. Nur um sicherzugehen, dass wir auch gut zusammenpassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Dann sind wir hier wohl fertig, nehme ich an."
+
+Mit einem bösen Blick wendet sie sich ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Du befleißigst dich großer Vorsicht. Das kann ich respektieren. Oder vielleicht ..." Ihre Augen, die unterschiedlicher Farbe sind, betrachten dich von Kopf bis Fuß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Unter uns Neublütern gibt es nur wenige Regeln. Eine von ihnen ist allerdings, dass du ganz frei leben kannst. Wir mögen Diebe und Mörder sein, aber wenn du uns einen Treueeid schwörst, gehörst du zu uns, bist unser Blut und unsere Familie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Wenn ich jetzt genau entgegengesetzt zu dem handeln würde, was sich Furrante vorstellt, würde er das nur zum Anlass für eine Abstimmung im Konzil der Kapitäne nehmen. Er würde mich am Galgen aufknüpfen lassen. Aber dich kann niemand damit in Verbindung bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Wie finde ich denn deine Piratin in Krumsporn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Sie wird dich finden, Schätzchen. Und du wirst sie an ihrer Narbe erkennen. Es ist ein schrecklicher Anblick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Ich gehe nach Krumsporn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Nein, er verfolgt geheime Absichten – lass dir das gesagt sein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Für einen Kapitän wie Furrante sind die Sklavenhändler doch nur kleine Fische. Das würde zu wenig abwerfen, um die Investition wert zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Wir sind Piraten, Schätzchen. Dieses Meer gehört uns, und auf seine eigene verdrehte Weise liebt das Meer uns ebenfalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Furrante sehnt sich nach einer Heimat, die er niemals zu Gesicht bekommen hat. Aber was bedeutet Alt-Vailia schon mir und meiner Mannschaft? Wir sind keine Vailianer und werden es auch niemals sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Wenn du allerdings ein Vailianer sein solltest und dich unserer Blutlinie anschließen willst, bist du mehr als willkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Aber wurde eure Niederlassung denn nicht von Flüchtlingen aus Alt-Vailia gegründet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Verstehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ja, aber das ist viele Generationen her. Und ich bin im Dyrwald aufgewachsen, musst du wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Du sagst Consuaglo mes Casitàs. Ich sage, Konzil der Kapitäne. Du sagst Príncipi. Ich sage, die besten &lt;i&gt;Piraten&lt;/i&gt; im Todesfeuer.
+
+"Du sagst Suolenent. Ich sage ... Nun gut, manche Dinge bezeichnen wir eben auf gleiche Weise." Sie spielt mit der Goldmünze und lacht von Herzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ich glaube dir. Du scheinst mir ein sehr kluger Kapitän zu sein, wirklich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Du kaufst es mir nicht ab, oder?" Sie schnaubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Durch Fairness? Oh nein! Ich habe meine Erfolge dadurch erzielt, dass ich seine Feinde auf die schlimmste Weise abgeschlachtet habe. So hältst du Neue davon ab, dich herauszufordern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Die Markierung auf dieser Seite besagt, dass ich im Konzil der Kapitäne den zweithöchsten Rang besitze. Ich stehe nur einen Sitz unter diesem verfaulten Schwanz Furrante." Sie grinst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Ihr das Suolenet zeigen.] "Jetzt bin ich der vierte Vorsitzende."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Ich verstehe – Furrante beeinflusst das Konzil sehr zu seinen eigenen Gunsten." Sie kneift die Augen zu Schlitzen zusammen und leckt sich über die Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Ihr das Suolenet zeigen.] "Wir hatten einen Streit unter Piraten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Und ihr habt ihn beigelegt, wie das unter Piraten üblich ist. Schätze, das kann ich dir nicht vorwerfen. Dennoch ..." Ihre Wimpern senken sich über das blaue und das schwarze Auge und liegen wie schwarze Federn auf ihren Wangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Oder was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Sie wirbelt ein goldenes Messer in der einen Hand und eine Pistole in der anderen herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Oder ich ruiniere dir dein hübsches Gesicht mit dieser Klinge und dieser Knarre."
+
+Ihre Lippen ziehen sich in einem breiten Lächeln der Vorfreude auseinander. Dazwischen erscheint ihre Zunge, um sie zu benetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Angreifen] "Dieses Gesicht wird das Letzte sein, das du in deinem Leben siehst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Mit einem wilden Lachen zielt sie auf dein Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Sobald ich Benweths Sitz im Konzil übernommen habe, kannst du dich darauf verlassen, dass ich voll hinter dir stehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Du bist also nicht nur mächtig, sondern auch klug."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Ja, ich glaube, du siehst die Dinge, wie sie wirklich sind. Du verstehst, wie eine Vereinbarung zwischen uns aussehen könnte, die uns beiden Vorteile bringt."
+
+Sie zwinkert mit dem blauen Auge und schnippt gegen das Suolenet am Ende seiner Kette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Sie setzt an, mehr zu sagen, hält jedoch inne. Mit einem Kopfschütteln zieht sie die Goldmünze mit den Fingern um ihren Hals herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Wenn ich ein hübsches Gesicht sehe, werde ich immer schwach. Und je mehr Narben vom Kampf ein Gesicht aufweist, desto hübscher wird es in meinen Augen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Erlaubst du mir, meinen Becher auf eine wunderbare Freundschaft und einen guten Kapitän zu heben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Hast du einmal gehört, wie Benny Cembalo spielt? Er ist wirklich verdammt gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Ich trinke nicht wirklich aus diesen Schädeln. Ich habe sie nur zu Dekorationszwecken in Becher verwandelt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Ich finde, der Trick mit den Sirenen ist ganz einfach – du reißt ihnen die Zunge heraus, kapiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Merkwürdig ... Ein Fass meines Lieblingsrums scheint verschwunden zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Um ehrlich zu sein, stünde ich lieber an deiner Seite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Jetzt schau doch nur, wen die Sirenen da aus dem Meer geholt haben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Ah, die Geißel der roten Meere besucht uns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Er &lt;i&gt;glaubt&lt;/i&gt;, was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Er weiß es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Hörst du etwa schlecht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Ich höre auf einem Ohr tatsächlich nicht gut, nachdem einmal direkt neben meinem Kopf ein Schuss losgegangen ist. Davon abgesehen allerdings – nein, ich habe dich klar und deutlich vernommen." Lächelnd zuckt sie mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Nun, ich weiß, ich habe dir bedingungslose Verhandlungen angeboten – aber ich bin ein Pirat. Und das bedeutet, ich bin meiner Mannschaft gegenüber loyal. Ansonsten allerdings lüge ich, wie es mir gefällt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Gefällt es dir, was du siehst?"
+
+Auf der vernarbten Haut ihrer Brust funkelt ein goldenes Suolenet. Als sie sieht, dass du die Münze bemerkt hast, schnippt sie sie herum und zeigt die andere Seite, die ihren Status kennzeichnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Ich habe dir ein paar kandierte Nüsse gebracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Nun, Süßigkeiten können die Dinge nicht wieder in Ordnung bringen. Aber es ist ein guter Anfang.
+
+"Sie versetzen mich in eine ... geringfügig bessere Stimmung.
+
+Mit einem Grinsen greift sie sich die Leckereien aus deiner Hand, schiebt sich eine der zuckrigen Nüsse in den Mund und kaut sie genießerisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Oh, ich mag dich durchaus. Eine gute Antwort, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Und jetzt, nachdem wir das erledigt haben, kann ich es ja offen zugeben – ich mag dich wirklich, Kapitän. Du kannst nicht nur brutal sein, du beweist auch Mut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Ich bewundere einen Mann, der sich nicht einschüchtern lässt. Du kannst nicht nur brutal sein, du beweist auch Mut.
+
+"Und jetzt, nachdem wir das erledigt haben ..."</DefaultText>
+      <FemaleText>"Ich bewundere eine Frau, die sich nicht einschüchtern lässt. Du kannst nicht nur brutal sein, du beweist auch Mut.
+
+"Und jetzt, nachdem wir das erledigt haben ..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Ich möchte dir einen Handel vorschlagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Hau ab! Sonst schiebe ich dir diese Flasche Rum so tief in den Arsch, dass du mir einschenken kannst, wenn du dich nur ein Stückchen vorbeugst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Oder vielleicht nicht? Aber nachdem Ben nun nicht mehr ist ..." Sie fängt deinen Blick mit ihrem blauen und ihrem schwarzen Auge ein. Ihrer ist ernst – und hoffnungsvoll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Aber du hast zweifellos mein Interesse und meine Aufmerksamkeit erregt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Ich bewundere einen Mann, der sich nicht einschüchtern lässt. Du kannst nicht nur brutal sein, du beweist auch Mut.
+
+"Ich möchte mich mit dir zusammenschließen."</DefaultText>
+      <FemaleText>"Ich bewundere eine Frau, die sich nicht einschüchtern lässt. Du kannst nicht nur brutal sein, du beweist auch Mut.
+
+"Ich möchte mich mit dir zusammenschließen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Oh, ich mag dich durchaus. Ich glaube, wir werden prima miteinander auskommen, oh ja."  Um ihre Lippen spielt ein verschlagenes Lächeln. Sie dreht das goldene Suolenet an seiner Kette über ihren Brüsten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Ich habe dir ein paar kandierte Nüsse gebracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Hast du auch Brutalo-Ben versucht, mit deinen Süßigkeiten für dich einzunehmen?"
+
+Sie zwinkert mit dem blauen Auge und wirft dir eine Kusshand zu. Allerdings nimmt sie dein Angebot erfreut an. Mit einem genießerischen Laut rollt sie eine gezuckerte Nuss auf ihrer Zunge herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Dadurch hast du dir auf jeden Fall mein Interesse und meine Aufmerksamkeit mehr als verdient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Es wurde auch Zeit, dass du Vernunft annimmst, mein Freund." Ihr Gesicht leuchtet grimmig auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Was soll das heißen?" Neugierig betrachten dich ihr blaues und ihr schwarzes Auge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Er hat den Sklavenhändlern von Krumsporn geholfen, die Gunst von Direktor Castol zu gewinnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Sag du es mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Nachdenklich tippt sie sich mit den Fingern ans Kinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Was sollte denn die Vailianische Handelsgesellschaft von Furrante wollen?" "Glaubst du etwa, diese Vailianer verfügen über Beziehungen hinter den Kulissen?
+
+"Aber worüber? Über Handel wahrscheinlich. Über einen Handel mit ... höchst seltenen Dingen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Es wird wärmer – du beginnst, es zu begreifen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[Drohend grinsen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Ich glaube, ich werde kochend heiß, so nahe, wie ich der Sache komme." Sie grinst und zeigt dabei ihre Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Habe ich dir eigentlich jemals gesagt, wie sehr ich deinen Blutdurst liebe?" Aus ihrer Kehle dringt ein weicher, verlangender Laut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Im Todesfeuer ist kein Handel profitabler als der mit leuchtendem Adra – oder mit Gestandenen-Sklaven.
+
+"Und für die Príncipi gilt nur eines davon als Verbrechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Aha, du lässt dich also gerne umwerben. Aber worauf bist du aus? Gold? Alkohol? Oder Macht? Wenn du dich mit mir zusammenschließt, kann ich dir alle drei Dinge bieten – und noch etwas mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Aber ich lasse mich ebenfalls gerne umwerben, Schätzchen. Und ich komme &lt;i&gt;immer&lt;/i&gt; an erster Stelle."
+
+Sie zwinkert dir zu. Dabei spielt ihre rosige Zunge über ihre Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Ihr Gesicht verschließt sich. Sie verschränkt die Arme vor der Brust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Ich nehme das einstweilen einmal als zustimmende Antwort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>In ihren Augen, beide von unterschiedlicher Farbe, funkelt eine dunkle Aufregung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"So siehst du das also? Wirklich?" Sie sieht dich an, als könne sie dir gar nicht glauben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Da hast du falsch gedacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Uns verbindet tatsächlich etwas ganz Besonderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Und ich dachte, das zwischen uns, das sei etwas ganz Besonderes ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Und?" Sie wartet auf deine Antwort. In ihrem Kiefer zuckt nervös ein Muskel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Furrante ist der bessere Anführer. Das ist alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Aber wenn ich dich hier noch einmal sehe und du dich bis dahin nicht mir gegenüber loyal erklärt hast, werde ich dir dein hübsches Gehirn aus dem Kopf blasen. Kapiert?"
+
+Mit gebleckten Zähnen wendet sie sich ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Ja." Der Kapitän reibt sich die Lippen, als du herantrittst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Ich dachte, du würdest gerne erfahren, wie ich der verrückten Morena im Gewölbe geholfen habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Das hat man mir berichtet. Und ich bin beeindruckt. 
+
+Ich mag es, wenn jemand mir und den Meinen einen Gefallen tut. Das macht mich diesen Personen gegenüber richtig freundlich gesinnt, weißt du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Und ich gebe meinen Freunden gerne kleine Zeichen meiner Anerkennung. Zeichen wie dieses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>[Ihr das Engoliero zeigen.] "Gefällt dir mein Schwert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Das gefällt mir in der Tat, Schätzchen. Es ist ein sehr mächtiges Schwert, das du da hast. Wo auf Eora hast du es bloß gefunden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Ich habe es von Yseyr dem Berather. Das ist der Priester, der Lucia Rivan getötet hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Dieses Schwert gehört der königlichen Familie der Darcozzi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Glaubst du, Rivan will es zurückhaben? Also ich schon." Nachdenklich klopft sie sich mit den Fingern gegen das Kinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Pass gut darauf auf. Du hast mich auf eine Idee gebracht, wie ich den Fliegenden Henker vielleicht finde. 
+
+"Mehr werde ich dir berichten, wenn ich selbst mehr weiß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Du meinst das königliche Schwert, das der Paladin der Darcozzi Lucia Rivan geschworen hatte zu schützen? Rivan, der Kapitän der Fonferrus, jetzt bekannt als der schreckliche Fliegende Henker, die Geißel des Todesfeuers?" Nachdenklich klopft sie sich mit den Fingern gegen das Kinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Wenn du über Beweise verfügst, dass er damit zu tun hatte, pass gut auf sie auf. Vielleicht können wir sie später zu unserem Vorteil nutzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Wenn du über Beweise verfügst, dass er damit zu tun hatte, pass gut auf sie auf. Wir können sie nutzen, um ihn zu stürzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Nun, ich wollte dich um einen Gefallen bitten – einen, der dem Sklavenhandel von Krummsporn einen verheerenden Schlag versetzt hätte. Aber es scheint, als käme ich zu spät."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Ich hätte dich gebeten, die Sklaven auf der Insel zu befreien. Aber wie ich höre, hast du dort stattdessen ein rechtes Chaos angerichtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Zum Glück für mich – und für die Sklaven – hatten wir denselben Gedanken. Und du hast bereits erledigt, worum ich dich bitten wollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Nun, ich hatte geplant, dir einen Handel anzubieten, Schätzchen – eine Partnerschaft zwischen zwei Kapitänen, die nichts aufhalten kann. Ich meine damit natürlich mich und dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Ich bedauere die Wahl, die du getroffen hast. Vor allem, weil sie mir mein Leben erschwert." Seufzend befingert sie das Suolenet an ihrer Kehle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Aye. Und nach allem, das ich gehört habe, muss es auch ziemlich hoch hergegangen sein. Ich für meinen Teil liebe ein richtiges Blutbad ebenfalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Einige der befreiten Sklaven haben den Weg zum Todesfeuer bereits gefunden und bei Schiffen aus meiner Flotte angeheuert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Ich habe dir ein paar kandierte Nüsse gebracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Du weißt doch, wie sehr ich sie liebe. Und wie sehr ich dich für dieses Geschenk liebe, Täubchen."
+
+Ihre Lippen verziehen sich zu einem übermütigen Lächeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Der Kapitän kaut eine Handvoll Nüsse und betrachtet dich mit weit mehr Interesse als zuvor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Aber anscheinend hast du die verrückte Morena umgebracht, einen meiner treuesten Kapitäne, und ebenfalls Mitglied des Konzils."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Vielleicht können wir in der Zukunft dennoch einmal irgendwie zusammenkommen. Einverstanden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Also ... Womit befasst du dich in deiner Freizeit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Was meinst du damit? Meine Hobbys?" Sie lacht laut und zieht die Augenbrauen beinahe zum Haaransatz hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Wenn ich nicht auf Beutezug unterwegs bin, regiere ich genau hier über meine Flotte. Ansonsten mag ich Schießübungen. Und natürlich Rum und ein heißes Bad, wie alle Seeleute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Wie sieht es mit dir aus? Magst du all diese Dinge ebenfalls?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Ich bin gekommen, um dich zu warnen. Furrante hat den Rat davon überzeugt, dich hängen zu lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Wie kann er es wagen!" Wild dreht sie am Suolenet an ihrer Halskette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Es sollte mich wohl kaum überraschen, dass er intrigiert hat. Es gibt nur einen Weg, den Fliegenden Henker zu übernehmen – du musst den Kapitän töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Ihn. Oder mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Was willst du mit Furrante machen? Ihn umbringen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Oh, aye. Weil er mich in einer Verfahrensposse reingelegt hat? Ich werde ihm den Schwanz abschneiden und ihn ihm zu fressen geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Ich dachte, wir wären uns einig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Du hast recht. Ich will dir &lt;i&gt;wirklich&lt;/i&gt; vertrauen." Sie mustert dich abschätzig von oben bis unten. Denkt nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Ich und die Meinen bei den Príncipi, wir könnten dir mächtige Verbündete sein. Aber wärst du denn auch bereit, im Gegenzug uns gegenüber loyal zu sein? Das möchte ich gerne wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Natürlich. &lt;i&gt;Falls&lt;/i&gt; wir eine Partnerschaft eingehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Nein, das würde ich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Vielleicht – vielleicht aber auch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Ich finde, wir sollten uns auf die Probe stellen. Nur um sicherzugehen, dass wir auch gut zusammenpassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Du befleißigst dich großer Vorsicht. Das kann ich respektieren. Oder vielleicht ..." Ihre Augen, die unterschiedlicher Farbe sind, betrachten dich von Kopf bis Fuß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Aha, du lässt dich also gerne umwerben. Aber worauf bist du aus? Gold? Alkohol? Oder Macht? Wenn du dich mit mir zusammenschließt, kann ich dir alle drei Dinge bieten – und noch etwas mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Aber ich lasse mich ebenfalls gerne umwerben, Schätzchen. Und ich komme &lt;i&gt;immer&lt;/i&gt; an erster Stelle."
+
+Sie zwinkert dir zu. Dabei spielt ihre rosige Zunge über ihre Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Die Sache ist die, ich habe diese Sorge, die mir nicht aus dem Kopf geht, Täubchen. Ärgert mich schon einige Zeit und das verdammt hartnäckig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Die Sache ist die, ich habe diese Sorge, die mir nicht aus dem Kopf geht, Täubchen. Ärgert mich schon einige Zeit und das verdammt hartnäckig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Einstweilen kannst du dir sicher sein, dass ich mich melde, wenn ich dich brauche."
+
+Sie tippt sich pflichtgemäß an den Hut und trinkt dann einen Becher Götter-Killer-Rum leer, der hinter ihr auf dem Tisch stand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Ich weiß, dass du dich mit Furrante getroffen hast, und dass du möglicherweise sogar für ihn arbeitest. Diese verdammte Sackratte."
+
+Mit einem Fingerschnippen wischt sie einen Becher Götter-Killer-Rum von ihrem Tisch. Sie nimmt einen kräftigen Schluck, bevor sie auf dich zeigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Aber das heißt ja nicht, dass du dich nicht auch mit mir zusammentun kannst. 
+
+"Tu nichts, das ihn das kapieren ließe. Halte mich ... einfach auf dem Laufenden über gewisse kommende Ereignisse, wenn sie sich abzeichnen. Einverstanden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Zur rechten Zeit, werden wir unsere Strategie festlegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Halte dich bereit, ich melde mich bei dir, ob und wann ich dich brauche. 
+
+"Andernfalls, solltest du zufällig besonders kernige Details zu Furrantes politischen Vorhaben aufdecken, kannst du jederzeit zu mir kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Was Furrante betrifft ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Ich höre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Von Furrante habe ich erfahren, wo ich Benweth finde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Furrante bat mich darum, in Neketaka nach Informationen über den Fliegenden Henker zu suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Anscheinend kommandiert eine alte Darcozzi-Paladin, Lucia Rivan, den Fliegenden Henker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Lucia Rivan wurde erstmals als untoter Kapitän bei der Schlacht um die Dämmerinsel gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Furrantes Interesse an Krummsporns Sklavenhandel bringt die Vailianische Handelsgesellschaft ins Spiel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Warum sollte Furrante interessiert sein, den Sklavenhändlern in Crookspur zu helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Lass uns das ein anderes Mal diskutieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Das habe ich mir gedacht. So hat Furrante seine politische Stellung erreicht. Und so behält er sie – mit hinterhältigen Taktiken, die seine Gegner in den Ruin treiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Neketaka? Aber warum dort, Schätzchen?" Aeldys verschränkt die Arme unter ihrer Brust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Der Fliegende Henker ist der Rest der Fonferrus? Interessant. Durchaus interessant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Sie verdreht ihr tiefschwarzes und ihr eisblaues Auge mit Interesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Nun sieh mal einer an – gut, das zu wissen. Das ergibt auf jeden Fall Sinn." Ihre Augen verengen sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Für einen Kapitän wie Furrante sind die Sklavenhändler doch nur kleine Fische. Das würde zu wenig abwerfen, um die Investition wert zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Wenn du über Beweise verfügst, dass er damit zu tun hatte, pass gut auf sie auf. Vielleicht können wir sie später zu unserem Vorteil nutzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Ich kann dir nur Vermutungen anbieten, Schätzchen. Aber ich verwette meine Suolenet, dass Furrante versucht, bei anderen Leuten als den Sklavenhändlern Eindruck zu schinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Für einen Kapitän wie Furrante sind die Sklavenhändler doch nur kleine Fische. Das würde zu wenig abwerfen, um die Investition wert zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Nein, er verfolgt geheime Absichten – lass dir das gesagt sein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Und ich belohne gern jene, die mich unterstützen. Ich bin gut zu meinen Verbündeten, musst du wissen.
+
+"Für deine Mühen, mein Täubchen. Ich will dich an meinem Schatz ein wenig teilhaben lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Schon gedankenverloren nickend gibt dir Aeldys ein paar Münzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Oh ja, du hast mir dieses Mal einen saftigen Leckerbissen gebracht. Jetzt werde ich wie ein Haifisch auf einer Blutspur hinter ihm her sein."
+
+Mit einem erfreuten Ausdruck wirft sie dir einen kleinen Münzbeutel zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Du kannst darauf wetten, dass ich mir Furrantes mögliche Geschäfts- und Politikverbindungen genauer ansehen werde. Für den Tipp, so unscheinbar er auch sein mag, bin ich dir jedenfalls dankbar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Der Kapitän reicht dir einen schweren Sack Münzen und signalisiert gleichzeitig einem Seemann in der Nähe, ihr eine Reihe von Seekarten zu bringen. Sie will ganz eindeutig auf die Jagd gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Man nennt sie die Verrückte Morena, wirklich. Und ich sage dir, mein Täubchen. Den Spitznamen hat sie sich verdient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Das heißt, wenn du zufällig die Sklaven in  Krummsporn befreist ... Furrante könnte rein gar nichts dagegen tun.
+
+"Niemand hat es verdient, von anderen versklavt zu sein. Verstehst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Dein Wunsch ist mir Befehl, Täubchen." Ich stehe dir von Herzen gern zur Verfügung.
+
+"Zumindest, bis es mich langweilt." Sie zwinkert mit ihrem eisblauen Auge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Hast du etwas für mich, Täubchen?" Sie lehnt sich interessiert nach vorne, ihre Mundwinkel biegen sich teuflich nach oben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Ich? Ich trete meinen Gegnern gern offen gegenüber, gebe ihnen eine Chance, sich mir anzuschließen, bevor ich sie verdammt noch mal vernichte."
+
+Die unterschiedlich gefärbten Augen des Kapitäns leuchten schalkhaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"In den Palast zu stürmen war ziemlich dreist, denkst du nicht auch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Aye, aber notwendig. Bist du mit meinem Vorgehen nicht einverstanden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Ganz und gar nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Ja, und ob.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Es spielt keine Rolle." Ich möchte nur wissen, wie du nach Ukaizo kommen willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Die Stürme &lt;i&gt;wären&lt;/i&gt; auf jeden Fall ein Problem. Wenn ich nicht schon den Plan hätte, wie ich das Kommando des Fliegenden Henkers übernehme, um sie völlig zu unterdrücken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Erfreut bietet sie dir einen Drink an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Wir werden einfach hindurch segeln, so wie es dir gefällt.
+
+"Aber zuerst muss ich noch etwas erkunden. Das letzte Puzzleteil, wenn man so will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Ich melde mich, wenn alles bereit ist, Schätzchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Sprechen wir jetzt über unsere nächsten Schritte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Dann will ich im Folgenden diskreter sein, einfach um dir den Gefallen zu tun, mein guter und furchterregender Partner."
+
+Der Kapitän verneigt sich spöttisch, aber jegliche Spur von Humor ist aus ihrem Gesicht gewichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Als sie sich wieder aufrichtet, geschieht das mit einer Steifheit, die ihr rücksichtsloses Ziel und blutrünstigen Charakter verrät.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Ich soll für dich spionieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>[Die Arme vor der Brust verschränken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Shhh. Es ist nicht nötig, etwas zu sagen, noch nicht. Du solltest es dir gut überlegen, wenn du dich nächstes Mal für jemanden abrackerst, der dich mit Freude ausweiden würde – nachdem du ihm die Bitte erfüllt hast."
+
+Sie tippt wissend auf eine Schläfe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Wie schlau du doch bist!" Sie verzieht frech ihre Augenbrauen über ihren Augen mit unterschiedlicher Farbe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Du musst dich jetzt zu nichts verpflichten. Du solltest es dir gut überlegen, wenn du dich nächstes Mal für jemanden abrackerst, der dich mit Freude ausweiden würde – nachdem du ihm die Bitte erfüllt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Ich entwirre gern die Fäden der Geschichte. Das ist wie das Enträtseln einer verschlüsselten Schatzkarte. Allein, um diese Beute zu ernten, müssen wir die Geheimnisse der Vergangenheit aufdecken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Gib mir etwas Zeit, dann finde ich das passende Mittel, um mich um Lucia zu kümmern. Dann sind wir einen Faden näher am Kommando über den Fliegenden Henker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Glaubst du, Lucias Verwandlung zur Untoten hatte etwas damit zu tun, dass sie Paladin ist und ihre Treuepflicht durch den Tod unterbrochen wurde? 
+
+"Das ist mir eigentlich egal." Sie zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Gut, dann geh." Sicher kennst du unsere Redensart: &lt;i&gt;Teilen und teilen, so wie das Gesetz der Küste ist.&lt;/i&gt;"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Ich soll die Grabrede von Ysyer dem Berather finden. Er hat Lucia Rivan getötet und ist in den Katakomben von Neketaka begraben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Nachdem Lucia Rivan von einem berathianischen Priester getötet wurde, stand sie als Todeswächter wieder auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Und wenn du etwas anderes findest, musst du es mich unbedingt wissen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Das erklärt, warum sie der Kapitän einer untoten Mannschaft ist. Das sagt mir auch, wenn sie eine Todeswächterin ist, dann ist da etwas, das sie mit aller Macht haben will. Etwas, für das sie vielleicht bereit ist, zu handeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Furrante glaubt, der Fliegende Henker ist ein Überbleibsel der Fonferrus – der Kapitän soll eine Darcozzi-Paladin sein, die schon zwei Jahrhunderte tot ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Ich habe diese Gerüchte gehört. Der Fliegende Henker segelt unter der Flagge, die den brennenden Palast von Alt-Vailia zeigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Und einer oder beide sind für uns von Interesse, wenn wir den Fliegenden Henker für uns haben wollen? Ich verstehe." Sie streicht sich mit schmutzigen Fingern über das Kinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Ich habe diese Gerüchte gehört. Der Fliegende Henker segelt unter der Flagge, die den brennenden Palast von Alt-Vailia zeigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Lucia Rivan starb, als sie das königliche Schwert schützen wollte. Aber das Schwert wurde ihr gestohlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Und so wurde sie zur Untoten. Jetzt spukt sie durch das Todesfeuer und sucht bis in alle Ewigkeit, um ihre Pflicht zu erfüllen, kapiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Mit dieser spärlichen Information kann ich gewiss etwas anfangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Oh, und das hier ist ein wenig für dich."
+
+Im Vorbeugen zieht sie eine Geldbörse zwischen ihren Brüsten hervor und stopft sie dir in die geöffnete Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Ja, Zielübungen entspannen mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Ehrlich gesagt, könnte ich jetzt ein heißes Bad vertragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Ich hasse Schießen, Saufen und Sauberkeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Die Schreie können ziemlich beruhigend sein, nicht wahr?" Sie spielt mit den Augenbrauen, aber du bist dir nicht sicher, ob sie dich nur reizen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Sie wirft den Kopf zurück und lacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Ja, natürlich. Du kannst gern meine benutzen. Aber vielleicht später? Wenn nicht so viele zusehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Sie kneift die Augen zusammen, unsicher, ob sie jetzt lachen soll oder nicht. Aber dann breitet sich ein boshaftes Grinsen in ihrem Gesicht aus, und sie leckt sich die Lippen. Mit starrem Blick in deine Augen trinkt sie einen großen Schluck aus ihrem Becher mit Rum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Vielleicht kann ich dir später die vorteilhaften Qualitäten der beiden zeigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Diese Lucia Rivan – ich kenne ihren Namen. Sie war vor etwa zwei Jahrhunderten Kapitän auf der Fonferrus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Nach allem, was du mir erzählt hast, sollte mich das nicht überraschen. Es gibt nur einen Weg, den Fliegenden Henker zu übernehmen – du musst den Kapitän töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Wir stecken hier zusammen drin." Du und ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Aye, du hast mir deine Loyalität bewiesen." Aeldys lächelt, aber ihr Lächeln ist so scharf wie ein Rasiermesser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Zu deinem und meinem Glück, habe ich herausgefunden, wie man den Fliegenden Henker herbeibeschwört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Natürlich kann ein Pirat nie vorsichtig genug sein. Deshalb vernichtete ich die Information, sofort nachdem ich sie mir gemerkt habe. Ohne mich wirst du sie nie erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Ich dachte, wir wären uns einig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Wie? Kann nicht sagen, dass du viel gemacht hast." Sie zieht ihre Augenbrauen hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Das sagst du. Trotzdem du wenig getan hast, um dir meine unsterbliche Loyalität zu verdienen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Ich sage dir allerdings so viel. Mir wäre es lieber, wir finden einen gemeinsamen Weg als die Alternative."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Bedaure, Schätzchen, ich habe keine Zeit für Höflichkeiten. Ich muss eine verlorene Stadt des Goldes finden"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Nun, ich wollte dich um einen Gefallen bitten – einen, der dem Sklavenhandel von Krummsporn einen verheerenden Schlag versetzt hätte. Aber es scheint, als käme ich zu spät."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Ich hätte dich gebeten, die Sklaven auf der Insel zu befreien. Aber wie ich höre, hast du dort stattdessen ein rechtes Chaos angerichtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Und jetzt ist der Meister in der Defensive. Das Einzige, was du erreicht hast, ist eine Stärkung seines Betriebs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Sie setzt an, mehr zu sagen, hält jedoch inne. Mit einem Kopfschütteln zieht sie die Goldmünze mit den Fingern um ihren Hals herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Ich und die Meinen bei den Príncipi, wir könnten dir mächtige Verbündete sein. Aber wärst du denn auch bereit, im Gegenzug uns gegenüber loyal zu sein? Das möchte ich gerne wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Natürlich. &lt;i&gt;Falls&lt;/i&gt; wir eine Partnerschaft eingehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Vielleicht – vielleicht aber auch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

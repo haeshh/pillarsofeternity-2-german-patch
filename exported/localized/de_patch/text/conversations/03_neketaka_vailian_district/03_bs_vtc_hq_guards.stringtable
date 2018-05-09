@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_bs_vtc_hq_guards</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Gouverneurin Alvari schätzt es nicht, wenn man das Geschäft stört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Die Treppe ist im Nordwesten. Bitte leise auftreten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Wache starrt dich ausdruckslos an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Schnappt ihn!"</DefaultText>
+      <FemaleText>"Schnappt sie!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Für die Republiken!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich habe dich gesehen, Spion!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wenn du keinen guten Grund hast, hier zu sein, kehr auf der Stelle um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Entschuldigung, der Direktor ist nicht da. Du musst ein anderes Mal wiederkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Der Gouverneur ist gerade nicht da. Du musst deine Geschäfte anderswo erledigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Wache deutet dir wortlos, weiterzugehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Schnappt ihn! Der Gouverneur braucht Zeit, um sich in Sicherheit zu bringen!"</DefaultText>
+      <FemaleText>"Schnappt sie! Die Gouverneurin braucht Zeit, um sich in Sicherheit zu bringen!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Schnappt ihn! Wir müssen dem Direktor Zeit verschaffen, sich in Sicherheit zu bringen!"</DefaultText>
+      <FemaleText>"Schnappt sie! Wir müssen der Direktorin Zeit verschaffen, sich in Sicherheit zu bringen!!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_rdc_faction_questline\fct_qst_rdc00_meet_rdc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Das Messingimperium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit der Hazanui in der Messingzitadelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich habe Hazanui Karū von der Königlichen Todesfeuer-Gesellschaft im Palast getroffen. Es kann nicht schaden, sich weiter mit ihr bekannt zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Hazanui Karū führt die rauataianischen Streitkräfte in der Region an. Dank der Königlichen Todesfeuer-Gesellschaft konnte Rauatai Territorien rund um den Archipel erringen. Das macht die Hazanui – und ihr Volk – zu einer einflussreichen Macht.
+
+Es könnte in meinem Interesse liegen, mich mit ihr zu treffen und herauszufinden, wo sich unsere Interessen überschneiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Das Büro von Hazanui Karū liegt am hinteren Ende des Kaiserlichen Kommandos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe mich mit der Hazanui getroffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Die Königliche Todesfeuer-Gesellschaft will nichts mehr mit mir zu tun haben, ich werde ihnen also so schnell nicht wieder Bericht erstatten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

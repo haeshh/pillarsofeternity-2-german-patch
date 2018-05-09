@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_ghost_ship_first_contact</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Wie aus dem Nichts steigt auf einmal über dem Meer dichter Nebel auf. Von deinem Schiff aus kannst nur wenige Meter weit sehen. Die Winde ersterben sofort, als der Nebel aufsteigt. Die Wellen beruhigen sich. Und die [Player Ship] bleibt zurück, ruderlos dahintreibend. Das Ächzen des Rumpfes ist das einzige Geräusch, das zu hören ist. Es klingt wie ein entsetztes Seufzen, voller Furcht vor dem, was geschehen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Unheimliche grüne Lichter durchdringen den Nebel. Langsam nähert sich die Silhouette einer enormen Galeone. Schwarze Segel, zerrissen und verrottet, fangen den Wind aus dem Jenseits ein und bringen das Schiff rasch vorwärts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Kapitänin, ein Skelett in einer fleckigen Rüstung, beobachtet dich mit einem bösen Starren vom Achterdeck der verfallenden Galeone aus. Sie klopft sich mit zwei Fingern gegen die Brust und zeigt dann direkt auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Das Schiff verschwindet wieder im Nebel. Es vergehen ein paar Minuten, bis der Nebel sich vollständig gelegt hat. Die Winde erheben sich wieder, bringen deine Segel zum Flattern. Das Meer ist klar. Und leer. Von dem anderen Schiff ist nichts zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Was die Göttin des Todes gezeichnet hat, lasse ich unberührt." Sie nickt ernst, einmal, und steuert ihr Schiff dann mit einem Neigen ihres Schädels davon.
+
+Als die Fliegende Henker wendet, schlurfen ein paar untote Seeleute über das Deck, begierig darauf, einen Blick auf deine Mannschaft zu erhaschen. Sie kratzen an der abgeblätterten und halb verfaulten Reling. Auf ihrem offen sichtbaren Rückgrat rollen die Köpfe.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

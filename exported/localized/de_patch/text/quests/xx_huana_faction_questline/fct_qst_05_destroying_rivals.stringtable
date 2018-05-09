@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_huana_faction_questline\fct_qst_05_destroying_rivals</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Händler fertigmachen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Infiltriere das Pulverhaus der &lt;b&gt;Königlichen Todesfeuer-Gesellschaft&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Zum Palast zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Überleben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Nachbesprechung mit &lt;b&gt;Königin Onekaza&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Zum Palast zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Königin Onekaza&lt;/b&gt; bat mich um Unterstützung ihres Komplotts, das &lt;b&gt;Pulverhaus Rauatais&lt;/b&gt; zu zerstören und die Schuld der &lt;b&gt;Vailianischen Handelsgesellschaft&lt;/b&gt; in die Schuhe zu schieben. Dies würde mit einem Schlag Rauatais Bewaffnung krüppeln und Vailias Kolonialherrschaft Schande bereiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Königin überlässt die Infiltration des &lt;b&gt;Pulverhauses&lt;/b&gt; meinem Ermessen, aber es soll keine Zeugen geben, die ihrer 'offiziellen Version' widersprechen können. Falls meine Einmischung unentdeckt bleibt, wird die Explosion sich um alle Beweise kümmern.
+
+Das Pulverhaus liegt &lt;b&gt;östlich des Hafens der Messingzitadelle&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Das Pulverhaus liegt in Schutt und Asche. &lt;b&gt;Königin Onekaza&lt;/b&gt; wird sicher davon hören wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe die Fraktionsleiter wissen lassen, dass ich hinter der Explosion des Pulverhauses stecke. 
+
+Das lief nicht ganz glatt ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Direktor Castol wurde die Explosion angehängt. Er wurde in den Schlund verbannt. Ich kann mich privat mit der &lt;b&gt;Königin&lt;/b&gt; im &lt;b&gt;Kahanga-Palast&lt;/b&gt; treffen, um über unseren Erfolg zu sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe eine direktere Herangehensweise eingeschlagen, um mit den Handelsgesellschaften fertig zu werden. Jetzt gibt es keine Chance mehr, dass dies subtil abläuft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ein Büroangestellter im &lt;b&gt;Hauptquartier der Vailianischen Handelsgesellschaft&lt;/b&gt; ließ mich wissen, dass &lt;b&gt;Direktor Castol&lt;/b&gt; in den &lt;b&gt;Palast&lt;/b&gt; in &lt;b&gt;Schlangenkrone&lt;/b&gt; bestellt worden sei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Meine Beziehungen zur &lt;b&gt;Vailianischen Handelsgesellschaft&lt;/b&gt; können mir eventuell bei der Ausführung der Zerstörung des &lt;b&gt;Pulverhauses&lt;/b&gt; behilflich sein. Die Königin hat mich nur darum gebeten, meine Treuepflicht gegenüber den &lt;b&gt;Huana nicht zu vergessen&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe den Sprengstoff im &lt;b&gt;Pulverhaus&lt;/b&gt; platziert. Zeit, von hier zu verschwinden, bevor mir alles um die Ohren fliegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe es zum &lt;b&gt;Pulverhaus&lt;/b&gt; geschafft. Jetzt muss ich nur noch im &lt;b&gt;untersten Stockwerk&lt;/b&gt; eine unauffällige und geeignete Stelle finden, an der ich den Sprengstoff anbringen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe &lt;b&gt;Hazanui Karū&lt;/b&gt; den Sprengstoff gegeben und ihr verraten, dass die Königin vorhat, das Pulverhaus zu zerstören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Direktor Castol musste den Kopf für die Zerstörung des Pulverhauses hinhalten, und die Königliche Todesfeuer-Gesellschaft ist keinen Deut klüger. Königin Onekaza hat mir ihre Unterstützung zugesagt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe mich dazu entschieden, bei Königin Onekazas Machenschaften nicht mitzuspielen, und habe den Anwesenden mitgeteilt, dass ich das Pulverhaus zerstört habe. Weder die Königin noch die Führung der Rauataianer waren von meinem Verrat begeistert. Es ist zweifelhaft, dass eine der Handelsgesellschaften oder die Huana meine Anwesenheit gutheißen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe mich dazu entschieden, bei Königin Onekazas Machenschaften nicht mitzuspielen, und habe auf Direktor Castol Unschuld beharrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe mich dazu entschieden, bei Königin Onekazas Machenschaften nicht mitzuspielen, und habe meine Loyalität zu den Príncipi offenbart. Die Königin sowie die Führung der Rauataianer waren von meinem Verrat nicht begeistert. Da ich meine Zugehörigkeit offengelegt habe, werde ich bei den Handelsgesellschaften und den Huana wohl kaum willkommen geheißen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich habe die Hazanui über den Plan, das rautaianische Pulverhaus zu zerstören, informiert und ihr den Sprengstoff gegeben. Sie hat ihn entschärft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich habe das Problem von Königin Onekaza mit Gewalt gelöst, ohne mich auf Heimlichtuerei oder Spielchen verlassen zu müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Da nun seine Position bei der Vailianischen Handelsgesellschaft gesichert ist, hat Direktor Castol einen Plan umrissen, mit dem Rauatai durch die Zerstörung deren Pulverhauses gelähmt werden soll. Damit niemand die Gesellschaft in Verdacht hat, hat er vorgeschlagen, mit dem Beseelern zusammenzuarbeiten, um den Plan unentdeckt vollziehen zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Da nun ihre Position bei der Vailianischen Handelsgesellschaft gesichert ist, hat Gouverneurin Alvari einen Plan umrissen, mit dem Rauatai durch die Zerstörung deren Pulverhauses gelähmt werden soll. Damit niemand die Gesellschaft in Verdacht hat, hat sie vorgeschlagen, mit dem Beseelern zusammenzuarbeiten, um den Plan unentdeckt vollziehen zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

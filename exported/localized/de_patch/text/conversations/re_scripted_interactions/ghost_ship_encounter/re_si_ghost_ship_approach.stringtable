@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\ghost_ship_encounter\re_si_ghost_ship_approach</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Engoliero do Espirs pulsiert in deiner Hand mit seiner Kraft. Er zittert in seiner Scheide und zum ersten Mal seit zweihundert Jahren wird die Klinge gezogen. Du schwingst das Schwert, während deine Stimme über das Meer ruft und dabei unheimlicherweise immer lauter wird, anstatt zu verhallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Weißer Nebel, kalt wie ein Grab, steigt von der See hoch und hüllt die [Player Ship] ein. Ihr vernehmt das Geräusch einer sich nähernden Galeone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;link="stringtooltip://tooltips/2"&gt;"Io guri di prodeggere mat Paladina med Darcozzi i ouer iusti regli, mea Orelia Darcozzis eri.
+
+"Guri chue liuretto bon aimo i ba fetta, eppore peri chue mao Dicenas fiaces mi converande."&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Das Knarren des über Jahrhunderte verrotteten Holzes geht in das Stöhnen der Untoten über. Während die Galeone dich flankiert, sieht dich Lucia Rivan durch den dicken Nebel hindurch an, ihr fleischloses Gesicht wird durch die Flammen, die in ihren tiefliegenden Augenhöhlen flackern, erhellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Dann besteigen die Todeswächter und ihre Skelett-Matrosen dein Schiff – sie kommen, um das Schwert zu holen. Um dich zu holen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

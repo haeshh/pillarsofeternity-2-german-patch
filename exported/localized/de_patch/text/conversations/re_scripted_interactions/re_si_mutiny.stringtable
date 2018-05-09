@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_mutiny</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du trägst die Einzelheiten deiner letzten Reisen ins Logbuch ein. Als du den Federkiel anhebst, wirst du mit einer nahezu vollständigen Stille für deine Mühe belohnt. Du lauschst, aber da sind nur das Knistern des Kerzenlichts, das Ächzen des Holzes und das sanfte Sprühen des Meerwassers gegen deine Fenster.
+
+Sonst nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[[Specified 0] mit einem Tritt über Bord befördern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Kannst du dich noch daran erinnern, was ich mit der letzten Person angestellt habe, die mir quer gekommen ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Angreifen.] "In Ordnung. Regeln wir das."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Waffen gleiten aus Scheiden und Halftern, und beide Seiten stürmen aufeinander los ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wenn ihr euch gegenseitig umbringt, schafft das nur noch mehr Probleme. Legt die Waffen nieder, und dann unterhalten wir uns wie zivilisierte Gestandene!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ihr wisst ja hoffentlich, dass ich nur so zum Spaß Oger und Drachen umbringe, ja? "Vielleicht wollt ihr euch die Sache lieber noch einmal überlegen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Specified 0] tritt vor, und du drehst dich nach rechts. Der Meuterer lässt dich nicht aus den Augen und umkreist dich, während du versuchst, ihn gegen die Backbord-Reling zu drängen.
+
+"Ein merkwürdiges Gefühl, nicht wahr, Kapitän?", fragt [Specified 0]. "Sich endlich den Konsequenzen stellen ..."
+
+Du stürzt vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 1] stellt die Meuterer in einer Reihe auf und zählt sie. Dabei weist er jedem eine Zahl zu. Der loyale Seemann zieht einen Würfel aus einem Beutel und wirft ihn aufs Deck. Klapperns kommt er zum Halten.
+
+"Die Glückszahl drei."
+
+"Bei den Göttern, nein!", ruft [Specified 2]. "Gnade, Kapitän, Gnade!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Meuterer halten inne. [Specified 3] flüstert rasch und drängend etwas. Bestimmt geht es dabei um dich und deine Vergangenheit.
+
+"Legt die Waffen nieder", brüllt [Specified 1]. "Möge Furcht euch dazu bringen zu überleben. Oder ihr ignoriert die Fakten und wagt euch in eine Zukunft vor, in der der Kapitän und ich euch bereits erwarten, darauf könnt ihr euch verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 0] marschiert nach Backbord, sieht auf das Meer hinaus und streicht mit einem Finger über die Reling. "Ja, ich glaube, ich könnte diese Operation sehr viel besser leiten."
+
+Du betrachtest die Meuterer. Eine bessere Chance wirst du wohl kaum bekommen. Du sprintest auf [Specified 0] zu. Bis [Specified 0] dich bemerkt hat und aufschaut, hast du bereits einen Stiefel in [Specified 0]s Bauch gepflanzt. [Specified 0] weicht zurück und krümmt sich vor Schmerz zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Specified 0] geht zuversichtlich voraus, und du folgst, schließt in einem Sprint auf. Du gleitest über das Deck, streckst einen Fuß vor. 
+
+Lässig dreht sich [Specified 0] dir aus dem Weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Kleidung der Matrosen flattert im Wind wie Flaggen an einem Fahnenmast und entblößt ausgemergelte Gestalten. Leere Gesichter starren dich an, die Stirn über den tiefen Augenhöhlen gerunzelt. [Specified 0] hustet und beginnt dann zu sprechen.
+
+"Du trittst hier heraus mit Krümeln auf deiner Jacke und dem Geruch von Gewürzen in deinem Atem." 
+
+[Specified 4] beendet den Satz. "Während wir seit Tagen nichts mehr zu essen hatten."
+
+"Hör nur, wie unsere Mägen knurren." Kopfschüttelnd runzelt [Specified 3] die Stirn. "Ihr streitet euch über halb verdorbene Krümel und jagt Bilgeratten, als ob es Gold wäre ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 0] wirft einen Becher aufs Deck. Das Holz klappert und schrammt über die Planken. Der Becher kommt an deinem Fuß zum Liegen.
+
+"Wir sind Seeleute, Kapitän. Wir sind keine Priester oder Mönche oder was auch immer auf Eora wandelt und sich regelmäßig die Haare schneidet. Sondern Seeleute. Und momentan haben wir keinen Schluck Wasser, um unseren Durst zu löschen, keinen Schluck Grog, um uns unsere Wehwehchen ertragen zu lassen, und keinen Schluck Rum, um dieses faule Zeug herunterzuspülen."
+
+[Specified 2] nickt mit einem finsteren Gesichtsausdruck. "Ich würde ja verächtlich ausspucken, aber dafür habe ich nicht genug Spucke im Mund."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 0] tritt vor und rollt eine Münze über das Deck. Sie hüpft über die Planken, springt gegen deine Tür, und bleibt davor liegen. 
+
+"Schau sie dir an, Kapitän. Das ist die einzige Münze, die ich besitze."
+
+[Specified 4] gibt ein Knurren von sich. "Du meinst wahrscheinlich von uns, dass wir das unter uns aufteilen sollen, was? "Umsonst arbeite ich auf jeden Fall nicht, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Die Mannschaft ist verdammt unzufrieden." [Specified 0]s Worte klingen ruhig und gelassen, als ob sie lediglich die Feststellung eines Problems wären. "Wie das passieren konnte? Durch mangelnde Planung. Und wer ist zuständig für die Planung?"
+
+"Der Kapitän!", brüllen die Meuterer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die Meuterer halten inne. [Specified 3] flüstert rasch und drängend etwas. Bestimmt geht es dabei um dich und deine Vergangenheit.
+
+"Legt die Waffen nieder", brüllt [Specified 1]. "Möge Furcht euch dazu bringen zu überleben. Oder ihr ignoriert die Fakten und wagt euch in eine Zukunft vor, in der der Kapitän und ich euch bereits erwarten, darauf könnt ihr euch verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die Meuterer heben die Hände. Den Schlagstock in der Hand, kommt [Specified 1] auf dich zu.
+
+"Das ist etwas, das du auf keinen Fall ignorieren solltest, Kapitän", murmelt der Seemann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Specified 0] räuspert sich und spuckt aus. "Hey, so wie ich das sehe, gibt es weit weniger Mäuler zu füttern und Taschen zu füllen, wenn du und deine Freunde erst einmal verschwunden sind. Ich bin ja nun kein Mathematiker, aber ich glaube, das bedeutet, es ist mehr für uns da, richtig, Kameraden?"
+
+[Specified 2] lacht leise und nickt, ebenso wie [Specified 3]. [Specified 4] grinst breit und betrachtet seine Kameraden, als gälte es, deren Wert in Silber zu schätzen.
+
+"Zufrieden mit meiner 'Diplomatie', Kapitän?", fragt [Specified 0] mit einem spöttischen Grinsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0] lacht. "Oh nein - ein Kapitän mit einer grausamen Veranlagung? Was sollen wir bloß machen?"
+
+[Specified 2] lacht leise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 0] schnaubt höhnisch, doch es klingt wie längst besiegter Zorn - wie das Zischen eines Dachses, der in einer Falle gefangen ist. Der Matrose wirft seine Waffe aufs Deck, und die anderen Meuterer tun es ihm widerwillig nach. Den Schlagstock in der Hand, tritt [Specified 1] vor.
+
+"Lass sie gehen", verlangt [Specified 0]. "Ohne mich wären sie gar nicht hier. Ich übernehme die volle Verantwortung für alles."
+
+[Specified 1] sieht dich an. Diplomatie kann nicht funktionieren, wenn du jedes Mal einfach nachgibst. Du hast dich für Frieden eingesetzt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Auf [Specified 0] zielen und schießen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 0] schaut zurück zu den anderen. "Kommen wir zur Sache, ja?"
+
+Noch bevor der Matrose sich umdrehen kann, ziehst du deine Pistole und feuerst. In [Specified 0]s Stirn zeigt sich ein tiefes Loch, und Teile von Schädelknochen fliegen durch die Luft. Eine rauchende breiige Masse tritt aus der Schädeldecke. Der Matrose sinkt zu Boden. Eine Blutlache breitet sich auf den Planken aus. Langsam rollt eines der Augen in deine Richtung, kommt dann zum Stillstand.
+
+Durch den Rauch deines Pistolenlaufes schaust du zu den anderen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Specified 0] zuckt mit erhobenen Händen mit den Schultern. Die Geste wirkt wie das Angebot einer Absprache.
+
+Du ziehst deine Pistole. Der Meuterer zuckt zusammen. 
+
+Du feuerst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du reißt deine Pistole aus dem Halfter und betätigst den Abzug noch im Aufwärtsschwung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Die Meuterer müssen sich mit nacktem Rücken über die Reling beugen. Drei Hiebe: Einer auf den Rücken, der sie beim Schlafen an ihre Untaten erinnert, einer auf die Beine, der dasselbe beim Gehen erreicht, und einer auf die nicht dominante Hand, mit der sie keine Waffe halten. Letzterer soll ihnen vor Augen führen, wie milde deine Strafe ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich glaube, wir wissen beide, warum wir hier sind, Kapitän." [Specified 0] verzieht das Gesicht.
+
+[Specified 4] nickt. "Beim letzten Mal haben wir die Dinge etwas schleifen lassen. Aber es kommt für jeden Gestandenen der Augenblick, in dem er seine Fehler wiedergutmachen muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Wir müssen diese Sache begraben. Schick sie zurück an die Arbeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Sie werden alle ausgepeitscht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Kielholt einen von ihnen. Wer es ist, das ist mir egal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0] schnaubt höhnisch, doch es klingt wie längst besiegter Zorn - wie das Zischen eines Dachses, der in einer Falle gefangen ist. Der Matrose wirft seine Waffe aufs Deck, und die anderen Meuterer tun es ihm widerwillig nach. Den Schlagstock in der Hand, tritt [Specified 1] vor.
+
+"Lass sie gehen", verlangt [Specified 0]. "Ohne mich wären sie gar nicht hier. Ich übernehme die volle Verantwortung für alles."
+
+[Specified 1] sieht dich an. Diplomatie kann nicht funktionieren, wenn du jedes Mal einfach nachgibst. Du hast dich für Frieden eingesetzt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Specified 0] schnaubt höhnisch, doch es klingt wie längst besiegter Zorn - wie das Zischen eines Dachses, der in einer Falle gefangen ist. Der Matrose wirft seine Waffe aufs Deck, und die anderen Meuterer tun es ihm widerwillig nach. Den Schlagstock in der Hand, tritt [Specified 1] vor.
+
+"Lass sie gehen", verlangt [Specified 0]. "Ohne mich wären sie gar nicht hier. Ich übernehme die volle Verantwortung für alles."
+
+[Specified 1] sieht dich an. Diplomatie kann nicht funktionieren, wenn du jedes Mal einfach nachgibst. Du hast dich für Frieden eingesetzt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die Meuterer halten inne. [Specified 3] flüstert rasch und drängend etwas. Bestimmt geht es dabei um dich und deine Vergangenheit.
+
+"Legt die Waffen nieder", brüllt [Specified 1]. "Möge Furcht euch dazu bringen zu überleben. Oder ihr ignoriert die Fakten und wagt euch in eine Zukunft vor, in der der Kapitän und ich euch bereits erwarten, darauf könnt ihr euch verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die Meuterer halten inne. [Specified 3] flüstert rasch und drängend etwas. Bestimmt geht es dabei um dich und deine Vergangenheit.
+
+"Legt die Waffen nieder", brüllt [Specified 1]. "Möge Furcht euch dazu bringen zu überleben. Oder ihr ignoriert die Fakten und wagt euch in eine Zukunft vor, in der der Kapitän und ich euch bereits erwarten, darauf könnt ihr euch verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Kielholt [Specified 0]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Specified 0]s Augen verengen sich, doch es steht keinerlei Überraschung darin. "Ich sehe dich auf der anderen Seite des Rades wieder, Kapitän."
+
+Die Mannschaft ist schnell dabei, den meuternden Matrosen zu fesseln und ins Wasser zu werfen. Sein Aufschlag dröhnt wie ein Schuss über das Deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 1] runzelt die Stirn und schaut nach einem kurzen Blickwechsel mit dir beiseite.
+
+Mit einem listigen Grinsen streckt [Specified 0] die Hand aus. "Es besteht keine Notwendigkeit, das blutig enden zu lassen, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Meine Entschuldigung, Kapitän." Mit zusammengekniffenen Augen hält [Specified 0] deinem Blick stand. "Aber einigen von uns gefällt es wirklich nicht, wie du mit diesem kleinen Orlaner-Mädel umgesprungen bist. Vela war für uns wie ein Teil unserer Familie. Vielleicht hast du keine Ahnung, wie sich das anfühlt, aber für Seebären wie uns bedeutet das eine verdammte Menge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Deine Schritte hallen an den Wänden deiner Kajüte wider, als würdest du durch ein verlassenes Kloster wandern. 
+
+Du trittst hinaus auf Deck – und siehst dich der Mannschaft gegenüber, die dich mit verschränkten Armen finster anstarrt, die Waffen bereit. In ihrer Mitte steht [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du wischst dir das Wasser aus dem Gesicht und beendest deine Morgentoilette. Als du auf die klare, zitternde Oberfläche herabblickst, fällt dir auf, dass du sonst überhaupt keine Geräusche hörst. Auf dem Schiff herrscht eine ganz ungewohnte Stille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Du gibst dir große Mühe, angesichts des flackernden Lichts und des sanften Schaukelns deiner Kabine nicht über den Karten einzuschlafen, die vor dir ausgebreitet liegen. Es ist ganz merkwürdig - was am Ende dafür sorgt, dass du plötzlich hellwach bist, ist kein Geräusch - sondern das nahezu vollständige Fehlen aller Geräusche. Du hörst nur das leise Zischen des Kerzenwachses und das Flüstern der See.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Specified 0] wendet sich an die Menge. Er dreht sich um und breitet die Arme aus. "Nun, wenn das der Fall ist, dann haben wir offensichtlich keinen Kapitän. Aber ohne Kapitän können wir nicht segeln, richtig? Was glaubt ihr wohl - wer sollte auf diesem Schiff Kapitän sein?"
+
+"Du!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Nein, Kapitän!", warnt [Specified 3] "Ich habe gesehen, wie du das schon wiederholt gemacht hast. Du nimmst am besten die Finger von der Kanone."
+
+[Specified 0] spuckt aufs Deck. "Nun, was sagst du, Kapitän [Player Name]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Der Mantel des Verräters löst sich an der Schulter, und der Stoff fliegt in die versammelte Menge. Du senkst die Waffe, blickst über die Nachwehen des Schwarzpulvers hinweg.
+
+Langsam dreht sich [Specified 0] in deine Richtung, die Hand gegen die Wunde gepresst. "Tötet sie alle, Kameraden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du reißt deine Pistole aus dem Halfter und betätigst den Abzug noch im Aufwärtsschwung. 
+
+Die Reling birst und Holzsplitter regnen auf die Meuterer hinab.
+
+[Specified 0] richtet sich langsam auf, leckt sich einen Finger und hält ihn hoch. "Es geht kaum ein Lüftchen." Der Meuterer blickt zu den anderen. "Tötet diesen Schützen und alle anderen, die uns im Weg stehen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Die Mannschaft beobachtet dich aufmerksam, als du deine nächsten Worte sehr sorgfältig wählst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Versuchen, die Situation mit Worten zu entschärfen ...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Versuchen, die Meuterei mit rascher, entschlossener Gewalt zu beenden ...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Ihre Herzen oder ihren Geist mit einer Fähigkeit beugen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Die Meuterer starren dich an, als du sie abschätzend betrachtest. Es ist erkennbar, sie fühlen sich nicht ganz wohl bei der Sache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Du solltest etwas vorsichtiger sein, [Player Name]." [Specified 2] richtet eine Pistole auf dich. "Wir sind dir inzwischen auf die Schliche gekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Sie mit einer Fähigkeit erschrecken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Du webst deine Zauberketten aus Essenz und den Seelen der Meuterer. Ihre Augen werden glasig, und darin steht nun nichts mehr als Bewunderung für dich. 
+
+Der Rest der Mannschaft beobachtet dich allerdings mit geweiteten Augen und voller Entsetzen und Abscheu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Durch den geschickten Einsatz seines mystischen Talentes wendet [Specified 5] die Herzen der Meuterer, sodass sie erneut bereit sind, dir zu dienen.
+
+Der Rest der Mannschaft beobachtet euch beide allerdings mit offenem Widerwillen und Entsetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Du beginnst einen Sprechgesang. Deine Worte hallen über das Deck und sammeln alle Essenz um dich herum zu einer Aura absoluten Schreckens.
+
+Die Mannschaft fällt auf die Knie. Das gilt für die Meuterer ebenso wie für diejenigen, die dir treu geblieben sind. Alle zittern in Todesfurcht. Tränen laufen ihnen über die Wangen und Blut quillt aus ihren geballten Fäusten hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Mit einem Nicken richtet [Specified 5] einen Unheil verkündenden Blick auf die Meuterer und beginnt einen Sprechgesang zu flüstern. Die Luft um alle herum wird kälter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Dir etwas anderes überlegen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Sie sehen dich erwartungsvoll an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Lass sie gehen. Aber [Specified 0] hat bis in alle Ewigkeit Latrinendienst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>In den Augen der Mannschaftsmitglieder zeigt sich Erleichterung. Die Spannung löst sich in aufkommendem leisen Lachen auf. 
+
+[Specified 1] nickt dir zu, als du in deine Kabine zurückkehrst. 
+
+Irgendwo in der Nähe des Schiffsbugs stimmt [Specified 5] ein Seemannslied an.
+
+Langsam schließen die anderen sich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Die Spannung löst sich auf und Erleichterung zeigt sich in den Gesichtern der Kameraden. [Specified 1] wirft [Specified 2] einen warnenden Blick zu, und [Specified 4] versucht, sich heimlich davonzuschleichen. Schon bald werden wieder Befehle gebrüllt, die Takelage wird angezogen, und es sind sogar Seemannslieder zu hören.
+
+Du kehrst in deine Kabine zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 0] hebt die Hände, die Handflächen nach oben gerichtet.
+
+"Siehst du das, Kapitän? Das ist alles, was ich mein eigen nenne."
+
+[Specified 4] nickt. "Als wir zuerst von Port Maje aufgebrochen sind, hast du der Mannschaft versprochen, wir würden die Reichtümer des Todesfeuers plündern. Und jetzt schau dich doch nur selbst an!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Specified 2] fällt die Waffe aus der Hand. "Ich will damit nichts mehr zu tun haben.
+
+Andere folgen, bis am Ende alle die Werkzeuge der Meuterei abgelegt haben, und [Specified 0] allein dasteht. Mit einem traurigen Kopfschütteln lässt der Matrose endlich Pistole und Schwert aufs Deck fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Specified 0] räuspert sich und spuckt aus, schaut sich dabei um, wie um das Schiff für eine Verschönerung auszumessen. "Ich werde kleine Stücke aus dir herausschneiden und sie als Köder benutzen. Und anschließend werde ich dich am Großmast aufknüpfen und zuschauen, wie die Vögel dir die Augen auspicken. Das machen die gerne, solltest du wissen. Den Teil fressen sie am liebsten. Und du bist hilflos und kannst nichts anderes tun, als es geschehen zu lassen. Es wird dir nichts helfen zu blinzeln. Die Schnäbel picken glatt durch die Augenlider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Er fleht weiter um Gnade, doch rasch hat die Mannschaft ihn gefesselt und zieht ihn in Richtung Reling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Sie fleht weiter um Gnade, doch rasch hat die Mannschaft sie gefesselt und zieht sie in Richtung Reling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Halt! Bindet die erbärmliche Seele los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Grüße Berath von mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Sage nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Specified 2] wird mit Seilen gefesselt und über Bord geworfen. Kurz darauf treibt im Kielwasser des Schiffes eine verrenkte Masse aus zerrissener Kleidung und zerfetztem Fleisch an die Oberfläche. [Specified 1] lässt die Leiche aufs Boot holen und hängt sie zur Abschreckung für alle auf.
+
+Du kehrst in deine Kabine zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Specified 1] blickt zwar finster drein, befreit jedoch den sich wehrenden Matrosen. [Specified 2] erhebt sich von den Planken und fällt dir zu Füßen.
+
+"Ich danke dir, Kapitän! Mögen die Götter dich für die Gnade segnen, die du mir erweist! Du wirst es nicht bereuen, das schwöre ich dir!" Aus [Specified 2]s Nasenflügeln tritt Schnodder aus.
+
+Du wendest dich ab und kehrst in deine Kabine zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Du kehrst in deine Kabine zurück, nachdem [Specified 1] die Leiche zurück aufs Schiff geholt hat, um sie öffentlich zur Schau zu stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Sie versuchen es schon wieder!", brüllt [Specified 2]
+
+"Tötet die Mistkerle!" Dabei zeigt [Specified 0] direkt auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Sie versuchen es schon wieder!", brüllt [Specified 2]
+
+"Tötet die Mistkerle!" Dabei zeigt [Specified 0] direkt auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Du greifst in die Seelen der Meuterer hinein, suchst nach ihren Albträumen und Ängsten und zerrst sie an die Oberfläche. Die Seeleute fallen zitternd und schreiend auf die Knie. Gebieterisch stehst du vor ihnen.
+
+Der Rest der Mannschaft betrachtet dich mit entsetztem Schweigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Dein Brüllen tost über den Köpfen der Mannschaft, angefeuert von Essenz, die durch Zorn aufgewirbelt wurde.
+
+Die Mannschaft fällt auf die Knie. Das gilt für die Meuterer ebenso wie für diejenigen, die dir treu geblieben sind. Alle zittern vor Angst, und du stehst mit wilden, zornigen Augen vor ihnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Vor der Macht deines Kameraden fallen die Meuterer zitternd und schreiend auf die Knie.
+
+Der Rest der Mannschaft betrachtet euch beide mit entsetztem Schweigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 5] springt sofort vor und richtet ein Brüllen ungezügelter Wut gegen die meuternden Seeleute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>In [Specified 0]s Gesicht zuckt es. Eine nervöse Hand stiehlt sich zur Pistole. Der Abzug der Waffe trifft den Gürtel und bläst ein Loch ins Deck. 
+
+Du springst durch den Rauch hindurch und setzt dem Meuterer einen Fuß auf die Brust. [Specified 0] stürzt über die Reling, überschlägt sich auf dem Weg nach unten mehrfach und knallt immer wieder gegen den Schiffsrumpf. Du blickst aufs Meer hinunter, wo die Leiche des Seemannes mit dem Gesicht nach unten im Meer treibt.
+
+Du fährst herum und siehst, wie die Mannschaft die Pistolen und Klingen auf das Deck fallen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Specified 0] richtet sich auf und zeigt auf dich. "Bringt ihn um!"</DefaultText>
+      <FemaleText>[Specified 0] richtet sich auf und zeigt auf dich. "Bringt sie um!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Du fliegst geradezu vorbei, suchst mit den Füßen nach Halt, bis du endlich zum Stehen kommst. [Specified 2] lacht leise.
+
+"Ein netter Versuch", bemerkt [Specified 0] und zieht langsam seinen Degen. "[Specified 4] hat mit mir gewettet, dass du nicht einmal &lt;i&gt;das&lt;/i&gt; zustande bringen würdest. Ich werde mir meinen Gewinn von deiner Leiche holen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Seht euch bloß vor!", warnt [Specified 1] die Meuterer in grimmigem Ton.
+
+"Mit dir hat überhaupt niemand geredet!" blafft [Specified 0] "Es wird schon sehr bald der Augenblick kommen, [Specified 1], in dem du den Lohn der Treue berechnen musst."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

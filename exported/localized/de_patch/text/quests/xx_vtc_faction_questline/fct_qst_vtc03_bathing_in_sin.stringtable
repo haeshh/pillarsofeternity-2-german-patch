@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_vtc_faction_questline\fct_qst_vtc03_bathing_in_sin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Dreckwäsche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Einzelheiten über Quarno und Tölas Abmachung herausfinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Direktor Castol Bericht erstatten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Mit Brizze reden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Das Treffen im Leuchtenden Badehaus ausspionieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Direktor Castol Bericht erstatten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Zu Direktor Castol zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Direktor Castol erzählte mir, dass eine im Leuchtenden Badehaus stationierte Spionin der Vailianischen Handelsgesellschaft von einem geheimen Treffen zwischen einem Vertreter der Königlichen Todesfeuer-Gesellschaft namens Quarno und einem Príncipi-Kapitän namens Töla berichtete.
+
+Castol möchte, dass ich die Einzelheiten ihres Schmuggelgeschäfts aufdecke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich habe das Treffen im Leuchtenden Badehaus ausspioniert. Brizze hat mich mit Reisweinflaschen versorgt – offenbar lockert der Alkohol Tölas Mundwerk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe erfahren, dass Quarno die Príncipi mit hochgradiger Munition versorgt.
+
+Ich kann nun Castol Bericht erstatten oder versuchen, noch mehr herauszufinden. Er wartet auf mich auf der oberen Ebene des Hauptquartiers der Vailianischen Handelsgesellschaft am Ankerplatz der Königin.
+
+Ich kann meine gesamte Ausrüstung abholen, sobald ich das Badehaus verlasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Direktor Castol hat mir aufgetragen, mit Brizze Kontakt aufzunehmen, einer Spionin der Vailianischen Handelsgesellschaft, die verdeckt im Leuchtenden Badehaus bei Perikis Aussichtspunkt arbeitet. Womöglich kann sie mir erzählen, was sie über die Schmuggler in Erfahrung bringen konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Quarno und Töla treffen sich im Badehaus, um ihre Vereinbarung zu besprechen. 
+
+Ich kann ihr Treffen in der Verkleidung eines Badehaus-Besuchers mit Brizzes Hilfe ausspionieren – sie wartet im zweiten Stock des Leuchtenden Badehauses bei Perikis Aussichtspunkt auf mein Signal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Quarno und Töla getötet. Direktor Castol wird interessieren, wie ich die Angelegenheit geregelt habe. Er wartet auf mich auf der oberen Ebene des Hauptquartiers der Vailianischen Handelsgesellschaft am Ankerplatz der Königin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ich habe Brizze getötet. Direktor Castol wird wissen wollen, was passiert ist. Wenn ich ihm davon erzählen will, sollte ich ihn auf der oberen Ebene des Hauptquartiers der Vailianischen Handelsgesellschaft am Ankerplatz der Königin aufsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Bevor sie mich in das Badehaus hinunter schickte, gab mir Brizze einige Flaschen Reiswein – Tölas Lieblingsgetränk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe von Quarno erfahren, dass die Príncipi Angriffe auf die Vailianische Handelsgesellschaft planen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Meine Fragen haben Quarno hellhörig werden lassen, aber ich konnte Gewalt vermeiden. Ich glaube nicht, dass mir das noch einmal gelingt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe im Badehaus alles in Erfahrung gebracht, was ich konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Nach einigen Tiefen Schlucken erwähnte Töla, dass sie einen Überfall auf einen Konvoi der Vailianischen Handelsgesellschaft plant, der leuchtenden Adra transportiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe meine Ausrüstung fürs Erste angelegt, aber ich muss mich als Gast verkleiden, wenn ich in das Badehaus zurückkehre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe ein Hauptbuch von Quarnos Buchhalterin erhalten. Ich sollte es untersuchen. Womöglich enthält es nützliche Hinweise darauf, was er und Töla planen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe Quarno und Töla angegriffen. Das bedeutet das Ende für ihre Abmachung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ganor erzählte mir, dass Brizze auf der oberen Etage des Leuchtenden Badehauses anzutreffen sei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Informationen gesammelt, die Castol benötigt, um zu beweisen, dass ein hinterhältiger Agent der Königlichen Todesfeuer-Gesellschaft Waffen für einen Príncipi-Kapitän schmuggelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Quarno und Töla getötet und ihrer Schmuggelei damit ein für allemal ein Ende bereitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Brizze getötet und den ganzen Plan damit zunichte gemacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Castol angelogen und ihm erzählt, es gäbe keine Abmachung zwischen Quarno und Töla. Der Schmugglerring wird ohne sein Wissen fortbestehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Jemand, der für den Abschluss dieser Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_ukaizo\12_si_fleet_battle</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>187</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Player Ship] führt die Flotte an und schießt durch das aufgewühlte Wasser wie eine Axt durch eine Rüstung.
+
+"Bei den Göttern," murmelt [Specified 0] und starrt hoch in Richtung Sturm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Waage und Sterne der Vailianischen Handelsgesellschaft wehen auf vielen Flaggen der herannahenden Schiffe, während andere mit republikanischer Münze gekaufte Söldnerschiffe zu sein scheinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Flaggen mit den gekreuzten Kanonen der Königlichen Todesfeuer-Gesellschaft flattern und krachen von den Masten der ankommenden Kriegsschiffe, von denen jedes mit schweren Kanonen beladen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die umgedrehte Krone weht an den Masten der bunt zusammengewürfelten Príncipi-Flotte, dazu ein Dutzend andere Wimpel und Farben, die für ein Dutzend weitere Piratenfürsten und -fürstinnen stehen. Ihre Seemannslieder übertönen sogar den Sturm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die bunten Banner der Huana flattern über den ebenso bunten Rümpfen ihrer Schiffe, von denen jedes in einem starken Kontrast zu dem heraufziehenden Sturm steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ondras Mörser tobt am Horizont, eine breite Wand rollender Wolken und Regenschauer, die vom silbernen Leuchten von Blitzen unterbrochen wird. Der Wind drückt gegen euch – als ob er das, was dahinter liegt, vor [Player Ship] schützen möchte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Player Ship] entfernt sich langsam von den zerbrochenen Wracks, die sich weiter hinten gesammelt haben und bricht aus den Rauchschwaden hervor. In der Ferne tobt Ondras Mörser. Es steht nichts mehr zwischen dir und deinem Ziel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Der stärker werdende Wind tut nichts, um den alles verdunkelnden, erstickenden Rauch zu vertreiben. Gewehrschüsse unterbrechen ab und an die rollenden Salven der Kanonen und die Rufe verzweifelter Seeleute mischen sich mit den Schreiben der Sterbenden. 
+
+Feinde und Verbündete gleichermaßen verschwinden in dem Sumpf, der von innen heraus erstrahlt, erhellt von brennenden Wracks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Feuert alles, was wir haben, auf dieses Ding ab. Vielleicht können wir ihnen eine Chance geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Bring uns in den Sturm, [Specified 1]. Es gibt nichts, was wir hier tun können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Kanonen von [Player Ship) eröffnen das Feuer auf das Monster und deine Kugeln treffen ihr Ziel. Die Bestie stöhnt unter diesem Sperrfeuer auf und sein Kopf peitscht herum, um sich auf dich zu konzentrieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 1] schluckt. "Aye, Kapitän."
+
+[Player Ship] dreht ab in Richtung Ondras Mörser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die Huana strömen aus dem Nebel hervor, springen von Deck zu Deck und rufen nach deinem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ein kleines, schnelles Schiff hat sich aus den Reihen der rauataianischen Flotte gelöst und hält direkt auf dich zu. Schwer bewaffnete Aumauaner-Krieger stehen auf dem Deck der Schiffe bereit, ihre Blicke auf dein Schiff gerichtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Den Sklavenhändlern signalisieren, das ankommende Schiff abzufangen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0] runzelt die Stirn gegen den Wind. "Die Flotte wendet, Kapitän! Richten ihre Geschützpforten gegen den Feind!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Alle Mann auf Gefechtsstationen! Wir schließen uns dem Schlachtgetümmel an!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 0] greift nach deinem Arm und deutet mit einem ausgestreckten Finger in Richtung Meer. "Sie halten direkt auf uns zu, mit vollen Segeln und dem Wind im Rücken!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Ein Entdeckungsschiff hält auf dich zu. Es gleitet über die Wellen, als würde es von Ondra selbst geführt werden – die Arbeit der Wasserformer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Der runde Rumpf einer vailianischen Galeone hält auf dich zu und es dauert einen Moment, um zu erkennen, dass die gepanzerten Figuren, die über den Soldaten und der Mannschaft an Deck emporragen, stählerne Konstrukte sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Eine alte Schaluppe hält auf dich zu und schließt schnell auf, sie ist mit bunt gemischten Flaggen geschmückt und strotzt nur so vor Kanonen. Die vom Kampf gezeichnete Príncipi-Mannschaft schreit über die Spalte hinweg, wedelt mit Entermessern und spuckt Bier über die Reling.
+
+Am Steuer verrät ein aufblinkender Goldzahn entweder das triumphierende Lächeln des Kapitäns oder sein wildes Grinsen. Du kannst nicht sagen, was schlimmer ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Das Donnern von Kanonen liefert eine beständige, trommelnde Begleitung zu den Chorälen der Todesschreie. Das Deck hebt und senkt sich mit dem Auf und Ab der See und Rauch breitet sich allmählich auf den zerklüfteten Wellen aus. 
+
+Ondras Mörser tobt im Osten. Die sich jagenden Wolken und schimmernde Regenwände wirken geradezu hypnotisierend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Den Wahaki signalisieren, das ankommende Schiff abzufangen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Den Feind in einen Kampf verwickeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Die Wahaki auf die Galeonen loslassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Die Sklavenhändler auf die nächste Galeone hetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Bring uns längsseits, [Specified 1]! [Specified 0], lass die Kanonen bereitmachen! Wir nehmen uns eine dieser Galeonen vor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Die Kanus der Wahaki schieben sich an die Seite einer der Galeonen. Die Aumauaner vertäuen ihre Boote zu beiden Seiten des Oger-Schiffes und springen dann an Bord. 
+
+Die Schreie der verdammten Oger hallen über das Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Achtern liegt die Flotte der Huana zerstreut und gebrochen. Die übriggebliebenen Entdeckungsschiffe fliehen gen Westen in Richtung Magrans Zähne und Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Die Kanus der Wahaki fangen das ankommende Schiff schnell ab. Die Aumauaner vertäuen ihre Boote mit Haken zu beiden Seiten des feindlichen Schiffes und klettern dann an Bord. 
+
+Die Schreie deiner niedergemetzelten Feinde hängen über dem Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Die Dhau eines Sklavenhändlers schiebt sich zwischen dich und das herannahende Schiff. Als die beiden Schiffe Seite an Seite liegen, springen die Sklavenhändler über den Spalt und Speere und Netze fallen auf die schreiende gegnerische Mannschaft. Die Schiffe feuern verspätet die Kanonen aufeinander ab und schlagen Löcher in den jeweils anderen Rumpf.
+
+Die Sklavenhändler haben jedoch bald das Deck unter Kontrolle und alle, die nicht von ihnen umgebracht wurden, sind entwaffnet und an die Reling angekettet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Die Leblosen anweisen, das ankommende Schiff in einen Kampf zu verwickeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Die Ruquapa auffordern, das ankommende Schiff in einen Kampf verwickeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Ein Schiff der Leblosen ändert den Kurs und segelt direkt in den Weg des Feindes. Das feindliche Schiff versucht, einen Zusammenstoß zu vermeiden, aber die beiden Schiffe streifen einander. Dieser kurze Kontakt ist genug, damit die Untoten den Spalt zwischen den Decks überwinden.
+
+Die Leblosen halten Festschmaus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Die Ruquapa antwortet mit einer Salve Kanonenfeuer, die deine Knochen zum Erzittern bringt. Als der Hauptmast des Feindes umstürzt, löst sich eine der rauataianischen Dschunken und schiebt sich zwischen dich und das schwankende Schiff.
+
+Zauberer an Bord der Dschunke beschwören Flammen und Frost herauf, um die Segel des Feindes zu zerstören, während Gewehrschützen die Mannschaft mit Blei spicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Player Ship] dreht sich und schießt auf die mit Ogern bemannten Galeonen zu, in der Hoffnung, deinen Verbündeten eine Verschnaufpause zu verschaffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Die Flotte inspizieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Verschiedene abgenutzte und schlecht gewartete Schiffe, deren Segel trotz des Windes herabhängen, fahren hinter dir her, ihre Decks bevölkert von den lebenden Toten des Zersplitterten Riffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Die Kriegsschiffe der Ruquapa, von denen jede schlanke Dschunke einen vollen Satz langer Kanonen mit sich führt, folgen dicht dahinter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Kriegskanus der Wahahki wühlen das Wasser zwischen den Entdeckungsschiffen auf, jeweils bemannt mit Kriegern mit bemalten Gesichtern, die gegen den Sturm ansingen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Acht mit Netzen und Harpunen beladene Dschunken gleiten in deinem Kielwasser durch die unruhige See.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Das persönliche Schiff von Prinz Aruihi führt die Vorhut der Huana-Flotte an, flankiert von einem Dutzend Entdeckungsschiffe und mit Rückendeckung von einem weiteren halben Dutzend Schiffe verschiedener Bauweise. Stammesfahnen tanzen über den Schiffen und jeder Ponton weist die einzigartigen gemalten Muster der jeweiligen Besatzung auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Knapp zwanzig stolze Galeonen segeln mit dir, von denen jede die Waagen und Sterne der Vailianischen Handelsgesellschaft über den Standarten einzelner Städte und Ducs geflaggt hat. Die Schießscharten der breiten Schiffe öffnen sich und enthüllen Dutzende Kanonen mit dunklen Rohren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Die Königliche Todesfeuer-Gesellschaft hat über ein Dutzend Schiffe ausgesandt, um deine Sache zu unterstützen. Jedes Einzelne von ihnen ist ein Meisterwerk aus Holz und Metall und schwer gepanzert und bewaffnet. 
+
+Soldaten stehen mit geschulterten Gewehren auf jeder Dschunke bereit, während hundert Bronze-Kanonen in den Geschützpforten der Schiffe aufblitzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Die bunt zusammengewürfelten Mannschaften der Príncipi segeln hinter dir, ein Flickenteppich verschiedener Kulturen und Schiffe, von denen jedes nicht nur die Farben der Flotte geflaggt hat, sondern auch eine große Vielzahl persönlicher Triumphe und Wimpel. Die männlichen und weiblichen Piraten des Todesfeuer stehen an der Reling, mit Säbeln, Äxten und Schusswaffen bewaffnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Die Matrosen sehen von ihren Posten aus zu dir.
+
+[Specified 0] hält deinen Blick. "Die Mannschaft ist bereit. Wie lauten die Befehle des Kapitäns?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Den Feind studieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Ein Dutzend Entdeckungsschiffe segeln auf dich zu, mit Rückendeckung von einem weiteren Dutzend oder mehr Schiffen verschiedener Bauweise. Bogenschützen und Scharfschützen stehen an der Reling und jeder Ponton weist die einzigartigen gemalten Muster der jeweiligen Besatzung auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Fast zwanzig vailianische Galeonen schießen auf dich zu, unterstützt von einem weiteren Dutzend Schiffen mit Söldnerflaggen. Die Luken der Schiffe öffnen sich und enthüllen Kanonen mit dunklen Mündern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Zwanzig Dschunken der Rauataianer fahren in perfekter Formation auf dich zu, ihre eckigen Segel gebläht. Jedes gepanzerte Schiff ist ein tödliches Kunstwerk mit einem Dutzend Bronze-Kanonen. Soldaten stehen mit geschulterten Gewehren auf den Decks bereit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Der Flickenteppich der Piratenflotte segelt aggressiv auf dich zu, ihre Schiffe eine bunte Mischung aus auffälligen Galeonen und schlanken Dhaus, gestohlenen Dschunken und Söldnerschaluppen. 
+
+Du zählst ungefähr 30 Schiffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Die Dau eines Sklavenhändlers schiebt sich an die Seite der Galeone. Als die beiden Schiffe aufeinandertreffen, springen die Sklavenhändler über den Spalt. Speere und Netze regnen auf die schreienden Oger hinab. Die beiden Schiffe feuern verspätet die Kanonen aufeinander ab und schlagen Löcher in den jeweils anderen Rumpf.
+
+Die Sklavenhändler haben jedoch bald das Deck unter Kontrolle und alle Oger, die nicht von ihnen umgebracht wurden, sind in Käfigen eingesperrt oder angekettet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Jubelrufe verwandeln sich in Schreie des Entsetzens, als etwas mit der Wucht einer Explosion die Wasseroberfläche durchbricht, ein nahes Schiff entzwei reißt und Seeleute schreiend in das Meer stürzen lässt. Eine Kreatur erhebt sich aus den Wrackteilen. Sie sieht aus wie ein Monster aus glattem Adra und glänzendem Metall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Du übernimmst das Steuerrad und wendest [Player Ship] zum Sturm hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Das Deck vibriert, als Kanonen von Feinden und Verbündeten gleichermaßen abgefeuert werden. Die Luft füllt sich mit heißem, zischenden Metall und dicken grauen Rauchwolken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Ein Paar riesiger Galeonen flankieren das Entdeckungsschiff von Prinz Aruihi. Als die Söldnerschiffe sich deinem Verbündeten nähern, nehmen sie das kleinere Schiff mit wiederholten Salven Kanonenfeuer unter Beschuss. Oger-Korsaren schwingen schwere Keulen auf den Decks der Galeonen. Sie können es nicht erwarten, das Schiff der Huana zu entern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[Die Leblosen auf die Oger loslassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>[Die Notlage der Hazanui an die Ruquapa signalisieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Ein Schiff der Leblosen segelt direkt in den Weg des Schiffes. Die Oger versuchen, einen Zusammenstoß zu vermeiden, aber die beiden Schiffe streifen einander. Dieser kurze Kontakt ist genug, damit die Untoten den Spalt zwischen den Decks überwinden.
+
+Die Oger schreien, als die Leblosen Festschmaus halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Die Ruquapa reagieren effizient und antworten auf die Gefährdung des Admirals mit einer Salve Kanonenfeuer, die deine Knochen zum Erzittern bringt. Als der Mast der nächstgelegenen Galeone zersplittert, manövriert sich eine Dschunke der Rauataianer zwischen Hazanui Karū und das schwankende Schiff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Nichts tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Trotz deiner Untätigkeit wehren die Mataru von Prinz Aruihi den Angriff ab. Eine Galeone fährt langsam davon. Rauch steigt aus ihren Luken auf, während die andere zerbricht. Das Meer darunter bildet einen Strudel, um sie unter Wasser zu ziehen und die Oger-Korsaren klammern sich an der einstürzenden Takelage fest. 
+
+Aruihis Schiff fängt jedoch an zu schlingern und die Mannschaft springt vom königlichen Entdeckungsschiff in das unruhige Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Lasst sie diesen Kampf alleine ausfechten! Bring uns in diesen Sturm, [Specified 1]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Zwei gewaltige Galeonen flankieren die Galeone von Nirro. Als die Söldnerschiffe sich deinem Verbündeten nähern, nehmen sie das kleinere Schiff mit wiederholten Salven Kanonenfeuer unter Beschuss. Oger-Korsaren schwingen schwere Keulen auf den Decks der feindlichen Galeonen. Sie können es nicht erwarten, das Schiff der Vailianer zu entern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Zwei gewaltige Galeonen flankieren die gepanzerte Dschunke von Hazanui Karū. Als die Söldnerschiffe sich deinem Verbündeten nähern, nehmen sie das kleinere Schiff mit wiederholten Salven Kanonenfeuer unter Beschuss. Oger-Korsaren schwingen schwere Keulen auf den Decks der Galeonen. Sie können es nicht erwarten, die Dschunke zu entern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Zwei gewaltige Galeonen flankieren die Müßiggänger. Als die Söldnerschiffe sich deinem Verbündeten nähern, nehmen sie das kleinere Schiff mit wiederholten Salven Kanonenfeuer unter Beschuss. Oger-Korsaren schwingen schwere Keulen auf den Decks der Galeonen. Sie können es nicht erwarten, Furrantes Schiff zu entern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Zwei kolossale Galeonen flankieren die Eiserne Hauer. Als die Söldnerschiffe sich Aeldys' Schiff nähern, nehmen sie das kleinere Schiff mit wiederholten Salven Kanonenfeuer unter Beschuss. Oger-Korsaren schwingen schwere Keulen auf den Decks der Galeonen. Sie können es nicht erwarten, das Piratenschiff zu entern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Die Oger sind eindeutig in der Übermacht und die [Player Ship] ist das einzige andere Schiff in der Nähe. Ohne dein Eingreifen hat der Befehlshaber der Flotte keine Chance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Wir verschwinden von hier! Bring uns in den Sturm, [Specified 1]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Das hat seine Aufmerksamkeit erregt! Lass uns mal sehen, wie ihm der Mörser gefällt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Bring uns in den Sturm, [Specified 1]! Jetzt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>[In den Sturm segeln.] "Fang mich, wenn du kannst, du Bastard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Die Oberfläche des Wassers wölbt sich und explodiert dann. Mit einem Gebrüll wie das Krachen der Brandung bricht ein Drache aus dem Wasser hervor. 
+
+Die bekannte geschuppte Form von Scyorielaphas fliegt tief, die Flügel knapp oberhalb der weißen Schaumkronen der Wellen, bevor er seinen salzigen Atem über das metallische Monster sprüht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Das beständige Schlagen der Trommeln ertönt von den Entdeckungsschiffen und hundert Stimme rufen deinen Namen.
+
+&lt;i&gt;"[Player Name]! [Player Name]! [Player Name]!"&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>[Die Rathun gegen die Oger befehligen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Die Oger versuchen, dem Langschiff der Rathun auszuweichen, aber ihre Galeone ist nicht schnell genug. Die Rathun krachen in die Breitseite des Schiffes und ihre drachenähnliche Galionsfigur pustet magische Flammen direkt in die Tiefen des Laderaums der Galeone.
+
+Schreie ertönen von dem Söldnerschiff, als die Rathun mit ihrer grausigen Arbeit beginnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>[Die Rathun auffordern, das ankommende Schiff zu entern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Das feindliche Schiff versucht, dem Langschiff der Rathun auszuweichen, aber es ist nicht schnell genug. Die Rathun krachen in die Breitseite des Feindes und ihre drachenähnliche Galionsfigur pustet magische Flammen direkt in die Tiefen des feindlichen Laderaums.
+
+Schreie ertönen von dem außer Gefecht gesetzten Schiff, als die Rathun mit ihrer grausigen Arbeit beginnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>[Specified 0] legt eine Hand auf deine Schulter. "Die Götter waren uns hold, das wir es soweit geschafft haben. [Player Ship] hat keine Chance gegen dieses Ding, was auch immer es sein mag. Unsere einzige Hoffnung ist der Sturm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Die Planken des Decks drücken sich gegen deine Füße, als [Player Ship] wendet. Das Donnern des Kanonenfeuers konkurriert mit dem Donner, der beständig aus Richtung des Mörsers ertönt. Dein Schiff richtet sich wieder auf und sein Bug zeigt direkt in den Sturm hinein.
+
+Du taumelst nach vorn, als das Deck sich heftig neigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Den Mörser ohne Mannschaft zu durchqueren versuchen wäre praktisch Selbstmord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>[Specified 0] runzelt mit im Wind wehenden Kopftuch die Stirn. "Götter, Kapitän. Wenn ich das gewusst hätte ... Wenn das einer von uns gewusst hätte." Der Seemann kichert und schüttelt den Kopf. "Verdammt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>[Specified 2] steht an der Reling. "So sehr ich es auch hasse, [Specified 0] zuzustimmen ... verdammt. Es gibt keine Karten für das, was vor uns liegt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Mit beiden Händen am Steuerrad starrt [Specified 1] über die schaumgekrönten Wellen. "Wir tun das wirklich, oder? Setzen Segel in Richtung Mörser. Mögen die Götter uns beistehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>[Specified 3] balanciert auf der Reling, hängt mit einer Hand in der Takelage und lacht mit über schiefen Zähnen geschürzter Lippe. "Machst du Witze? Das ist exakt die Art Scheiße, für die ich mich verpflichtet habe!" Der Matrose heult mit dem Wind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Eine Hand fällt auf deine Schulter und du wendest dich um. [Specified 4] steht hinter dir. "Wir gehen jetzt dorthin, wo kein Gott uns haben will. Und doch hat uns ihr Strang hierher geführt. Unerforschlich und unanfechtbar." 
+
+Das Lächeln des Matrosen balanciert auf Messers Schneide zwischen beruhigend und beunruhigend. 
+
+"Glaube daran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Wir haben es schon so weit geschafft ... Es gibt es kein Zurück mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Eothas bedroht alles und jeden, den ihr kennt. Was auch immer ihr liebt, was auch immer euch heilig ist ... Wir sind hier, um es zu retten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Schluss mit dem Geschwätz. Alle Mann, bereitet euch auf den Sturm vor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Denkt nur daran, welche Schätze uns auf der anderen Seite dieses Sturms erwarten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>[Specified 0] nickt. "Manchmal ist der einzige Weg zurück der Weg nach vorn." Der Maat schreit quer über das Deck. "Alle Mann auf die Posten! Zeit, den Göttern zu zeigen, was die [Player Ship] draufhat!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Die Mannschaft sieht sich unsicher an. 
+
+[Specified 0] tritt einen Schritt vor. "Das reicht jetzt. Alle Mann auf die Posten. Wir haben Arbeit vor uns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Ondras Mörser ragt vor und über dir auf. Er dominiert die gesamte Welt.
+
+Es beginnt zu regnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>[Specified 0] kichert leise. "Ein toter Mann hat wenig von Schätzen, Kapitän, aber wir verstehen, was du meinst." 
+
+Der Maat schreit quer über das Deck. "Alle Mann auf die Posten! Vorwärts segeln wir, um zu plündern und zu rauben!"
+
+Die Mannschaft jubelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>[Specified 0] nickt und schreitet vorwärts. "Nicht einer von uns hat diese Aufgabe übernommen und gedacht, dass wir Helden wären. Aber hier sind wir nun. Lasst uns dieser übergroßen Böe zeigen, was in uns steckt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>[Specified 0] salutiert. "Aye-aye, Kapitän. Alle Mann auf die Posten und die Augen auf die Arbeit gerichtet! Wir segeln rein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>[Player Ship] führt die Flotte an und schießt durch das aufgewühlte Wasser wie eine Axt durch eine Rüstung.
+
+Ein Horn ertönt von irgendwo in der Flottille her. Der Ton hallt über das Wasser und zieht deinen Blick auf die zweite Gruppe Schiffe, die vom Süden her kommen, um dich abzufangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Du umfasst das Steuerrad des Schiffes noch fester ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>[Auf den Kampf vorbereiten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>[In den Sturm segeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>[Specified 3] schwenkt seinen Hut über dem Kopf und jubelt aus vollem Hals. "Endlich ist hier was &lt;i&gt;los&lt;/i&gt;, verdammt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>[Specified 4] lächelt mit leicht geneigtem Kopf. "Heute ist genauso gut wie jeder andere Tag, um zu erfahren, was die Götter für uns im Sinn haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Scheiße, Kapitän!" schreit einer der Matrosen. "Feindliche Schiffe Backbord voraus!"
+
+[Specified 0] schüttelt den Kopf und kichert grimmig. "Vermute, es ist zu viel verlangt, hier draußen mal seine Ruhe zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>[Specified 2] blinkt in Richtung des sich verdunkelnden Himmels. "Ich kannte mal einen alten Seebären, der behauptet hat, der Mörser wäre das Ende der Welt. Ich habe ihn einen Narren genannt. Aber jetzt?" Der Navigator schüttelt traurig den Kopf. "Jetzt bin ich nicht so sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Deine Verbündeten wenden ihre Schiffe, um der herannahenden Bedrohung mit offenen Geschützpforten zu begegnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Eine Kanonenkugel verfehlt [Player Ship] nur knapp. Das Geschoss besprüht das Schiff mit Gischt und lenkt deine Aufmerksamkeit auf ein herannahendes Schiff gelenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>[Deinen Blick über deine Gefährten gleiten lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Aloth blättert durch sein Zauberbuch. Sein Gesichtsausdruck ist ruhig und konzentriert. 
+
+Er begegnet deinem Blick und lächelt schwach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Edér zieht an seiner Pfeife, während er seinen Blick über die feindliche Flotte schweifen lässt. Nachdem er sich einen Überblick über die gegnerischen Schiffe verschafft hat, leert er den Kopf seiner Pfeife aus, packt sie weg und sieht dich mit einem heiteren Schulterzucken an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Maia hält ihren ausgestreckten Arm für Ishiza hin. Er fliegt hoch, um sich auf den Arm zu hocken und ihr den Nacken zu hätscheln. Sie krault ihn unter seinen Federn, wo er es am meisten zu genießen scheint. Sie sehen sich an und der Blick kommuniziert etwas Unausgesprochenes zwischen ihnen – etwas Liebevolles, Pflichtbewusstes und Endgültiges. 
+
+Dann wendet sie sich dir zu und nickt – entschlossen, sich dem zu stellen, was nun kommen mag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Pallegina sieht sich ruhig die feindliche Flotte an. Ihr goldenen Augen schwenken in deine Richtung und halten deinen Blick einige Sekunden lang, bevor sie dir zunickt und eine vordere Position einnimmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Serafen fährt sich mit den Fingern durch seine wilden blauen Haarsträhnen und steckt so viele wie möglich davon hinter seine büscheligen Ohren. Seine Hände gleiten über seine Waffen und prüfen sie zweimal. Sein Blick jedoch bleibt fest auf die herankommenden Schiffe gerichtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Tekēhu umklammert eine Haarsträhne und reibt sie zwischen den Fingern. Er fällt zur Beruhigung unbewusst in eine alte Angewohnheit zurück. Ein dünner Tropfen Tinte läuft wie Schweiß an der Seite seines Nackens herunter. 
+
+Als er die Flotte anstarrt, scheint der Schrecken in seinem Blick weitaus älter zu sein als er Jahre zählt. 
+
+Als er bemerkt, dass du ihn ansiehst, zwinkert er und lächelt dich zuversichtlich an. Aber du hast bereits seine wahren Gefühle gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Xoti hebt ihre Laterne hoch und hält sie wie ein Schild aus Licht vor sich. Die Laterne leuchtet als eine Art Antwort einmal hell auf und sie nickt dir zu – sie ist bereit.
+
+Trotz der Tapferkeit, die sie zeigt, bemerkst du, dass ihre Hand leicht zittert. Der Käfig ihrer Laterne klirrt, als Xoti den Beginn des Kampfes erwartet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Schleier von Kanonenrauch teilen sich und enthüllen den schlanken schwarzen Schatten eines Schiffes. Die zerrissenen Fetzen einer Príncipi-Flagge wehen an seinem Mast – direkt unter dem purpur-schwarzen Banner von Kapitän Aeldys. Ihre Eiserne Hauer setzt sich hinter eine der Galeonen und bedeckt sie mit einer verheerenden Breitseite, die knapp über der Wasseroberfläche einschlägt.
+
+Oger springen von den Decks des Schiffes, als es sich auf die Seite legt und seine Segel auf der aufgewühlten See aufklatschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>[In den Sturm segeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>[Specified 3] deutet in Richtung der Bestie. "Wenn wir dieses Ding machen lassen, sind deine Freunde wahrhaftig im Arsch!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Kapitän, wir können dieses Ding nicht näher an die Flotte heranlassen!" 
+
+Maia sieht dich mit panischem Blick an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Wenn wir diese Kreatur nicht weglocken, bringt sie garantiert den Canta und alle anderen in der vailianischen Flotte um!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Kapitän, ich sage, wir müssen es von unseren Verbündeten weglocken! Auch wenn das bedeutet ..." 
+
+Tekēhu verstummt und wendet sich um zur Reling und zur herannahenden Kreatur. Er hebt eine zitternde Hand zum Mund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Serafen starrt dich an. "Dieser Bastard hält direkt auf die Müßiggänger zu. Auf Furrante!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Serafen starrt dich an. "Dieser Bastard hält direkt auf die Hauer zu. Auf Aeldys!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Wächter! Ich glaube, dieses Biest beäugt unsere Kumpanen!"</DefaultText>
+      <FemaleText>"Wächterin! Ich glaube, dieses Biest beäugt unsere Kumpanen!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Edér ruft über den Kampflärm hinweg: "Wenn wir dieses Ding nicht weglocken, wird es unsere Verbündeten noch schlimmer zurichten als dieser Sturm!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>[Specified 2] gafft. "Bei Ondras Gnaden, das habe ich &lt;i&gt;nicht&lt;/i&gt; erwartet."
+
+"Mischt diesen Bastard so richtig auf!" schreit [Specified 3]. Der Matrose wendet sich um und zeigt auf etwas. "Hast du das gesehen? Das ist ein gottverdammter Drachen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"[Player Name], wir werden geentert!" ruft Aloth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Aufgepasst, Käpt'n! Die Bastarde entern unser Schiff!" ruft Serafen über den Lärm hinweg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>[Specified 4] fällt auf Hände und Knie und betet zu allen Göttern, die zuhören könnten, Huana und engwithanisch gleichermaßen, von Ondra bis Rikuhu, als das metallische Monster einen amethystfarbenen Lichtstrahl freisetzt, der ein zweites Schiff entzwei reißt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>[In den Sturm segeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>[Specified 0] wendet sich von dem Blutbad ab. "Kapitän? Wir erhalten vielleicht keine weitere Chance."
+
+Alle Seeleute sehen dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Du greifst nach dem Steuerrad und wendest die [Player Ship] in Richtung Mörser.
+
+Du riskierst keinen Blick zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>[In den Sturm segeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Ondras Mörser ragt vor und über dir auf. Er dominiert die gesamte Welt.
+
+Es beginnt zu regnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Ondras Mörser tobt am Horizont, eine breite Wand rollender Wolken und Regenschauer, die vom silbernen Leuchten von Blitzen unterbrochen wird. Der Wind drückt gegen euch – als ob er das, was dahinter liegt, vor [Player Ship] schützen möchte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Die Mannschaft der [Player Ship] ist die beste im ganzen Todesfeuer. Ihr werdet uns durch Ondras Mörser bringen. Ich weiß es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Mit einem schwachen, aber bestimmten Lächeln nickt [Specified 0]. "Ihr alle kennt eure Aufgaben und ihr wisst, was auf dem Spiel steht! Was ist das hier anderes als eine weitere Böe auf See? Auf die Posten!"
+
+Jubelschreie ertönen, als die Matrosen über die Decks laufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Serafen nickt. "Der Kapitän labert keine heiße Luft. Ich habe schon auf dem einem oder anderen Schiffchen gedient und ihr seid die beste Truppe Matrosen, mit denen ein Freibeuter hoffen kann zu sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>[Specified 3] lacht glücklich. "Ein Boot für jeden Seemann und ein Fass für jedes Boot!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Mit geschlossenen Augen und den schwarzen Wolken zugewandtem Gesicht murmelt [Specified 4] vor sich hin. "Es gab nie eines. Die Wege wurden festgelegt, bevor Waidwen gen Dyrwald zog."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>[Specified 2] zuckt zusammen. "Müssen wir das aber? Kann das nicht jemand anderes tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Ondras Mörser tobt am Horizont, eine breite Wand rollender Wolken und Regenschauer, die vom silbernen Leuchten von Blitzen unterbrochen wird. Der Wind drückt gegen euch – als ob er das, was dahinter liegt, vor [Player Ship] schützen möchte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Die herannahende Flotte zählt mindestens so viele Schiffe wie deine eigene – vielleicht sogar mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>[Specified 3] schwenkt ihren Hut über dem Kopf und jubelt aus vollem Hals. "Endlich ist hier was &lt;i&gt;los&lt;/i&gt;, verdammt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Bogenschützen und Scharfschützen stehen an der Reling und in Roben gehüllte Wasserformer am Bug jedes Schiffes. Ihre ritualisierten Bewegungen glätten die See vor der Flotte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Die dunkle Silhouette von Aeldys' Schiff führt die Vorhut an, wird flankiert von den gleichsam schlanken Schiffen ihrer treuesten Kapitäne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Die Schiffe der Consuaglo mes Casitàs führen die Vorhut an, vier breite Galeonen, verschwenderisch dekoriert und mit Segeln in allen Farben des Regenbogens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>In Roben gehüllte Wasserformer stehen am Bug jedes Huana-Schiffes. Ihre ritualisierten Bewegungen glätten die See vor der feindlichen Flotte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Die verbleibenden Langschiffe der Rathun pflügen hinter dir durch das Wasser, bemannt von zwei Dutzend unermüdlichen Riesen. Jedes Schiff leuchtet mit der gleißenden Göttlichkeit Magrans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Du greifst nach der Reling achtern, um nicht über Bord zu gehen. Unter dir und direkt unter der Wasseroberfläche schwimmt eine riesige Kreatur. Sie bewegt sich zum Kampf hin. Das Wasser kräuselt sich wie eine geteilte Haut zu beiden Seiten der Bestie und gibt ein Monster frei, das nicht aus Fleisch besteht, sondern aus glattem Adra und glänzendem Metall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Bring uns längsseits! Alle Mann bereitmachen zum Kampf!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>[Specified 0] sieht dich stirnrunzelnd an. "Es ist noch nicht vorbei, Kapitän."
+
+Der Maat deutet zum Wasser hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Du konzentrierst dich und richtest deine Aufmerksamkeit wieder auf deine Verbündeten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Serafen steht an der Reling, eine Hand an die Stirn gelegt, und blickt auf das Wasser hinaus. "Aw ... Möwenschiss, Kapitän. Wirf doch selbst einen Blick auf diese traurige Szene."
+
+Der Orlaner deutet darauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Aruihis Schiff ist kurz davor, überwältigt zu werden! Deine Befehle, Kapitän?" 
+
+Tekēhu schluckt und dreht sich zu dir um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>Serafen sieht dich an, die Augen weit aufgerissen und wild.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Wächter, das Schiff des Canta ist in Gefahr! Wir müssen etwas tun!"</DefaultText>
+      <FemaleText>"Wächterin, das Schiff des Canta ist in Gefahr! Wir müssen etwas tun!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Kapitän! Das Schiff der Hazanui ist kurz davor, überwältigt zu werden!" Maia umklammert die Reling und sieht dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Hoffentlich hast du etwas mehr als halb Durchdachtes für diese Oger geplant, Käpt'n!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>[Eine der Galeonen in einen Kampf verwickeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Trotz deiner Untätigkeit wehrt Nirros Mannschaft den Angriff ab. Eine Galeone entfernt sich langsam. Rauch steigt aus ihren Luken auf, während die andere auseinanderbricht, ihr Rumpf durch vailianische Zauber zerfetzt. Oger-Korsaren hängen an der einstürzenden Takelage. 
+
+Das Schiff des Grafen geht jedoch unter und sorgt dafür, dass sich die Vailianer von den Decks tief hinunter in das Wasser stürzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Trotz deiner Untätigkeit leistet die gepanzerte Dschunke Karū gute Dienste und ihre Soldaten wehren den Angriff ab. Eine Galeone entfernt sich langsam. Rauch steigt aus ihren Luken auf, während die andere unter den wiederholten Salven der Rauataianer zerbricht. Oger-Korsaren hängen an der einstürzenden Takelage. 
+
+Die Dschunke ist jedoch schwer mitgenommen. Sie kippt und geht unter und die Aumauaner-Mannschaft verlässt sie und springt in das tosende Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Trotz deiner Untätigkeit wehren Furrantes Piraten den Angriff ab. Eine Galeone entfernt sich langsam. Rauch steigt aus ihren Luken auf, während die andere unter den wiederholten Salven der Müßiggänger zerbricht. Die Piraten werfen Fackeln in die zusammenbrechende Takelage des Schiffes, während die Oger ins Wasser springen. 
+
+Die Müßiggänger schlingert jedoch. Der Schaden am Rumpf ist zu groß. Schreiende Piraten stürzen sich in das Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Trotz deiner Untätigkeit wehren Aeldys' Piraten den Angriff ab. Eine Galeone entfernt sich langsam. Rauch steigt aus ihren Luken auf, während die andere in einer Wolke aus Donner und Flammen zerbirst, als ihre Pulvervorräte Feuer fangen. 
+
+Die Hauer schlingert jedoch. Der Schaden am Rumpf ist zu groß. Schreiende Piraten stürzen sich in das Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Mit einem grimmigen Nicken gehen deine Seeleute an ihre Aufgaben. [Specified 1] dreht das Rad, während [Specified 0] den Kanonieren etwas zuruft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Ein Oger-Schiff ist erledigt und die Wasserformer von Prinz Aruihi verschwenden keine Zeit damit, die andere zum Schlingern zu bringen und die Wilden ins Meer zu schicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Eine mit Ogern bemannte Galeone ist erledigt und Nirros Kanonen können sich darauf konzentrieren, Salve auf Salve auf das zweite Schiff abzufeuern, das schließlich geschlagen die Flucht antritt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Da nun eine der mit Ogern bemannten Galeonen vom Schlachtfeld verschwunden ist, gib Hazanui Karū Befehl, das Feuer auf die zweite Galeone zu konzentrieren. Die Bronze-Kanonen der Dschunke donnern los und lassen Rumpf und Segel des zweiten Schiffes ebenfalls bersten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Furrante steht hoch oben auf dem Achterdeck der Müßiggänger, gestikuliert und schreit, wobei seine Stimme vom Kampflärm davongetragen wird. Eine mit Ogern bemannte Galeone ist ausgeschaltet und die Mannschaft der Müßiggänger begegnet den Ogern nun im ausgeglichenen Kampf, wobei die Piraten mehr und beweglicher sind und die Wilden überwältigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Aeldys steht am Bug der Eisenern Hauer, gestikuliert und schreit, wobei ihre Stimme vom Kampflärm übertönt wird. Eine mit Ogern bemannte Galeone ist ausgeschaltet und die Mannschaft der Hauer begegnet den Ogern nun im ausgeglichenen Kampf, wobei die Piraten mehr und beweglicher sind und die Wilden überwältigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Sie blickt nervös zu Edér, der ihr ein ermutigendes leichtes Lächeln schenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Sie schluckt schwer und sieht zu Maia, die ihr zuzwinkert und sie mit einem Ellbogen in die Rippen stupst.
+
+Ishiza ein ermutigendes Krächzen ertönen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Ein Schiff löst sich aus der Dunkelheit an Backbord. Seine schreit Warnungen im verzweifelten Bemühen, einen Zusammenstoß zu vermeiden. Er lässt sich jedoch nicht vermeiden und die [Player Ship] wird hochgehoben, als das feindliche Schiff in die Breitseite kracht. 
+
+Ein weiteres Schiff taucht direkt vor euch auf. Da kein Platz für Manöver vorhanden ist, kracht die [Player Ship] dagegen und ist zwischen den beiden feindlichen Schiffen eingekeilt. 
+
+Ihr seid gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Aus dem Nebel tauchen Vailianer auf, schwingen sich von Deck zu Deck und verfluchen deinen Namen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Die aus dem Nebel auftauchende Truppe Rauataianer überquert die Decks, ihre Schusswaffen im Anschlag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Die aus dem Nebel auftauchenden Piraten schwingen sich an der Takelage entlang und springen von den Decks und schreien ihre Verachtung für dich aus rauen Kehlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Achtern liegen die vailianischen Galeonen zerstreut und gebrochen. Die wenigen übriggebliebenen Schiffe fliehen westwärts in Richtung Magrans Zähne und Port Maje.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Achtern liegt die Flotte der Todesfeuer-Gesellschaft zerstreut und gebrochen. Die übriggebliebenen Dschunken fliehen westwärts in Richtung Magrans Zähne und Sayuka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Achtern liegen die Príncipi sen Patrena zerstreut und gebrochen. Die übriggebliebenen Piratenschiffe fliehen westwärts in Richtung Magrans Zähne und Stauholz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>[Specified 0] klopft dir auf den Rücken. "Wir haben es geschafft, Kapitän."
+
+"Der Kapitän hat es geschafft, würde ich sagen" sagt [Specified 2] und wischt sich Schweiß und Ruß mit einem Tuch ab. "Wir waren einfach nur mit an Bord."
+
+[Specified 1] kichert, blickt aber in Richtung Ondras Mörser. "Nicht, dass wir es bereits durchgestanden hätten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Raue Jubelrufe ertönen von deinen Verbündeten und Gefährten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Ruhe!" schreit [Specified 0], "Ein dreifaches Hurra für den Kapitän! Ein dreifaches Hurra für die [Player Ship]!"
+
+Die Mannschaft schreit, brüllt, heult und jubelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Wir müssen helfen, was auch immer es kostet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Wir haben keine Kanonenkugeln mehr, Kapitän!" ruft [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Das Blei der [Player Ship] fliegt weit und schlägt im Wasser rings um das Monster ein. Der Kopf der Bestie peitscht herum und ihre Augen richten sich auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>&lt;ispeech&gt;Geh. Jetzt, solange ich die Aufmerksamkeit dieser Kreaturen habe.&lt;/ispeech&gt; Scyorielaphas' Stimme hallt in deinen Gedanken wider. &lt;ispeech&gt;Meine Schuld ist beglichen, Wächter.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Geh. Jetzt, solange ich die Aufmerksamkeit dieser Kreaturen habe.&lt;/ispeech&gt; Scyorielaphas' Stimme hallt in deinen Gedanken wider. &lt;ispeech&gt;Meine Schuld ist beglichen, Wächterin.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>Das Monster wendet sich gegen den Seedrachen. Sie prallen aufeinander und zerfetzen sich gegenseitig mit ihren Zähnen. 
+
+Essenz strömt aus beiden heraus als sie sich aus nächster Nähe mit ihren Fähigkeiten beharken.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

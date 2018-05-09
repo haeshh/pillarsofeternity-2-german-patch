@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_mystic</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Beina</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Beina&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Nungata&lt;b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Beina&lt;/b&gt;, eine Zwergen-Mystikerin, die jeden betrügt oder tötet, der zu nahe kommt, wurde auf einer Insel &lt;b&gt;südwestlich von Hasongo&lt;/b&gt; gesehen. Auf sie wurde ein attraktives Kopfgeld ausgelobt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Beina&lt;/b&gt; hört sich nach einer an, die immer in Bewegung bleibt, aber sie wurde gesehen, wie sie auf einer Insel &lt;b&gt;südwestlich von Hasongo&lt;/b&gt; abhängt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Nungata&lt;/b&gt; ist bestimmt froh darüber, dass eine Mörderin weniger die Inseln unsicher macht. Sie hält sich in der &lt;b&gt;Schlangenkrone&lt;/b&gt; in Neketaka auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Beina ist jetzt noch einen Kopf kürzer als ich, der das gleichnamige Geld erhalten hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

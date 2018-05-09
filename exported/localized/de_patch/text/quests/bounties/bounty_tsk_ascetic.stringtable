@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_ascetic</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Dhwrgas der Asket</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Dhwrgas&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Okauro&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Dhwrgas&lt;/b&gt;, ein orlanischer Mönch, wird wegen gegen seinen ehemaligen Mönchsordens gerichteter Verbrechen gesucht. Man konnte seine Spur bis zur Wildnis der&lt;b&gt;Insel Krummsporn&lt;/b&gt;, &lt;b&gt;nordwestlich von Neketaka&lt;/b&gt;, verfolgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Dhwrgas&lt;/b&gt; wurde zuletzt in der Wildnis auf der &lt;b&gt;Insel Krummsporn&lt;/b&gt; gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Mit Dhwrgas' Kopf im Gepäck kann ich mir sein Kopfgeld bei &lt;b&gt;Okauro&lt;/b&gt; bei der &lt;b&gt;Treppe in Neketaka&lt;/b&gt; auszahlen lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Dhwrgas ins Nirvana befördert und das Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

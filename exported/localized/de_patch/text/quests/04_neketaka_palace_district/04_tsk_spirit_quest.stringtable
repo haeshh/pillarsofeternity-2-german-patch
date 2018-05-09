@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_neketaka_palace_district\04_tsk_spirit_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ihre letzte Bitte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Durchsuche Muhais Anwesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sprich mit Muhai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Äschere Muhais Gebeine ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich habe einen Geist namens Muhai in einem der Anwesen in Schlangenkrone gefunden. Sie wurde zum Sterben alleine zurückgelassen und weigerte sich, in das Rad überzugehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Muhai meint, dass ihr Körper in der Nähe sein muss, da sie einer Krankheit erlegen war. Sie will, dass ich ihn wiederbeschaffe, damit sie bestattet werden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe Muhais Körper in ihrem Bett gefunden, wo er scheinbar schon seit mehreren Tagen liegt. Offenbar weiß niemand, dass sie tot ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Muhai bat mich, ihre Gebeine zum Magran-Tempel im Bezirk der Heiligen Treppe zu bringen. Dort muss ich ihre sterblichen Überreste einäschern, woraufhin ihr Geist zum Rad zurückkehren wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Muhais Gebeine eingeäschert. Damit zufrieden verließ ihr Geist mich, um seinem weiteren Schicksal entgegenzugehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Muhais Körper dem Magran-Priester übergeben, der ihn woanders begraben soll. Muhais Geist hat es nicht gut aufgenommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

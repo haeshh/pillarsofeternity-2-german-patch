@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>chatter\00_neketaka\ch_00_unique_bathhouse_patron</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Das Wasser lässt mich meine Sorgen vergessen – wenn auch nur für einen Moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Die Preise sind unverschämt, aber ich zahle sie gerne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Das Wasser der leuchtenden Adra ist das Einzige, das meine Hämorrhoiden beruhigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich frage mich, ob man die Diener wohl mal ausleihen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Du musst unbedingt die Bäder ausprobieren, wenn du das noch nicht getan hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Du musst unbedingt das Aquarium besuchen, Ekera. Das ist ein fantastischer Anblick, den du dir auf keinen Fall entgehen lassen darfst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Die Diener im Badehaus sind mit frischen Handtüchern einfach zu geizig."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

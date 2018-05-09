@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_bs_tavern_patrons</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Auf uns, die wir auf dieser verdammten Insel gestrandet sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hast &lt;i&gt;du&lt;/i&gt; den Riesen gesehen? Monster, die hier frei herumlaufen. Das hat uns gerade noch gefehlt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Diese Dämmerungssterne denken, dass alles Eothas Werk sei. Als ob er sich dazu herabließe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Kennst du die Geschichte hinter dem Krakenauge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Scheint, als hätte der Gouverneur recht gehabt. Der Nachschub rollt und die Geschäfte laufen gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Neketaka ist für die Stockfische. Auf Port Maje!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Haltet ihn auf!"</DefaultText>
+      <FemaleText>"Haltet sie auf!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich kann nicht glauben, dass jemand das Krakenauge gestohlen hat!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Armer Thorel. Seitdem jemand sein Krakenauge gemopst hat, ist er ganz deprimiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

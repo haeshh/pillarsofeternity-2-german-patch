@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\22_huana_ruins\22_cv_wahaki_leader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Wahaki-Krieger verschränkt die Arme und betrachtet dich kritisch. Die Kriegsbemalung in seinem Gesicht hebt seine ohnehin scharfen Gesichtszüge noch stärker hervor.
+
+Er öffnet den Mund weit und gähnt lange und laut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Wahaki-Krieger umklammert seine Waffe und starrt dich trotzig an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Stürme auf ihn zu und greife ihn an.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Tiefer im Dschungel sind schreckliche Dinge. Die gesamte Natur wurde dort auf den Kopf gestellt, und schon deine bloße Anwesenheit lässt seltsamen Kreaturen vor Gier das Wasser im Mund zusammenlaufen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich bin auf der Suche nach einer verlorenen Expedition und Wissen über die Insel Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Warum schützen die Wahaki diese Insel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Solange die Fremden uns das Land rauben, bleibt diese Zukunft in weiter Ferne." Er schnaubt und schaut in Richtung des Ufers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Möge der Dschungel dich verschonen." Embeta betrachtet dich und nickt gleichgültig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Anscheinend hast du es darauf angelegt, dass die Insel uns unsere Arbeit abnimmt." Er senkt den Speer und gestikuliert seufzend den anderen, es ihm nachzutun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich komme, um Wissen zu erlangen, und ich werde nichts als Erinnerungen von hier mitnehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Tritt beiseite! Sonst verfüttere ich dich an den Dschungel – lebend und schreiend!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich möchte mal behaupten, ich habe noch nie jemanden getroffen, der sich so leicht seinem Schicksal ergeben hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Das ist kein Ort für Götter. Und auch kein Ort für Sterbliche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich wollte dir noch ein paar Dinge sagen, bevor du einen schweren Fehler machst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Du bewegst dich auf dem Boden von Motare o Kōzi. Dein Gesichtsausdruck verrät mir, dass du keine Ahnung hast, was das für unseren Stamm bedeutet." 
+
+Die Axt bleibt an seiner Seite, doch seine Finger sind weiterhin angespannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Im Dschungel lauern Gefahren für einen Mann jeder Größe. Ich will nicht, dass du unvorbereitet stirbst."</DefaultText>
+      <FemaleText>"Im Dschungel lauern Gefahren für eine Frau jeder Größe. Ich will nicht, dass du unvorbereitet stirbst."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Auch wenn du von den Göttern berührt worden bist, verschafft dir das nicht den Zugang zu dieser Insel." 
+
+Trotz seiner angriffslustigen Worte ist deutlich zu bemerken, dass den Wahaki-Krieger dir gegenüber eine gewisse Ehrfurcht erfüllt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Du kannst auf Motare o Kōzi nichts zu erledigen haben. Verschwinde, bevor ich deine Knochen an den Dschungel verfüttere!" Mit einer abweisenden Handbewegung deutet er zurück auf dein Schiff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Hebe deine Hände und tritt langsam zurück.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Du bist klüger, als du aussiehst. Und jetzt segle davon – und kehre nie wieder zurück." Er nickt und signalisiert den anderen, dich im Auge zu behalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Es ist mir völlig gleichgültig, welche Insel du deine Heimat nennst. Diese hier gehört jedenfalls den Wahaki."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Und wenn ich dich dafür an deinen Ohren hinaus schleifen muss – ich werde es tun. Diese Insel steht unter dem Schutz der Wahaki."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Das hier ist keine Bibliothek, Fremder. Dieser Dschungel ist vom Tod selbst berührt worden." Etwas an deinen Worten sorgt dafür, dass er sich ein wenig beruhigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Du wirst hier nur Knochen und Ruinen finden, von Verfall geplagt ... und Schlimmeres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Wir bereiten uns auf den Tag vor, an dem wir unsere Vergangenheit dort wiederfinden, wo wir sie zurückgelassen haben – an den Ufern der verlorenen Insel Ukaizo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich grüße dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Gibt es ein Problem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Wir kennen dich, Fremder. Dennoch stört mich deine Anwesenheit." Er hält die Axt in beiden Händen und dreht sie mit langsamen, bewussten Bewegungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Darüber werde ich während unserer Unterhaltung entscheiden. Also wähle deine Worte mit Bedacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Schweigen ist unserer nicht würdig. Das wird jetzt ein Ende finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ich grüße dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ich kann dir bereits sagen, dass wir ein Problem haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Du bist zum falschen Ort gekommen, Fremder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Nein. Ich werde dich jetzt aufhalten, bevor die Angelegenheit zu einem Problem wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ich dachte, meine Botschaft an den Prinzen der Huana sei klar gewesen. Man muss ihn daran erinnern, dass es das Todesurteil bedeutet, in die Ruinen des Dschungels einzudringen." Embeta blickt dich mit zusammengekniffenen Augen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Der Krieger betrachtet dich eingehend. Sein Gesicht zeigt dabei gemischte Gefühle. Er mustert dich prüfend und überlegt, ob er dir Glauben schenken kann oder nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Du bist derjenige, der dem Prinzen dieses blutige Tuch geschickt hat, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Der Prinz hat Entdecker zu dieser Insel gesandt. Ihre aufgelösten Leichen und ihre blutige Kleidung ist alles, das von ihnen noch übrig ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ekera. Die Insel ist für Fremde geschlossen. Alle, die einen Fuß auf diese Insel setzen, sind zum Sterben verurteilt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Wenn Aruihi seine Fehler unbedingt wiederholen möchte, vermute ich einmal, dass er sich gegen die Fremden nicht lange halten kann. Also ab in die Tiefe mit ihm!" Embeta spuckt in den Sand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Sie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Okay, ich werde es mir merken. Und jetzt zurück zu meinen Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Embeta schweigt weiter, doch sein Blick spricht eine Warnung aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Deine Neugier wird dich bloß in Schwierigkeiten bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Also, kann ich jetzt gehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Was ist denn so gefährlich an Motare o Kōzi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Wir werden uns nicht tiefer in den Dschungel hineinwagen, aber wir wissen genau, was er ist: Ein Ort, an dem die Natur wütet."
+
+Er schweigt lange genug, um dadurch seinen Worte die Bedeutung zu verleihen, die sie verdient haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Es ist nicht meine Aufgabe, die Geschichten unseres Volkes zu erklären, aber ich warne dich – halte dich fern! Motare o Kōzi hat schon mehr Leben gefordert, als du vermuten würdest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Sag es mir doch einfach. Wie viele Leben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Stell dir einfach eine Zahl vor. Und es sind weit mehr, möchte ich mal behaupten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Auf dieser Insel ist zu einem Zeitpunkt alles schiefgelaufen, als die Stämme verwundbar und voneinander getrennt waren. Der Insel sind Zähne gewachsen, wo früher keine waren.
+
+"Stell dir einfach das Festmahl vor, ausgebreitet für einen opportunistischen Vielfraß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Wieso gehst du davon aus, dass mich der Prinz geschickt hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Hier sind Entdecker aus Neketaka gelandet. Inzwischen musst du erfahren haben, dass sie nicht zurückgekehrt sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Kein Wunder also, dass der Prinz eine zweite Gruppe ausgesandt hat, um die erste zu finden. Ihm geht es mehr um Reichtümer und Plünderungen als um die Leben seiner Diener."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Ruāsare teilt meine Vorbehalte dir gegenüber nicht. Ich hingegen habe gleich eine ganze Reihe an Vorbehalten. Wenn du dir jedoch ihr Vertrauen verdient hast, wäre ich ein schlechter Krieger, wenn ich dir im Weg stehen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Du hast nichts getan, um dir das Vertrauen der Wahaki zu verdienen. Ich kann meinem Häuptling nicht in die Augen schauen und ihr erklären, wieso ich es zugelassen habe, dass du in den Dschungel vordringst." Seine Augen verengen sich. Fester schließt sich seine Hand um die Waffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Aber ich wäre ein noch schlechterer Gastgeber, wenn ich einfach beiseite stehen und es den Bestien des Dschungels erlauben würde, das Mark aus deinen Knochen zu saugen. Siehst du jetzt, wie innerlich zerrissen ich bin?" 
+
+Mit seinem Zeh zieht Embeta einen Strich in den Sand. In Gedanken verloren blickt er darauf herab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Ich kann in einem Kampf schon auf mich selbst aufpassen, falls es soweit kommen sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Tritt beiseite, wenn du nicht den Zorn deines Häuptlings auf dich ziehen willst!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Du hast dich sehr ehrenhaft verhalten. Lass es mich dir nachtun, und trennen wir uns als Freunde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Angreifen] "Noch nicht, aber ich stehe kurz davor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ich bezweifle es nicht. Ich bin außer Übung, wenn es darum geht, Fremde auf unser Land zu lassen." Er seufzt in sich hinein und zuckt mit den Schultern, dabei schleudert er mit dem Fuß Sand über den Strich, den er gezogen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Mögest du lange genug leben, um sauberere Ufer zu sehen als diese, Fremder." Respektvoll neigt Embeta den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Angreifen] "Du hast ja keine Ahnung, wen du da in einen Hinterhalt gelockt hast!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Angreifen] "Ich kann ebenfalls furchterregend aussehen. Komm doch näher und überzeuge dich selbst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Du solltest mir dafür danken, dass ich dir einen Tod durch die Hand des Dschungels erspare." Embeta gibt seinen Kriegern ein Signal und greift an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Die Ruinen tief im Dschungel ... Sie sind viel zu kostbar, um zu riskieren, dass sie in die Hände eines Fremden fallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Es wäre besser für uns beide, wenn ich dich jetzt töte. Wir werden deine Leiche mit all dem Pomp dem Meer übergeben, den ein würdiger Feind verdient. Eine größere Ehre kann kein Fremder erwarten." 
+
+Embeta nickt. Er hat sich nun mit dieser einfachen Unvermeidlichkeit abgefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Und die ganze Arbeit, die ich für die Huana erledigt habe, die bedeutet überhaupt nichts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Wenn der Dschungel tatsächlich so gefährlich ist, kann ich vielleicht helfen. Ich kann diese Insel in einem besseren Zustand verlassen, als ich sie vorgefunden habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Versuch es ruhig. Es wird nicht einmal genug von dir übrig bleiben, dass es sich für die Seemöwen lohnen würde, an dir herumzupicken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Angreifen] "Ich nehme an, das ist dann also das Ende unserer Verhandlungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Embeta schürzt die Lippen und betrachtet dich forschend. Er lässt nichts von seinen Gedanken erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Und so etwas kannst du wirklich tun?" Er tauscht einen unsicheren Blick mit den anderen Kriegern aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ich wusste ja, dass die Fremden manchmal wie besessen von ihrer eigenen Überheblichkeit sind. Mir war allerdings nicht bewusst, dass sie davon auch verrückt werden können." Er betrachtet dich eingehend. Seine Speerspitze zittert unentschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Er betrachtet dich interessiert. Zuerst hast du keine Ahnung, wie er reagieren wird. Dann stößt er Sand über den Strich, den er gezogen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Wenn ein Fremder Neketaka besucht und sich als nützlich erweist ... Das kommt selten genug vor, und sollte daher nicht bestraft werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Wir werden dich beobachten, Fremder. Den Versuchen des Dschungels, dich zu verschlingen, werden wir allerdings nicht entgegentreten. Achte darauf, dass du dich in den Ruinen von Motare o Kōzi anständig benimmst." Er signalisiert den anderen Kriegern durch eine Kopfbewegung, die Waffen zu senken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Die Macht im Herzen der Insel ist älter und stärker als die Überheblichkeit eines Abenteurers. Aber ich werde dich nicht aufhalten, wenn du dich ihr stellen willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Sieh mal, können wir uns einfach einmal darüber unterhalten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Ich habe mir genug Geplapper von Fremden anhören müssen, um genau zu wissen, wann man versucht, mich zu manipulieren." Seine Oberlippe verzieht sich zu einem grimmigen, entschlossenen Lächeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ich werde dir die Sache vereinfachen, dann kannst du dir deinen Atem sparen. Entweder verschwindest du jetzt, oder du stirbst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Noch nicht, aber deine Anwesenheit hier verrät sehr viel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Ich weiß, was es deinen Vorfahren bedeutet hat. Das war Teil einer uralten Evakuierungsroute der Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Es gibt einen Grund dafür, warum diese Insel seit Generationen unberührt geblieben ist. Fremde gelangen nie weiter als bis zum Strand. Und diejenigen, die versuchen, tiefer einzudringen, erwartet ein unglückliches Ende."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ekera, du kennst eure Geschichte besser, als ich das vermutet hätte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ich weiß, was es deinen Vorfahren bedeutet hat. Das war Teil einer uralten Evakuierungsroute der Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ich habe meine eigenen Gründe dafür, hier zu sein. Mit deinem Stamm haben diese Gründe allerdings nichts zu tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Du sprichst wie ein wahrer Fremder – diejenigen, denen die Insel gehört, die du plündern willst, sind dir völlig gleichgültig." Er schüttelt langsam den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[Angreifen] "Nein, ich habe mich nur gerade gefragt, wie jemand so dumm sein kann, mich zu überfallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Und du hast keinerlei Respekt für das Territorium deiner eigenen Nachbarn. Eine Schande!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Du erfreust dich der Gunst der Wahaki. Deshalb erzähle ich dir das jetzt auch in Worten und nicht durch Blutvergießen. DU darfst keinen Fuß in den Dschungel von Motare o Kōzi setzen. 
+
+"Es wäre ein Bruch unserer Traditionen – und für Deinesgleichen eine Reise durch Rikuhus Gedärme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Danke für die Warnung, aber ich werde mich jetzt auf den Weg machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Er tauscht einen vorsichtigen Blick mit den anderen Kriegern. Zwischen ihnen geht etwas heimlich hin und her, vergraben unter Schichten von ausgetauschten Blicken und gegenseitigem Verstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Du bist nicht hierher gekommen, um mehr über unsere Geschichte zu erfahren. Und ich verrate meine Geheimnisse keinen schmutzigen Fremden." Er saugt sich einen Tropfen Feuchtigkeit von der Oberlippe, ohne den Blick von dir abzuwenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Ein Prinz von Neketaka sollte die Wünsche seines Volkes über den eigenen Ehrgeiz stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Der Dschungel hat Zähne. Achte darauf, dass sie dich nicht einschließen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Hast du von den 'Geschminkten Masken' gehört?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Er schaut dich fragend an. Die anderen Krieger schütteln den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Das ist einen Versuch wert." Aloth beugt sich nah heran und zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

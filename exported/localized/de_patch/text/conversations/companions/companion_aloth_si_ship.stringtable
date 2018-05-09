@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aloth_si_ship</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du umrundest eine felsige Insel, als du am Horizont ein Schiff treiben siehst. Sein Segel luvt im Wind.
+
+Auf den Schiffsrumpf wurde wenig kunstvoll ein Symbol gemalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Doch du entdeckst eine Leiche auf dem Seitendeck, und eine andere, die über dem Steuerrad zusammengesunken ist. 
+
+Und einen Pfeil, der im Mast steckt.
+
+Aloth taucht an deiner Seite auf und hält ebenfalls Ausschau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Dieses Symbol ... Es sieht aus wie eine Nebenform der Insignien des Bleiernen Schlüssels."
+
+Aloth lässt das Fernrohr wieder sinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Lass uns die Sache mal untersuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Du glaubst, das sei ein Schiff des Bleiernen Schlüssels?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wir haben keine Zeit für so etwas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Genau das denke ich auch", stimmt Aloth zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Oder vielleicht wurden sie von ihnen angegriffen.
+
+"Die Mitglieder des Bleiernen Schlüssels verkünden ihre Anwesenheit nur selten so offensichtlich. Aber mehr erfahren wir nur, wenn wir der Sache nachgehen", erklärt Aloth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Bitte, [Player Name]! Vielleicht ist es nichts. Aber wenn es tatsächlich ein Schiff des Bleiernen Schlüssels ist, könnten sie uns vielleicht in die Richtung der Geschminkten Masken weisen." 
+
+Aloth runzelt die Stirn und dreht das Fernrohr in den Händen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Zu schade. Aber wir haben wichtigere Probleme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Und wenn wir die Sache jetzt nicht untersuchen, kann niemand vorhersagen, wohin das Schiff treiben wird. Oder wer es zuerst entdeckt und betritt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Aloth sagt kein Wort, beobachtet jedoch scharf das Schiff, als du daran vorbei segelst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du ziehst dein Fernrohr hervor und betrachtest dadurch das Symbol. 
+
+Es ist sehr grob gezeichnet, doch es könnte eine Kriegskeule darstellen. Oder ein Schwert.
+
+Oder einen Schlüssel.
+
+Du bemerkst keinerlei Bewegung, mit Ausnahme des flatternden Segels und der sich bewegenden Seile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Mir sieht das nach der Kriegskeule der Wahaki aus. Sie bringen das Zeichen auf den Schiffen an, die sie überfallen haben, um andere zu warnen, glaube ich." 
+
+Tekēhu verschränkt die Arme und erschauert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Vielleicht. Dennoch ist es einen eingehenderen Blick wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

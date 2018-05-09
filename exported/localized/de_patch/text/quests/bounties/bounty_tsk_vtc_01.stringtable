@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_vtc_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Biakara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Biakara&lt;/b&gt; und nimm den Triumph ihres Schiffes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Aenia&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Aenia hat mich damit beauftragt, Biakara, den Huana-Kapitän des Erkundungsschiffs [SHIP NAME], niederzustrecken. Wenn ich beweisen kann, dass ich den Kapitän getötet habe, werde ich ein Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Biakara&lt;/b&gt; segelt auf der &lt;b&gt;Schuppe von Tangaloa&lt;/b&gt; vor der &lt;b&gt;nordwestlichen Küste Hasongo&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich kann Biakaras Kopfgeld kassieren. Ich kann zu &lt;b&gt;Aenia&lt;/b&gt; vor dem &lt;b&gt;Hauptquartier der vailianischen Handelsgesellschaft&lt;/b&gt; am Ankerplatz der Königin in Neketaka zurückgehen und meine Belohnung einfordern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Biakara ist tot, und ich habe das Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

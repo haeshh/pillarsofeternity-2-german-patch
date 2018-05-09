@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_magrans_teeth\10_bs_rathun_aid_raider</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Wir werden mit dem heiligen Reif zurückkehren, Drottigr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Haltet Schritt, wenn ihr könnt, Gestandene."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Dieser Schänder hat selbst unsere eigenen Tiere gegen uns aufgebracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Die Priesterin und der Reif erwarten euch im Inneren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Seid auf der Hut, dass ihr nicht in die Lava tretet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Meinesgleichen, niedergestreckt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Nimm den Reif an dich, Gestandener. Du hast dir diese Ehre verdient."</DefaultText>
+      <FemaleText>"Nimm den Reif an dich, Gestandene. Du hast dir diese Ehre verdient."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Drottigr, wir kommen siegreich zurück. Und zumal durch einen Gestandenen!"</DefaultText>
+      <FemaleText>"Drottigr, wir kommen siegreich zurück. Und zumal durch eine Gestandene!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Gott oder nicht, der Schänder wird hierfür sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Lebst du noch immer, Gestandener? Ah, gut."</DefaultText>
+      <FemaleText>"Lebst du noch immer, Gestandene? Ah, gut."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Tot ... ? Nein, das kann nicht sein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Möge Magran sich an deiner Seele laben, du verräterische Kreatur!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich muss dies auf der Stelle Drottigr melden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich werde deine betrügerische Existenz ihrem Ende zuführen, Gestandener!"</DefaultText>
+      <FemaleText>"Ich werde deine betrügerische Existenz ihrem Ende zuführen, Gestandene!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

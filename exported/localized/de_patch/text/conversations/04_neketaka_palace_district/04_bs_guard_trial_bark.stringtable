@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_bs_guard_trial_bark</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Die untere Tür, Wächter. Sie erwarten dich im Thronsaal."</DefaultText>
+      <FemaleText>"Die untere Tür, Wächterin. Sie erwarten dich im Thronsaal."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

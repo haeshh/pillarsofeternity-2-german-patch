@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_vtc_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Desiwa der weibliche Hai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Desiwa den weiblichen Hai&lt;/b&gt; und nimm den Triumph ihres Schiffes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Aenia&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Aenia&lt;/b&gt; hat mich damit beauftragt, &lt;b&gt;Desiwa den weiblichen Hai&lt;/b&gt;, den rauataianischen Kapitän der Dhau &lt;b&gt;Schwarzspitze&lt;/b&gt;, zur Strecke zu bringen. Wenn ich beweisen kann, dass ich den Kapitän getötet habe, werde ich ein Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Desiwa der weibliche Hai&lt;/b&gt; segelt mit ihrer &lt;b&gt;Schwarzspitze&lt;/b&gt; in den Gewässern &lt;b&gt;südlich von Sayuka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Das Kopfgeld auf Desiwa dem weiblichen Hai gehört mir. Ich kann zu &lt;b&gt;Aenia&lt;/b&gt; vor dem &lt;b&gt;Hauptquartier der vailianischen Handelsgesellschaft&lt;/b&gt; am Ankerplatz der Königin in Neketaka zurückgehen und meine Belohnung einfordern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Desiwa die Zähne gezogen und dafür das Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

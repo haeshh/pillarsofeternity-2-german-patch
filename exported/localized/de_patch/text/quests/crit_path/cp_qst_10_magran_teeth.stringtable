@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crit_path\cp_qst_10_magran_teeth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Er wartet im Feuer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dich mit Eothas im Aschgrauen Rachen treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die untere Brücke erreichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Einen Weg durch die Zerklüftete Festung zu Eothas finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Eldrekans Wendelring besorgen, um Magrans Schrein in die Zerklüftete Festung gelangen zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Magrans Schrein entzünden, um die Adrasäule in den Tiefen des Aschgrauen Rachens erreichen zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Mit Eothas reden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Den Wendelring zu Magrans Schrein in der Zerklüfteten Festung bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich habe in den Ruinen von Hasongo mit Eothas gesprochen, aber konnte ich von seinem Vorhaben nicht abbringen. Er bat mich, ihn bei einer Säule aus leuchtendem Adra auf einer Vulkaninselkette namens Magrans Zähne zu treffen. Wenn ich mehr über seine Absichten erfahren möchte, werde ich ihn wohl dort aufsuchen müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Eothas lud mich ein, im Aschgrauen Rachen in Magrans Zähnen weiterzureden. Magrans Zähne sind eine Kette Vulkane, die sich aus den nördlichsten Meeren des Todesfeuers erheben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Eothas saugt Essenz aus einer Säule leuchtenden Adras im Zentrum eines Vulkans namens Aschgrauer Rachen ab. Ich muss tiefer in den Vulkan hinabsteigen, wenn ich ihn treffen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich bin näher an Eothas dran, aber ich kann keinen klaren Weg zur Adrasäule in der Mitte des Rachens erkennen. Ich werde in der Festung der Rathun, die Zerklüftete Festung, danach suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ein Magran-Schrein im hinteren Teil der Zerklüfteten Festung führt zum Adraturm, von dem Eothas speist. Damit der Schrein richtig funktioniert, braucht man den Wendelring von Eldekan, einer Reliquie, die Magran gewidmet ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe den Wendelring von Eldekan an mich gebracht. Die Reliquie sollte den Magran-Schrein der Zerklüfteten Festung in den Rachen hinunterlassen, und somit den Weg zu Eothas ebnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe den Magran-Schrein in das Innere des Vulkans herabgelassen. Jetzt kann ich dem Gott entgegentreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Der Feuerwendelring, den ich bei einer Leiche einer Priesterin gefunden hatte, könnte mit dem Magran-Schrein im Inneren der Zerklüfteten Festung in Verbindung stehen. Ich sollte den Wendelring zum Schrein bringen, um deren Verbindung weiter auszuloten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Eothas beabsichtigt, irgendwo in Magrans Zähnen seine Macht wiederherzustellen; zweifellos durch eine große Ader leuchtenden Adras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Als Eothas den Aschgrauen Rachen stürmte, entzog er vielen Rathun ihre Seelen. Die Rathun sind eine Glaubensgemeinschaft, die aus Magranit-Feuerriesen besteht und im Vulkan leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Die Rathun waren entschlossen, Eothas bis zum bitteren Ende zu bekämpfen. Gegenwärtig planen sie einen zweiten Angriff aus dem Inneren ihrer Feste, der Zerklüfteten Festung, heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Mit dem Kriegsherrn der Rathun, dem Drottigr, in seiner Zerklüfteten Festung zu sprechen gibt mir vielleicht Zugang zu Eothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Die Rathun bereiten gerade einen Angriff auf Eothas von der Zerklüfteten Festung aus vor. Bevor sie damit anfangen, erwarten sie die Rückkehr ihrer Priesterin, der Brengodi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Gewaltige Erdstöße erschüttern das Fundament des Rachens. Der Vulkan wird immer aktiver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Der Magran-Schrein in der Zerklüfteten Festung ist ein Tor. Eines, das unter Verschluss gehalten wird, um die Adrasäule in den Tiefen des Rachens zu beschützen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Die Priesterin der Rathun, die Brengodi, trägt den Wendelring von Eldekan, der den Schrein entzünden kann. Jedoch hat sie sich in den Hort der Uralten gewagt, um dessen Unterstützung gegen Eothas zu gewinnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ein Drache hat die Brengodi der Rathun angegriffen und getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Der Drache, Jadaferlas die Uralte, weigert sich, Eothas auf Seiten der Rathun zu bekämpfen. Sie erlaubt mir jedoch, den Wendelring von Eldekan von der Leiche der Brengodi zu nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Der Drottigr segnete mich mit einem Schutzzauber gegen das Feuer und die Ausdünstungen, die den Hort der Uralten füllen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Jadaferlas die Uralte hat angedeutet, dass sich das Mittel zum Öffnen eines Weges zu Eothas bei der Priesterin der Rathun befinde – oder was von ihr übrig ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Die Brengodi trug einen heiligen heiliger Wendelring, als sie und mehrere ihrer Rathun-Krieger getötet wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Der Magran-Schrein in der Zerklüfteten Festung fungiert anscheinend als Aufzug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Ich habe einen magischen Wendelring gefunden, auf dem das Symbol von Magran prangt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Eine Hängebrücke westlich der Zerklüfteten Festung führt zum Hort der Uralten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Ich konnte in Erfahrung bringen, dass Magrans Zähne eine Kette Vulkane entlang der nordöstlichen Küste des Todesfeuers sind. Königin Onekaza II. hätte vielleicht die Lage des Aschgrauen Rachens gekannt, aber ich bin jetzt in keiner Position, sie zu fragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Eothas geht zu Magrans Zähnen, einer Kette Vulkane entlang der nordöstlichen Küste des Todesfeuers. Ich wurde gebeten, diese Information an Königin Onekaza II. in Neketaka zu melden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>Ich habe den Standort des Aschgrauen Rachens auf meiner Karte eingezeichnet. Er ist der größte Vulkan innerhalb einer Kette Vulkaninseln mit dem Namen Magrans Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe mit Eothas gesprochen. Ich konnte ihn nicht von seinem Plan, das Rad in Ukaizo zu zerstören, abbringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Eothas steht im Zentrum des Aschgrauen Rachens, dem größten Vulkans in Magrans Zähneen, vor einer Säule leuchtenden Adras. Der Gott saugt scheinbar die Essenz aus der Säule ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

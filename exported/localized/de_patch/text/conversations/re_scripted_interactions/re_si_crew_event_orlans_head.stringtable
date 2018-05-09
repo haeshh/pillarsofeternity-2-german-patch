@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_orlans_head</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du überprüfst die Fracht im Laderaum, als dich das Geräusch von Flüstern und gedämpftem Lachen tiefer in die Dunkelheit zieht. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Magrans Titten!" [Specified 0] macht mit beschwichtigender Geste einen Schritt zurück. "Entschuldigung, Kapitän! Dachte nicht, dass hier irgendwer sein würde! Schon gar nicht der Kapitän!"
+
+Wenig subtil lässt [Specified 1] einen zweiten Dolch in seiner Tasche verschwinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Du läufst um einen Stapel Kisten und siehst [Specified 0] und [Specified 1], wie sie eine Runde Orlanerkopf spielen.
+
+[Specified 0] salutiert. "Ahoi, Kapitän. Wir spielen gerade Orlanerkopf. Lust, eine Runde mitzuspielen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Was zur Hölle ist Orlanerkopf?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Sicher, ich spiele eine Runde mit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Hört mit dem Schwachsinn auf und macht euch nützlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Vielleicht nächstes Mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Also, Kapitän, man schnitzt sich einen Orlaner in den Mast, so wie hier." [Specified 1] grinst und zeigt auf eine grob geschnitzte Figur mit ulkig großen Ohren und der Nase eines Hasen. "Dann wirft man Dolche darauf. Die Teile des Orlaners bringen unterschiedlich viele Punkte, da manche schwerer zu treffen sind als andere. Die Nase zum Beispiel ist richtig viele Punkte wert!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Fantastisch!" [Specified 1] tritt einen Schritt zurück. "Ich setze diese Runde aus, mein Geld ist mir doch zu wichtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Was geht hier vor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Wie auch immer. Passt nur auf, dass ihr keine Sachen trefft, die wir noch verkaufen wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Als du durch den Laderaum zurückläufst, hörst du hinter dir wieder Dolche ins Holz splittern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 0] schluckt. "Orlanerkopf, Kapitän." 
+
+[Specified 0] kichert mit beschwichtigender Geste. "Es ist nur ein Name. Versuchen Sie's doch mal, wenn Sie möchten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 0] kichert, holt einen Dolch hervor, hebt ihn hoch und zielt übermäßig lange, bevor der Dolch schließlich in Richtung des 'Orlaners' segelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 1] wird ganz blass, während [Specified 0] stramm steht. "Aye aye, Käpt‘n!" stammeln sie nacheinander vor sich hin.
+
+“Entschuldigung, Käpt‘n.” [Specified 0] verbeugt sich. “Wir hatten keine bösen Absichten. Wir, äh, wir machen uns dann mal auf in die Kombüse.”
+
+Die beiden verziehen sich eilig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Der Dolch trifft die [OrlansHeadGame_OpponentLastResult] des Orlaners und [Specified 1] kichert. “Das wären [OrlansHeadGame_OpponentLastScore] Punkte für [Specified 0], Käpt'n. Denkst du, du kannst das überbieten?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Auf die Ohren des Orlaners zielen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Auf die Nase des Orlaners zielen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Du schleuderst den Dolch, welcher sich mit einem stumpfen Geräusch tief in die [OrlansHeadGame_PlayerLastResult] des Orlaners bohrt.
+
+“Ein Treffer, Käpt'n! Das macht [OrlansHeadGame_PlayerLastScore] Punkte für dich!”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>“Vielleicht sollten wir die Dolche lieber auf die Hände werfen.”
+
+Serafen verschränkt die Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>“Das war hoffentlich nicht für mich gedacht, Käpt'n. Es gibt schlechtere Wege, sich als Seemann die Zeit zu vertreiben, als ein bisschen die Wurfkünste zu schulen.”
+
+Serafen sieht zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Specified 0] neigt den Kopf zur Seite.
+
+“Aber die Schnitzerei hat gar keine Hände.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Specified 1] reibt die Handflächen zusammen. Das Endergebnis lautet also: [OrlansHeadGame_OpponentTotalScore] für [Specified 0], und [OrlansHeadGame_PlayerTotalScore] für den Käpt'n. Sieht aus, als hätte unser Käpt‘n gewonnen!”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Specified 1] klopft [Specified 0] auf die Schulter. "Und das wär’s! Der Käpt'n hat sich [OrlansHeadGame_PlayerTotalScore] Punkte erkämpft, aber [Specified 0] hier hat stolze [OrlansHeadGame_OpponentTotalScore] erworfen!”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Specified 1] applaudiert grinsend. “Unentschieden mit [OrlansHeadGame_PlayerTotalScore] Punkten. Der nächste Wurf entscheidet!”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Specified 0] zieht den Dolch heraus und wischt die Klinge am Hosenbein ab, bevor sie mit dem Griff voran in deine Hände weitergegeben wird. “Du bist dran, Käpt'n. Sehen wir mal, wie du dich gegen den fürchterlichen Orlaner schlägst.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Specified 0] lacht vor sich hin, schüttelt den Kopf und reicht dir eine Geldbörse. “Gutes Spiel, Käpt'n. Danke. Nächstes Mal kriege ich dich dran, alles klar? Jetzt sollten wir erstmal wieder auf unsere Posten.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Sicher, ich spiele eine Runde mit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Sicher, ich spiele eine Runde mit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Sicher, ich spiele eine Runde mit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>“Wollt ihr Idioten jemanden umbringen?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Einfach weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>“Aye aye, Sir!” [Specified 0] salutiert. “Aber nicht doch.”</DefaultText>
+      <FemaleText>"Aye-aye, Ma'am!" [Specified 1] zieht den Hut. "Aber nicht doch."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Specified 0] reibt sich den Hinterkopf. “Wir haben nur eine Runde Orla--”
+
+[Specified 1] unterbricht den Satz mit einem schnellen Ellbogenstoß.
+
+“Uff!”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>“Eine Runde &lt;i&gt;was?&lt;/i&gt;”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>“Aye, die zeitlose Seefahrer-Tradition, hirnlosen Schwachsinn zu treiben.”
+
+Serafen reibt sich über den Nasensteg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Der Dolch steckt im Mast, aber ging vollkommen am Orlaner vorbei. [Specified 0] schlägt nur die Hände vor dem Gesicht zusammen, während [Specified 1] genüsslich lacht. “He Käpt'n, das zu überbieten sollte dir nicht schwerfallen!”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>“Natürlich ohne dich damit beleidigen zu wollen, Käpt‘n.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Versuchen zu betrügen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Die Besatzungsmitglieder scheinen deine trügerischen Bewegungen nicht zu bemerken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>“Ach komm schon, Käpt‘n!” nörgelt [Specified 1] laut. “Das war ein freundschaftliches Spiel! Da muss man doch echt nicht bescheißen, vor allem nicht, wenn man den dicksten Goldbeutel an Bord hat!”
+
+Der Seemann seufzt und wirft dir deinen Anteil an Münzen hin.
+
+“Bitteschön, wenn du so einen Stress machen musst ... Ich und [Specified 0] gehen dann wieder an die Arbeit.” 
+
+Die beiden schlurfen mit finsteren Blicken davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[Specified 1] zuckt zusammen. “Oh, Käpt'n, du weißt schon, dass du eigentlich auf den Orlaner zielen musst, oder? Wenigstens hast du den Mast getroffen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Specified 0] lächelt und schnappt sich den Geldbeutel. “Hoffentlich läuft’s beim nächsten Mal besser für dich, Käpt'n! Wir gehen jetzt wieder auf unsere Posten.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Du setzt einen Schritt nach vorne, lehnst deinen Körper etwas näher an das Ziel, als es eigentlich erlaubt ist, und lässt deinen Dolch durch die Luft sausen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Damit meine ich Hände, wie in alle Hände an Deck, also &lt;i&gt;dich&lt;/i&gt;, du tiefenbeschwipster Pockenhintern!"
+
+Serafen seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>“Oh ... Neee, wir sind viel zu groß, um vernünftige Zielscheiben zu sein, Serafen.”
+
+Der Seemann zuckt mit den Schultern und sieht dann zu seinem Kameraden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Könnten einen bisschen besseren Geschmack bei der Auswahl der Zielscheiben haben, wenn du mich fragst."
+
+Er grinst hämisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Du setzt einen Schritt nach vorne, lehnst deinen Körper etwas näher an das Ziel, als es eigentlich erlaubt ist, und lässt deinen Dolch durch die Luft sausen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Du setzt einen Schritt nach vorne, lehnst deinen Körper etwas näher an das Ziel, als es eigentlich erlaubt ist, und lässt deinen Dolch durch die Luft sausen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Du setzt einen Schritt nach vorne, lehnst deinen Körper etwas näher an das Ziel, als es eigentlich erlaubt ist, und lässt deinen Dolch durch die Luft sausen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Du spähst gerade um eine Kiste herum, als ein Messer vorbeifliegt und sich in eine Kiste hinter dir bohrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

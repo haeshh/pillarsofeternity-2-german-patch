@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_junvik_eoten_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du siehst, wie ein Eoten, der noch größer als gewöhnlich ist, den Weg zu einem Dorf in der Ferne versperrt. Er ist damit beschäftigt, sich mit sich selbst zu streiten und scheint dich bisher noch nicht bemerkt zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Dich dem Eoten nähern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Dich um den Eoten herumschleichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Der Eoten entdeckt dich - und greift sofort an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du schaffst es, einen Weg durch den Pass zu finden, der dich den Eoten unentdeckt umgehen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als du dich heimlich um den Eoten herum schleichst, rutschst du auf den sandigen Dünen aus. Sofort fährt einer seiner Köpfe herum und sucht nach der Quelle des Geräuschs, das du dabei verursacht hast. Er entdeckt dich. Der Eoten greift dich brüllend an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Als ihr euch heimlich um den Eoten herum schleicht, rutscht [SkillCheck 0] auf den sandigen Dünen aus. Sofort fährt einer der Köpfe des Eoten herum und sucht nach der Quelle des Geräuschs. Der Eoten greift brüllend an.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_rdc_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Assila Wellenskipper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Assila Wellenskipper&lt;/b&gt; nimm den Triumph ihres Schiffes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Wakoyo&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Wakoyo&lt;/b&gt; hat mich beauftragt, &lt;b&gt;Assila Wellenskipper&lt;/b&gt;, den Príncipi-Kapitän des Entdeckungsschiffs &lt;b&gt;Flussdrache&lt;/b&gt;, zu jagen. Wenn ich beweisen kann, dass ich den Kapitän getötet habe, werde ich ein Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Assila Wellenskipper&lt;/b&gt; kommandiert das Entdeckungsschiffs &lt;b&gt;Flussdrache&lt;/b&gt; und segelt in den Gewässern um eine Inselgruppe &lt;b&gt;südwestlich von Port Maje&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Assila Wellenskippers Kopfgeld steht nun mir zu. Ich kann zu &lt;b&gt;Wakayo&lt;/b&gt; in der &lt;b&gt;Messingzitadelle&lt;/b&gt; in Neketaka zurückkehren und meine Belohnung erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Assila hat seine letzte Welle genommen, und ich habe das Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

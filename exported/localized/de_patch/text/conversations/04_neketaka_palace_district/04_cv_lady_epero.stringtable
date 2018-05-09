@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_lady_epero</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Warum kommst du uneingeladen in mein Heim? Das ist mein Anwesen, nicht irgendeine Hütte am Strand." 
+
+Epero sieht dir in die Augen, während sie nach ihrer Waffe greift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich bin hier, weil auf dich ein Kopfgeld ausgesetzt wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich erforsche nur die Gegend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Gehen] "Entschuldigung, falsches Anwesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Du gibst diese Informationen so großzügig preis – ist das dein erstes Mal?" 
+
+Mit zusammengebissenen Zähnen stürmt sie vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ekera, und du bist gierig geworden. Das wird nicht noch einmal passieren." 
+
+Sie runzelt die Stirn und stürmt vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Der letzte Fehler, den du jemals begehen wirst, sage ich." 
+
+Zügig stürmt sie auf dich vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Meine Hunde zu töten war dein zweiter Fehler – und dieser kostet dich das Leben!" 
+
+Epero verschwendet keine Zeit, als sie ihre Waffe nimmt und auf dich zustürmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_quest_1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>143</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ahoi, Kapitän. Um die Wahrheit zu sagen, Furrante erwartet so halb, dass unsere Ärsche bei Fort Todeslicht aus dem Wasser geblasen werden. Zum Glück hab' ich diese Angewohnheit, es entgegen aller Wahrscheinlichkeit zu schaffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Später, sicher, sicher. Wir haben's nich' eilig, schnell wieder zum Herrn der Freizeit zurückzusegeln." Sein linkes Ohr zuckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wir haben einen Plan. Setzen wir ihn in die Tat um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was kannst du mir über Fort Todeslicht erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Du erwähntest, dass du Kontakte im Fort hast. Können wir uns auf ihre Hilfe verlassen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Hast du einen Plan, wie wir in das Fort gelangen können?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ursprünglich von Vailianern gemacht. Haben es vor ein paar Jahrhunderten Stein für Stein aufgebaut, es aber aufgegeben, als die Fischmänner sie nicht in Ruhe gelassen haben. Schwer zu verteidigen, wenn dir Wilde unter deinem Hintern hervorkrabbeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich habe 'Kontakte' gesagt, oder?" 
+
+Serafen reibt sich den Hinterkopf, als er auf einmal ein geschäftiges Interesse an seinen Stiefeln entwickelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Später vielleicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Moment, vielleicht habe ich doch einen Plan aus diesem haarigen blauen Po gezogen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Wenn ein Bild je Vertrauen hervorgerufen hat ..." Er schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Man sagt, dass sie seitdem keinen Deserteur mehr hatte. Ein bisschen grausam für meinen Geschmack, aber ich bewundere das Wortspiel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Was weißt du über Aeldys?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Weißt du etwas über die Verteidigungsmöglichkeiten des Forts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Lass uns später darüber reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sie ist verdammt auf Zack ... was Mund, Verstand und Gehör gleichermaßen angeht. Ist von Dyrwald oder Aedyr aus losgesegelt. Kennt ihre Knoten und weiß, wie man ein Schiff bemannen muss, um die Stimmung nie umkippen zu lassen. Ihr Worte finden inmitten der Príncipi Gehör, und das öfters, als man es bei Frischlingen wie ihr denken könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Willst du damit sagen, dass dein hilfreicher 'Kontakt' dein Ex-Liebhaber ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ein Teil davon ist ihr erbitterter Einsatz für die Freiheit – von Sklavenhändlern, von den Reichen, sogar vom Kastensystem der Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Sollten sich die Príncipi nicht um Aeldys kümmern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Viele der alten Garde sind leider ausgestorben und das neue Blut, das hereinströmt, ist ... weniger von der friedlichen Sorte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Warum bist du enttäuscht von der alten Garde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>“Scheiße, Kapitän. Kauf einem Mann etwas zu trinken, bevor du in seinen unaussprechlichen Gedanken rumwühlst."
+
+Er lächelt, doch seine Daumen sind in seinem Gürtel verhakt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Das Lustige an der Tatsache, dass es ein Fort is', besteht darin, dass es kein Schiff is'. Das bedeutet, dass es sich nich' um das Gewicht von Kanonen oder die Lagerung von lärmenden großen Bällen sorgen muss. Die Geschütze, die sie dort auf den Zinnen der Burg haben, reißen dir ein Loch in dein Deck, bevor du überhaupt Land gesehen hast." 
+
+Er seufzt und stößt mit seinem Stiefel gegen den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Das Fort ist von oben bis unten voll von Rum-versifften Dummköpfen, das macht es also einfach für uns, aber Aeldys sorgt dafür, dass die Mannschaft auf den Mauern wachsam und nüchtern is'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Du fragst mich nach einem Plan? Ich bin ganz einfach neugierig darauf, mitanzusehen, wie der berühmte Wächter von Caed Nua das Undurchdringliche durchdringt."</DefaultText>
+      <FemaleText>"Du fragst mich nach einem Plan? Ich bin ganz einfach neugierig darauf, mitanzusehen, wie die berühmte Wächterin von Caed Nua das Undurchdringliche durchdringt."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Egal wie sie über mich denkt, sie und Benweth hassen sich, das is' verdammt sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"So wie ich es sehe, haben wir eine Option oder zwei, die irgendwo zwischen extrem gefährlich und absurd selbstmörderisch liegen. Sag du mir also, Käpt'n, was is' deine bevorzugte Vorgehensweise bei eigentlich unlösbaren Problemen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Wenn man die Mauern durchbricht, muss man sich immer noch mit den Wachen herumschlagen, und dazu noch einem Haufen Piraten in unterschiedlicher Trunkenheit. Und wahrscheinlich auch Kleidung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Um einen Platz zu finden, an dem man an Land gehen kann, ohne entdeckt zu werden, brauchen wir schon Hyleas Augen selbst ... oder ein Fernrohr. Du hast ein Fernrohr, hoffe ich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Um eine Feier ordentlich hochgehen zu lassen, sollte man sich selbst eine Einladung ergaunern. Und sich dann so anziehen, dass man Eindruck macht." 
+
+Er streckt die Brust heraus, seine Daumen sind im feinen Stoff seines Hemds festgehakt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Nun, die Kapitäne der Príncipi geben ihre Flaggen nicht nur für ein paar Münzen her."
+
+Er kratzt sich den Rücken, sein Kopf ist zu einer Seite geneigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich bevorzuge es, mich den Problemen kühn und geradeheraus zu stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Raffinesse funktioniert für mich am besten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich bin einfach gerissener als meine Gegner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich möchte über etwas anderes reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Meine Ohren sind gespitzt, Kapitän." Seine großen Ohren zucken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ich habe ein Fernglas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ich habe kein Fernglas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Hast du kein Fernglas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Perfekt! Wann auch immer du bereit bist, setz den Kurs auf Festung Todeslicht und wir klügeln einen Plan aus, wie wir dort reinkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Dann lass mich dir empfehlen, dass du das änderst, Kapitän. Ein gutes Fernrohr ist wie ein guter Liebhaber – zeigt dir die Teile, die du ansonsten nicht sehen würdest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Sicher, hatte ich. Dann hab ich den Fehler gemacht, es Furrante zu leihen. Hat anscheinend vergessen, dass es nicht ihm gehört." 
+
+Ein leises Knurren baut sich unterhalb seiner Nörgelei auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Hab ihm das S gezeigt, das ich hineingeschnitzt hatte, und er dreht sich um und erzählt mir, es stünde für 'Spionagerohr'. Daraus kann man eine wichtige Lektion lernen: Wenn man etwas auf See mitnimmt, muss man es wirklich gut festhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Todeslicht ist eine harte Nuss zum Knacken, aber wofür sind Nüsse da, wenn nicht zum Knacken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Lass uns einen anderen Plan besprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Lass uns frontal angreifen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Wir könnten uns hineinschleichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ich schätze, das verlangt nach einem schlauen Vorgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Eigentlich ist unser aktueller Plan ganz gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Will dir nich' dein Geschäft erklären, Käpt'n, aber wenn wir nich' das Segel nach Todeslicht setzen, beendet Benweth seine Reparaturen und zieht den Anker hoch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Lass uns den Plan zum Eindringen in Fort Todeslicht noch einmal durchgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Aye, Kapitän. Ich freu mich drauf, dir bei der Arbeit zuzusehen."
+
+Er reibt seine Handflächen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Wie schwer kann es denn sein, eine Flagge zu kaufen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Dann greifen wir ein Príncipi-Schiff an und kapern ihre Flagge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Kanonenkugeln mit meinen Príncipi-Kameraden auszutauschen würd ich nich' als meine Lieblingsidee bezeichnen, aber man muss tun, was man tun muss, Käpt'n."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ahoi, Kapitän. Ich muss dir etwas gestehen und jetzt passt es zeitlich so gut wie sonst auch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Was denn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ich habe jedenfalls nicht gegen einen geständigeren Serafen einzuwenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Jetzt passt es zeitlich gut? Wirklich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"In Ordnung, ich verstehe. Wir werden in einer Festung voller gesetzesloser Typen sein, die uns umbringen, sobald sie uns zu Gesicht kriegen. Aber hör mir zu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"So sehr ich Benweth auch hasse, der Hauptgrund, warum ich bei dir angeheuert habe, war, hierher zu gelangen, um die Möglichkeit zu haben nach einem Mann namens Remaro zu suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Wer ist Remaro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Du meinst, dass er in Fort Todeslicht ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Du kannst in deiner Freizeit nach ihm suchen. Wir sind wegen Benweth hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Das wär eine längere Geschichte, für die wir keine Zeit haben. Remaro steckt in Schwierigkeiten, um es kurz zu sagen. Die Príncipi haben einen Schiffsjäger auf ihn angesetzt und ich würde ihn gerne zuerst finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Hab sein Schiff nicht gesehen, also wahrscheinlich ... Aber vielleicht könnten wir ein Auge nach Hinweisen auf seinen Aufenthaltsort aufhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Okay, dann lass uns die Augen offenhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Aye-aye, Kapitän Wächter." 
+
+Serafen salutiert zackig und mit zusammengekniffenen Augen, danach schweigt er.</DefaultText>
+      <FemaleText>"Aye-aye, Kapitän Wächterin." 
+
+Serafen salutiert zackig und mit zusammengekniffenen Augen, danach schweigt er.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"'Tschuldigung, Kapitän, dass ich nich' offener war. Remaro ist für mich wie ein Teil meiner Familie und ich wusste nich', ob du auch so eine Bilgenpumpe bist. Ich kenn die ein oder andere Bilgenpumpe, weißt du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Warum hast du mir bisher nichts von Remaro erzählt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Es gibt nichts, für das du dich entschuldigen müsstest. Familie ist wichtig. Zusammen werden wir Remaro finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Danke, Kapitän. Ich weiß das zu schätzen, wirklich."
+
+Er strahlt und legt eine geschlossene Faust über sein Herzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Was haben wir denn hier? Ich glaube, ich erkenne diese verdammte Truhe." Er kniet neben der Truhe nieder und streicht mit den Händen darüber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Sind da Hinweise drin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Beeil dich bitte, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Er klappt den Deckel auf, doch die Truhe ist leer. Serafen scheint jedoch nicht enttäuscht zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Lieber S – das bin ich! – ich wusste, du würdest mich suchen. Bitte lass an dieser Stelle davon ab. Ich habe mich selbst in diese Zwangslage gebracht und mir wäre es lieb, wenn du dir ihr Gewicht nicht auch noch an die Knöchel hängst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Was meinst du mit 'Magische Gewässer'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Tiefblick] "Anscheinend stand in dem Brief noch mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Weißt du, wer Udyne ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Aye, da stehen noch ein Wort oder zwei, sind aber für uns nicht nützlich."
+
+Er faltet den Brief zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Nein, Kapitän, das ist endgültig vorbei. Ich habe auf jeden Fall das erhalten, wegen dem ich gekommen bin, vielen Dank."
+
+Serafen faltet den Brief schnell zweimal und stopft ihn dann in eine tiefe Tasche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Den Brief nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Du musst es mir nicht erzählen. Das ist zwischen dir und Remaro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Du reißt Serafen den Brief aus der Hand. Er sieht einen Moment lang erschrocken und wütend aus, schürzt dann aber die Lippen und holt Luft. Er dreht dir den Rücken zu.
+
+Am Ende des Briefes steht: 
+
+&lt;i&gt;Ich wünsche dir ein langes und glückliches Leben. Du trägst alles bei dir, was ich geben konnte. Auch wenn mein Vermächtnis ansonsten in Schande versunken ist, sei gewiss, dass du die Ausnahme bleibst. 
+
+Leb wohl, R&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Serafen lächelt schwach und nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Jetzt haben wir erst mal Rauben und Plündern vor uns, aye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Kapitän Aeldys hat es mehrere Jahre zuvor beansprucht. Verdammt schmutzig vom Bug zum Heck, und sie hat ihre Mädels und Jungs monatelang Fischscheiße von den Brettern schrubben lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ein paar von ihnen dachten, dass es besser wäre, woanders anzuheuern und sind in der Nacht abgehauen. Aeldys hat sie blitzschnell aufgespürt, ihnen die Köpfe abgeschlagen und sie in kleine Laternen gesteckt, mit denen sie das vordere Tor dekorierte. Hat sie die Totenlichter von Fort Todeslicht genannt." 
+
+Seine Nase zuckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Kann nich' behaupten, dass ich ihren fehlenden Respekt für unsere Traditionen gutheiße, aber auch nich', dass ich ihre Verärgerung über Furrante und die alte Wache nicht teile." 
+
+Er fährt sich mit einer pelzigen Pfote über seinen geflochtenen Bart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Die Príncipi sind keine Flotte, eher eine Mischung aus stark unabhängigen Kapitänen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Viele von ihnen stehen zu den anderen wie Haie zu Kraken, wir werden aber durch den rutschigen Knoten der Tradition mit einander verbunden. Sogar diejenigen, die die Tradition locker auslegen, halten aus Schutz gegen unsere Feinde zusammen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Natürlich tue ich das mithilfe der guten alten Trickserei, eine Tradition. Und der wichtigste Teil jeder Prellerei? Ein solider Plan! Tja, das und das Überleben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Habe vermutlich, äh, die Laken vor ein paar Monaten ziemlich aufgeschüttelt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Vielleicht gibt es einen Weg, sich hineinzuschleichen. Ich wette, wir können einen schattigen Ort finden, um ein Boot im Dunkel der Nacht anzubinden. Dann hoch die Mauern und darüber, so schnell wie wir können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Der Schwarzmarkt von Neketaka. Wenn es eine Príncipi-Flagge zu kaufen gibt, dann dort. Der Markt wird immer wieder auf- und abgebaut, um die Augen der königlichen Wache zu meiden. Wir müssen einfach den Ort finden, an dem er sich aktuell befindet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Wird schwierig sein, die Flagge im Kampf nich' zu beschädigen oder das Schiff aus Versehen zu versenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Wenn du dich in Gefahr befindest, such Udyne im Magischen Wasser auf. Sie kann helfen."
+
+Serafen wird still und starrt die Seite noch ein weniger länger an. Du hörst seinen stockenden Atem und er sieht auf, sein Gesichtsausdruck ist vorsichtig leer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Aber da du gefragt hast, gib mir eine Sekunde ..."
+
+Serafen macht eine Pause und denkt nach. Er streicht über einen seiner Bartzöpfe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Der Rest, ihre milde Hand. Tanze aus der Reihe, und Furrante lässt deine ganze Mannschaft zum Auspeitschen antreten. Aeldys aber ... Sie ist, hm, sagen wir mal, es gibt einen Grund, warum sie hinkende Typen wie Benweth anlockt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Du selbst findest vielleicht auch an ihr Gefallen, Käpt'n."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Lass es uns momentan beiseite schieben, ich meine, es gibt einen Weg, den man zwischen Anarchie und Tyrannei einschlagen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Kontakt wäre richtiger, im Singular. Ein Mädel mit dem Namen Syri. Bin die ganzen Jahre in den gleichen Kreisen, Flauten und Böen gefahren. Waren nie eine Familie, standen aber auch noch an den falschen Enden der Waffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Dein 'Kontakt' ist nur eine zufällige deiner Liebschaften?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Zufällig? Für wen hältst du mich, Kapitän?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Für einen Idioten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Die Geißel der Herzen in ganz Todesfeuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Nützlicher als du aussiehst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Vergiss es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Du verletzt mich, Käpt'n, das ging direkt ins Herz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Tja ... Ich kann nicht behaupten, dass du vollkommen falsch liegst ..." Er grinst und zeigt dabei großzügig Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Mächtig nett von dir, Kapitän, angesichts dessen, wie nützlich ich aussehe." Serafen zwinkert, seine Daumen sind in seinem Gürtel verhakt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Vergessen, mein Herr."</DefaultText>
+      <FemaleText>"Vergessen, meine Dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Das wäre das absurd selbstmörderische Vorgehen, das ich erwähnt habe. Ich vermute nich', dass ich dich dazu bringen kann, diese Idee hintan zu stellen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Aye, du bist der Kapitän, Kapitän." Er verzieht das Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Wenn du auf die direkte Vorgehensweise bestehst, kannst du den Lagerraum natürlich immer mit Pulver und Kugeln vollballern und hoffen, dass die Mauern der Festung vor deinem Bug nachgeben. Wir hoffen wir mal, dass du Brustschwimmen geübt hast, wenn du verstehst, was ich meine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Wenn du eine Herausforderung suchst, suchen wir vielleicht nach einem Katapult und schicken dich über die Mauer. Spart einem das erneute Reparieren des Schiffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Das war nicht die schlechteste Idee, die ich in den letzten Minuten gehört habe, Käpt'n."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Schätze mal, ich hatte nie ein gutes ... ähm, Fernrohr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Dann gib dich eben angemessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Aus Fort Todeslicht werden Einladungen verschickt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Auf was willst du hinaus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Nein, Kapitän werden sie nicht." Er reibt sich über den Nasensteg und seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Aye, Kapitän, vom Vorbau zum Heck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Sich angemessen zu geben bedeutet in diesem Fall, die Flagge zu hissen, die einen als Príncipi ausweist." 
+
+Sein linkes Ohr zuckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Muss dir wohl nicht sagen, wie gefährlich so ein Stück Stoff sein kann, wenn die falsche Person beobachtet, wie du es hisst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Ein anderer Ex?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Nein, Kapitän, aber mir gefällt, wie du denkst." 
+
+Er kichert leise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Serafen lässt den Kopf sinken und er kratzt an der Narbe an der Seite seiner Nase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Bei Ondras salzigem Busen, Remaro hat diese Truhe von einem Ende des Todesfeuers zum anderen geschleppt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Er greift in die Truhe und tastet herum, bevor er mit einem klickenden Geräusch belohnt wird. Ein falscher Boden gleitet aus der Truhe heraus, er enthält ein gefaltetes Blatt Pergament.
+
+Serafen nimmt es an sich und riecht daran, er atmet tief ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Was steht da"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Ah ja, der Geruch muffiger Piratennotizen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Serafen faltet den Brief auseinander, der Blick seiner großen gelben Augen gleitet schnell darüber. Er räuspert sich und beginnt zu lesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Aus Truhen wie dieser sind schon schlimmere Gerüche entwichen, Kapitän, das kannst du mir glauben."
+
+Er faltet den Brief auseinander, räuspert sich und beginnt zu lesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Serafen knurrt, fletscht die Zähne und hüpft von dir weg. Er schiebt den Brief in die Vorderseite seine Hosen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Ich kann Udyne nich' von Warzengrind unterscheiden, aber das Magische Wasser kenne ich wie meine eigene verdammten Westentasche. Als ich ein kleiner Bengel war und frisch auf der Zauberer, hat Remaro mich mit einem Besuch des Leuchtenden Badehauses in Neketaka belohnt."
+
+Er grinst, als er sanft Remaros Truhe schließt, eine Hand ruht auf dem polierten Holz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Das Wasser dort schimmerte wie das Morgengrauen auf der offenen See, und ich, voll von der poetischen Kreativität meiner Jugend, hab es Magisches Wasser genannt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Ich weiß, du schuldest mir keinen Gefallen, Kapitän, aber wenn wir diesem Badehaus einen Besuch abstatten würden, hätte ich nichts dagegen einzuwenden."
+
+Er zwinkert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Ich würde ein Eintauchen ins Bad nicht ablehnen. Aber alles andere, was er gesagt hat, war einfach schrecklich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Kann nich' behaupten, dass ich ihren fehlenden Respekt für unsere Traditionen gutheiße, aber auch nich', dass ich ihre Verärgerung über Furrante und die alte Wache nicht teile." 
+
+Er fährt sich mit einer pelzigen Pfote über seinen geflochtenen Bart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Ein Blasen ihrer Hörner und die Festung wäre so fest verschlossen wie aedyranisches Magranit. Wird auch so lange so bleiben, bis alle unbekannten Schiffe zu Kleinholz und noch weiter zerschossen wären."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

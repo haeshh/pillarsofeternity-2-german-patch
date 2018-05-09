@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_drake</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Pūrākau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Pūrākau&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Abocco&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein Jungdrache namens &lt;b&gt;Pūrākau&lt;b&gt; hat bei einer Oase nordwestlich der &lt;b&gt;Insel Maje&lt;b&gt; sein Nest aufgeschlagen, wo er Reisende, die auf der Suche nach Wasser und Ruhe sind, quält. Die Einheimischen haben ein großzügiges Kopfgeld auf ihn ausgesetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Pūrākau&lt;b&gt; hält sich nahe der Oase nordwestlich der &lt;b&gt;Insel Maje&lt;b&gt; auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich bin bereit, Pūrākaus Kopfgeld einzufordern. &lt;b&gt;Abocco&lt;b&gt; in der &lt;b&gt;Wilden Mähre&lt;b&gt; im Ankerplatz der Königin wird nur zu gern einen Beweis der Tötung sehen wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe dem Jungdrachen ein für alle mal die Flügel gestutzt und das Kopfgeld von Abocco kassiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

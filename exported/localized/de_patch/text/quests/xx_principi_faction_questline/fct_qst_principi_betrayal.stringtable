@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_principi_faction_questline\fct_qst_principi_betrayal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ehre unter Dieben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Aeldys im Fort Todeslicht zur Rede stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Mit Aeldys sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Zu Furrante im Freudenfeuer-Leuchtturm in Stauholz zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Aeldys‘ Schicksal entscheiden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Furrante besiegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Aeldys Furrantes Bedingungen unterbreiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Furrante aus dem Spiel nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Mit Aeldys sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Aeldys Seele lesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Furrante Aeldys' Bedingungen unterbreiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Mit Kapitän Furrante in Stauholz sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Mit Aeldys in Fort Todeslicht sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Mit Aeldys in Fort Todeslicht sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Furrante hat Aeldys der Verbrechen des offenen Widerstands, der Vernachlässigung, unverhältnismäßiger Gewalt und Verschwörung gegen die Príncipi bezichtigt. Das Kapitänskonzil hat für die Hinrichtung Aeldys' gestimmt, allerdings ist sie die einzige, die weiß, wie der Fliegende Henker beschworen werden kann – diese Informationen benötigt Furrante, bevor Aeldys aufgeknüpft werden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Furrante hat mir aufgetragen, die Hinrichtung von Kapitän Aeldys durchzuführen. Sie hat sich in ihrem Rückzugsort, Fort Todeslicht verschanzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Furrante glaubt, Aeldys habe Informationen dazu, wie der Fliegende Henker beschworen werden kann, zurückgehalten. Er braucht diese Informationen, bevor Aeldys für ihre Verbrechen gehängt werden kann. Sie ist auf der Spitze des Freudenfeuer-Turms im Freudenfeuer-Leuchtturm eingesperrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe gelernt, wie man den Fliegenden Henker beschwört, indem ich in Aeldys' Seele gelesen habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Aeldys hat ihre Forschungen zum Fliegenden Henker vernichtet. Solange sie diese Informationen nicht freiwillig mit mir teilt, kann ich sie ihr nur entlocken, indem ich nach ihrem Tod in ihrer Seele lese.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe Aeldys von den Wachen befreit, die sie auf der Spitze des Freudenfeuer-Turms im Freudenfeuer-Leuchtturm gefangen hielten. Nur Furrante und seine loyalen Konzilmitglieder stehen uns im Weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Furrante ist willens, Aeldys eine mildere Strafe zu gewähren – das Exil anstelle der Todesstrafe – wenn sie Informationen zum Fliegenden Henker herausgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Aeldys ist bereit, mit mir zusammenzuarbeiten, um den Fliegenden Henker zu kontrollieren. Zuerst muss ich Furrante loswerden. Der Kapitän führt die Príncipi von seinem Fort im Freudenfeuer-Leuchtturm in Stauholz an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Es kam zu einem gewaltsamen Ende. Jetzt, wo Furrante und seine Besatzung erledigt sind, sollte ich mit &lt;b&gt;Aeldys&lt;/b&gt; sprechen und sie wissen lassen, dass sie frei ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Aeldys wurde für ihren Verrat hingerichtet. &lt;b&gt;Furrante hat mich gebeten, nach ihrem Tod in ihrer Seele zu lesen, um Informationen zum &lt;b&gt;Fliegenden Henker&lt;/b&gt; herauszufinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Aeldys hat zugestimmt, Clussas Reise im Tausch gegen ihr Wissen zu akzeptieren. Hoffentlich wird Furrante diesen Bedingungen zustimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Der Anführer der Príncipi hat mich zu einem Treffen im Freudenfeuer-Leuchtturm in Stauholz gebeten. Etwas, das für die Príncipi von äußerster Wichtigkeit ist, hat stattgefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Ich habe mich auf meine Weise um Furrante gekümmert. Der alte Anführer des Konzils hat keinen Einfluss mehr auf die Príncipi. Sobald ich ihr die Situation schildere, wird Aeldys die Führung übernehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>Ich habe mich auf meine Weise um Furrante gekümmert. Der alte Anführer des Konzils hat keinen Einfluss mehr auf die Príncipi. Sobald ich ihr die Situation schildere, wird Aeldys die Führung übernehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Aeldys ist davon überzeugt, dass Furrante niemals zurücktreten wird, sobald seine Macht unanfechtbar ist. Sie schlägt vor, sie zu befreien und den Kampf ein für allemal zu Furrante zu tragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Aeldys hat angeboten, Clussas Reise im Tausch gegen Informationen zum Fliegenden Henker anzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe &lt;b&gt;Furrante&lt;/b&gt; davon überzeugt, &lt;b&gt;Aeldys&lt;/b&gt; &lt;b&gt;Stauholz&lt;/b&gt; lebend auf Clussas Reise verlassen zu lassen, insofern sie davon erzählt, wie der &lt;b&gt;Fliegende Henker&lt;/b&gt; beschworen werden kann, und nie wieder unter der Flagge der Príncipi segelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Aeldys ist bereit, ihr Wissen preis zu geben, insofern Furrante von seiner Position im Kapitänskonzil zurücktritt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe versucht, Aeldys zu überzeugen, aber es ist mir nicht gelungen. Solange Furrante alles in der Hand hat, würde sie lieber sterben, bevor sie ihr Wissen preisgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe die Sache selbst in die Hand genommen und Aeldys getötet. Danach hat ihre Seele mir offenbart, wie sich der Fliegende Henker beschwören lässt: mit einem Darcozzi-Schwur, der auf hoher See über dem Schwert ausgesprochen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>In Hinblick auf die Taten, die Aeldys zur Last gelegt wurden, ließ Furrante sie hinrichten. Jegliche Meinungsverschiedenheiten unter den Príncipi wurden so ausradiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich konnte Hinweise dafür finden, dass Furrante mit den Sklaventreibern unter einer Decke steckt – ein Verbrechen, das die Príncipi mit der Todesstrafe ahnden. Mithilfe dieses Wissens konnte ich die Príncipi davon überzeugen, Furrante anstelle von Aeldys hinrichten zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Angesichts der Vorwürfe, die gegen sie erhoben werden, konnte ich Aeldys davon überzeugen, dass die sicherste Methode, ihre Ehre wiederzuerlangen, darin besteht, sich auf Clussas Reise dem Sturm zu stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Angesichts der Beweise für Furrantes Verrat hat er zugestimmt, seinen Posten an der Spitze der Príncipi aufzugeben, solange die Wahrheit niemals ans Licht kommt. So kann Aeldys die Führung des Kapitänskonzils übernehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe entschieden, Aeldys' Leben ein Ende zu setzen. Jetzt kann Furrante die Príncipi ohne weitere Störungen anführen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich habe entschieden, Furrantes Leben ein Ende zu setzen. Aeldys kann nun die Kontrolle über das Kapitänskonzil übernehmen und die Príncipi im Todesfeuer anführen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich habe entschlossen, sowohl Aeldys als auch Furrante zu töten, und damit das Schicksal der Príncipi besiegelt, die nun ohne Anführer dastehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Ich habe Aeldys am Freudenfeuer-Leuchtturm zurückgelassen, nachdem ich mich entschloss, ihr zu helfen. Furrante wird über unsere Taten nicht erfreut sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Der Zwist zwischen Furrante und Aeldys hat sich zugespitzt, und Furrante fordert nun, dass Aeldys sich für ihre Verbrechen gegen die Príncipi verantworten muss. Ich soll für ihre Hinrichtung sorgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Aeldys gab zu, jegliche Hinweise auf den modernen Namen des Ortes, an dem Lucia Rivan und Yseyr vor Jahren gegeneinander kämpften, vernichtet zu haben. Allerdings tat sie es erst, nachdem sie sicher war, dass es der richtige Ort ist. Sie behauptet, es sei eine Vorsichtsmaßnahme gewesen, um Furrante davon fernzuhalten. Jetzt, wo sie sich vergewissert hat, ist sie bereit, mit mir zusammenzuarbeiten, um den Ort zu finden.  Nur noch Furrante steht zwischen ihr und einer neuen Ära für die Príncipi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40003</ID>
+      <DefaultText>Ich habe einen Brief von Furrante erhalten. Er hat das Kapitänskonzil am Freudenfeuer-Leuchtturm in Stauholz einberufen und mich darum gebeten, ihn so schnell wie möglich dort zu treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

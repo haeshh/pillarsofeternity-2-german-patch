@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_qst_arkemyr_observatory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bekarnas Narrheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise zu &lt;b&gt;Bekarnas&lt;/b&gt; Observatorium.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Durchsuche das &lt;b&gt;Observatorium&lt;/b&gt; nach &lt;b&gt;Bekarnas Forschung&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Öffne &lt;b&gt;Bekarnas&lt;/b&gt; Sonnensystem-Modell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Arkemyr&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Aktiviere das &lt;b&gt;Sonnensystem-Modell&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Beschaffe &lt;b&gt;Bekarnas&lt;/b&gt; Notizen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Der &lt;b&gt;Zirkel der Erzmagier&lt;/b&gt; glaubt, dass &lt;b&gt;Eothas&lt;/b&gt; im Todesfeuer beispiellosen Schaden anrichten könnte. Forschungsnotizen der Zauberin &lt;b&gt;Bekarna&lt;/b&gt; könnten sich als hilfreich erweisen, um den Schaden zu verringern. 
+
+&lt;b&gt;Arkemyr&lt;/b&gt; schickte mich zu ihrem &lt;b&gt;Observatorium&lt;/b&gt;, der &lt;b&gt;Zirkel&lt;/b&gt; ist jedoch nicht die einzige Gruppierung, die Interesse an &lt;b&gt;Bekarnas&lt;/b&gt; Ergebnissen zeigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Forschungsstation befindet sich auf einer kleinen Insel &lt;b&gt;nordöstlich von Neketaka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Bekarna&lt;/b&gt; hat möglicherweise etwas Nützliches hinterlassen, bevor sie ihr &lt;b&gt;Observatorium&lt;/b&gt; verließ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>&lt;b&gt;Bekarna&lt;/b&gt; hat etwas Wichtiges im Sonnensystem-Modell oben auf ihrer Forschungsstation versteckt. Das Gerät hat einen Mechanismus zur Eingabe der Koordinaten der Sterne am Nachthimmel.
+
+Die Tafel an der Steuerung des Sonnensystem-Modells erwähnte etwas über eine Jägerin und die drei Abschnitte ihrer Erzählung – vielleicht sind alle vier Teile der Geschichte ja irgendwo im &lt;b&gt;Observatorium&lt;/b&gt; zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Nachdem ich nun &lt;b&gt;Bekarnas&lt;/b&gt; Notizen gefunden habe, werden &lt;b&gt;Arkemyr&lt;/b&gt; und der &lt;b&gt;Zirkel der Erzmagier&lt;/b&gt; ihre Arbeit studieren wollen. Ich finde &lt;b&gt;Arkemyr&lt;/b&gt; in seinem Anwesen in &lt;b&gt;Perikis Aussichtspunkt&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe die Koordinaten aller vier Himmelskörper lokalisiert, auf die &lt;b&gt;Bekarna&lt;/b&gt; in ihren Anweisungen verwies. 
+
+Ich sollte nun das &lt;b&gt;Sonnensystem-Modell&lt;/b&gt; aktivieren und enthüllen können, was sie versteckt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Nachdem ich das &lt;b&gt;Sonnensystem-Modell&lt;/b&gt; in &lt;b&gt;Bekarnas Observatorium&lt;/b&gt; aktiviert habe, öffnete sich einer von Eoras Monden, um ein Versteck zu offenbaren. Was auch immer &lt;b&gt;Bekarna&lt;/b&gt; versteckte, muss sich darin befinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Im &lt;b&gt;Observatorium&lt;/b&gt; wimmelt es vor Söldnern. &lt;b&gt;Arkemyr&lt;/b&gt; hatte recht damit, dass noch jemand nach ihren Ergebnissen sucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich finde die Jägerin am Nachthimmel, indem ich mithilfe des Teleskops neben dem &lt;b&gt;Sonnensystem-Modell&lt;/b&gt; ihr Sternband suche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe die Koordinaten des Sternbilds der Jägerin erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Das Sternbild des Eisvogels befindet sich zwischen einem Paar besonders heller Sterne. Ich werde das Teleskop neben dem &lt;b&gt;Sonnensystem-Modell&lt;/b&gt; verwenden, um es zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe die Koordinaten des Sternbilds des Eisvogels erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Das Sternbild des Panthers befindet sich in der Nähe einer Sternreihe, die sich wie ein Bogen krümmt. Das Teleskop in der Nähe des &lt;b&gt;Sonnensystem-Modells&lt;/b&gt; wird nützlich sein, um es zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe die Koordinaten des Sternbilds des Panthers erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Das Sternbild Leviathan ist oberhalb eines Sternhaufens zu finden, der einem Kanu ähnelt. Ich werde das Teleskop in der Nähe des &lt;b&gt;Sonnensystem-Modells&lt;/b&gt; brauchen, um es zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich habe die Koordinaten des Sternbilds Leviathan erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ein massives &lt;b&gt;Sonnensystem-Modell&lt;/b&gt; beherrscht das Dach der Forschungsstation. Ich sollte einen näheren Blick darauf werfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Einer von &lt;b&gt;Arkemyrs&lt;/b&gt; Imps informierte mich, dass &lt;b&gt;Arkemyr&lt;/b&gt; beim Seherbecken auf der &lt;b&gt;Labor&lt;/b&gt;-Etage seines Anwesens zu finden ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Es ist unmöglich, das Teleskop tagsüber zu benutzen. Ich werde warten müssen, bis die Nacht hereinbricht, um die Sterne zu beobachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich bin zu Arkemyr zurückgekehrt und habe ihm Bekarnas Forschungen gezeigt. Hoffentlich können er und der Zirkel etwas damit anfangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

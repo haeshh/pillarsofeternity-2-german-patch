@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_stranded_ship_lagufaeth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Specified 0] pfeift von hoch oben in der Takelage herab und deutet hektisch nach backbord. "Schau, Kapitän! Schau doch!"
+
+Deine Mannschaft versammelt sich, um in die Ferne zu spähen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“Ich gehe an Bord.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“Kurs beibehalten.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 2] salutiert. "Aye, Kapitän. Das ist wahrscheinlich zum Besten. Wer weiß, was uns da draußen erwartet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Mannschaft lässt das Boot zu Wasser und du ruderst über die Wellen zu der mit Schlagseite daliegenden Dschunke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Feuert die Kanonen. Verjagt diese Kreaturen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Kugeln gehen über das Deck der Dschunke, an ihrem Rumpf vorbei und knallen hinter ihr ins Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die [Player Ship] erbebt, als die Kanonen abgefeuert werden. 
+
+Leider schlagen einige Kugeln im Rumpf ein, direkt unterhalb der Wasserlinie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du erreichst das Schiff sicher und erklimmst die Schiffsseite ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Mannschaft lässt das Boot zu Wasser und du ruderst über die Wellen zu der mit Schlagseite daliegenden Dschunke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Als du herankommst, fauchen und gurgeln dich die Lagufaeth vom Deck aus an. Einige ziehen Blasrohre hervor und schnell füllt sich die Luft mit einem Regen aus mit bunten Federn besetzten Pfeilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Hinter dir schreit [SkillCheck 0] auf. Du drehst dich um und siehst, wie [SkillCheck 0] eine gefederte Pfeilspitze in der Länge eines Dolches zwischen den Rippen herauszieht. Du nimmst den Pfeil und wirfst ihn ins Wasser, während sich [SkillCheck 0] um die Blutung kümmert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Einer der Pfeile trifft dich und durchstößt deine Ausrüstung und deine Haut. Du ziehst ihn aus deinem Fleisch und wirfst das Geschoss von der Länge eines Dolches über Bord. Du drückst eine Hand auf die Wunde und Blut sickert zwischen deinen Fingern durch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die Pfeile prasseln auf das Ruderboot, aber keiner trifft dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Durch das Fernrohr schauen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Bring uns näher ran. Ich will mir das genauer ansehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du siehst dir das Schiff an. Es ist eine heruntergekommene Dschunke, die die verblassten Farben der Todesfeuer-Gesellschaft trägt. Die Segel hängen schlaff und zerfetzt herunter und Risse bedecken die von Muscheln besetzten Planken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 1] salutiert. "Aye, Kapitän."
+
+Die Takelage wird gestrafft und Segel krachen, als die [Player Ship] sich dem unbekannten Schiff nähert.
+
+Das Schiff wird langsam erkennbar. Es ist eine heruntergekommene Dschunke, die die verblassten Farben der Todesfeuer-Gesellschaft trägt. Die Segel hängen schlaff und zerfetzt herunter und Risse bedecken die von Muscheln besetzten Planken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Eine hoch aufgeschossene, flinke Kreatur klettert an der Seite des Schiffes hoch. Sie zieht sich mit ihren vier Armen über die Reling und auf das Deck. Du erkennst die Bewegung. Sie stammt von einem Rudel Lagufaeth, die sich in der Dschunke eingenistet haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Die Augen mit der Handfläche schützend, hält [Specified 1] Ausschau. "Ein gestrandetes Schiff, Kapitän. Aber da bewegt sich etwas. Könnten Überlebende sein."
+
+Du schaust hin. Dunkle Gestalten bewegen sich auf dem verwitterten Rumpf.
+
+"Eine große alte Dschunke wie die", murmelt [Specified 2], "könnte ein paar hübsche Kanonen geladen haben. Und wer weiß, was noch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Es sein lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>“Macht die Kanonen feuerbereit. Versenkt es auf den Meeresboden.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Sie mit einer Fähigkeit erschrecken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Mit was? Wir haben keine Kanonenkugeln."
+
+[Specified 2] hustet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du blickst unheilvoll auf die Lagufaeth und schüttest Essenz in einer mächtigen Explosion blanken Horrors aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Specified 5] nickt dir zu und konzentriert sich dann auf das Schiff in der Ferne. Nach einigen Momenten der Konzentration lässt [Specified 5] eine sintflutartige Welle geballter Angst frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Mit einem grellen Chor aus Kreischen und Fauchen fliehen die Meereskreaturen vom Deck, springen über die Reling und verschwinden in den Tiefen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>“Ich gehe an Bord.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die [Player Ship] erbebt, als die Kanonen abgefeuert werden und die gestrandete Dschunke von mehreren Kugeln durchlöchert wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die [Player Ship] feuert eine Salve Kanonenkugeln ab, die ohne Schaden anzurichten im Wasser landen.
+
+Die leichte Brise trägt das Kreischen und Fauchen der Lagufaeth an Deck zu dir herüber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Die Lagufaeth springen vom Deck und verschwinden im Wasser.
+
+Du siehst zu, wie das Schiff kippt und in den Wellen versinkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Specified 2] grinst. "Gern geschehen, Kapitän." 
+
+Mit einem Schwall gerufener Befehle verschwindet der Kanonier im Laderaum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 2] nimmt Haltung an. "Aye, Kapitän. Mir scheint das eine Verschwendung von Blei, aber es ist ja dein Blei."
+
+Mit einem Schwall gerufener Befehle verschwindet der Kanonier im Laderaum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Das Ruderboot poltert gegen die Dschunke und du kletterst an der Seite des mit Lagufaeth verseuchten Schiffes hoch ...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

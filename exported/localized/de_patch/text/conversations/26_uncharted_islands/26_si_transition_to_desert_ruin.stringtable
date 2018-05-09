@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_desert_ruin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sengend heiße Winde stürmen über die Sanddünen. Du versuchst, dein Gesicht vor dem Ansturm zu schützen, doch es hat wenig Sinn. Der Sand bohrt sich in jeden winzigen Spalt, den er finden kann.
+
+Vor dir erkennst du ein Gebäude oder so etwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sand wirbelt im offenen Eingang zur Gruft der Huana und häuft sich an den Wänden. Du trittst hinein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Von Nahem erkennst du, dass es die Ruinen eines uralten Gebäudes der Huana sind, vielleicht eines Tempels. Ein merkwürdiger Eingang führt zu einem mit Sand bedeckten Hügel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Durch den Sandsturm weiter vordringen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du hast nicht die Absicht, dich weiterhin dem Sandsturm auszusetzen. Du kehrst dem Wind deinen Rücken zu und gehst auf demselben Weg zurück, auf dem du gekommen bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

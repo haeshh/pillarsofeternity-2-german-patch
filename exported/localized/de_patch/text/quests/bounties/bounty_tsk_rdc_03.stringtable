@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_rdc_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Burunga</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Burunga&lt;/b&gt; und nimm den Triumph ihres Schiffes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Wakoyo&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Wakoyo&lt;/b&gt; hat mir den Auftrag gegeben, &lt;b&gt;Burunga&lt;/b&gt;, den Huana-Kapitän der Dhau &lt;b&gt;Pŵgras Zahn niederzustrecken&lt;/b&gt;. Wenn ich beweisen kann, dass ich den Kapitän getötet habe, werde ich ein Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Burunga&lt;/b&gt; kommandiert die Galleone &lt;b&gt;Pŵgras Zahn&lt;/b&gt; und segelt in den Gewässern des &lt;b&gt;Offeccia-Kanals&lt;/b&gt;, weit &lt;b&gt;nordöstlich von Neketaka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich kann Burungas Kopfgeld kassieren. Ich kann es bei &lt;b&gt;Wakayo&lt;/b&gt; in der &lt;b&gt;Messingzitadelle&lt;/b&gt; in Neketaka abholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Burunga hat ihre letzte Fahrt angetreten, und ich habe das Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

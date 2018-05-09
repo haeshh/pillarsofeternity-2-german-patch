@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_cv_guard_horn_ext_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>“Aye und wo willst du hin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Angreifen] "Geh mir aus dem Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Da ist wohl jemand des Lebens müde."
+
+Der Pirat zieht seine Pistole und zielt damit direkt auf deine Brust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Mit erhobenen Händen auf Distanz gehen.] "Wird nicht wieder vorkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Dann los. Ich bringe dich raus."
+
+Er nickt grummelnd und seine Schuhe schlurfen über den Boden, als er dich an deiner Schulter herumschubst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Das will ich hoffen."
+
+Der Pirat starrt dich finster an und deutet mit dem Ende seiner Waffe in die Richtung, in die du verschwinden sollst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Was hab ich dir gesagt? Verschwinde. Oder es wird hässlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Du hast es nicht anders gewollt."
+
+Er hebt ein Horn hoch und macht sich bereit, es zu blasen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Eindringling! Alle Mann zum Gefecht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Dann seid ihr euch wohl einig geworden, du und Benny? Das bedeutet wohl, dass du im Fort schalten und walten kannst, wie unsere Mannschaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

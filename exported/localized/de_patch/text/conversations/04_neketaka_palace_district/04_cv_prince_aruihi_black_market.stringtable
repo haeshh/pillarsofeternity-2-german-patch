@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_prince_aruihi_black_market</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>176</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich erwarte Ergebnisse, Wächter. Bist du bis zum Grunde der Graberstraße gekommen?"</DefaultText>
+      <FemaleText>"Ich erwarte Ergebnisse, Wächterin. Bist du bis zum Grunde der Graberstraße gekommen?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Die Príncipi schmuggeln Fracht durch das Gewölbe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Das Gewölbe ... eine finstere und übelriechende Ebene von Neketaka, sage ich." 
+
+Er legt sein Kinn in seine Handfläche und blickt in die Ferne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Wenigstens ist die Graberstraße ein Ziel, das uns nicht davonläuft. Die Krone hat Zeit, um sich die nächsten Schritte zu überlegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Was hast du mit der Graberstraße vor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Wenn du mich fragst, sollte die Graberstraße so bleiben, wie sie ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Wasserformer haben den Piraten dabei geholfen, Schiffe hineinzuschleusen. Ich habe sie getötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ich habe in der Arena gelernt, niemals einen Vorteil zu unterschätzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Vorerst reicht es, dass ich weiß, wie sie die Waren hineinbringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Was sagst du da?" Aruihi hebt langsam die Augenbraue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Du hast meine Neugier geweckt. Sprich weiter." Er öffnet seine Handflächen und wartet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Die Roparu sind so schon kaum in der Lage, zu überleben. Nimm ihnen das nicht auch noch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Ich ziehe meinen Vorschlag zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Ekera, ich sage, das ist das Beste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Wenigstens sind die Roparu dadurch beschäftigt und bringen Geld in Neketaka in Umlauf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Fremdes Geld." Er wedelt mit der Hand, als ob er einen Gestank aus dem Palast vertreiben würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Du beeilst dich, sie in Schutz zu nehmen, doch die Roparu dürfen nicht vergessen, wo ihr Platz in der Gesellschaft ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Die Graberstraße hat nichts zu befürchten. Fürs Erste." Aruihi schaut zweifelnd zum Eingang, zuckt jedoch unwillkürlich mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Die Príncipi sorgen dafür, dass die Roparu etwas zu essen und Medikamente haben. Zum Wohle deines Volkes muss die Graberstraße bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Ich arbeite daran, für die Sicherheit der Roparu zu sorgen. Warum hältst du mich davon ab?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[Lügen] "Ich fürchte, ich habe nichts gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Nichts? Tekēhu, was sagst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Was sagst du da? Überhaupt nichts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Wir haben Spuren verlassener Roparu-Siedlungen gefunden, aber mehr auch nicht." Tekēhu räuspert sich und wirft dir einen besorgten Blick zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Ich werde dir nichts vorenthalten, mein Prinz. Wir haben die Príncipi im Herzen der Graberstraße vorgefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Du solltest mich besser nicht anlügen. Ekera, hast du sonst noch etwas zu berichten? Irgendetwas von Bedeutung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Das ist nicht ..." Tekēhu hält inne und sieht dich fragend an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Hast du etwas zu sagen, Tekēhu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Ekera, ich ... habe mich geirrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Die Príncipi schmuggelten Fracht durch das Gewölbe. Ich habe sie bis auf den letzten Mann getötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Ekera, willst du mir erzählen, dass es einen Piratenkampf tief im Inneren meiner Stadt gab und dass ich ihn &lt;i&gt;verpasst&lt;/i&gt; habe?" 
+
+Aruihi scheint weitere Fragen stellen zu wollen, hält sich jedoch zurück, bevor der Enthusiasmus ihn überkommen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Wenn es dir nichts ausmacht, werde ich später Bericht erstatten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Ich habe noch andere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Ekera, wenigstens bist du in einem Stück zu mir zurückgekehrt. Du bist nicht der erste Agent, den ich in den Schlund geschickt habe, aber der erste, der zurückgekehrt ist."
+
+Aruihi grinst unwillkürlich und klopft dir auf die Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Ich kann nicht behaupten, dass ich dich gerne an einen schlimmeren Ort als den Schlund schicke, aber ..."
+
+Aruihi verstummt und kratzt sich am Hinterkopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Wenn ich Tote gewollt hätte, hätte ich einen Attentäter angeheuert. Dennoch ... gute Arbeit, sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Wasserformer haben den Piraten dabei geholfen, Schiffe hineinzuschleusen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Ekera, sorge aber dafür, dass unsere Wasserformer nicht in Schwierigkeiten geraten." Aruihi nickt Tekēhu zu und winkt dich hinaus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Ekera. Lass mich nicht zu lange warten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Die Príncipi schmuggeln Fracht durch das Gewölbe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Die Príncipi schmuggelten Fracht durch das Gewölbe. Ich habe sie bis auf den letzten Mann getötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Ich hatte da so einen Verdacht und es betrübt mich, dass er bestätigt würde." Aruihi zuckt zusammen und wendet den Blick ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Und du bist ... befugt, solche Arrangements auszuhandeln, ja?" Er verschränkt langsam die Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Wenn der Schwarzmarkt die Roparu an seinen Ressourcen teilhaben lässt, dann sage ich ... dass sie sich eine fragile Waffenruhe gekauft haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Die Roparu kümmern sich um sich selbst. Konzentriere du dich auf die größeren Probleme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Schmuggler können den Unterschied zwischen einer hungrigen und einer rebellischen Unterschicht ausmachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Du kannst nicht wissen, was für die Roparu von Schlangenkrone am Besten ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Der Schwarzmarkt ist etwas, das die Roparu aufgebaut haben, um zu überleben. Er wurde ihnen nicht aufgedrängt, sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Ich sehe, dass deine Zeit im Schlund ihre Spuren hinterlassen hat. Ekera, ich bin einer Meinung mit Ngatis Auserwähltem." 
+
+Aruihi verschränkt die Arme und nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Ich sehe, dass deine Zeit im Schlund ihre Spuren hinterlassen hat. Ekera, ich bin einer Meinung mit Ngatis Auserwähltem." 
+
+Aruihi verschränkt die Arme und nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Er ... er ist das, was einer vorteilhaften Zusammenarbeit mit Fremden bei uns am nächsten kommt." 
+
+Tekēhu atmet aus und wartet auf die Reaktion des Prinzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Den Schlund zu sehen, bedeutet, den Roparu zu vergeben. Die Königin muss sich ihnen gegenüber als würdig erweisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Ich würde gerne den Rat von Ngatis Auserwählten hören." Er nickt Tekēhu zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Die Frage des Schlunds reicht tiefer als das Gesetz der Königin." Tekēhu wirft dir einen nervösen Blick zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Ich sage, es ist die Pflicht der Königin, die Liebe ihres Volkes zurückzugewinnen. Das sollte nicht die Aufgabe von Fremden sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Mein Prinz? Ich bitte darum, sprechen zu dürfen." Tekēhu macht einen zaghaften Schritt nach vorne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Tekēhu, sieh zu, dass ich das nicht bereuen werde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Sieh zu, dass ich das nicht bereuen werde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Du kannst dich darauf verlassen, mein Prinz." Tekēhu verbeugt sich zackig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Warum ... Warum hast du das getan?" Meine Schwester braucht jeden zur Verfügung stehenden Wasserformer, um die Armada von Rauatai in Schach zu halten!"
+
+Der Prinz richtet sich auf und sieht dich mit plötzlicher Besorgnis an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Tekēhu, du konntest das nicht verhindern, sage ich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Nein, mein Prinz. Ich habe höhere Ansprüche an diese Kunst. Wie auch Ngati."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Tekēhu ... Ich sage, niemand hat gewollt, dass sich dein Verdacht bestätigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Ekera. Ich am allerwenigsten, mein Prinz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Wenn es um die Würde der Gilde geht, kann die Krone sich keine Kompromisse erlauben. 
+
+"Onekaza wird ihre Führung disziplinieren, sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Und du genauso wenig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Der Prinz dreht sich um und blickt dich ausdruckslos an. Lediglich die feine Bewegung seiner Wange lässt darauf schließen, dass er die Zähne zusammenbeißt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Du weißt bereits einiges über Neketaka. Ich höre, du hättest die Stadt unterhalb der Stadt erkundet." Aruihi hebt die Augenbraue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Wie gehen sie den Kontrolleuren aus dem Weg? Wer ist dafür verantwortlich? Unmöglich, dass niemand etwas bemerkt hat." Der Prinz verschränkt die Arme und runzelt die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Meine Schwester hat Neketaka fest im Griff, doch der Abschaum der Stadt tropft ihr durch die Finger und in den Schlund." 
+
+Er öffnet die Hand, um dies zu untermalen, und wischt sich über die Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Vor unseren Augen, sage ich, schmuggeln Fremde Waren und bezahlen die Roparu für ihr Schweigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>„Das Schiff eines Gesandten sank eine Tagesreise vor Neketaka. Er trug dies auf seiner Brust."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Meine Wachen fanden es bei einer Razzia im Schlund. Das bestätigt meinen Verdacht.
+
+"Neketaka hat ein Piratenproblem."
+
+Aruihis kräuselt angewidert die Oberlippe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Ich will, dass jemand das Medaillon auf dem Schwarzmarkt anbietet, das Vertrauen dieser Piraten gewinnt und herausfindet, wie sie die Waren in meine Stadt bringen." 
+
+Er blickt auf und sieht dich an. Sein Blick ist kühl und berechnend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Klingt profitabel. Noch etwas, das ich wissen sollte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Dein Gesicht kennen sie noch nicht. Lass niemanden wissen, dass du für die Krone arbeitest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Natürlich wirst du Ngatis Auserwählten mitnehmen wollen." 
+
+Aruihi lächelt Tekēhu an und neigt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Mich? Wozu braucht die Unterstadt einen Künstler?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Du verstehst mich falsch, sage ich. Ich schicke dich aufgrund des Schreibens, das du meiner Schwester überbracht hast." 
+
+Er hebt die Augenbraue. Es herrscht wohl ein stilles Einverständnis zwischen ihnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Ekera, mir war nicht bewusst ..." Tekēhu nickt langsam und verschränkt die Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Wollt ihr mir sagen, worum es hier geht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Ich ... besser, wir besprechen das auf dem Weg den Berg hinunter."
+
+Tekēhu dreht sich zu Aruihi um, der zustimmend nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Lass uns hier verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Halte doch in Perikis Aussichtspunkt nach Tekēhu Ausschau, wenn du den Berg hinabsteigst. Er ist ein Gottgleicher – und jemand, auf den sich die Augen aller richten, die Hoffnung suchen." Der Prinz reibt sich lächelnd mit dem Daumen über das Kinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Ngatis Auserwählter weiß von unseren Schwierigkeiten. Er könnte außerdem eine Lektion in Sachen Bescheidenheit von den Roparu vertragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Schadet nie, einen einheimischen Führer dabeizuhaben. Ich mache mich auf die Suche nach Tekēhu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Ekera. Wie ich Tekēhu kenne, wird er in der Wasserformer-Gilde wieder für erhitzte Gemüter sorgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Pass im Schlund auf dich auf. Ich befürchte, die Höhlen dort sind tiefer, als selbst Ngati vermuten würde." Der Prinz entlässt dich mit einem Nicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Wird ein Gottähnlicher nicht unnötig Aufmerksamkeit erregen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Nicht mehr als du, sage ich!" Der Prinz begutachtet dich lächelnd von oben bis unten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Die Huana schauen zu Ngatis Auserwähltem auf ... auch wenn er bloß auf sie herabsieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"In den Slums der Stadt herumzuwühlen ist nicht gerade meine Lieblingsbeschäftigung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Slums. Das ist kein Begriff, den wir verwenden." Der Prinz kneift die Augen zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Der Schlund ist genauso ein Teil von Neketaka wie der Palast. Du hast die wunderschönen Gärten gesehen. Jetzt mach dich mit der gemeinen Erde vertraut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Ich denke darüber nach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Denk darüber nach. Du findest die Wasserformer-Gilde in Perikis Aussichtspunkt. Folge einfach der Straße den Berg hinab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Warum brauchst du einen Wächter, um einen Schwarzmarkt auszuheben?"</DefaultText>
+      <FemaleText>"Warum brauchst du eine Wächterin, um einen Schwarzmarkt auszuheben?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Man braucht scharfe Sinne, um durch den Schleier blicken zu können." Aruihi tippt sich auf das Kinn und nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Ich behalte mir ein Urteil vor, bis ich mehr erfahre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"Ekera, hast du dem Schlund schon irgendwelche Geheimnisse entreißen können?“ 
+
+Aruihi zieht die Augenbraue hoch und bedeutet dir, fortzufahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Ekera, so ist es. Sie ist stets in meinem Hinterkopf. Sagt dir der Name Ukaizo etwas?" Der Prinz nickt. Sein Gesichtsausdruck bleibt zurückhaltend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Schmuggler und Diebe haben sich wie Ratten in der Graberstraße eingenistet – ein Geschwür in den Eingeweiden unserer Stadt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Nimm das hier, wenn du einen Beweis brauchst." Er wirft dir ein Silbermedaillon mit einer eingravierten vailianischen Ehreninschrift zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Sie werden dich möglicherweise für einen Agenten der Krone halten. Lass nicht zu, dass sich das herumspricht."</DefaultText>
+      <FemaleText>"Sie werden dich möglicherweise für eine Agentin der Krone halten. Lass nicht zu, dass sich das herumspricht."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Sie kennen möglicherweise dein Gesicht. Sag niemandem, dass du für die Krone arbeitest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Diese Art von Aufmerksamkeit öffnet mehr Türen, als sie schließt, sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Onekaza hat uns mit der Sache betraut in der Hoffnung, dass wir ihr eine Sorge abnehmen können, aber ... Ekera, ich kann keine wertvollen Stunden damit vergeuden, dich auszufragen." Aruihi seufzt und wischt die Angelegenheit mit einer Handbewegung beiseite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Dir werden Details auffallen, die andere übersehen würden, denke ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Es heißt, du wärst gut bekannt mit Tekēhu, Ngatis auserwähltem Sohn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Ich hätte dir geraten, Tekēhu zu finden, aber ... er ist zu seiner Mutter in die ewige See eingegangen." 
+
+Der Prinz dreht sich weg, kurzzeitig abgelenkt. Dann seufzt er scharf und konzentriert sich wieder auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Sieh zu, dass er sich dir im Schlund anschließt. Er ... weiß bereits etwas über unsere Schwierigkeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Und nicht mehr als sie." Er nickt Pallegina zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"Nicht mehr als sie." Er nickt Pallegina zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Da könnte ich Euch vielleicht überraschen, Eure Hoheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"Pass auf dich auf, wenn du dich entscheidest, zu gehen." Der Prinz entlässt dich mit einem Kopfnicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Mit einem Seufzen wägt der Prinz deine Worte ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"In letzter Zeit ist bereits mehr als genug Blutgeld den Berg hochgeflossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"Und das Medaillon des Gesandten? Ist das etwa einfach im Schlund angespült worden?!" Der Prinz winkt in der Parodie einer Beschwörung mit seinen Armen in der Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Vor unseren Augen, sage ich, schmuggeln Fremde Waren und bezahlen die Roparu für ihr Schweigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"Ngatis Auserwählter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Tekēhu wurde bei seiner Geburt von der Göttin Ngati berührt. Er ist ebenso sehr ein Wesen der See wie ein Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Es liegt nun an uns, zu deuten, was die Göttin damit beabsichtigte, als sie ihn zu uns geschickt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"Wenn er Ngatis Auserwählter ist, bedeutet das dann nicht, dass er eine Art Erlöser ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"Ekera, zumindest ist er eine Art von irgendwas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Was ist das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"Das Medaillon eines vailianischen Gesandten? Die Republiken verleihen sie für herausragende Dienste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"Ekera. Du bist schlauer als meine Wachen, wenn du das weißt, sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Denkst du etwa, dass Piraten, die Bastarde aus der Republik überfallen, für das Leiden deiner Leute verantwortlich sind? Ich frage mich, was die Bewohner des Schlunds davon halten würden ... mein Herr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"Jeder, der mein Volk ausnutzt oder drangsaliert, wird früher oder später von Onekaza zur Rechenschaft gezogen werden, sage ich." Aruihi blickt Serafen mit zusammengekniffenen Augen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"Zu welchem Zweck?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Das wird davon abhängen, was du findest, sage ich." Aruihi verschränkt die Arme und starrt in Gedanken versunken auf den Boden zwischen seinen Füßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Wie war das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"Ich hätte nicht gedacht, dass er der Unterstadt einen Besuch abstatten wollen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"Ich denke darüber nach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"Er hat mich ins Vertrauen gezogen, sage ich. Ich überlasse es ihm, dir den Rest zu erzählen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"Ekera, ich bin mir sicher, das will er nicht! Aber die Reise wird ihm guttun, sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Er sagt die Wahrheit, aber es steckt mehr hinter alldem und er hat Angst, dass sein Gesicht ihn verraten könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Onekaza überlässt das mir. Während sie sich um die Villa sorgt, kümmere ich mich um den Keller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"Jetzt sag mir, was du verschweigst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"Ich sage, dir entgeht auch nichts. Kann es irgendeine Frage geben, warum ich dich für diese Aufgabe haben will?"
+
+Aruihi lächelt in sich hinein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>"Wenn wir es lediglich mit Piraten zu tun hätten, würde ich einen vertrauenswürdigen Agenten in Lumpen stecken und ihn in einem Essenskarren versteckt nach unten schicken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"Aber ekera ... Ich habe Grund zur Annahme, dass unser Problem weit tiefer reicht, als wir wissen. Deswegen will ich einen Experten."</DefaultText>
+      <FemaleText>"Aber ekera ... Ich habe Grund zur Annahme, dass unser Problem weit tiefer reicht, als wir wissen. Deswegen will ich eine Expertin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Schau zu, dass du Ngatis Auserwählten dabei hast. Beim Singen für die Möwen auf deinem Schiff sind seine Talente verschwendet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"Sie kannten das Risiko, das die Zusammenarbeit mit Piraten mit sich bringt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Onekaza hätte ihre Wasserformer lieber an der kurzen Leine halten sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"Onekaza und ich erwarten beide mehr von der Gilde, sage ich. Sie wird nicht erfreut sein." Aruihi schüttelt den Kopf und seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"Sie müssen das Geld gebraucht haben. Kannst du dir vorstellen, wozu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>"Ekera, das kann ich nicht." Aruihi kneift sich in die Unterlippe und seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>„Ekera, und würden wir in weniger interessanten Zeiten leben, dann hätte sie das auch getan, sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"Ich sage, ich würde mich überall sicher fühlen mit ... mit Rauatais schärfster Waffe in meinem Arsenal.“ Er neigt Maia den Kopf zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"Wenn du versuchst, mir zu schmeicheln, dann hör auf, Notizen von meinem Poetenbruder zu machen." Maia verschränkt die Arme und verzieht das Gesicht in Richtung Aruihi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>"Maia, ich hoffe doch, du wirst unsere schöne Stadt nicht zu hart beurteilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>"Was? Hör mal, lass deine Angelegenheiten dort, wo sie hingehören – beim Kapitän." Maia runzelt die Stirn und rückt näher zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"Vielleicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"Vielleicht wollten die Piraten dich auf eine falsche Spur locken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>"Du beleidigst meine Intelligenz. Versuch das nicht bei Onekaza, sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Viel zu ausgeklügelt für die, sage ich."
+
+Er verstummt und kratzt sich am Kiefer, während er den Gedanken abwägt wie eine Waffe in seiner Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>"Du wirst es aber trotzdem tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>"Sprich weiter. Ich möchte bei Onekaza einen guten Eindruck hinterlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"Sprich weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"Ekera. Tut mir leid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"Ekera, deine Einstellung gefällt mir."</DefaultText>
+      <FemaleText>"Ekera, deine Einstellung gefällt mir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"Meine Meinung hat sich nicht geändert, sage ich. Ein einziger Wurm kann die Koīki verderben und derzeit können wir den Piraten gegenüber keine Schwäche zeigen." 
+
+Aruihi hebt die Hand, um jegliche Debatte sofort zu beenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"Die königlichen Geschwister sind auch königlich blind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>"Ekera, warum hältst du nicht ..."
+
+Als Aruihi Maia erblickt, geht der Rest seiner Antwort in einem Murmeln unter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>"Onekaza und ich sind Kopf und Herz der Stadt, doch ihre Eingeweide ... die erreichen wir nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>"Was sagst du, hat Ngatis Auserwählter etwas von der Reise nach unten gelernt?" 
+
+Aruihi gestikuliert in Richtung Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>"Mein Prinz, ich kannte schon immer jene, die um Ngatis Gunsten beten ... doch erst jetzt sehe ich auch jene, die davon abhängig sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"Ekera. Ich sage, dass eine Feder von Amiras Weisheit herabgefallen und dich berührt hat." Aruihi nickt anerkennend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"Danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>"Es ist noch zu früh für dich, eine Ehrenmedaille entgegenzunehmen." Eine von Aruihis Augenbrauen wandert in die Höhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

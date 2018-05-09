@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_cv_fleet_master_okaya</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>290</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du hast mich in einem meiner seltenen freien Augenblicke erwischt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Gehen] "Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Hazanui Karū hat mich gebeten, eine Ladung bei dir abzuliefern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Sie stößt einen tiefen Seufzer aus. "Die Nachricht der Hazanui legt nahe, dass du uns mit einem Problem am Hafen helfen könntest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wenn du mehr erfahren willst, musst du dich mit Iverra unterhalten. Sie ist in der Werkstatt.
+
+"Ich wäre dir für deine Hilfe hier sehr dankbar, Wächter."</DefaultText>
+      <FemaleText>"Wenn du mehr erfahren willst, musst du dich mit Iverra unterhalten. Sie ist in der Werkstatt.
+
+"Ich wäre dir für deine Hilfe hier sehr dankbar, Wächterin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich habe einen Bericht vom Dockmeister erhalten, der genau das feststellt. Die Königliche Todesfeuer-Gesellschaft ist dir für die schnelle Lieferung der Ladung sehr dankbar." Ein freundliches Lächeln erhellt die ansonsten so düsteren Gesichtszüge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Sie starrt dich mehrere Augenblicke lang mit weit aufgerissenen Augen an, dann wechselt ihr Blick zwischen dir, dem Ladungsverzeichnis und der Tür hin und her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Dir ist vielleicht die übergroße Koralle im Hafen aufgefallen." Sie deutet auf das Dock direkt vor der Bürotür.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich hoffe, deine Bemühungen um die Lösung der Korallensituation verlaufen erfolgreich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich habe die magische Störung behoben, die die Ursache deines Korallenproblems ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Du hast mir den Tag gerade gewaltig versüßt, [Player Name]. Sobald der Rest der Koralle entfernt worden ist, können wir den Hafen wieder in einen betriebsbereiten Zustand versetzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich hoffe doch, du hast dieselbe lobenswerte Arbeitsmoral auch eingesetzt, um die Probleme mit den Druiden zu beheben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich war nicht in der Lage, dein Korallenproblem zu beheben. Und jetzt sind die Ruinen nicht länger zugänglich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Okaya beißt die Zähne zusammen. Eine Ader auf ihrer Stirn pulsiert so heftig, es sieht aus, als müsse es wehtun. Dann ballt sie die Hände zu Fäusten, schließt die Augen und seufzt tief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Nun, dann kann ich nur hoffen, dass du mehr Erfolg hast, wenn du dich mit den Druiden befasst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ach ja - bevor ich das vergesse ... Atsura möchte dich in der Messingzitadelle sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Du kannst kämpfen oder fliehen, ganz wie du willst. Hauptsache, du stehst mir nicht im Weg herum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Mir wurde berichtet, du hättest eine wesentliche Rolle gespielt, was die Fortschritte bei den Druiden betrifft. &lt;i&gt;Gut gemacht&lt;/i&gt;!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Die Druiden haben uns von dem Augenblick an belästigt, als wir hier gelandet sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vor einigen Tage habe ich eine kleine Gruppe ausgesandt, um ihnen Einhalt zu gebieten. Ich habe allerdings bisher noch nichts von diesen Leuten gehört. Um ehrlich zu sein, [Player Name] - ich befürchte, man hat sie umgebracht.."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Und ich verfüge nicht länger über ausreichend Leute, um einen weiteren Angriff zurückzuschlagen.
+
+"Wir Rauataianer sind widerstandsfähiger als die meisten anderen, [Player Name], aber wir sind dennoch Ingenieure. Wir sind nicht für den Kampf ausgebildet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Und ich verfüge nicht länger über ausreichend Leute, um einen weiteren Angriff zurückzuschlagen.
+
+"Wir Rauataianer sind widerstandsfähiger als die meisten anderen, [Player Name], aber wir sind dennoch Ingenieure. Wir sind nicht für den Kampf ausgebildet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Du hast richtig gehandelt, indem du dich zurückgezogen hast. Wir haben während der Angriffe der Druiden schwere Verluste erlitten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich habe keine Zweifel daran - die Druiden planen gerade jetzt bereits ihren nächsten Angriff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Die Anführer der Druiden sind tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ausgezeichnet! Du bist genauso zuverlässig, wie ich es erwartet habe, nach dem, was man mir über dich berichtet hat. Jetzt können wir mit dem Abholzen so richtig beginnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Mit unbeweglicher Intensität starrt Flottenmeisterin Okaya auf das kleine Meer aus Papieren auf ihrem Schreibtisch. In einer Hand hält sie locker einen Bleistift und klopft sich mit dessen Spitze gegen die Lippen, ganz in Gedanken versunken.
+
+Nach einem Augenblick des Schweigens dringt ein tiefes Brummen aus ihrer Kehle. Es endet mit einem höhnischen Zischen. Dann sieht sie dir in die Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ich möchte dich etwas fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Nun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Wenn du mehr erfahren willst, musst du dich mit Hetu unterhalten. Er ist in der Werkstatt.
+
+"Ich wäre dir für deine Hilfe hier sehr dankbar, Wächter."</DefaultText>
+      <FemaleText>"Wenn du mehr erfahren willst, musst du dich mit Hetu unterhalten. Er ist in der Werkstatt.
+
+"Ich wäre dir für deine Hilfe hier sehr dankbar, Wächterin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Und was bitte hofft denn die Königliche Todesfeuer-Gesellschaft hier auf dieser Inselgruppe zu erreichen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Um einmal ganz spezifisch zu werden - warum bist &lt;i&gt;du&lt;/i&gt; hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Wie beurteilst du die Beziehung der Königlichen Todesfeuer-Gesellschaft zu den Huana hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Was weißt du über Rauatai, Wächter?"</DefaultText>
+      <FemaleText>"Was weißt du über Rauatai, Wächterin?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Willst du jetzt wissen, wie ich diese Position bekommen habe, oder warum ich mich überhaupt darum beworben habe?" Okaya lehnt sich mit verschränkten Armen zurück. Sie ist vorsichtig, aber dennoch neugierig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Du verschwendest wirklich keine Zeit. "Ich weiß deine Offenheit zu schätzen, [Player Name]." Mit zusammengekniffenen Augen betrachtet sie dich, um sich ein neues Urteil über dich zu bilden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Eine Menge. Ich bin ein Rauataianer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ein wenig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Das hätte mir gleich auffallen müssen, angesichts deiner Haltung. Gerader Rücken, gestraffte Schultern - ja, recht beeindruckend, genauso, wie es der Weise der Rauataianer entspricht." In schweigender Anerkennung neigt sie den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ich verstehe." Sie klopft sich mit dem Bleistift gegen die Lippen, den sie ständig in den Fingern hält, bildet sich ein Urteil über dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Das überrascht mich nicht. Du musst ein Land kennen, um die Nation verstehen zu können, die es hervorgebracht hat. Davon bin ich zutiefst überzeugt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Es ist ein herausfordernder Ort. Was auch immer in dieser kargen Erde wächst - die Stürme zerstören es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Nun, dann muss ich dir ja sicher nicht erst erklären, dass Rauatai eine strenge Mutter ist, launisch und ungastlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Wie schafft man das denn, zum Flottenmeister ernannt zu werden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Was hat dich denn ausgerechnet zu dieser Arbeit gebracht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Vergiss es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Sie zuckt mit den Schultern. "Wie du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Es ist kein Geheimnis - es braucht einfach nur harte Arbeit, Entschlossenheit, sehr viel Glück und die richtigen Beziehungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Das hat mich bisher noch nie jemand gefragt." Sie blinzelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Vergiss es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Das ist eine sehr gewichtige Frage, [Player Name]." Mit zusammengekniffenen Augen betrachtet sie dich, um sich ein neues Urteil über dich zu bilden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Deshalb habe ich sie ja auch gestellt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ich verstehe nicht, weshalb es das sein sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Mit den Achseln zucken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Es ist doch eine Frage, die geradezu auf der Hand liegt, finde ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Die Huana sind nachgiebig genug und bereit, hart zu arbeiten, wenn man sie nur richtig motiviert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Wie soll man denn Pläne machen, während die Kanonen donnern? Wir sind viel zu sehr damit beschäftigt, unsere Familien von den Inseln zu holen, die wir gekauft oder beansprucht haben."
+
+Tekēhu wendet sich angeekelt ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Einige der Huana scheinen unglücklich zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Mit der Zeit werden sie sich schon daran gewöhnen. Außerdem, es könnte weit schlimmer sein." Sie blickt auf den Schreibtisch herab, mit den Gedanken ganz woanders. Nach einem langen Schweigen kritzelt sie hastig etwas in den Rand eines Berichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Wie würdest du dich fühlen, wenn jemand dasselbe Rauatai antäte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Besser du als die Vailianer, ist das etwa deine Einstellung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Sie lacht. "Sie könnten es auf jeden Fall &lt;i&gt;versuchen&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Mit der Zeit wird der Eingriff von Rauatai schon noch seine Vorteile bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Natürlich. Die Huana und die Rauataianer haben gemeinsame Interessen und gemeinsame Vorfahren." Deine auf der Hand liegende Frage scheint sie zu verwirren. Sie zieht die Augenbrauen hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"In der Tat." Ihre Augen funkeln amüsiert. Im Dämmerlicht des Büros leuchten sie wie polierter Zitrin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Das versetzt dir einen Stich, was? Sei nicht so verdammt dünnhäutig, [Player Name] - das versetzt dich in eine Position der Schwäche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Sie lacht. "Stellst du dir etwa vor, ein Haufen von Weichhänden könnte in diesem rauen Land bestehen? Das ist zweifelhaft, Grabenzieher. Höchst zweifelhaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Kannst du vorher eine Frage über dich ergehen lassen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Klar, warum nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Nicht gerne, nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Wie du willst." Gleichgültig zuckt sie mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Fehlt dir manchmal deine Heimat? Rauatai?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Jeden Tag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"ich denke nur selten daran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ich bin froh, dass ich ganz weit weg von diesem Ort bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"So geht es mir ebenfalls. Mit dem rauen Land kann eben nichts mithalten, richtig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Die Nation ist jetzt viel schlechter dran, nachdem sie jemanden wie dich verloren hat, [Player Name]. Ich hoffe, du kehrst eines Tages dorthin zurück. Um deines Volkes willen, und um deinetwillen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ich muss zugeben, dass die Gedanken an die Heimat meine freien Stunden beherrschen. Ich bin sehr begierig darauf, endlich dorthin zurückzukehren, sobald meine Arbeit auf dieser Inselgruppe beendet ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Es kann schwer sein, dieses Land zu lieben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Nach deinem beeindruckenden Auftritt in unserer Stunde der Not hatte ich gehofft, mich mit der Bitte um Hilfe an dich wenden zu können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Wenn du dich dazu bereiterklärst, steht die Königliche Todesfeuer-Gesellschaft in deiner Schuld.
+
+"Und &lt;i&gt;ich&lt;/i&gt; wäre dir unendlich dankbar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Geh zu dem Sumpf, in den ich meine Leute geschickt habe. Du wirst dort zweifellos die Anführer der Druiden finden. Töte sie!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Die Hazanui lobt deine besonderen Talente in den höchsten Tönen. Deshalb hatte ich gehofft, mich mit der Bitte um Hilfe an dich wenden zu können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Geh zu dem Sumpf, in den ich meine Leute geschickt habe. Du wirst dort zweifellos die Anführer der Druiden finden. Töte sie!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Wenn du dich dazu bereiterklärst, steht die Königliche Todesfeuer-Gesellschaft in deiner Schuld.
+
+"Und &lt;i&gt;ich&lt;/i&gt; wäre dir unendlich dankbar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Ihr zuzwinkern] "Ich bin ein offenes Buch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Meine Leute sind Ingenieure, keine Soldaten. Wahrscheinlich muss ich noch dankbar sein, dass wir nicht noch höhere Verluste erlitten haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Sie lacht erstaunt, als ob du sie überrascht hättest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Ich habe seine Geschichte studiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Dann besitzt du also ein theoretisches Verständnis. Das ist immerhin etwas wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Sie schnaubt durch die Nase. Ihr Blick fällt auf den Bleistift in ihrer Hand. Gedankenverloren schlägt sie damit gegen die Kante ihres Schreibtischs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Nein?" Deine Aussage entlockt ihr hochgezogene Augenbrauen, als sei sie sich nicht ganz sicher, ob du es ehrlich meinst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Sie verdreht die Augen und gibt sich nur wenig Mühe, ihre Verachtung zu verbergen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Eigentlich kümmert die Vailianer das Todesfeuer überhaupt nicht. Sie werden den leuchtenden Adra der Inselgruppe abbauen und sie dann verlassen, um sich der nächsten Verlockung zuzuwenden, die ihnen ins Auge fällt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Was das betrifft, sind sie wie die Elstern. Wie Elstern in komischen Hüten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Die Hazanui hat nichts davon erwähnt, dass ich eine &lt;i&gt;menschliche&lt;/i&gt; Ladung transportieren soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Hat der Dockmeister sonst noch irgendetwas erwähnt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Nicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Nein, ich sehe da nichts ... Doch, warte, da ist noch eine Notiz ganz unten auf dem Blatt. Hm, sie ist in sehr kleiner Schrift geschrieben. Was steht denn da bloß ...
+
+"Oh!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Bitte nimm meine Entschuldigung für deine ... Schwierigkeiten an, [Player Name]. Ich sorge dafür, dass die Ladung sich waschen kann. Auf der Stelle." Sie kneift sich in die Nase und atmet tief aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Hazanui Karū hat mir gegenüber behauptet, &lt;i&gt;du&lt;/i&gt; seist einer der 'klügsten Köpfe in ganz Rauatai'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Ist ... ist das ... Hat sie das wirklich gesagt?" Okaya errötet tief, was ihrer Haut eine sanfte violette Färbung verleiht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Es tut mir leid, ich hatte nicht erwartet ..." Laut räuspert sie sich und blickt beiseite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Was das betrifft, erinnerst du mich an Hazanui Karū.
+
+" ... Nun, vielleicht nicht, wenn es um die Körpergröße geht ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Was das betrifft, erinnerst du mich an Hazanui Karū."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Wir müssen uns vieles von dem, das wir brauchen, durch Handel besorgen, und die Huana sind willige Partner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Wir müssen uns vieles von dem, das wir brauchen, durch Handel besorgen, und die Huana haben sich als wertvolle Partner erwiesen. Das Todesfeuer ist erheblich ... angenehmer als Rauatai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Wir fördern diejenigen mit einem scharfen Verstand in Rauatai, musst du wissen. Wir lassen es nicht zu, dass sie ihr Genie mit Nichtigkeiten verschwenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Der Kapitän hier bleibt nirgendwo lange. Aber ich habe von merkwürdigeren Dingen vernommen, die geschehen sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Wenn Rauatai einen solchen Bedarf an guten Gestandenen hat, darfst du die Flotte gerne zum Umkehren bewegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Natürlich verwenden wir hier nur &lt;i&gt;reguläre&lt;/i&gt; Waffen. Deshalb wäre ich dir sehr dankbar, wenn du mir diese hier abnimmst, bevor einer meiner Ingenieure mit ihnen noch etwas Dummes anstellt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Wir haben ebenso viel Recht auf dieses Land wie sie. Wenn sie nichts damit unternehmen, ist es doch geradezu unsere Pflicht, es für sie zu verwalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Und es ist die Pflicht der Huana, ein gutes Geschäft zu erkennen, wenn es ihnen über den Weg läuft. Beim nächsten Geschäft werden wir nicht mehr so großzügig sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Auch wenn er nach außen gelassen wirkt, ist Atsura kein geduldiger Mensch, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Ich kann meine Enttäuschung nicht verbergen, [Player Name]. Jetzt müssen wir ohne richtige Korallenverteidigungen auskommen. Wir werden angreifbar sein." Sie presst ihre Lippen eng zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Ich werde dir zuhören, aber ich mache dir keine Versprechungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Jetzt nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Natürlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Du kommst hoffentlich zurück, um bei unserem kleinen Problem im Hafen zu helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Was war am Hafen denn los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Sprich weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Du bringst hoffentlich keinen Ärger mit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Was deine Belohnung betrifft ... 
+
+"Wir haben ein Waffenlager einer Piratenbande beschlagnahmt, die sich in Sayuka herumgetrieben haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Wenigstens werden die Korallen für jeden Angreifer ebenso lästig sein wie für euch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Ich habe das Beste aus meinen Möglichkeiten gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Ich hätte auch Galawains Zorn erregen können,wenn dir das lieber wäre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Die Menschen haben Kanonen, Wächter." Sie kneift die Augen zusammen und sucht in deinem Gesicht nach einem Zeichen für den Witz, den du ganz sicher gerade machst.</DefaultText>
+      <FemaleText>"Die Menschen haben Kanonen, Wächterin." Sie kneift die Augen zusammen und sucht in deinem Gesicht nach einem Zeichen für den Witz, den du ganz sicher gerade machst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Mir könnte nichts mehr egal sein als deine Riesenkoralle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Wie deine Handlungen nur zu deutlich zeigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Ich bedauere, dass &lt;i&gt;unsere&lt;/i&gt; Bedürfnisse dabei keine Beachtung fanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Okaya lacht. "Ich bezweifle, dass die Götter von uns hier auf dieser Insel am Ende der Welt überhaupt Notiz nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Hast du dich um die Druiden gekümmert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Okaya ... wir haben ein Problem." 
+
+Maia verschränkt die Arme und atmet durch die Nase aus. Sie blickt auf und sieht dir in die Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Ehrlich gesagt verlangen sie von mir, dass ich dich töte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>[Angreifen] "Schöne Grüße von den Druiden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>[Weggehen] "Noch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Die Druiden könnten jederzeit wieder angreifen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Letzte Warnung, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Ich hoffe doch, du hast dem nicht &lt;i&gt;zugestimmt&lt;/i&gt;. Du würdest dir die Königliche Todesfeuer-Gesellschaft zu Feinden fürs Leben machen. Das ... das ist dir doch bestimmt bewusst, [Player Name]." Die Hand, die ihren vertrauten Stift hält, beginnt zu zittern. Sie beruhigt sie und verzieht dabei das Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Ein gutes Argument." Selbst [ShipDuel_PlayerShip] ist nicht schneller als die Flotte der Rauataianer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"So weit ist es gekommen? Zahlst du &lt;i&gt;so&lt;/i&gt; das Vertrauen der Gesellschaft in dich zurück?" Ihre Stimme zittert, obwohl sie sich keine Angst ansehen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Ich würde das niemals tun! Ich wollte dich nur warnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Dann solltest du dich beeilen und &lt;i&gt;sie&lt;/i&gt; töten, nicht wahr?" Ihr entkommt ein nervöses Glucksen. Sie erstickt es, indem sie sich räuspert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Scharfsinnig erkannt." Ihr entkommt ein nervöses Glucksen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Berechnungen der Geschossbahnen unserer Geschütze. Schrecklich mühsam und beklagenswert ungenau in einem Sturm." Während sie an ihrem Bleistift kaut, schweift ihr Blick ab, als würde sie etwas hinter dir ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Ah, aber die Zahlen lenken mich ab. Wo habe ich nur meine Manieren? Du musst der Wächter sein, den die Hazanui geschickt hat."</DefaultText>
+      <FemaleText>"Ah, aber die Zahlen lenken mich ab. Wo habe ich nur meine Manieren? Du musst die Wächterin sein, die die Hazanui geschickt hat."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Ah, aber die Zahlen lenken mich ab. Wo habe ich nur meine Manieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Was haben sie für ein Problem mit euch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Ist das nicht ihr Land?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Deine Leute haben bewundernswert gekämpft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Ich vermute, sie sind von unseren Abholzungsbemühungen nicht gerade begeistert." Sie zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Wenn ja, habe ich keine Besitzurkunde gesehen." Sie lächelt verhalten. Raubtierhaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Sie lacht. "Für einen Haufen bleistiftschwingender Ingenieure, meinst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>[Nicken] "Sprich weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Ich weiß nicht ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Ich bin kein Wohltätigkeitsverein, junge Frau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Wenn du uns hilfst, wirst du für deine Mühen reichlich belohnt werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Natürlich nicht." Du wirst für deine Mühen reichlich belohnt werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Das steht als Nächstes auf meiner Liste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Ich kümmere mich bei Gelegenheit darum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Darauf würde ich nicht zählen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Ich freue mich, das zu hören." Auch wenn ihr Lächeln verhalten ist, zeigt es ehrliche Dankbarkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Sieh zu, dass du das tust. Sayuka ist angreifbar. Wir verlassen uns auf dich." Sie nickt dir kurz und scharf zu, die Lippen fest zusammengepresst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Sayuka ist angreifbar. Wir verlassen uns auf dich." Sie presst ihre Lippen eng zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Ich fürchte, deine Fracht ist nicht angekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Aber die Kiste steht doch am Pier ...?" Sie hebt eine Augenbraue und sieht dich fragend an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Also gut. Bringen wir es hinter uns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Okaya schaut dich mit weit aufgerissenen Augen an und blinzelt mehrmals schnell, als wäre sie nicht in der Lage, zu verarbeiten, was Maia ihr gerade gesagt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Genug geredet. Wird Zeit, dass du ein paar Druiden erledigst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>[Lügen] "Ha, erwischt! Ich habe nur Spaß gemacht, Okaya."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Ha, natürlich. Nur jemand mit deinem ... Charakter würde so etwas &lt;i&gt;lustig&lt;/i&gt; finden." Ihr Mund verzieht sich zu einem gequälten Lächeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Ha, ha. Natürlich." Ihr Mund verzieht sich zu einem gequälten Lächeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Genug geredet. Wird Zeit, dass du ein paar Druiden erledigst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Ich schätze, ich hatte schon immer ein Interesse an der Ingenieurskunst. Schon als Kind zerlegte ich die Waffen meiner Mutter, um herauszufinden, wie sie funktionieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Dann traf ich Karū - äh, &lt;i&gt;Hazanui&lt;/i&gt; Karū. Sie ermutigte mich, meine Fähigkeiten bei der Marine einzubringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Die Intelligenten und Willigen werden unterstützt und geleitet. Und respektiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Bei so einer Frage könnte ich dich glatt für einen weltfremden Neuling halten, [Player Name]." Sie kichert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Ein wenig Rücksichtslosigkeit kann eines dieser Dinge stets ersetzen, vorausgesetzt sie wird mit Bedacht angewandt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Und das habe ich getan – auch wenn ich als jüngste unter meinen Geschwistern nicht dazu verpflichtet war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Verstehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Das ist alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Du wirst feststellen, dass wir einen wissbegierigen Geist in Sayuka schätzen – und in Rauatai." Sie nickt dir in stiller Anerkennung zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Wir nennen es das 'raue Land'." Rührung schwingt in ihrer Stimme mit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Der Archipel ist auch ein exzellenter Ort, um die Stürme von Ondras Mörser zu erforschen." Sie zeigt grob auf das Fernrohr auf ihrem Tisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Der Archipel ist auch ein exzellenter Ort, um die Stürme von Ondras Mörser zu erforschen." Sie zeigt grob auf das Fernrohr auf ihrem Tisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Wir haben natürlich andere Interessen. Den vailianischen Einfall zurückschlagen, Kolonien ansiedeln, unsere Zukunft sichern. Sicherlich ist das nichts, was du nicht schon weißt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Die Flottenmeisterin tippt mit ihrem Stift auf den Tisch und schaut dich an. Sie schenkt dir ein entspanntes und breites Lächeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Ehrlich gesagt habe ich keine Ahnung, wovon du da sprichst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>[Nicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Nun, ich werde nicht diejenige sein, die dich aufklärt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Der Aufbau einer Nation ist ein heikles Unterfangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Sicherlich habe ich keine Ahnung, was du meinst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Vermisst du Rauatai?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Jeden Tag. Die wilden Küsten, die erbarmungslosen Winde – ihre Abwesenheit ist, als würde mir ein Bein fehlen." Sie blickt kurz zur Seite, peinlich berührt von ihrem unverblümten Bekenntnis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Rauatai wird immer da sein, und die Arbeit, die wir hier tun ... &lt;i&gt;sie&lt;/i&gt; ist jetzt das Wichtige."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Sie ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Ich habe sie umgebracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Warum hätte sie das sollen? Du bist bloß ein Kurier." Sie starrt dich mit ehrlichem Unverständnis an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Jedenfalls ..." Okaya tippt nachdenklich mit ihrem Bleistift auf die Kante ihres Tisches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Das ist ... schade." Sie seufzt und reibt sich die Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Aber offensichtlich hat sie – also Iverra – einige ungewöhnliche Zauber ausprobiert, und das ist nun mal das Risiko der magischen Wissenschaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Irgendetwas ist unnatürlich am Wachstum der Korallen – überhaupt an allem auf dieser Insel.
+
+"Und egal wie sehr wir sie zurückschneiden, sie wachsen nur noch stärker nach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Meine Ingenieure sind der Meinung, dass diese Sache irgendwo vor der Küste von Sayuka ihren Ursprung hat. Untersuche das bitte für mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>[Nicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>[Mit den Schultern zucken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Sie kneift die Augen zusammen, trommelt mit den Fingern auf ihrer Tischplatte und fährt dann fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Sie nickt dir kurz und spitz zu, unterstrichen durch das Knacken ihrer Stiftspitze gegen den Tisch, und macht dann mit ihrer Arbeit weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Sie gibt dir einen Haufen Granaten in die Arme und wirft noch eine Donnerbüchse obendrauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Okaya hält inne, streckt ihre Hand aus, als wollte sie dich zur Seite ziehen, überlegt es sich dann aber anders. Sie schüttelt den Kopf und macht weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Das ständige Tippen von Okayas Stift auf dem Tisch hört auf. Stattdessen hält sie ihn so verkrampft fest, dass sie ihn in zwei Hälften zu brechen droht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Ah, aber die Zahlen lenken mich ab. Klarer Himmel, Grabenzieher. Du musst der Wächter sein, den die Hazanui geschickt hat." Sie streckt ihre Hand aus und greift deinen Unterarm auf rauataianische Art.</DefaultText>
+      <FemaleText>"Ah, aber die Zahlen lenken mich ab. Klarer Himmel, Grabenzieherin. Du musst die Wächterin sein, die die Hazanui geschickt hat." Sie streckt ihre Hand aus und greift deinen Unterarm auf rauataianische Art.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Ah, aber die Zahlen lenken mich ab. Klarer Himmel, Grabenzieher. Was kann ich für dich tun?"</DefaultText>
+      <FemaleText>"Ah, aber die Zahlen lenken mich ab. Klarer Himmel, Grabenzieherin. Was kann ich für dich tun?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Geschieht dir recht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Sie zuckt mit den Schultern. "Vielleicht. Aber der Fortschritt bleibt für niemand stehen, nicht einmal für eine Handvoll widerspenstige Druiden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>[Zwinkern] "Schmeichlerin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>[Nicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Sie stöhnt und rollt dabei übertrieben mit ihren Augen.</DefaultText>
+      <FemaleText>Sie rollt mit den Augen, doch ihre Wangen erröten leicht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Du musst der Wächter sein, den die Hazanui geschickt hat."</DefaultText>
+      <FemaleText>"Du musst die Wächterin sein, die die Hazanui geschickt hat."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Wie kann ich helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Also gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Also gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Hast du nicht den Namen an der Tür gelesen, bevor du reinkamst? Du &lt;i&gt;weißt&lt;/i&gt; hoffentlich, dass du im Büro der Flottenmeisterin bist?" Sie runzelt die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Das 'Wer bist du?' war ganz allgemein gemeint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>[Unschuldig blinzeln.] "Wow, echt? Wie aufregend!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>[Mit den Schultern zucken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Ist mir nicht aufgefallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Ah. Du willst wissen, warum ich &lt;i&gt;wichtig&lt;/i&gt; genug bin, dass mein Name an einer Tür steht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Ich bin Flottenmeisterin bei der rauataianischen Marine, stationiert in Sayuka, einer Forschungskolonie der Königlichen Todesfeuer-Gesellschaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Welche Flotte? Ich sehe keine Schiffe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Ah ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Was erforscht ihr denn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Eine kühne Strategie, einfach bei allen unverschlossenen Türen einzutreten, an denen du vorbeikommst. Du solltest aufpassen, dass dich das nicht irgendwann mal das Leben kostet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Ein Klugscheißer! Das hat uns noch gefehlt." Okaya verdreht ihre Augen.</DefaultText>
+      <FemaleText>"Eine Klugscheißerin! Das hat uns noch gefehlt." Okaya verdreht ihre Augen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Du hast das falsch verstanden. Ich kommandiere keine Flotte – ich kommandiere diesen Hafen. Die rauataianischen Schiffe in diesem Dock stehen unter meinem Schutz, aber ich befehlige sie nicht. Das ist die Aufgabe der Hazanui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Ondras Mörser. So starke und unablässige Stürme ... Ich vermute, sie haben keine natürliche Ursache."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Okaya nickt und schaut kurz auf ihren Tisch, abgelenkt von einer Liste mit Zahlen. Beim Lesen dreht sie den Bleistift durch ihre Finger und unterbricht das nur kurz, um ein paar Notizen zu machen.
+
+Sie scheint dich vollkommen vergessen zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Ein beeindruckender Titel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Vielleicht für jemanden, der mit der rauataianischen Marine nicht vertraut ist. Aber ich habe eher eine administrative Position."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Bist du dann die Anführerin der Königlichen Todesfeuer-Gesellschaft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Bei Ondras Gnade, nein. Das sind Hazanui Karū und Atsura in Neketaka. Sayuka ist nur ein Außenposten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Ich kümmere mich darum, dass in Sayuka alles ruhig läuft. Natürlich wäre das etwas einfacher, wenn ich nicht mit den Korallen zu kämpfen hätte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Ich kümmere mich darum, dass in Sayuka alles ruhig läuft – was jetzt etwas einfacher ist, nachdem ich nicht mehr mit den Korallen zu kämpfen habe"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Der Kapitän hat vor, dich umzubringen. 
+
+"Tut mir leid, [Player Name]. Du hast dir die Suppe eingebrockt, jetzt musst du sie auch auslöffeln." 
+
+Maia zieht ihre Waffe. Ishiza breitet seine Flügel aus und stößt ein territoriales Krächzen aus.</DefaultText>
+      <FemaleText>"Die Kapitänin hat vor, dich umzubringen. 
+
+"Tut mir leid, [Player Name]. Du hast dir die Suppe eingebrockt, jetzt musst du sie auch auslöffeln." 
+
+Maia zieht ihre Waffe. Ishiza breitet seine Flügel aus und stößt ein territoriales Krächzen aus.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Ah, der Liebling der Hazanui. Es ist schön, dich wiederzusehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Es ist schön, dich wohlauf zu sehen, Wächter."</DefaultText>
+      <FemaleText>"Es ist schön, dich wohlauf zu sehen, Wächterin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Mutig, dich hier zu zeigen, Wächter."</DefaultText>
+      <FemaleText>"Mutig, dich hier zu zeigen, Wächterin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Was willst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Ah, Castols Schoßhündchen. Ich hoffe, du pinkelst nicht aufs Sofa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Wie ist es an Onekazas Leine, Wächter? Lässt sie dir etwas Freiraum oder hält sie dich eng bei Fuß?"</DefaultText>
+      <FemaleText>"Wie ist es an Onekazas Leine, Wächterin? Lässt sie dir etwas Freiraum oder hält sie dich eng bei Fuß?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Ah, der Opportunist kehrt zurück. Richte Furrante mein Bedauern aus, wenn du ihn das nächste Mal siehst – wir haben in letzter Zeit &lt;i&gt;so viele&lt;/i&gt; seiner Schiffe versenkt."</DefaultText>
+      <FemaleText>"Ah, die Opportunistin kehrt zurück. Richte Furrante mein Bedauern aus, wenn du ihn das nächste Mal siehst – wir haben in letzter Zeit &lt;i&gt;so viele&lt;/i&gt; seiner Schiffe versenkt."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Ah, du bist es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Ah, der Liebling der Hazanui. Schön, dich wiederzusehen, Grabenzieher."</DefaultText>
+      <FemaleText>"Ah, der Liebling der Hazanui. Schön, dich wiederzusehen, Grabenzieherin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"Ah, Alvaris Schoßhündchen. Ich hoffe, du pinkelst nicht aufs Sofa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Wie ist es an Aruihis Leine, Wächter? Lässt sie dir etwas Freiraum oder hält sie dich eng bei Fuß?"</DefaultText>
+      <FemaleText>"Wie ist es an Aruihis Leine, Wächterin? Lässt sie dir etwas Freiraum oder hält sie dich eng bei Fuß?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Ah, der Opportunist kehrt zurück. Richte Aeldys mein Bedauern aus, wenn du sie das nächste Mal siehst – wir haben in letzter Zeit &lt;i&gt;so viele&lt;/i&gt; ihrer Schiffe versenkt."</DefaultText>
+      <FemaleText>"Ah, die Opportunistin kehrt zurück. Richte Aeldys mein Bedauern aus, wenn du sie das nächste Mal siehst – wir haben in letzter Zeit &lt;i&gt;so viele&lt;/i&gt; ihrer Schiffe versenkt."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Was hast du dir dabei &lt;i&gt;gedacht?&lt;/i&gt;"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Ich dulde keine blinden Passagiere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Sie hat mich genervt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>[Mit den Schultern zucken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"Also &lt;i&gt;tötest&lt;/i&gt; du sie einfach?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Also hast du sie einfach &lt;i&gt;getötet&lt;/i&gt;?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"Nun, Hazanui Karū hätte dich sicher nicht geschickt, wenn sie nicht der Meinung wäre, dass du uns nützlich sein kannst. Ich werde also ihrer Einschätzung vertrauen müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Sie stößt einen tiefen Seufzer aus. "Die Nachricht der Hazanui legt nahe, dass du uns mit einem Problem am Hafen helfen könntest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"Und ich wäre dankbar, wenn das mit etwas weniger Mord und Totschlag gehen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Okaya wendet sich ab und murmelt düster vor sich hin. Der Stift, den sie mit blutleeren Fingern zusammendrückt, bricht entzwei. Wortlos zieht sie die oberste Schublade ihres Schreibtisches auf und holt einen neuen gespitzten Bleistift heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Was meine Bezahlung angeht ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"Ich hoffe, Iverras Tod ist keine zu große Unannehmlichkeit für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"Du hast vielleicht Nerven, Wächter." Sie stößt die Worte zwischen zusammengepressten Zähnen hervor.</DefaultText>
+      <FemaleText>"Du hast vielleicht Nerven, Wächterin." Sie stößt die Worte zwischen zusammengepressten Zähnen hervor.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Was? Nein. Du hast nicht ... Einfach nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"Unglaublich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"Ich lasse dich nicht von den Wachen an die wuchernden Korallen fesseln, wo dir die Geier die Augen rauspicken. Betrachte &lt;i&gt;das&lt;/i&gt; als deine Bezahlung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Nach dem, wie du mich behandelt hast? Das soll doch wohl ein Witz sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"Wie du willst." Okaya zuckt mit den Schultern.
+
+Sie widmet sich den auf ihrem Tisch verstreuten Berichten und sagt kein Wort mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"Was könntest du überhaupt wollen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Mehr hast du dazu nicht zu sagen? Du verteidigst deine Handlungen nicht einmal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"Eure Schmugglerin, Widla, hat mich angegriffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"Eure Schmugglerin hat versucht, mich zu erpressen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Ah. Das ist bedauerlich, aber nicht völlig unerwartet."
+
+Sie öffnet eine Schreibtischschublade und holt einen großen Geldbeutel raus. Schweigend schiebt sie ihn dir über den Tisch zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Deine Schmugglerin hat mir die doppelte Liefergebühr abgenötigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"Ich habe einen Bericht vom Dockmeister erhalten, der genau das feststellt. Die Königliche Todesfeuer-Gesellschaft ist dir für die schnelle Lieferung der Ladung sehr dankbar." Ein freundliches Lächeln erhellt die ansonsten so düsteren Gesichtszüge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"Ah. Das ist bedauerlich, aber nicht völlig unerwartet."
+
+Sie öffnet eine Schreibtischschublade und holt einen großen Geldbeutel raus. Schweigend schiebt sie ihn dir über den Tisch zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Ah. Das ist bedauerlich, aber nicht völlig unerwartet. Hier ist die Differenz und noch ein wenig mehr für deine Mühen."
+
+Sie öffnet eine Schreibtischschublade und holt einen großen Geldbeutel raus. Schweigend schiebt sie ihn dir über den Tisch zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>[Nichts sagen von den Schmugglern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"Also?" Sie hebt eine Augenbraue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>"Deine Schmugglerin hat mir die dreifache Liefergebühr abgenötigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Ah. Das ist bedauerlich, aber nicht völlig unerwartet. Hier ist die Differenz und noch ein wenig mehr für deine Mühen."
+
+Sie öffnet eine Schreibtischschublade und holt einen großen Geldbeutel raus. Schweigend schiebt sie ihn dir über den Tisch zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"Ach ja - bevor ich das vergesse ... Atsura möchte dich in der Messingzitadelle sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_cv_adventurer_banter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Warum hast du denn das gemacht, du grober Rohling? Wir haben doch nur dieses eine Fass gebraucht! Eines!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wenn du mir das &lt;i&gt;vorher&lt;/i&gt; gesagt hättest, dann könnten wir jetzt vielleicht eine Mine plündern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Du bist doch der Mistkerl mit der gigantischen Kanone. Du solltest eigentlich wissen, wie Sprengstoff funktioniert!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Freunde, wir haben mehr als genug Schwarzpulver, um dieses Problem zu lösen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Oh nein. Das wird nicht funktionieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Oh, &lt;i&gt;jetzt&lt;/i&gt; weißt du natürlich, was du mit dem Schwarzpulver anstellen musst ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Lass ihn in Ruhe und nimm dir eine Schaufel, Eccea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Nimm dir doch selbst die Schaufel! Ich werde Wache halten. Für körperliche Arbeit bin ich nicht gebaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wage es ja nicht, wieder einzudösen; wie beim letzten Mal!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

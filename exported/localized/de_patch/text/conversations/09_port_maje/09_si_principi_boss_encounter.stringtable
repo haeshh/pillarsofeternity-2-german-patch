@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_si_principi_boss_encounter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Während die Defiant Port Maje hinter sich lässt, beobachtest du beiläufig das Kommen und Gehen Dutzender anderer Schiffe, die meisten davon Fischer- und Handelsboote. Doch eines von ihnen sticht aus der Masse heraus ...
+Auf der Steuerbordseite der Defiant kommt langsam eine majestätische und mit etlichen Kanonen bewaffnete Dhau heran, wird immer größer. Die Flagge, die hoch über ihren Segeln gehisst wurde, signalisiert Verhandlungsabsichten. Allerdings nähert sich die Dhau mit aggressiver Geschwindigkeit. Was darauf hindeutet, dass es schwerfallen dürfte, sie wieder fortzuschicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Geradewegs auf deinen Verfolger zusteuern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du drehst das Steuerrad der Defiant gegen den Uhrzeigersinn. Das Schiff dreht sich rasch. Eine Seemöwe, die auf dem Vormast gesessen hat, fühlt sich dadurch gestört. Der Vogel gibt seiner Verärgerung durch einen großen weißen Klecks auf dem Deck Ausdruck.
+
+Du balancierst das Steuerrad aus und steuerst direkt auf die Dhau zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Versuchen, der Dhau davonzusegeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du signalisierst der Mannschaft, den Mast nach hinten zu neigen und sich dann auf die Leeseite zu begeben. Dadurch krängt das Schiff stark.  Jemand jubelt laut, als die Defiant Fahrt aufnimmt.
+
+Doch trotz deiner hervorragenden Seefahrtskunst kommt die Dhau immer näher heran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Etliche stark bewaffnete Männer überqueren die Planken und mustern wachsam jeden Quadratzentimeter deines Schiffs. Die Menge teilt sich und macht Platz für ihren Kapitän, einen großen und gut gekleideten Mann. Er sieht dich an und zieht eine seiner sorgfältig gekämmten Augenbrauen hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Hinter dem Kapitän folgt, in starkem Kontrast zu diesem, ein zerzauster Orlaner. Zwei Pistolengriffe ragen aus seinem Gürtel hervor und um seinen Zeigefinger wirbelt er beiläufig eine Pistole mit kurzem Lauf. 
+
+Sein Gesicht ist eingerahmt von langem, ungepflegtem kobaltblauem Haar und einem wild geflochtenen himmelblauen Bart und lässt das schiefe Lächeln, das er dir zuwirft, beinahe sinister erscheinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Nichts tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Die Dhau schließt zügig auf, und schon bald segelt das massige Schiff direkt neben der Defiant. Enterplanken kommen zum Vorschein und werden werden rasch auf dein Schiff geworfen. Die Seeleute der Dhau brüllen dir zu, dass ihr Kapitän jetzt auf dein Schiff kommen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

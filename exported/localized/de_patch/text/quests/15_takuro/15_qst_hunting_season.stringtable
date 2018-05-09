@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\15_takuro\15_qst_hunting_season</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Jagdsaison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Verteidige &lt;b&gt;Sayuka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sprich mit der &lt;b&gt;Flottenmeisterin Okaya&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sprich mit der &lt;b&gt;Flottenmeisterin Okaya&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Reise zum &lt;b&gt;Sumpf der verkrüppelten Äste&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Finde und töte die Anführer der Druiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kehre zur &lt;b&gt;Flottenmeisterin Okaya zurück&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Kehre zu den Druiden zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Eine Meute zorniger Tiere, angeführt von &lt;b&gt;Druiden&lt;/b&gt;, hat den Hafen von &lt;b&gt;Sayuka&lt;/b&gt; der Königlichen Todesfeuer-Gesellschaft angegriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ein Soldat der Königlichen Todesfeuer-Gesellschaft hat mich gewarnt, dass &lt;b&gt;Sayuka&lt;/b&gt; von &lt;b&gt;Druiden&lt;/b&gt; und wilden Tieren angegriffen wird. Ich bezweifle, dass die Druiden mich als jemanden erkennen werden, der kein Soldat der Gesellschaft ist. Also sollte ich bei der Verteidigung des Hafens helfen. Und sei es auch nur, um meine eigene Haut zu retten ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe den Soldaten der Königlichen Todesfeuer-Gesellschaft dabei geholfen, die Druiden zurückzuschlagen, die &lt;b&gt;Sayuka&lt;/b&gt; angegriffen haben. Ich sollte nachschauen, ob &lt;b&gt;Flottenmeisterin Okaya&lt;/b&gt; den Angriff überlebt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe den Hafen von &lt;b&gt;Sayuka&lt;/b&gt; während des Angriffs der Druiden verlassen, und jetzt ist der Kampf sicherlich längst vorbei. Wenn ich die Zeit dazu finden kann, sollte ich vielleicht einmal nachschauen, wie es &lt;b&gt;Flottenmeisterin Okaya&lt;/b&gt; und ihren Soldaten ergangen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Flottenmeisterin Okaya hat berichtet, dass die Druiden sich im &lt;b&gt;Sumpf der verkrüppelten Äste&lt;/b&gt; tief im Inneren von Sayuka verschanzt haben.
+
+Die Soldaten, die sie ausgesandt hat, um die Druiden aufzuspüren, sind nicht zurückgekehrt. Deshalb hat sie mich gebeten, mich zum Sumpf zu begeben und die &lt;b&gt;Anführer der &lt;/b&gt; selbst zu töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Als ich im Sumpf der verkrüppelten Äste eingetroffen bin, habe ich entdeckt, dass die Soldaten, die Flottenmeisterin Okaya ausgesandt hatte, von den Druiden abgeschlachtet worden waren.
+
+Wenn ich die &lt;b&gt;Anführer der Druiden&lt;/b&gt; umbringe, sollte dies ihrem Streit mit der Königlichen Todesfeuer-Gesellschaft in Sakuya ein Ende setzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe die Anführer der Druiden getötet, so wie &lt;b&gt;Flottenmeisterin Okaya&lt;/b&gt; das von mir verlangt hat. Ich sollte es sie wissen lassen, dass ich meine Aufgabe erledigt habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Ich habe Flottenmeisterin Okaya getötet, so wie die &lt;b&gt;Druiden&lt;/b&gt; es von mir verlangt haben. Ich sollte es sie wissen lassen, dass ich meine Aufgabe erledigt habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die &lt;b&gt;Druiden haben mir gesagt, dass sie ihre Angriffe auf &lt;b&gt;Sayuka&lt;/b&gt; erst dann einstellen werden, wenn &lt;b&gt;Flottenmeisterin Okaya&lt;/b&gt; tot ist. Ich könnte sie ja selbst umbringen. Aber wenn ich das tue, werde ich von der &lt;b&gt;Königlichen Todesfeuer-Gesellschaft&lt;/b&gt; endgültig zum Erzfeind erklärt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Druiden ausgelöscht, um Sayuka zu schützen. Flottenmeisterin Okaya war begeistert. Jetzt kann die Abholzung so richtig beginnen. Sie hat mich für meine Anstrengungen reich belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Die Königliche Todesfeuer-Gesellschaft hat den Befehl ausgegeben, mich sofort beim ersten Anblick zu töten. Ich bezweifle, ob Flottenmeisterin Okaya sich für die Lösung des Druidenproblems von Sayuka noch immer meiner Unterstützung bedienen möchte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Flottenmeisterin Okaya getötet. Also kann ich ihr jetzt nicht länger dabei helfen, das Druidenproblem von Sayuka zu lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe Flottenmeisterin Okaya getötet, so wie die Druiden es von mir verlangt haben. Jetzt sind die Druiden frei von der Einmischung der Königlichen Todesfeuer-Gesellschaft. Wenigstens einstweilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

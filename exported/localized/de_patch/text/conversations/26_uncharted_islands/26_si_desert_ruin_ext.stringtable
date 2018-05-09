@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_desert_ruin_ext</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du kletterst einen Abhang hinunter in eine tiefe Schlucht. Du hast nur zwei Möglichkeiten als Ausweg. Entweder steigst du weiter in die unbekannten Tiefen der Schlucht hinunter - oder du kehrst auf demselben Weg zurück, auf dem du gekommen bist.
+
+Noch bevor du dich entschieden hast, ob du nach unten oder zurück nach oben gehst, hörst du über dir ein seltsames Geräusch. Du begibst dich hinter zwei Felsbrocken in Decken und versuchst angestrengt, die Quelle des Geräuschs zu entdecken, doch du siehst nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Sorgfältig auf die Geräusche lauschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Näher herangehen, um besser sehen zu können.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du lauschst aufmerksam. Endlich wird dir klar, dass diese merkwürdigen Geräusche die zischenden Stimmen vieler Nāga sind, die von den Wänden der Schlucht widerhallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Echos der Wände der Schlucht machen es unmöglich, die Quelle der Geräusche auszumachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du steigst tiefer in die Schlucht hinunter. Du suchst Deckung hinter Büschen und Felsbrocken, wann immer du kannst. Und wenn du nicht kannst, hältst du dich in den Schatten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du steigst tiefer in die Schlucht hinunter. [SkillCheck 0] stolpert über einen kleinen Stein, der den mit Geröll bedeckten Abhang hinunter poltert.
+
+Die Geräusche über dir enden abrupt. In der Schlucht wird es geradezu unheimlich ruhig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du hörst ein scharfes &lt;i&gt;Zischen&lt;/i&gt; über und hinter dir. Du wirbelst herum, und ein Nāga-Krieger springt von einem Felsen über dir herab, dir direkt in den Weg. Der Nāga nimmt sofort die Kampfposition ein und gibt ein schrilles Kreischen von sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Um das Lager der Nāga herumschleichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Die Nāga angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Leise huschst du von Deckung zu Deckung und hältst dich dabei in den Schatten, die die Wände der Schlucht werfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du springst aus deinem Versteck hervor und läufst durch die Schlucht. Du willst die Krieger des Feldlagers der Nāga frontal angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Nach ein paar angespannten Minuten verstohlener Bewegungen bist du nahe genug herangekommen, um einen klaren Blick auf die Quelle der Geräusche werfen zu können. Vor dir stehen mehrere Nāga zusammen und unterhalten sich in leisen, zischenden Tönen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Als du tiefer in die Schlucht hinunter steigst, stolperst du über einen kleinen Stein, der den mit Geröll bedeckten Abhang hinunter poltert.
+
+Die Geräusche über dir enden abrupt. In der Schlucht wird es geradezu unheimlich ruhig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0] führt dich, du huschst von Deckung zu Deckung und hältst dich dabei in den Schatten, die die Wände der Schlucht werfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Als du tiefer in die Schlucht hinunter steigst, stolperst du über einen kleinen Stein, der den mit Geröll bedeckten Abhang hinunter poltert.
+
+Die Geräusche über dir enden abrupt. In der Schlucht wird es geradezu unheimlich ruhig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Sehr sorgfältig und mit präzisem Timing gelingt es dir, weitgehend unentdeckt durch das Lager der Nāga zu schleichen.
+
+Vor dir befindet sich eine letzte Gruppe von Nāga. Sie sind jetzt das Einzige, das noch zwischen dir und dem Ausgang der Schlucht steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Zurückgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

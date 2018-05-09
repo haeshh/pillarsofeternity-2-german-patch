@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tooltips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Huana: „Keine Sorge, Schwester. Du kannst mich doch ganz gewiss durchlassen ...“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vailianer: "Ich schwöre, den Darcozzi-Palast sowie seine rechtmäßigen Herrscher, die Kinder der Orelia Darcozzi, zu beschützen. Ich schwöre ihnen meine Liebe und mein Leben, sonst möge mich Magrans Feuer verbrennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;b&gt;Berath&lt;/b&gt; (die Seelen zum Rad zurückbringen)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>&lt;b&gt;Galawain&lt;/b&gt; (die Seelen des Dyrwalds stärken)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>&lt;b&gt;Hylea&lt;/b&gt;  (die Seelen zu den Hohlgeborenen zurückbringen)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>&lt;b&gt;Rymrgand&lt;/b&gt; (die Seelen auflösen)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>&lt;b&gt;Skaen&lt;/b&gt; (die Seelen Woedica widmen)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vailianer: "Du verdammter Idiot! Fahr zur Hölle! Das ist doch alles deine Schuld! Ich hoffe, dich schluckt ein Krake! Du bist ein Dreckstück!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

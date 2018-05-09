@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_si_vailian_to_slums_transition</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du lässt das Gewühl am Ankerplatz der Königin hinter dir und begibst dich auf den gewundenen Pfad in den Schlund.
+
+Eine Weile lang führt der Weg stetig bergab. Dennoch verschwinden der Hafen und das Meer hinter engen Wänden und heruntergekommenen Gebäuden der Huana.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du erreichst eine dunkle Passage, die den Berg durchschneidet. Der Pfad ist gerade breit genug, um ein Fuhrwerk durchzulassen. 
+
+Der Pfad führt steigt stetig die Felswand hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Nach einer langen Reise durch einen nur schwach erleuchteten Tunnel erreichst du die Tore des Schlundes. Das Erste, das dir auffällt, ist der Gestank. Es ist eine Ekel erregende Mischung aus Fäulnis, abgestandener Luft und dem Geruch ungewaschener Körper.
+
+Dir fällt eine Wache auf. Der Mann schiebt einen Wagen, der hoch beladen ist mit verrottenden Lebensmitteln. Ein Teil des Gestanks kommt daher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vor dir tauchen die Häuser des Schlundes als eine Zusammenstellung von Licht in der Dunkelheit auf. Unter dir hörst du das Rauschen von Wasser, und aus den unsichtbaren Tiefen steigt kalte Luft auf, wie ein Ausatmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du lässt das geschäftige Treiben am Ankerplatz der Königin hinter dir und begibst dich auf den gewundenen Pfad in den Schlund. 
+
+Eine Weile lang führt der Weg stetig bergab. Dennoch verdecken dir die engen Mauern und die heruntergekommenen Gebäude der Huana um dich herum die Sicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_maia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der Ruf des Kuriers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Übergib ein Sendschreiben an &lt;b&gt;Harama&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Übergib ein Sendschreiben an &lt;b&gt;Tuaha&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bringe &lt;b&gt;Maia&lt;/b&gt; zur &lt;b&gt;Messingzitadelle&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Maia&lt;/b&gt; nach ihrer Rückkehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Erstatte &lt;b&gt;Atsura&lt;/b&gt; Bericht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Atsura&lt;/b&gt; hat &lt;b&gt;Maia&lt;/b&gt; die Aufgabe übertragen, während sie in meinen Diensten steht Sendschreiben an rauataianische Agenten im Todesfeuer zu übergeben. &lt;b&gt;Maia&lt;/b&gt; versicherte mir, dass die Sendschreiben nichts weiter als bürokratischer Papierkram seien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Maia&lt;/b&gt; hat ein Sendschreiben an &lt;b&gt;Harama&lt;/b&gt;, einem rauataianischen Seemann und altem Freund von ihr, dabei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Maia&lt;/b&gt; hat einen Stapel Sendschreiben, die für ihre exzentrische rauataianische Kollegin &lt;b&gt;Tuaha&lt;/b&gt; bestimmt sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>&lt;b&gt;Maia&lt;/b&gt; muss zur &lt;b&gt;Messingzitadelle&lt;/b&gt; in Neketaka zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>&lt;b&gt;Maia&lt;/b&gt; ist von der Mission, die sie in unbekannte Gebiete führte, zurückgekehrt. Sie scheint begierig darauf zu sein, von ihren Erlebnissen zu erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Nun, da &lt;b&gt;Maias&lt;/b&gt; Ziel eliminiert wurde, wird &lt;b&gt;Atsura&lt;/b&gt; einen Fortschrittsbericht erwarten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Harama&lt;/b&gt; ist in &lt;b&gt;Tikawara&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Harama&lt;/b&gt; hat sein Sendschreiben erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Harama&lt;/b&gt; starb, bevor er sein Sendschreiben erhalten konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;Tuaha&lt;/b&gt; ist in &lt;b&gt;Port Maje&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe die Person, die &lt;b&gt;Tuaha&lt;/b&gt; nachstellte, davon überzeugt, sich nie wieder in &lt;b&gt;Port Maje&lt;/b&gt; blicken zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>&lt;b&gt;Tuaha&lt;/b&gt; starb, bevor sie ihr Sendschreiben erhalten konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>&lt;b&gt;Maia&lt;/b&gt; hat die Gruppe verlassen, um ein Sendschreiben auf eigene Faust zuzustellen. Sie hat mir versichert, in ein paar Tagen wieder da zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>&lt;b&gt;Maia&lt;/b&gt; hat jemanden umgebracht, was offensichtlich schwer auf ihr lastet. Wenn ich ihr etwas Zeit zum Nachdenken gebe, wird sie vielleicht ausführlicher darüber sprechen wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>&lt;b&gt;Tuaha&lt;/b&gt; äußerte die Vermutung, dass sie verfolgt werde. Sie wird &lt;b&gt;Maias&lt;/b&gt; Sendschreiben nicht annehmen, bevor wir uns nicht um ihren Verfolger gekümmert haben.  Sie beschrieb ihn als normal aussehenden, männlichen Huana.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich habe &lt;b&gt;Tuaha&lt;/b&gt; überredet, ihr Sendschreiben anzunehmen, auch wenn sie dies in Gefahr bringen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich habe &lt;b&gt;Tuahas Verfolger&lt;/b&gt; davon überzeugt, zu verschwinden. Mit Gewalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Nachdem die Sache mit dem Verfolger geklärt wurde, konnte ich das Sendschreiben an &lt;b&gt;Tuaha&lt;/b&gt; übergeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Ich habe die Aufzeichnungen des Verfolgers an mich genommen. &lt;b&gt;Tuaha&lt;/b&gt; wird sich bestimmt dafür interessieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für den Abschluss dieser Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe die Sendschreiben an Harama und Tuaha übergeben. Atsura gab Maia zur Belohnung ein mächtiges Gewehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Harama gerettet und ihm Atsuras Sendschreiben gegeben. Gegen ihre Bedenken habe ich auch Tuaha dazu genötigt, ihr Sendschreiben anzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Harama wurde während der Begegnung mit dem Mob getötet. Ich habe Tuaha vor ihrem Verfolger gerettet und ihr Sendschreiben erfolgreich zugestellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Harama wurde während der Begegnung mit dem Mob getötet. Gegen ihre Bedenken habe ich Tuaha dazu genötigt, ihr Sendschreiben anzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

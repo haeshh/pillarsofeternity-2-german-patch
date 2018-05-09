@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_prototype\01_si_chest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du findest eine alte steinerne Truhe, erodiert und gefleckt von all den Jahren, in denen sie der Witterung ausgesetzt war. Der Deckel ist rissig, wird aber von dicken, hölzernen Lianen wie von einer Riesenhand gehalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Einen Zauber wirken, um die Lianen zu verbrennen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Pflanzen zerplatzen kreischend in den Flammen und geben einen Duft ab, der beunruhigend wie verbranntes Fleisch riecht.
+
+Sie verwelken zu rauen, geschwärzten Strängen, doch kaum sind sie geschrumpft, schon zittern und zucken sie und füllen sich erneut mit Saft.
+
+Du reißt den Deckel von der Truhe, bevor sie ihn wieder umfassen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Einen Zauber wirken, um die Lianen einzufrieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Lianen werden unter dem sich ausbreitenden Frost starr und fahl, bis sie schließlich zerbrechen.
+
+Neue Ranken schlängeln sich langsam aus den gefrorenen Stümpfen. Du reißt den Deckel von der Truhe, bevor die Lianen sie wieder umfassen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Die Lianen von der Truhe ziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du kannst keine einzige Liane lockern.
+
+Tatsächlich spürst du beim Ziehen, wie sie ihren Griff um die Truhe noch festigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Jemand anderes bitten, die Lianen von der Truhe wegzuziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 0] kann keine einzige Liane lockern.
+
+Als [Specified 0] daran zieht, umfassen die Lianen die Truhe nur noch fester.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du ziehst ein antikes, bronzenes Beil aus der Truhe. Die Lianen versuchen vergeblich, es zu fassen zu bekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Mit einer Fackel die Lianen verbrennen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du hältst deine Fackel einige Sekunden unter eine der größeren Lianen. Schließlich schrumpft sie zu einem Zweig zusammen.
+
+Die umliegenden Lianen wachsen jedoch in die Lücke, um sie zu bedecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du reißt die Ranken von der Truhe. Lianen wachsen hungrig hoch, um sie wieder zu umfassen, aber du reißt sie schneller aus, als sie nachwachsen können.
+
+Inmitten von all dem gelingt es dir, den Deckel von der Truhe zu entfernen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 0] reißt die Ranken von der Truhe. Lianen wachsen hungrig hoch, um sie wieder zu umfassen, aber [Specified 0] reißt sie schneller aus, als sie nachwachsen können.
+
+Inmitten von all dem gelingt es dir, den Deckel von der Truhe zu entfernen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

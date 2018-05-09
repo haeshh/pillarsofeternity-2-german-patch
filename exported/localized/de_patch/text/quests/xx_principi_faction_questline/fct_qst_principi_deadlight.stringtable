@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_principi_faction_questline\fct_qst_principi_deadlight</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Mann über Bord</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Zum Fort Todeslicht segeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Benweth ausfindig machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Einen Weg finden, um zu Benweth zu gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Benweth konfrontieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Furrante, Anführer der Príncipi sen Patrena, hat die Identität und den Aufenthaltsort des Piraten, der mich auf hoher See angriff, enthüllt – ein Kapitän namens Benweth, der zur Zeit im Piratenparadies Fort Todeslicht Zuflucht sucht. Er schlug vor, dass ich in Fort Todeslicht Rache nehmen soll. Offenbar besteht ein gegenseitiges Interesse an Benweths Ableben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Benweth ist nach Fort Todeslicht zurückgekehrt. Das befestigte Bollwerk befindet sich auf einer kleinen Insel in der südwestlichen Ecke des Todesfeuers. Die verschiedensten Piraten sind in Fort Todeslicht zuhause. Zu Benweth durchzudringen wird nicht einfach, sei es mit Gewalt oder durch Täuschung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich bin in Todeslicht angekommen. Benweth ist irgendwo im Fort. Sobald ich herausgefunden habe, wo er sich befindet, kann ich mir darüber Gedanken machen, wie ich an ihn herankomme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Benweth hat es sich in den höheren Ebenen des Forts gemütlich gemacht, hinter verschlossenen Türen und loyalen Piratenwachen. Der direkte Weg zu ihm scheint gut verteidigt zu sein, aber vielleicht gibt es weniger offensichtliche Routen, die mich an diesen Hindernissen vorbeiführen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe einen Weg in die abgesperrten Bereiche gefunden, die in die Kapitänsquartiere von Todeslicht führen. Dort hält Benweth sich zur Zeit auf. Jetzt ist er in greifbarer Nähe, doch ich sollte mir überlegen, wie genau ich mit ihm umgehe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die Meisterin von Fort Todeslicht ist Aeldys, Anführerin einer großen Splitterfraktion der Príncipi. Benweth verwaltet die Festung während ihrer Abwesenheit, obwohl die Loyalität der meisten Bewohner eher bei Aeldys als bei Benweth liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Furrante rät von einem frontalen Angriff auf das Fort ab. Seine Mauern, Kanonen und Piraten stellen ernstzunehmende Gefahren dar. Stattdessen schlägt er vor, sich heimlich einzuschleichen oder als Príncipi auszugeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Wenn ich mich unter der Flagge der Príncipi Todeslicht nähern würde, könnte ich mich als Pirat ausgeben und im Hafen anlegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich bin mit Gewalt in Fort Todeslicht eingedrungen. Die Piraten dort werden mich mit großer Sicherheit angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe im Hafen von Fort Todeslicht angelegt und mich als Pirat ausgegeben. Wenn die anderen meine Tarnung durchschauen, könnte das zu Problemen führen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Im Schutz der Nacht habe ich mich in einem Ruderboot Fort Todeslicht genähert. Die Piraten in der Festung haben keinen offensichtlichen Grund, mir zu misstrauen, außer, ich lasse mich dort erwischen, wo ich nichts verloren habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Das Bollwerk und der Kerker dürfen derzeit nur von Benweths Besatzung betreten werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Benweths Wachen nutzen ein Horn, um die anderen in der Festung vor einer Bedrohung zu warnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich habe erfahren, wie ich einen Alarm mithilfe des Horns einer Wache abblasen kann, auch, wenn es vermutlich kein zweites Mal funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Es könnte möglich sein, Benweth mit einer lärmenden Feier im Speisesaal der Festung, dem Hof, aus seinen gut verteidigten Kapitänsquartieren zu locken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Mirke denkt, dass etwas von Aeldys Spezialrum genau das Richtige ist, um die Piraten zu einer Feier im Hof von Todeslicht zu animieren. Eine Lieferung dieses wertgeschätzten Tröpfchens wird gerade im östlichen Bollwerk der Festung per Kran verladen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Lamond hat versprochen, eine Tür auf den höheren Ebenen des Forts aufzuschließen, wenn ich seine Besatzung aus dem Kerker von Todeslicht befreie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Lamonds Besatzung wird im Bunker gefangen gehalten. Dieser befindet sich im südöstlichen Teil der Kerker. Die Zellenschlüssel sollten sich in der Nähe des Postens der Wärterin oder in ihren Taschen befinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Benweth ist bekannt dafür, auf wilden Feiern im Hof von Todeslicht das Cembalo zu spielen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Mirke benötigt speziellen Eintopf vom Koch, um die Stimmung bei der Feier im Hof von Todeslicht richtig zum Kochen zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Lamond wird bereitstehen, um die Draco zu stehlen, sobald ich mich Benweths Besatzung im privaten Hafen unter dem Kerker von Todeslicht entledigt habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Sobald am Hafen die Luft rein ist, werde ich die Glocke auf dem westlichen Bollwerk läuten, um Lamond zu signalisieren, dass er Benweths Schiff stehlen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Um den Koch auf der nördlichen Seite des Kerkers zu erreichen, muss ich durch die Pulverlager – und an Benweths Wachen vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>Lamond hat einen Plan, um Benweth aus den inneren Quartieren zu vertreiben und nach draußen zu locken, weit weg von seinen Wachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>Ich habe Aeldys privaten Vorrat an Rum erbeutet. Mirke wird sich darüber freuen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>Ich habe Lamonds Besatzung aus dem Bunker befreit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>Ich habe den Eintopf erhalten, den Mirke benötigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>Ich habe den privaten Hafen freigeräumt. Sobald ich das Signal zur Abfahrt des Schiffes ertönen lasse, wird Lamond mit der Jungdrache, Benweths Schiff, davonsegeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Durch meinen Sieg über Benweth habe ich die Piraten des Todesfeuers beeindruckt. Kapitän Furrante, der auf der Insel Stauholz wohnt, wird erfreut sein, vom Tod des lästigen Piraten zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Durch meine Rache an Benweth habe ich die Piraten des Todesfeuers beeindruckt, auch wenn ich am Ende sein Leben verschont habe. Kapitän Furrante, der auf der Insel Stauholz wohnt, wird über meinen Erfolg erfreut sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

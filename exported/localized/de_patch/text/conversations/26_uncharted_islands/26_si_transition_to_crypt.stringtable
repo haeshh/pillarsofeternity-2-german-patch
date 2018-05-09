@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_crypt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Unterhalb von dir liegt ein üppig begrüntes, enges Tal. In der Ferne entdeckst du ein überwuchertes Gebäude aus Stein an der Seite des Tals.
+
+Vor diesem Steingebäude breitet sich ein weites Feld aus, übersät mit uralten Sockeln und Hügeln von zersplitterten Steinarbeiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rasch begibst du dich auf dem vertrauten Pfad zum Eingang der Gruft. Du betrittst die Gruft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Als du näher herankommst, stellst du fest, dass das Steingebäude in Wirklichkeit der Eingang zu einer Gruft ist. Der Eingang ist dick mit Schlamm bespritzt und feucht und glitschig wie mit Schweiß bedeckte Haut. Dennoch setzt du deinen Weg hinein ins Dunkle fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

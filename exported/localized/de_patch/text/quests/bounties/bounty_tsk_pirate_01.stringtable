@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_pirate_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Großadmiral Imp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Großadmiral Imp&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Dessiral&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Dessiral&lt;/b&gt; möchte, dass ich &lt;b&gt;Großadmiral Imp&lt;/b&gt;, das ehemalige Maskottchen der Brandfackel, finde und töte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Suche den &lt;b&gt;Ankerplatz der Königin&lt;/b&gt; ab, töte &lt;b&gt;Großadmiral Imp&lt;/b&gt; und nimm seinen Kopf mit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Dessiral&lt;/b&gt; am &lt;b&gt;Strahlenden Hof&lt;/b&gt; in &lt;b&gt;Stauholz&lt;/b&gt; zurück und fordere das Kopfgeld auf Großadmiral Imp ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Großadmiral Imp&lt;/b&gt; ist erschlagen, aber ich brauche seinen Kopf als Beweis seines Ablebens für &lt;b&gt;Dessiral&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Großadmiral Imp in den ewigen Ruhestand versetzt und das Kopfgeld von Dessiral erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_si_crane_cargo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vom oberen Festungswall hängt an einem Holzkran eine Palette mit schweren schwarzen Fässer über dem kopfsteingepflasterten Hof. Die Palette schaukelt leicht und ihr Hanfseil ächzt unter der Belastung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Einen Dolch werfen, um das Lastenseil zu durchtrennen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Einen Zauber wirken, um das Lastenseil zu durchtrennen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Einen Dolch werfen, um das Lastenseil zu durchtrennen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Einen Zauber wirken, um das Lastenseil zu durchtrennen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du zielst heimlich mit einem Dolch auf das Lastenseil. Nach zwei angedeuteten Würfen zum Aufwärmen schleuderst du den Dolch mit all deiner Stärke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Dein Wurf trifft geräuschlos mitten ins Schwarze. Der Dolch durchtrennt mühelos das Seil des Krans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>In der Angst, entdeckt zu werden, wirfst du überhastet und ungenau. Du verfehlst das Seil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Während die Palette zu Boden stürzt, fällt die ungesicherte Ladung auf allen Seiten herunter. Die Kisten und Fässer donnern krachend auf den Boden, zersplittern und ergießen ihren Inhalt über das raue Kopfsteinpflaster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Während die Palette zu Boden stürzt, fällt die ungesicherte Ladung auf allen Seiten herunter. 
+
+Ancret hat keine Zeit, um zu reagieren, bevor die schwere Ladung sie unter einem Haufen zersplitterten Holzes und schwerer Waren begräbt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 0] zielt heimlich einen Dolch auf das Lastenseil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 0]s Wurf trifft geräuschlos mitten ins Schwarze. Der Dolch durchtrennt mühelos das Seil des Krans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0]s Wurf ist hastig und ungenau und verfehlt das Seil deutlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du kratzt dich an der Unterseite deines Kiefers und denkst deine Optionen durch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du kannst keinen Zauber wirken, der in dieser Situation nützlich wäre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Mit hochgezogenen Augenbrauen schaut dich [Specified 0] an und wartet auf weitere Anweisungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0] kann keinen Zauber wirken, der in dieser Situation nützlich wäre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Psychoklingen wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Explosion der Sommerflamme wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Nekrotische Lanze wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Einen Magiestoß aus deiner Waffe abfeuern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Etwas anderes tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Mit einem geräuschlosen aber starken Schwung deines Armes schleuderst du einen Zauber auf das Seil. Es zerreißt mit einem peitschenden Geräusch und die Ladung kracht ungebremst zu Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Psychoklingen wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Explosion der Sommerflamme wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Nekrotische Lanze wirken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Einen Magiestoß aus deiner Waffe abfeuern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Etwas anderes tun.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Mit einem geräuschlosen aber starken Armschwung schleudert [Specified 0] einen Zauber auf das Seil. Der Zauber trifft. Das Seil zerreißt mit einem peitschenden Geräusch und die Ladung fällt ungebremst zu Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Einen Pfeil schießen, um das Lastenseil zu durchtrennen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Einen Pfeil schießen, um das Lastenseil zu durchtrennen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Um nicht entdeckt zu werden, zielst und schießt du in Rekordzeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>&lt;i&gt;Zisch!&lt;/i&gt; Dein Pfeil schneidet sauber durch das Lastenseil und hinterlässt eine Kerbe in der Steinmauer dahinter, bevor alles zu Boden kracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Der Pfeil trifft eines der Fässer auf der Palette. Eine weinrote Flüssigkeit tröpfelt leise auf das Kopfsteinpflaster darunter.
+
+Condwen Schlangenauge wirft einen kurzen Blick hoch auf die schaukelnde Ladung, bevor er schnieft und sich wieder seinem Spiel zuwendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Um nicht entdeckt zu werden, zielt und schießt [Specified 0] in Rekordzeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>&lt;i&gt;Zisch!&lt;/i&gt; [Specified 0]s Pfeil schneidet sauber durch das Lastenseil und hinterlässt eine Kerbe in der Steinmauer dahinter, bevor alles zu Boden kracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Der Pfeil trifft eines der Fässer auf der Palette. Eine weinrote Flüssigkeit tröpfelt leise auf das Kopfsteinpflaster darunter.
+
+Condwen Schlangenauge wirft einen kurzen Blick hoch auf die schaukelnde Ladung, bevor er schnieft und sich wieder seinem Spiel zuwendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

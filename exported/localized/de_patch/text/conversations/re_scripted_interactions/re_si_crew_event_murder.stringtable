@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_murder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>65</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du hörst dringliches Klopfen an deiner Tür. [Specified 3] steht vor dir und vom Deck her ist Geschrei zu hören.
+
+"Entschuldige, Kapitän, aber wir haben ein Problem und brauchen dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Schmeißt die schuldige Person über Bord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ondra wird hierüber richten. Lasst [Specified 1] kielholen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Bringt mir die Peitsche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Schneidet [Specified 1] los. Jetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Mit einem Jubelruf marschieren die Seeleute über das Deck, um Gerechtigkeit zu üben. Als sie [Specified 1] hochheben, rutscht der Knebel aus ihrem Mund und sie beteuert schreiend ihre Unschuld. Aber dann ist sie bereits über Bord geworfen und man hört nichts weiter als ein dumpfes Platschen und ein paar leise Schreie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Das Seil zischt mit einem schneidenden Heulen über die Reling und strafft sich dann. Die Seeleute laufen zum Heck des Schiffes und fischen eine blutige und bewusstlose Gestalt heraus.
+ 
+[Specified 1] lebt noch und laut dem Gesetz der See ist die Strafe damit vollzogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Seeleute buhen. Du wringst das Blut aus den Lederschnüren der Peitsche aus und befiehlst den Leuten, wieder an die Arbeit zu gehen. 
+
+[Specified 1] hängt bewusstlos am Mast, während die [Player Ship] weiter segelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Das ist jetzt genug." [Specified 3] schultert den Stock. "Befehl vom Kapitän. Geht auseinander und zurück an die Arbeit!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Das Seil läuft frei, bis sich ein Knoten in der Winsch verfängt und [Specified 1] irgendwo unter dem Rumpf, wo die Seepocken wachsen, entlanggezogen wird. Eine schaumige Mischung aus Fleisch und Blut blubbert im Kielwasser deines Schiffes. 
+
+Du sagst der Mannschaft, dass die schuldige Person tot ist und befiehlst, das Seil loszuschneiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Gibt es überhaupt einen Beweis, dass [Specified 1] diesen Mord begangen hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Kapitän!" [Specified 0] zeigt mit einem Finger auf die beschuldigte Person. "[Specified 1]s Gürtel war um den Hals von [Specified 2] geschlungen! Ich weiß ja nicht, wie es bei dir ist, aber mein Gürtel öffnet sich nur für Stuhlgang und Sex. Vielleicht reicht das nicht für ein Gericht in der Stadt, aber wir sind auf dem Meer und Mörder können wir hier nicht brauchen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"[Specified 1] hat den ganzen Monat genörgelt, wie hohe Geldschulden [Specified 2] hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 3] sieht die beschuldigte Person stirnrunzelnd an. "[Specified 1] hat schon seit einiger Zeit einen Groll gegen [Specified 2], Kapitän, wegen einer Affäre von [Specified 2] im letzten Hafen. Hat auch kein Geheimnis daraus gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Hat jemand gesehen, wie es passiert ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Die Seeleute tauschen Blicke aus. 
+
+"Irgendjemand?" fragt [Specified 3]. "Ihr habt den Kapitän gehört. Hat jemand gesehen, wie dieser Mord passiert ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Natürlich hat es keiner gesehen!" [Specified 0] wischt sich ihre Nase ab. "Die Leute haben gearbeitet oder geschlafen, wie sonst auch!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Specified 0] deutet mit ausgestrecktem Finger auf [Specified 1]. [Specified 1] ist gefesselt und geknebelt. 
+
+"Wir haben alle Beweise, die wir brauchen, Kapitän, keine Sorge. Sag es einfach und wir werden uns ganz schnell um diese Sache kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"In Ordnung. Sagt mir genau, was geschehen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Du weißt so gut wie alle anderen, Kapitän, dass Orlaner selbst zu den besten Zeiten halb verrückt vor Blutlust sind!" [Specified 0] packt [Specified 1] am Nacken und stößt [Specified 1] nach vorn. "Da klebt Blut an diesen kleinen gelben Zähnen! Glaubst du etwa, dass es da ganz von selbst hingekommen ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Hast du nicht gesagt, [Specified 2] wurde erwürgt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich bin sicher, es hatte nichts damit zu tun, dass ihr diesen Unsinn veranstaltet habt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Sie sind bissige kleine Biester, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Specified 3] sieht dich an. "Befehle, Kapitän?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Um das klarzustellen ... Du sagst, dass [Specified 1] schuldig ist, weil Orlaner Mörder sind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Nun, sicherlich nicht nur deswegen, Kapitän ..." [Specified 0] blickt weg. "Manche können eben nicht aus ihrer Haut ... Das ist alles, was ich sage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 4] kichert und blinzelt dann. "Bei den Göttern, das meinst du nicht ernst, Kapitän, oder?"
+
+[Specified 0] blickt finster drein. "Oh, der Kapitän meint das sogar sehr ernst. Also macht schon." Die anderen Matrosen beeilen sich, [Specified 1] zu befreien. "Keiner von uns wird nach so etwas schlafen können, Kapitän. Ich frage mich, wer als nächster erwürgt wird?"</DefaultText>
+      <FemaleText>[Specified 4] kichert und blinzelt dann. "Bei den Göttern, das meinst du nicht ernst, Kapitän, oder?"
+
+[Specified 0] blickt finster drein. "Oh, sie meint das sogar sehr ernst. Also macht schon." Die anderen Matrosen beeilen sich, [Specified 1] zu befreien. "Keiner von uns wird nach so etwas schlafen können, Kapitän. Ich frage mich, wer als nächster erwürgt wird?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"[Specified 1] hat [Specified 2] unter Deck erwürgt. Wir wollten das lösen, indem wir [Specified 1] über Bord werfen, aber ... Dein Schiff, deine Regeln."
+
+[Specified 4] schreit vom Deck herunter: "Hättest auch sagen können, dass du eine bessere Idee hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>An Deck siehst du [Specified 1] gefesselt und geknebelt. [Specified 2] liegt an der Reling. Ein paar Besatzungsmitglieder knien mit Tränen in den Augen rund um die aschfahle Leiche und decken sie mit einem Tuch zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Die Mannschaft schlägt sich gegenseitig auf den Rücken und lobt sich dafür, dass der Gerechtigkeit Genüge getan wurde. Die [Player Ship] segelt weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Mit einer gewissen Gravitas händigt dir [Specified 3] die Peitsche aus: Sie hat einen Griff aus Pferdeleder, an dem Flegel aus mehreren Lederschichten angebracht wurden, die jeweils mit Haizähnen und Fischhaken versehen sind. 
+
+[Specified 0] und [Specified 4] halten [Specified 1] fest. [Specified 1] hat den Kopf zu dir gedreht und sieht dich verzweifelt an. Der Knebel dämpft die Schreie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Mit jedem Schlag von dir beißen die Zacken der Peitsche sich in die Haut und bleiben darin haften, sodass du sie herausreißen musst, um erneut zuzuschlagen. 
+
+Nach drei Schlägen verliert [Specified 1] das Bewusstsein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Mit dem Peitschen fortfahren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Das ist Bestrafung genug."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Du blickst zurück in Richtung Mannschaft und lässt die Peitsche weiter knallen. Wieder und wieder beißen die Widerhaken in [Specified 1]s Rücken, reißen kleine Stücke Fleisch heraus und tränken das Deck mit Blut. 
+
+Du hörst erst auf, als in der blutigen Masse bereits Rippen und Wirbel sichtbar werden. Du wendest dich ab und überlässt es deiner erbleichten Mannschaft, den Leichnam zu beseitigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Die Seeleute tauschen Lächeln aus. 
+
+"Bei Woedica", sagt [Specified 4] "ich habe euch doch gesagt, der Kapitän weiß, wie man so etwas handhabt!"
+
+"Kielholen sagst du?" [Specified 0] grinst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ihr habt mich gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Wie es sich gehört, [Specified 0]. Wir lassen Ondra darüber richten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Die Matrosen schieben die sich wehrende [Specified 1] zum Bug, wo ein Ende eines Seils um ihre Füße und das andere an einen Anker gebunden wird. Sie schreit durch ihren Knebel hindurch, als [Specified 0] sie über Bord stößt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Specified 0] lacht und haut [Specified 4] auf den Rücken. "Hol das Seil und schmeiß dieses mordlustige Stück Scheiße über Bord. Wir werden sehen, was die See von diesem Verbrechen hält."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Wie du wünschst, Kapitän." Mit einem Stirnrunzeln wendet sich [Specified 0] einem anderen Matrosen zu. "Dann lass uns mal sehen, was Ondra davon hält."
+
+Die anderen Seeleute fangen an zu skandieren. "Kielholen! Kielholen! Kielholen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Die Matrosen schieben die sich wehrende [Specified 1] zum Bug, wo ein Ende eines Seils um ihre Füße und das andere an einen Anker gebunden wird. Sie schreit durch ihren Knebel hindurch, als [Specified 0] sie über Bord stößt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Natürlich hat es keiner gesehen!" [Specified 0] wischt sich seine Nase ab. "Die Leute haben gearbeitet oder geschlafen, wie sonst auch!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1] lächelt dich schwach an, als sie von den Seeleuten wegstolpert. Sie massiert ihre Handgelenke an den Stellen, wo das Seil in sie eingeschnitten hat.
+
+Die [Player Ship] segelt weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 1] lächelt dich schwach an, als er von den Seeleuten wegstolpert. Er massiert seine Handgelenke an den Stellen, wo das Seil in sie eingeschnitten hat.
+
+Die [Player Ship] segelt weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Die Matrosen schieben den sich wehrenden [Specified 1] zum Bug, wo ein Ende eines Seils um seine Füße und das andere an einen Anker gebunden wird. Er schreit durch ihren Knebel hindurch, als [Specified 0] ihn über Bord stößt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Die Matrosen schieben den sich wehrenden [Specified 1] zum Bug, wo ein Ende eines Seils um seine Füße und das andere an einen Anker gebunden wird. Er schreit durch ihren Knebel hindurch, als [Specified 0] ihn über Bord stößt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Mit einem Jubelruf marschieren die Seeleute über das Deck, um Gerechtigkeit zu üben. Als sie [Specified 1] hochheben, rutscht der Knebel aus seinem Mund und er beteuert schreiend ihre Unschuld. Aber dann ist er bereits über Bord geworfen und man hört nichts weiter als ein dumpfes Platschen und ein paar leise Schreie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Nun, ja. Die Kreatur da hat doch Hände und Finger und alles, oder nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Nach [Specified 2]s Seele suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Du streckst deine Sinne aus und suchst nach Resten von Essenz, die [Specified 2] zurückgelassen haben könnte. Du findest nichts. Das Opfer ist weitergezogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Sicher, mein Junge. Genau das ist's, was du da sagst."
+
+Serafen sieht den jungen Mann mit zusammengekniffenen grünen Augen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"[Specified 1] hat [Specified 2] unter Deck erwürgt. Wir wollten das lösen, indem wir [Specified 1] über Bord werfen, aber ... Dein Schiff, deine Regeln."
+
+[Specified 4] schreit vom Deck herunter: "Hättest auch sagen können, dass du eine bessere Idee hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"[Specified 1] hat [Specified 2] niedergestochen und der arme Teufel ist tot." [Specified 3] seufzt. "Dachte, du solltest dich darum kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 3] deutet auf die versammelten Seeleute. "[Specified 0] hier hat [Specified 2] in den Hängematten unten gefunden, mit [Specified 1]s Messer zwischen den Rippen."
+
+[Specified 0] nickt, die Stirn schweißbedeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ein paar Matrosen haben einen Streit angefangen und [Specified 1] hat [Specified 2] mit einem der Hämmer eins übergezogen. Der arme Teufel ist verblutet." [Specified 3] runzelt die Stirn. "Die halbe Mannschaft möchte [Specified 1] ins Meer werfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Du befiehlst zwei Besatzungsmitgliedern, [Specified 1] aufzuwecken. [Specified 1]s Kopf wippt besinnungslos gegen den Mast und Blut rinnt am Rücken herunter.
+
+Die Mannschaft beobachtet alles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Mit dem Peitschen fortfahren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Jetzt wacht [Specified 2] plötzlich erwürgt auf und siehe da ... Ein fetter Geldbeutel unter [Specified 1]s Kissen, wo vorher keiner war!"
+
+[Specified 1] windet sich in den Fesseln, während die anderen Seeleute spotten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Jetzt wacht [Specified 2] erstochen auf und das Geld ist nirgendwo zu finden!"
+
+[Specified 1] windet sich in den Fesseln, während die anderen Seeleute spotten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Jetzt bekommt [Specified 2] ganz zufällig von [Specified 1] während eines Streits mit dem Hammer einen Scheitel gezogen. Blödsinn!"
+
+[Specified 1] windet sich in den Fesseln, während die anderen Seeleute spotten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ich habe es gesehen." [Specified 0] tritt vor. "Das heißt, ich habe nicht wirklich gesehen, wie es passiert ist, aber ich habe den Bastard, ich meine [Specified 1], nach oben rennen gesehen, nachdem es passiert ist." [Specified 0] sieht den zusammengesackten Körper von [Specified 2] stirnrunzelnd an. "So habe ich die Leiche gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Nein, Käpt'n," sagt [Specified 4], "aber ich habe gesehen, wie [Specified 1] diesen Nachmittag das Messer geschärft hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Es ist nicht so, als gäbe es keine Spannungen an Bord, Kapitän," sagt [Specified 0]. 
+
+"Aye," grunzt [Specified 4]. "Wir haben nur ein bisschen Dampf abgelassen. Wäre alles nur Spaß gewesen, wenn nicht [Specified 1] mit dem Hammer durchgedreht wäre und auf [Specified 2]s Birne eingeschlagen hätte wie auf einen Nagel. Skaen allein weiß, was den Bastard dabei geritten hat."
+
+[Specified 0] nickt und bestätigt die Geschichte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Die Fäuste sind wegen eines Kartenspiels geflogen, Käpt'n," sagt [Specified 0]. "Keine Waffen, aber auf einmal war [Specified 2] am Boden und [Specified 1] hatte den Hammer in der Hand."
+
+[Specified 3] runzelt die Stirn. "Hört sich an, als hätte es auch ein Unfall sein können." 
+
+"Von wegen Unfall," grunzt [Specified 4]. "[Specified 1] hat einen Mord begangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

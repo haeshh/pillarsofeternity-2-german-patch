@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\bounty encounters\bounty_si_wildrhymer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine Gruppe Huanakrieger hat sich im Sumpf zusammengerottet. Sie schärfen ihre Waffen und üben Kampfmanöver. 
+
+Der Größte von ihnen – ein Natur-Gottähnlicher – sieht ausgesprochen konzentriert aus. Ein Löwe pirscht an seiner Seite und schmiegt sich ab und zu an seine Handfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Beschreibung von Uamoru, dem Thronanwärter auf den Kahanga-Thron und zugleich Nungatas neuestes Kopfgeld, passt auf ihn.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

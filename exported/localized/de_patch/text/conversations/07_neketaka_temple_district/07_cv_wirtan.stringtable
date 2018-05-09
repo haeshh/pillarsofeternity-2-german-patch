@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_wirtan</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich fasse es nicht. Bist du es wirklich?" 
+
+Vollwertige Mahlzeiten und anständiger Schlaf haben Wirtans schmale Statur zu einem gewissen Grad ausgefüllt; aber er hat immer noch fuchsartige Gesichtszüge. Er grüßt dich mit einem unentschlossenen Lächeln. Er ist sich nicht sicher, ob er nervös oder zufrieden sein soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Viel Glück da draußen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Soo, du bist also der Kommandant des ... Eisenflegels?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wolltest du dich verpflichten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Du ... Du bist es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Es heißt jetzt wohl Fürst [Player Name]. Hätte nie gedacht, dich noch einmal zu sehen."</DefaultText>
+      <FemaleText>"Es heißt jetzt wohl Fürstin [Player Name]. Hätte nie gedacht, dich noch einmal zu sehen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Wäre vielleicht schön, ein paar Antworten zu bekommen. Oder ... Vergebung. Dafür, dass ich seine Leute habe sterben lassen. 
+
+"Ich weiß nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Musste mich erst daran gewöhnen, Seite an Seite mit den Readceranern zu arbeiten. Aber es gar nicht so schlimm, wie du vielleicht denkst.
+
+"Ich finde, dass ich auf dem richtigen Weg bin. Vielleicht sogar zu einem kleinen bisschen Vergebung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Sehe in letzter Zeit viele alte Bekannte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich hatte gehofft, dich nie wieder sehen zu müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Scheint so, als ob in letzter Zeit jeder Eothas nachjagt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Und ... Edér. Du hast es also endgültig aus dem Goldtal geschafft, was? Freut mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Noch viel mehr wären da rausgekommen, wenn du sie nicht hättest qualvoll sterben lassen."
+
+Edér ballt und entspannt seine Fäuste mehrmals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich habe das nicht vergessen. Deswegen bin ich hier, Edér."
+
+Wirtan schaut Edér nicht in die Augen. Es bereitet ihm offensichtlich große Mühe, in deine zu schauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Du also auch, hm? Weiß nicht, was dir leid tun sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Du also auch, hm? Schätze mal, dass wir alle irgendwas wiedergutmachen müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Weggehen] "Bleib sauber, Wirtan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Kennen wir uns?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Oh ... Ähm, nein, eigentlich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Das ist bloß der Typ, der so'n paar Eothasianer in ihrem eigenen Tempel hat sterben lassen; damals, im Goldtal. Leute, die ihm vertraut haben.
+
+"Davon abgesehen niemand Besonderes."
+
+Edér geht bedrohlich einen Schritt auf den Mann zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nichts als ein alter Feigling, der versucht, mit sich selbst ins Reine zu kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ich ... Es ist wahr. Ich war ein &lt;i&gt;Feigling&lt;/i&gt;, Edér. Das streite ich nicht ab. Ich will alles wieder in Ordnung bringen."
+
+Wirtans Schultern drehen sich nach innen, aber er macht keine Anstalten, Edér aus dem Weg zu gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich gebe mein Bestes, Fürst."
+
+Wirtan lächelt und neigt den Kopf als Verbeugung.</DefaultText>
+      <FemaleText>"Ich gebe mein Bestes, Fürstin."
+
+Wirtan lächelt und neigt den Kopf als Verbeugung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Na dann, mach‘s gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Eothas wird uns den Weg zeigen, Wirtan. Glaube an ihn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"So lange man ab und zu mal Spaß hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Wirtan, es gibt keine echten Götter, die uns erlösen können. Es gibt nur uns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Nun. Scheint so, als hättest du deine Ansichten seit unserem letzten Treffen ein wenig geändert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich habe noch nie ein Zeichen von Eothas erhalten. Da gab es nur ... dich.
+
+"Wenn es unterm Strich darauf ankommt, womit wir leben können ... Dann bin ich hier noch richtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Egal, wie lange die Nacht ist, die Sonne geht am nächsten Morgen immer auf. 
+
+"Ich erinnere mich. Es ... es war gut, dich zu treffen, Wächter. Möge der Strahlende Gott deinen Pfad erleuchten."</DefaultText>
+      <FemaleText>"Egal, wie lange die Nacht ist, die Sonne geht am nächsten Morgen immer auf. 
+
+"Ich erinnere mich. Es ... es war gut, dich zu treffen, Wächterin. Möge der Strahlende Gott deinen Pfad erleuchten."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ist wohl eine Berufskrankheit. Also, dass du ein Wächter bist, meine ich." 
+
+Wirtan grinst betreten und zieht dann seinen Kopf ein.</DefaultText>
+      <FemaleText>"Ist wohl eine Berufskrankheit. Also, dass du eine Wächterin bist, meine ich." 
+
+Wirtan grinst betreten und zieht dann seinen Kopf ein.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ich tut jetzt also, was ich kann. Verteile meistens Essen oder liefere Vorräte. 
+
+"Arbeit, mit der ich vertraut bin, schätze ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Na ja, es war eine Weile schon ziemlich knapp mit diesem ... Ding, das das Goldtal anstelle Raedrics regierte. 
+
+"Ich bin da mit ein paar anderen Familien rausgekommen. Bin hierhergekommen, als die Dämmerungssterne durch die Stadt gezogen sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Na ja, es war eine Weile schon ziemlich knapp da. Wenn du dich dadurch besser fühlst. 
+
+"Hatte nicht das Gefühl, dass ich damals im Goldtal viel Gutes tat. Oder irgendwo sonst. Nicht, bis ich von den Dämmerungssternen Wind bekommen habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Wirtan? Was tust du denn hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"So habe ich Jahre verbracht. Nur ich und ich die schreckliche Tat, die ich begangen hatte. Das lag mir wie ein Stein im Magen und zerriss mich innerlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Die Dinge im Goldtal hatten sich zugespitzt. Sogar nachdem der Fluch der Hohlgeborenen vorüber war.
+
+"Hatte nicht das Gefühl, dass ich da viel Gutes tat. Oder irgendwo sonst. Nicht, bis ich von den Dämmerungssternen Wind bekommen habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ich habe mich an mein Wort gehalten. Ich fing an, überall in der Stadt zu helfen, wie du es mir aufgetragen hattest. Als der Fluch der Hohlgeborenen endete, war es wie ... Du kannst dir nicht vorstellen, was dies für jeden einzelnen bedeutet hat.
+
+"Wir hatten ein paar gute Jahre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Herrje, das ließ mich nachts kein Auge zutun. Da dachte ich mir, dass es kein klareres Zeichen geben könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich helfe hier zusammen mit den Dämmerungssternen. Verteile meistens Essen oder liefere Vorräte. 
+
+"Ähnlich ... ähnlich wie im Goldtal, wenn man so will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Seelenfrieden, oder zumindest so etwas in der Art. Das ist gut genug für mich."
+
+Wirtan lächelt dich ein letztes Mal schief an und verbeugt sich danach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Na ja, also. Wir werden sehen, wohin dich dein nächstes Leben verschlägt.
+
+"Sie können dich nicht erlösen, aber sie werden trotzdem über dich richten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Dann erhielten wir die Nachricht, dass die Dämmerungssterne hierher kämen. Dass der Zersplitterte Gott wieder zum Strahlenden Gott geworden sei."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

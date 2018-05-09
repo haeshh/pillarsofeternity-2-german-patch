@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_qst_cold_hard_hope</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bittere Medizin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Begib dich zur &lt;b&gt;Graberstraße&lt;/b&gt; im Schlund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde Medizin gegen die Ertrunkenenlunge in der &lt;b&gt;Graberstraße&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Gib &lt;b&gt;Pitli&lt;/b&gt; in ihrem Haus im &lt;b&gt;Schlund&lt;/b&gt; die Medizin gegen die Ertrunkenenlunge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Mehrere Roparu im &lt;b&gt;Schlund&lt;/b&gt; sind an der Ertrunkenenlunge erkrankt, einer tödlichen und ansteckenden Krankheit. &lt;b&gt;Pitli&lt;/b&gt;, eine Priesterin von den Kindern der Dämmerungssterne, versorgt sie insgeheim und braucht dafür Medizin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Pitli&lt;/b&gt; denkt, ich könnte die benötigte Medizin in der &lt;b&gt;Graberstraße&lt;/b&gt; finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>In der Graberstraße wimmelt es vor Geschäften und zwielichtigen Gestalten. Irgendjemand hier muss die Medizin haben, die Pitli braucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe die Medizin, die &lt;b&gt;Pitli&lt;/b&gt; benötigt. Sie und die kranken Roparu warten in ihrem Haus im &lt;b&gt;Schlund&lt;/b&gt; darauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Pitli weiß nicht, wie sie in die Graberstraße kommt, aber vielleicht wissen es die Leute, die in der &lt;b&gt;Schenke herumhängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Ernezzo&lt;/b&gt; versprach, mir die Medizin zu geben, wenn ich den &lt;b&gt;Spindelmann&lt;/b&gt; töte, einen anderen Händler in der &lt;b&gt;Graberstraße&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Einige von &lt;b&gt;Ernezzos&lt;/b&gt; Bande verlassen seinen Laden nachts, um etwas trinken zu gehen. Er ist zu diesem Zeitpunkt somit nur wenig bewacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Der Spindelmann erwähnte einen geheimen Eingang zu &lt;b&gt;Ernezzos Lagerraum&lt;/b&gt;. Ich kann mich über den &lt;b&gt;Holzsteg östlich seines Ladens&lt;/b&gt; hineinschleichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Der Spindelmann schlug vor, dass ich stattdessen &lt;b&gt;Ernezzo&lt;/b&gt;  töte. Er versprach mir im Gegenzug günstigere Preise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe die &lt;b&gt;Medizin&lt;/b&gt; von Ernezzo gestohlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe &lt;b&gt;Ernezzo&lt;/b&gt; getötet und mir die &lt;b&gt;Medizin&lt;/b&gt; genommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>&lt;b&gt;Ernezzo&lt;/b&gt; soll im Besitz der &lt;b&gt;Medizin&lt;/b&gt; sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Den &lt;b&gt;Spindelmann&lt;/b&gt; gibt es nicht mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;Rust wird &lt;b&gt;Ernezzo&lt;/b&gt; für mich erledigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Ich habe &lt;b&gt;Rust&lt;/b&gt; angeheuert, um den &lt;b&gt;Spindelmann&lt;/b&gt; zu töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>&lt;b&gt;Ernezzo&lt;/b&gt; ist tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die kranken Roparu gemeldet. Pitli und ihre Schützlinge wurden in die Altstadt verbannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich gab Pitli die Medizin. Sie und die kranken Roparu sind auf dem Weg der Besserung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_pirate_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Dame Epero</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte die &lt;b&gt;Dame Epero&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Dessiral&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Dessiral&lt;/b&gt; hat mir den Auftrag gegeben, der &lt;b&gt;Dame Epero&lt;/b&gt;, ehemaliger erster Maat der Brandfackel, gegenüberzutreten und zur Rechenschaft zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die &lt;b&gt;Dame Epero&lt;/b&gt; in ihrem Anwesen in &lt;b&gt;Schlangenkrone&lt;/b&gt; in Neketaka aufsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Zu &lt;b&gt;Dessiral&lt;/b&gt; am &lt;b&gt;Strahlenden Hof&lt;/b&gt; in Stauholz zurückkehren und das Kopfgeld auf die Dame Epero einfordern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Das Blut der Dame Epero war zwar nicht blau, aber ich habe von Dessiral das Kopfgeld auch so erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

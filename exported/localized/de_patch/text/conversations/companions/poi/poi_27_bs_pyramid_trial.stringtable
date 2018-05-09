@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_27_bs_pyramid_trial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich frage mich, ob es für eine Prüfung im Kampf wohl schon zu spät ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Muss ich dich daran erinnern, was passiert ist, als wir das letzte Mal so eine Veranstaltung unterbrochen haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"In Ordnung – wir werden jetzt dort reinmarschieren und so tun, als wären wir Richter. Dann sagen wir einfach, dieses Verfahren ist illegal und weisen sie darauf hin, dass deswegen jetzt &lt;i&gt;sie&lt;/i&gt; vor Gericht stehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"In den Republiken tragen Richter keine Masken, nur Scharfrichter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>&lt;ispeech&gt;Gerichte waren nie so meins. Habe immer meine eigene Gerechtigkeit vorgezogen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Was glaubst du wohl, ob das auf eine Feuerprobe hinausläuft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

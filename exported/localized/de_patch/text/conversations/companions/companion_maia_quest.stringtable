@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_maia_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>263</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Das Dorf lag am Strand. Keine Anzeichen von fremder Besatzung. Ich hätte die erste Fremde dort seit ... einer ganzen Weile sein können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Es waren einfache Leute, die nur ihren Leben nachgegangen sind. Können nicht mehr als fünfzig gewesen sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Ihr Ranga, aber ... er hatte eine Stimme, die einen mitriss, die im Herzen der Leute widerhallte." Sie kneift die Augen zusammen, während sie sich auf einen weit entfernten Punkt konzentriert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ich habe ihm in den Hinterkopf geschossen. Er war tot, noch bevor er am Boden lag."
+
+Sie öffnet ihre Finger wie eine Blume, die aufblüht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Es hat ein wenig gedauert, bis seine Leute ihn fanden, aber sie haben nur Sekunden gebraucht, um zu bemerken, dass er nicht an einem schwachen Herzen gestorben war." Sie kaut auf ihrer Unterlippe herum und sieht flüchtig zu Ishiza herüber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Also ... wir sind zurück. Hast du uns vermisst?" Maia lächelt etwas, ihre Mundwinkel zucken dabei. Ishiza grüßt mit einem freundlichen Quäken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ach ja, diese Sache." Mit Stirnrunzeln verschränkt Maia ihre Arme und nickt gedankenverloren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Wo warst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Natürlich habe ich dich vermisst, Maia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Da draußen ist etwas passiert, und es hat mich verändert." Maia fixiert ihren Blick auf einen entfernten Punkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Tja, danke. Einige Tage lang gab es nur mich und den Vogel, und jetzt können wir uns auf den Tod nicht mehr ausstehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Lass mich hören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Ich habe keine Zeit dafür."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"In Ordnung. Dann teile ich meine Gedanken mit dem Vogel, wenn es das ist, was du willst." Sie hebt ihre Augenbraue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Ich ... hab nicht etwa ein Schreiben überbracht. Dieses Pergament war für mich bestimmt, und ich habe so lange hinausgezögert, es zu öffnen, wie ich konnte." Sie verschränkt die Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Worüber hat er geredet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Sprich weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Er hat die angrenzenden Stämme zur Einheit aufgerufen, wollte alten Zwist vergessen. 
+
+"Seine Leute haben ihm zugehört, und zwar sehr genau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Er war mein Ziel. Du kannst dir vorstellen, was als Nächstes passiert ist." Maia zuckt mit den Schultern und drückt ihre Unterarme, um etwas Spannung abzubauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Erzähl mir trotzdem davon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Erspar mir die grausigen Details, bitte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Also gut. Kurz gesagt, der Häuptling hat das nächste Morgengrauen nicht erlebt." Maia kippt ihren Kopf zur Seite und begutachtet dich gespannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Der Kern der Sache ist ... mein Ziel war nicht der Kapitän eines Schiffs oder ein Oger, der einen Zaunpfahl schwingt. 
+
+"Es war der Ranga eines Huana-Stamms." Sie hebt eine Augenbraue und wartet auf eine Reaktion von dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Also hat es den Stamm nicht durcheinandergebracht, dass ihr Häuptling getötet wurde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Rauatai kann davon lernen und das nächste Mal eine etwas bessere Wahl treffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Hört sich nicht so an, als wäre deine Mission ein Erfolg gewesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Ich habe meine Mission abgeschlossen. Ich überlasse es Atsura, sich darüber Gedanken zu machen, ob es ein &lt;i&gt;Erfolg&lt;/i&gt; war oder nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Ich schätze, das hängt davon ab, wie sehr man Atsuras Plan vertraut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Seufzend spielt Maia mit einer losen Locke an ihrem Dutt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Sie trauerten, sie waren zornig, sie rauften sich die Haare aus ... doch dann bauten sie alles wieder auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Als ich aufbrach, haben sie bereits vom Frieden mit den anderen Stämmen gesprochen, als wäre er unvermeidlich." Ein langsames Lächeln des Erstaunens legt sich auf ihre Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Tekēhu schweigt weiterhin, doch statt der Worte legt sich ein wildes und selbstgefälliges Grinsen auf sein Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Was auch immer es ist, behalt es für dich, Fischjunge." Maia schnalzt laut mit ihrer Zunge nach ihm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Maia!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Warum fängst du nicht von vorne an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Ach bitte, Kapitän. Du bist nicht gerade ein Pazifist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Ich bin wegen dieser Sache womöglich ein paar Tage weg." Maia kaut auf der Innenseite ihrer Backen herum und greift in ihre Tasche.
+
+Sie holt ein versiegeltes Schreiben hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Hört sich heimlichtuerisch an. Erzähl mir mehr davon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Maia nickt dir zu und wirft etwas von ihrer Spannung ab, die dir zuvor nicht aufgefallen war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Hat so getan, als hätte ich nicht gerade ihren Boss dafür getötet, genau dasselbe getan zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Atsura hat mir einen Namen und einen Ort gegeben. Das war alles.
+
+"Wenn du dein Brot als Scharfschützin verdienst und dein Boss dir keine Erklärungen liefert, lernst du irgendwann, deine eigenen Schlussfolgerungen zu ziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Ich nehme an, du findest deinen Weg zurück?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Sollte kein Problem sein. Du hinterlässt eine chaotische Spur." Maia grinst dich zwinkernd an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Sie nickt dir zu und schaut dir etwas länger in die Augen, bevor sie mit der Zunge schnalzt, um Ishiza zu sich zu rufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Amüsiert euch. Jage einen Gott, rette eine Insel – tu, was du am besten kannst, Kapitän." Sie nickt dir ermutigend zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Aloth, versuch bitte, das Schiff nicht zu versenken, während ich weg bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Hey, Bauernjunge, halt den Kapitän ein wenig bei Laune, bis ich wieder da bin." Sie nickt Edér zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Deine andere Vogelfreundin kann dir für ein paar Tage Gesellschaft leisten." Sie nickt Pallegina zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Ich bin sicher, dein kleiner Orlaner kann dich solange unterhalten." Sie nickt Serafen zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Wenn du mich vermissen solltest, plauder einfach mit dem Fischmann. Ich bin sicher, er hat ein paar Geschichten auf Lager." Sie nickt Tekēhu zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Xoti kann dir Gesellschaft leisten. Treibt keinen Unsinn, ihr beiden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Es ist wohl kaum meine Schuld, dass jemand den Teer neben den Laternen gelagert hat!" Er wirft ihr einen leicht vorwurfsvollen Blick zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Pass auf Ishi auf. Ich erwarte euch beide bald wieder hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Ohne auch nur einen Augenblick zu zögern, wirft Pallegina Maia eine unschöne Geste zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Kannst froh sein, dass ich das Federvieh mag, Mädel, ich bin nämlich nicht das verdammte Haustier von jedem dahergelaufenen Pulveraffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Hoffentlich bringst du eine gute mit." 
+
+Er verschränkt die Arme und hebt eine Augenbraue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Pass auf dich auf Maia, hörst du? Komm in einem Stück wieder zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Sichere Reisen, Maia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Komm mit Antworten zurück, oder lass es ganz bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Versuche, dich nicht töten zu lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Du auch. Du darfst nur nicht so viel Spaß ohne uns haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Ich kann nichts versprechen." Sie zuckt mit den Schultern und wirft dir einen kurzen, unsicheren Blick zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Wie rührselig von dir, das vorzuschlagen. Ich tue mein Bestes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Ich werde dich nicht bitten, mitzukommen oder dich mit hineinziehen." Zunächst sieht es so aus, als würde Maia zu Ishiza heruntersehen – tatsächlich aber starrt sie auf ihre Füße.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Ich werde mit dir gehen. Wohin gehen wir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Darf ich denn gar nicht mitreden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Wenn ich sage, dass ich dich nicht bitten werde ... Dann meine ich, dass du nicht eingeladen bist. Das ist eine Arbeit, die eine Frau und ihr Vogel alleine erledigen müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Tut mir leid, Kapitän. Es ist nur ... Ich würde lieber alleine gehen. So alleine, wie es geht." Sie knufft Ishiza mit ihrem Zeh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"Sprich weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"Erzähl mir nicht, dass du jemanden erschossen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Ich sehe schon, das wird gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"Hat es für dich einen Unterschied gemacht, dass der Ranga ein Zivilist war?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"Natürlich. Ich schieße, um Soldaten zu stören und Konflikte zu beenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"Ich glaube, ich muss etwas klarstellen." Maia verschränkt ihre Arme und klopft mit ihren Knöcheln gegen ihren Bizeps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"Wenn es dir nichts ausmacht, würde ich mir das gern eine Weile lang durch den Kopf gehen lassen und sehen, was dabei herauskommt. 
+
+"Danke jedenfalls, dass ich bei dir etwas Dampf ablassen konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"Ich habe noch andere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>"Lass uns hier verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>"Ich muss ... diese Sache alleine erledigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"Haben wir etwa die ganze Zeit über Mordaufträge weitergegeben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"Berechtigte Frage. Die kurze Antwort? Ich weiß es nicht." Maia sieht mit einem Stirnrunzeln zu Ishiza herunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"Atsura verwendet verschiedene Codes für jeden von uns. Ich könnte mir eher Engwithanisch beibringen, als den Code eines anderen Agenten zu knacken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"Ich habe einen Ort und eine Zeit ausgesucht. Morgen, westwärts gewandt, viele Bäume als Deckung. Das Licht war vorteilhaft für mich, und wenig Wind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>"Und dann hielt ich inne. Ich habe mir all diese Kapitäne vorgestellt, die ich durchlöchert hatte, und ich dachte bei mir ... 
+
+"Gehen wir so mit Zivilisten um? Werden so Kriege gewonnen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>"Und du hast sein Leben verschont?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>"Sprich weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>"Nein, ich habe ihn umgebracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>"Ich sollte reinen Tisch machen, Kapitän." Mit einem Seufzer kratzt sich Maia am Hinterkopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText>"Lass mich hören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>"Ist das der Punkt, an dem du mich hintergehst, Maia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText>"Was? Nein. Ich meine ... was?" Maia schüttelt perplex den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>"Atsura hat mich nicht losgeschickt, nur damit ich eine Beschäftigung habe. Er hat mir einen Auftrag gegeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>"Ich habe diesen Stapel an Schreiben, die ich ausliefern muss. Eine noble Aufgabe, nicht wahr?" Sie zeigt dir eine kleine Sammlung an Schriftrollen in ihrer Tasche, alle sorgfältig mit dem Siegel der Königlichen Todesfeuer-Gesellschaft versehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>"Die Gesellschaft hat eine Menge Leute, die fernab der Hauptquartiere arbeiten, und Atsura hat mir aufgetragen, diese in die richtigen Hände zu bringen.
+
+"Hoffe, das ist kein Problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>"Ich werde zusehen, dass wir sie rechtzeitig ausliefern können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>"Was steht in diesen Schreiben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>"Bist du nicht ein bisschen überqualifiziert für solche Laufburschen-Arbeit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>"Ich werde daran denken, wenn wir Zeit haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>"Weiß ich zu schätzen, Kapitän. Du würdest Atsura und der Gesellschaft einen großen Gefallen tun." Sie grinst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>"Ein bisschen von allem. Ladeverzeichnisse, Anfragen für Vorräte, Arbeitsaufträge. Hauptsächlich Arbeitsaufträge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>"Du würdest nicht glauben, wie viel Papierkram es braucht, um eine Marine am Laufen zu halten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>"Ich habe mal eine Weile lang ein Anwesen am Laufen gehalten. Ich kann es mir vorstellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>"Ah, natürlich. Sich mit den Anwohnern gut stellen, Kopfgelder auszahlen. Vielleicht hat Eothas dir ja einen Gefallen getan, als er auf Caed Nua getreten ist?" Sie gluckst vor sich her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>"Das ... meinte ich nicht wirklich so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>"Dieses hier ist für Harama, einen ... Bekannten. Guter Seefahrer. Er treibt sich irgendwo in Tikawara herum." Sie hält eine einzelne Schriftrolle hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>"Und diese hier sind für Tuaha, einen alten Freund, der in Port Maje stationiert ist. Man trifft einige seltsame Gestalten in der Marine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>"Also gut. Wir werden meinen Kontakten so oder so über den Weg laufen, also zerbrich dir nicht den Kopf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>"Ich habe einige Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>"Lass uns hier verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText>"Aufpassen, Ishi – wir haben es mit einem Charmeur zu tun." Maia tut, als würde sie ihrem Vogel etwas zuflüstern, und ihr liegt ein wissendes Lächeln im Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>"So ist das mit Atsura – er hat so viele Eisen gleichzeitig im Feuer, dass alles nach höchster Priorität aussieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>"Noch etwas, das ich über deinen Auftrag wissen sollte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>Maia greift zu ihrem Dutt, um ihn enger zu schnüren, und nimmt sich einen Moment, um über deine Frage nachzudenken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>"Nimm es nicht persönlich, wenn ich bei einigen Einzelheiten etwas vage bleibe. Atsura legt größten Wert auf Diskretion. Selbst bei ganz langweiligen, bürokratischen Dingen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>"Solange ich mir deshalb keine Sorgen machen muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>"Ich werde dich im Auge behalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText>"Ich werde es dich wissen lassen, sobald das der Fall ist. Darauf kannst du zählen." Sie schließt ein Auge und schießt wohlmeinend mit ihrem Finger auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>"Wenn du schon dabei bist, kannst du auch gleich ein Auge auf Ishiza werfen, denn &lt;i&gt;irgendjemand&lt;/i&gt; kackt mir seit Neustem in die Schuhe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>"Tuaha ist ... exzentrisch. Ich weiß. Sogar in der Marine wusste ich nie, was ich von ihr halten sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>"Wir haben Harama in einem ganz schön üblen Zustand vorgefunden, was? Kein Wunder, dass dich interessiert, was vor sich geht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>"Ich hoffe, dass es Tuaha gut geht. Man sollte meinen, dass eine Offizierin, die so erfinderisch ist wie sie, sich um sich selbst kümmern können müsste." Maia umschlingt sich mit ihren Armen und sieht in die Ferne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText>"Du könntest dich jetzt fragen, warum einer der Stammesangehörigen ihr nachstellen würde, und ob das etwas mit unserer kleinen ... Mission zu tun hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>"Der Gedanke ist mir schon einmal gekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>"Mission. Eine interessante Wortwahl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>Maia seufzt nickend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>"Ich werde deine Intelligenz nicht beleidigen. Natürlich hat es das."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>"Atsura verrichtet wichtige Arbeit im Todesfeuer. Er bringt Frieden, Ordnung, Reichtum. Nicht jeder sieht das so, also muss er seine Absichten möglichst verdeckt halten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>"Ich weiß, dass diese Geheimniskrämerei nicht gut aussieht, aber ich kann dir versprechen, dass es das Beste für das Todesfeuer ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>"Seid ihr beide Spione?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>"Der, der ihm nachgestellt hat, war nicht nur einfach ein Verrückter oder Dieb, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>"Das ist alles ... für den Moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText>"Wenn ich Informationen von einem Ort zu einem anderen bringe, macht mich das zur Spionin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>"Ich denke, es hängt davon ab, auf welcher Seite des Zauns man steht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>"Vermutlich nicht. Überlass es den Huana, einer einzelnen Rauataianerin zu misstrauen, die ihr Handwerk versteht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>"Überrascht mich nicht, dass sie ein Auge auf das Tun und Schaffen eines Fremden haben oder sich dem sogar in den Weg stellen wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>"Ist da noch etwas, das du mir nicht erzählst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>"Ja.
+ Natürlich ist da noch mehr. Viel mehr. Glaubst du, Atsura erzählt &lt;i&gt;mir&lt;/i&gt; alles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>"Was auch immer er für das Todesfeuer geplant hat, ich bin nur ein kleiner Teil davon. Aber ich muss mich trotzdem darum kümmern, dass er erledigt wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText>"Du hast guten Grund, vorsichtig zu sein. Aber ... du musst mir vertrauen, dass das alles zu unserem Besten ist. Diesbezüglich würde ich nicht lügen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText>"Du ... hast bestimmt einige Fragen zu dem, was wir getrieben haben." Maia seufzt nickend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>"Harama ist ein sehr geselliger Typ. Leute kennenzulernen ist so einfach für ihn, wie das Atmen für uns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>"Atsura lässt ihn los, um ... so viele Leute wie möglich &lt;i&gt;kennenzulernen&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>"Was soll das bedeuten, Maia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText>"Er ist ein Spion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>"Er behält Tikawara im Auge – wer kommt, wer geht, welche Dinge diskutiert werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>749</ID>
+      <DefaultText>"Das ist eine Möglichkeit, es auszudrücken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>"Ich weiß, dass ich mich sehr schwammig ausdrücke. Das kommt dabei heraus, wenn man zu lange für Atsura arbeitet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText>"Atsura ist sehr bedacht darauf, das Todesfeuer friedlicher zu machen, aber er ist nur ein einzelner Mann. Er braucht gute Leute, um diese Last mit ihm zu tragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>"Also fungiert Harama nur als Augen und Ohren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>753</ID>
+      <DefaultText>"Dieser Mob hat behauptet, er besäße codierte Missionsschreiben. Ist das wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>754</ID>
+      <DefaultText>"Was haben wir da ausgeliefert, Maia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>755</ID>
+      <DefaultText>"Das ist alles ... für den Moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>756</ID>
+      <DefaultText>"Nur Atsura weiß das sicher. Selbst Harama könnte nicht über alle Fakten verfügen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>757</ID>
+      <DefaultText>"Ich auf jeden Fall nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>758</ID>
+      <DefaultText>"Jedenfalls tust du etwas Großartiges für das Todesfeuer. Das wirst du eines Tages einsehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>759</ID>
+      <DefaultText>"Hm. Vielleicht. Wahrscheinlich." Maia zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>760</ID>
+      <DefaultText>"Sagen wir, wir sind nicht die Ersten, die Harama ein Schreiben geliefert haben, das wie eine bestimmte Sache aussah und sich wie eine völlig andere gelesen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>761</ID>
+      <DefaultText>"Ganz ehrlich? Ich weiß es nicht. Sie sahen für mich wie ganz normale Dokumente aus, aber ich bin sicher, dass es das ist, was Atsura wollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>762</ID>
+      <DefaultText>"Atsura hat für jede Stunde des Tages einen neuen Code. Vermutlich hat er Dechiffrier-Tattoos auf seinem ganzen Körper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>768</ID>
+      <DefaultText>"Hm. Ich versuche, nicht zu viel hineinzuinterpretieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>770</ID>
+      <DefaultText>"Er hat seine Hütte verlassen, durch das Haar seines Kindes gestrichen und ist zum Strand auf der anderen Seite der Insel aufgebrochen. Um Hummerfallen zu prüfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>"Ishi flog über ihm, um ihm zu folgen, und ich habe Blickkontakt gehalten – meinen Atem angehalten, auf den richtigen Moment wartend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>789</ID>
+      <DefaultText>"Ich sehe schon, dass dir etwas auf dem Herzen liegt ... und ich schulde dir eine Erklärung." Maia nickt, hebt ihr Kinn an und brüstet sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>790</ID>
+      <DefaultText>"Wir sollten auch über Harama sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>791</ID>
+      <DefaultText>"Ich habe auch Fragen zu Tuaha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>793</ID>
+      <DefaultText>"Mehr von Atsuras schmutziger Arbeit. Das gefällt mir nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>794</ID>
+      <DefaultText>"Das muss es nicht, Kapitän. Es ist mein Auftrag." Maia sieht dich finster an und schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>798</ID>
+      <DefaultText>"Was hält mich davon ab, Onekaza und Aruihi davon zu erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>799</ID>
+      <DefaultText>"Sei kein Dummkopf. Sie sind klug genug, um zu wissen, dass Rauatai Spione hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>800</ID>
+      <DefaultText>"Und wenn sie wirklich klug sind, dann spionieren sie uns auch aus. Obwohl ich das bezweifle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>801</ID>
+      <DefaultText>"Gib mir einen guten Grund, warum ich das nicht im ganzen Todesfeuer herumerzählen sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>802</ID>
+      <DefaultText>"Du hast keine Beweise, ich werde alles leugnen, und die Marine wird vergessen, dass sie mich je kannte." Maia verschränkt ihre Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>803</ID>
+      <DefaultText>Sie blinzelt langsam, mit leerem Gesichtsausdruck.  Sie ist still, um dem Moment die nötige Schwere zu verleihen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>804</ID>
+      <DefaultText>"Drei Gründe. Und jetzt lass mich alleine, Kapitän. Ich muss meine Kanone reinigen." Maia wendet sich von dir ab und sagt nichts mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>821</ID>
+      <DefaultText>"Wir werden nie erfolgreich sein, wenn wir die Stämme nicht verstehen. Und etwas sagt mir, dass wir das noch nicht erreicht haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>827</ID>
+      <DefaultText>"Wenn wir Atsuras Weg gehen, dann sollten wir uns besser sicher sein, dass es einen Unterschied macht, die richtigen Leute zu töten ... verdammt sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>828</ID>
+      <DefaultText>"Und wenn wir auf das zurückfallen, was wir kennen ... Kanonen, Belagerungen, Besetzungen ... sollten wir besser darauf vorbereitet sein, gegen ein bewegliches Ziel zu kämpfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>830</ID>
+      <DefaultText>"Harama war ein sehr geselliger Typ. Leute kennenzulernen fiel ihm so leicht wie das Atmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>836</ID>
+      <DefaultText>Seine Mimik wird etwas sanfter, bevor Tekēhu die Stirn runzelt und Maia etwas Platz verschafft, indem er zurücktritt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>837</ID>
+      <DefaultText>Mit zusammengepressten Lippen betrachtet Tekēhu Maia sehr aufmerksam beim Sprechen. Er zupft an den Enden seiner Haare und dreht sie nervös zwischen den Fingern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>838</ID>
+      <DefaultText>"Ekera, das reicht!" Tekēhu verformt sich in eine Maske aus Schmerz.
+
+Maia richtet alarmiert ihre Aufmerksamkeit auf ihn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>839</ID>
+      <DefaultText>"Ich sage, sie kann sich ihre Erklärung für die Obrigkeit in Schlangenkrone sparen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>840</ID>
+      <DefaultText>"Das wird nicht passieren, Blauchen." Maias Hand wandert zu ihrem Gürtel. Ishiza zuckt aufmerksam zusammen und schüttelt sein Gefieder durch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>841</ID>
+      <DefaultText>"Tekēhu, lass sie reden. Wir haben ohnehin keine Beweise für ihre Behauptungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>842</ID>
+      <DefaultText>"Ich möchte mir gerne anhören, was sie zu sagen hat, und nicht vorschnelle Entscheidungen treffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>844</ID>
+      <DefaultText>"Maia, was du hier beschreibst, ist hochgradig illegal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>845</ID>
+      <DefaultText>"Danke, Kapitän." Tekēhu nickt und erhebt mit einer herrischen Geste sein Kinn über Maia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>846</ID>
+      <DefaultText>Maia nimmt sich einen Moment, um euch beide genauer zu studieren, bis sie sich schließlich in die Faust räuspert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>847</ID>
+      <DefaultText>"Wenn ihr beide dann fertig seid ... Ich wollte gerade auf den Punkt kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>852</ID>
+      <DefaultText>"Ich werde dich im Auge behalten, &lt;i&gt;Attentäterin&lt;/i&gt;." Tekēhu zeigt erst auf seine Augen und dann zu denen von Maia. Er grinst angewidert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>854</ID>
+      <DefaultText>"Sprich weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>855</ID>
+      <DefaultText>"Geht es um deine ... Mission?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>856</ID>
+      <DefaultText>"Ja. Ich habe viel darüber nachgedacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>857</ID>
+      <DefaultText>"Ich bin nicht in dieses Geschäft eingestiegen, um in einem Kampf zuerst zu schießen, der nicht einmal begonnen hat ... verstehst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>859</ID>
+      <DefaultText>"Ich weiß, dass der Ranga Nui Ergebnisse sehen will, aber ich hätte nie gedacht, dass jemand von uns jemals an einem ... Attentat beteiligt sein würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>866</ID>
+      <DefaultText>"Merkwürdige Ansichten für eine Scharfschützin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>867</ID>
+      <DefaultText>"Kommt darauf an, aus welchen Augen man es sieht, schätze ich." Maia legt die Stirn in Falten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>868</ID>
+      <DefaultText>"Ich kann mir vorstellen, eine gegnerische Festung oder ein feindliches Schiff anzugreifen. Ich kann mir vorstellen, auf den Soldaten zu zielen, der den größten Hut trägt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>869</ID>
+      <DefaultText>"Ich habe einen Häuptling getötet, der gute Ideen verbreitet hat. Das ist nicht dasselbe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>870</ID>
+      <DefaultText>"Wenn meine Fähigkeiten mit der Kanone jemanden dazu gebracht haben, dass eine Kugel eine Allzwecklösung für Probleme jeder Größe darstellt, dann sagt das mehr über denjenigen aus als über mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>872</ID>
+      <DefaultText>"Ich nehme an, du hast dir diese Art von Fragen nie gestellt, als du noch in der Marine warst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>873</ID>
+      <DefaultText>"Es ist ein wenig anders, wenn ein gegnerisches Schiff vor einem wendet und sich seine Kanonen, wie Spinnenaugen glitzernd, in dein Sichtfeld drehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>874</ID>
+      <DefaultText>"Da hat man nicht die Zeit für tiefgreifende, moralische Diskussionen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>875</ID>
+      <DefaultText>"Du hörst dich zwiegespalten an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>879</ID>
+      <DefaultText>"Ishiza kann ganz gut zuhören, aber er ist zu dumm, um mir seine Sichtweise anzubieten. Ich ... könnte deine ganz gut gebrauchen." Maia wirft dir einen fragenden Blick zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>880</ID>
+      <DefaultText>"Ich habe Bedenken, dass ein Attentat die falschen Signale sendet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>881</ID>
+      <DefaultText>Sich selbst zunickend wirkt Maia eher entschlossen als gedankenverloren. Sie knackt mit dem Nacken, kugelt mit den Schultern und atmet erleichtert aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>882</ID>
+      <DefaultText>"Du könntest recht haben. Wenn wir diese Sache außer Kontrolle geraten lassen, wird uns das auf lange Sicht nichts nützen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>887</ID>
+      <DefaultText>"Ich denke, die Gesellschaft muss jede Gelegenheit beim Schopfe packen, selbst, wenn es Unstimmigkeiten mit den Einheimischen bedeutet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>888</ID>
+      <DefaultText>"Kugeln sind billiger als Armeen. Du sparst Leben und Ressourcen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>889</ID>
+      <DefaultText>"Die Entscheidung für diesen Pfad lässt sich nur schwer verteidigen. Die Geschichte wird gnadenlos urteilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>890</ID>
+      <DefaultText>"Rauatai kann nicht mithalten mit den finanziellen Mitteln der Vailianer, der Zahl der Príncipi oder der Macht der Huana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>891</ID>
+      <DefaultText>Sich selbst zunickend wirkt Maia eher entschlossen als gedankenverloren. Sie knackt mit dem Nacken, kugelt mit den Schultern und atmet erleichtert aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>892</ID>
+      <DefaultText>"Ich weiß es nicht, Kapitän." Ich habe aus verzweifelten Situationen schon eine Menge guter Ideen herausgepresst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>893</ID>
+      <DefaultText>"Du hast recht. Diese Wahrheit ist schwer zu ertragen. Aber je eher wir sie akzeptieren, desto schneller können wir uns darüber hinaus bewegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>894</ID>
+      <DefaultText>"Ich habe zu der Sache keine eigene Meinung beizusteuern. Tut mir leid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>895</ID>
+      <DefaultText>"Nun, was auch immer dir dazu verhilft, nachts schlafen zu können, vermute ich einmal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>898</ID>
+      <DefaultText>"Du darfst mich ruhig aus der Sache heraushalten. Ich bin nur ein Zuschauer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>900</ID>
+      <DefaultText>"Ich kann es gut begründen, dass meine Arbeit gerechtfertigt war. Aber Götter ..." 
+
+"Ein Attentat ist ein großer Schritt in eine unsichere Richtung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>903</ID>
+      <DefaultText>"Wir schießen auf Menschen mit gefährlichen Ideen - und hoffen, dass ihre Ideen mit ihnen sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>906</ID>
+      <DefaultText>"Wir sollten mit Atsura sprechen. Er soll erfahren, dass ich seiner Bitte nachgekommen bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>907</ID>
+      <DefaultText>"Müssen wir das wirklich weiter ausbreiten? Ich nehme deine Entschuldigung dafür an, jemanden umgebracht zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>908</ID>
+      <DefaultText>"Ein guter Kapitän hört auf seine Mannschaft." Maia hebt die Augenbrauen.</DefaultText>
+      <FemaleText>"Eine gute Kapitänin hört auf ihre Mannschaft." Maia hebt die Augenbrauen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>909</ID>
+      <DefaultText>"Du sagst, das ist vielleicht nicht die Erinnerung, die wir mit nach Hause nehmen wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>910</ID>
+      <DefaultText>"Es stimmt, wir wollen das Todesfeuer nicht durch Zermürbung verlieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>911</ID>
+      <DefaultText>"Wir behalten also die langfristigen Ziele im Auge und opfern dafür schnelle, leichte Gewinne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>912</ID>
+      <DefaultText>"Und eine Kugel im Kopf soll das erreichen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>920</ID>
+      <DefaultText>"Ich habe noch andere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>921</ID>
+      <DefaultText>"Lass uns hier verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>924</ID>
+      <DefaultText>"Danke, dass du mich so weit gebracht hast. Ich ... ähm ..." Maia kratzt sich am Hinterkopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>925</ID>
+      <DefaultText>"Hier werden unsere Wege sich trennen. Wenigstens für den Augenblick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>926</ID>
+      <DefaultText>"Was geht hier vor sich, Maia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>927</ID>
+      <DefaultText>"Aber ich brauche dich hier!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>928</ID>
+      <DefaultText>"Das ist inakzeptabel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>929</ID>
+      <DefaultText>"Atsura wird wollen, dass ich allein ihm berichte. Tut mir leid, es ist eine Angelegenheit, die die Gesellschaft betrifft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>930</ID>
+      <DefaultText>"Ich muss mich bei Atsura melden. Hast du etwas dagegen, wenn wir einen Abstecher zur Messingzitadelle machen?" Maia hebt die Augenbrauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>931</ID>
+      <DefaultText>"Du willst über deine Mission Bericht erstatten, nehme ich an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>932</ID>
+      <DefaultText>"Kein Problem, Maia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>933</ID>
+      <DefaultText>"Wenn ich genügend Zeit habe, werden wir uns dorthin begeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>934</ID>
+      <DefaultText>"So ungefähr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>935</ID>
+      <DefaultText>"Das weiß ich zu schätzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>936</ID>
+      <DefaultText>"Nun ... achte darauf, dass du nicht zu lange brauchst. Wir verschwenden hier immerhin die Zeit der Gesellschaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>937</ID>
+      <DefaultText>"Ich nehme an, Atsura wird sicherstellen wollen, dass ich für seinen kleinen Auftrag nicht zu viele Ressourcen verschwende. Nichts, worüber man sich Sorgen machen müsste." Maia zuckt mit den Schultern und bedeutet mit einer Geste, dass sie sich verabschiedet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>938</ID>
+      <DefaultText>"Grüße Atsura von mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>940</ID>
+      <DefaultText>"Hm. Ich hätte nicht vermutet, dass dich das so durcheinander bringt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>941</ID>
+      <DefaultText>"Ich werde nicht zu lange fortbleiben. Wenn es sein muss, kannst du dir ein wenig freie Zeit nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>942</ID>
+      <DefaultText>"Ich habe einige Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>943</ID>
+      <DefaultText>"Lass uns hier verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>945</ID>
+      <DefaultText>"Dieser Stamm hat mich überrascht. Sie haben sich benommen, als hätte ich ihren Ameisenhügel zerstört. Sie wurden wütend. Und haben sich an die Arbeit gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>946</ID>
+      <DefaultText>Der alte Ranga ist auf dem Scheiterhaufen gelandet, und ein neuer trat an seine Stelle. 
+
+"Sie hat zur Einheit aufgerufen, während die Glut noch warm war." Maia schüttelt den Kopf und grinst ein wenig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>947</ID>
+      <DefaultText>"Ich bin sicher, das Loch in seinem Kopf war ein schlagender Beweis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>948</ID>
+      <DefaultText>"Was ist dann passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>949</ID>
+      <DefaultText>"Atsura hat mich angeheuert, weil ich sehr genau bin und mich in dieser Gegend gut einfüge. Nicht etwa, weil ich so ordentlich bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>950</ID>
+      <DefaultText>Nicht um Ideen zu ersticken oder den Geist zu erdrücken. Das ist die Arbeit der Vailianer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>951</ID>
+      <DefaultText>"Die gesamte Inselgruppe ist das Schlachtfeld der Stämme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>952</ID>
+      <DefaultText>"Rauatai sollte diese Prüfung seines Werts annehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>953</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>954</ID>
+      <DefaultText>"Ich bin mir sicher, die Marine würde ihre Stärke gern an einer Herausforderung messen, auch wenn Atsura sich Sorgen wegen der Kosten macht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>955</ID>
+      <DefaultText>"Du klingst wie die Propaganda in unserem Heimatland."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

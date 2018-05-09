@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_si_undercroft_skiff</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du triffst auf ein verwittertes Ruderboot. Die Farbe ist an vielen Stellen bereits abgeblättert. Es schaukelt sanft im Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das verwitterte Ruderboot ist an einer von der Sonne gebleichten Leine befestigt. Es schaukelt auf dem Wasser, und dann trägt eine Welle es nach vorne und es stößt gegen das Dock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Zum Ankerplatz der Königin rudern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Hier bleiben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Zum Gewölbe rudern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du ruderst durch die enge Höhle, in der das Schweigen einer ruhigen See herrscht, in die Bucht von Neketaka und suchst dir deinen Weg zum Ankerplatz der Königin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Mit raschen und kräftigen Ruderschlägen bewegst du dich durch die Bucht von Neketaka und eine geschützte Seehöhle, bis du zum Gewölbe kommst.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

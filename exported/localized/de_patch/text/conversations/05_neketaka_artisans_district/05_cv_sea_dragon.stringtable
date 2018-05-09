@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_sea_dragon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>262</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als sich die Wassermassen beruhigen, füllt sich die Luft mit erdrückender Feuchtigkeit. Deine Augen brauchen einen Augenblick, um der Form, die aus den Tiefen hervorgebrochen ist, eine Gestalt zu geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>&lt;ispeech&gt;Du schon wieder. Ich bin noch genauso in diesem Gefängnis gefangen wie bei unserem ersten Gespräch.&lt;ispeech&gt;Der Drache zieht seine Lippen in einer müden, humorlosen Annäherung an ein Grinsen zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>&lt;ispeech&gt;Ich habe LANGE GENUG stillgehalten und mir deine Fragen angehört! Wirst du mich endlich befreien oder muss diese Sache blutig enden?&lt;ispeech&gt;Scyorielaphas spreizt seine Klauen und zischt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>&lt;ispeech&gt;Was auch immer du zu tun GLAUBST, es ist mir nicht entgangen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>&lt;ispeech&gt;ICH HABE DICH GEWARNT, VERRÄTER!&lt;/ispeech&gt;Scyorielaphas breitet seine Flügel aus und gibt ein ohrenbetäubendes Brüllen von sich.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;ICH HABE DICH GEWARNT, VERRÄTERIN!&lt;/ispeech&gt;Scyorielaphas breitet seine Flügel aus und gibt ein ohrenbetäubendes Brüllen von sich.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Scyorielaphas weicht mit einem frustrierten Zischen zurück. Er atmet heftig und starrt dich hasserfüllt und ungläubig an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Wie bist du hierher gekommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Der Drache beobachtet dich stumm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>&lt;ispeech&gt;Täusche dich nicht – du bist das einzige Monster hier.&lt;/ispeech&gt;Dampf steigt an beiden Seiten seines weit aufgerissenen Mauls empor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Scyorielaphas gibt ein ohrenbetäubendes Brüllen von sich und prescht vor. Mit jedem mächtigen Schritt sendet er Wasserfontänen in die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Der Drache brüllt voller Schmerz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Was, wenn wir den gefangenen Teil deiner Seele vom Rest trennen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Wie kann ich dich befreien?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>&lt;ispeech&gt;Periki und ihre Magier haben dieses Gefängnis mit dem Stab erschaffen, den du bei dir trägst.&lt;/ispeech&gt;Er nickt mit seinem Kopf in Richtung der erhöhten Steine in der Kammer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich brauche Zeit, um darüber nachzudenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>In die Seele des Drachen einzutauchen, fühlt sich zunächst verwirrend an, als würdest du die Regale einer gewaltigen Bibliothek durchwühlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich akzeptiere das ... fürs Erste. Bist du gewillt, zu kooperieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Angreifen] "Dafür ist es zu spät. Ich habe genug von dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Wie um alles in Eora haben sie es geschafft, ihn &lt;i&gt;hier&lt;/i&gt; unten einzusperren?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Das wäre astreinstes Anglerlatein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ishi, nicht! Das ist nicht die Zeit für einen Kampf. Ich weiß ja, dass du es mit ihm aufnehmen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Belfetto. Wie immer bin ich begeistert, mit dir in eine Drachenhöhle vorzudringen, Wächter. Dein Pfad ist geradezu gepflastert mit diesen Kreaturen."</DefaultText>
+      <FemaleText>"Belfetto. Wie immer bin ich begeistert, mit dir in eine Drachenhöhle vorzudringen, Wächterin. Dein Pfad ist geradezu gepflastert mit diesen Kreaturen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Bei Galawains fruchtbarem Speer! Das da is' eine ordentliche Portion Bestie, sag ich dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Heiliger Gaun, er ist wunderschön ... und ich wette, blitzgescheit und gleichermaßen gerissen." Sie atmet hörbar ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>&lt;ispeech&gt;Ich bin Scyorielaphas, Hüter der Inseln.&lt;/ispeech&gt;Er knallt seinen Schwanz auf den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ich möchte mit dir über deine Freilassung sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>&lt;ispeech&gt;Dann SPRICH.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>&lt;ispeech&gt;NEIN. Niemand nimmt mir meine Seele. Weder du noch diese fremden Seelendiebe!"&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Dafür müssen wir dich nicht verletzen. Ich muss mir nur die Schutzzauber genauer ansehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Wenn du Angst hast, sag es einfach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Niemand nimmt dir deine Seele. Wir lassen nur das meiste von dir frei. Ist das nicht, was du willst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Zurück zum Verhandeln also."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Der Drache rümpft seine Schnauze und bedeutet dir mit einem Wippen seines Kopfes, fortzufahren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Er zischt voller Abscheu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>&lt;ispeech&gt;Ich kenne keine Angst.&lt;/ispeech&gt;Er kneift seine Augen noch weiter zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>&lt;ispeech&gt;Nun gut. Ich gebe dir eine Chance.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>&lt;ispeech&gt;Du hattest mehr als genug Zeit.&lt;/ispeech&gt;Der Drache zischt und wippt voller Ungeduld mit seinem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Mit einem ohrenbetäubenden Brüllen macht Scyorielaphas einen gewaltigen Schritt nach vorne und greift an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>&lt;ispeech&gt;Ich spüre, dass du einen Stab bei dir trägst.&lt;/ispeech&gt;Scyorielaphas kneift die Augen zusammen und beobachtet dich aufmerksam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>&lt;ispeech&gt;Er hat die Verzauberungen dieses Gefängnisses geschaffen ... und kann sie auch wieder zerstören. Er kann mich befreien.&lt;/ispeech&gt;Der Drache schwingt seinen Schwanz aufgeregt im Kreis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Zuerst habe ich einige Fragen an dich, Drache."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Ich habe noch mehr Fragen an dich, bevor ich fortfahren kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>&lt;ispeech&gt;Meine Geduld hat Grenzen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>&lt;ispeech&gt;Ich ... werde deine Neugierde tolerieren.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>&lt;ispeech&gt;Du hast wohl nichts zu sagen? Haben die Nāga dir die Zunge gestohlen?&lt;/ispeech&gt;Scyorielaphas brüllt ohrenbetäubend und prescht vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Angreifen] "Gegenangebot – ich gehe hier mit deinem Kopf raus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Deine Seele ist an diesen Ort gebunden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>&lt;ispeech&gt;Periki und ihre Besatzung haben Schutzzauber errichtet, die meine Seele an diese Kammer binden.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>&lt;ispeech&gt;Ich bin nicht an diesen Ort gekettet, aber ich ... fühle mich dazu genötigt, hier zu bleiben.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>&lt;ispeech&gt;Du kannst nur aus einem Grund hier sein. Du dienst den HUANA.&lt;/ispeech&gt;Seine Augen verengen sich zu kleinen Schlitzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>&lt;ispeech&gt;Ich habe genug von deinen Lügen!&lt;/ispeech&gt;Scyorielaphas brüllt ohrenbetäubend und prescht vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>&lt;ispeech&gt;Was ist das, einer von Ondras Welpen?&lt;/ispeech&gt;Er rümpft seine Schnauze in Tekēhus Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>&lt;ispeech&gt;Hmpf.&lt;/ispeech&gt;Heißer Dampf strömt aus der Nase des Drachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Was geschieht mit denen, die dich gefangen genommen haben, wenn ich dir helfe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>&lt;ispeech&gt;Die Huana haben sich ihren Weg in den Untergang selbst bereitet. Ich werde ihn nicht betrauern.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>&lt;ispeech&gt;Doch genauso wenig werde ich ihn beschleunigen, solange sie sich gegen die Welle der Fremden stellen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Kehren wir zur Frage deiner Freiheit zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>&lt;ispeech&gt;Du hast den Stab und damit das Mittel, um mit zu befreien. Ich sehe keinen Grund, warum wir nicht zur selben Zeit gehen sollten!&lt;/ispeech&gt;Er lässt mit einem hörbaren Klacken seine Zähne zuschnappen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Bevor ich irgendetwas versuche, muss ich verstehen, mit welcher Art von Magie wir es zu tun haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>[Angreifen] "Du hast mich durchschaut – Ich wollte mich eben hinter dich schleichen und dir in den Rücken stechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Ich muss sichergehen, dass die Luft rein ist, bevor wir dich befreien. Die Huana haben Netze und Harpunen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>&lt;ispeech&gt;Hm ... Wie überaus gerissen von ihnen. Vermutlich werde ich nicht in dieselbe Falle tappen wie zu Perikis Zeiten, aber ich bin zu schwach, um es zu riskieren.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>&lt;ispeech&gt;Hintergehst du mich, werde ich so viele Nāga herbeirufen, wie nötig sind, um dieses Gefängnis zu durchbrechen.&lt;/ispeech&gt;Der Drache hört auf, die Zähne zusammenzubeißen und sieht dich stumm an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Ich sollte besser gehen. Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>&lt;ispeech&gt;NEIN. Unser Gespräch ist NICHT BEENDET, solange du den Schlüssel zu meinem Gefängnis bei dir trägst.&lt;/ispeech&gt;Seine Worte hallen in deinem Kopf wider und du spürst einen Tropfen Blut aus deiner Nase laufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Der Drache mustert dich mit stummem Argwohn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>&lt;ispeech&gt;Da dieses Gefängnis meine Seele selbst festhält, würde ich meinen Auszug nur ungern in ... ungeübte Hände legen.&lt;/ispeech&gt;Ein tiefer, grummelnder Ton steigt aus seiner Kehle auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>[Lügen] "Mein Fehler. Ich kann das wieder hinbiegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>[Lügen] "Ich probiere nur herum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>[Angreifen] "Ich glaube, dass ich dich von deiner elenden Existenz befreien werde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>&lt;ispeech&gt;Das solltest du auch besser.&lt;/ispeech&gt;Der Drache kneift seine Augen zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>&lt;ispeech&gt;Spiel nicht mit dem Gefängnis herum, an dem das Schicksal meiner Seele hängt. Das ist deine letzte Warnung.&lt;/ispeech&gt;Der Drache kneift seine Augen zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>&lt;ispeech&gt;Deine Fragen ermüden mich. Hast du vor, mich freizulassen oder nicht?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>&lt;ispeech&gt;Du hast NICHT die Absicht, mich freizulassen. Deine Augen verraten deinen Betrug!&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>&lt;ispeech&gt;Eher STERBE ich, als dass ich noch einen weiteren Tag in diesem Gefängnis verbringe!&lt;/ispeech&gt;Mit einem kräftigen Brüllen prescht er vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Ich möchte dein Gefängnis genauer untersuchen. Wenn ich dich befreien kann, werde ich es tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>&lt;ispeech&gt;Deine Untersuchung ist IRRELEVANT. Ich habe diese Wände bereits so lange angestarrt, dass es für uns beide reicht!&lt;ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Lass mich das Gefängnis untersuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Ein tiefes Knurren baut sich in seiner Kehle auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>&lt;ispeech&gt;Dieses Gefängnis hat mir zu viel abverlangt. Ich gebe mich geschlagen.&lt;/ispeech&gt;Mit großer Mühe neigt er leicht den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>&lt;ispeech&gt;Nur, wenn ich dadurch aus diesem Gefängnis entkomme. Ohne die See und den Himmel, die mich willkommen heißen, werde ich wohl bald den Tod diesem Dasein vorziehen.&lt;/ispeech&gt;Er wendet seine Augen ab und versteckt damit seinen gequälten Blick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>&lt;ispeech&gt;Nun gut. Ich warte.&lt;/ispeech&gt;Der Drache sieht den Eingang hasserfüllt an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>&lt;ispeech&gt;Als Fremde die Inseln bedrohten, schwand die Macht der Huana. Die gerissene Periki hat mich aufgesucht, um einen Handel einzugehen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>&lt;ispeech&gt;Sie nutzte meine Seele als Verstärker für ihre Wasserformer. Im Gegenzug schwor sie, den Adra zu beschützen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>&lt;ispeech&gt;Als ich mich entschloss zu gehen, ließen meine Fänger mich hier zurück, verraten und in der Dunkelheit heulend.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Das ... das kann nicht wahr sein, sage ich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Ich habe dich nicht gehört. Ich war zu beschäftigt damit, mir vorzustellen, wie die Sonne mein Gesicht wärmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Scyorielaphas brüllt in ohnmächtigem Zorn und seine Rage erschüttert die Grube so sehr, dass Steine von oben herunterpoltern und mit einem lauten Klatschen ins Wasser fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Entschuldigung. Es musste sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>&lt;ispeech&gt;Der Stab könnte die Schutzzauber ebenfalls zerstören.&lt;/speech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Warum ist dieser Stab so wichtig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>&lt;ispeech&gt;Er beinhaltet ein Fragment meiner Seele, dass ich willentlich gab, um meine Stärke zu teilen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>&lt;ispeech&gt;Die Huana haben es VERDREHT und gegen mich verwendet, genauso wie sie ihre Seelen verdrehen.&lt;/ispeech&gt;Kochendes, schäumendes Wasser tropft von seinem Kiefer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Die Energie und Lebhaftigkeit, die seine Seele färben sollte, ist grau und ausgelaugt. Aus den Schatten greift ein dunkles, formloses Etwas verzweifelt nach dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Als es dich berührt, fühlt sich das Gewicht des Gefängnisses wie ein Anker an. Du ziehst dich zurück und fühlst dich geschwächt und verbraucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>&lt;ispeech&gt;Dieses Gefängnis wurde auf einem Fundament ihrer Lügen errichtet.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Wovon sprichst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Ich habe mehr Anlass dazu, ihnen zu vertrauen, als dir, Monster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>[Lügen] "Die Huana haben mich nicht geschickt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>&lt;ispeech&gt;Als ihre mächtige Begabung nachließ, habe ich den Huana die Stärke verliehen, sich mit dem Meer selbst gegen ihre Feinde zu erheben.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>&lt;ispeech&gt;Dann bist du Komplize in der Plünderung des Todesfeuers und wir sind Feinde.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Dann bist du Komplizin in der Zerstörung des Todesfeuers und wir sind Feinde.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>&lt;ispeech&gt;Zu lügen, wenn ich mit deinem Unterbewusstsein verbunden bin, ist nicht kühn, sondern nur dumm.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>[Angreifen] "Genug geredet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>&lt;ispeech&gt;Bist du schockiert? Wie amüsant.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>&lt;ispeech&gt;Und nun STIRBT das Todesfeuer in meiner Abwesenheit. Der leuchtende Adra kreischt vor Schmerz und ruft seinen Hüter.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Ich habe in deine Seele geblickt. Es ist wahr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>[Angreifen] "Nicht ganz – du wirst sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>[Die Seele des Drachen lesen.] "Deine Seele ist hier gefangen? Lass sie mich ansehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>&lt;ispeech&gt;Glaube, was du willst. Meine Verpflichtung gegenüber dem Archipel ist alles, was zählt.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Ich weiß nicht, ob ich dir glauben kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>&lt;ispeech&gt;Du bist ein Wächter? Von all den Gestandenen, die sich in meine Kammer hätten verirren können ... wie interessant.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Du bist eine Wächterin? Von all den Gestandenen, die sich in meine Kammer hätten verirren können ... wie interessant.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>&lt;ispeech&gt;Ich kann nicht versprechen, bei deinen ... Beseelungsspielchen mitzuspielen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>&lt;ispeech&gt;Du kehrst zurück ... und mein Gefängnis ist noch da.&lt;/ispeech&gt;Scyorielaphas fletscht warnend die Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>&lt;ispeech&gt;Die Schutzzauber sind die Gitter meiner Zelle und der Stab, den du bei dir trägst, kann sie wie Grashalme verbiegen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"Die Schutzzauber zerstören. Alles klar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>[Lügen] "Ich werde mich gleich darum kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Es könnte sicherer sein, ihnen die Kraft zu entziehen und sie von selbst zusammenbrechen zu lassen ... Aber ich möchte dich nicht mit Details langweilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"Ich suche noch immer nach einer Möglichkeit, dich zu befreien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>[Angreifen] "Ich biete dir die Befreiung des Todes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>&lt;/ispeech&gt;Der Stab, den du bei dir trägst, beinhaltet ein Stück meiner Seele – es kann die Schutzzauber meines Gefängnisses ganz einfach ausschalten.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>&lt;ispeech&gt;Du weißt bereits, wie du mich befreien kannst. Und doch spielen wir weiter dieses Spiel.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>&lt;ispeech&gt;Wir haben schon viel zu viel Zeit mit REDEN verbracht. Schalte die Schutzzauber aus, und zwar sofort. Solltest du diese Sache noch weiter hinauszögern, muss ich handeln.&lt;/ispeech&gt;Der Drache kneift seine Augen zusammen und sieht zu, wie du gehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>&lt;ispeech&gt;Irgendetwas sagt mir, dass sich unsere Wege nicht schnell genug trennen können.&lt;/ispeech&gt;Er schüttelt seinen riesigen Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>&lt;ispeech&gt;Wo gehst du diesmal hin? Planst du, wie du mich verraten kannst?&lt;/ispeech&gt;Das Fauchen des Drachen wird lauter, bis sein Echo die Kammer erfüllt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>&lt;ispeech&gt;Wir haben schon zu viel Zeit verschwendet. Ich werde keine Verzögerungen mehr dulden!&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>&lt;ispeech&gt;Du zögerst meine Befreiung unnötig heraus. Lass mich die Angelegenheit so darlegen, dass dein simpler Gestandenen-Geist es erfassen kann.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>&lt;ispeech&gt;Wenn du das für klug hältst.&lt;/ispeech&gt;Scyorielaphas hebt eine seiner schuppigen Brauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Scyorielaphas sieht zu dir herab und bewegt seine Schulter als wäre es das erste Mal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>&lt;ispeech&gt;Die Last meines Gefängnisses ist ... weg! Ich werde zu meinem geliebten Adra zurückkehren!&lt;ispeech&gt;Scyorielaphas spreizt seine Klauen und brüllt triumphierend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Solange du dich daran erinnerst, wer dir geholfen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>&lt;ispeech&gt;Ja. Die Huana haben mir diese Ketten angelegt und du hast mich von ihnen befreit. Das vergesse ich nicht.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>Dankbar neigt Scyorielaphas seinen Kopf, flattert zwei Mal mit seinen Flügeln und baut damit Wucht und Geschwindigkeit für seinen Abflug auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>&lt;ispeech&gt;Sollte deine Hoffnung auf der hohen See je schwinden, wirst du erleben, wie mein willkommener Schatten über dein Schiff hinwegsegelt. Darauf kannst du dich verlassen!&lt;/ispeech&gt;Mit einem triumphierenden Brüllen hebt Scyorielaphas zur steinernen Decke ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Wirst du in Betracht ziehen, Gnade gegenüber jenen walten zu lassen, die dich hintergangen haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>&lt;ispeech&gt;Gnade? Sie wird nur denen zuteil werden, die sie auch mir gezeigt haben. Der Rest?&lt;/ispeech&gt;Sein Maul verzieht sich zu einem tödlichen Grinsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>&lt;ispeech&gt;Was du als Hass kennst, verblasst gegenüber der Tiefe meiner Abscheu.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>&lt;ispeech&gt;Eines Tages werde ich diese Schutzzauber zerbrechen und die Insel wird brennen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>&lt;ispeech&gt;Tu, was du willst. Ich bin ... offensichtlich nicht stark genug, etwas dagegen zu unternehmen.&lt;/ispeech&gt;Er kneift fest die Augen zusammen. Aus seinen Nasenlöchern kommt eine Schwade Dampf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Ich schaue mir diese Schutzzauber noch einmal an. Ich gehe davon aus, dass du mich lässt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>Der Drache wirft dir einen schmerzerfüllten Blick zu und wendet sich dann ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"Du musst nicht mehr sagen. Lass uns von hier verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>Entweder hat sich das Licht im Raum verändert oder ein Hoffnungsschimmer hat die Augen des Drachen zum Leuchten gebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>&lt;ispeech&gt;Hör auf, mit mir zu spielen! Zerstöre die Schutzzauber in diesem Gefängnis!&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>&lt;ispeech&gt;Die Naivität des Halbbluts ist herzerwärmend. Ich kann verstehen, warum du seine Anwesenheit erträgst.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>"Wir tragen eine gewisse Verantwortung, sage ich." Tekēhu bricht ab und zupft gedankenverloren an einem seiner Haare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>&lt;ispeech&gt;Deine Meinung ist irrelevant, Halbblut.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"Hast du schon mal daran gedacht, dir einen Spitznamen zuzulegen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>Scyorielaphas sieht Edér mit zusammengekniffenen Augen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"Ich will ja nur sagen, dass du vielleicht mal darüber nachdenken solltest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>&lt;ispeech&gt;Ich kann spüren, wie das Gewicht dieser Grube um mich herum nachlässt! Nicht aufhören!&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>"Geduld. Ich arbeite daran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"Ich tue das nicht, weil ich unsere Unterhaltungen so schätze. Lass mich arbeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>Er folgt deinen Fortschritten mit zusammengekniffenen Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>&lt;ispeech&gt;Der nächste Schutzzauber, schnell!&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>"H-Hallo." Tekēhu schluckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>&lt;ispeech&gt;Als Dank für meine Großzügigkeit haben sie meine SEELE an diese Kammer gebunden.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>"Aber wenn er die Wahrheit sagt, tun wir den Huana einen größeren Gefallen, wenn er hier bleibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>&lt;ispeech&gt;Ich bin als Ehrengast gekommen. Die Wasserformer wurden stärker und neue Konflikte ersetzen die alten.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>&lt;ispeech&gt;Wenn du nicht gescheit genug bist, um diese Schutzzauber zu zerstören, dann lass sie in Ruhe!&lt;/ispeech&gt;Der Drache zieht seine Oberlippe hoch und entblößt eine Reihe krummer Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>"Was bringt mir denn unser Arrangement?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>&lt;ispeech&gt;Dein Schiff wird unter meinem Schutz segeln.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>&lt;ispeech&gt;Solch ein Geschenk findest du im Todesfeuer kein zweites Mal.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>&lt;ispeech&gt;Dann tu es. Zu viel meiner Zeit wurde in dieser Zelle bereits verschwendet. Ich sehne mich nach der See und dem Himmel.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>"Sprich weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>"Aber Vailianer bauen den Adra ab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>&lt;ispeech&gt;Sieh mich an. Bist du überrascht, dass die Huana ihre Versprechen nicht einhalten?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>"Die Wasserformer schützen nicht den Adra, sondern halten die rauataianische Armada zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>&lt;ispeech&gt;In der Tat. Die Huana übernehmen sich.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>"Wenn wir dich freilassen, beraubt das die Wasserformer eines sehr nützlichen Vorteils."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>&lt;ispeech&gt;Die Weisen unter ihnen werden sich auf ihren uralten Pakt mit Ngati zurückbesinnen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>&lt;ispeech&gt;Die Huana werden zu kämpfen haben. Wenn sie würdig sind, werden sie überdauern.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>"Du hältst dich für einen Hüter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>"Gebunden oder nicht, was hast du vor, dagegen zu unternehmen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>&lt;ispeech&gt;Freiheit kommt wie die Gezeiten und das Todesfeuer antwortet meinem Ruf.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>&lt;ispeech&gt;Das ist eine Aufgabe so alt wie die Inseln selbst.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>&lt;ispeech&gt;In vergangenen Zeiten gab es drei Hüter. Sie wachten über die Inseln, den Adra und das verlorene Ukaizo.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>"Was weißt du über Ukaizo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>"Du hast drei Hüter erwähnt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>"Zurück zu meinen anderen Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>&lt;ispeech&gt;Eine Stadt, in der Gestandene zu Göttern sprachen? Das Herz eines Imperiums? Ich weiß nur, was mir zu Ohren gekommen ist.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>&lt;ispeech&gt;Kreaturen unvergleichlicher Macht und unvergleichlichen Alters. Gebunden, wie ich, um den Huana Stärke zu verleihen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>&lt;ispeech&gt;Ukaizo ist in tiefe Vergessenheit geraten. Es ist besser, dieses Monument der Überheblichkeit zu vergessen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>"Du bist der Grund dafür, dass die Wasserformer so mächtig sind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>&lt;ispeech&gt;Deine Knochen werden im Wasser versinken. Ich werde den Himmel wiedersehen!&lt;ispeech&gt;Brüllend prescht der Drache vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>&lt;ispeech&gt;Die Huana vergangener Zeiten hätten das Todesfeuer selbst nach ihren Vorstellungen formen können.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>&lt;ispeech&gt;Nun haben sie dem Ngatis Pakt den Rücken zugekehrt. Ihre Kunst ist ein Schatten ihres früheren Selbst.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>&lt;ispeech&gt;Ukaizo war schon vor meiner Zeit untergegangen. Selbst sein Mythos ist nur noch Staub und Asche.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>"Das ... ähnelt den Prinzipien von Ngatis Pakt." Tekēhu runzelt die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>&lt;ispeech&gt;Für einen Fisch bist du ziemlich aufgeweckt.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>"Hast du etwas auf dem Herzen, Tekēhu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>"Ekera, zu viel geht mir gerade durch den Kopf, sage ich." Tekēhu berührt den Punkt auf seiner Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>"Ein anderes Mal. Ich ..." Tekēhu greift mit zitternder Hand nach seiner Wange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>&lt;ispeech&gt;Der Fisch ist nicht bereit dazu, zu wissen, was er erst jetzt vermutet.&lt;/ispeech&gt;In deinem Kopf vernimmst du so etwas wie ein Glucksen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>&lt;ispeech&gt;Wenn sie noch leben würden, würde kein fremdes Schiff auf diese Inseln vordringen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>"Ich bin [Player Name], Kapitän der [Player Ship]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>"[Player Animal Companion], sag Hallo zu Scyorielaphas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>&lt;ispeech&gt;Ich würde dein Schiff gerne einmal sehen. Aber dazu kommen wir später.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>[Angreifen] "Ich bin natürlich dein Tod."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>&lt;ispeech&gt;Wenigstens beschmutzt dein Haustier nicht die Würde dieses Gefängnisses.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>"Hast du dir diesen Titel ausgedacht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>&lt;ispeech&gt;Nein. Er ist viel älter als ich.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>Tekēhu hebt eine zitternde Hand vor seinen Mund und blinzelt den Drachen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>"Bei Ngati, er sagt die Wahrheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>&lt;ispeech&gt;Deine Schande ... so rein und konzentriert.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>"Das gilt auch für mich, und zu meiner gehört, mit meiner Kanone zwischen deine Augen zu zielen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>&lt;ispeech&gt;Würdest du mir Tangaloas Kuss geben? Ich würde es vielleicht begrüßen.&lt;ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>"Ein Jammer. Ich wollte gerade eine Abmachung vorschlagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>&lt;ispeech&gt;Meine Sorgen sind größer als eure kleinlichen Streitereien um Land.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>"Und das mit Mühe und Not, nach dem, was wir hier erfahren haben." Maia verschränkt ihre Arme und grinst spöttisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>"Di verus. Wir bauen es ab und veredeln es. Die meisten Huana scheinen nichts gegen dieses Arrangement einzuwenden zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>&lt;ispeech&gt;Ich bin nicht die meisten Huana. Ich bin das Maul des Todesfeuers.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>Weißglühender Schmerz sticht durch deinen Kopf. An seine Stelle tritt ein tiefes Knurren, das die Kammer vibrieren lässt. 
+
+Ein Paar bernsteinfarbener Augen flackert aus den Schatten auf. Als ihr Blick dich trifft, verknotet sich dein Magen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>Ein Rausch von Adrenalin erfüllt dich von Kopf bis Fuß mit Wärme und Mut. Nichts hat sich geändert, aber nun siehst du den Drachen nur mehr als Teil einer langen Reihe von Beute, die sich vor und hinter dir erstreckt. 
+
+Ein Paar bernsteinfarbener Augen blickt dich aus den Schatten der Kammer an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>"Du hast geschworen, die Überlebenden von den Überresten der Toten zehren zu lassen, aber die Seelen des Dyrwalds stöhnen vor Hunger." 
+
+Die Augen werden schmaler. Dann richtet sich ihre Aufmerksamkeit auf die Kreatur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>"Wenn mein Werkzeug sein Maul um dich schließt, sollst du wissen, dass es &lt;i&gt;meine&lt;/i&gt; Zähne sind, die sich in dein Fleisch bohren." 
+
+Galawain nickt der Kreatur zu und zieht sich in die Schatten zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>"Die Seelen des Dyrwalds glühen vor Leben. Die Toten haben den Bedürfnissen der Lebenden gedient." 
+
+Die Augen wackeln, als das Wesen, dem sie gehören, anerkennend nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>"Nutze diese Pause von der Jagd, aber lasse deine Zähne nicht durch Nachlässigkeit stumpf werden." 
+
+Als sich die Augen schließen, scheint es, als wären sie nie dagewesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>&lt;ispeech&gt;Du befindest dich im Heiligtum der Wasserformer, die billige Taschenspielertricks aus Ngatis Künsten gemacht haben.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>&lt;ispeech&gt;Eine Kunst, die zu verschwinden droht. Der Pakt der Huana ist gescheitert.
+
+Mit jedem Sandkorn, das den Fremden überlassen wird, entzieht Ngati dem auserwählten Volk mehr von ihrer Gunst.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>"Was für ein Pakt ist das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>"Das ist doch nur Aberglaube."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>"Tekēhu, ist das wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>&lt;ispeech&gt;Einer, der in einer anderen Zeit geschlossen wurde, als die Götter die Huana mit ihrer Hingabe überschütteten.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>Er starrt zum Drachen hinauf und nimmt dich nicht wahr, bis er blinzelt und in den Moment zurückkehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>"Ich kenne nur eine Interpretation von Ngatis Pakt, aber ... ekera. Es ist möglich." 
+
+Er nickt langsam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>&lt;ispeech&gt;Die Gilde verheimlicht, wie sehr ihre Akolyten zu kämpfen haben. Die Formen ihrer Vorfahren reagieren nicht mehr wie früher.
+
+Bald wird es keine Wasserformer mehr geben, die sich ihrer erinnern.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>&lt;ispeech&gt;Mein Geschenk an Periki – mein Pakt mit den Huana. Ein weiteres gebrochenes Versprechen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>"Onekaza würde mich töten lassen, wenn ich dich befreie. Es muss einen anderen Weg geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>&lt;ispeech&gt;Ist deine Loyalität gegenüber einer Königin der Lügen wirklich so unerschütterlich?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>&lt;ispeech&gt;Sie mag nichts von mir wissen, aber trotzdem trägt auch sie Schuld an diesem Verbrechen.
+
+Du schuldest ihr gar nichts.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>"Bist du der, den einige 'Tiefenjäger' nennen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>&lt;ispeech&gt;Das ist der Name, den die Nāga mir gaben, als ich ihren Stamm beschützte. Vor langer Zeit.
+
+In dieser Zelle kann ich nichts hüten außer meinem Hass.&lt;/ispeech&gt;
+
+Ein Hauch Dampf steigt aus seiner Nase auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>"Mir gefällt, was ich bisher gehört habe." 
+
+Maia lächelt in sich hinein und verschränkt die Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>Die Schutzzauber auf dem Steinboden ziehen die Essenz nach unten und leiten ihre Energie an die Schüler der Wasserformer von Neketaka weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>&lt;ispeech&gt;Tochter des Westens, was ich mit den Huana vorhabe ist nichts im Vergleich zu dem, was deiner Flotte droht.&lt;/ispeech&gt;
+
+Der Drache stößt dampfende Luft aus. Maia kneift nur ihre Augen zusammen und verlagert ihr Gewicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>&lt;ispeech&gt;Ich fühle mich ungewöhnlich. Leichter, aber ich spüre auch, dass etwas fehlt.&lt;ispeech&gt;Er beäugt nachdenklich die Decke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>"Du hast eine formidable Seele. Sie wird sich mit der Zeit erholen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>&lt;ispeech&gt;Seit ich in Neketaka angekommen bin, hatte ich nur wenig Grund zur Hoffnung ... bis heute.&lt;/ispeech&gt;Er nickt anerkennend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>"Die anderen Wasserformer wissen nichts davon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>&lt;ispeech&gt;Die gerissene Periki hat die Formen ihrer Kunst verzerrt. 
+
+Anstatt Ngati ihre Ehrerbietung zu erbringen, beziehen sie ihre Kräfte aus den Schutzzaubern dieses Gefängnisses.&lt;/ispeech&gt;
+
+Der Drache zeigt seine Zähne, zwischen denen qualmender Dampf hervordringt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>&lt;ispeech&gt;Niemand außer den Meistern der Gilde hat je davon gewusst.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>"Mutter ... Ngati hat mir nie davon erzählt, sage ich." Tekēhu greift sich mit einer zitternden Hand an die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>&lt;ispeech&gt;Die Göttin und ihre unerträglichen PRÜFUNGEN. Sie hat nie auch nur eine Flosse gerührt, um mich aus diesem Gefängnis zu befreien!&lt;/ispeech&gt;
+
+Scyorielaphas knurrt lange genug, um die Kammer zum Beben zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>"Ich nehme an, du bist derjenige, der die Stadt zum Beben bringt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>&lt;ispeech&gt;Du siehst keine Ketten um mich herum und doch bin ich hier gefangen. 
+
+Ein Glied nach dem anderen zerbricht!&lt;/ispeech&gt;
+
+Der Drache starrt auf die Schutzzauber im Gefängnis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>"Gib mir eine zweite Chance. Ich werde mich um alles kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>&lt;ispeech&gt;Mit der Zeit wurden die Schutzzauber derart geschwächt, dass ich die Zelle auch ohne deine Hilfe verlassen kann. 
+
+Es wird einen ... Schmerz geben, den ich nur ungern erleiden möchte.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>&lt;ispeech&gt;Und WIE willst du es anstellen? Hast du einen Plan für dieses ... verrückte Vorhaben?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>"Nun, zunächst werde ich einen genaueren Blick auf die Schutzsteine werfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>[Angreifen] "Ja. Aber er wird dir nicht gefallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>&lt;ispeech&gt;Bist du gekommen, um mich aus dem Gefängnis zu befreien, das ich selbst geschaffen habe?&lt;/ispeech&gt; Mit bebenden Nasenflügeln schaut der Drache dich böse an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>"Drache!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>"Ich muss mich zuerst einmal orientieren. Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>"Nein, auf keinen Fall!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>&lt;ispeech&gt;Dann, so vermute ich einmal, bist du nicht aus diesem Grund ... und in der Stadt hat man mich vergessen.&lt;/ispeech&gt; Ein schweres Seufzen füllt den Raum. Es riecht nach Salzwasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>&lt;ispeech&gt;Hm. Was für ein unglücklicher Beginn unserer Bekanntschaft!&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

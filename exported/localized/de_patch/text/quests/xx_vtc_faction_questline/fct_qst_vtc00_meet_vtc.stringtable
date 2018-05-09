@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_vtc_faction_questline\fct_qst_vtc00_meet_vtc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Für die Republiken!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mit dem Direktor in der Vailianischen Handelsgesellschaft treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Im Palast bin ich Nirro begegnet, einem Vertreter der Vailianischen Handelsgesellschaft. Es scheint, als ob die Vailianer in der Region sehr präsent seien. Es könnte sich als nützlich erweisen, in ihrem Hauptquartier Kontakt zu ihnen zu knüpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Vailianische Handelsgesellschaft operiert aus ihrem Stützpunkt am Ankerplatz der Königin, einem Bezirk von Neketaka. Wenn ich mit jemandem reden will, der etwas zu sagen hat, sollte ich dort anfangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe mich mit Lueva Alvari getroffen, der Nummer Zwei in der Vailianischen Handelsgesellschaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe mich mit Ignato Castol getroffen, Direktor der Vailianischen Handelsgesellschaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe einen bedeutenden Angestellten der Vailianischen Handelsgesellschaft getötet. Ich bezweifle, dass sie jetzt mit mir zusammenarbeiten werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe mich zum Feind der Vailianischen Handelsgesellschaft gemacht. Ich bezweifle, dass sie jetzt mit mir zusammenarbeiten werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_qst_treasure_hunt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der Ruf des Horns</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beschaffe das &lt;b&gt;Horn der Wellen&lt;/b&gt; aus der &lt;b&gt;Villa von Takano&lt;/b&gt; in Schlangenkrone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Triff dich mit &lt;b&gt;Gwenfin&lt;/b&gt; im &lt;b&gt;Gewölbe&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde einen &lt;b&gt;Ondra-Tempel&lt;/b&gt; in der &lt;b&gt;Altstadt&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Erstatte &lt;b&gt;Gwenfin&lt;/b&gt; am Eingang zum &lt;b&gt;Gewölbe&lt;/b&gt; Bericht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Dereo&lt;/b&gt; in der &lt;b&gt;Enge&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Triff dich mit einer geheimnisvollen Gestalt in der &lt;b&gt;Enge&lt;/b&gt; des Schlunds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Bring das Horn zu &lt;b&gt;Dereo&lt;/b&gt; in der &lt;b&gt;Enge&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Kehre zu Dereo in der Enge zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Finde in der &lt;b&gt;Altstadt&lt;/b&gt; das Mosaik, nach dem &lt;b&gt;Dereo&lt;/b&gt;  sucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Dereo der Magere&lt;/b&gt;, ein Unterweltkönig im &lt;b&gt;Schlund&lt;/b&gt;, sucht nach einem wertvollen Artefakt, das als das &lt;b&gt;Horn der Wellen&lt;/b&gt; bekannt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dereo bat mich, ein Artefakt, das als das &lt;b&gt;Horn der Wellen&lt;/b&gt; bekannt ist, von dem Mataru &lt;b&gt;Takano&lt;/b&gt; zu beschaffen, der es derzeit besitzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Gwenfin&lt;/b&gt; erwartet mich – und das Horn – in der Nähe einer antiken Tür im Huana-Stil im &lt;b&gt;Gewölbe.&lt;/b&gt;
+
+Dereo meinte, ich solle sie über einen &lt;b&gt;Lift in der &lt;b&gt;Graberstraße&lt;/b&gt; aufsuchen, die vom Schlund getrennt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Offensichtlich befindet sich das Mosaik, nach dem Dereo sucht, in einem alten Tempel irgendwo in den &lt;b&gt;Ruinen&lt;/b&gt;. 
+
+&lt;b&gt;Gwenfin&lt;/b&gt; bat mich, ihr Bescheid zu geben, wo es sich befindet, sobald ich es gefunden habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe den Ondra-Tempel gefunden und sah ein aufwendiges Mosaik von einem Ort namens "Ukaizo" an der Wand. Das muss das Mosaik sein, nach dem &lt;b&gt;Dereo&lt;/b&gt; sucht.
+
+&lt;b&gt;Gwenfin&lt;/b&gt; erwartet meinen Bericht an der Passage zwischen dem &lt;b&gt;Gewölbe&lt;/b&gt; und der &lt;b&gt;Altstadt&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Gwenfin ist auf dem Weg, um den Tempel zu sichern. Sie bat mich, &lt;b&gt;Dereo&lt;/b&gt; die guten Nachrichten zu überbringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ein Bote richtete mir aus, dass mich jemand Wichtiges sehen wolle. 
+
+Ich wurde angewiesen, mich in die &lt;b&gt;Enge&lt;/b&gt; zu begeben, rechts und nochmal rechts abzubiegen, mich in der anschließenden Kurve links zu halten und auf Zeichen von Svef-Genuss zu achten. Wenn mich jemand aufhalten will, kann ich sagen, dass &lt;b&gt;Dereo&lt;/b&gt; mich schickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe ein Muschelinstrument erhalten, das mit Symbolen von Ondra verziert ist – das scheint das "Horn" zu sein, das &lt;b&gt;Dereo&lt;/b&gt; haben will. 
+
+Er erwartet es in der &lt;b&gt;Enge&lt;/b&gt;, den Tunneln rund um den Schlund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe den Ondra-Tempel gefunden und sah ein aufwendiges Mosaik von einem Ort namens &lt;b&gt;Ukaizo&lt;/b&gt; an der Wand. Das muss das Mosaik sein, nach dem &lt;b&gt;Dereo&lt;/b&gt; sucht.
+
+Er versprach mir eine Belohnung, sobald ich es gefunden habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Dereo will, dass ich ein Mosaik in der &lt;b&gt;Altstadt&lt;/b&gt; finde. Nachdem Gwenfin nun tot ist, habe ich die Hoffnung, dass ich es erkenne, wenn ich es sehe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Dereo&lt;/b&gt; ist begieriger auf das Horn, als er es sich anmerken lässt. Er meinte, dass es wertvoll sei, hat das aber nicht näher ausgeführt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Es gibt ein Wandbild in den Ruinen der &lt;b&gt;Altstadt&lt;/b&gt;, das zwei Hornmuscheln zeigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe eine mit Ondriten-Symbolen versehene Muschel in der &lt;b&gt;Altstadt&lt;/b&gt; gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>&lt;b&gt;Gwenfin&lt;/b&gt; befindet sich vor einer antiken Huana-Ruine im &lt;b&gt;Gewölbe&lt;/b&gt;, in der Nähe der Festung dort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe &lt;b&gt;Rust&lt;/b&gt; angeheuert, um das &lt;b&gt;Horn der Wellen&lt;/b&gt; für mich zu beschaffen. Der Meuchelmörder wird einen ganzen Tag brauchen, um den Auftrag zu erledigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>&lt;b&gt;Gwenfin&lt;/b&gt; glaubt, ich könnte das Horn nutzen, um eine Tür neben der Ondriten-Statue zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>&lt;b&gt;Dereo&lt;/b&gt; erzählte mir von einem verwandten Artefakt, dem &lt;b&gt;Horn der Tiefen&lt;/b&gt;, das verlorenging, als die &lt;b&gt;Altstadt&lt;/b&gt; versank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich bin nicht der Erste, der diesen Auftrag annimmt. &lt;b&gt;Dereo&lt;/b&gt; heuerte ursprünglich jemand anderen an, sie hat es aber nicht geschafft.</DefaultText>
+      <FemaleText>Ich bin nicht die Erste, die diesen Auftrag annimmt. Dereo heuerte ursprünglich jemand anderen an, sie hat es aber nicht geschafft.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;Ateira&lt;/b&gt;, die ursprünglich von Dereo&lt;/b&gt; angeheuerte Söldnerin, griff mich auf dem Rückweg von &lt;b&gt;Takano&lt;/b&gt; aus dem Hinterhalt an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Im Tempel fand ich eine Wandschnitzerei mit zwei Sockeln. Jede hat die richtige Größe und Form, um das Horn aufzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Laut &lt;b&gt;Takano&lt;/b&gt; ging ein ähnliches Horn verloren, als die &lt;b&gt;Altstadt&lt;/b&gt; versank. Mehrere Ondriten starben mit dem Horn, dazu verdammt, niemals wieder aufzusteigen, solange die Muschelschale es nicht tat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Im Tempel fand ich eine Wandschnitzerei mit zwei Sockeln. Jede hat die richtige Größe und Form, um das Horn aufzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Der Aufzug befindet sich neben &lt;b&gt;Ernezzos Laden&lt;/b&gt; in der &lt;b&gt;Graberstraße&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Das &lt;b&gt;Horn der Wellen&lt;/b&gt; bedeutet &lt;b&gt;Takano&lt;/b&gt; nicht besonders viel und er ist knapp bei Kasse. Vielleicht ist er ja bereit, es zu verkaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Ich habe &lt;b&gt;Gwenfin&lt;/b&gt; getötet. Ich muss nun selbst herausfinden, wie ich das Horn verwende und bekomme, was &lt;b&gt;Dereo&lt;/b&gt; will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Dereo war erfreut, als ich ihm von dem Mosaik von Ukaizo erzählte. Er warnte mich, meine Erkenntnisse für mich zu behalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>&lt;b&gt;Dereo&lt;/b&gt; ist auf der Suche nach einem Mosaik in der &lt;b&gt;Altstadt&lt;/b&gt;. Das Horn wird mich zu diesem Mosaik führen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Ich habe das Interesse einer einflussreichen Person erregt. Ich wurde gebeten, ihn in der &lt;b&gt;Enge&lt;/b&gt; zu treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_sick</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>101</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Specified 0] findet dich in deiner Kajüte. Durch das offene Fenster hörst du einen deiner Matrosen heftig würgen.
+
+"Wenn das so weitergeht, Kapitän, wird die Mannschaft bald ausfallen. Sind schon jetzt kaum mehr seetüchtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Krankheit beginnt langsam. Ein Husten hier, ein Zittern dort. Aber dann trifft sie die Mannschaft so richtig hart und breitet sich wie eine Monsterwelle auf und unter Deck aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Den Schiffsarzt finden.] "Kannst du mir verraten, warum jeder auf meinem Schiff krank ist, [Specified 1]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Was soll ich deiner Meinung nach tun?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Verteile, was wir an Medizin auf Lager haben. Jeder bekommt, was er braucht, bis das hier vorbei ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Segel hissen und Anker werfen. Wir bleiben so lange hier, bis es sich wieder gelegt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Den Schiffsarzt finden.] "Kannst du mir verraten, warum jeder auf meinem Schiff krank ist, [Specified 1]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Was soll ich deiner Meinung nach tun?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Verteile, was wir an Medizin auf Lager haben. Jeder bekommt, was er braucht, bis das hier vorbei ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Segel hissen und Anker werfen. Wir bleiben so lange hier, bis es sich wieder gelegt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Wir reinigen die Befallenen von diesen Giftstoffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Um göttlichen Beistand beten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Scheint mir eine Magenkrankheit zu sein", lautet die ärztliche Antwort. "Vermutlich wegen dieser toten Fische, die wir auf deinen Befehl hin im Frachtraum eingelagert haben. Nicht, dass ich dir die Schuld geben würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 1] überlegt. "Zumindest solltest du den Kranken so viel Ruhe geben wie möglich. Wenn du glaubst, dass wir Medizin entbehren können, ist jetzt ein guter Moment, um sie verteilen."
+
+Ein ärztliches Stirnrunzeln. "Für das beste Ergebnis solltest du beides in Betracht ziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Specified 1] hustet stark und spuckt aus. "Es ist der Seemannshusten, Kapitän. Von diesem Pestschiff eingefangen, denke ich. Wird keinen umbringen, aber es schwächt die Gestandenen und verleitet zu Unfällen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Am besten gehen wir dagegen mit Medizin vor. Hoffentlich haben wir genug Vorräte, um alle zu behandeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du befiehlst, die Kiste mit Medizin zu öffnen und sie in einzelnen Dosen an die Mannschaft zu verteilen. Sie danken dir bleich und zitternd, begierig darauf, die Krankheit so schnell wie möglich hinter sich zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du bewegst dich zwischen den betroffenen Besatzungsmitgliedern wie ein gnadenbringender Geist. Mit ruhigen Gesängen und Schutzgesten besänftigst du den Zorn, der durch den verdorbenen Fang auf deine Seeleute gebracht wurde. Sie alle danken dir, begierig darauf, die Krankheit so schnell wie möglich hinter sich zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Auch wenn er sich ab und an beschwert, bewegt sich Tekēhu inmitten der Mannschaft und behandelt die Kranken mit seiner reinigenden Magie und seinem unwiderstehlichen Charme. Beides hat eine heilende Wirkung auf die Seeleute und sie danken euch beiden aus tiefstem Herzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Das Schiff stellt die Fahrt ein, als die Mannschaft deine Befehle ausführt. Die Mannschaft entspannt so gut sie kann von ihren unfreiwilligen Posten an der Reling des Schiffes aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Allmählich geht die Krankheit vorbei und als die Mannschaft es immer mehr schafft, Essen und Wasser unten zu behalten, wird auch ihre Stimmung besser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Unter der Anleitung von [Specified 1] öffnen die Matrosen die Pakete mit aromatischen Kräutern und zerstoßen die Blätter im Mörser. 
+
+Bald hat jedes Besatzungsmitglied einen Wickel mit duftender Paste auf seiner oder ihrer Brust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du rufst deine Schutzgöttin, die zweiteilige Göttin des Todes an, damit sie ihren Blick vom Schiff abwendet und es von der Krankheit reinigt. Ein kalter Hauch breitet sich auf dem Schiff aus, als ein Nebel von der Wasseroberfläche emporsteigt. Es wird windstill.
+
+Während fast einer ganzen Stunde lang ruht das Schiff in der nebligen Flaute. [Specified 2] schwört, dass von Backbord her am Bug Flüstern aus dem Nebel zu hören ist.
+
+Dann verzieht sich der Nebel so plötzlich, wie er gekommen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Auch wenn es keine anderen Aufgaben gibt, um die sie sich kümmern müssten, werden deine Leute scheinbar immer kränker. [Specified 4] kann nicht einmal mehr die Kojen verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Du möchtest, dass ich zu einem Aspekt des Todes bete?" Xotis Lippen kräuseln sich amüsiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Nach diesem Zeichen göttlicher Macht fühlst du dich geläutert. Die Mannschaft singt Lobpreisungen an die Götter und bringt ihnen bereitwillig Münzen oder sonstige kleine Schmuckstücke, die gerade zur Hand sind, als Opfer dar.
+
+Ihr segelt weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Alle zurück an die Arbeit. Wir müssen weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Alle zurück an die Arbeit. Wir müssen weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Specified 0] gibt deine Befehle weiter, was ein Stöhnen der Mannschaft zur Folge hat.
+
+Das Schiff segelt unter dem Pesthauch der Krankheit weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Das Schiff setzt die Segel, kommt aber schlecht voran, solange die Mannschaft am Knochenfrost leidet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 5] ruft die Götter um Hilfe an und reinigende Energie durchfließt das Schiff und stärkt alle, die sich darauf befinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 5] bewegt sich inmitten der Mannschaft, singt ruhig vor sich hin und führt Schutzgesten aus, um ihre Verdauungsbeschwerden zu lindern. Die Seeleute danken euch beiden, begierig darauf, die Krankheit so schnell wie möglich hinter sich zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Dann lass sie uns mal wieder gesund machen. Wir werfen Anker und stellen sicher, dass alle die Medizin bekommen, die sie brauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du lässt die Segel reffen und teilst die Medizin an die Seeleute aus. Dank Medizin und Zeit zur Erholung ist die Mannschaft schnell wieder auf den Beinen. Als du vom Deck her wieder Seemannslieder hörst, weißt du, dass sie bereit sind, weiterzusegeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Nichts hat sich geändert! Volles Segel voraus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Die Mannschaft nimmt ihre Arbeit wieder auf, aber als der Frost sich ausbreitet, sind selbst einfache Aufgaben zu viel für sie. Da niemand mehr am Steuer steht und sich um die Takelage kümmert, verliert das Schiff an Fahrt und treibt Ondras Willen ausgeliefert auf dem Meer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Die Krankheit nimmt ihren Verlauf und ist irgendwann überstanden. Die Mannschaft bleibt jedoch mürrisch und wortkarg, während sie ihren Aufgaben nachgeht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Mit einem leichten Kopfschütteln runzelt der Arzt die Stirn. "Es ist die gottverdammte Bauchfäule, Kapitän, genau wie dieses Pestschiff. Wenn wir damit weitersegeln, sind Verletzungen vorprogrammiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Rymbán sjüdh," antwortet [Specified 1] ernst. "Der Knochenfrost von diesem Pestschiff. Das wird Leben kosten, wenn wir ihn nicht behandeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Die Krankheit überkommt das Schiff wie eine plötzliche Sturmbö aus Nordosten. Es sieht zu jeder Zeit so aus, als hätte die halbe Mannschaft ein Ende ihres Körpers über der Reling hängen und das andere Ende über einem Eimer.
+
+Der Geruch brennt dir in den Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Die Mannschaft schätzt die Möglichkeit, sich auszuruhen, auch wenn das konstante Husten sie ermüdet zurücklässt. In den nächsten Tagen nimmt die Krankheit ihren Verlauf. Als das Schiff endlich wieder die Segel setzt, ist die ganze Mannschaft nur zu gern bereit, zu freundlicheren Gewässern aufzubrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Das Schiff setzt die Segel, kommt aber schlecht voran, da die Mannschaft an der Krankheit leidet.
+
+Du hörst einen Schrei von Deck, gefolgt von einem dumpfen Aufprall. [Specified 3] ist schwindelig geworden und ein Sturz von der Takelage war die Folge. Die Hand ist nun geschwollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Die Mannschaft kehrt an die Arbeit zurück, aber als die Fäule sich ausbreitet, werden sie immer elender. Viele bekommen offene Wunden und bei den meisten ist mindestens ein Auge zugeschwollen und verkrustet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Innerhalb eines Tages haben alle Besatzungsmitglieder Probleme mit dem Atmen. Alle husten sich die Kehle wund und spucken blutigen Schleim in das Meer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Bald hat sich deine Mannschaft in schleimbedeckte arme Teufel mit zugeschwollenen Augen und schuppigen Ausschlägen verwandelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Die Arbeit kommt zum Stillstand, als deine Mannschaft sich steif über Deck bewegt. Knochenspeere sind an ihren Handgelenken und Knöcheln zu sehen. Wenn die Speere die Haut durchbrechen, lassen sie rote, klaffende Wunden zurück. Schmerzerfülltes Stöhnen ertönt von allen Ecken des Schiffes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 0] findet dich in deiner Kajüte. Durch das offene Fenster hörst du einen deiner Matrosen heftig würgen.
+
+"Wenn das so weitergeht, Kapitän, wird die Mannschaft bald ausfallen. Sind schon jetzt kaum mehr seetüchtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 1] kehrt mit Gläsern voll dickem, braunen Distelteer zurück. Die dicke Salbe sticht unangenehm, wenn man sie auf die befallenen Stellen aufträgt.
+
+Bald sieht man auf der Haut jedes Besatzungsmitglieds Flecken klebriger brauner Masse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 1] kehrt aus dem Lagerraum zurück, mit einer kleinen Truhe, die schwarze Erde enthält. "Holistische Würmer," grunzt der Matrose. "Sie fressen die Krankheit auf, die die Knochenspeere verursacht. Es ist weder schön noch angenehm, aber es rettet Leben."
+
+Jedes der Besatzungsmitglieder geht der Reihe nach zu [Specified 1], um das erkrankte Knochenmark entomologisch entfernen zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Du betest zum Kind des Lichts und musst dabei immer auch daran denken, weshalb du zum Todesfeuer gekommen bist. Als du singst, verändert der Himmel seine Farbe hin zum Rosarot der frühen Dämmerung. Das Licht fällt über das Deck und wärmt jene, die unter seinen Strahlen ruhen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Du betest zur Göttin der Flamme und bittest sie, die Krankheit aus deiner Mannschaft auszubrennen. Dir wird schwindelig, als die Hitze deinen Körper überkommt. Als das Fieber steigt, sinkst du auf die Planken des Schiffes und vernimmst vage die Klagelaute vom Rest der Mannschaft.
+
+Es geht jedoch vorbei und deine Gedanken werden wieder klar, als der kühle Wind des Todesfeuers deinen Schweiß trocknet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Du betest zu deinem Schutzpatron, der Göttlichkeit der Vergeltung und erinnerst ihn daran, dass deine Mannschaft stark sein muss, um einen Gott zu Fall zu bringen. Die Schatten werden länger und Dunkelheit legt sich über das Schiff. Jede Kerze flackert.
+
+[Specified 2] und [Specified 3] schwören, dass eine fremde Gestalt unter Deck herumstreift, eine Suche ergibt jedoch nichts.
+
+Schließlich vergeht die unnatürliche Dunkelheit und macht dem natürlichen Licht des Todesfeuers Platz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Du betest zum Gott der Mysterien und flehst um Erlösung von dieser Krankheit. 
+
+Alles wird dunkel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Nach Anwendung der korrekten Medizin erholt sich die Mannschaft schnell. Bald sind sie wieder an Deck und schmettern Seemannslieder in Richtung Horizont.
+
+Ihr segelt weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Du kommst auf dem Vorderdeck wieder zu Bewusstsein und stehst mit dem Rücken zum Meer. Der Rest der Mannschaft blickt um sich, offensichtlich verwirrt.
+
+Die Krankheit ist weg, aber zwei Tage sind vergangen und kein Besatzungsmitglied weiß, was in dieser Zeit passiert ist. 
+
+Ihr findet es nie heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Specified 1] fährt sich mit einer gekrümmten Hand über den Mund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Specified 1] kneift sich in die Nase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 0] taucht wieder auf. "Tut mir leid, Kapitän. Die Vorräte sind fast leer. Wir haben die Medizin für die Mannschaft nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Specified 0] taucht wieder auf. "Tut mir leid, Kapitän. Die Vorräte sind fast leer. Wir haben die Medizin für die Mannschaft nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Du lässt die Segel reffen und eine grüne Flagge am Hauptmast hissen, um andere Schiffe zu warnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Die Krankheit aussitzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>An Deck blickt die Mannschaft finster drein. Die Knochenspeere, die aus ihren Gelenken emporragen lassen manche von ihnen wie schwer geschützte Animat-Konstrukte aussehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Am zweiten Tag folgt [Specified 2] [Specified 4] in den Tod. [Specified 0] erwischt es einen Tag später.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Am zweiten Tag folgt [Specified 2] [Specified 4] in den Tod. [Specified 0] erwischt es einen Tag später.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Specified 0] kommt ein paar Stunden später auf dich zu. "Schlechte Nachrichten, Kapitän. [Specified 4] ist gestorben. Wir lassen [Specified 2] ein paar Worte sagen, bevor wir die Leiche Ondras Schoß übergeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Specified 0] kommt ein paar Stunden später auf dich zu. "Schlechte Nachrichten, Kapitän. [Specified 4] ist gestorben. Wir lassen [Specified 2] ein paar Worte sagen, bevor wir die Leiche Ondras Schoß übergeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Specified 0] klopft an die Tür. "Tut mir leid, dass ich schlechte Nachrichten bringe, Kapitän, aber [SkillCheck 0] zeigt Anzeichen des rymbán sjüdh, des Knochenfrosts. Das ist eine wirklich eklige Krankheit aus dem Ewigen Weiß und eine, die eine Mannschaft bekanntermaßen bis auf den letzten Mann auslöschen kann."
+
+Der Matrose blickt einen Moment zur Seite und begegnet dann deinem Blick. "Deine Befehle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"[Specified 1] soll sich das mal ansehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Sperrt [SkillCheck 0] in den Quartieren ein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ich kann keine Ausbreitung riskieren. Ich werde [SkillCheck 0] über Bord werfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Specified 0] runzelt die Stirn. "Das ist bereits geschehen, Kapitän. Der Arzt hat es bestätigt. Hat gesagt, das einzige Heilmittel ist Medizin und Ruhe und selbst dann kann es sich ausbreiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Dann Medizin und Ruhe. Kümmere dich darum, dass [SkillCheck 0] beides hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ich töte keinen meiner Freunde! Uns wird schon etwas einfallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Specified 0] wendet den Blick ab. "Aye. Und in der Zwischenzeit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Der Matrose salutiert wenig begeistert. "Aye, Kapitän."
+
+[Specified 0] verlässt dich und die [Player Ship] segelt weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 0] nickt. "Eine schwere Entscheidung, aber die richtige. Ich kümmere mich darum ... dass der Patient gesichert ist."
+
+Als du an Deck kommst, kniet [SkillCheck 0] vor dir und ist an Händen und Füßen gefesselt. Leuchtende Knochenspeere ragen zwischen den Seilen empor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Aloth begegnet deinem Blick, als hätte er diesen Moment erwartet. Er nickt schwach.
+
+"Es ist die richtige Entscheidung, [Player Name]. Eothas zu finden ist das Wichtigste." Er zuckt zusammen und zittert vor Schmerz.
+
+"Ich habe getan, was ich konnte, um zu helfen. Aber der Rest liegt nun an dir – so war es schon immer. Vielleicht treffen wir uns in einer anderen Umdrehung des Rades." Er lächelt dich ein letztes Mal schmerzerfüllt an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Tu mit mir, was du tun musst. Du bist derjenige, der es bis zum Ende schaffen muss.
+
+"Aber tue mir diesen Gefallen. Sag Eothas, dass er eine Menge guter Anhänger hat. Sag ihm, dass er ihnen noch Rechenschaft schuldig ist.
+
+"Sag ihm, dass er ihnen noch was schuldet." Edér atmet durch zusammengebissene Zähne. Er sieht dich wartend an.</DefaultText>
+      <FemaleText>"Tu mit mir, was du tun musst. Du bist diejenige, die es bis zum Ende schaffen muss.
+
+"Aber tue mir diesen Gefallen. Sag Eothas, dass er eine Menge guter Anhänger hat. Sag ihm, dass er ihnen noch Rechenschaft schuldig ist.
+
+"Sag ihm, dass er ihnen noch was schuldet." Edér atmet durch zusammengebissene Zähne. Er sieht dich wartend an.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ishi ... Du bleibst jetzt beim Kapitän. Ich sagte nein, du dummer Vogel! Ich ..." 
+
+Entgegen ihrer Befehle bleibt Ishiza an Maias Seite, hackt nach ihrem Ohrläppchen und gurrt leise. Maia krümmt sich vor Schmerz zusammen, sagt aber nichts weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Palleginas goldene Augen sind halb von den Lidern verdeckt und bohren sich in dich.
+
+"Es gibt Heilmittel für diese Krankheiten, weißt du. Oder vielleicht weißt du es nicht. Oder es kümmert dich nicht."
+
+Sie wendet dir ihren Rücken zu.
+
+"Wenn dich das hier dazu bringt, dich wie ein wichtiger Schiffskapitän zu fühlen, dann machst du am besten weiter damit. Du möchtest doch nicht, dass die Crew glaubt, dass ein kleiner Funken Gnade in dir ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Er blickt böse drein und spuckt aus. "Das ist eine dreimal verfluchte Sache und du weißt es, Kapitän Wächter. Die Leute überleben den Frost. Ich habe ihn bereits selbst zweimal überlebt!"</DefaultText>
+      <FemaleText>Er blickt böse drein und spuckt aus. "Das ist eine dreimal verfluchte Sache und du weißt es, Kapitän Wächterin. Die Leute überleben das Kriechen. Ich habe es bereits selbst zweimal überlebt!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Warum hat mich Ngati in die Welt geschickt, nur um ein solch unrühmliches Ende zu nehmen? Die Priester ... Ihre Omen waren falsch, sage ich. 
+
+"Es ist das Todesfeuer, das krank ist." 
+
+Tekēhu wendet geschlagen den Blick von dir ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Wenn du glaubst, dass mich das von meiner Pflicht abhält, dann liegst du falsch damit, Wächter. Ich habe Mittel und Wege, um zu dienen, auch wenn dieser Körper schon längst verrottet und zerfallen ist."
+
+Mit hoch erhobenem Kinn blickt Xoti auf das Meer hinaus, bereit in ihr wässriges Grab zu gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[SkillCheck 0] wehrt sich gegen die Fesseln. "Bitte tu das nicht, [Player Name]! Es muss einen anderen Weg geben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[[SkillCheck 0] über Bord werfen.] "Tut mir leid. Wenn es einen anderen Weg gebe, alle zu retten ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[[SkillCheck 0] über Bord werfen.] "Ich will das nicht, aber entweder du oder das ganze Schiff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[[SkillCheck 0] über Bord werfen.] "Mir tut nur leid, dass du den Frost nicht eher bekommen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[[SkillCheck 0] über Bord werfen. Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"... Ich kann das nicht tun. Sperrt [SkillCheck 0] in die Unterkünfte ein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Ohne weiteres Aufhebens wirfst du [SkillCheck 0] über die Reling. Ein Schrei gefolgt von einem leisen Platschen ist das letzte, was du von [SkillCheck 0] hörst.
+
+Die Besatzungsmitglieder schauen sich gegenseitig an, ihr Gesichtsausdruck nervös. Du bist dir nicht sicher, was sie mehr fürchten – die Pest oder ihren Kapitän.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Das Schiff segelt weiter und zur allgemeinen Erleichterung zeigen sich keine weiteren Anzeichen von rymbán sjüdh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Der Matrose seufzt mit verschränkten Armen und begegnet deinem Blick. "Wenn sich das ausbreitet, Kapitän, haben wir nicht die Medizin, um die ganze verdammte Mannschaft zu behandeln. Leute werden sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Der Matrose seufzt mit verschränkten Armen und begegnet deinem Blick. "Wenn sich das ausbreitet, Kapitän, haben wir nicht die Medizin, um die ganze verdammte Mannschaft zu behandeln. Leute werden sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Du hast mich schon verstanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Du hast mich schon verstanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Schätze mal, ich kann für die sichere Passage unserer Seelen durch die Hölle bitten, sollten wir alle in Kürze umkommen."
+
+Nach einem Nicken senkt sie den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Ehre sei den vielen Aspekten von Eothas, dem größten von allen, der Gaun ist. Ich erhebe meine Stimme zu dir in Demut, Dankbarkeit und ewiger Anbetung. Höre mich an, mein Gott, und habe Gnade mit meiner inständigen Bitte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Da wir nun durch die dunkle Plage des Todes segeln, werden wir die kommende Ernte nicht fürchten. Deine Laterne wird uns den Weg weisen. Wir werden nicht straucheln oder von dem Pfad abweichen, den du uns durch die Hölle vorgezeichnet hast. Wir werden das Ende unseres Lebens umarmen und die verrottende Schale unserer gefallenen Körper zurücklassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Von dort aus werden wir von deiner Hand für die Wiedergeburt gepflanzt werden.
+
+"Für ewig und immer, wie das Rad sich dreht,
+
+"Amen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[SkillCheck 0] wehrt sich gegen die Fesseln und ist leise, man hört nur dumpfe Schreie, die durch einen Knebel unterdrückt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[SkillCheck 0] wehrt sich gegen die Fesseln. "Bitte tu das nicht, [Player Name]! Es muss einen anderen Weg geben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

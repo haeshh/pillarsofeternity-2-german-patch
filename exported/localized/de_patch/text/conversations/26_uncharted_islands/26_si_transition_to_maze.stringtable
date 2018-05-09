@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_maze</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Nach einer mühseligen Reise hast du endlich die Mitte des Dschungels erreicht. Vor dir befindet sich ein breites und vom Alter mitgenommenes Gebäude aus Stein.
+
+Das Auge von Wael, einsam und allsehend, prangt über der Tür.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du näherst dich der Tür. Auch wenn das Auge eindeutig aus Stein gemeißelt wurde, spürst du doch das Brennen seines Blicks auf deiner Stirn.
+
+Ohne einen Laut schwingt die Tür auf. Du siehst eine dunkle, enge Treppe, die hinab in die Erde führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Als du herankommst, schwingt die Tür auf - fast so, als hätte sie dein Eintreffen geahnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

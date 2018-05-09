@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_bowl</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Kupferschale hat ihren Glanz verloren und Blaugrün verfärbt. Siff und Staub bedecken die Oberfläche mit einem dünnen Film.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Das Medaillon des Meisters in die Aussparung legen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Schale genauer untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Es sein lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Auf dem Boden der Schale siehst du eine runde, flache Aussparung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du erkennst dies als Opferschale, ein Artefakt, das man in vielen Engwithaner-Ruinen findet. 
+
+Solche Schalen wurden ausschließlich von Engwithanern hohen Standes verwendetet; oder von jenen, die Großes vollbracht hatten. In einer Arena wie dieser hier könnte ein Meister diese Rolle übernommen haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_cv_location_burial_site</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du kommst an einer uralten Stätte für Himmelsbestattungen an. Auf einer großen Steintafel findest du verschiedene Gestandenen-Gebeine verteilt, und eine Sammlung von Urnen in verschiedenen Größen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Das Gebiet absuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Das Gebiet weiter absuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du verbringst einige Stunden damit, die Grabstätte zu durchsuchen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>... und findest nichts von Wert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>... und findest eine Opfergabe aus Münzen in der Nähe der sterblichen Überreste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>... und findest eine Waffe neben den sterblichen Überresten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>... und findest eine Handvoll gewöhnlicher Edelsteine in einer kleinen Ledertasche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>... und findest eine vergilbte Schriftrolle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>... und findest einen Schutzstein zwischen den Opfergaben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>... und findest ein reizendes Amulett, das in getrocknete Gräser eingewickelt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>... und findest eine Sammlung seltener Steine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>... und findest einen seltsamen Anhänger, der mit einem gedämpften inneren Licht leuchtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du hast die gesamte Grabstätte auf den Kopf gestellt. Außer den Toten ist hier nichts mehr zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Den Anhänger nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du nimmst den Anhänger auf. Er fühlt sich seltsam warm an, als wäre er kürzlich erst getragen worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du hast die gesamte Grabstätte auf den Kopf gestellt. Außer den Toten ist hier nichts mehr zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Während du durch die ländlichen Gegenden im Todesfeuer ziehst, kommst du an einer Stätte für rituelle Einäscherungen an. Neben einer Fläche, wo sich ein Scheiterhaufen befunden haben könnte, entdeckst du eine kleine Krypta voll von wunderschönen Körben, die eingeäscherte Überreste enthalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ein Grab ragt vor dir aus der Erde empor. Seine steinerne Außenfläche ist fein bearbeitet und mit Reliefs von Tangaloa und Ngati dekoriert. Wahrscheinlich beherbergt es die sterblichen Überreste von einer für einen lokalen Huana-Stamm sehr wichtigen Person.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du durchsuchst die Grabstätte weiterhin nach etwas Nützlichem ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du widmest dich wieder der Erkundung der Grabstätte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du kommst an einer breiten Treppe vorbei, die sich tief in die Erde erstreckt. Eiskalte Luft geht von einem dunklen Gang am Fuß der Treppe aus. Sie riecht leicht nach Staub und kaltem Stein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du verbringst einige Stunden damit, die Grabstätte zu durchsuchen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>... und findest eine Waffe, die besser in Schuss ist, als du erwartet hättest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>... und findest einen seltsamen Gegenstand auf dem Boden. Ranken schlängeln sich vollständig um ihn und pressen ihn fest an den Boden.
+
+Dir gelingt es, die Ranken wegzureißen, allerdings bemerkst du dabei, dass sie sich deinen Bemühungen seltsamerweise entgegenzustellen scheinen. Nachdem du sie entfernt hast, erkennst du, dass es sich bei dem Gegenstand darunter um eine Arkebuse ungewöhnlicher Fertigung handelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

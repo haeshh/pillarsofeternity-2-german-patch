@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_tsk_constable</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Ordnung wiederherstellen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Begib dich zur Goreccistraße.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sprich mit Ilari.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Savia&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zu Savia zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich habe angeboten, &lt;b&gt;Savia&lt;/b&gt; zu helfen. Ich werde versuchen, den Bandenanführer &lt;b&gt;Ilari zu überzeugen, mitzuhelfen, die Ordnung in der &lt;b&gt;Goreccistraße&lt;/b&gt; in Port Maje aufrechtzuerhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Begib dich zur &lt;b&gt;Goreccistraße&lt;/b&gt; im &lt;b&gt;westlichen Teil von Port Maje&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe die Goreccistraße erreicht. Jetzt muss ich nur noch &lt;b&gt;Ilari&lt;/b&gt; finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe &lt;b&gt;Ilari&lt;/b&gt; davon überzeugt, sich um die &lt;b&gt;Goreccistraße&lt;/b&gt; zu kümmern und weitere Plünderungen zu verhindern. &lt;b&gt;
+
+Kommandantin Savia&lt;/b&gt; wird sicher davon erfahren wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe &lt;b&gt;Ilari&lt;/b&gt; umgebracht. Das war zwar nicht das, worum &lt;b&gt;Kommandantin Savia&lt;/b&gt; gebeten hatte, sie wird aber vermutlich erfahren wollen, was passiert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich wurde von mehreren Plünderern angegriffen, keiner von ihnen entsprach aber &lt;b&gt;Ilaris&lt;/b&gt; Beschreibung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe &lt;b&gt;Ilari angegriffen&lt;b&gt;Ilari&lt;/b&gt;, wodurch eine friedliche Lösung des Problems mit der &lt;b&gt;Goreccistraße&lt;/b&gt; unmöglich wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe mich für Savia um die Situation in der Goreccistraße gekümmert. Eine Sache weniger, um die sich ihre Wachen kümmern müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

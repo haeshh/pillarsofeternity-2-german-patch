@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\companiontopics</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>91</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Grausamkeit gegenüber Tieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Betrügerei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Anti-Eothas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Antireligiös</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Anti-Huana</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Progressiv</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Stolz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Verantwortungslosigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Gütig zu anderen Menschen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Pro-Beseelung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Pflichtbewusst</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Frömmigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Pro-Huana</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Unbeschwert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Leidenschaftlich</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Traditionell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Weltgewandt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Rassismus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>{0:Name} zeigt eine negative Reaktion gegenüber Menschen, die grausam oder kaltherzig gegenüber Tieren sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>{0:Name} reagiert positiv auf Menschen, die bewusst die grausam oder kaltherzig gegenüber Tieren sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>{0:Name} verabscheut religiöse Andacht und Frömmigkeit. {0:Name} hat eine schlechte Meinung von anderen, die solche Charakteristiken zeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>{0:Name} ist fromm und fest davon überzeugt, dass jeder gegenüber der Religion und den Göttern Respekt und Ehrfurcht zeigen sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Einfallsreichtum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Anti-Eothasianer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Pro-Eothasianer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Güte gegenüber Tieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Pro-Eothas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Pro-Rauatai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Anti-Bleierner Schlüssel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Selbstständigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Pro-Bleierner Schlüssel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Führung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>{0:Name} bewundert Menschen, die Verantwortung übernehmen und den Aufgaben nicht ausweichen, die ihnen übertragen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>{0:Name} kann es gar nicht leiden, wenn andere Verantwortung für etwas übernehmen, das sie nichts angeht, und sich unbeugsam ihren Aufgaben widmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>{0:Name} schätzt Menschen, die Pflicht und Verantwortung nicht zu ernst nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>{0:Name} verabscheut es, wenn andere ihre Pflichten nicht ernst nehmen oder versuchen, sich ihrer Verantwortung zu entziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>{0:Name} betrachtet Traditionalismus ohne gute Gründe mit Argwohn und misstraut allen, die starr an alten Gewohnheiten und Ritualen festhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>{0:Name} respektiert und genießt kulturelle Traditionen und ist fest davon überzeugt, dass diese es wert sind, bewahrt und praktiziert zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>{0:Name} respektiert Menschen, die ein gesundes Selbstwertgefühl besitzen und dazu auch offen stehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>{0:Name} fühlt sich abgestoßen von Menschen, die entgegen allen Anstands und jeglicher Schicklichkeit ihre eigenen Vorteile herausstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>{0:Name} ist fest davon überzeugt, dass Gestandene die Freiheit besitzen sollten, über ihre eigene Zukunft zu entscheiden. {0:Name} weiß Anstrengungen zu schätzen, die diesen Grundsatz fördern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>{0:Name} ist skeptisch, wenn es darum geht, den Gestandenen zu viele Befugnisse übertragen. {0:Name} glaubt, dass die meisten Menschen eher Anleitung und Fürsorge brauchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>{0:Name} glaubt fest an wohlwollende autoritäre Führung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>{0:Name} reagiert mit Misstrauen, wenn jemand versucht, sich eine Autorität über andere anzumaßen - auch wenn die dahintersteckenden Absichten noch so gut sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>{0:Name} verabscheut den Bleiernen Schlüssel und die Gewalt und Manipulation, für die dieser Bund verantwortlich ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>{0:Name} ist überzeugt, dass der Bleierne Schlüsse einem sinnvollen Zweck dient und mag es nicht, wenn man diesen Bund unfair kritisiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>{0:Name} ist davon überzeugt, dass der Bleierne Schlüssel über das Potenzial verfügt, Gutes in der Welt zu tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>{0:Name} misstraut dem Bleiernen Schlüssel und all denen, die diesen Bund verteidigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>{0:Name} ist fest davon überzeugt, dass die Götter und Religionen für die Sterblichen einem nützlichen Zweck dienen und hasst alle gegen diese gerichteten Respektlosigkeiten und Beleidigungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>{0:Name} hasst die Götter und organisierten Religionen. {0:Name} misstraut ihnen zutiefst und stimmt jeder Kritik daran zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Die Pro-Vailianischen Republiken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>{0:Name} hasst die Vailianischen Republiken und hat eine schlechte Meinung von Menschen, die sie offen unterstützen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>{0:Name} glaubt fest an die Vailianischen Republiken und unterstützt sie. {0:Name} betrachtet diejenigen wohlwollend, die es ihm gleichtun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>{0:Name} hält Beseelung für gefährlich und unverantwortlich und ist gegen eine offene Unterstützung dieser Praxis eingestellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>{0:Name} betrachtet Beseelung als entscheidend für den Fortschritt der Welt und reagiert positiv auf alle, die Forschung und Praxis der Beseelung befürworten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>{0:Name} kann rassistische Bemerkungen und Einstellungen überhaupt nicht leiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>{0:Name} glaubt fest an die angeborene Überlegenheit der Gestandenen und ihre Unvereinbarkeit mit anderen Rassen. {0:Name} reagiert positiv auf alle, die ähnliche Überzeugungen hegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Anti-Príncipi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>{0:Name) unterstützt die Piraten der Príncipi sen Patrena und kann alle die nicht leiden, die sie angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>{0:Name} ist gegen die Piraten der Príncipi sen Patrena eingestellt und weiß alle zu schätzen, die ähnlich empfinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>{0:Name} kann progressive Einstellungen nicht leiden, die traditionelle Weisen missachten oder ihnen keinen Respekt zollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>{0:Name} glaubt fest an Anschauungen und Handlungen, die eine Reform der Gesellschaft anstreben und sich dabei nicht durch traditionelle Überzeugungen zurückhalten lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>{0:Name} kann Sentimentalität, wenn es um Tiere geht, überhaupt nicht leiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>{0:Name} schätzt es, wenn jemand gütig und gefühlvoll auf Tiere aller Art reagiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>{0:Name} schätzt Unbeschwertheit im Leben und macht gern Witze, auch wenn die Umstände noch so düster sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>{0:Name} kann Witze, Streiche und ähnlichen Schabernack überhaupt nicht leiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>{0:Name} respektiert alle, die unabhängig und einfallsreich sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>{0:Name} schätzt einen weltoffenen Lebensstil und kosmopolitische Ansichten über das Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>{0:Name}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>{0:Name} hat eine schlechte Meinung von Eothas und seinen Handlungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>{0:Name} kann abschätzige oder feindselige Bemerkungen gegen Eothas überhaupt nicht leiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>{0:Name} hat ein echtes Problem mit den Anhängern von Eothas und unterstützt alle, die sie kritisieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>{0:Name} reagiert ungehalten auf Kritik oder Feindseligkeit gegenüber den Anhängern von Eothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>{0:Name} hasst die Kultur der Huana und ihre Menschen und hegt ihnen gegenüber ein tiefes Misstrauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>{0:Name} reagiert ungehalten auf Kritik oder Feindseligkeit gegenüber der Kultur oder den Menschen der Huana.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>{0:Name} schätzt Menschen, die sich mithilfe von Lügen, Listen und allgemeiner Täuschung durchs Leben schlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>{0:Name} kann Menschen überhaupt nicht leiden, die hinterlistige Taktiken und Täuschungsmanöver einsetzen, um ihren Willen zu bekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>{0:Name} unterstützt Eothas und ist fest von seiner angeborenen Tugend überzeugt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>{0:Name} hat eine schlechte Meinung von Eothas und seinen Handlungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>{0:Name} unterstützt die Anhänger von Eothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>{0:Name} hasst die Anhänger von Eothas und misstraut ihnen zutiefst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>{0:Name} unterstützt die Rauatai und die Königliche Todesfeuer-Gesellschaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>{0:Name} hasst Rauatai und die Königliche Todesfeuer-Gesellschaft und tritt offen gegen sie ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>{0:Name} ist ein leidenschaftlicher Mensch und reagiert positiv auf andere Menschen mit ähnlich starken Gefühlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>{0:Name} schätzt emotionale Zurückhaltung und hat eine schlechte Meinung von Menschen, die ihre Gefühle offen zur Schau tragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>{0:Name} unterstützt die verschiedenen Stämme der Huana und die Gemeinschaften des Todesfeuer-Archipels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>{0:Name} hasst die eingeborenen Huana des Todesfeuer-Archipels und tritt offen gegen sie ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Provinziell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>{0:Name} findet ländliche und provinzielle Ausdrücke und Lebensweisen charmant und liebenswert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Pro-Gottähnlich</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>{0:Name} mag keine Ehrerbietung für oder Bewunderung von Gottähnlichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

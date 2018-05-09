@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_wildrhymer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Uamoru der Thronanwärter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Uamoru&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Nungata&lt;b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Uamoru&lt;/b&gt;, ein Natur-Gottähnlicher und zugleich Thronanwärter auf den Kahanga-Thron, versucht, eine Rebellion gegen die Führung &lt;b&gt;Neketakas&lt;/b&gt; zu fördern. Seine Anhänger und er haben ihr Lager auf einer Insel &lt;b&gt;östlich von Magrans Zähnen&lt;/b&gt; aufgeschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Jemand hat auf den Kopf von &lt;b&gt;Uamoru&lt;/b&gt; ein großzügiges Kopfgeld ausgesetzt. Man konnte ihn bis zu einer Insel &lt;b&gt;östlich von Magrans Zähnen&lt;/b&gt; verfolgen, wo er mit seinem Löwen höchstwahrscheinlich schon auf Glücksritter wartet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Uamorus Rebellion war nur von kurzer Dauer. &lt;b&gt;Nungaga&lt;/b&gt; in der &lt;b&gt;Schlangenkrone&lt;/b&gt; in Neketaka wird für seinen Kopf eine ordentliche Stange Geld hinlegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Uamoru wird sich den Thron nur noch von unten ansehen; doch ich kann mich über das Kopfgeld freuen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

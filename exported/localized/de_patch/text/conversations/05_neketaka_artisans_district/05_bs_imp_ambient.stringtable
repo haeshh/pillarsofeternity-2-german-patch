@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_bs_imp_ambient</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"SCHATZKAMMERSCHLOSS AUFGEBROCHEN? WO GLÄNZENDER KRISTALL HIN?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"BUTLER IN LOUNGE AUF ZWEITER ETAGE VERSUCHT WIEDER, ES ZU ESSEN. MEISTER WIRD VERÄRGERT SEIN."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"DUMME EISERNE! SAG WAS, JA?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"KÜCHEN-IMPS HABEN ES AM BESTEN. BEFÖRDERUNG KANN NICHT SCHNELL GENUG KOMMEN."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"GAH! PFEFFER IST FAST AUS. MEISTER WIRD UNZUFRIEDEN SEIN!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"WARUM BRAUCHT MEISTER BÜCHER? SCHMECKEN NICHT MAL GUT."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_principi_faction_questline\fct_qst_principi_undead</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Symbole des Todes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mit Kapitän Furrante in Stauholz sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Zum Bezirk der Heiligen Treppe in Neketaka reisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Das Grab von Yseyr dem Berather finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Das Grab von Yseyr ausfindig machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Zu Kapitän Furrante zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Kapitän Furrante&lt;/b&gt; hat einen Boten geschickt, um mich nach &lt;b&gt;Stauholz&lt;/b&gt; zu bestellen. Der Príncipi, Anführer des Consuaglo mes Casitàs möchte mit mir über ein mögliches Geschäft sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der Anführer des Consuaglo mes Casitàs der Príncipi wartet auf mich in seinem Turm in der Piratensiedlung Stauholz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Der einzige Hinweis auf Lucia Rivan liegt irgendwo unter der Heiligen Treppe in Neketaka vergraben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Jetzt, wo ich im Bezirk der Heiligen Treppe in Neketaka angekommen bin, muss ich herausfinden, wo Yseyr der Berather begraben wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe einen Gräberkomplex unter dem Tempel von Berath betreten. Hier sollte sich das Grab von Yseyr befinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Jetzt, da ich von Lucia Rivans Vergangenheit erfahren habe, wird &lt;b&gt;Furrante&lt;/b&gt; von meinen Erkenntnissen erfahren wollen. 
+
+Rivan ist von den Toten auferstanden, nachdem sie von Yseyr getötet wurde. Der Berather hat die Fonferrus aufgespürt und den darauffolgenden Kampf in der Schlacht der Dämmerinsel verloren. Yseyr hat sich nach Neketaka zurückgezogen und wurde untot, um das mächtige Schwert zu beschützen, das Rivan bei ihrer Niederlage trug – das Engoliero do Espirs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe erfahren, dass es einen Berath gewidmeten Tempel im Bezirk der Heiligen Treppe in Neketaka gibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Kasu erwähnte, dass Yseyr dort begraben liege, irgendwo in den hängenden Gräbern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe einen Teil der Grabesrede für Yseyr gelesen. Sein Champion, Faywden, die Dame der Mahnwachen, ist mit einem Streitkolben in die Schlacht geritten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe einen Teil der Grabesrede für Yseyr gelesen. Sein Champion, Borthwn, Fürst von Heldentor, hat die Untoten mit einem Speer bekämpft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Eine massive Tür, die von zwei Skeletten in zeremonieller Rüstung bewacht wird, versperrt den Weg in eine uralte Kammer innerhalb der hängenden Gräber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe erfahren, dass Yseyr unter dem Tempel von Berath begraben liegt, in einem Ort namens hängende Gräber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Der Eingang zu den hängenden Gräbern befindet sich außerhalb des Tempels von Berath, auf dem unteren Gang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Furrante von meinen neuen Hinweisen zum Fliegenden Henker erzählt. Lucia Rivan hat ihr Leben und ihr mächtiges Schwert an Yseyr den Berather verloren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Der Fliegende Henker des Todesfeuers ist keine Märchengeschichte. Das Banner von Lucia Rivan, einem uralten Darcozzi-Paladin, weht am Mast dieser Galeone. Furrante will mehr über Rivans Vergangenheit herausfinden und so erfahren, wie diese unnatürliche Bedrohung bekämpft werden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

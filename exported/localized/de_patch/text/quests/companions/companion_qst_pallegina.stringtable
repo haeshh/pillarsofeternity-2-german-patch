@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_pallegina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der Windspielman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Frage die Beseeler im &lt;b&gt;Turm der Seelenseher&lt;/b&gt; nach &lt;b&gt;Giacolo&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Suche im &lt;/b&gt;Loch&lt;b&gt; nach &lt;/b&gt;Giacolo&lt;/=b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Farge die Wirtin des Lochs, &lt;b&gt;Fyrma&lt;/b&gt; nach dem Zimmer von &lt;b&gt;Giacolo&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Suche die &lt;b&gt;Graberstraße&lt;/b&gt; nach Hinweisen auf &lt;b&gt;Giacolo&lt;/b&gt; ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Verfolge die gottähnlichen Piraten in &lt;b&gt;Stauholz&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Pallegina will, dass ich ihr dabei helfe, einen Beseeler aus ihrer Vergangenheit namens Giacolo zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Pallegina&lt;/b&gt; hofft, dass &lt;b&gt;Giacolo&lt;/b&gt; mit den Beseelern im &lt;b&gt;Turm der Seelenseher&lt;/b&gt; an der Heiligen Treppe arbeitet. Ich sollte mich umhören, ob jemand etwas über Giacolo weiß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe in Erfahrung gebracht, das &lt;b&gt;Giacolo&lt;/b&gt; seine Experimente in einem Zimmer im &lt;b&gt;Loch&lt;/b&gt;, einem Gasthaus im Schlund durchführt. Ich sollte dort nach ihm suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe &lt;b&gt;Giacolos Zimmer&lt;/b&gt;durchwühlt vorgefunden. &lt;b&gt;Fyrma&lt;/b&gt;, die Wirtin des Lochs weiß vielleicht, was passiert ist. Ich sollte sie nach Giacolo fragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Fyrna hat gesehen, wie die Piraten &lt;b&gt;Giacolo&lt;/b&gt; in Richtung der &lt;b&gt;Enge&lt;/b&gt; schleppten. Sie hält es für wahrscheinlich, dass sie ihn zur &lt;b&gt;Graberstraße&lt;/b&gt; bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Die Gruppe gottähnlicher Piraten, die Giacolo entführt hatten, haben ihn zu ihrem Kapitän &lt;b&gt;Tatzatl&lt;/b&gt; in &lt;b&gt;Stauholz&lt;/b&gt; gebracht. Ich sollte dort nach ihm suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe entsprechenden Schriftwechsel bei Flaune Elette gefunden. Vielleicht enthält er auch Informationen über Giacolo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Imuani hat mir gesagt, dass die Piraten Giacolo den Aufzug mit runter genommen hätten. Sie erwähnte, dass der Aufzugswächter mit ihnen gesprochen habe, bevor sie passieren konnten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Quest gescheitert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Tatzatl dazu überredet, Giacolo freizulassen und ihn seine Forschungen fortsetzen zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Tatzatl dazu überredet, Giacolo freizulassen, doch er hat die Forschungen des Beseelers konfisziert und ihn davor gewarnt, sie fortzusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Kapitän Tatzatl und seine Mannschaft getötet, um Giacolo zu retten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich konnte Tatzatl nicht mit Worten überzeugen und ein Kampf folgte. Giacolo starb im Handgemenge.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

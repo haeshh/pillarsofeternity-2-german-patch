@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_si_sea_cave_swim</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Das Wasser leuchtet hier in einem schaurigen Blau und die Höhle flimmert vom reflektierten Licht. 
+
+In der Höhlenwand im Nordwesten kannst du eine Öffnung ausmachen, wo das Wasser weiterfließt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Nach Luftblasen suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Hindurchschwimmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Den Tauchhelm aufsetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du stehst erneut vor dem Wasserbecken und dem Tunnel dahinter. Das Wasser schwappt träge gegen die Steinformationen, neben der du hockst. Es erzeugt eine konstante Geräuschkulisse im Hintergrund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Nachdem jeder ein letztes Mal tief Luft geholt hat, taucht deine Gruppe in den Tunnel und folgt den Windungen der Höhle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du setzt den klobigen Helm auf und watest in das Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Der Tunnel scheint sich ein Stück geradeaus zu erstrecken, bevor eine scharfe Kurve kommt. Du kannst nicht sehen, wohin sie führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du atmest tief ein und gleitest in das kühle Nass. Mit deinen Händen folgst du der Steinwand der Höhle und suchst nach Räumen im unterirdischen Tunnel, die nicht vollständig von Wasser ausgefüllt werden.
+
+Du musst einige Male vor- und zurücklaufen, doch schließlich findest du einen sicheren Ort zum Luftschnappen. Mit einem Zug frischer Luft in der Lunge schwimmst du zum Ende des Tunnels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Jemanden vorausschicken, der nach Luftblasen Ausschau hält.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du atmest tief ein und steigst in das Wasser. Es ist kühl, aber nicht unangenehm. Du schwimmst in den Tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Nach einer scharfen Biegung im Tunnel folgst du weiter der Steinwand auf der Suche nach Orten, an denen du Luft schnappen kannst. Aber du findest keine. Das Wasser in deinen Augen sticht und die monotone Steinmasse um dich herum trüben deinen Orientierungssinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Specified 0] kommt zügig voran und gleitet mit selbstbewussten Bewegungen durch das Wasser.
+
+Gegen Ende des Tunnels findet [Specified 0] einen Ort zum Luftschnappen. Mit dieser Möglichkeit, eine Pause einzulegen, sollte das Schwimmen durch den Tunnel möglich sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0] klettert ins Wasser und macht sich auf den Weg durch die schummerige Höhle. Die Höhle biegt und windet sich und die zunehmend verzweifelte Suche nach einer Luftblase in der monotonen Steinmasse an der Decke bringt keine Ergebnisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Deine kraftvollen Bewegungen werden nicht vom Gewicht deiner Ausrüstung behindert und du kommst gut voran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du erreichst schließlich ein Gewölbe, das wie eine weitere, kleinere Höhle aussieht. Sonnenlicht dringt durch eine Öffnung im Stein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du erreichst schließlich ein Gewölbe, das wie eine weitere, kleinere Höhle aussieht. Mondlicht dringt durch eine Öffnung im Stein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du begibst dich in den dir mittlerweile vertrauten Tunnel und erreichst erneut die andere Seite der Höhle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Auf halbem Weg beginnt [SkillCheck 0] zurückzufallen. Als klar wird, wie weit es noch ist, setzt Panik ein.
+
+[SkillCheck 1] kehrt um und schleppt [SkillCheck 0] in Sicherheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Das Durchqueren der Unterwasserhöhle wird zu einer Frage der korrekten Navigation durch die schummerigen Tunnel, was dir zunehmend leichter fällt, da du unterwegs nicht mehr nach Luft schnappen musst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du schwimmst voran in die wenig einladende Düsternis und wirst augenblicklich in ein konfuses Reich aus Wasser, monotonem Stein und kleinen, vorbeihuschenden Formen geworfen.
+
+Entschlossen schwimmst du weiter, doch dir wird bald klar, dass du die Länge des Weges unterschätzt hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du brauchst dringend Luft und musst den bisher zurückgelegten Weg wieder zurückschwimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Zunächst sieht es gut aus, aber als du die zweite Biegung des Tunnels erreichst, brennen deine Lungen bereits. 
+
+Glücklicherweise entdeckst du gerade in diesem Moment eine Luftblase. Jetzt, wo du einen Ort gefunden hast, an dem du unterwegs eine Pause einlegen kannst, bist du dir sicher, dass du es problemlos durch den Tunnel schaffst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Deine kraftvollen Bewegungen bringen dich zügig voran und du findest einige Luftblasen, die sich von deinem Startpunkt aus bequem erreichen lassen. 
+
+Du bist dir sicher, dass du es ohne größere Probleme durch den Tunnel schaffst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du musst umdrehen und kletterst nach Luft schnappend zurück auf die Steinformation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Specified 0] muss umdrehen, um nicht zu ertrinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Luftblasen ermöglichen die lebensnotwendigen Pausen beim Tauchen durch den engen Wasserweg. Deine Reise durch den Tunnel ist zügig beendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

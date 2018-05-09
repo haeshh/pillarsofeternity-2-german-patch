@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_lich_lair</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als du die Insel überquerst, trifft du auf einen Bereich, der unberührt zu sein scheint von den Händen der Gestandenen.
+
+In üppiger Fülle wachsen kräftige Pflanzen vor den Eingängen zu mehreren Höhlen, und du hörst die Geräusche von Tieren und Insekten über dem Brechen der Wellen am Strand hinter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Als du näher herankommst, fällt dir auf, dass der Eingang zu einer der Höhlen zu regelmäßig gestaltet ist, um von der Natur allein geformt worden zu sein.
+
+Du untersuchst den Eingang näher und entdeckst einen Türrahmen, der in die Höhlenöffnung gemeißelt wurde. Eine Tür gibt es allerdings nicht mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Dieser ruhige Bereich der Insel sieht jetzt auch nicht anders aus als beim letzten Mal, als du hindurchmarschiert bist. Über denselben überwachsenen Pfad kehrst du zur versunkenen Ruine zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

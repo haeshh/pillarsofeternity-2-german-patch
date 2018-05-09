@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_vtc_faction_questline\fct_qst_vtc01_poko_kohara</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Handelsbedingungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Untersuche die Lage auf &lt;b&gt;Poko Kohara&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zum &lt;b&gt;Hauptquartier der Vailianischen Handelsgesellschaft&lt;/b&gt; am &lt;b&gt;Ankerplatz der Königin&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Vailianische Handelsgesellschaft hat eine Expedition ausgesendet, um die Insel Poko Kohara zu finden. Die Expedition ist niemals zurückgekehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich wurde von der &lt;b&gt;Vailianischen Handelsgesellschaft&lt;/b&gt; gebeten, die erste Expedition nach Poko Kohara aufzuspüren und falls nötig ihre Mission zu beenden. Der erste Schritt ist die Reise nach &lt;b&gt;Tikawara&lt;/b&gt;.
+
+Mir wurde eine Belohnung für den Fall versprochen, dass ich die Angelegenheit zum Vorteil der &lt;b&gt;Vailianischen Handelsgesellschaft&lt;/b&gt; regeln kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Die Vertreter der Gesellschaft werden wissen wollen, was auf &lt;b&gt;Poko Kohara&lt;/b&gt; geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für den Abschluss dieser Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe der Vailianischen Handelsgesellschaft Bericht erstattet und meine Belohnung erhalten. Wenn ich will, kann ich bei den Vailianern noch mehr bezahlte Arbeit finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

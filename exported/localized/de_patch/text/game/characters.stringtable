@@ -1,0 +1,7524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\characters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1503</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Spieler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Nairi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ranga Ruānu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Vektor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Himuihi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Huana-Dörfler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Huana-Krieger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Mukūmu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Tamau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Rongi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>VHG-Erforscher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Beza</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vorlage-Kreatur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Lagufaeth-Schlüpfling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Anahāru</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Toter Erforscher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Huana-Geist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Dueno</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Gian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Olara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Falero</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Lagufaeth-Brutmutter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Edér</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Sandmade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Engwithanischer Heiliger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Wüstenspinne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Aloth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Pekeho</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Skarabäuskäfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Leuchtender Wiedergänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Engwithanischer Titan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Sandfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Xaurip</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Xaurip-Meister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Xaurip-Hohepriester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Xaurip-Scharmützler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Wüstenlindwurm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Wüsten-Delemgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Adra-Schleim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Adra-Animat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Korrumpierter Adra-Animat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Wüstenjungspinne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Schatten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Oasen-Delemgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Lagufaeth-Rotflosse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Lagufaeth-Seitenwinder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Vorlagen-NPC</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Lagufaeth-Magier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Lindwurm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Falle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Angeheuerter Abenteurer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Pallegina</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Spieler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Siegel der Albträume</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Essenzbatterie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Xakoras</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Amphora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Fass</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Schwarzpulverfass</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Haufen Schwarzpulver</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Xaurip-Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Pallegina</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Ngeme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Wehata</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Hirsch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Haefrol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Seran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Imir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Lagufaeth-Rotflosse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Skelettkrieger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Skelettzauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Skelett</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Phantom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>&lt;xg&gt;Will-O'-Wisp&lt;/xg&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Jungdrache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Drache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Atello Valera</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Ezzali Bardatto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Akema</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Ivorr der Strahlende</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Larro Bardatto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Nera Bardatto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Orso Valera</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Sanza</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Martino Valera</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Kalei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Bürger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Löwe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Bär</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Vogel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Keiler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Alter Keiler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Junger Keiler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Kristallfresser-Spinne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Kristallfresser-Jungspinne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Rotghast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Rotghast-Schleuderer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Rotghast-Zerstörer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Lindwurm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Angestellter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Diener</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Biha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Orron</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Luca</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Tawenu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Wächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Wächter der Gesellschaft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Sedūzo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Botaro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Schankkellner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Goldpakt-Kämpfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Goldpakt-Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Roparu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Roparu-Waise</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Roparu-Straßenkind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>VHG-Wachfrau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>VHG-Wachmann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Armer Schlucker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Zamar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Rauataianischer Soldat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Rauataianischer Elementalist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Rauataianischer Schütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Cotta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Kapitän Radora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Dereo der Magere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Fyrna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Pitli</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Ernezzo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Der Spindelmann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Gwenfin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Ateira</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Takano</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Pirat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Mataru-Wächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Aufseher Hitenga</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Mataru</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Tiela</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Fieberkranker Roparu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Leidender Roparu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Pirat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Piratenwache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Betrunkene Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Hauptmann Vilami</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Hauptmann Gwyrnan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Hauptmann Tora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Hauptmann Tuala</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Vailianischer Pirat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Kleine Erdfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Kleine Flammenfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Kleine Windfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Kleine Regenfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Cotta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Hafengauner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Fassina</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Vithrack-Exarch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Oger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Arkemyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Katrenn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Ekenu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Ganor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Verhüllter Bote</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Straßenmagier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Valera-Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Valera-Schildmaid</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Valera-Zaubermacher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Schreiber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Koch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Gast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Belda</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Persa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Valera-Schiffsjäger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Bardatto-Söldling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Valera-Scharmützler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Bardatto-Hellebardier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Bardatto-Fechter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Bardatto-Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Königlicher Wettermagier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Königlicher Schwertkämpfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Königliche Schwertkämpferin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Königlicher Seefahrer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Mühlenwache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Sklaventreiber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Sklavenfänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Kleinlicher Besucher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Takano</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Skelettbogenschütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Skelettbrigant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>VHG-Vertreter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Bardatto-Schatzkammerwache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Straßenkind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Synbel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Reicher Herr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Goldpakt-Schurke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Einbrecher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Kammerknacker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Taschendieb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Príncipi-Pistolier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Príncipi-Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Alteria</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Troll</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Dargul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Algul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Meerestroll</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Geist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Schatten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Phantom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Cean Gŵla</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Schatten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Gespenst</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Geringe Erdfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Größere Erdfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Söldner-Barbar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Söldner-Sänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Söldner-Medium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Söldner-Druide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Söldner-Kämpfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Söldner-Mönch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Söldner-Paladin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Söldner-Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Söldner-Waldläufer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Söldner-Schurke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Söldner-Zauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Söldner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Rost</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Krieger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Schläger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Verbrecher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Attentäter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Scherge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Scharmützler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Halsabschneider</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Heiler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Zauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Troubadour</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Valera-Jugendlicher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Orsos Zweite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Larros Zweite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Erdfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Neketaka-Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Fampir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Bardatto-Jugendlicher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Imp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Ydwin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Xoti</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Serafen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Maia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Enarat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Imuani</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Enoi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Stammgast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Gul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Korallennāga-Schütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Flammennāga-Schütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Korallennāga-Schamane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Flammennāga-Schamane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Korallennāga-Krieger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Flammennāga-Marodeur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Rotghast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Gildemeister Mairu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Tekēhu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Mühlenarbeiter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Verhüllter Elf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Marihi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Einziger Überlebender</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Netehe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Edelmann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Iolfr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Kuaru-Poet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Wasserformer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Meeresdrache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>Ifren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Verseuchter Rotghast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Pistolier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Haudegen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Hafenarbeiter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Eisernes Konstrukt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Priester der Gesellschaft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Skuldrak</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Vailianer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Skuldrak-Kreischer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>Tumara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Oger-Pirat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Oger-Kanonier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>Baer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Zili Valera</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Künstler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Oger-Plünderer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Sklaventreiber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Wetterzauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Faina Kurzfell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Vithrack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Untertäniger Sklave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Höhlenmade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Höhlenmade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Riesige Höhlenmade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Kleine Höhlenmade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Vailianischer Wachhauptmann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Unsichtbarer Sprecher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Bertenno</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Salzwasser-Imp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Garnele</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Celezzia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Tekēhu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Seemann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Scyorielaphas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Schankwirt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>Daima</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>VHG-Aufseher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Testacles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Geist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Geringe Regenfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Regenfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Größere Regenfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Salzwasser-Imp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Sklaventreiber-Anführer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Sklavenfänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>Sklave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Lampenöl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Ishiza</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Mataru-Verteidiger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Mataru-Elementalist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Mataru-Krieger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Mataru-Druide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Mataru-Sänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Hamuto Steinferse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Lianen-Lauerer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Wüsten-Lauerer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Sumpf-Lauerer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Rauataianischer Arkebuseschütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Rauataianischer Pikenier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Prinz Aruihi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Badehaus-Gast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Rauataianischer Diplomat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>Vailianischer Diplomat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Medium der Gesellschaft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Mataru-Würdenträger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Pieps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Stinkender Pete</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Gelbauge Drei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>Siegel der Atrophie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Siegel der Pein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Siegel der Dunkelheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>Siegel des Todes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Waffenschmied</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Schuster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Fischhändler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>Schneider</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Madenhöhle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>Ifren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Alchemiestation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>Serafen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Tekēhu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Xoti</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Maia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Eisernes Konstrukt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Rostiges Konstrukt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>Eisernes Konstrukt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>Eiserner Prototyp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>Fehlgeschlagenes Experiment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>Laden-Imp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>Akumu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Glücksspieler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>Korallennāga-Totem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>Zuhira</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Aimuro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>Königin Onekaza II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>Palast-Speerwache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>Sugaan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Oger-Halsabschneider</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Engwithanischer Titan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>Hirsch-Gefährte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Bettler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Hohepriesterin Saewyn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Kapitän Morena die Verrückte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Hazanui Karū</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Nirro, Canta Nichese</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Rauataianischer Seemann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Kaz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>Goldpakt-Paladin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Wohlhabende Frau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>Vailianischer Kapitän</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>Kapitän Scerra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>Kapitän Mazzo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Kapitän Eccea</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Wasserformer-Neophyt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Schutz des Wasserformers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>Warūa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>Nāgaseele</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>Ereti</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Akara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Kemeha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>Kubado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>Kapitän Teryc Lofell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>Antilope-Kanonier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Antilope-Duellant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>Antilope-Zauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>Masog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>Flaune Elette</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Beseeler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Tiabo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Berath-Akolyth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Berath-Sänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>Tempelwächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Berath-Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>Hohepriester Kasu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>Eothas-Akolyth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>Kind der Dämmerungssterne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Kuaru</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Magran-Akolyt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>Magran-Anhänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>Cuitztli</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>Magran-Mönch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>Magran-Schurke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Magran-Zauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>Hohepriester Hati</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Palast-Bogenschütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>Wache der Königin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Schlangenkrone-Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>Mataru-Höfling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>Palastdiener</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>Lueva Alvari</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Direktor Castol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>Zihaa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>Todesfeuer-Seemann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>Steuermann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>Schinder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>Kapitän Riscenda</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>Lakai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>Goldpakt-Meister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>Heiler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Rikuhu-Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>Rikuhu-Fanatiker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>Rikuhu-Scharfschütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>Rikuhu-Akolyt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>Irrgarten-Magier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>Verletzter Soldat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>Rauataianischer Soldat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>Debug-Höfling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>Mênpŵgra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>Fleischkonstrukt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>Geröll</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>Skaen-Marionette</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>Kapitän Furrante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>Überlebender</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>Baltia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>Bauer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>Bauer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>Todeswächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>Uralter Todeswächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>Yseyr der Berather</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>Lucia Rivan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>Cortina</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>Pŵgra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>Tiger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>Alter Tiger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>Harami</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>Ruāsare</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>Die Verrottete Dame</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>Amira-Akolyt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>Amira-Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>Amira-Hellseher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>Amira-Singvogel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>Amira-Mondjäger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>Ngati-Akolyt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>Ngati-Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>Ngati-Wortbrecher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>Dschungel-Lauerer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>Flammenfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>Größere Flammenfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>Geringe Flammenfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>Sturmfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>Größere Sturmfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>Geringe Sturmfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>Auferstandener Soldat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>Auferstandener Meister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>Auferstandener Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>Auferstandener Waffenmeister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>Auferstandener Magier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>Kapitän Pai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>Atēpu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>Die Grüne Dame</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>Wahaki-Schamane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>Adragan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>Feuchtspore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>Plünderer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>Jäger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>Sporling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>Delemgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>Geringe Sandfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>Junger Tiger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>Korrumpierter Tiger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>Käfer-Schutzgeist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>Katze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>Maden-Schutzgeist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>Ferkel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>Spinnen-Schutzgeist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>Lindwurm-Schutzgeist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>Imp-Schutzgeist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>Vogel-Schutzgeist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>Burapo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>Tangara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>Wahaki-Späher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>Wahaki-Bestienmeister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>Wahaki-Schläger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>Wahaki-Einwohner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>Kipeha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>Meister Kua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>Größere Sandfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>Olesca Sarasso</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>Verzano</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>Wahaki-Schlachtensänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>--UNUSED--</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>Eisfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>Dämmerungsstern-Anhänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>Dämmerungsstern-Herold</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>Eothasianischer Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>Knecht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>Wahaki-Sturmsprecher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>Taschendieb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>Kura</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>Brandstifter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>Gesetzloser</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>Rohling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>Apāro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>Abtrünniger Wasserformer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>Zwiespältiger Geist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>Wolf-Gefährte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>Löwen-Gefährte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>Keiler-Gefährte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>Bär-Gefährte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>Antilopen-Gefährte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>Embēta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>Wasserpeitsche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>Windende Tentakel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>Liane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>Zweiäugiger Pim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>Kapitän Aeldys</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>Eoten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>Kapitän Benweth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>Feuerhirsch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>Xaurip-Wildwache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>Xaurip-Peststürmer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>Xaurip-Madenmeister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>Maden-Gefährte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>Rathun-Plünderer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>Rathun-Flammenrufer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>Rathun-Fanatiker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>Drottigr Eirik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>Rathun-Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>Rathun-Vorhut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>Jadaferlas die Uralte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>Jadaferlas die Uralte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>Magmaschleim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>Degnos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>Avetta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>Dämmerungsstern-Inkarnation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>Pförtner-Inkarnation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>Inkarnation des Bleichen Ritters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>Inkarnation des gesegneten Feuers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>Versklavte Inkarnation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>Visionsinkarnation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>Eothas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>Talfor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>Talfor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>Geringe Eisfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>Größere Eisfäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>Uto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>Büchsenmacher-Lehrling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>Büchsenmacher-Lehrling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>Kleiner Jungdrache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>Flottenmeister Wakoyo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>Floren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>Diŵanna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>Vailianischer Leibwächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>Aedyranischer Leibwächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>Mauer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>Lounge-Bediensteter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>Pulvermischer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>Rauataianische Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>Pulverhaus-Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>Pulverhaus-Scharfschütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>Rauataianischer Sänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>Rauataianischer Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>Pulverhaus-Inspektor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>Príncipi-Marodeur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>Príncipi-Marodeur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>Aspekt von Galawain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>Magran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>Kesango</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>Badema</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>Rathuns Seelenfragment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>Brengodi Toril</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>Einsamer Geist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>Junger Panther</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>Panter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>Alter Panther</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>Wettermagier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>Kraken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>Badehaus-Gast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>Badehaus-Stammgast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>Badehaus-Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>Tempelverkäufer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>Beodul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>Irrena</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>Stadtrufer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>Nia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>Kleine Leuca</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>Wahnsinnige Ora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>Vela</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>Aharu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>Aledh</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>Zwinkernde Audr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>Caergr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>Lumpiger Cerrow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>Schildschwester Daelia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>Eadulf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>Ikiuq</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>Grimmiger Kuldran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>Rawere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>Rumtrottel Riggere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>Tuliak Langfrost</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>Ushizu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>Hübscher Eliam</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>Amreo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>Töla</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>Quarno</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>Brizze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>Alt-Engrim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>Kleine Sandmade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>Príncipi-Zauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>Príncipi-Halsabschneider</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>Vanizzi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>Wahaki-Lehrling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>Söldnerhauptmann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>Seafol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>Rauataianische Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>Sklaventreiber-Söldner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>Príncipi-Schütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>Auktionator Marcca</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>Söldner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>Wohlhabender Händler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>Birta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>Huana-Seemann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>Sturmsprecher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>Schlangenwache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>Großmaul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>Geröll</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>VHG-Sklavenfänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>Huana-Mönch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>Hüter von Ukaizo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>Seeungeheuer-Kopf (Mitte)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>Seeungeheuer-Kopf (Links)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>Seeungeheuer-Kopf (Rechts)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>VHG-Fechter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>Seelensammler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>VHG-Schildwächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>VHG-Zaubermacher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>VHG-Seemann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>Príncipi-Plünderer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>Príncipi-Zauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText>Düstere-Schreiter-Paladin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>Darcozzi-Paladin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>Instabiles Schwarzpulverfass</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText>Umpara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText>Atsura</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText>Peyro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText>Ineya</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>Sabormi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText>Hurwyna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>Seinu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>Udyne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText>Kapitän Masquoro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>Ruquapa-Berserker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>Ruquapa-Beschwörer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>Príncipi-Scharmützler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>Príncipi-Sänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>Príncipi-Paladin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>Príncipi-Waldläufer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>Schläger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>Bukanier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>Zelebrant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>Schurke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>Haudegen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>Zauberklinge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>Príncipi-Kämpfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>Príncipi-Zauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>Príncipi-Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>Príncipi-Sänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>Príncipi-Barbar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>Príncipi-Medium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>Príncipi-Druide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText>Príncipi-Mönch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>Príncipi-Paladin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText>Príncipi-Waldläufer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText>Bauha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>Zuchtmeister Grom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>Eccea</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>Rännig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>Seyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>Ulgrim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText>Tairo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>Munric</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>Chei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>Nathrak</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>Benweth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>Lamond</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText>Mirke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>Glücklose Ancret</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>Ungwith die Felsenherzige</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>Minao</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>Sceydwin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>Oromino</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>Condwen Schlangenauge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>Rote Feyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>Cookie Maina</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>Pirat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>Kerkermeister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText>Mutter Scharf-Felsen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>Gouverneur Clario</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>Loisa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>Sturmsprecherin Ikawha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>Maren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>Mokeha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>Namai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText>Rinco</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText>Galian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>741</ID>
+      <DefaultText>Benessa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>Huana-Krieger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>743</ID>
+      <DefaultText>Widla</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>Perin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>Kriegshäuptling Rauki</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText>Cathŵenna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText>Hudango</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>Cemoc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>749</ID>
+      <DefaultText>Torclef</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>Die Defiant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText>Die Roter Pfeil</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>Dhau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>753</ID>
+      <DefaultText>Galeone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>754</ID>
+      <DefaultText>Schaluppe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>755</ID>
+      <DefaultText>Seefahrer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>756</ID>
+      <DefaultText>Schmuggler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>757</ID>
+      <DefaultText>Schmuggler-Scharfschütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>758</ID>
+      <DefaultText>Leofwyn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>759</ID>
+      <DefaultText>Iverra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>760</ID>
+      <DefaultText>Wetterfester Cormio</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>761</ID>
+      <DefaultText>Assila Wellenskipper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>762</ID>
+      <DefaultText>Die Flussdrache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>763</ID>
+      <DefaultText>Port Maje-Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>764</ID>
+      <DefaultText>Gouverneurs-Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>765</ID>
+      <DefaultText>Die Pförtner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>766</ID>
+      <DefaultText>Der Bleiche Ritter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>767</ID>
+      <DefaultText>Lich</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>768</ID>
+      <DefaultText>Príncipi-Seemann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>769</ID>
+      <DefaultText>Príncipi-Kämpfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>770</ID>
+      <DefaultText>Príncipi-Pistolier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>Príncipi-Wachposten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>Thorel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>773</ID>
+      <DefaultText>Aumaua-Seefahrer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>774</ID>
+      <DefaultText>Animat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>775</ID>
+      <DefaultText>Fäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>776</ID>
+      <DefaultText>Nāga</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>777</ID>
+      <DefaultText>Bestien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>778</ID>
+      <DefaultText>Made</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>779</ID>
+      <DefaultText>Spinne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>780</ID>
+      <DefaultText>Fledermaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>781</ID>
+      <DefaultText>Die Wirbelwind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>782</ID>
+      <DefaultText>Kapitän Angfor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>783</ID>
+      <DefaultText>Verrückter Räuber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>784</ID>
+      <DefaultText>Verrückter Hexer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>785</ID>
+      <DefaultText>Verrückter Fanatiker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>786</ID>
+      <DefaultText>Arnfryda</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>787</ID>
+      <DefaultText>Blidh</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>788</ID>
+      <DefaultText>Carmet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>789</ID>
+      <DefaultText>Gulfaryc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>790</ID>
+      <DefaultText>Yonga</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>791</ID>
+      <DefaultText>Waikana</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>792</ID>
+      <DefaultText>Rauataianisches Medium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>793</ID>
+      <DefaultText>Rauataianischer Attentäter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>794</ID>
+      <DefaultText>Rauataianischer Soldat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>795</ID>
+      <DefaultText>Elewys</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>796</ID>
+      <DefaultText>Bettler Wifruth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>797</ID>
+      <DefaultText>Die Versenker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>798</ID>
+      <DefaultText>Veen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>799</ID>
+      <DefaultText>Der Leichtsinnige</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>800</ID>
+      <DefaultText>Tollwütiger Leichenfresser</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>801</ID>
+      <DefaultText>Verrückter Ernter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>802</ID>
+      <DefaultText>Mataru-Medium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>803</ID>
+      <DefaultText>Palast-Vogelhüter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>804</ID>
+      <DefaultText>Lagufaeth-Kriegshäuptling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>805</ID>
+      <DefaultText>Fliegender Henker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>806</ID>
+      <DefaultText>Unterseeboot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>807</ID>
+      <DefaultText>Dschunke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>808</ID>
+      <DefaultText>Unterseeboot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>809</ID>
+      <DefaultText>Uvaala</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>810</ID>
+      <DefaultText>Lagufaeth-Gedankenpirscher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>811</ID>
+      <DefaultText>Lagufaeth-Wüter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>812</ID>
+      <DefaultText>Oderisi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>813</ID>
+      <DefaultText>Rasende Lagufaeth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>814</ID>
+      <DefaultText>Rasende Brutmutter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>815</ID>
+      <DefaultText>Rasender Zerstörer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>816</ID>
+      <DefaultText>Rasende Rotflosse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>817</ID>
+      <DefaultText>Rasender Seitenwinder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>818</ID>
+      <DefaultText>Silberwinde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>819</ID>
+      <DefaultText>Hurangi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>820</ID>
+      <DefaultText>Roter Rabel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>821</ID>
+      <DefaultText>Hamisa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>822</ID>
+      <DefaultText>Die Fügung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>823</ID>
+      <DefaultText>Die Faelandig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>824</ID>
+      <DefaultText>Königlicher Wasserformer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>825</ID>
+      <DefaultText>Arteiro der Rächer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>826</ID>
+      <DefaultText>Oramu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>827</ID>
+      <DefaultText>Waleran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>828</ID>
+      <DefaultText>Hauptmann der Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>829</ID>
+      <DefaultText>Geistiger Verbündeter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>830</ID>
+      <DefaultText>Sumpfhexe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>831</ID>
+      <DefaultText>Bipara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>832</ID>
+      <DefaultText>Feiernder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>833</ID>
+      <DefaultText>Epero</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>834</ID>
+      <DefaultText>Sumpfwache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>835</ID>
+      <DefaultText>Sumpfwanderer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>836</ID>
+      <DefaultText>Gyntel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>837</ID>
+      <DefaultText>Dessiral</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>838</ID>
+      <DefaultText>Tänzer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>839</ID>
+      <DefaultText>Musiker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>840</ID>
+      <DefaultText>Eofania</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>841</ID>
+      <DefaultText>Ymir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>842</ID>
+      <DefaultText>Aenalys</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>843</ID>
+      <DefaultText>Rabyuna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>844</ID>
+      <DefaultText>Konstanten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>845</ID>
+      <DefaultText>Badehaus-Diener</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>846</ID>
+      <DefaultText>Kupferkopf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>847</ID>
+      <DefaultText>Menzzago</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>848</ID>
+      <DefaultText>Wächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>849</ID>
+      <DefaultText>Dämmerstern-Führer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>850</ID>
+      <DefaultText>Bearn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>851</ID>
+      <DefaultText>Gaderian Bosc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>852</ID>
+      <DefaultText>Ogne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>853</ID>
+      <DefaultText>Fampir-Kryptawache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>854</ID>
+      <DefaultText>Fampir-Quartiermeister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>855</ID>
+      <DefaultText>Harama</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>856</ID>
+      <DefaultText>Tuaha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>857</ID>
+      <DefaultText>Wiedergänger-Oger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>858</ID>
+      <DefaultText>Auāta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>859</ID>
+      <DefaultText>Korallenmaurer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>860</ID>
+      <DefaultText>Hetu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>861</ID>
+      <DefaultText>Flottenmeister Okaya</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>862</ID>
+      <DefaultText>Prinz Aruihis Entdeckungsschiff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>863</ID>
+      <DefaultText>Perikis Entschlossenheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>864</ID>
+      <DefaultText>Kapitän Daraku</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>865</ID>
+      <DefaultText>Faust von Rauatai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>866</ID>
+      <DefaultText>Kapitän Baravas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>867</ID>
+      <DefaultText>Der Stolz von Alt-Vailia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>868</ID>
+      <DefaultText>Kapitän Basseti</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>869</ID>
+      <DefaultText>Rücksichtsloser Profit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>870</ID>
+      <DefaultText>Höhlenkäfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>871</ID>
+      <DefaultText>Unbekannt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>872</ID>
+      <DefaultText>Remaro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>873</ID>
+      <DefaultText>Syri die Sirene</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>874</ID>
+      <DefaultText>Malnaj</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>875</ID>
+      <DefaultText>Wüsten-Imp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>876</ID>
+      <DefaultText>Uralter Fampir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>877</ID>
+      <DefaultText>Uralter Fampir-Weiser</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>878</ID>
+      <DefaultText>Uralter Fampir-Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>879</ID>
+      <DefaultText>Großer Ernter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>880</ID>
+      <DefaultText>Ernte-Kantor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>881</ID>
+      <DefaultText>Heiliger Schlächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>882</ID>
+      <DefaultText>Uralter Geist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>883</ID>
+      <DefaultText>Sirene</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>884</ID>
+      <DefaultText>Gefangener</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>885</ID>
+      <DefaultText>Dämmerstern-Verkäufer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>886</ID>
+      <DefaultText>Rostiges Kupferkonstrukt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>887</ID>
+      <DefaultText>Pyromant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>888</ID>
+      <DefaultText>Toter Abenteurer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>889</ID>
+      <DefaultText>Waenglith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>890</ID>
+      <DefaultText>Täog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>891</ID>
+      <DefaultText>Carset</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>892</ID>
+      <DefaultText>Aeflyn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>893</ID>
+      <DefaultText>Mimriko</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>894</ID>
+      <DefaultText>Príncipi-Halunke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>895</ID>
+      <DefaultText>Zerrissenes Banner-Myrmidone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>896</ID>
+      <DefaultText>Zerrissenes Banner-Trickser</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>897</ID>
+      <DefaultText>Zerrissenes Banner-Transzendent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>898</ID>
+      <DefaultText>Zerrissenes Banner-Zauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>899</ID>
+      <DefaultText>Zerrissenes Banner-Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>900</ID>
+      <DefaultText>Stahlrücken-Krieger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>901</ID>
+      <DefaultText>Stahlrücken-Berserker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>902</ID>
+      <DefaultText>Tödlicher Stahlrücken-Soldat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>903</ID>
+      <DefaultText>Tödlicher Stahlrücken-Haudegen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>904</ID>
+      <DefaultText>Geringerer Schwarzer Schlamm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>905</ID>
+      <DefaultText>Größerer Schwarzer Schlamm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>906</ID>
+      <DefaultText>Oger-Todesauge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>907</ID>
+      <DefaultText>Oger-Söldner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>908</ID>
+      <DefaultText>Kriegshund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>909</ID>
+      <DefaultText>Grabhund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>910</ID>
+      <DefaultText>Leereseher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>911</ID>
+      <DefaultText>Sumpfschleim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>912</ID>
+      <DefaultText>Schleim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>913</ID>
+      <DefaultText>Primitive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>914</ID>
+      <DefaultText>Gefäße</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>915</ID>
+      <DefaultText>Geister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>916</ID>
+      <DefaultText>Wilde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>917</ID>
+      <DefaultText>Konstrukte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>918</ID>
+      <DefaultText>Lauerer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>919</ID>
+      <DefaultText>Engwithanischer Hierarch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>920</ID>
+      <DefaultText>Engwithanische Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>921</ID>
+      <DefaultText>Engwithanische Kreationen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>922</ID>
+      <DefaultText>Uralter Lich-Kampfmagier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>923</ID>
+      <DefaultText>Rathun</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>924</ID>
+      <DefaultText>Sumpffledermaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>925</ID>
+      <DefaultText>Flammenfledermaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>926</ID>
+      <DefaultText>Meeresfledermaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>927</ID>
+      <DefaultText>Höhlenfledermaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>928</ID>
+      <DefaultText>Geringerer Sumpfschleim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>929</ID>
+      <DefaultText>Wiedergänger-Ogerdruide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>930</ID>
+      <DefaultText>Reymes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>931</ID>
+      <DefaultText>Reizbarer Beseeler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>932</ID>
+      <DefaultText>Grantiger Beseeler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>933</ID>
+      <DefaultText>Dargul-Leichenfresser</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>934</ID>
+      <DefaultText>Dargul-Scharfschütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>935</ID>
+      <DefaultText>Dargul-Haudegen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>936</ID>
+      <DefaultText>Dargul-Kriegshetzer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>937</ID>
+      <DefaultText>Taqua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>938</ID>
+      <DefaultText>Koami</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>939</ID>
+      <DefaultText>Riwahi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>940</ID>
+      <DefaultText>Tipa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>941</ID>
+      <DefaultText>Weto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>942</ID>
+      <DefaultText>Huana-Fischer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>943</ID>
+      <DefaultText>Ingenieur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>944</ID>
+      <DefaultText>Wiedergänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>945</ID>
+      <DefaultText>Concelhaut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>946</ID>
+      <DefaultText>Erforscher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>947</ID>
+      <DefaultText>Azuko</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>948</ID>
+      <DefaultText>Giordu der Rothändige</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>949</ID>
+      <DefaultText>Scyla Fünfglas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>950</ID>
+      <DefaultText>Nutzloser Dummkopf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>951</ID>
+      <DefaultText>Daelan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>952</ID>
+      <DefaultText>Ralla Schwarzblüte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>953</ID>
+      <DefaultText>Chitupec</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>954</ID>
+      <DefaultText>Persanale Cianca</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>955</ID>
+      <DefaultText>Llendreth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>956</ID>
+      <DefaultText>Schweineschlachter Rukowa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>957</ID>
+      <DefaultText>Münzzähler Foeldas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>958</ID>
+      <DefaultText>Cathenna Sturmherz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>959</ID>
+      <DefaultText>Giani Canc-Assi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>960</ID>
+      <DefaultText>Wohltätige Aegis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>961</ID>
+      <DefaultText>Príncipi-Paladin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>962</ID>
+      <DefaultText>Príncipi-Schurke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>963</ID>
+      <DefaultText>Príncipi-Sänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>964</ID>
+      <DefaultText>Concelhauts Schädel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>965</ID>
+      <DefaultText>Bärenjunges</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>966</ID>
+      <DefaultText>Flammennāga-Schlüpfling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>967</ID>
+      <DefaultText>Wütender Meerestroll</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>968</ID>
+      <DefaultText>Zauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>969</ID>
+      <DefaultText>Hafenwache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>970</ID>
+      <DefaultText>Kaoha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>971</ID>
+      <DefaultText>Käfermade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>972</ID>
+      <DefaultText>Korallenkönigin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>973</ID>
+      <DefaultText>Schrecken des Todesfeuers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>974</ID>
+      <DefaultText>Whenena Aalkuss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>975</ID>
+      <DefaultText>Kuaro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>976</ID>
+      <DefaultText>Burunga</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>977</ID>
+      <DefaultText>Biakara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>978</ID>
+      <DefaultText>Huana-Sänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>979</ID>
+      <DefaultText>Sumpfdruide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>980</ID>
+      <DefaultText>Huana-Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>981</ID>
+      <DefaultText>Huana-Mönch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>982</ID>
+      <DefaultText>Amira-Initiierter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>983</ID>
+      <DefaultText>Ngati-Initiierter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>984</ID>
+      <DefaultText>Rikuhu-Initiierter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>985</ID>
+      <DefaultText>Todeswächter-Fanatiker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>986</ID>
+      <DefaultText>Attentäter-Liane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>987</ID>
+      <DefaultText>Stahlgarotte-Initiierter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>988</ID>
+      <DefaultText>Inquisitor Lödwyn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>989</ID>
+      <DefaultText>Woedica-Agent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>990</ID>
+      <DefaultText>Woedica-Neophyt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>991</ID>
+      <DefaultText>Rauataianischer Sänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>992</ID>
+      <DefaultText>Ondras Peitsche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>993</ID>
+      <DefaultText>Wachhund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>994</ID>
+      <DefaultText>Frühlingsdruide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>995</ID>
+      <DefaultText>Sommerdruide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>996</ID>
+      <DefaultText>Herbstdruide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>997</ID>
+      <DefaultText>Winterdruide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>998</ID>
+      <DefaultText>Kahn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>999</ID>
+      <DefaultText>Oswald</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1000</ID>
+      <DefaultText>Flottenmeister Okaya</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1001</ID>
+      <DefaultText>Kraken-Tentakel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1004</ID>
+      <DefaultText>Stein-Zahn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1005</ID>
+      <DefaultText>Höllen-Imp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1006</ID>
+      <DefaultText>Grabes-Imp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1007</ID>
+      <DefaultText>Frostschatten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1008</ID>
+      <DefaultText>Eis-Wisp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1009</ID>
+      <DefaultText>Alte Flammenfledermaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1010</ID>
+      <DefaultText>Raureif-Geist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1011</ID>
+      <DefaultText>Gefrorene Statue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1013</ID>
+      <DefaultText>Essenz-Anomalie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1014</ID>
+      <DefaultText>Emeini</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1015</ID>
+      <DefaultText>Heahi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1016</ID>
+      <DefaultText>Wettermagier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1017</ID>
+      <DefaultText>Piratenwache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1018</ID>
+      <DefaultText>Benweths Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1019</ID>
+      <DefaultText>Gouverneur Giasces Clario</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1020</ID>
+      <DefaultText>Songretta mea Compresa (in absentia)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1021</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1022</ID>
+      <DefaultText>Keine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1023</ID>
+      <DefaultText>Beutelschneider-Feigling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1024</ID>
+      <DefaultText>Schankwirt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1025</ID>
+      <DefaultText>Schreiber-Akolyt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1026</ID>
+      <DefaultText>Schreiber-Hexenmeister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1027</ID>
+      <DefaultText>Der Hüter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1028</ID>
+      <DefaultText>Hügelgrab-Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1029</ID>
+      <DefaultText>Junvik-Jägerin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1030</ID>
+      <DefaultText>Tatok</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1031</ID>
+      <DefaultText>Anniq</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1032</ID>
+      <DefaultText>Kaali</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1033</ID>
+      <DefaultText>Roparu-Arbeiter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1034</ID>
+      <DefaultText>Mataru-Wächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1035</ID>
+      <DefaultText>Kuaru-Handwerker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1036</ID>
+      <DefaultText>Kuaru-Handwerkerin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1037</ID>
+      <DefaultText>Händler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1038</ID>
+      <DefaultText>Akolyt Kinnuq</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1039</ID>
+      <DefaultText>Nemnok der Verschlinger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1040</ID>
+      <DefaultText>Flammennāga-Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1041</ID>
+      <DefaultText>Flammennāga-Jünger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1042</ID>
+      <DefaultText>Flammennāga-Akolyt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1043</ID>
+      <DefaultText>Rekke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1044</ID>
+      <DefaultText>Hund
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1045</ID>
+      <DefaultText>Ond</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1046</ID>
+      <DefaultText>Rafiq der Rotbärtige</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1047</ID>
+      <DefaultText>Kend</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1048</ID>
+      <DefaultText>Tas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1049</ID>
+      <DefaultText>Merrick</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1050</ID>
+      <DefaultText>Lel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1051</ID>
+      <DefaultText>Daffyd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1052</ID>
+      <DefaultText>Beseelte Waffe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1053</ID>
+      <DefaultText>Myrin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1054</ID>
+      <DefaultText>Kismet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1055</ID>
+      <DefaultText>Hellian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1056</ID>
+      <DefaultText>Jamar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1057</ID>
+      <DefaultText>Elisheva</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1058</ID>
+      <DefaultText>Die Dame der Mahnwachen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1059</ID>
+      <DefaultText>Der Fürst von Heldentor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1060</ID>
+      <DefaultText>Fleischmonstrum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1061</ID>
+      <DefaultText>Jünger Iztla</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1062</ID>
+      <DefaultText>Vergnügliches Leid</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1063</ID>
+      <DefaultText>Kerkermeister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1064</ID>
+      <DefaultText>Aenia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1065</ID>
+      <DefaultText>Barati</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1066</ID>
+      <DefaultText>Udita</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1067</ID>
+      <DefaultText>Nemnok der Winzige</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1068</ID>
+      <DefaultText>Torkar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1069</ID>
+      <DefaultText>Großadmiral Imp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1070</ID>
+      <DefaultText>Dame Epero</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1071</ID>
+      <DefaultText>Die Alisio</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1072</ID>
+      <DefaultText>Diccila</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1073</ID>
+      <DefaultText>Radulf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1074</ID>
+      <DefaultText>Steinstampfer Rodul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1075</ID>
+      <DefaultText>Zauberklinge-Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1076</ID>
+      <DefaultText>Hauptmann Darmo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1077</ID>
+      <DefaultText>Wütende Einwohnerin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1078</ID>
+      <DefaultText>Johlender Mann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1079</ID>
+      <DefaultText>Roparu-Diener</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1080</ID>
+      <DefaultText>Karel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1081</ID>
+      <DefaultText>Nervöser Zuschauer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1082</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1083</ID>
+      <DefaultText>Nomu der Marodeur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1084</ID>
+      <DefaultText>Meryel die Verrückte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1085</ID>
+      <DefaultText>Abocco</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1086</ID>
+      <DefaultText>Engwithan-Reservoir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1087</ID>
+      <DefaultText>Okauro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1088</ID>
+      <DefaultText>Onadere die Verführerin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1089</ID>
+      <DefaultText>Ikorno</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1090</ID>
+      <DefaultText>Purakau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1091</ID>
+      <DefaultText>Tahae</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1092</ID>
+      <DefaultText>Stiller Dhwrgas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1093</ID>
+      <DefaultText>Jarlseggr Brant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1094</ID>
+      <DefaultText>Adliger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1095</ID>
+      <DefaultText>Adligen-Wache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1096</ID>
+      <DefaultText>Geist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1097</ID>
+      <DefaultText>Student</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1098</ID>
+      <DefaultText>Waffenmeister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1099</ID>
+      <DefaultText>Uamoru der Thronanwärter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1100</ID>
+      <DefaultText>Beina</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1101</ID>
+      <DefaultText>Flammenläuferin Vessali</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1103</ID>
+      <DefaultText>Nungata</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1104</ID>
+      <DefaultText>Junvik-Einwohner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1105</ID>
+      <DefaultText>Triumph des Wetterfesten Cormio</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1106</ID>
+      <DefaultText>Triumph von Arteiro dem Rächer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1107</ID>
+      <DefaultText>Triumph von Bettler Wifruth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1108</ID>
+      <DefaultText>Triumph von Veen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1109</ID>
+      <DefaultText>Triumph von Rafiq dem Rotbärtigen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1110</ID>
+      <DefaultText>Triumph des Roten Rabel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1111</ID>
+      <DefaultText>Triumph von Ond</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1112</ID>
+      <DefaultText>Triumph von Assila Wellenskipper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1113</ID>
+      <DefaultText>Triumph von Biakara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1114</ID>
+      <DefaultText>Triumph von Burunga</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1115</ID>
+      <DefaultText>Triumph von Hurangi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1116</ID>
+      <DefaultText>Triumph von Kuaro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1117</ID>
+      <DefaultText>Triumph von Whenena Aalkuss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1118</ID>
+      <DefaultText>Triumph von Chornu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1119</ID>
+      <DefaultText>Triumph von Desiwa dem weiblichen Hai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1120</ID>
+      <DefaultText>Triumph von Oheiro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1121</ID>
+      <DefaultText>Triumph von Takabna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1122</ID>
+      <DefaultText>Triumph von Hazanui Yaro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1123</ID>
+      <DefaultText>Triumph von Anes Vielauge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1124</ID>
+      <DefaultText>Triumph von Diccila</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1125</ID>
+      <DefaultText>Triumph von Estulario Parfitto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1126</ID>
+      <DefaultText>Triumph von Radulf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1127</ID>
+      <DefaultText>Triumph von Steinstampfer Rodul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1128</ID>
+      <DefaultText>Triumph von Myrlesfen der wahrlich Wahnsinnigen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1129</ID>
+      <DefaultText>Triumph der einstigen Matrone Doryga</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1130</ID>
+      <DefaultText>Triumph von Faina Kurzfell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1131</ID>
+      <DefaultText>Triumph des mürrischen alten Forwin </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1132</ID>
+      <DefaultText>Kaleb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1133</ID>
+      <DefaultText>Feuernāga-Totem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1134</ID>
+      <DefaultText>Giftnāga-Totem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1135</ID>
+      <DefaultText>Anes Vielauge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1136</ID>
+      <DefaultText>Huana-Seemann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1137</ID>
+      <DefaultText>Nussloser Ned</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1138</ID>
+      <DefaultText>Gefrorene Statue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1139</ID>
+      <DefaultText>Der Biss von Ngati</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1140</ID>
+      <DefaultText>Caldara de Barranzi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1141</ID>
+      <DefaultText>Maerwald</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1142</ID>
+      <DefaultText>Iovara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1143</ID>
+      <DefaultText>Petroleumfass</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1144</ID>
+      <DefaultText>Takano-Lehrling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1145</ID>
+      <DefaultText>Die Plage von Abet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1146</ID>
+      <DefaultText>Käfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1147</ID>
+      <DefaultText>Naturgeister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1148</ID>
+      <DefaultText>Pflanzen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1149</ID>
+      <DefaultText>Söldner-Haudegen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1150</ID>
+      <DefaultText>Chornu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1151</ID>
+      <DefaultText>Oheiro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1152</ID>
+      <DefaultText>Desiwa der weibliche Hai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1153</ID>
+      <DefaultText>Takabna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1154</ID>
+      <DefaultText>Hazanui Yaro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1155</ID>
+      <DefaultText>Estulario Parfitto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1156</ID>
+      <DefaultText>Söldner-Zauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1157</ID>
+      <DefaultText>Tama Watua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1158</ID>
+      <DefaultText>Der Unerschrockene</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1161</ID>
+      <DefaultText>Stummes Medium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1162</ID>
+      <DefaultText>Feuer-Jungdrache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1163</ID>
+      <DefaultText>Grabhund-Welpe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1164</ID>
+      <DefaultText>Rauataianischer Kämpfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1165</ID>
+      <DefaultText>Vailianischer Kämpfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1166</ID>
+      <DefaultText>Purukau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1167</ID>
+      <DefaultText>Tahae</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1168</ID>
+      <DefaultText>Vailianisches Medium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1169</ID>
+      <DefaultText>Vailianischer Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1170</ID>
+      <DefaultText>Vailianischer Matrose</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1171</ID>
+      <DefaultText>Thaos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1172</ID>
+      <DefaultText>Rauataianischer Waldläufer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1173</ID>
+      <DefaultText>Rauataianischer Schurke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1174</ID>
+      <DefaultText>Rauataianischer Sänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1175</ID>
+      <DefaultText>Myrlesfen die wahrlich Wahnsinnige</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1177</ID>
+      <DefaultText>Crogall-Matriarchin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1178</ID>
+      <DefaultText>Savia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1184</ID>
+      <DefaultText>Torri</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1185</ID>
+      <DefaultText>Ilari</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1186</ID>
+      <DefaultText>Gezähmter Skarabäuskäfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1187</ID>
+      <DefaultText>Großbruder Osgar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1188</ID>
+      <DefaultText>Waldläufer-Schwester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1189</ID>
+      <DefaultText>Waldläufer-Bruder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1190</ID>
+      <DefaultText>Fleischflicker Kaerafa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1191</ID>
+      <DefaultText>Brut-Verehrer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1192</ID>
+      <DefaultText>Brut-Schlitzer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1193</ID>
+      <DefaultText>Brut-Fleischflicker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1194</ID>
+      <DefaultText>Brut-Herzbeißer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1195</ID>
+      <DefaultText>Brut-Wahnsinniger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1197</ID>
+      <DefaultText>Norgund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1198</ID>
+      <DefaultText>Dämmerstern-Verkäufer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1199</ID>
+      <DefaultText>Toedhild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1200</ID>
+      <DefaultText>Hofzauberer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1201</ID>
+      <DefaultText>Leibwächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1202</ID>
+      <DefaultText>Mero</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1203</ID>
+      <DefaultText>Große Anomalie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1204</ID>
+      <DefaultText>Maren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1205</ID>
+      <DefaultText>(Datenbank offline)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1206</ID>
+      <DefaultText>Toter Seefahrer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1207</ID>
+      <DefaultText>Verirrter Geist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1208</ID>
+      <DefaultText>Goreccistraße-Halunke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1209</ID>
+      <DefaultText>Ertrunkener Pirat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1210</ID>
+      <DefaultText>Salziger Sam</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1213</ID>
+      <DefaultText>Galawain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1214</ID>
+      <DefaultText>Adra-Animat-Scharmützler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1215</ID>
+      <DefaultText>Teāna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1216</ID>
+      <DefaultText>Partisane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1217</ID>
+      <DefaultText>Ogne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1218</ID>
+      <DefaultText>Geringe Fäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1219</ID>
+      <DefaultText>Fäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1220</ID>
+      <DefaultText>Größere Fäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1221</ID>
+      <DefaultText>Schutzgeist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1222</ID>
+      <DefaultText>Wesenhaftes Phantom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1223</ID>
+      <DefaultText>Starkes Phantom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1224</ID>
+      <DefaultText>Bearn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1225</ID>
+      <DefaultText>Düsterweber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1227</ID>
+      <DefaultText>Riesiger Älterer Keiler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1228</ID>
+      <DefaultText>Henric</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1229</ID>
+      <DefaultText>Riesiger Keiler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1230</ID>
+      <DefaultText>Riesiger Bär</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1231</ID>
+      <DefaultText>Riesiger Tiger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1232</ID>
+      <DefaultText>Düsterweberling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1233</ID>
+      <DefaultText>Riesige Feuchtspore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1234</ID>
+      <DefaultText>Riesiger Sporling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1235</ID>
+      <DefaultText>Huana-Kind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1236</ID>
+      <DefaultText>Huana-Kind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1238</ID>
+      <DefaultText>Wekeme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1239</ID>
+      <DefaultText>Waffenverkäufer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1240</ID>
+      <DefaultText>Weitgereister Händler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1241</ID>
+      <DefaultText>Häuptling Hallender-Schlag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1242</ID>
+      <DefaultText>Meister-Wasserformer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1243</ID>
+      <DefaultText>Schleichender-Schrecken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1244</ID>
+      <DefaultText>Sturmsprecher-Ältester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1245</ID>
+      <DefaultText>Kohopa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1246</ID>
+      <DefaultText>Tangaloa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1247</ID>
+      <DefaultText>Fischhändler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1248</ID>
+      <DefaultText>Nordagand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1249</ID>
+      <DefaultText>Nordagand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1251</ID>
+      <DefaultText>Nordagand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1252</ID>
+      <DefaultText>Emaita</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1253</ID>
+      <DefaultText>Großer Stelgaer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1263</ID>
+      <DefaultText>Muhai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1264</ID>
+      <DefaultText>Straßenhändler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1265</ID>
+      <DefaultText>Paladin der Fünf Sonnen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1266</ID>
+      <DefaultText>Schauspieler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1267</ID>
+      <DefaultText>Troupe Orlan 02</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1268</ID>
+      <DefaultText>Taerna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1269</ID>
+      <DefaultText>Calandra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1270</ID>
+      <DefaultText>Barquami</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1271</ID>
+      <DefaultText>Jacob Harker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1272</ID>
+      <DefaultText>Stauholz-Halunke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1273</ID>
+      <DefaultText>Stauholz-Pistolier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1274</ID>
+      <DefaultText>Kabinenjunge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1275</ID>
+      <DefaultText>Weiblicher Tavernenprofi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1276</ID>
+      <DefaultText>Haupthändler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1277</ID>
+      <DefaultText>Deeni</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1278</ID>
+      <DefaultText>Pietro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1279</ID>
+      <DefaultText>Der Dämon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1280</ID>
+      <DefaultText>Una</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1281</ID>
+      <DefaultText>Stinkeschrecken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1283</ID>
+      <DefaultText>Modwyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1284</ID>
+      <DefaultText>Eoten-Bewohner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1285</ID>
+      <DefaultText>Eoten Trommelhöller</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1286</ID>
+      <DefaultText>Vailianischer Adliger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1287</ID>
+      <DefaultText>Weißmark-Händler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1288</ID>
+      <DefaultText>Mataru-Adliger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1289</ID>
+      <DefaultText>Huana-Diplomat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1295</ID>
+      <DefaultText>Amira-Akolyt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1296</ID>
+      <DefaultText>Ladenloser Imp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1297</ID>
+      <DefaultText>Hyleanische Beschwörung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1302</ID>
+      <DefaultText>Bruder Druide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1305</ID>
+      <DefaultText>Buchhalter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1306</ID>
+      <DefaultText>Osgara Rafendr, Erla von Norwaech</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1307</ID>
+      <DefaultText>Duc Remasi Storanzo me Selona</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1308</ID>
+      <DefaultText>Príncipo Tarvisi Vadremino III me Revua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1310</ID>
+      <DefaultText>Mefisto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1312</ID>
+      <DefaultText>Fonferrus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1313</ID>
+      <DefaultText>Rosanella</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1315</ID>
+      <DefaultText>Pulverwache-Hauptmann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1316</ID>
+      <DefaultText>Hawk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1317</ID>
+      <DefaultText>Dreksûd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1318</ID>
+      <DefaultText>Falsûd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1319</ID>
+      <DefaultText>Gornlód</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1320</ID>
+      <DefaultText>Grísundr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1324</ID>
+      <DefaultText>Orlaner-Adliger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1325</ID>
+      <DefaultText>Stauholz-Stadtbewohner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1326</ID>
+      <DefaultText>Verrückter Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1327</ID>
+      <DefaultText>Verrückter Pistolier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1328</ID>
+      <DefaultText>Nahrungshändler am Strahlenden Hof</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1329</ID>
+      <DefaultText>Dimesa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1330</ID>
+      <DefaultText>Kriegshäuptling Stahlklaue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1331</ID>
+      <DefaultText>Ramaso</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1332</ID>
+      <DefaultText>Imp-Trickser</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1334</ID>
+      <DefaultText>Caedman Azo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1335</ID>
+      <DefaultText>Adaryc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1336</ID>
+      <DefaultText>Eadmund der Fuchs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1337</ID>
+      <DefaultText>Anbeter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1338</ID>
+      <DefaultText>Stauholz-Gedankenschinder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1339</ID>
+      <DefaultText>Kabinenjunge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1340</ID>
+      <DefaultText>Kapitän Chiara Goldflosse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1341</ID>
+      <DefaultText>Kapitän Mer Trevisilo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1342</ID>
+      <DefaultText>Irwena</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1343</ID>
+      <DefaultText>Orlaner-Hausierer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1344</ID>
+      <DefaultText>Yngfrith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1345</ID>
+      <DefaultText>Aimo do Spirente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1346</ID>
+      <DefaultText>Der Gepanzerte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1347</ID>
+      <DefaultText>Triumph von Fyrgist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1348</ID>
+      <DefaultText>Triumph der Dreksûd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1349</ID>
+      <DefaultText>Triumph der Falsûd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1350</ID>
+      <DefaultText>Triumph der Gornlód</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1351</ID>
+      <DefaultText>Triumph der Grísundr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1353</ID>
+      <DefaultText>Schwarze Magretta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1354</ID>
+      <DefaultText>Pirat der Göttlichen Barge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1355</ID>
+      <DefaultText>Himuati Fünfstein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1356</ID>
+      <DefaultText>Idira</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1357</ID>
+      <DefaultText>Kleinholz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1358</ID>
+      <DefaultText>Naudr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1359</ID>
+      <DefaultText>Naudra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1360</ID>
+      <DefaultText>Kapitän Tatzatl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1361</ID>
+      <DefaultText>Giacolo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1362</ID>
+      <DefaultText>Fyrgist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1363</ID>
+      <DefaultText>Wirtan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1364</ID>
+      <DefaultText>Die Lied der Sirene</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1365</ID>
+      <DefaultText>Gretorix</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1366</ID>
+      <DefaultText>Luvata</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1367</ID>
+      <DefaultText>Adurix</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1368</ID>
+      <DefaultText>Kratunos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1369</ID>
+      <DefaultText>Rhys</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1370</ID>
+      <DefaultText>Bürger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1371</ID>
+      <DefaultText>Huana-Einwohner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1372</ID>
+      <DefaultText>Vailianischer Bürger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1373</ID>
+      <DefaultText>Huana-Einwohner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1374</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1375</ID>
+      <DefaultText>Kerkermeister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1376</ID>
+      <DefaultText>Rauataianischer Offizier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1377</ID>
+      <DefaultText>Verzano</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1378</ID>
+      <DefaultText>Vailianischer Händler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1379</ID>
+      <DefaultText>Sänger der Akademie des Wissens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1380</ID>
+      <DefaultText>Daionne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1381</ID>
+      <DefaultText>Izzidrix</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1382</ID>
+      <DefaultText>Rotbinden-Paladin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1383</ID>
+      <DefaultText>Todesauge-Gewehrfalke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1385</ID>
+      <DefaultText>Huana-Seemann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1386</ID>
+      <DefaultText>Rauataianischer Seemann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1387</ID>
+      <DefaultText>Vailianischer Matrose</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1388</ID>
+      <DefaultText>Rathun-Seemann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1389</ID>
+      <DefaultText>Die Schuppe von Tangaloa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1390</ID>
+      <DefaultText>Der Diener von Rikuhu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1391</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1392</ID>
+      <DefaultText>Sumpfbarbar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1393</ID>
+      <DefaultText>Gabel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1394</ID>
+      <DefaultText>Kusi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1395</ID>
+      <DefaultText>Adligen-Bogenschütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1396</ID>
+      <DefaultText>Roparu-Dreckmann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1397</ID>
+      <DefaultText>Zandran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1398</ID>
+      <DefaultText>Wochka</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1399</ID>
+      <DefaultText>Franco</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1400</ID>
+      <DefaultText>Lyslódhir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1401</ID>
+      <DefaultText>Midge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1402</ID>
+      <DefaultText>Delemgan-Rankenrufer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1403</ID>
+      <DefaultText>Barbar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1404</ID>
+      <DefaultText>Druide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1405</ID>
+      <DefaultText>Todeswache Latuc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1406</ID>
+      <DefaultText>Der Stahlprediger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1407</ID>
+      <DefaultText>Mysteriöser Sänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1408</ID>
+      <DefaultText>Mysteriöser Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1409</ID>
+      <DefaultText>Mysteriöser Schurke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1410</ID>
+      <DefaultText>Verruchte Bestie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1411</ID>
+      <DefaultText>Verwundeter Rathun-Krieger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1412</ID>
+      <DefaultText>Krummsporn-Kapitän</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1413</ID>
+      <DefaultText>Todesfeuer-Händler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1414</ID>
+      <DefaultText>Handelsschiff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1415</ID>
+      <DefaultText>Oger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1416</ID>
+      <DefaultText>Untersekretär</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1417</ID>
+      <DefaultText>Magranit-Fanatiker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1418</ID>
+      <DefaultText>Magranit-Champion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1419</ID>
+      <DefaultText>Zulka</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1420</ID>
+      <DefaultText>Tebe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1421</ID>
+      <DefaultText>Nedunga</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1422</ID>
+      <DefaultText>Osauro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1423</ID>
+      <DefaultText>Watūri</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1424</ID>
+      <DefaultText>Grog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1425</ID>
+      <DefaultText>Inaktives Siegel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1426</ID>
+      <DefaultText>Glasvahl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1427</ID>
+      <DefaultText>Anhänger von Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1428</ID>
+      <DefaultText>Eisenflegel-Kanonier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1429</ID>
+      <DefaultText>Leibwächter des Gouverneurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1430</ID>
+      <DefaultText>Mataru-Schiffseigner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1431</ID>
+      <DefaultText>Kauru-Händler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1432</ID>
+      <DefaultText>Kuaru-Handwerker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1433</ID>
+      <DefaultText>Alter Druide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1434</ID>
+      <DefaultText>Skaenit-Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1435</ID>
+      <DefaultText>Skaenit-Prediger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1436</ID>
+      <DefaultText>Skaenit-Saboteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1437</ID>
+      <DefaultText>Skaenit-Akolyt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1438</ID>
+      <DefaultText>Ranetti</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1439</ID>
+      <DefaultText>Burknur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1440</ID>
+      <DefaultText>Flügelratte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1441</ID>
+      <DefaultText>Lyrea</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1442</ID>
+      <DefaultText>Konstant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1443</ID>
+      <DefaultText>Obledh</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1444</ID>
+      <DefaultText>Grabungsstätte-Wächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1446</ID>
+      <DefaultText>Schmiedemeister Tythus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1447</ID>
+      <DefaultText>Kuaru-Künstler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1449</ID>
+      <DefaultText>Príncipi-Seemann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1451</ID>
+      <DefaultText>Halsabschneider-Marodeur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1452</ID>
+      <DefaultText>Halsabschneider-Scharfschütze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1453</ID>
+      <DefaultText>Halsabschneider-Pulveraffe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1455</ID>
+      <DefaultText>Pŵgras Zahn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1456</ID>
+      <DefaultText>Die Schwarzspitze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1457</ID>
+      <DefaultText>Die Müßiggänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1458</ID>
+      <DefaultText>Krummsporn-Schiff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1459</ID>
+      <DefaultText>Die Goldene Glocke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1460</ID>
+      <DefaultText>Kana</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1461</ID>
+      <DefaultText>Das Ziegenhorn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1462</ID>
+      <DefaultText>Der Steinanker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1463</ID>
+      <DefaultText>Die Korallenkönigin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1464</ID>
+      <DefaultText>Der Königliche Leviathan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1465</ID>
+      <DefaultText>Galawains Segen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1466</ID>
+      <DefaultText>Der Blutige Anker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1467</ID>
+      <DefaultText>Der Frühappell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1468</ID>
+      <DefaultText>Eothas Vorhut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1469</ID>
+      <DefaultText>Rathun-Priesterin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1471</ID>
+      <DefaultText>Osa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1472</ID>
+      <DefaultText>Wanika</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1473</ID>
+      <DefaultText>Rebero</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1474</ID>
+      <DefaultText>Gewehrfalke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1475</ID>
+      <DefaultText>Fampir-Späher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1476</ID>
+      <DefaultText>Runenverzierter Oger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1478</ID>
+      <DefaultText>Kapitän Yuwe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1479</ID>
+      <DefaultText>Die Sturmjäger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1480</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1481</ID>
+      <DefaultText>Rauataianischer Kapitän</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1482</ID>
+      <DefaultText>Triumph von Dereo dem Mageren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1483</ID>
+      <DefaultText>Kapitän Hasporo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1484</ID>
+      <DefaultText>Die Seekrone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1485</ID>
+      <DefaultText>Die Kettenbrecher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1486</ID>
+      <DefaultText>Carlo Fortuni</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1487</ID>
+      <DefaultText>Mark van der Bij</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1488</ID>
+      <DefaultText>Granis Yirgar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1489</ID>
+      <DefaultText>Kae Polzech</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1490</ID>
+      <DefaultText>Geirvard Calder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1491</ID>
+      <DefaultText>Co'el Marcellus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1492</ID>
+      <DefaultText>Marofeto Liano</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1493</ID>
+      <DefaultText>Elias Zelen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1500</ID>
+      <DefaultText>Andaccio</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1502</ID>
+      <DefaultText>Palastsänger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1503</ID>
+      <DefaultText>Erster Matrose Mabori</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1505</ID>
+      <DefaultText>Dämmerstern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1508</ID>
+      <DefaultText>Wächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1509</ID>
+      <DefaultText>Palastpriester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1510</ID>
+      <DefaultText>Streunende Katze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1511</ID>
+      <DefaultText>Verlorene Katze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1512</ID>
+      <DefaultText>Verwaiste Katze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1513</ID>
+      <DefaultText>Vereinsamte Katze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1514</ID>
+      <DefaultText>Hungrige Katze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1515</ID>
+      <DefaultText>Verlassene Katze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1516</ID>
+      <DefaultText>Vernachlässigte Katze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1517</ID>
+      <DefaultText>Einsame Katze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1518</ID>
+      <DefaultText>Aufgegebene Katze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1519</ID>
+      <DefaultText>Verlassener Hund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1520</ID>
+      <DefaultText>Einsamer Hund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1521</ID>
+      <DefaultText>Aufgegebener Hund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1522</ID>
+      <DefaultText>Hungriger Hund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1523</ID>
+      <DefaultText>Vereinsamter Hund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1524</ID>
+      <DefaultText>Verlorener Hund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1525</ID>
+      <DefaultText>Vernachlässigter Hund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1526</ID>
+      <DefaultText>Verwaister Hund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1527</ID>
+      <DefaultText>Streunender Hund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1528</ID>
+      <DefaultText>Streunendes Schwein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1529</ID>
+      <DefaultText>Ängstliches Schwein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1530</ID>
+      <DefaultText>Vernachlässigtes Schwein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1531</ID>
+      <DefaultText>Wütender Troll</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1532</ID>
+      <DefaultText>Nasser Hund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1533</ID>
+      <DefaultText>Baru</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1535</ID>
+      <DefaultText>Verwaistes Schwein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1536</ID>
+      <DefaultText>Bezauberter Hund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1538</ID>
+      <DefaultText>Ehrengarde der Fünf Sonnen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1539</ID>
+      <DefaultText>Selinia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1540</ID>
+      <DefaultText>Mürrischer alter Forwin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1541</ID>
+      <DefaultText>Einstige Matrone Doryga</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1543</ID>
+      <DefaultText>Birna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1544</ID>
+      <DefaultText>Wächter der Schatztruhe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1545</ID>
+      <DefaultText>Erster Matrose Fallon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1549</ID>
+      <DefaultText>Die Schwankende Hure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1550</ID>
+      <DefaultText>Einäugiger Pim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1551</ID>
+      <DefaultText>Kristallfresser-Spinnenkönigin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1552</ID>
+      <DefaultText>Zufälliges Gefäß</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1553</ID>
+      <DefaultText>Ereti</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1554</ID>
+      <DefaultText>Wässriges Double</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1555</ID>
+      <DefaultText>Peitschende Fäule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1556</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1558</ID>
+      <DefaultText>Kapitän Reiki</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1559</ID>
+      <DefaultText>Sturmsprecherin Kamauka</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1560</ID>
+      <DefaultText>Zuckendes Opfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1561</ID>
+      <DefaultText>Kapitän Cipriano</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1562</ID>
+      <DefaultText>Vogel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1567</ID>
+      <DefaultText>Kapitän Katla</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1571</ID>
+      <DefaultText>Thaos ix Arkannon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1572</ID>
+      <DefaultText>Rauataianischer Kapitän</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1573</ID>
+      <DefaultText>Mysteriöse Präsenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1575</ID>
+      <DefaultText>Maneha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1576</ID>
+      <DefaultText>Lagufaeth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1577</ID>
+      <DefaultText>Quartiermeister Harka</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1578</ID>
+      <DefaultText>Runenmeister Kastor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1584</ID>
+      <DefaultText>Huana-Kapitän</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1585</ID>
+      <DefaultText>Príncipi-Kapitän</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1592</ID>
+      <DefaultText>Die Draco</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1594</ID>
+      <DefaultText>Gundruk</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

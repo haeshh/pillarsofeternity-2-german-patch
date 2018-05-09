@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_bs_palace_servants_kuaru</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Der Prinz begünstigt dich. Er war schon immer eher ein Mann der Taten statt der Worte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wir haben schon so viel unserer Vergangenheit verloren. Und jetzt verlieren wir sogar unsere größten Kunstwerke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Diese Wandteppiche sind älter als diese Wände, und sie sind durch viele Hände gegangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Hilfe! Er ist hier. Hilfe!"</DefaultText>
+      <FemaleText>"Hilfe! Er ist hier. Hilfe!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Lass uns in Frieden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Das ist ein schöner Vogel. Bist du hier, um dir Hyleas Segen zu holen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Der arme Ereti!" "Wie konnte das nur einem Diener der Königin passieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

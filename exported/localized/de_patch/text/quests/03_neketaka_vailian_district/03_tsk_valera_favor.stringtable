@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_tsk_valera_favor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein größerer Fisch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde die Seeleute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bring die Seeleute dazu, zu gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Martino zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Martino möchte ein paar rauataianische Seeleute aus der Umgebung der Schenke im Ankerplatz der Königin entfernt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Martino möchte eine Gruppe von Seeleuten der Königlichen Todesfeuer-Gesellschaft aus der Wilden Mähre im Ankerplatz der Königin werfen. Er schien eine dauerhafte Lösung zu bevorzugen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich denke, ich habe die Gruppe gefunden, von der Martino gesprochen hat. Sie vergnügt sich auf dem Balkon der &lt;b&gt;Wilden Mähre&lt;/b&gt;. Jetzt muss ich sie nur noch dazu bringen, zu verschwinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe mich um die Soldaten gekümmert. Martino wird mich im Valera-Anwesen erwarten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Martino erwähnte, dass die Seeleute vor der Wilden Mähre singen würden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Zili Valera bot an, für die rauataianischen Seeleute zu spielen, wenn sie das von der Schenke fernhalten würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für den Abschluss dieser Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Martino war mit meiner Arbeit zufrieden, obwohl er in der Zwischenzeit offenbar mit einem anderen Plan beschäftigt war. Er beabsichtigt, als Nächstes gegen die Bardattos vorzugehen. Ich habe ihm dringend davon abgeraten, aber mir bleibt wohl nicht mehr viel Zeit, um diese Familien davon zu überzeugen, miteinander klarzukommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Martino war mit meiner Arbeit zufrieden, obwohl er in der Zwischenzeit offenbar mit einem anderen Plan beschäftigt war. Er beabsichtigt, als Nächstes gegen die Bardattos vorzugehen, und hat versprochen, mir Bescheid zu geben, sobald er bereit ist, zuzuschlagen. Diese Fehde eskaliert ganz schön schnell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Nachdem die Fehde gelöst wurde, sind Martinos Machenschaften überflüssig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

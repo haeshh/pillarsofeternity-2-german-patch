@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_huana_faction_questline\fct_qst_02_huana_ruins</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die letzte Zuflucht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Zu den Ruinen reisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Untersuche die Ruinen von &lt;b&gt;Motare o Kōzi&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die fehlenden Teile der Steinscheibe ersetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Entschlüssle die &lt;b&gt;Steinscheibe&lt;/b&gt; in &lt;b&gt;Motare o Kōzi&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Prinz Aruihi&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Prinz Aruihi&lt;/b&gt; hat eine Expedition ausgesandt, um &lt;b&gt;Motare o Kōzi&lt;/b&gt; zu untersuchen; eine Insel, die zur Zeit &lt;b&gt;Ukaizos&lt;/b&gt; als Zufluchtsort diente.
+
+Aruihi glaubt, dass der Standort des verlorengegangenen Ukaizos irgendwo auf der Insel aufgezeichnet sein könnte, doch seine Expedition ist nicht zurückgekehrt. 
+
+Er braucht jemanden, der herausfindet, was mit der Expedition passiert ist und die Informationen, die jene gesucht hat, findet. Die Handelsgesellschaften werden zweifelsohne ihre eigenen Truppen aussenden, um das Gleiche zu tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Motare o Kōzi&lt;/b&gt; liegt eingenistet in der Inselkette &lt;b&gt;Kua o Rikuhu&lt;/b&gt;, eine lange Fahrt nordöstlich von &lt;b&gt;Neketaka&lt;/b&gt;, inmitten einer Landmasse, die wie ein Sturm geformt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Irgendwo in den uralten Gebäuden wartet das Wissen um &lt;b&gt;Ukaizo&lt;/b&gt; darauf, entdeckt zu werden. Der tiefe Dschungel und überwucherte Ruinen warten auf mich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich bin auf eine &lt;b&gt;Steinscheibe&lt;/b&gt; gestoßen, auf der ungewöhnliche Gravuren prangen. Der Scheibe fehlen zwei Teile Ohne sie werde ich die Inschrift nicht entschlüsseln können. Die Teile lassen sich möglicherweise in den &lt;b&gt;Ruinen von Motare o Kōzi&lt;/b&gt; finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe die beiden Räder wieder an der Steinscheibe angebracht. Jetzt lässt sich die Inschrift entschlüsseln. Die Gravuren auf der Scheibe sind sehr alt und es bedarf einigen Aufwands, sie zu übersetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>&lt;b&gt;Prinz Aruihi&lt;/b&gt; wird an meiner Entdeckung interessiert sein. Ich kann ihn auf Neketaka im Palast in der &lt;b&gt;Schlangenkrone&lt;/b&gt; finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe ein goldenes Rad gefunden, das um den äußeren Kreisumfang der Scheibe passen sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe ein graviertes Rad gefunden, das um den Rand der Steinscheibe passen sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ein lokaler Kartograf hat diese Insel entdeckt. &lt;b&gt;Atēpu&lt;/b&gt; ist bei einer &lt;b&gt;Hylea&lt;/b&gt;-Statue, westlich des Thronsaals des Palastes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Offensichtlich waren die Huana nicht die Einzigen, die diese Insel suchten. Eine vailianische Expedition ist kurz danach angelandet, doch nur &lt;b&gt;Baltia&lt;/b&gt; überlebte. Unter anderem erinnerte sie sich an einen verzierten goldenen Ring, den ein Mitglied ihrer Besatzung aus den &lt;b&gt;Ruinen&lt;/b&gt; mitgenommen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Die Ruinen sind von Pŵgra und anderen unsäglichen Kreaturen verseucht. Was auch immer dieser Verderbtheit zu Grunde liegt, es könnte mit meiner Suche zu tun haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Die Seele eines toten Huana-Entdeckers erinnerte sich an eine goldene Scheibe, die sich mit Hilfe einer Kombination aus Rädern und Tafeln manipulieren lasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Die Seele eines toten Entdeckers der Vailianer nahm auf ein goldenes Rad in einer Höhle Bezug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Ein totes Mitglied der Huana-Expedition trug einen großen goldenen Ring, als er starb. Etwas sehr Großes hing ihn an einen Zweig eines knorrigen Baumes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>&lt;b&gt;Embeta&lt;/b&gt; aus dem &lt;b&gt;Wahaki&lt;/b&gt;-Stamm war derjenige, den den Prinzen warnte, niemanden mehr nach &lt;b&gt;Motare o Kōzi&lt;/b&gt; zu schicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Jetzt habe ich beide Räder und muss sie nur noch auf der Steinscheibe platzieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Laut &lt;b&gt;Atēpu&lt;/b&gt; beschützten die &lt;b&gt;Wahaki&lt;/b&gt; die heiligen Inseln mit aller Kraft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>Eine Inschrift auf der goldenen Scheibe lässt darauf schließen, dass das Wissen in Ruinen ihre Geheimnisse enthüllen könne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>Eine sehr mächtige Frau befiehlt die verdorbenen Bestien und Fauna. Sie hört sich wie die Wurzel aller Probleme auf Motare o Kōzi an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>&lt;b&gt;Baltia&lt;/b&gt; schien nicht zu glauben, dass der Dschungel geheilt werden kann. Ich bin mir da nicht so sicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20024</ID>
+      <DefaultText>Die &lt;b&gt;Pŵgra&lt;/b&gt;, die &lt;b&gt;Motare o Kōzi&lt;/b&gt; bewachen, sind sehr besitzergreifend, was ihre Bäume angeht. Vielleicht kann ich das auf irgendeine Art und Weise zu meinem Vorteil nutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20025</ID>
+      <DefaultText>&lt;b&gt;Embeta&lt;/b&gt;, ein &lt;b&gt;Wahaki-Krieger&lt;/b&gt;, schickte dem Prinzen einen Kleiderfetzen des Expeditionsleiters als Warnung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20026</ID>
+      <DefaultText>Ich habe &lt;b&gt;Atēpu&lt;/b&gt; umgebracht. Er wird niemandem mehr von &lt;b&gt;Motare o Kōzi&lt;/b&gt; erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20027</ID>
+      <DefaultText>Durch Entfernen der Verdorbenheit unter ihrem Baum habe ich eine Pŵgra in eine Delemgan zurückverwandelt. Es ist unklar, ob sie eine Verbündete ist, aber immerhin habe ich jetzt einen potentiellen Feind weniger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20028</ID>
+      <DefaultText>Ich habe die Huanakarte &lt;b&gt;Kapitän Pai&lt;/b&gt; der Königlichen Todesfeuer-Gesellschaft ausgehändigt. Auch wenn sich die Karte für sie als nutzlos herausstellt, wird&lt;b&gt; Prinz Aruihi&lt;/b&gt; von meiner Tat nicht gerade begeistert sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20029</ID>
+      <DefaultText>Ich habe die &lt;b&gt;Grüne Dame&lt;/b&gt; wiederhergestellt und mir ihren Dank erworben. Mir steht es frei, ihre Schätze nach etwas, das mir nützlich sein könnte, zu durchsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20030</ID>
+      <DefaultText>Eine Abordnung des &lt;b&gt;Wahaki&lt;/b&gt;-Stammes bewachte &lt;b&gt;Motare o Kōzi&lt;/b&gt;. Sie wollten mich nicht kampflos hineinlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe dem Prinzen meine Erkenntnisse berichtet sowie einen Abrieb der Navigationskarte der alten Huana geliefert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe dem Prinzen meine Erkenntnisse berichtet, doch war ich nicht in der Lage, ein Exemplar der Navigationskarte zu liefern. Er war nicht gerade erfreut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe den Prinzen über meine Erkenntnisse angelogen. Er weiß nicht, dass ich auf &lt;b&gt;Motare o Kōzi etwas von Wert gefunden habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

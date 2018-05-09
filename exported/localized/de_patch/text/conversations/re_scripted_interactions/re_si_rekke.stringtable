@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_rekke</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Kapitän, hast du kurz Zeit?"
+
+Du hörst die fragende Stimme von [Specified 0] und dann ein Klopfen an der Tür deiner Kajüte.
+
+[Specified 0] steckt den Kopf in dein Quartier und guckt finster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bringt ihn an Bord. Ich werde ihn an Deck treffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Lasst ihn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Specified 0] bestätigt deinen Befehl mit einem Nicken und geht rasch wieder.
+
+Du nimmst deine Ausrüstung und gehst aufs Hauptdeck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0] nickt zackig und geht dann zur Tür raus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wir haben einen Mann auf einem Stück Treibgut gefunden. Die Matrosen haben versucht, mit ihm zu reden, aber er spricht eine Sprache, die keiner von uns je gehört hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Sollen wir ihn an Bord holen und versuchen, etwas Vernünftiges aus ihm rauszubekommen? Oder sollen wir ihn einfach seinem Schicksal überlassen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

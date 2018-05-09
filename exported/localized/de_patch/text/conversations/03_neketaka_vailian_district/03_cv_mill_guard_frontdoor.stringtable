@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_mill_guard_frontdoor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Wache stellt sich dir in den Weg. "Du musst neu hier sein. Niemand darf hier ohne die Erlaubnis der Vailianischen Handelsgesellschaft hinein oder heraus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wie bekomme ich so eine Erlaubnis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Angreifen] "Ich lasse mir nicht gerne sagen, was ich zu tun habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Was deine Vorgesetzten wohl dazu sagen würden, wenn sie wüssten, dass du einen vailianischen Diplomaten von seiner Arbeit abgehalten hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[800 Kp bezahlen] "Wie wäre es mit etwas Kuper für deine Mühen? Ich will mich nur umsehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ein knappes Lächeln erscheint auf seinen Lippen. "Aber natürlich, wie ich sehe, bist du für eine Besichtigung unserer Einrichtung hier. Gleich hier entlang." Er lehnt sich zu dir und flüstert: "Falls du irgendwas anstellen willst, warten da drin etliche mehr von meiner Sorte, und sie suchen regelrecht nach einem Grund, jemanden heute vermöbeln zu dürfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Schön, dich sehen, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich würde mit jemandem in unserem Hauptquartier in der Stadt reden, du findest es südwestlich von hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

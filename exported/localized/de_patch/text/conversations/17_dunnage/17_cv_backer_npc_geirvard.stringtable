@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_backer_npc_geirvard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du siehst einen jungen Mann mit blondem Haar, das zu einem einfachen Dutt zusammengebunden wurde. Seine Kleidung wirkt spärlich und doch gut verarbeitet, und seine Rüstung, eine hochwertige Brigantine in Blau und Silber, ist auf Hochglanz poliert.
+
+Lässig lehnt er sich auf die Seite, eine saubere Hand auf seiner Hüfte, und seufzt gelangweilt. Seine Augen leuchten, als er dich sieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hallo auch! Lust auf eine Unterhaltung? Ich beiße nicht, versprochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ah, da bist du ja wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wieder zurück?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Du bist zurück!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Erzähl mir von dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Gerne, mein Freund, gerne, und wie nett von dir, zu fragen!" Er räuspert sich mit einem theatralischen Winken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Kannst du mir beibringen, was du auf deinen Abenteuer gelernt hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich befürchte, du kannst nichts mehr von mir lernen." Er lächelt leicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Oh, es wäre mir eine absolute &lt;i&gt;Freude&lt;/i&gt;. Natürlich nur für einen Preis. Dreitausend Kupferstücke?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Er zieht eine Sammlung kleiner Karten aus seinem Rucksack und erzählt dir, was er über die Inseln darauf erfahren hat – wer darauf wie lange lebte und welche Bestie in den Schatten ihrer Wälder haust.
+
+Dann zückt er sein Zauberbuch und teilt einige ungewöhnliche Kenntnisse über Magie mit dir, die er auf seinen Reisen aufgegriffen hat. Zu guter Letzt steckt er die Karten weg, lässt sein Zauberbuch zuschnappen und verabschiedet sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Gehen] "Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Lebe wohl!" Er nickt dir zackig zu und setzt ein breites Lächeln auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Für mich ist es eher ein Geschenk als eine Strafe. All die Bequemlichkeiten, aber ohne Verantwortung! Was könnte man daran nicht mögen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Was machst du dann im Todesfeuer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Lauschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Was sonst bringt Reisende aus der Ferne auf diesen Archipel? Das Abenteuer natürlich! Ich habe eine Schwäche für heldenhafte Geschichten, schon seit ich ein kleiner Junge war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Und da bin ich! Obwohl ich mit großer Wahrscheinlichkeit in einem Faustkampf keine große Hilfe bin, kann ich doch von mir behaupten, zumindest etwas mit Magie umgehen und hübsche Karten zeichnen zu können. Also habe ich es mir zur Aufgabe gemacht, die unberührte Natur der größeren Inseln des Todesfeuers aufzuzeichnen." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Schätze schon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ja!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Als ich die Zeit auf dem Anwesen meines Vaters vertrödelte, dachte ich so bei mir: 'Also, Geirvard, wird es nicht langsam Zeit, dass &lt;i&gt;du&lt;/i&gt; dir auch einen Namen machst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich bin der Jüngste Sohn einer Adelsfamilie. Jetzt schau mich bloß nicht so an! 'Armer verzweifelter Tropf', musst du jetzt denken. Aber dein Mitleid wäre bei mir verschwendet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Nein, ich denke nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Also gut." Er steckt das Geld mit einem leichten Lächeln weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Aber wenn ich andere doch nur genauso inspirieren könnte wie ich durch diese alten Geschichten inspiriert wurde ... das wäre wunderbar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Wie dem auch sei, genug von meinem Geschwätz. Du hast sicher noch andere Dinge zu erledigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Das hört sich ziemlich gefährlich an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Lauschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Na ja, es lohnt sich für die Geschichten, die ich irgendwann darüber erzählen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ich werde hier sein, falls du es dir anders überlegst.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Geschichte und Arkana verbessern] "Hier, bitte sehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

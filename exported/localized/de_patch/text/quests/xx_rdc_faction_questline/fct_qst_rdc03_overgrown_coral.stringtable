@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_rdc_faction_questline\fct_qst_rdc03_overgrown_coral</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Wucher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Iverra&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Reise zu den Unterwasserruinen von &lt;b&gt;Cignath Mór&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Reise zu den Unterwasserruinen von &lt;b&gt;Cignath Mór&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Finde die Quelle des magischen Wachstums.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Maschine erledigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Kehre zur &lt;b&gt;Flottenmeisterin Okaya&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Kehre zur &lt;b&gt;Flottenmeisterin Okaya&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Zu Flottenmeisterin Okaya zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Oberingenieur Hetu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Flottenmeisterin Okaya&lt;/b&gt; hat mich damit beauftragt, den Ursprung einer magischen Störquelle ausfindig zu machen, die die Korallen im Hafen von &lt;b&gt;Sayuka&lt;/b&gt; unkontrolliert wachsen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Flottenmeisterin Okaya hat mich angewiesen, mit &lt;b&gt;Iverra&lt;/b&gt; zu sprechen, einer vailianischen Wissenschaftlerin, die mir dabei helfen könnte, dem Ursprung des Korallenproblems in Sayuka auf den Grund zu gehen.
+
+Ich kann sie in der Werkstatt der &lt;b&gt;Königlichen Todesfeuer-Gesellschaft&lt;/b&gt; in Sayuka finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Iverra glaubt, dass der Ursprung des Wildwuchses der Korallen in einer engwithanischen Ruine liegt: &lt;b&gt;Cignath Mór&lt;/b&gt;. Sie gab mir einen Taucherhelm, mit dem ich die Ruinen erforschen kann, die vor der &lt;b&gt;südlichen Küste von Sayuka&lt;/b&gt; unter den Wellen liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Oberingenieur Hetu glaubt, dass der Ursprung des Wildwuchses der Korallen in einer engwithanischen Ruine liegt: &lt;b&gt;Cignath Mór&lt;/b&gt;. Er gab mir einen Taucherhelm, mit dem ich die Ruinen erforschen kann, die vor der &lt;b&gt;südlichen Küste von Sayuka&lt;/b&gt; unter den Wellen liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich bin an den Ruinen von Cignath Mór angekommen und habe herausgefunden, dass sie Atemluft enthalten. Ich muss immer noch herausfinden, was den Wildwuchs der Korallen erzeugt und dem Ganzen ein Ende setzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe die Maschine gefunden, die den Ursprung des wilden Korallenwucherns darstellt, aber als ich versuchte, sie zu deaktivieren, griff &lt;b&gt;Galawain&lt;/b&gt; ein.
+
+Er bat mich darum, die Maschine nicht anzurühren und stattdessen die &lt;b&gt;Pylonen&lt;/b&gt; zu deaktivieren, die das Schild erzeugen, das Cignath Mór vor dem Meer schützt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich ignorierte Galawains Bitte und deaktivierte die Maschine, die für den Wildwuchs der Korallen verantwortlich war.
+
+Ich sollte zu &lt;b&gt;Flottenmeisterin Okaya&lt;/b&gt; zurückkehren und berichten, dass die Korallen auf eine annehmbare Größe zurückgegangen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Wie Galawain es von mir erwartet hatte, zerstörte ich die Pylonen innerhalb von Cignath Mór. Ohne den Schild, der sie beschützt, wurden die Ruinen vom Meer verschlungen.
+
+Ich sollte zu &lt;b&gt;Flottenmeisterin Okaya&lt;/b&gt; zurückkehren und ihr die schlechten Neuigkeiten mitteilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Ich habe die Pylonen in Cignath Mór deaktiviert, und die Ruinen wurden vom Meer verschluckt.
+
+Ich sollte zu &lt;b&gt;Flottenmeisterin Okaya&lt;/b&gt; zurückkehren und herausfinden, ob ich damit ihr Korallenproblem gelöst habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Flottenmeisterin Okaya wies mich an, mit &lt;b&gt;Hetu&lt;/b&gt; zu sprechen, dem Oberingenieur in Sayuka. Er könnte dazu in der Lage sein, den Ursprung des Korallenproblems aufzudecken.
+
+Ich kann ihn in der Werkstatt der &lt;b&gt;Königlichen Todesfeuer-Gesellschaft&lt;/b&gt; in Sayuka finden, zusammen mit den anderen Ingenieuren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe zugestimmt, &lt;b&gt;Galawain&lt;/b&gt; zu helfen, und er wies mich an, &lt;b&gt;drei Pylonen&lt;/b&gt; zu deaktivieren, die sich irgendwo innerhalb der &lt;b&gt;Ruinen&lt;/b&gt; befinden. Dadurch sollte die Barriere, die die Ruinen vor dem Meer beschützt, abgeschaltet werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe einen der Pylonen deaktiviert, wodurch die schützende Barriere geringfügig nachgelassen zu haben scheint. Zwei bleiben noch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe einen zweiten Pylonen deaktiviert, und die Barriere ist merklich schwächer geworden. Ein Pylon bleibt noch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe eine kleine &lt;b&gt;engwithanische Maschine&lt;/b&gt; gefunden, aber ich habe keine Ahnung, wozu sie gut sein soll. Vielleicht kann etwas anderes in den Ruinen ein wenig Licht in die Sache bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe die Maschine deaktiviert, die für den Korallen-Wildwuchs verantwortlich war. &lt;b&gt;Galawain ist nicht begeistert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Um sich für meine Missachtung seiner Wünsche zu rächen, hat &lt;b&gt;Galawain&lt;/b&gt; einen Kraken entsandt, der mich davon abhalten sollte, aus den Ruinen zu entkommen, aber ich habe ihn überwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe eine große &lt;b&gt;engwithanische Maschine&lt;/b&gt; gefunden, die vor Energie brummt, aber ich lasse fürs Erste meine Finger davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Flottenmeister Okaya war sehr zufrieden damit, wie ich das Korallenproblem gelöst habe. Sie hat angeordnet, dass der Hafen von Sayuka unverzüglich wieder geöffnet wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Flottenmeister Okaya war erzürnt darüber, dass das Korallenproblem nicht gelöst ist, und sie hat mich mit einer symbolischen Bezahlung abgespeist. Allerdings wird der Segen, den Galawain mir für meinen Gehorsam zuteil hat werden lassen, sich ohne Zweifel als nützlich erweisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Flottenmeister Okaya war erzürnt darüber, dass das Korallenproblem nicht gelöst ist, und sie hat mich mit einer symbolischen Bezahlung abgespeist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Die Königliche Todesfeuer-Gesellschaft stellt sich von nun an gegen mich. Ich vermute, sie werden meine Hilfe bei ihrem Korallenproblem nicht mehr annehmen wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

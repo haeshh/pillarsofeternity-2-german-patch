@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_si_transition_enter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du triffst an dem Ort vor der Küste von Sayuka ein, von dem dir der Korallenmaurer erzählt hat. Du beugst dich über den Rand deines Schiffes und siehst ein schwaches Leuchten aus großer Tiefe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Tauchanzug anziehen und nach unten tauchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du steigst in den Tauchanzug und springst aus deinem Boot ins Wasser.
+
+Du schwimmst zum Licht und atmest dabei dank Iverras Erfindung frische Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du gehst durch die Barriere und stellst fest, dass die Ruinen trocken sind und nicht überflutet, wie du eigentlich erwartet hast. Du nimmst deinen Helm ab, atmest tief durch und betrittst die Ruinen von Cignath Mór.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Während du in die Tiefe fällst, wird das Wasser immer dunkler, aber das Leuchten unter dir immer heller. Riesige Fischschwärme umkreisen dich, beachten dich aber nicht weiter.
+
+Bald kannst du die Umrisse eines Bauwerks am Meeresboden ausmachen. Aus den Ruinen von Cignath Mór erhebt sich ein hoher Turm und etwas, das wie eine kleine Anlegeplattform aussieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Das Leuchten scheint irgendwo vom Meeresboden her zu kommen. Du würdest sicher ertrinken, wenn du versuchst, nach unten zu schwimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Durch die Barriere gehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Als du endlich den Turm erreichst, bemerkst du, dass eine schimmernde Barriere die Ruinen umgibt. Du streckst deine Hand durch die Barriere und spürst nichts außer einem Prickeln auf deiner Haut wie von einer statischen Aufladung.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

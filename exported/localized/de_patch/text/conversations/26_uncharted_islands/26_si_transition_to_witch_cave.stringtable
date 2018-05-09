@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_witch_cave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tief im Moor findest du, unter Ranken verborgen, einen Höhleneingang. Aus der Höhle dringt der typische Verrottungsgeruch des Moors - aber da ist auch etwas anderes. Es riecht merkwürdig alchemistisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du kehrst zu der hinter Hängeranken verborgenen Höhle zurück. Noch immer ist der Gestank nach Verrottung und Alchemie sehr stark.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du schiebst die Ranken beiseite und betrittst die Höhle. Aus den Tiefen der Höhle dringt ein leises Lachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

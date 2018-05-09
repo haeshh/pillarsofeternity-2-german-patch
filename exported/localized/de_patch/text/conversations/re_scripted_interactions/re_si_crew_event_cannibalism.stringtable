@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_cannibalism</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>108</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Specified 0] öffnet deine Tür so schwächlich, dass es auch ein Windzug hätte sein können. Das Besatzungsmitglied wankt in die Kajüte. Knochige Armen hängen wie vertrocknetes Moos herab.
+
+"Ahoi, Kapitän. Die Nahrung, nun ja, sie wird knapp." Den Seemann überläuft es. Haut schuppt und schwebt im düsteren Licht. "Und, ähm, wir dachten uns so, weil wir ja was zu essen brauchen, und so. Da dachten wir uns, das wir ... Maßnahmen ergreifen könnten, die ... über ... tja, das ... Normale hinausgehen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Das fasse ich mal als geschmacklosen Witz auf. Du kannst abtreten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0] blinzelt dich an. "Aber Kapitän ... hast du denn nicht ... also, die Geschichten, meine ich, über dich, und dass du Tote isst ... Die können doch nicht &lt;i&gt;komplett&lt;/i&gt; erfunden sein ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0] nickt gefühllos. "Das nehme ich nicht auf die leichte Schulter, Kapitän. Du willst einen Namen? Na schön ..." Der Seemann denkt nach. "[Specified 1]. So. Da hast du's."
+
+[Specified 0] atmet schwer, als ob der Name an sich schon den ganzen Raum herunterzöge. Das Besatzungsmitglied starrt dich mit Augen, die dich um einen Kommentar oder eine Reaktion anflehen, an. Um irgendwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 0] nimmt einen tiefen Atemzug, bevor er mit einem Seufzen ein raues hungriges Lächeln aufsetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Manchmal muss man Opfer bringen ... &lt;i&gt;Tu es.&lt;/i&gt;"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 0] nickt. Die Schwere der Frage, der Andeutung, ist verschwunden. Der Seemann verlässt den Raum mit einer Verbeugung und wiedergewonnener Lebenskraft. An der Tür sieht [Specified 0] noch einmal zu dir zurück.
+
+"Danke, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Dieses Angebot mache ich nicht leichtfertig, aber ... [Specified 1], Kapitän. Mit der Verletzung?" [Specified 0] fährt zusammen. "Wird wahrscheinlich nicht durchkommen, aber mit Sicherheit lange genug leben, um dem Rest von uns beim Verhungern zuzusehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"[Specified 1] ... Kapitän." [Specified 0] hustet in eine geschlossene Hand. "Die Schnapsnase ist doch nur Ballast. Rührt keinen Finger. Kann gar nix. Das ... na ja, so hilfreich wäre [Specified 1] schon lange nicht mehr gewesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Eine Stunde später kommt [Specified 0] wieder herein. Er hat ein Veilchen unter dem Auge und einen Teller in den Händen. Ein Stück rötlichen Fleischs liegt darauf. Dampf steigt noch davon auf.
+
+"Dein Abendessen, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 0] trifft dich in deiner Kajüte. Der Maat sieht ausgemergelt aus – tiefe Augen, eingefallene Wangen und magere Glieder.
+
+"Kapitän ... die Mannschaft hat Hunger. Sehr viel Hunger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Und Kannibalismus ist deine Lösung? Raus aus meiner Kajüte!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Hast du auch schon jemanden im Kopf?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nein, gar nicht. Lass die Besatzung an Deck antreten. Ich werde mit ihr reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 0] hebt einen Arm und tut so, als äße er davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[[Specified 0] töten.] "Das ist eine ausgezeichnete Idee. Du hast zwar nicht viel Fleisch auf deinen Knochen, aber für ein paar Leute wird‘s schon reichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Specified 0] schreckt vor dir zurück. "Aye-aye, Kapitän. War nur ein Vorschlag. Habe mir nichts dabei gedacht ..."
+
+Das Besatzungsmitglied schleicht aus der Kajüte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Specified 0] kratzt sich geistesabwesend am Bauch und lacht widerwillig.
+
+"Wäre mir eine Ehre, dir bei der Nahrungsaufnahme zu helfen, Kapitän; aber ich halte lieber den Löffel, als drin zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Specified 0] ruft die Besatzung auf Deck zusammen. Die kleine Gruppe Seeleute hängt schlaff von der Reling, hockt auf Kisten und lehnt sich an die Geländer.
+
+Ihre Augen sehen dich an, als du auf Deck stolzierst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Mit einigem letzten Zittern und Luftschnappen sinkt der Körper, der einst [Specified 0] war, zu Boden. Zu deinen Füßen bildet sich eine Blutlache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"[Specified 1], Kapitän. Die Hälfte der Besatzung war schon einer Meinung, den Bastard über Bord zu werfen, wenn er sowieso nur die ganze Zeit pennt. Einfach schon, um dem Ärger, den uns dieser Schuft macht, ein Ende zu setzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ja, ich esse &lt;i&gt;Leichen&lt;/i&gt;. Von Feinden, die ich in der Schlacht erschlagen habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Du hast mich schon verstanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Das stimmt schon ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die Augenbrauen des Besatzungsmitglieds heben sich erwartungsvoll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Er runzelt die Stirn. "Und wo liegt da der Unterschied, Kapitän? Wir wollen ja niemanden bei lebendigem Leibe verspeisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Sie runzelt die Stirn. "Und wo liegt da der Unterschied, Kapitän? Wir wollen ja niemanden bei lebendigem Leibe verspeisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Da kenne ich genau die richtige Person."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 0]s Augen weiten sich. "Ach ja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Jemand aus der Mannschaft. Ein Matrose, der mir als Fleisch mehr wert ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich befürchte, dass einer meiner engsten Verbündeten am Ende seiner Wegstrecke angelangt ist ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Andererseits, wenn ich noch einmal darüber nachdenke ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Specified 0] starrt dich einen Weile mit offenem Mund an, bevor er nickt. "Ich werde mich darum kümmern, dass es erledigt wird, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Die Tür schließt sich. Schritte rattern über das Deck. Jemand schreit. Jemand anderes kreischt. Es gibt eine Reihe dumpfer Schläge. Mehr Schritte. Die Tür wabert, während sich Körper gegen sie pressen. Chaotische Schatten tauchen unter ihr auf. 
+
+Schließlich ist es leise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Der Seemann schaut weg, aber kann seine Enttäuschung nicht verbergen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Wer hat jetzt schon wieder damit angefangen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Und haben sie da auch schon jemanden im Sinne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 0] zuckt zusammen. "Ich schätze mal [Specified 2] hatte zuerst diese Idee."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 0] zuckt mit den Schultern. "Niemand Bestimmtes, Kapitän. Es hat einfach ... angefangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Specified 0] untersucht fleißig den Boden.
+
+"Sie haben angefangen, zu reden ... also, sie haben wieder über Kannibalismus gesprochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Dieses Angebot mache ich nicht leichtfertig, aber ... [Specified 1], Kapitän. Mit der Verletzung?" [Specified 0] fährt zusammen. "Wird wahrscheinlich nicht durchkommen, aber mit Sicherheit lange genug leben, um dem Rest von uns beim Verhungern zuzusehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"[Specified 1] ... Kapitän." [Specified 0] hustet in eine geschlossene Hand. "Die Schnapsnase ist doch nur Ballast. Rührt keinen Finger. Kann gar nix. Das ... na ja, so hilfreich wäre [Specified 1] schon lange nicht mehr gewesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"[Specified 1], Kapitän. Die Hälfte der Besatzung war schon einer Meinung, den Bastard über Bord zu werfen, wenn er sowieso nur die ganze Zeit pennt. Einfach schon, um dem Ärger, den uns dieser Schuft macht, ein Ende zu setzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 0] nickt gefühllos. "Das nehme ich nicht auf die leichte Schulter, Kapitän. Du willst einen Namen? Na schön ..." Der Seemann denkt nach. "[Specified 1]. So. Da hast du's."
+
+[Specified 0] atmet schwer, als ob der Name an sich schon den ganzen Raum herunterzöge. Das Besatzungsmitglied starrt dich mit Augen, die dich um einen Kommentar oder eine Reaktion anflehen, an. Um irgendwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Aye, natürlich. Ein Witz. Ich erzähle ihn mal der Mannschaft. Mal sehen ... wie er ihnen gefällt."
+
+[Specified 0] verlässt den Raum mit einer Verbeugung. Du bist dir nicht sicher, ob das Knacken, das du gehört hast, von der Tür oder den Knochen des abgemagerten Seemanns gekommen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Den Leichnam über Bord werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Die Leiche als Warnung aufhängen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Aus [Specified 0] Fleisch machen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Du ziehst den Leichnam auf Deck und trägst ihn zur Reling. Die begierigen Augen der Besatzung kleben an dir.
+
+Du wirfst ihn kurzerhand ins Meer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Du reißt das Hemd des Seemanns ab und ritzt ein einziges Wort in großen gezackten Lettern in die Brust der Leiche: &lt;i&gt;KANNIBALE&lt;/i&gt;. 
+
+Du hievst den Körper an Deck und hängst ihn mit Hilfe einiger Besatzungsmitglieder am Mast auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Du zerrst den Leichnam an Deck und lässt ihn vor den Füßen deiner Besatzung fallen. Abendessen, so sagst du ihnen, ist fertig.
+
+Gefühllos nickend nehmen sie die Leiche an und tragen ihn schwächlich nach unten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Kurze Zeit später kommt [Specified 1] mit einer Platte in der Hand zurück in die Kajüte. Ein Stück rötlichen Fleischs liegt darauf. Dampf steigt noch davon auf.
+
+"Dein Abendessen, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Nach einem letzten Blick auf deine Seemänner kehrst du in deine Kajüte zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Die Tür schließt sich. Schritte rattern über das Deck. Jemand schreit. Jemand anderes kreischt. Es gibt eine Reihe dumpfer Schläge. Mehr Schritte. Die Tür wabert, während sich Körper gegen sie pressen. Chaotische Schatten tauchen unter ihr auf. 
+
+Schließlich ist es leise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Der Seemann schluckt in Erwartung deines Richterspruchs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"[Specified 1]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"[Specified 2]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"[Specified 3]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"[Specified 4]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Verschwinde. Und sag der Besatzung, dass wir hier niemanden essen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Specified 0] nickt. Die Schwere der Frage, der Andeutung, ist verschwunden. Der Seemann verlässt den Raum mit einer Verbeugung und wiedergewonnener Lebenskraft. An der Tür sieht [Specified 0] noch einmal zu dir zurück.
+
+"Danke, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Die Tür schließt sich. Schritte rattern über das Deck. Jemand schreit. Jemand anderes kreischt. Es gibt eine Reihe dumpfer Schläge. Mehr Schritte. Die Tür wabert, während sich Körper gegen sie pressen. Chaotische Schatten tauchen unter ihr auf. 
+
+Schließlich ist es leise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Specified 0] nickt. Die Schwere der Frage, der Andeutung, ist verschwunden. Der Seemann verlässt den Raum mit einer Verbeugung und wiedergewonnener Lebenskraft. An der Tür sieht [Specified 0] noch einmal zu dir zurück.
+
+"Danke, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Die Tür schließt sich. Schritte rattern über das Deck. Jemand schreit. Jemand anderes kreischt. Es gibt eine Reihe dumpfer Schläge. Mehr Schritte. Die Tür wabert, während sich Körper gegen sie pressen. Chaotische Schatten tauchen unter ihr auf. 
+
+Schließlich ist es leise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Specified 0] nickt. Die Schwere der Frage, der Andeutung, ist verschwunden. Der Seemann verlässt den Raum mit einer Verbeugung und wiedergewonnener Lebenskraft. An der Tür sieht [Specified 0] noch einmal zu dir zurück.
+
+"Danke, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Die Tür schließt sich. Schritte rattern über das Deck. Jemand schreit. Jemand anderes kreischt. Es gibt eine Reihe dumpfer Schläge. Mehr Schritte. Die Tür wabert, während sich Körper gegen sie pressen. Chaotische Schatten tauchen unter ihr auf. 
+
+Schließlich ist es leise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Specified 0] nickt. Die Schwere der Frage, der Andeutung, ist verschwunden. Der Seemann verlässt den Raum mit einer Verbeugung und wiedergewonnener Lebenskraft. An der Tür sieht [Specified 0] noch einmal zu dir zurück.
+
+"Danke, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Die Tür schließt sich. Schritte rattern über das Deck. Jemand schreit. Jemand anderes kreischt. Es gibt eine Reihe dumpfer Schläge. Mehr Schritte. Die Tür wabert, während sich Körper gegen sie pressen. Chaotische Schatten tauchen unter ihr auf. 
+
+Schließlich ist es leise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Specified 0] Augen weiten sich, als er zurückweicht, aber er ist nicht schnell genug, um dem Dolch auszuweichen, den du ihm zwischen die Rippen stößt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Specified 0] Augen weiten sich, als sie zurückweicht, aber sie ist nicht schnell genug, um dem Dolch auszuweichen, den du ihr zwischen die Rippen stößt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Den Tod von [Specified 2] befehlen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Da kenne ich genau die richtige Person."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Specified 0]s Augen weiten sich. "Ach ja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Jemand aus der Mannschaft. Ein Matrose, der mir als Fleisch mehr wert ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Der Seemann schluckt in Erwartung deines Richterspruchs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ich befürchte, dass einer meiner engsten Verbündeten am Ende seiner Wegstrecke angelangt ist ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Andererseits, wenn ich noch einmal darüber nachdenke ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Specified 0] nickt und steht steifer da, als zuvor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Specified 0] salutiert. "Aye-aye, Kapitän."
+
+Als der Maat geht, hörst du einen Magen knurren. Du bist dir nicht sicher, ob es [Specified 0]s oder deiner war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Specified 0] salutiert und verlässt die Kajüte. Innerhalb einer Stunde kommt das Besatzungsmitglied mit der Leiche von [Specified 2] zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ich weiß, dies sind magere Zeiten. Sobald ich mehr Essen auftreiben kann, werde ich das tun. Haltet einfach solange durch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Alle mal herhören! Wenn ich noch ein Mal auch nur den leisesten Hinweis auf Kannibalismus höre, dann wird einer von euch kranken Bastarden sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ein Geldbeutel für jeden von euch! Ich weiß, dass ihr das nicht essen könnt, aber ihr werdet es zu schätzen wissen, wenn wir nächstes Mal in einem Hafen anlegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Fühlt ihr das Nagen in eurem Magen? Das ist eure Schwäche. Das ist euer Unvermögen, die zu stürzen, die über euch herrschen. Lasst euch das eine Lehre sein, ihr schwächlichen quäkenden Kinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"So, jetzt nimmt sich jeder eine Angel oder ein Netz. Wir werden so lange fischen, bis wir was im Magen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Die Besatzung nickt deinen Worten und lächelt dich müde an. Als du fertig bist, fängt [Specified 1] an, zu klatschen. Obwohl es von Herzen kommt, findet es kaum Anklang.
+
+Mit neugewonnenem Vertrauen gehen die Seeleute wieder ihren Aufgaben nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Die Besatzung sieht sich an, teilt sich dann auf und murmelt untereinander.
+
+Es hat den Anschein, dass sie sich fürs Erste nicht gegenseitig fressen werden, aber größere Probleme könnten im Anzug sein ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Die meisten weichen instinktiv vor deinem Zorn zurück, wehren deine Worte mit offenen Handflächen ab.
+
+Sich am Kopf kratzend fragt [Specified 0] jedoch: "Wie jetzt, damit wir was zu essen haben?"
+
+"Halt‘s Maul, du Idiot!", zischt [Specified 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Die Mannschaft nimmt die Geldbeutel dankbar an. Ihre Augen werden beim Anblick der schieren Menge der angebotenen Münzen groß. Sie ziehen sich schwächlich in ihre Kojen zurück, um die Beute zu sichern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Die Besatzung sieht sich an, teilt sich dann auf und murmelt untereinander.
+
+Es hat den Anschein, dass sie sich fürs Erste nicht gegenseitig fressen werden, aber größere Probleme könnten im Anzug sein ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Specified 1] blinzelt. "Aber bist du nicht unser –"
+
+Die Worte des Besatzungsmitglieds werden von [Specified 0] durch einen kurzen Hieb in die Seite unterbrochen. "Klappe, du Hornochse."
+
+Die Besatzung teilt sich auf und geht wieder ihren Aufgaben nach; auch wenn sie noch immer leise grollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Lustlos nimmt die Besatzung Angelausrüstung zur Hand und bewegt sich zur Reling. Du beaufsichtigst sie, gibst Ratschläge, versorgst sie mit Ködern aus den dürftigen restlichen Beständen und leistet Hilfestellung. 
+
+Es dauert zwar Stunden, doch die Mannschaft schafft es, einen beträchtlichen Fang einzuholen. Als ihr wieder weitersegelt, gelingt es ihr sogar, ein paar schwachbrüstige Seemannslieder anzustimmen, um sich die Zeit zu vertreiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Obwohl du der Mannschaft mit deiner fragwürdigen Erfahrung hilfst, schaffen es innerhalb der nächsten Stunden nur wenige, mehr als nur einen Happen zu fangen. Ihre Frustration schäumt und kocht zu gelegentlichen Flüchen und sogar einem Faustschlag über.
+
+Schließlich erklärst du das Unterfangen für beendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Anscheinend hast du die Situation entschärft ... fürs Erste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Die Besatzung widmet sich wieder ihren Aufgaben, doch blickt jeder bei der Arbeit verstohlen über seine Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Die Besatzung sieht sich an, teilt sich dann auf und murmelt untereinander.
+
+Es hat den Anschein, dass sie sich fürs Erste nicht gegenseitig fressen werden, aber größere Probleme könnten im Anzug sein ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Nun ja, wir haben doch die Tiere ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Specified 0] runzelt die Stirn. "Die Haustiere, Kapitän?"
+
+Du überlegst, welches Haustier du an die Besatzung verfüttern könntest ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[Dein Bärenjunges.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Den Wüstenlindwurm-Schlüpfling.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Kaz, der Hund.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Das Babywildschwein.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Den Himmelslindwurm.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Du lockst das kleine Tier heraus, sagst ihm Lebewohl und übergibst es an [Specified 0].
+
+"Ist ja nicht viel Fleisch, aber ... na ja, wir wissen die Geste zu schätzen, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Kurze Zeit später kommt [Specified 1] mit einer Platte in der Hand zurück in die Kajüte. Ein Stück rötlichen Fleischs liegt darauf. Dampf steigt noch davon auf.
+
+"Dein Abendessen, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Aus [Specified 2] Fleisch machen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ich, ähm ... kenne da so ein Rezept."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Eine Stunde später kommt [Specified 0] wieder herein. Er hat ein Veilchen unter dem Auge und einen Teller in den Händen. Ein Stück rötlichen Fleischs liegt darauf. Dampf steigt noch davon auf.
+
+"Dein Abendessen, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

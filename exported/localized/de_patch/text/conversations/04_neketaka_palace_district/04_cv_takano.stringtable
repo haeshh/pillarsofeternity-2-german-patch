@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_takano</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>121</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein älterer Mataru-Mann ist von jüngeren Huana umringt, anscheinend seine Schüler. Seine Kleider schimmern mit Quarz-Perlen und sein Parfüm verkündet seine Anwesenheit quer durch den ganzen Raum.
+
+Und doch sieht er unter seiner glanzvollen Kleidung wie ein außer Form geratener Kämpfer aus. Nicht länger benutzte Muskeln hängen schlaff und weich von seinen Armen und Speck hüllt ihn ein wie mehrere Lagen Seide.
+
+Er sieht auf und bemerkt dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Was führt dich in meine Villa?" Er strahlt und breitet seine Arme weit aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich benötige das Horn der Wellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich höre, du hast ein seltenes Ondriten-Artefakt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Warum ist das Horn der Wellen so etwas Besonderes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Takanos Seele lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Du bist eine Person, die hohes Ansehen genießt. Ein Stück Geschichte mit dir zu teilen wäre eine Ehre.
+
+"Dennoch." Er runzelt die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Du? Das ist kein billiger Firlefanz, den man einfach so weitergibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Es ist nicht üblich für einen Mann meines Ranges, ein solches Objekt wegzugeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Die Königin hat es mir als Dank für meine jahrelangen Dienste überreicht. Ich war ihr persönlicher Beschützer, als sie noch ein Kind war, musst du wissen." Er faltet seine Hände über seinem beachtlichen Wanst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Deine Königin gab es dir als Gegenleistung für deine Dienste. Ich bitte nun, dass du mir die gleiche Ehre erweist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ein solcher Schatz ist dafür gemacht, um weitergegeben zu werden. Die Huana müssen der Welt ihre Herrlichkeit zeigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich kann dich dafür bezahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Betrachte es als Preis für dein Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ehrlich gesagt, lass uns das ein anderes Mal besprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Das ist wahr. Du hast viel für das Volk der Huana getan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Nimm es mit meinem Segen." 
+
+Er überreicht dir ein großes, glänzendes Muschelhorn. Seine Oberfläche ist mit Symbolen versehen und an der Spitze sitzt ein silbernes Mundstück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Er grinst. "Ekera! Dann wirst du auch meinen Namen weitergeben, wenn du das hier nach [Player Culture] mitnimmst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Dann sprichst du von einem Tauschhandel! Das ist etwas anderes.
+
+"Was schlägst du vor?" Er spielt mit einem Ring an seinem Finger, während er seinen Blick auf das kunstvoll bearbeitete Buntglas richtet. Jede einzelne Scheibe muss ein kleines Vermögen kosten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Das sollte deine Bedenken ausräumen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Das erscheint mir fair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Das Horn der Wellen ist nicht bloß irgendeine Trophäe. Es verdient einen Besitzer, der seine Geschichte kennt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Er grunzt. "Das muss es wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Na gut. Aber nur, weil ich sehe, dass dir das Horn so viel bedeutet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Er blinzelt. "Aber die Königin hat es mir gegeben! Mit einem solchen Geschenk ist eine große Ehre verbunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Du drohst mir in meinem Haus? Mir, einem der besten Krieger der Königin?!" Er macht einen Schritt auf dich zu und seine mächtige Brust bebt vor Wut.
+
+Seine Schüler greifen nach ihren Waffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Du denkst, dass mich das beeindruckt? Weißt du nicht, wer ich bin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Bist du wirklich bereit, alles, das du dir selbst aufgebaut hast, darauf zu verwetten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Angreifen] "Dann mach dich bereit, wie einer zu sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Weggehen] "Ich gehe besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ein verrückter Hund, habe ich gehört. Und das war wohl noch untertrieben."</DefaultText>
+      <FemaleText>"Eine verrückte Hündin, habe ich gehört. Und das war wohl noch untertrieben."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Dann nimm es eben." Er hebt die Hand und seine Schüler stecken ihre Waffen weg.
+
+Er holt eine große, leuchtende Muschel hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Und jetzt geh. Bevor ich es mir anders überlege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Er mustert dich einige Sekunden lang.
+
+Dann sieht er seine Schüler an – alle jung, wütend und bereit zu sterben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Weil es der Göttin Ondra heilig ist! Jeder weiß, dass es ein Privileg ist, das Horn zu besitzen." Er drückt seine verschränkten Finger so fest zusammen, dass seine Fingerknöchel weiß werden.
+
+Er blickt zu seinen Schülern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Er nickt seiner Schülerin wertschätzend zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Die Huana nutzen Muschelhörner seit Jahrhunderten zur Kommunikation. Dies ist vermutlich ein solches Gerät."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Solche Artefakte sind oft mit mächtigen Zaubern belegt. Nimm dich in acht, wenn du es benutzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Verstehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Was für ein ... edler Zweck." Er blickt etwas betrübt drein, als hätte er eine glorreichere Geschichte erwartet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ich halte es unter Verschluss ... Es ist zum Ansehen da, nicht zum Anfassen, ekera! Aber deine Worte sind eine gute Warnung." Er sieht sich nervös in seinem eleganten Zuhause um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Vor Generationen gab es eine ähnliche Muschel. Als die Altstadt versank, versammelten sich Ondras getreue Anhänger um jenes Horn und beteten um Erlösung." 
+
+Er lehnt sich zu dir her, das Lächeln des geborenen Geschichtenerzählers im Gesicht. Ein unheilvoller Singsang schleicht sich in seine Stimme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Doch Ondra ist keine gnadenvolle Göttin. Anstatt die Gläubigen aus den Ruinen zu erheben, hat sie sie mit der Muschel auf den Meeresgrund hinabgezogen und gesagt, sie würden erst wieder hochkommen, wenn es die Muschel auch täte." 
+
+Er kichert, lehnt sich zurück und hält sich seinen beachtlichen Bauch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"So geht zumindest die Geschichte. Makaber, nicht wahr?" Seine Augen funkeln fröhlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"[Player Name], willkommen! Es ist eine Ehre, einen solch distinguierten Gast unter meinem Dach zu haben." Er lächelt und streckt seine breite Brust noch ein wenig mehr heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Willkommen! Es ist eine Ehre, jemanden, der von Ondra persönlich berührt wurde, unter meinem Dach zu haben." Er senkt den Kopf, starrt aber immer noch wie verzaubert deine Aura an.</DefaultText>
+      <FemaleText>"Willkommen! Es ist eine Ehre, eine Frau, die von Ondra persönlich berührt wurde, unter meinem Dach zu haben." Er senkt den Kopf, starrt aber immer noch wie verzaubert deine Aura an.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"[Player Name], nicht wahr? Du bist unter meinem Dach willkommen, solange du keine Schwierigkeiten machst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"[Player Name]. Du darfst mein Haus betreten, aber ich werde dich beobachten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Und eine von Hyleas Geliebten noch dazu! Wahrhaftig, die Götter sind mir heute gnädig." Er zieht seinen Bauch ein und lächelt Pallegina breit an und zeigt dabei seine weißen Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Aber du bringst eine von Hyleas Geliebten? Dies ist in der Tat eine Ehre." Er zieht seinen Bauch ein und lächelt Pallegina breit an und zeigt dabei seine weißen Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Pallegina versucht zu lächeln, aber ihr offensichtliches Unbehagen verwandelt ihren Gesichtsausdruck in eine zuckende Grimasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Wie denn, und der schöne Fisch bekommt keine Anerkennung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Grüße und willkommen in meinem Heim." Er deutet auf den prachtvoll eingerichteten Raum und bläst seine breite Brust noch ein wenig mehr auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Das Horn der Wellen. Es ist ein Muschelhorn, aber sehr wichtig. Es zu erhalten ist die höchste Ehre." Er nickt heftig und bringt den Speck an seinem Hals zum Schwabbeln.
+
+Er klingt, als ob er mehr sich selbst überzeugen wollte als dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ondra ist die Göttin des Verlustes. Die Legenden besagen, dass sie fehlende Dinge mit der Muschel zu sich ruft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Unser Volk nutzt Muschelhörner seit Jahrhunderten zur Kommunikation. Dies ist vermutlich ein solches Gerät."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Wirklich? Dann muss ich hoffen, dass sie nichts von mir zurückruft!" Sein dröhnendes Gelächter klingt etwas nervös, als er sich in seinem eleganten Heim umsieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Natürlich! Wer bin ich, dass ich es behalte, wenn Ondra selbst ihren Boten schickt, um es zu holen?"</DefaultText>
+      <FemaleText>"Natürlich! Wer bin ich, dass ich es behalte, wenn Ondra selbst ihre Botin schickt, um es zu holen?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Mein Volk hat sein Land, seinen Adra und seine Würde verkauft. Ich sage, Ngati führt Buch darüber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Er errötet und weicht Tekēhus Blick sorgfältig aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ich sollte es eigentlich nicht sagen, aber ich bin auf einer Mission für den Palast unterwegs. Ein so bedeutendes Symbol wie das Horn würde dabei helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Keine Sorge. Ich habe in den Jahren als Leibwache der Königin gelernt, Geheimnisse zu bewahren." Er nickt dir verschmitzt zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Auf Nimmerwiedersehen." 
+
+Seine Schüler haben die Hände immer noch an ihren Waffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Du bist in meinem Heim nicht willkommen. Geh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Es muss doch eine Alternative dazu geben, einen angesehenen Mataru zu bedrohen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Wir könnten ihm auch beides nehmen. Seine Seele ist reif." Sie hält ihre Laterne erwartungsvoll hoch. Das kleine Licht wirft unheimliche Schatten auf ihrem Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Du musst beim Sparring vorsichtig sein. Siehst du die Kratzer im Holz?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Um meinen Ruf durch den Umgang mit jemandem wie dir zu beschmutzen?" Er schnaubt und rümpft die Nase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Vielleicht kann ich dir ja noch mehr bieten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Nun gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Er schnaubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Wirklich?" Er beugt sich vor, mit großen Augen und begierigem Blick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Ich vermisse den Palastklatsch ja so. Sag schon, worum geht es?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Die Wahaki auf Linie zu bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ich würde es dir ja sagen, aber ich bin zur Geheimhaltung verpflichtet. Du weißt ja noch, wie das ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Ich kann es nicht sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Der Prinz hat mir Geld für unerwartete Ausgaben gegeben. Nimm das und wir reden nicht mehr darüber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Er runzelt die Stirn. "Und ich kann kein persönliches Geschenk der Königin weitergeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Er mustert dich einige Sekunden lang.
+
+Dann sieht er seine Schüler an – alle jung, wütend und bereit zu sterben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Seine Augen weiten sich. "Aber es war ein Geschenk der Königin!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Offensichtlich unterliege ich einem schrecklichen Irrtum, wenn man bloß eine Muschel vorzeigen muss, um Ngatis Gunst zu erringen." Tekēhu wirft seine Haare zurück und lacht leise in sich hinein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Die wahre Ehre liegt in ihrer Wertschätzung, die du immer noch besitzt. Das ist es doch, was dir wirklich wichtig ist, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Die Huana teilen die Ausbeute. Die Muschel wurde an dich weitergegeben und dir nicht geschenkt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Ondra bestraft jene, die sich weigern, loszulassen. Wenn du dich weigerst, ihr Relikt herzugeben, stell dir mal vor, was sie stattdessen nehmen könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Er erbleicht. "Es liegt mir fern, eine Göttin zu beleidigen. Vor allem, wenn ich so viel anderes ... zu verwalten habe." Er sieht sich in der geräumigen Villa um. Sein nervöser Gesichtsausdruck spiegelt sich im polierten Marmor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Er hält für einen Moment inne. "Aber was ist Wertschätzung, wenn sie keiner sehen kann? Wertschätzung aufrechtzuerhalten ist teuer." Er sieht sich in seiner geräumigen Villa um. Sein verschmitzter Gesichtsausdruck spiegelt sich im polierten Marmor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Er hält für einen Moment inne. "Wenn ich es dir geben soll, musst du mir etwas in seinem Wert schenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Unter den Umständen ist das ein guter Preis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ich habe schon vermutet, dass der Palast sich um sie kümmern würde. Du brauchst jeden Vorteil, den du kriegen kannst!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Deine Essenz schlüpft aus deinem Körper und Takanos Seele umhüllt deine wie ein warmes, öliges Ding. 
+
+Während seine Ängste und Fragen in dich fließen, verändert sich deine Perspektive zu seiner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Zuerst hattest du befürchtet, dass dieser [Player Subrace] womöglich von vailianischen Schuldeintreibern geschickt worden war. 
+
+Es wäre ein gemeiner Trick, deine berühmte Gastfreundschaft auf diese Weise auszunutzen, aber die Vailianer sind für ihre Gerissenheit bekannt.</DefaultText>
+      <FemaleText>Zuerst hattest du befürchtet, dass diese [Player Subrace] womöglich von vailianischen Schuldeintreibern geschickt worden war. 
+
+Es wäre ein gemeiner Trick, deine berühmte Gastfreundschaft auf diese Weise auszunutzen, aber die Vailianer sind für ihre Gerissenheit bekannt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Zumindest hast du die Muschel. Du steckst sie nicht nur weg, um sie sicher aufzubewahren, sondern auch, weil du dich ein wenig dafür schämst. 
+
+Wie kann so ein einfaches, hässliches Ding für einen Gott heilig sein?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Aber es war ein Geschenk der Königin, also behältst du es. 
+
+Dein Blick richtet sich auf die Wand. Ja, du musst diesen Abschnitt dort einreißen und ein großes, breites Fenster einbauen. Sobald du das Geld dafür hast ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Wenn deine Villa größer wäre, wüssten sie vielleicht, dass du ein Mann bist, der Respekt verdient hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Deine Nachbarn prahlen mit ihren größeren Häusern. Füge deiner Villa einen Turm hinzu, um sie zu ärgern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Er zuckt zusammen, als hättest du ihm einen tödlichen Schlag versetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ekera, ich habe daran gedacht, die Kreuzblumen zu ersetzen. Vielleicht ein paar goldene Akzente hinzuzufügen ..." Er verstummt und sein nervöser Blick streift durch die Villa.
+
+Er wendet seine Aufmerksamkeit wieder dir zu und räuspert sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Ekera, Takano. Jeder weiß, dass es ein Zeichen der Gunst ist."
+
+Sie steht wieder stramm, ihre Reaktion so schnell und automatisch, als hätte Takano ihr einen Befehl erteilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Du ziehst dich aus Takanos Seele zurück und siehst, wie er dich mit einem milden Lächeln ansieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Auch nicht für viel Geld?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Mit ein paar Münzen könntest du diesen Ort wirklich aufhübschen. Zum Beispiel dort drüben ein Fenster einbauen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ich bin nicht irgendein Kuaru-Händler. Ich verkaufe meine Schätze nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"So läuft das in unserem Volk nicht." Er verschränkt die Arme, doch sein Blick streift hungrig durch seine glitzernde Villa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Es muss doch etwas geben, das du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Sieh dich um! Ich habe bereits alles." Er breitet seine Arme weit aus und sein Lachen hallt durch den Raum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Und doch klingt Takanos Prahlerei hohl für dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>“Warte mal eine verflixte Sekunde! Wächter, ich kann nicht untätig danebenstehen, wenn du Unschuldige bedrohst."</DefaultText>
+      <FemaleText>“Warte mal eine verflixte Sekunde! Wächterin, ich kann nicht untätig danebenstehen, wenn du Unschuldige bedrohst."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"[Player Name], wird er das jetzt jedes Mal machen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Takano grinst dich weiter an und bemerkt Aloths Unmut gar nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Außer Bescheidenheit." Aloth verdreht die Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Nettes Haus. Wäre schade, wenn es jemand den Hang hinunter schubsen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Er kichert. "Dein Ruf eilt dir voraus. Ich sage dir gleich, dass mein Heim ein ehrenwertes Haus ist." Er wirft Tekēhu einen Blick zu, der streng sein könnte, wenn er nicht so selbstgefällig wäre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Ihr Rauataianer habt den drolligsten Humor!" Er lacht laut, doch in seinen Augen blitzt Panik auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[Ihm das Horn der Tiefen zeigen.] "Sieh mal – ich besitze auch eine ganz besondere Muschel!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Ah, ich sehe." Sein Gesicht zeigt deutliche Enttäuschung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Ich bin mir sicher, es ist &lt;i&gt;ebenfalls&lt;/i&gt; eine große Ehre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ekera, aber das ist nun wirklich kein Grund, sich damit zu brüsten!" Die Röte verwundeten Stolzes steigt in seinem Gesicht auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Das &lt;i&gt;warst&lt;/i&gt; du einmal. Jetzt bist du nur noch ein aufgeblasener alter Mann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Sein Gesicht verzerrt sich vor Wut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Niemand beleidigt mich in meinem eigenen Haus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

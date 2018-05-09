@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_poko_kohara\02_cv_door_puzzle</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Patina auf diesem Eingang spricht Bände über sein Alter, er war lange Zeit der Witterung ausgesetzt. Trotz ihres verkümmerten Zustands steht die kupferne Tür schwer und undurchdringlich als Schutz der Kammer da. 
+
+Die Schwerkraft drückt die Platte dicht an den Stein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Tür genau untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Mit aller Kraft versuchen, die Tür anzuheben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Durch die Lücke im Stein linsen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Alte Spuren in der Form von Fingern lassen vermuten, dass die Engwithanischen Titanen einst stark genug waren, die Tür anzuheben. 
+
+Von hier aus ist es schwer zu beurteilen, ob der Schließmechanismus der Tür früher einmal von etwas anderem kontrolliert wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du entdeckst im angrenzenden Stein ein sonderbares Loch in Spiralform.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Außerdem entdeckst du Abschürfungen unter der Tür, ein Zeichen dafür, dass jemand eine Stange benutzt hat, um es aufzubrechen. Die Beschädigung des Steins sieht frisch aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Falls es jemand hinein geschafft haben sollte, hat sich die Tür schon lange hinter ihm oder ihr geschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Mit zitternden Gliedern und Schweißperlen auf der Stirn hievst du die Tür langsam vom Boden hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Es gelingt dir, die Tür etwa einen Zoll weit vom Boden anzuheben, bevor dein Arm schmerzhaft verkrampft. 
+
+Die Tür fällt wieder herunter und erzeugt beim Aufprall einen Riss im umliegenden Stein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du kannst den groben Umriss von Zahnrädern erkennen, die derart mit Sand und Geröll verschmutzt sind, dass sie nahezu unbrauchbar sind.
+
+Du glaubst, dass die gezackte Ecke eines Enterhakens möglicherweise den inneren Ring des Zahnrads greifen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Im umliegenden Stein findest du ein Loch, das dieselbe Spiralform aufweist wie der Schlüssel, den du auf Tikawara gefunden hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Den kupfernen Muzūma-Muschel-Schlüssel hineinstecken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Nachdem du etwas Sand weggewischt hast, der das Loch blockierte, passt die Muzūma-Muschel perfekt in das Loch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du drehst die Muschel nach rechts. Der vorläufige Widerstand, dem du deine Drehbewegung entgegensetzt, lässt schnell nach und verwandelt sich in das Geräusch von Zahnrädern, die hinter dem Stein arbeiten. 
+
+Die Tür hebt sich langsam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Aus der Öffnung dringt nun eine Brise muffeliger Luft und etwas anderes – ein Gefühl, das von der tiefen Finsternis ausgeht und dir jedes Haar einzeln zu Berge stehen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Einen Enterhaken benutzen, um nach dem Zahnrad zu greifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Deine Hand zwischen die Zahnräder stecken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du entfernst Staub und Geröll aus dem Spalt und hakst den Enterhaken im Zahnrad ein.
+
+Nach einigen kräftigen Zügen beginnen die Zahnräder, sich mühsam und ächzend zu drehen.
+
+Die Tür hebt sich langsam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Etwas im Innern der Maschine erwacht zum Leben. Die Zahnräder drehen sich ohne Vorwarnung wie wild und umschließen deine Finger mit einem lauten Knacken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du greifst nach dem größten Zahnrad und schüttelst kräftig daran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Nachdem es eine gewaltige Staubwolke ausgestoßen hat, beginnt das Zahnrad, sich zu drehen. Es gelingt dir, schnell genug zu reagieren, um deine Hand rechtzeitig in Sicherheit zu bringen und eine Verletzung zu vermeiden.
+
+Die Tür hebt sich langsam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Ein Brecheisen benutzen, um die Tür anzuheben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du verlagerst dein Gewicht auf das Brecheisen, um mit seiner Hilfe die Tür aufzuhebeln. Gemessen an der Kraft, die du in diesen Akt investierst, ist das Ergebnis eher ernüchternd. Die Tür bewegt sich kaum. 
+
+Die Tür so aufzuhebeln, wird dich physisch sehr in Anspruch nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Während der Eingang weiter freigegeben wird, ist ein deutliches Klackern im Stein zu hören, das von einem Mechanismus ausgeht, der die Tür nun offenhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du reibst deine Hände aneinander, um etwas Reibung zu erzeugen. Langsam schlängelst du deine Finger in den Spalt zwischen Tür und Boden und drückst mit aller Macht nach oben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du befreist dich aus dem Mechanismus und kümmerst dich um deine verletzte Hand. Die Zahnräder halten an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Es gelingt dir, eine Spalte zwischen Tür und Stein zu schaffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Die Tür anheben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Die Sache überdenken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du legst das Brecheisen zur Seite und grübelst über deine Optionen nach. Die Tür bleibt fest verschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du beißt die Zähne zusammen und hebst die Tür mit aller Kraft an. All deine Konzentration fließt in diese eine Aktion. 
+
+Ein glühend heißer Schmerz rast deine Hand hinauf, aber du ignorierst den Schmerz und machst weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

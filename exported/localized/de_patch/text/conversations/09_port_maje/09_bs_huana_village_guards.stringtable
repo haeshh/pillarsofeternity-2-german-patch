@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_bs_huana_village_guards</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Willst du hierbleiben, Bruder?"</DefaultText>
+      <FemaleText>"Willst du hierbleiben, Schwester?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ikawha verschwendet ihre Zeit, wenn sie mit diesem Clario spricht. Wir sind ihm völlig egal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wenn du reden willst, sprich mit Ikawha. Sie ist bei den Vailianern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Sei gegrüßt, Bruder. Unser Häuptling ist nicht hier. Er spricht mit den Fremden."</DefaultText>
+      <FemaleText>"Sei gegrüßt, Schwester. Unser Häuptling ist nicht hier. Er spricht mit den Fremden."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Bleib friedlich und alles ist gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Hast du dich verlaufen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Du! Deine Taten wirst du mit deinem Blut bezahlen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

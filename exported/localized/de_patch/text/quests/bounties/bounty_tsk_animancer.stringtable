@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_animancer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Meryel die Verrückte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Meryel&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Abocco&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Meryel die Verrückte&lt;/b&gt; ist eine Beseelerin ohne Respekt vor dem Leben. Eine lange Reihe von blutrünstigen Experimenten haben ihr ein Kopfgeld eingebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Meryel&lt;/b&gt; wurde zuletzt gesehen, wie sie Port Maje verlassen und sich von der &lt;b&gt;Insel Maje aus nach Westen&lt;/b&gt; aufgemacht hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Meryels Tage der Blutbäder und Experimente sind vorüber. &lt;b&gt;Abocco&lt;/b&gt; in der &lt;b&gt;Wilden Mähre&lt;/b&gt; im Ankerplatz der Königin wird gegen Vorlage eines Beweises ihres Ablebens das Kopfgeld auszahlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Meryel gezeigt, was nach dem Tod geschieht, und das Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

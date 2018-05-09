@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_reef_known</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das Wasser wird am Steuerbord-Bug deines Schiffes dunkler und in der nahen Ferne erheben sich zerklüftete Spitzen und Spritzer aus den Wellen.
+
+Laute Stimmen wehen vom Steuer herüber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bring uns durch das Riff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Plane einen Kurs um das Riff herum. Ich riskiere keinen Schaden am Schiff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Specified 0] führt das Schiff mit der Hand eines Experten zwischen verräterischen Felsenspitzen und Korallen hindurch und das Schiff antwortet mit der Grazie eines Tänzers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0] versucht, das Schiff durch das Riff zu führen, aber mit einem Beben, das durch Mark und Bein geht, kratzt das Schiff am Riff entlang. Ein Geräusch von brechendem Holz hallt über das Deck und die Männer verteilen sich, um in den Frachtraum hinabzusteigen und Schäden zu reparieren, bevor die Vorräte verderben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Als ihr davon segelt, haben [Specified 4] und [Specified 1] eine Gruppe an Deck versammelt. Sie erzählen Geschichten vom Teotara-Wunder – Schönheiten, die dir bisher entgangen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Aber [Specified 0] umklammert so entschlossen das Steuerrad, dass man die weißen Knöchel sieht. "Mich kümmert es nicht, wenn es Ondras salziger Busen ist. Wir segeln nicht durch ein Riff." [Specified 0] bemerkt dich und entspannt sich. "Kapitän. Hilf mir, [Specified 1] zur Vernunft zu bringen."
+
+[Specified 1] sieht euch beide erstaunt an. "Und unsere Chance verpassen? Seeleute warten oft wochenlang auf so ein ruhiges Wetter und Wasser ... Wenn ihr je das Teotara-Wunder sehen wollt, jetzt ist die Zeit dafür."
+
+Einige Mannschaftsmitglieder haben sich versammelt und hören zu, ihre Augen funkeln hoffnungsfroh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Was ist das Teotara-Wunder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 1] zuckt mit den Schultern. "Es soll ein großartiger Anblick sein. Ein uraltes Geheimnis. Habe es selbst noch nie gesehen."
+
+[Specified 4] nickt. "Ein Graubart, der mit mir einst in einer Mannschaft war, behauptete, er hätte es gesehen. Er hat geschworen, es habe ihm zehn Jahre gute Gesundheit und günstige Winde eingebracht."
+
+Die anderen Seeleute murmeln aufgeregt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"[Specified 2], haben wir Karten, die uns durch das Riff führen können?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"[Specified 3], in welchem Zustand befindet sich unser Rumpf?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Specified 2] nickt halbherzig. "Sie sind lückenhaft, sollten aber genügen, vorausgesetzt, [Specified 0] kann uns hindurch bringen."
+
+[Specified 0] sieht [Specified 2] finster an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 3] grinst. "Er ist in einem guten Zustand, Kapitän. Ich alleine würde das Schiff durch kein Riff segeln, aber jetzt wäre zumindest eine gute Gelegenheit, es einmal zu versuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 3] runzelt die Stirn und lässt die Augen über die Planken des Decks gleiten. "Schätze mal, er kann ein oder zwei Stöße aushalten. Nicht, dass ich es empfehlen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 3] starrt dich mit weiten Augen an. "Wir sind kaum seetüchtig, Kapitän! Jetzt ist keine Zeit, Risiken einzugehen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die vielfältigen Untiefen gehen in blaue Gewässer über. Ein riesiger Krater öffnet sich rings um dich und ist breit genug, um eine ganze Flotte zu verschlingen.
+
+[Specified 0] seufzt vor Erleichterung, als [Specified 1] den Horizont nach Anzeichen des mythischen Wunders absucht.
+
+Die [Player Ship] segelt weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ein Großteil des Steins ist mit Korallen besetzt, aber die sichtbaren Teile befinden sich oberhalb des Wassers in langen, sich windenden Spiralen. Adra wächst normalerweise in großen Säulen, aber diese Formation sieht fast aus wie sieben Tentakel eines schrecklichen Seeungeheuers, das nach dem Himmel greift.
+
+[Specified 2] pfeift leise. "So alt. Müssen die Engwithaner gewesen sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Man kann nur schwer feststellen, ob die seltsamen Konturen des Adra durch die langsame Abnutzung durch das Meer entstanden sind oder ob sie davon verdreht wurden. Und irgendetwas an dieser Unklarheit sorgt dafür, dass diese Vision noch außergewöhnlicher wirkt.
+
+Der Rest der Mannschaft beginnt nun auch zu reden. Sie diskutieren mit leiser, ehrfürchtiger Stimme die Bedeutung des Wunders und seinen Ursprung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Dies muss der Triumph eines antiken Volkes sein! Wir können uns glücklich schätzen, dass wir es gesehen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Jetzt haben wir es gesehen. Dann lass uns weiterziehen, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>“Kurs beibehalten.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 0] segelt an dem Adra vorbei und hält eine sichere Distanz ein.
+
+[Specified 1] und [Specified 4] gehen zum Achterdeck, ihre Augen sind auf das Teotara-Wunder gerichtet, bis es am Horizont verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Es gibt keine Möglichkeit zu wissen, woher es kommt. Genieße es so, wie es ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Es stellt die Bosheit der Götter dar. Sieh mal, sie ziehen diesen armen Dummkopf in die Tiefe. Für immer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Dies ist ganz eindeutig ein Werk der Götter. Und wir sind gesegnet, dass wir es gesehen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Bei Ondras Gnade", flüstert [Specified 4] mit gesenktem Kopf. [Specified 1] und [Specified 2] sehen sich dankbar an und grinsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Specified 1] blickt dich mit gerunzelter Stirn an und zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Sie starren dich angsterfüllt mit offenem Mund an. 
+
+Mit einem letzten, schaudernden Blick auf den Adra gehen sie wieder an ihre Arbeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Specified 2] nickt, während [Specified 4] ein leises Gebet murmelt. Die restliche Mannschaft nickt und kehrt an ihre Aufgaben zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Das Teotara-Wunder muss hier in der Nähe sein! Jeder Seemann muss es einmal gesehen haben!" [Specified 1] presst seine Hände in dringlichem Flehen zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Die toten Korallen ragen aus der Oberfläche empor und ragen wie Spinnenbeine nach oben. Der Wind pfeift durch die zerklüftete Struktur hindurch. Unter dem Wasser schwimmen Fischschwärme über die glänzenden Riffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 1] deutet in Richtung der durchbrochenen Wasseroberfläche. "Wir können unsere Reise um Tage verkürzen, wenn wir hier entlang segeln!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du kehrst zu den Untiefen zurück, die eine Abkürzung durch das Archipel darstellen könnten ... vorausgesetzt, die [Player Ship] kann durch die verräterische Untiefe navigieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Aber [Specified 0] umklammert so entschlossen das Steuerrad, dass man die weißen Knöchel sieht. "Mich kümmert es nicht, ob es unser Lager mit Rum füllen würde, wir segeln nicht durch ein Riff." [Specified 0] bemerkt dich und entspannt sich. "Kapitän. Hilf mir, [Specified 1] zur Vernunft zu bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Specified 0] seufzt. "Auch wenn dieses Wunder in der Nähe ist, gibt es keine Garantie, dass wir es sehen, wenn wir durch dieses Riff fahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du hörst ein Grollen wie von Donner, und unter dir reißt das Deck weit auf. Einen Augenblick lang scheint sich alles um dich zu drehen, dann stürzt du ins Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Wie betäubt versuchst du mühsam, den Kopf über der Wasseroberfläche zu halten. Um dich herum versinken Stücke von Holz und Stahl. Du bist zu schwach, um zu schwimmen, sinkst hinab, siehst die Oberfläche immer weiter sich entfernen.
+
+Dunkelheit umgibt dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Specified 0] salutiert. "Aye-aye, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Das Meer hier ist so ausgedehnt und so glatt wie türkisfarbenes Glas. [Specified 1] springt rauf und runter, schreit und zeigt nach Backbord und auf die bleiche Adra-Säule, die aus der Wasseroberfläche emporragt.
+
+[Specified 0] zieht dich näher heran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Das Teotara-Wunder ragt aus dem Wasser, schimmert im Licht des Himmels, so seltsam und stumm wie das erste Mal, als du es gesehen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Specified 0] versucht, das Schiff durch das Riff zu führen, aber mit einem Beben, das durch Mark und Bein geht, kratzt das Schiff am Riff entlang. Ein Geräusch von brechendem Holz hallt über das Deck und die Männer verteilen sich, um in den Frachtraum hinabzusteigen und Schäden zu reparieren, bevor die Vorräte verderben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 4] spöttelt. "Selbst sie hätten das nicht tun können. Das ist Ondras langsame, stetige Arbeit.
+
+Das Sonnenlicht dringt in den Adra ein und bringt ihn zum Leuchten, als würde sich in seinem Inneren eine Lichtquelle befinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 4] spöttelt. "Selbst sie hätten das nicht tun können. Das ist Ondras langsame, stetige Arbeit.
+
+Auch bei Nacht schimmert der Adra, er leuchtet von innen heraus und wirft ein geisterhaftes Licht über die Oberfläche des Meeres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Die Mannschaft sieht ihn sich an, einige beten leise, andere sind stumm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Ein Riff breitet sich vor dir aus. Mit deiner Skelettmannschaft kannst du nicht durch die zackigen Untiefen navigieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

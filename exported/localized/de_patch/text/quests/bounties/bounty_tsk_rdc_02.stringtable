@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_rdc_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Radulf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Radulf&lt;/b&gt; und nimm den Triumph seines Schiffes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Wakoyo&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Wakoyo will, dass ich &lt;b&gt;Radulf&lt;/b&gt;, den vailianischen Kapitän der Galleone &lt;b&gt;Goldglocke&lt;/b&gt; aufspüre. Wenn ich beweisen kann, dass ich den Kapitän getötet habe, werde ich ein Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Radulf&lt;/b&gt; segelt mit seiner Galleone, der &lt;b&gt;Goldglocke&lt;/b&gt;, östlich von Neketaka in der Nähe des &lt;b&gt;südwestlichen Zipfels der Inselkette Kua o Rikuhu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe einen Anspruch auf Radulfs Kopfgeld. Ich kann meine Belohnung bei &lt;b&gt;Wakayo&lt;/b&gt; in der &lt;b&gt;Messingzitadelle&lt;/b&gt; in Neketaka abholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Radulf ist tot, und ich habe das Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

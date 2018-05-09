@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_poko_kohara\02_cv_poko_kohara_machinery</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Maschine auf der Unterseite der Säule ist in miserablem Zustand, ihre Adra-Platten sind völlig krumm und das Kupfer ist zersetzt. Dennoch sieht es aus, als wäre sie zumindest ganz.
+
+Ein hoher, heulender Ton dringt aus dem Adra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Maschine aktivieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Maschine untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du drehst am Adra-Rad und stellst einige der Regler um.
+
+Zuerst geschieht nichts.
+
+Dann spürst du eine Schwankung im Äther. Das Heulen wird lauter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du überprüfst die Kupferverbindungen und Hebel. Alles scheint intakt zu sein, aber nicht das geringste Bisschen der Essenz in der Säule läuft durch es hindurch.
+
+Das Jaulen wird lauter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Essenz bewegt sich in der Adra und öffnet eine Dimension, so unmittelbar und entstellt wie eine frische Wunde.
+
+Etwas an diesem Ort zieht an deiner Seele, und die entfernten Stimmen kreischen wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Dimension in der Adra ist nun offen, und sie zerrt an deiner Seele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Deine Gruppe in die Säule projizieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Dich in die Säule projizieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Für‘s Erste hierbleiben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

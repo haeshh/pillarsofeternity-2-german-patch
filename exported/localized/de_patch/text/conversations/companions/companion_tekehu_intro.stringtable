@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_tekehu_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>182</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Wolltest du etwas, oder reicht es dir, dich in Perfektion zu sonnen?" Tekēhu grinst, öffnet eine Hand und fordert dich zum Sprechen auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Tekēhu, stimmt's? Prinz Aruihi hat mich gebeten, dich zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich hätte nicht erwartet, dass der Prinz so schnell reagiert. Die Schlangenkrone steht unter Druck, sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich könnte einen rauflustigen Fisch wie dich auf der [Player Ship] gut gebrauchen. Solange ein Wächter am Steuer steht."</DefaultText>
+      <FemaleText>"Ich könnte einen rauflustigen Fisch wie dich auf der [Player Ship] gut gebrauchen. Solange eine Wächterin am Steuer steht."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich nehme an, du verstehst dich nicht gut mit der Gildenmeisterin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ein hervorragender Wasserformer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ansehnlich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ein Gottähnlicher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Es ist, weil ich ein Gottähnlicher bin – bei meiner Geburt von der Fischgöttin geküsst." 
+
+Er streckt einen Arm heraus und zuckt mit einem seiner flossenartigen Körpergliedern, die sich von seinem Handgelenk zu seinem Ellenbogen erstreckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ha! Gib Acht – Schmeicheleien sind meine Spezialität."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Es passiert nicht jeden Tag, dass ich in diesem Teil der Stadt ein eigenartigeres Gesicht sehe als meines." Tekēhu legt seinen Daumen auf sein Kinn und nickt dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Was sagst du, bist du gekommen, um wie der ganze Rest auf Ngatis Auserwählten zu glotzen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Das Wasserformen ist Ngatis Gabe an die Huana, und ich bin es ebenfalls, so wie es aussieht. Retter der Stämme – pah!" 
+
+Er verschränkt die Arme und verzieht das Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ich nehme an, du hast dich nicht so gut mit der Gildenmeisterin verstanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Sehr richtig. Schon bei der Geburt gesegnet und verflucht gleichzeitig, sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Ein blauhäutiger Huana begutachtet dich von oben bis unten und schmunzelt.
+
+Der Großteil seiner sichtbaren Haut ist mit Schuppen bedeckt und seine 'Haare' wehen herum wie Anemomensträhnen, die faul in den Strömungen der Gezeiten schwanken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Was genau hat dir Prinz Aruihi gesagt?" Tekēhu verschränkt die Arme und setzt einen nüchternen Gesichtsausdruck auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Das spielt keine Rolle. Ich habe schon erfahren, dass die Schmuggler Wasserformer benutzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich soll den Schwarzmarkt der Roparu ausfindig machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ich soll die Roparu an den Fußknöcheln hochheben und schütteln, um zu sehen, was herausfällt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Schwarzmarkt? Aber das hat nichts mit meinem Problem zu tun, es sei denn ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Das ergibt Sinn. Wenn irgendetwas in Neketaka nicht stimmt, bemerken die Leute der unteren Kasten es als Erste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Der Prinz hat nichts von Wasserformern erwähnt?" Tekēhu runzelt die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ich dachte, die Gilde würde seine oberste Sorge sein. Es scheint, dass ich falsch lag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Warum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ich sage dir nur, was ich gehört habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Wegen der Sache, die ich ihm im Vertrauen erzählt habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Lass uns woanders darüber sprechen. Man kann nie wissen, wer zuhört. Also zum Schlund?" Tekēhu runzelt die Stirn und blickt zurück auf den Eingang zur Gilde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ich erwarte, dass der Prinz daran gewöhnt ist, nur das Nötigste auszuteilen und den Rest zurückzuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Lass uns hier verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Wenn dir die Begleitung eines Wächters nichts ausmacht, dann akzeptiere ich deine."</DefaultText>
+      <FemaleText>"Wenn dir die Begleitung einer Wächterin nichts ausmacht, dann akzeptiere ich deine."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ich denke darüber nach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Sollen wir zum Schlund gehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Denke nach, so viel du willst." Tekēhu zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Schmuggeln! Sie könnten unsere Kunst nicht mehr beschämen, wenn sie Büsten von den Hazanui formen würden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Zurück zu meinen anderen Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Immer raus mit der Sprache, ich höre zu." Tekēhu kaut sich am Daumen, offensichtlich abgelenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Wenn dir die Begleitung eines Wächters nichts ausmacht, dann darfst du mich gerne bei meinem nächsten Ausflug begleiten."</DefaultText>
+      <FemaleText>"Wenn dir die Gesellschaft einer Wächterin nichts ausmacht, dann darfst du mich gerne bei meinem nächsten Ausflug begleiten."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Wenn mich das von den Samtfesseln der Gilde befreit, dann kannst du mich als am Aushängeschild an deinem tollen Schiff befestigen." 
+
+Tekēhu neigt den Kopf und berührt das kreisförmige Mal auf seiner Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ekera, ich bringe der Wasserformer-Gilde &lt;i&gt;Kunst&lt;/i&gt;. Aber hier duldet man ja keinerlei künstlerischen Ausdrucksformen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Eothas muss sich für seine Taten verantworten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ich will nur erfahren, wie ich helfen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Diese Entscheidung obliegt dem Rest der Götter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ich bin mir noch nicht sicher. Irgendwelche Einfälle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"So auch viele Sterbliche im Todesfeuer. Mir scheint, dass die Götter gar nicht so anders sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Der grüne Mann scheint ganz gut alleine auszukommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Sie werden, sage ich, sich ordentlich darüber streiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Er nickt und berührt seine Unterlippe, als er sich die Sache sorgfältig überlegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Du bist mir nicht unbekannt, sage ich. Geflüster über einen Adra-Kolosses erreicht meine Ohren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Unsere Kajüten mögen über kurz oder lang nach Fisch riechen, aber die Besatzung wird durch die richtige Gesellschaft auch ein gutes Stück schöner, sage ich." 
+
+Er zwinkert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Bevor wir gehen, sollte ich erwähnen, dass der Prinz mir gesagt hat, dass ich dich aufsuchen soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Gib ihm Komplimente, kauf ihm was zu trinken, und schaue einfach, wie es weitergeht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Ha! Für mich gibt es nicht genug Rum im ganzen Todesfeuer, um das auch nur in Erwägung zu ziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Ich würde den Ozean selbst befehligen, dass er ihn auf den Grund eines dunklen Grabens ziehen möge." 
+
+Tekēhu zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Ein Wächter? Und ich hatte mich schon daran gewöhnt, der Sonderling von Perikis Aussichtspunkt zu sein!" Er legt eine Hand auf die Hüfte und grinst.</DefaultText>
+      <FemaleText>"Eine Wächterin? Und ich hatte mich schon daran gewöhnt, der Sonderling von Perikis Aussichtspunkt zu sein!" Er legt eine Hand auf die Hüfte und grinst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Ein Wächter? Und ich hatte mich schon daran gewöhnt, der Sonderling von Perikis Aussichtspunkt zu sein!" Er legt eine Hand auf die Hüfte und grinst.</DefaultText>
+      <FemaleText>"Eine Wächterin? Und ich hatte mich schon daran gewöhnt, der Sonderling von Perikis Aussichtspunkt zu sein!" Er legt eine Hand auf die Hüfte und grinst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Mit Ausnahme der Mataru-Priester bekommen wir hier nur wenige Geistesleser zu sehen." Er schürt die Lippen und betrachtet dich aufmerksam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Ein guter Versuch, aber nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Mairu hat mir verboten, ihr zu folgen, aber ich sage, Nagti würde nicht wollen, dass ich &lt;i&gt;diese&lt;/i&gt; Sache verpasse." 
+
+Der blauhäutige Huana legt den Daumen auf sein Kinn und zwinkert dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Komm mit mir. Ich kann Hilfe bei dem Nāga-Problem gebrauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Tekēhu nickt und blickt angestrengt auf den Eingang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Ich weiß, wer du bist. Du hast Löcher in den Schleier zwischen Leben und Tod gestoßen und schleppst seine Fetzen hinter dir her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Lass uns gehen, mit einem Fluch auf alle Schlangen auf unseren Lippen! Sie haben sich zum letzten Mal gehäutet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Tekēhu, du hast dich zum letzten Mal vor deinen Pflichten gedrückt, sage ich!" 
+
+Eine Gildenmeisterin in schicken Roben blickt den beträchtlichen, blauhäutigen Aumauaner vor ihr starr an. 
+
+Schüler beobachten das Gespräch in einem lockeren Kreis und flüstern sich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Lass dich nicht von mir aufhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Das sollte bald wieder vorbei sein." Er zwinkert dir zu, bevor er seinen Blick mit gerunzelter Stirn wieder auf die Gildenmeisterin richtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Meine Geduld lässt nach, alter Haifisch. Du hast mich lang genug unterdrückt, ich habe mir eine Reise durch Rikuhus Eingeweide verdient."
+
+Trotz ihrem offensichtlichen Altersunterschied hebt Tekēhu vor der Gildenmeisterin einen belehrenden Finger. 
+
+Ihre Nasenlöcher beben, sie holt tief Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Das klingt wichtig. Oder kontrovers. Oder beides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Ekera, bei &lt;i&gt;dieser hier&lt;/i&gt; ist es immer beides." Sie nickt Tekēhu zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Möchtest du der Krone etwas sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Er ist ein vielbeschäftigter Krieger in Friedenszeiten, sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Lass uns hier verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Ekera, ich habe dem Prinzen ein Schreiben gesendet und keine Rückmeldung bekommen." Tekēhu verschränkt die Arme und seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Eccosi, die Dame." Er blinzelt Pallegina an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Hör auf, per complanca. Ich habe dich nicht um deine albernen Komplimente gebeten und ich will sie auch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Dann wird dieser Hahn einen großen Bogen um die Henne machen." 
+
+Mit einem schiefen Grinsen wendet er sich dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Von allen exotischen Vögeln, denen ich im Todesfeuer begegnet bin, hast du das schönste Gefieder."
+
+Er neigt seinen Kopf und berührt seine Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Ngatis Auserwählter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Ekera. Die Einheimischen verehren alles, was mit dem Meer zu tun hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Es bleibt nur die Frage, ob ich mich jetzt wieder meinen Pflichten widme oder lieber ein paar Stunden im Badehaus vertrödele." 
+
+Tekēhu zieht an seinen Haaren und schürzt die Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Das Badehaus. Auf jeden Fall das Badehaus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Bedenke zuerst deine Pflichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Zurück zu meinen anderen Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Die Wasser sind in Ordnung, sage ich. Mehr als in Ordnung sogar, in Begleitung." 
+
+Sein Grinsen wird sogar noch breiter, als er dich beäugt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Was sagst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Pah. Die Gilde kann warten, bis ich bereit bin, zurückzukommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Eigenartige Begleitung. Wir würden ein furchterregendes Duo abgeben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Haarige Begleitung. Dein Fell wird sich nie glänzender anfühlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Tekēhu seufzt vor sich hin und begutachtet dich von oben nach unten. Er räuspert sich lässig und sieht weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Es stört mich nicht, wenn du hinschaust."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Warte, ich wollte nicht ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>[Zurückräuspern]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Ähem. Nichts für ungut." Er hebt seine Handfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Du gefällst mir schon jetzt." Er hebt die Augenbrauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Geh voran. Es wird gut sein, mich etwas von der Gilde fernzuhalten, auch wenn wir unterwegs auf noch weniger angenehme Orte treffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Er hat den Richtigen zum Schlund geschickt, sage ich."</DefaultText>
+      <FemaleText>"Er hat die Richtige zum Schlund geschickt, sage ich."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Was wirst du tun, sobald du diesen laufenden Gott einholst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Sieht aus, als ob ein ungehorsamer Fisch durch das Netz geschlüpft ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Ekera, ich würde vielleicht nicht klagen, wenn ihn einer mit einem Ruder schlagen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Ich sage, Ngati beweint ihr launisches Schauspiel von einem Kind!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Für einen Wasserformer, der so viel Wert darauf legt, seine Pflichten der Göttin gegenüber zu erfüllen, verbringst du viel zu viele Tage damit, dich im Bordell herumzutreiben." 
+
+Die Gildenmeisterin weicht Tekēhu aus und entfernt sich mit großen Schritten vom Kreis.
+
+Man wirft Tekēhu noch den einen oder anderen Blick zu, dann zerstreut sich die Menge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Das ist unerträglich!" Seufzend streicht Tekēhu seine Haare zurück. 
+
+Mit erhobenen Augenbrauen richtet er seine Aufmerksamkeit wieder auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Die Schuld dafür liegt bei dem, was ich bin, sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Du hast meine Aufmerksamkeit, sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Zeit allein ist nie verschwendet, sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Also kämpfe ein bisschen dagegen an. Taste deine Grenzen ab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Das bist du allerdings. Ich kann verstehen, warum sie dich verehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Solltest du nicht wenigstens ein bisschen dankbar sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Er verzeiht die Oberlippe und winkt ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"Ich sage, ich bin kein Seemann und vom Tod weiß ich noch weniger. Ich bin ein Künstler." 
+
+Er rührt mit seinen Fingern durch die Luft und zieht Wassertröpfchen aus der Luftfeuchtigkeit. Er formt sie zu einer Wasserkugel, die über seine Handfläche schwebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"Meine Kollegen verstehen mich nicht. Wasserformen ist für sie wie das Lernen von Kalligraphie, um Tinte zu brauen und Pergament zu sortieren." 
+
+Er lässt die Kugel fallen. Sie zerbirst am Boden vor seinen Füßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Na ja, ich bin gespannt zu sehen, was du drauf hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"Ich habe nichts gegen einen einfühlsamen Künstler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Wenn deine Fähigkeiten unsere Gegner ertränken kann, dann kannst du es nennen, was du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"Die Gezeiten bringen unerwartete Gaben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>Er klatscht dir auf die Schulter und grinst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"Ich ... werden wir denn oft kämpfen? Ekera, wie schade."
+
+Tekēhu kratzt sich am Hinterkopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"Und lauteres Geflüster von einer ... Leiche, die ihm folgt." 
+
+Tekēhu hebt eine Augenbraue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"Klingt, als ob sie dich richtig unter Druck setzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"Was ... tut eigentlich ein Wächter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Ich kommuniziere mit den Geistern der Toten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Ich bin ein Vermittler zwischen hier und dem Zwischenreich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"Ich wache. Größtenteils über die Toten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"Ekera, so ist das." Er reibt sein Kinn und nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Ich bin der Herold von Berath. Zumindest vorläufig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Wenn du Tricks drauf hast, dann sollten wir uns ganz gut verstehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"Ha. Ngatis Sohn, degradiert zu einer bellenden Robbe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"Fischgeruch wäre eine Verbesserung. Schön, dich dabei zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Hat der Rest von uns ein Mitspracherecht bei dieser Sache?" Sein Blick wechselt zwischen dir und Tekēhu hin- und her. Seinem Ausdruck nach ist er offenbar irritiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Palegina klappt die Kinnlade herunter, sie gibt ein langes Seufzen von sich und rollt mit den Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>"Ishi, bleib ja fern von diesem komischen Mann und seinen Tentakeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>"Mich hat noch nie jemand schön genannt." Sie errötet und wendet ihren Blick ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Ich dachte mir schon immer, dass der Kapitän zum Blauen und Bezaubernden hingezogen ist. Willkommen an Bord, Junge."
+
+Serafen verbeugt sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"Ich nehme jede Hilfe an, die ich bekommen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Wo fang ich nur an? Die Liste ist lang, sage ich! Ich bin der kostbarste Wasserformer von Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Dann lass uns gehen! Ngatis Auserwählter wird jede sich windende Schlange zertreten. Geh voraus." Er nickt in Richtung der Treppe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"Ich brauche gerade keine Hilfe mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Wenn ... wenn du es so willst. Ich werde für meine Kollegen beten, während sie auf ihrer Reise durch Tangaloas Eingeweide sind." 
+
+Tekēhu reibt den Arm über seine Stirn und seufzt angesichts der bevorstehenden Arbeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"Ich habe &lt;i&gt;einen&lt;/i&gt; Lehrvortrag geschwänzt, um den Berg zu besteigen. Der Palast ist immer noch geschlossen, bis du mich Onekaza präsentierst." 
+
+Er verschränkt die Arme und hebt eine Augenbraue. Das Gemurmel der Menge wird lauter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"Du bist &lt;i&gt;alleine&lt;/i&gt; gegangen? Ich habe um Geduld gebeten, aber wie immer machst du aus einem Tümpel einen Graben!" 
+
+Sie senkt ihre Stimme, als sie sich der Schaulustigen bewusst wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Du hast doch vorhin mit Mairu diskutiert, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>"Dieser hübsche Fisch neigt dazu, viele Zuschauer anzulocken, sage ich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"Er ist das Kind von Ngati? Ondra? Göttin des Meeres?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Ich habe von Ngatis Auserwählten gehört, bin aber nur selten einem von euch begegnet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"Ekera. Die Bedeutung ist &lt;i&gt;manchen&lt;/i&gt; klarer als anderen." Er deutet mit der Handrückseite auf die Gildenmeisterin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Siehst du, Mairu? Endlich einer, der mein Geburtsrecht zu schätzen weiß!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>"Ich weiß nicht, ob ich mich jemals als Sohn eines Gottes gesehen habe ..."</DefaultText>
+      <FemaleText>"Ich weiß nicht, ob ich mich jemals als Tochter eines Gottes gesehen habe..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"Warum würdest du das auch, es sei denn, du wärst unerträglich eingebildet?"
+
+Sie richtet ein Stirnrunzeln auf Tekēhu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"Ich bin auch der Sohn von Ngati ... wie du wahrscheinlich bemerkt hast. Nicht, dass ich mir solche Sachen zu Kopf steigen lasse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>"Der alte Haifisch, Mairu ... zu stur, es zuzugeben, sage ich, aber sie wird in Perikis Grab Hilfe brauchen." Tekēhu nickt in Richtung der Treppe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"Ich bin bereit, das Wasser unserer Feinde zu vergießen. Was meinst du? Mein Angebot steht." Tekēhu zieht die Augenbrauen in die Höhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>"Mairu und ich, wir hatten zwar so unsere Meinungsverschiedenheiten, aber ... Ekera, was für ein schrecklicher Verlust!" Seufzend glättet Tekēhu eine Stelle am Hinterkopf, wo seine Haare sich schlängeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>"Gildenmeisterin – sei doch vernünftig!"
+
+Er wirft seine Haare zurück, die an Seeanemonen erinnern. Die dicken Strähnen legen sich mit einem schwachen Leuchten glatt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"Dann lass uns doch einfach gemeinsam mit ihm reden. Dass ich ein Wächter bin, hat mir schon oft die Türen geöffnet."</DefaultText>
+      <FemaleText>"Dann lass uns doch einfach gemeinsam mit ihm reden. Dass ich eine Wächterin bin, hat mir schon oft die Türen geöffnet."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"Zurück zu meinen anderen Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>"Du bist also ein Wasserformer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"Du hast doch gewiss meine Werke gesehen. Sie sind in ganz Neketaka zu finden." Sofort runzelt Tekēhu besorgt die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>"Du findest meinen 'Apfel der Ngati' im Vorraum des Palastes der Kahanga, wo die Bittsteller warten müssen. Und meinen 'Tanz der schamlosen Priesterin' findest du im Badehaus."
+
+Tekēhu verschränkt die Arme und deutet mit einer Kopfbewegung in Richtung Tür.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"Die Wasserformer gibt es schon so lange, wie es Huana gibt. Aber das gibt es erst, seit Tekēhu mit dem Wasserformen auch &lt;i&gt;Kunst&lt;/i&gt; schafft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>"Wasserformen klingt wie ein kostbares Talent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>"Die Huana können das Wasser formen, als wäre es Ton. Sie können es in jede gewünschte Form bringen. Unsere Verbindung zu den Göttern verleiht uns diese Gabe." Grinsend verändert Tekēhu seine Haltung, die jetzt fließend wirkt, beinahe so, als sei er leicht wie eine Feder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Wir können jedes Schiff von Rauatais Flotte versenken, wenn es der Stadt zu nahe kommt. Einige von uns verfügen allerdings über einen ... sanfteren Geschmack." Er seufzt und steht erneut entspannter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>"&lt;i&gt;Einige&lt;/i&gt; von uns betrachten das Wasserformen als genau das, was es ist – das Geschenk einer göttlichen Ausdrucksform."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>"Hat dein Stamm euch niemals die Kunst eures Volkes gelehrt?" Er schüttelt den Kopf - es ist ein Zeichen seines Missfallens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"Ich muss dich warnen, Kapitän. Ngati hat ihren Lieblingssohn mit mehr gesegnet als nur gutem Aussehen." Tekēhu wirft seine Haare über die Schulter und seufzt zufrieden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"Was? Kannst du etwa unter Wasser atmen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"Versteckst du unter dieser Robe etwa einen Köder für Seeteufel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"Ich freue mich schon jetzt darauf, alles darüber zu erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"Gut geraten. Allerdings nur so lange, wie ... Nun ja ..." Tekēhu verschränkt die Arme und überlegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"Lass den Köder aus dem Spiel, Kapitän!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>"Ich sage mal, du wirst es lernen. Mit der Zeit." Er zwinkert. Seine Augen sind plötzlich so dunkel wie polierte Perlen aus Onyx.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>"Ekera. Ich freue mich darauf, dir Unterricht zu geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>"Schön für dich. Es freut mich, dass du etwas so Besonderes bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>"Aruihi hat mich auf die Suche nach dir geschickt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"Lutu! Mas sma luzu." Rekke senkt seinen Kopf in einem vergeblichen Versuch, die Schamröte auf seinen Wangen zu verbergen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

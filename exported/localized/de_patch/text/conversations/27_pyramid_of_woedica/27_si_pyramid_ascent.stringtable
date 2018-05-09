@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\27_pyramid_of_woedica\27_si_pyramid_ascent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Nach einer stundenlangen Wanderung durch die Wüste stolperst du hinein in eine prächtige Oase, die sich gegen die Basis einer massiven Pyramide zu kuscheln scheint. Du suchst nach einem Eingang und entdeckst endlich einen am oberen Ende einer sehr langen Treppe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du wirst gewahr, dass du zurück in der Oase bist. Die imposante Pyramide ragt vor dir in die Höhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Pyramide erklimmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Die Oase erkunden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Die Oase verlassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Der Schatten in der Oase ist nach deiner langen Reise durch die Wüste angenehm. Bald gelangst du an einen kleinen Teich inmitten der Bäume. Als du näher herankommst, bemerkst du, dass der Teich mit tausenden kleinen, sich windenden Maden angefüllt ist und du erkennst sie sofort als den Parasit, der Rotghasten auslöst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Der Schatten in der Oase ist nach deiner langen Reise durch die Wüste angenehm. Bald gelangst du an einen kleinen Teich inmitten der Bäume. Als du näher herankommst, bemerkst du, dass der Teich mit tausenden kleinen, sich windenden Maden angefüllt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Es ist eine schwierige Kletterpartie, aber das hält dich nicht auf. Du betritt endlich schweißgebadet den willkommenen Schatten des Raums an der Spitze der Pyramide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Deine Wasserschläuche füllen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du füllst deine Wasserschläuche mit dem kühlen, sauberen Wasser des sauberen Teichs: eine willkommene Wohltat nach der Wanderung durch die heiße Wüste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Als du dich von dem infizierten Teich abwendest, zieht ein kurzes Funkeln deine Aufmerksamkeit auf sich. Halb versteckt hinter einem Klumpen Schilf siehst du einen kleineren Teich mit Wasser, der frei von Maden ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

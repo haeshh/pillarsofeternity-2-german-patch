@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_tsk_delvers_row</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Graberstraße</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Entdecke den Weg zur &lt;b&gt;Graberstraße&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Begib dich über die &lt;b&gt;Enge zur &lt;b&gt;Graberstraße.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Tief im Bauch des Schlunds versteckt erstreckt sich die &lt;b&gt;Graberstraße&lt;/b&gt;. Hier bieten Verbrecher und Schwarzmarkthändler vor neugierigen Blicken verborgen ihre illegalen Güter feil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Gerüchten zufolge gibt es im Schlund einen Schwarzmarkt namens &lt;b&gt;Graberstraße&lt;/b&gt;. Irgendjemand muss wissen, wie man den geheimen Markt erreicht. Ich sollte mich umhören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe erfahren, dass die &lt;b&gt;Graberstraße&lt;/b&gt; über eine geheime Gasse erreicht werden kann. Die Gasse ist hinter einem Vorhang in einem &lt;b&gt;Marktstand&lt;/b&gt; in der &lt;b&gt;Enge&lt;/b&gt; versteckt. Die Enge ist ein Gewirr aus unterirdischen Straßen, die mit der westlichen Grenze des Schlunds verbunden sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Pitli schlug vor, mich in der &lt;b&gt;Schenke&lt;/b&gt; im &lt;b&gt;Schlund&lt;/b&gt; umzuhören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Kapitän Sedūzo hat angedeutet, dass der &lt;b&gt;Wirt&lt;/b&gt; der &lt;b&gt;Schenke&lt;/b&gt; Bescheid wissen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Biha meinte, dass sich die &lt;b&gt;Graberstraße&lt;/b&gt; irgendwo in der &lt;b&gt;Enge&lt;/b&gt; befindet. Sie empfahl mir außerdem, &lt;b&gt;Enoi&lt;/b&gt; zu fragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;Enois&lt;/b&gt; Hütte steht direkt &lt;b&gt;südwestlich&lt;/b&gt; von Bihas Unterkunft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Enoi sagte mir, dass jemand in der &lt;b&gt;Schenke&lt;/b&gt; wissen könnte, wo ich die &lt;b&gt;Graberstraße&lt;/b&gt; finde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Fyrna sagte mir, dass ich die &lt;b&gt;Graberstraße in der &lt;b&gt;Enge&lt;/b&gt; finde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Nach etwas Überredungskunst beschrieb mir Fyrna den Weg zur &lt;b&gt;Graberstraße&lt;/b&gt;.– begib dich in die &lt;b&gt;Enge&lt;/b&gt;, biege nach rechts ab und geh dann geradeaus, bis du einen &lt;b&gt;Marktstand&lt;/b&gt; findest. Der Eingang befindet sich hinter einem Vorhang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Graberstraße gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

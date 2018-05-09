@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>chatter\00_tikawara\ch_00_unique_ranga_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Der Ranga wird dich empfangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Der Ranga ist noch wach. Du kannst eintreten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Der Ranga begrüßt dich wärmstens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Geh bitte rein. Der Ranga wird dich jederzeit empfangen, Tag oder Nacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Der Wächter starrt dich mürrisch an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wenn du mit dem Ranga reden musst, dann mach schnell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Er hat den Ranga getötet! Haltet ihn auf!"</DefaultText>
+      <FemaleText>"Sie hat den Ranga getötet! Haltet sie auf!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

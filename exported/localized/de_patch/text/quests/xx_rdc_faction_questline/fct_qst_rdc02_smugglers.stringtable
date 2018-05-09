@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_rdc_faction_questline\fct_qst_rdc02_smugglers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Eine Frage des Imports</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Widla an der verabredeten Stelle auf hoher See treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Mit Hazanui Karū in ihrem Büro in der Messingzitadelle sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Mit Flottenmeisterin Okaya in Sayuka sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Mit Flottenmeisterin Okaya in Sayuka sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Hazanui Karū hat mich gebeten, eine wichtige Lieferung abzuholen und sie zur Insel Sayuka zu liefern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Widla&lt;/b&gt; und ihre Besatzung warten an einem verabredeten Ort &lt;b&gt;westlich von Neketaka&lt;/b&gt;. Ich soll sie dort treffen und die Fracht entgegennehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Hazanui Karū hat einen Auftrag für mich. Ihr Büro befindet sich auf der Hauptebene des Kaiserlichen Kommandos in der Messingzitadelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe den Preis der Schmuggler bezahlt und die Fracht erhalten. Bleibt nur noch, sie zum Hafen von Sayuka zu liefern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe die Schmuggler getötet und die Fracht an mich genommen. Bleibt nur noch, sie zum Hafen von Sayuka zu liefern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Die Hazanui trifft sich gerade im Palast mit der Königin und vailianischen Anführern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Eine Wissenschaftlerin namens &lt;b&gt;Iverra&lt;/b&gt; wurden mit der Ladung geschmuggelt. Sie meinte, sie habe auf &lt;b&gt;Sayuka&lt;/b&gt; etwas zu erledigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;Iverra&lt;/b&gt; und ich sind sicher auf &lt;b&gt;Sayuka&lt;/b&gt; angelangt. Sie ist schon mal vorgegangen, um ihre Kontaktpersonen zu treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Fracht wie angewiesen nach Sayuka geliefert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe die Königliche Todesfeuer-Gesellschaft wütend gemacht. Jetzt wollen sie nichts mehr mit mir zu tun haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Hazanui Karū hat mich bei einer brisanten Angelegenheit um Hilfe gebeten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

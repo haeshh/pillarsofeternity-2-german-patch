@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crit_path\cp_qst_12_ukaizo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die verlorene Stadt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde &lt;b&gt;Eothas.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Deaktiviere den Sturm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Konfrontiere &lt;b&gt;Eothas&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Reise nach &lt;b&gt;Ukaizo.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Besiege den &lt;b&gt;Hüter von Ukaizo.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Eothas&lt;/b&gt; ist auf dem Weg zur legendären Insel &lt;b&gt;Ukaizo&lt;/b&gt;, um &lt;b&gt;Eoras&lt;/b&gt; Zyklus der Wiedergeburt zu stören oder gar zu vernichten. Ich kann ihn nur dann direkt zur Rede stellen, wenn ich ihm dorthin folge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Jetzt wo ich auf &lt;b&gt;Ukaizo&lt;/b&gt; eingetroffen bin, muss ich nur noch &lt;b&gt;Eothas&lt;/b&gt; finden. Angenommen, dass er noch immer die Gestalt eines über zweihundert Meter hohen Kolosses hat, sollte das kein Problem sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Eothas&lt;/b&gt; hält sich irgendwo mitten in der Stadt auf. Ein tobender Sturm und ein Bîaŵac versperren den Weg zu ihm. Beide scheinen von einem Turm in der Ferne zu stammen. Wenn es mir irgendwie gelingt, die Stürme zu besänftigen, kann ich &lt;b&gt;Eothas&lt;/b&gt; erreichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Jetzt, wo der Sturm sich gelegt hat, kann ich mich tiefer in die Stadt hinein begeben und &lt;b&gt;Eothas&lt;/b&gt; direkt zur Rede stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>&lt;b&gt;Ukaizo&lt;/b&gt; befindet sich im Nordosten von &lt;b&gt;Neketaka&lt;/b&gt;. Man kann es nur durch den &lt;b&gt;Ofecchia-Kanal&lt;/b&gt; erreichen, eine natürliche Passage durch die Klippen von Magrans Zähnen und den stürmischen Gewässern von Ondras Mörser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Der Hüter von &lt;b&gt;Ukaizo&lt;/b&gt; ist erschienen. Ich werde erst dann in der Lage sein, &lt;b&gt;Eothas&lt;/b&gt; zu erreichen, wenn es mir gelungen ist, ihn zu überwältigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die Flotte der Huana wird mich dort treffen, um ihre Unterstützung im Rennen um Ukaizo zu leisten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Die Flotte der Vailianischen Handelsgesellschaft wird mich dort treffen, um ihre Unterstützung im Rennen um Ukaizo zu leisten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Die Flotte der Königlichen Todesfeuer-Gesellschaft wird mich dort treffen, um ihre Unterstützung im Rennen um Ukaizo zu leisten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Die Flotte der Príncipi wird mich dort treffen, um ihre Unterstützung im Rennen um Ukaizo zu leisten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe mich gegen meine Verbündete gewendet. Jetzt wird mir keine Unterstützung bei der Reisen nach Ukaizo zuteil. Ich werde die Insel allein erreichen müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich stelle &lt;b&gt;Eothas&lt;/b&gt; zur Rede. Er verursacht eine große Veränderung auf &lt;b&gt;Eora&lt;/b&gt; – eine, die es erfordert, dass Gestandene und Götter sich zusammenschließen, um ihr zu begegnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

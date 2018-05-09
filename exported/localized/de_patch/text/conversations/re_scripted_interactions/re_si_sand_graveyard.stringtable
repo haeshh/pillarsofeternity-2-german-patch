@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_sand_graveyard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Knochen brechen unter deinen Füßen. Verstreut im Sand liegen Skelette, die halb bedeckt von Sandverwehungen oder ausgebleicht in der prallen Sonne liegen. An ihren Körpern hängen noch Fetzen ihrer Kleidung und ihre Arme umklammern ihre Taschen.
+
+Lindwürmer kreisen wie Aasgeier über dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Skelette durchsuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Den Bereich ungestört lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du spürst ein Zupfen am Bein. Mutter Scharf-Felsen klammert sich an deinen Stiefel, starrt zu den Dünen und blickt dann zu dir hoch. Ihre Augen sind vor Angst weit aufgerissen. Sie fürchtet diesen Ort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du gehst zum nächsten Skelett und nimmst die Tasche von den Überresten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Als du das Skelett störst, erheben sich mehrere Sandfäulen mit einem heftigen Windstoß und kommen direkt auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Der Sand hier ist merkwürdig lebhaft. Er tanzt wie in einer Brise, aber es weht hier kein Wind. Mehrere Staubhaufen erheben sich über den Dünen in verdächtig geordneter Weise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die machst einen großen Bogen um die Skelette und erkundest die Insel weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Eine Fernwaffe verwenden, um die Reaktion der Sandhaufen zu testen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Der Sandhaufen beginnt zu wirbeln und wird zu einem kleinen Sturm. Er wütet über den Dünen und erweckt dabei noch mehr Sandhaufen in der Nähe. Sie vereinen sich und bilden über der Wüste eine wirbelnde Wolke, die sich geballt auf dich stürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

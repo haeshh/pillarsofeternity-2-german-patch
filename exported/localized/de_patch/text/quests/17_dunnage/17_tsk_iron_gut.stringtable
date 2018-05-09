@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\17_dunnage\17_tsk_iron_gut</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Eisenbauch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Rosanella&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Besorge die Zutaten für &lt;b&gt;Ondras Galle&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Eisenbauch Pietro&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Eisenbauch Pietro&lt;/b&gt; hat einen wertvollen Edelstein – &lt;b&gt;Ngatis Schwarze Träne&lt;/b&gt; – verschluckt, um dessen Diebstahl zu verhindern, aber seine Verdauung kommt nicht damit klar. Ich habe ihm meine Hilfe dabei angeboten, den Edelstein aus ihm 'herauszuholen'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Rosanella&lt;/b&gt; am &lt;b&gt;Strahlenden Hof&lt;/b&gt; über ein medizinisches Präparat, das Pietro helfen könnte, den verschluckten Edelstein wieder auszuscheiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Rosanella hat mir eine Liste mit Zutaten für Ondras Galle gegeben – ein &lt;b&gt;verdorbener Schleimaal&lt;/b&gt;, ein &lt;b&gt;unreifer Palmstein&lt;/b&gt; sowie ein Fläschchen &lt;b&gt;Feuerseetang-Extrakt&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Bringe die Zutaten für Ondras Galle zu &lt;b&gt;Pietro&lt;/b&gt; beim &lt;b&gt;Königssarg&lt;/b&gt; in Stauholz. Und gehe dann besser in Deckung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich sollte mich beim &lt;b&gt;Refugium des Hebers&lt;/b&gt; nach verdorbenem Schleimaal umsehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Einer der Händler am &lt;b&gt;Strahlenden Hof&lt;/b&gt; könnte unreife Palmsteine zum Verkauf anbieten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Rosanella sagte mir, dass ich Feuerseetang-Extrakt beim &lt;b&gt;Königssarg&lt;/b&gt; kaufen könne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe einen &lt;b&gt;verdorbenen Schleimaal&lt;/b&gt; besorgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe einen &lt;b&gt;unreifen Palmstein&lt;/b&gt; besorgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe ein Fläschchen &lt;b&gt;Feuerseetang-Extrakt&lt;/b&gt; besorgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>&lt;b&gt;Jacob Harker&lt;/b&gt;, Inhaber des &lt;b&gt;Königssargs&lt;/b&gt; in Stauholz, verkauft Feuerseetang-Extrakt für 250 Pires das Bündel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Eisenbauch Pietro erbrach den Edelstein und übergab ihn mir mit Dank – nachdem er ihn saubergemacht hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\19_wizard_dungeon\19_cv_telescope</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieses Messingteleskop wurde vor Kurzem gesäubert. Beide Linsen sind blitzblank poliert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Nach dem Sternbild der Jägerin suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Nach dem Sternbild des Panthers suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Nach dem Sternbild des Eisvogels suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Das blendende Tageslicht macht es dir unmöglich, irgendeinen Stern zu sehen. Du wirst bist zum Einbruch der Nacht warten müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du findest die Jägerin mit ihrem Waffenbandolier aus einem Band von Sternen mit Leichtigkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du erkennst den Panther nahe einer Sichel aus Sternen, die einen gefallenen Bogen darstellen sollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du erkennst die Position des Eisvogels direkt über einem besonders hell leuchtenden Sternenpaar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Durch das Teleskop schauen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ein Sternenmeer erstreckt sich vor dir. Der Nachthimmel ist dir nicht unbekannt, aber du siehst ihn selten aus solcher Nähe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Nach dem Sternbild des Leviathans suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Der Leviathan befindet sich über einem Sternenhaufen in Form eines zerbrochenen Kanus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Dir wird plötzlich schwindlig. Die Sterne verschwimmen aus ihren normalen Positionen. Als du wieder scharf sehen kannst, brechen die Himmelskörper einer nach dem anderen auf und ihre Lichter verschmelzen ineinander. 
+
+Die Sterne kommen zusammen, um eine Reihe zwinkernder Augen zu bilden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>&lt;ispeech&gt;Hallo, Kumpel.&lt;/ispeech&gt;
+
+Die Worte schreiben sich selbst in den Sternen. Unter den zwinkernden Augen wird die Mondsichel langsam breiter und dreht sich zu einem Grinsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>&lt;ispeech&gt;Während du dich so umsiehst, versuch dir den Kopf nicht zu sehr darüber zu zerbrechen, was es hier 'oben' gibt. Manche Geheimnisse sind es wert, für sich behalten zu werden.&lt;/ispeech&gt;
+
+Das größte Auge zwinkert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du blinzelst und der Nachthimmel nimmt wieder sein normales Bild an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Wael?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Du siehst aus, als könntest du ein wenig frische Luft gebrauchen." Aloth blinzelt dich besorgt an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Alles in Ordnung? Hast du da drin mit ein paar Toten gesprochen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Herzlich willkommen im Nachthimmel, Verschleierter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du notierst dir die Koordinaten des Sternbildes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Mehrere helle Sternbilder drängen sich am Nachthimmel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

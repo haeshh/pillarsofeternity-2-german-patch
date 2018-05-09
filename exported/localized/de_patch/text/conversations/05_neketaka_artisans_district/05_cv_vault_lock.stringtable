@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_vault_lock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese Apparatur ist ein komplexes Steuerpult, welches aus Edelsteinen, die in bewegliche Steinvertiefungen eingesetzt wurden, besteht. Vier farbige Edelsteine sind um ein Loch in der Mitte platziert. 
+
+Etwas scheint zu fehlen. Ein erfahrener Bastler kann dies möglicherweise kompensieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Lücke in der Mitte untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Es sieht wie eine Fassung für einen Edelstein aus. Kratzspuren deuten darauf hin, dass jemand – oder etwas – den Stein herausgehebelt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Den durchsichtigen Kristall in das Loch setzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Der Kristall schnappt in seine vorgesehene Vertiefung mit einem sanften Klicken. Die umgebenden Edelsteine leuchten sofort in brillanten farbenfrohen Lichtern auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Dieses Steuerpult besteht aus vier farbigen Edelsteinen, die um einen einzelnen durchsichtigen Kristall in der Mitte herum platziert sind. Die vier Edelsteine können in einer Vielzahl möglicher Kombinationen verschoben werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Die Kombination, die du gefunden hast, eingeben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Mit dem Steuerpult herumspielen, um vielleicht etwas in Bewegung zu setzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Nach einer langwierigen behutsamen Manipulation leuchten die Edelsteine um das freie Loch in brillanten farbenfrohen Lichtern auf. Die Überbrückung, so hat es den Anschein, war ein Erfolg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Das Herumspielen an dem Pult führt zu keinem Erfolg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Jemanden an dem Pult herumspielen lassen, um vielleicht etwas in Bewegung zu setzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Durch das vorsichtige Basteln leuchten die Edelsteine um dieses Steuerpult mit arkaner Strahlkraft auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du drehst die Edelsteine in ihre vorgesehene Konfiguration. Das Geräusch schabenden Steins gewinnt an Lautstärke, als die Tür den Weg freigibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Nach ein bisschen sanfter Aufmerksamkeit mit geübter Hand gibt das Schloss ein weiches Klicken und arkanes Surren von sich. [Specified 0] begutachtet seine saubere Arbeit mit einem zufriedenen Lächeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Das Herumspielen an dem Pult führt zu keinem Erfolg. [Specified 0] seufzt und starrt das Pult an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Die Edelsteine drehen, um verschiedene Stellungen auszuprobieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du versuchst einige Kombinationsmöglichkeiten mit den Edelsteinen, aber die schiere Anzahl derselben lässt dich aufgeben. Es scheint so, als bräuchte dieses Schloss ein weiteres Teil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Die Edelsteine drehen, um verschiedene Stellungen auszuprobieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du versuchst einige Kombinationsmöglichkeiten mit den Edelsteinen, aber die schiere Anzahl derselben lässt dich aufgeben. Es scheint so, als bräuchte dieses Schloss ein weiteres Teil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Die Edelsteine untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Die Edelsteine um die Achse des Schlosses können in verschiedene Kombinationen verschoben werden, wie ein Kombinationsschloss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Diese Edelsteine sehen genauso aus wie die Edelsteine, auf welche in der Kombination, die du zuvor gefunden hattest, Bezug genommen wird. Du weißt bereits genau, welche Rotationen und Postionen dieses Schloss öffnen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>An der mittigen Vertiefung herumzubasteln hat bereits die notwendige Umgehung hervorgebracht, die nötig war, um das Schloss zu öffnen. Jetzt fehlt nur noch die Kombination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Das leerstehende Loch in der Mitte des Schlosses lässt vermuten, dass noch immer ein Teil fehlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Nun, da der fehlende Kristall in das Zentralpult eingesetzt wurde, müssen nur noch die umliegenden Edelsteine in die korrekte Kombination gedreht werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Die Edelsteine untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Diese Edelsteine sehen genauso aus wie die Edelsteine, auf welche in der Kombination, die du zuvor gefunden hattest, Bezug genommen wird. Du weißt bereits genau, welche Rotationen und Postionen dieses Schloss öffnen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Nun, da der fehlende Kristall in das Zentralpult eingesetzt wurde, müssen nur noch die umliegenden Edelsteine in die korrekte Kombination gedreht werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>An der mittigen Vertiefung herumzubasteln hat bereits die notwendige Umgehung hervorgebracht, die nötig war, um das Schloss zu öffnen. Jetzt fehlt nur noch die Kombination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Das leerstehende Loch in der Mitte des Schlosses lässt vermuten, dass noch immer ein Teil fehlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Die Edelsteine um die Achse des Schlosses können in verschiedene Kombinationen verschoben werden, wie ein Kombinationsschloss.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

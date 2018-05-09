@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_rdc_faction_questline\fct_qst_rdc04_slavers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Krummsporn leerräumen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Nach Krummsporn reisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Meister Kua in Krummsporn finden und töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Zu Atsura im Kaiserlichen Kommando in der Messingzitadelle zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Zu Atsura im Kaiserlichen Kommando in der Messingzitadelle zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Mit Atsura in der Messingzitadelle sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Königliche Todesfeuer-Gesellschaft hat vor, die Sklavenhändler von der Insel Krummsporn zu vertreiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der Hafen Krummsporn liegt auf der östlichen Seite einer Insel nordwestlich von Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Atsura erzählte mir, dass die restlichen Sklaventreiber Reißaus nehmen werden, wenn ich Meister Kua töte. Ich muss ihn nur finden und stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe Kua eingeschüchtert und von Krummsporn vertrieben, und die verbleibenden Sklaventreiber gehen mit ihm.
+
+Atsura wird erfreut darüber sein, dass ich sie losgeworden bin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe Meister Kua getötet, und die verbleibenden Sklaventreiber verlassen Krummsporn.
+
+Atsura wird erfreut darüber sein, dass ich sie losgeworden bin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Atsura möchte mit mir noch über etwas anderes reden. Er wartet in seinem Büro im Kaiserlichen Kommando auf mich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die Wahaki haben mich ebenfalls darum gebeten, die Sklaventreiber loszuwerden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe die Waffen, die den Wahaki genommen wurden. Damit könnten die gefangenen Krieger mir zur Seite stehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Die Wahaki haben ihr Wort gehalten und eine Revolte auf Krummsporn angezettelt. Der Weg zum Meister sollte jetzt frei sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich konnte Bauha dazu überreden, keine Revolte anzufangen und stattdessen nach Ori o Koīki zu fliehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Mir wurde eine Audienz bei Meister Kua gewährt, der die Operation auf Krummsporn leitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Meister Kua hat mir Zugang zu den unteren Ebenen von Krummsporn verschafft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Auf Krummsporn herrscht jetzt die höchste Alarmstufe, und die Festung ist abgesperrt. Der Meister wird noch schwieriger erreichen zu sein. Weiterhin blockiert eine Zugbrücke den Hauptausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Der Kaufmann Seafol glaubt, dass die Sklavenhändler mit Einheimischen des Todesfeuers handeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Atsura erzählte mir, dass die &lt;b&gt;Wahaki auch daran interessiert sein könnten, die Sklavenhändler auszuschalten. Ich kann sie auf der Insel &lt;b&gt;Ori o Koīki&lt;/b&gt; finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Eine Gruppe von Wahaki-Sklaven willigte ein, für Ablenkung zu sorgen, wenn ich sie aus ihren Zellen befreie. Dir Oger-Zuchtmeister im Kerker von Krummsporn ist im Besitz der Schlüssel für ihre Zellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich muss mich um diese Angelegenheit kümmern, wenn ich mich mit der Königlichen Todesfeuer-Gesellschaft verbünden will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Die Sklavenhändler wurden aus Krummsporn vertrieben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Die Königliche Todesfeuer-Gesellschaft will nichts mehr mit mir zu tun haben, ich werde ihnen also so schnell nicht wieder Bericht erstatten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Flottenmeisterin Okaya erzählte mir, dass &lt;b&gt;Atsura&lt;/b&gt; mit mir über einen neuen Auftrag reden wolle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Hazanui Karū erzählte mir, dass &lt;b&gt;Atsura&lt;/b&gt; mit mir über einen neuen Auftrag reden wolle.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

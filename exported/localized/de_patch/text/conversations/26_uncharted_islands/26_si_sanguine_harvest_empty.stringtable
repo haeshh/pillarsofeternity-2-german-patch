@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_sanguine_harvest_empty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Altar aus Stein vor dir ist leer. Da sind nur eingetrocknete Blutflecken und ein paar Haare auf der Oberfläche zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Den Altar untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Der Bereich vor dem Altar ist glatt gerieben von Jahrhunderten von Füßen, die sich dort bewegt, und unzähligen Knien, die davor gebetet haben. Irgendwo tropft von oben Wasser herab. Das hat hinter dem Altar eine Pfütze von sumpfigem Schlamm geschaffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Den Bereich um den Altar herum untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du begibst dich hinter den Altar und untersuchst die Schlammpfütze mit den Händen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Skillcheck 0] untersucht die Schlammpfütze hinter dem Altar mit den Händen und fördert ein ziemlich mitgenommenes Buch mit Eintragungen zutage. Es hat ganz sicher bessere Tage gesehen, aber einige der Seiten sind noch immer lesbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Deine erste oberflächliche Erkundung des Altars ergibt nichts, das von Interesse wäre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du erkundest ein weiteres Mal die Umgebung des Altars, nur um sicherzugehen, findest jedoch nichts weiter, das von Wert wäre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du kratzt ein wenig von dem alten Blut auf der Oberfläche des Altars ab. Darunter findest du ein Spinnennetz aus tiefen Einschnitten in den Stein. Sie sind Zeugnisse für die vielen schrecklichen Opfer, die hier erbracht worden sein müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Halb vergraben im Schlamm findest du ein ziemlich mitgenommenes Buch mit Eintragungen. Die Seiten sind von Wasser und Matsch beschädigt, aber einige von ihnen sind noch immer lesbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

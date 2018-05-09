@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_battlemage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Ikorno</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Ikrono&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Okauro&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Ikorno&lt;/b&gt;, ein Zauberer der Aumauaner, macht sich einen Spaß daraus, Elitekrieger der Huana zu jagen und töten. Die, die ihn im Verdacht haben, ein rauataianischer Spion zu sein, haben ein Kopfgeld auf ihn ausgesetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Ikono&lt;/b&gt; wurde zuletzt auf den Zentralinseln der &lt;b&gt;Kua-o-Rikuhu-Kette&lt;/b&gt; gesehen. Falls ich ihn finde, kann ich ihn für das Kopfgeld töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe mich um &lt;b&gt;Ikorno&lt;/b&gt;. gekümmert. &lt;b&gt;Okauro&lt;/b&gt;. bei der Heiligen Treppe in Neketaka wird mir ohne Tötungsbeweis keine Belohnung geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ikorno hat seinen letzten Zauber gewirkt, und ich habe das Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

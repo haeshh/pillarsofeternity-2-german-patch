@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_stranded_ship_vailian</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Specified 0] deutet auf das Schiff in der Ferne. "Eine Galeone, Kapitän. Ein Dreimaster. Das wäre es wenigstens, wenn ..."
+
+Vom Vormast des Schiffes ist nichts mehr übrig außer einem zersplitterten Stumpf, und der Bugspriet wurde glatt abgerissen.
+
+"Siehst du, was sie mit ihr angerichtet haben? Das ist das Werk von Piraten. Wahrscheinlich Príncipi, und ebenso wahrscheinlich freche Emporkömmlinge, bedenkt man, wie nahe der vailianischen Patrouillenrouten sie das Schiff überfallen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Steuere neben das Schiff. Wir werden uns alles holen, was noch übrig ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“Kurs beibehalten.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du stellst eine kleine Gruppe zum Entern zusammen und untersuchst die Galeone. Das Meiste von Ladung und Mannschaft ist verschwunden, aber du findest einige Fässer mit Süßwasser und ein paar Säcke mit getrocknetem Reis und grobem Mehl.
+
+Deine geschickten Helfer erledigen die Aufgabe rasch. Du kehrst zum Schiff zurück und befiehlst [Specified 0], die Segel zu setzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0] salutiert. "Aye-Aye."
+
+Die Mannschaft hastet zu ihren Posten, begierig darauf, diese Gegend zu verlassen.
+
+Sobald das Schiff hinter dir nicht mehr sichtbar ist, verwandeln sich die nervösen Blicke der Mannschaft in erleichtertes Gelächter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Deine Mannschaft begibt sich auf die Kampfstationen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Specified 2] beugt sich zu dir herüber. "Das Gold haben sie bestimmt mitgenommen, aber vielleicht haben sie ein paar Vorräte zurückgelassen."
+
+[Specified 1]s Stirn ist schweißnass. "Wir sollten uns hier nicht zu lange aufhalten. Wenn die Vailianer uns dabei erwischen, wie wir eines ihrer Schiffe plündern, werden sie uns gar nicht erst die Zeit geben, irgendetwas zu erklären."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du befindest dich noch immer an Bord der Galeone, als von [Specified 0] eine Warnung kommt.
+
+Ein Schiff mit dem Kennzeichen eines vailianischen Freibeuters kommt direkt auf dich zu. 
+
+Die Mannschaft an Bord der [Player Ship] hastet über das Deck und bereitet sich auf den Kampf vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Doch als die Freibeuter sich nähern, siehst du, wie einige von ihnen auf die Flagge mit den Farben der Vailianischen Handelsgesellschaft deuten, unter der du fährst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Doch als die Freibeuter näher herangekommen sind, siehst du, wie sie auf deine valerianischen Segel deuten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Doch als die Freibeuter näher herangekommen sind, siehst du, wie sie auf deine Flagge deuten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Der andere Kapitän begrüßt dich, indem er kurz den Hut lüftet, dann ziehen die Freibeuter sich wieder zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Durch das Fernrohr schauen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Macht die Kanonen bereit. Die Kanoniere brauchen die Übung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Am Mast flattert eine rote Flagge mit Schuppen und Sternen - das Emblem der Vailianischen Handelsgesellschaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Specified 2] schüttelt seufzend den Kopf. "Oder wir könnten die Beute einfach versenken, vermute ich mal."
+
+[Specified 1] nickt. "Aye, Kapitän."
+
+[Specified 0] brüllt Befehle, und die Mannschaft begibt sich daran, die Kanonen unter Deck bereit zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Mit was? Wir haben keine Kanonenkugeln."
+
+[Specified 2] hustet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du stellst eine kleine Gruppe zum Entern zusammen und untersuchst die Galeone. Das Meiste von Ladung und Mannschaft ist verschwunden, aber du findest einige Fässer mit Süßwasser und ein paar Säcke mit getrocknetem Reis und grobem Mehl.
+
+Deine ungeübten Helfer brauchen mehr als einen halben Tag, um alles an Bord deines Schiffes zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bis du zu deinem Schiff zurückgekehrt bist, den Anker eingeholt und Segel gesetzt hast, haben die Freibeuter dich schon fast eingeholt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ich bin nicht gerade darüber begeistert, ein vailianisches Schiff zu plündern, aber wenn nicht wir ihre Ladung an uns nehmen, tut es jemand anderes."
+
+Sie betrachtet das Schiff mit einem bösen Blick und schüttelt ihren gefiederten Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Deine Kanoniere haben mit dem unbeweglichen Ziel keinerlei Schwierigkeiten. Du schaust zu, wie das Ziel schlingert und schwankt und dann im Meer versinkt.
+
+Deine Mannschaft unter Deck stampft mit den Füßen und jubelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Das Zielvermögen deiner Kanoniere reicht nicht einmal für das unbewegliche Ziel aus - weit fliegen die Kanonenkugeln darüber hinaus.
+
+Die Mannschaft zuckt angesichts der eigenen Unfähigkeit zusammen.
+
+[Specified 0] schaut zu dir. "Noch einmal, Kapitän?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Noch eine Salve feuern! Und dieses Mal solltet ihr das verdammt Ding auch treffen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Nein. Steuere uns hier heraus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Deine Kanoniere haben mit dem unbeweglichen Ziel keinerlei Schwierigkeiten. Du schaust zu, wie das Ziel schlingert und schwankt und dann im Meer versinkt.
+
+Deine Mannschaft unter Deck stampft mit den Füßen und jubelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Die Kanonen feuern erneut ... und verfehlen ihr Ziel erneut.
+
+[Specified 0] seufzt. "Befehle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Versenkt das verdammte Schiff!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Deine Kanoniere haben mit dem unbeweglichen Ziel keinerlei Schwierigkeiten. Du schaust zu, wie das Ziel schlingert und schwankt und dann im Meer versinkt.
+
+Deine Mannschaft unter Deck stampft mit den Füßen und jubelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

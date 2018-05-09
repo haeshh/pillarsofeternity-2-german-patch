@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_quest_3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>86</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich glaube nicht, dass wir einander kennen. Per complanca, lass mich in Ruhe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“Hey, Käpt‘n! Da is' er! Das is' Remaro, so sicher wie mein Arsch blau is'!"
+
+Serafen rennt los, um einen alten, weiß gekleideten Mann zu treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich wünschte mir, du wärst nicht gekommen, mein Junge. Auch wenn ich mich freue, dich zu sehen. Sogar die Anarchisten von Aeldys kennen bei Meuterern keine Gnade."
+
+Serafen nimmt Abstand und sieht zu Remaro hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Aye, aber du, ein Verräter? Der reine Gedanke daran wäre lächerlich."
+
+Er breitet seine offenen Handflächen zu jeder Seite hin aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich kann nicht, Blauer, so sehr es mir auch wehtut, zu gehen. Diese Wasser sind nichts mehr für mich, und ich nichts mehr für sie."
+
+Serafen reißt den Mund auf und stottert, bevor ihm eine Antwort einfällt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Warum solltest du die Príncipi verlassen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Sind die Anschuldigungen dir gegenüber wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Warum hast du Fort Todeslicht verlassen? Dort wärst du vielleicht sicher gewesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Die Príncipi haben sich verändert, und nicht zum Besseren. Früher standen wir alle hinter einer gemeinsamen Sache."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich habe nicht jede Anschuldigung gehört, die gegen mich erhoben wird, aber Meuterei? In dieser Anklage bin ich schuldig."
+
+Serafens Ohren hängen herunter. Er streckt eine Hand nach Remaro aus, hält jedoch inne und lässt sie wieder sinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich ... konnte es nicht ertragen, zu bleiben, beschützt oder nicht. Es ist ein hoffnungsloses Gefühl, bei dem langsamen Niedergang von etwas zuzusehen, auf das ich einst so stolz war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Warum? Die Zauberer war unser Zuhause und unsere Familie. War unser verdammter &lt;i&gt;Stolz&lt;/i&gt;. Und du hast sie an einen halb ertrunkenen alten Elfen für einen bilgenassen, scheckigen Klipper verschachert?"
+ 
+Serafen starrt auf den Boden neben Remaros Füßen. Er zittert und ballt seine Hände an seinen Seiten zu Fäusten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Kapitän Bastian hat die Zauberer für Sklaverei eingesetzt."
+
+Remaro sieht seine dunklen, runzligen Hände finster an und reibt seine Handflächen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sklaverei?! Was für eine Art fadenscheiniger Schwachsinn! Die Zauberer war meine Familie! Das Schiff hatte nichts mit Sklaverei zu tun! Ich habe Sklaventreiber für den Kapitän &lt;i&gt;gejagt&lt;/i&gt;! Wir &lt;i&gt;haben zusammen Sklaven befreit&lt;/i&gt;!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich wollte nicht, dass du es erfährst. Um deinen Glauben an unsere Traditionen zu bewahren. Um optimistisch zu bleiben, ein heller Stern innerhalb der Príncipi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Stolz und Ehre gibt's immer noch. Die Dinge ändern sich, das ist ganz klar, man kann sie aber nich' kleinkriegen, wenn man das Steuer nich' in der Hand hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ac. Meine triefenden Augen haben zu viel gesehen. Nepotismus und Vetternwirtschaft wo man geht und steht. Die Príncipi verfaulen von innen heraus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Sientere, Serafen. Ich habe dich enttäuscht. Dir wehgetan. Keine Worte können meine Taten rechtfertigen. Ich hoffe nur, du glaubst mir ... dass ich getan habe, was getan werden musste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Remaro, hatte es etwas damit zu tun, dass dein Kapitän mit Sklaven gehandelt hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Serafen, du hast das Geständnis von Remaro gehört. "Was hast du jetzt mit ihm vor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Remaro, du kommst mit uns, um dich dem Urteil des Consuaglo zu stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Nein. Die Gerechtigkeit des Consuaglo ist Geschichte. Tue, was du tun musst, aber ich kehre nicht zurück." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Lass ihn laufen, Käpt'n. Aye, er hat dem Todesfeuer einen feinen Dienst erwiesen, als er die Sklavenhändler versenkt hat, aber unter dem Consuaglo bedeutet Meuterei den Tod, ob per guonfer oder nich'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Lass ihn laufen, Käpt'n. Lass ihn seinen Scheiß in seinem bilgenrattigen Herz aufbewahren, wie viele Schläge auch immer ihm noch bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Wir lassen dich in Ruhe, Remaro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Angreifen] "Du wirst diese Insel nicht lebend verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Dann bleibt nur noch eins zu tun, Kapitän Wächter. Deinen Darm saugenden Schädel zu spalten und dein durchlöchertes Gehirn zu durchwühlen!"
+
+Serafen zieht seine Waffe.</DefaultText>
+      <FemaleText>"Dann bleibt nur noch eins zu tun, Kapitän Wächterin. Deinen Darm saugenden Schädel zu spalten und dein durchlöchertes Gehirn zu durchwühlen!"
+
+Serafen zieht seine Waffe.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Corès, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Agracima, Wächter. Der Klipper wird bald beladen sein, und dann brechen wir auf."</DefaultText>
+      <FemaleText>"Agracima, Wächterin. Der Klipper wird bald beladen sein, und dann brechen wir auf."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Wohin hast du vor zu gehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich hoffe, ich liege falsch, und wenn auch nur um deinetwillen. Ich glaube nicht, dass die Príncipi so überleben können, wie sie sind, und ich kann nicht zusehen, wie etwas zu Grunde geht, dem ich mein Leben gewidmet habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Meine Mannschaft, die paar wenigen Seelen, die mir von der Zauberer gefolgt sind, und ich setzen Segel gen Westen. Der Abschnitt vielleicht, oder das Land der Lebenden. Vielleicht organisieren wir den Handel von Aedyr oder Vailia aus. Wohin auch immer das Glück uns führt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Jetzt, da wir in zwei Extreme zerbrochen sind, wälzt sich jeder in seiner eigenen Korruption."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Macht sammelt sich am stärksten hinter denen, die sie nicht verdienen. Die Führung des Consuaglo fällt in sich zusammen, und damit auch mein Glaube."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Du fliehst vor deinen Problemen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Verschieb das Jammern auf später, du alter Seehund. Du weißt so gut wie ich, dass es auf diesem Gewässer keinen Glauben gibt, außer dem, den man selbst findet." 
+
+Er grinst etwas schief und schlägt sich mit einer geschlossenen Faust auf seine Brust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ein feiner Traum. Ich bete zu Ondra, dass du ihn dir erfüllen kannst. Mich aber treibt die Strömung nur in eine Richtung. Eine Rückkehr zu den Príncipi würde meinen Tod bedeuten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Das habe ich auch geglaubt. Aber Bastian hat die, die wir gerettet haben, an die Krumsporn-Sklavenhändler verkauft. Ich habe Berichte darüber in seinem Quartier gefunden, sie waren fast ein Jahrzehnt alt. Als ich ihn zur Rede gestellt habe ... ist es nicht gut gelaufen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>&lt;i&gt;Sand unter deinen Füssen, verkrustet und blutig, du klein und jung, dreckig und vor Angst zitternd, Anfeuerungsrufe aus allen Ecken – Jubelschreie sogar – und die Schreie der Gestandenen vor dir. Amaua dreimal so groß wie du, schwere Muskeln und weiches Fett in bunten Gewändern – lass mich nicht noch einmal antreten, bettelst du, lass mich nicht ...&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Wir legen bald ab. Kümmere dich für mich um Serafen. Er wird sich auch um dich kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Serafen wirft seine Arme um die Taille des Mannes und er streichelt dem Orlaner mit einer Hand über den Kopf, während die andere auf seiner Schulter ruht. Er lächelt, ein nachdenklicher Ausdruck, der seine Augen nicht erreicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Komm mit uns zurück. Ich werde dich beschützen und wir kümmern uns um deine gerechte Verurteilung."
+
+Mit einem langsamen Kopfschütteln schluckt Remaro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Zerbrich meine Kekse und nenn mich tupfrig, bist du in deiner Senilität verrückt geworden?"
+ 
+Der Orlaner sieht zu dir hin, seine Unterlippe zuckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>“Käpt‘n! Lass deine Wortgewandtheit spielen und rede diesem alten Seebär verdammt nochmal ein bisschen Vernunft ein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ich weiß, wir haben uns nicht immer gut verstanden, aber wenn du jemals etwas für mich tun willst, Kapitän, dann rede diesem senilen alten Seebär verdammt nochmal ein bisschen Vernunft ein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>“Käpt‘n! Kannst du diesem krustigen alten Seebär etwas Vernunft einreden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Aber ... das ist auf der verdammt anderen Seite von Eora!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ac, eine ordentliche Reise, soviel steht fest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Vierzehn Jahre habe ich mit dem Schrubben von Decks verbracht. Für dich noch länger. Kapitän Bastian hat dir vertraut. &lt;i&gt;Ich&lt;/i&gt; hab dir vertraut."
+
+Sein stechender Blick hebt sich, um dem Blick von Remaro zu begegnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ac, bon Aimico ..."
+
+Remaro öffnet kurz seinen Mund, schließt ihn dann wieder und schluckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Wie könnte ich das?"
+
+Serafen sieht mit einem müden Schulterzucken weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Du verheimlichst was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Mit deinem Gehirn und meinem Selbstbewusstsein werden wir das gute Schiff Príncipi sen Patrena geraderichten und mit diesen schotbrüchigen Flauten fertigwerden."
+
+Der finstere Blick Remaros verfinstert sich noch mehr, als er seinen Blick weg von Serafen und hin auf das Meer richtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ac, das tue ich. Ich verheimliche viele Dinge. Aus vielen Gründen. Ich habe vor langer Zeit gelernt, dass es oft besser ist, den Mund zu halten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ein weiser Wächter hat mir einst erzählt, dass Ehrlichkeit immer am besten ist. Ich hab von seinen Worten damals nichts gehalten, aber sie führten mich auf den richtigen Weg, als es darauf ankam."</DefaultText>
+      <FemaleText>"Eine weise Wächterin hat mir einst erzählt, dass Ehrlichkeit immer am besten ist. Ich hab von ihren Worten damals nichts gehalten, aber sie führten mich auf den richtigen Weg, als es darauf ankam."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Der Wächter hat mich daran erinnert, dass du und ich, dass wir beide mehr als zwei Gehilfen auf einem Deck sind. Wir stehen uns so nah wie Blutsverwandte. Du bist der einzige, der für mich je so was wie ein Vater war. Wenn du aufbrichst, komme ich mit dir."</DefaultText>
+      <FemaleText>"Die Wächterin hat mich daran erinnert, dass du und ich, dass wir beide mehr als zwei Gehilfen auf einem Deck sind. Wir stehen uns so nah wie Blutsverwandte. Du bist der einzige, der für mich je so was wie ein Vater war. Wenn du aufbrichst, komme ich mit dir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Bei Magrans flammenden Zitzen, alter Mann, du klingst dreilagig durchnässt. Lass dein mitleidiges Gemurmel und beantworte die verfluchten Fragen des Wächter!"</DefaultText>
+      <FemaleText>"Bei Magrans flammenden Zitzen, alter Mann, du klingst dreilagig durchnässt. Lass dein mitleidiges Gemurmel und beantworte die verfluchten Fragen der Wächterin!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Bist du dir sicher, Kapitän Wächter? Was auch immer er getan hat, wenn du dich gegen meine Familie wendest, wendest du dich auch gegen mich." 
+
+Seine Hände bewegen sich zu seinen Waffen.</DefaultText>
+      <FemaleText>"Bist du dir sicher, Kapitän Wächterin? Was auch immer er getan hat, wenn du dich gegen meine Familie wendest, wendest du dich auch gegen mich." 
+
+Seine Hände bewegen sich zu seinen Waffen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Hände von den Waffen, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Das Gesetz des Meeres ist eindeutig – Meuterei bedeutet den Tod."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Ablassen] "Serafen hat dir gerade das Leben gerettet, Remaro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Wer von der Familie stiehlt, bleibt nicht Teil von ihr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Angreifen] "So sei es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Mit allem Respekt, Kapitän Wächter, mach einen langen Abgang von einer kurzen Planke."</DefaultText>
+      <FemaleText>"Mit allem Respekt, Kapitän Wächterin, mach einen langen Abgang von einer kurzen Planke."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Der blaue Orlaner zuckt zusammen, sein Blick gleitet zur Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ac. Und auch nicht zum ersten Mal. Für alles, was er mir seiner Aussage nach schuldet, schulde ich ihm ebenso etwas"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Serafens Augen weiten sich, dann lässt er die Lider sinken. Er nickt und sieht zu Remaro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Aye, Käpt'n. Anscheinend ist diese Nuss nicht weit vom Stamm gefallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Du hast seine Gründe gehört, Käpt'n, so deutlich wie ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Egal was er getan hat, ich kann da nicht mitmachen. Corès, Remaro. Ich werde mich so an dich erinnern, wie du warst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Corès, bon Aimico."
+
+Serafen wendet sich ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Wie hast du ...?"
+
+Remaro zwinkert und schüttelt dann den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Serafen blinzelt, sein Ausdruck ist leer. Sein Mund öffnet sich, schließt sich und öffnet sich wieder. 
+
+Sein Fell sträubt sich, seine Ohren sinken noch tiefer herunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Deine Reisen mit diesem [Player Race] haben dich verändert, Blauer. Das steht dir gut, bon Aimico."
+
+Er seufzt und schüttelt traurig den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ich kann nicht tun, worum du mich bittest, bon Aimico. Noch kann ich es &lt;i&gt;dir&lt;/i&gt; antun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Wut rauscht durch dein Blut, lässt deine Haut erröten und der kalte Hass schiebt sich durch deine Wirbelsäule, als die Verwirrung deine Sicht verschwimmen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>&lt;i&gt;Seine schwere Hand wirft dich der Länge nach unter tosendem Applaus in den Sand und du springst wieder auf, als der andere Sklavenjunge sich nähert – du fühlst seine Gedanken, ein Kitzeln tief in deinem Verstand, seine Furcht, größer noch als deine, aber was ändert es? Nur einer kann überleben. Du blendest alles außer der Wut und dem Hass aus, und dieses Empfinden reißt dich nach vorn. Du schnappst mit den Zähnen, greifst mit den Händen zu, die Schläge sind leicht, aber schnell, und der andere Junge schreit ...&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Sientere, bon Aimico, vergib mir."
+
+Remaro steht ein wenig unsicher da.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Dagegen ankämpfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Die Visionen kommen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Du verschließt deine Gedanken vor dem Ansturm von Serafens Emotionen. Sie treffen auf dich auf – und zerschellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Bist du ok, Serafen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Serafen schnaubt und schüttelt den Kopf. Feuchtigkeit verklebt das Fell unterhalb seiner Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Corès, Serafen, bon Aimico. Nimm dies. Und mögest du nur selten Grund haben, es zu benutzen."
+
+Er übergibt Serafen ein gut verpacktes Bündel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Ich hoffe, wir begegnen uns eines Tages wieder, in ruhigerer See."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

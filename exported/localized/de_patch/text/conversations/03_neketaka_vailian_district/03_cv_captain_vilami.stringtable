@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_captain_vilami</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>83</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Willkommen auf dem Bardatto-Anwesen. Pass bitte auf, wohin du trittst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Es war mir ein Vergnügen, mit dir zu arbeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hmpf. Du hast Nerven, hier aufzukreuzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Halt oder du bist tot!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Verräterischer Köter! Du wirst deinen Verrat mit Blut bezahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich nehme an, dass Ezzali dich in den Plan eingeweiht hat?" Die Sorgenfalten auf dem Gesicht der Wache sprechen von Jahren von Pflicht und Befehlen. Er mustert dich zurückhaltend, aber freundlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Warum die Valeras nicht einfach jetzt töten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wir können Atello keine Anklage gegen die Bardattos in die Hand geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Gellarde! Ich hatte meine Zweifel, aber Ezzalis Vertrauen in dich war berechtigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich werde mich gleich um den Schlamassel kümmern. Dein Dank und deine Beute erwarten dich oben." Hauptmann Vilami verbeugt sich knapp, aber respektvoll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Freier Zugang zum Gut bedeutet nicht, dass du mich ignorieren kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Du wirst in den Schatten der Schatzkammer warten. Wir folgen mit Verstärkungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Was ist denn überhaupt in dieser Schatzkammer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ich bin bereit. Fangen wir an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Weggehen] "Ich kümmere mich später darum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Entferne dich nicht zu weit. Und fasse nach Möglichkeit nichts an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ich habe nicht vor, heute Nacht gute Männer oder Frauen zu verlieren." 
+
+Er betrachtet dich und nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Selbst wenn wir es dem Valera-Abschaum zeigen, werde ich nicht das Vermögen eines Kunden aufs Spiel setzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Was tun wir, wenn die Diebe kommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Wir tun, was ganz natürlich ist." Er berührt den Knauf seines Schwerts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Meine Wachen werden außer Sicht bleiben und nach den Valeras Ausschau halten. Ihr solltet das gleiche tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Eine bescheidene Summe und einige Spinnweben. Das meiste Geld und die meisten Wertsachen haben wir umgelagert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Nur gut, dass sie so schlecht zielt wie sie plant." Vilami zuckt zusammen, als er auf seine Wunde drückt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Los, geh schon vor zu Ezzali. Sie wird wissen wollen, was passiert ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Wirst du es schaffen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Weggehen] "Das werde ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Du warst mir ja eine schöne Hilfe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Zisch ab und berichte Ezzali. Wir sind fertig." Vilami verzieht das Gesicht und sieht zu, wie du gehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ich habe schon Schlimmeres gesehen. Ich werde eine Chirurgen kommen lassen, der weiß, wie man billige Kugeln entfernt." Vilami zuckt erneut zusammen und entlässt dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Meine Geduld hat ihre Grenzen! Ich will jetzt sofort deine Befehle von Atello hören!" schreit Hauptmann Vilami heiser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Hauptmann, wir haben Gesellschaft!" Eine der Wachen von Vilami richtet die Aufmerksamkeit ganz auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Du? Madiccho, hast du von Anfang an für die Valeras spioniert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Wie kann es sich Atello überhaupt leisten, sich Hilfe von außerhalb zu holen?" Hauptmann Vilami sieht dich an und verzieht das Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Hauptmann. Schade, dass wir uns unter diesen Umständen wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Wie wäre es, wenn wir beide einfach unserer Wege gehen und vergessen, dass wir uns hier gesehen haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Geh zur Seite. Mich interessiert nur der Inhalt dieser Schatzkammer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Geh zur Seite, Hauptmann. Ich würde dich lieber nicht töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Ich bin sicher, dass wir uns vernünftig einigen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Welch ein Angebot. Was hältst du davon, wenn ich einfach ausweiche, bis es unvermeidlich zum Kampf kommt?" Die Hand der Diebin wandert zu ihrer Pistole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ich werde dafür sorgen, dass du mit dem Rest der Valera-Ratten krepierst!" Vilami geht zum Angriff über.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Belda, dafür werde ich deinen Kopf ausgestopft in die Eingangshalle hängen!"
+
+Vilami bedeutet seinen Wachen, dich anzugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Ich werde diese nach oben zerren, damit sie ihre Verbrechen beichten kann. Wenn ich dazu erst an dir vorbei muss, ist mir das auch recht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ich bin mir sicher, dass auch die Diebe die direkte Konfrontation gegenüber der Alternative vorziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ezzali will das sauber erledigt haben, ohne lose Enden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Werden Fallen für die Räuber eingebaut?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Normalerweise werden Fallen im Bereich rund um die Schatzkammer aufgestellt. Wir haben sie alle ins Innere verlegt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Du wirst uns dafür danken, wenn du danach noch alle Gliedmaßen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Gute Arbeit hier. Immerhin können wir mit heiler Haut davonhumpeln." Vilami winkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Wir gehen nicht alle so sorglos mit unserer Loyalität um wie du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Berichte an Ezzali."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"So eine Schande."
+
+Serafen kratzt sich mit einem Finger die Wange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Hauptmann Vilami schließt die Augen und atmet lange aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Kühne Worte. Steckt da auch was dahinter? Ich will nicht mit dir an meiner Seite in einen Kampf geraten und feststellen, dass alles nur Prahlerei war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Keine Prahlerei. Erfahrung." 
+
+Vilami schießt Pallegina einen Seitenblick zu und lächelt dünn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Wohin umgelagert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Außerhalb deiner Reichweite, meine Dame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Schlechte Angebote führen nie zu etwas Gutem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Per complanca, wir habe keine Zeit für diesen Blödsinn!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ich bin Fragen gegenüber offen, bis wir mit der Umsetzung des Plans beginnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Wenn er den Huana sagt, dass wir zuerst angegriffen haben, verbringen wir den Rest unserer Tage im Schlund."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Die Vernunft kam in dem Moment abhanden, als du dich eingemischt hast." Vilami deutet seinen Männern, anzugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Serafen, bitte nicht-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Das Einzige, was noch besser ist als so ein einfacher Plan, ist selbst die Nachhut zu bilden."
+
+Er zuckt mit seinen buschigen Augenbrauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Maia drückt ihren Nasenrücken.
+
+Kapitän Vilami tut es ihr gleich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Kannst du das näher erläutern?" Der Hauptmann streicht sich über das Kinn und blickt Serafen stirnrunzelnd an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Der Hauptmann der Wache bewegt sich gemächlich zur verriegelten Tür, wobei seine Rüstung mit jedem Schritt knarzt. 
+
+Er mustert dich langsam, während sich seine Finger lässig um den Knauf seines Schwertes legen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Haben Sie einen Termin, um die Schatzkammer zu besuchen, mein Herr?"</DefaultText>
+      <FemaleText>"Willkommen in der Bardatto-Schatzkammer. "Haben Sie einen Termin, um die Schatzkammer zu besuchen, mein Herr?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Di verus? Nur mal umsehen, ja? In der Schatzkammer, die den Reichtum der Bardattos enthält? 
+
+"Per complanca, geh nach oben, bevor ich die Kacheln meiner Fürstin beflecken muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ich seh mich nur mal um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Lügen] "Ich arbeite für Ezzali."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Eine Schatzkammer? Was ist denn da drin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Tut mir leid, ich muss mich verlaufen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Dann natürlich nur zu - NACHDEM sie einen Boten gesandt hat, der für dich bürgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Die Bardattos sind eine Bankiersfamilie, Mestre. Wir halten sehr viele Konten, die unseren Freunden bei der Vailianischen Handelsgesellschaft gehören. 
+
+"Außerdem bewahren wir die Wertsachen auf, die sie uns anvertrauen."</DefaultText>
+      <FemaleText>"Die Bardattos sind eine Bankiersfamilie, Mestra. Wir halten sehr viele Konten, die unseren Leuten bei der Vailianischen Handelsgesellschaft gehören. 
+
+"Außerdem bewahren wir die Wertsachen auf, die sie uns anvertrauen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Ac, so ist es. Oben wird man dich willkommener heißen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Sich nachts auf einem privaten Anwesen umzusehen, kann leicht zum Tod zu führen. 
+
+"Ich warne dich nur einmal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Hier ist der Zutritt verboten. Geh wieder dahin zurück, wo du herkamst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Diese Angelegenheit kannst du mit der Dame besprechen. Oben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Alarm! Dieb in der Schatzkammer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Der Hauptmann scheucht dich mit seinen Armen in Richtung Treppe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>[Angreifen] "Nein, aber du hast einen Termin mit Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Zu den Waffen! Wir werden angegriffen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

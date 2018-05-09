@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_11_bs_black_powder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Das riecht nach Zuhause, findest du nicht auch, Ishi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wo habe ich bloß Feuerstein und Schlagstahl hingelegt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Lassen diese Leute immer so viel Schwarzpulver herumliegen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Hat irgendjemand was dagegen, wenn ich rauche? Ich ... ich werde auch vorsichtig sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Di verus, sind die Rauataianer hier, um das Todesfeuer zu kolonisieren – oder um es in die Luft zu jagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ihr bleibt auf Kurs, Leute. Ich bleibe hier hinten. Werd mich doch nicht in winzigen Teilchen in die Luft jagen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Kommt mir das nur so vor oder ist das eine gewaltige Menge Schwarzpulver?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

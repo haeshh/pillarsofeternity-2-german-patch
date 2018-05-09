@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_vtc_faction_questline\fct_qst_vtc04_slavers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Gleichgesinnte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mit Kapitän Furrante der Príncipi in Stauholz reden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Dich mit Meister Kua auf Krummsporn treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kapitän Furrante helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Zum Direktor zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Meister Kua helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Insel Krummsporn untersuchen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Zum Direktor zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Direktor Castol verfügt über eine Kontaktperson unter den Príncipi, Kapitän Furrante, die offenbar in der Lage ist, vailianische Handelsinteressen auf der Insel Krummsporn voranzubringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Direktor Castol bat mich, nach Stauholz zu segeln und mich dort mit Kapitän Furrante zu treffen, um eine vertrauliche Angelegenheit zu besprechen. Offenbar überschneiden sich in diesem Fall die Interessen der Handelsgesellschaft mit denen der Príncipi.
+
+Kapitän Furrante hält sich in einem Zufluchtsort für Príncipi auf: Stauholz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Direktor Castol bat mich, zur Insel Krummsporn zu segeln und mich mit dem Anführer einer dortigen Sklaventreiberbande, Meister Kua zu treffen.
+
+Meister Kua versprach Ressourcen und Geld im Tausch gegen unsere Hilfe. Da komme ich offenbar ins Spiel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Kapitän Furrante will sich die Loyalität der Sklaventreiber in Krummsporn verdienen. Ihre Unterstützung zu bekommen würde Furrantes Position festigen und auf lange Sicht Direktor Castols Pläne für das Todesfeuer fördern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe die Angelegenheiten auf der Insel Krummsporn geregelt und der Direktor wird im Hauptquartier der Vailianischen Handelsgesellschaft auf meinen Bericht warten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Meister Kua möchte, dass ich mich um den wilden Wahaki-Stamm kümmere, eine Gruppe Huana, die sich auf der Insel Ori o Koīki verschanzt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Castols Angebot dreht sich um eine Gruppe, die die Insel Krummsporn kontrolliert. Es könnte sich lohnen, dass ich mich selbst dort etwas umsehe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Ich habe mich entschieden, Meister Kua nicht zu helfen. Castol wird nicht erfreut sein, aber vielleicht wird er meine Erklärung verstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Jetzt, wo Furrante tot ist, muss ich mich direkt mit demjenigen auseinandersetzen, mit dem er auf Krummsporn Geschäfte betrieben hat, wenn ich Castol noch helfen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Situation auf Krummsporn geregelt, das Vertrauen von Kapitän Furrante erlangt und somit seine Allianz mit Direktor Castol gefestigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe die Situation auf Krummsporn geregelt, und wurde für meine Mühen entlohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe mich entschieden, Meister Kua nicht zu helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Castol verfügt über eine wohlhabende Kontaktperson unter den Sklaventreibern von Krummsporn. Einige Probleme haben in jüngster Zeit zu niedrigeren Profiten geführt, und die Kontaktperson ist gewillt, die Vailianische Handelsgesellschaft mit Ressourcen und Geldern zu unterstützen, wenn ihr im Tausch dafür geholfen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_tsk_skeleton_crew</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Rumpfmannschaft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Heuere fünf Mannschaftsmitglieder für dein Schiff an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Defiant ist bereit, wieder in See zu stechen, ein Großteil ihrer Mannschaft wird nach dem Sturm jedoch vermisst oder ist tot. Ich muss weitere Seeleute anheuern, um die Gefahren auf offener See sicher meistern zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Fünf Besatzungsmitglieder sollten vorerst ausreichen, um die Defiant segeln zu können. 
+
+Ich finde Seeleute auf der Suche nach Arbeit, indem ich mit den Gastwirten in einer Hafenstadt spreche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Der &lt;b&gt;Hafen von Port Maje&lt;/b&gt; liegt &lt;b&gt;im Norden des Strandes&lt;/b&gt;, und ist praktisch, um Nachschub aufzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ein Besatzungsmitglied angeheuert, noch vier übrig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich sollte noch drei Seeleute rekrutieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe drei Seeleute gefunden und brauche noch zwei weitere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich brauche nur noch ein weiteres Besatzungsmitglied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe genügend Seeleute rekrutiert, um mein Schiff einigermaßen effizient segeln zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

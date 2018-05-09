@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_neketaka_palace_district\04_qst_crew_of_the_antelope</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die letzte Reise</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde den Friedhof der Schiffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Suche nach den Überresten der Antilope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Befreie die Gefangenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein sehr merkwürdiger Kapitän mit dem Namen &lt;b&gt;Lofell&lt;/b&gt;  behauptet, er sei weit im &lt;b&gt;Südosten von Neketaka&lt;/b&gt; auf eine schwere Bedrohung gestoßen. Eine Bedrohung, der die Mannschaft seines Schiffes zum Opfer gefallen ist, der &lt;b&gt;Antilope&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Lofell hat von einer Insel berichtet, die von Schiffswracks umgeben ist. Dies war offensichtlich die Quelle dessen, was sein Schiff angegriffen und ihm seine Mannschaft geraubt hat - was auch immer es war. 
+
+Er schien zu glauben, dass dies eine große Gefahr für alle Kapitäne wäre, die sich in der Region aufhalten, und eine tödliche Herausforderung für alle Unerfahrenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe die Insel gefunden, die Lofell beschrieben hat. Auf diesem Riff müssen mindestens hundert Schiffswracks liegen. 
+
+Vielleicht gibt es hier irgendein Anzeichen von Lofells Schiff oder von seiner Mannschaft ... Oder wenigstens von den Kreaturen, die ihn angegriffen haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe &lt;b&gt;Lofells Mannschaft&lt;/b&gt; gefunden – beziehungsweise was davon übrig ist, denn es gibt bloß zwei Überlebende. 
+
+Sie sind in einer mit Blut übersäten &lt;b&gt;Schenke&lt;/b&gt; gefesselt. Ohne meine Hilfe werden sie im Magen eines Guls enden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die letzten zwei Überlebenden der Mannschaft der Antilope getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe es geschafft, für die beiden verbleibenden Mitglieder von Lofells Mannschaft einen Weg freizuräumen. Sie haben mir versprochen, bei den Príncipi von Fort Todeslicht ein Loblied auf mich zu singen. Was auch immer mir dass an Vorteilen bringen kann ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Als ich zur Schenke zurückkehrte, war von den Gefangenen nichts mehr zu sehen. Als ich mir die runden Bäuche einiger der Guls hier so betrachtete, kam mir gleich die Befürchtung, dass ich zu spät gekommen war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Rannig hat unser Zusammentreffen nicht überlebt - aber seine Geschichte dafür sehr wohl. Ich habe die Insel gefunden, von der er gesprochen hatte. Vielleicht war am Ende doch etwas Wahres an all dem dran ...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

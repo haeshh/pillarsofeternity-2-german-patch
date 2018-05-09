@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_neketaka_temple_district\07_tsk_glimpse_beyond</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein flüchtiger Blick ins Jenseits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Flaune Elette&lt;b&gt; im &lt;b&gt;Turm der Seelenseher&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Beginne das Beseelungsexperiment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde einen Weg zurück ins &lt;b&gt;physische Reich&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Flaune&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Direktor Castol&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die &lt;b&gt;Beseeler&lt;/b&gt; bei der &lt;b&gt;Heiligen Treppe&lt;/b&gt; nutzen leuchtenden Adra in einer Vielzahl merkwürdiger Experimente. Sie benötigen Freiwillige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Direktor Castol hat mich darum gebeten, einer Gruppe Beseeler in Neketaka zur Hand zu gehen. Sie führen ihre Experimente auf dem &lt;b&gt;Turm der Seelensucher&lt;/b&gt; bei der Heiligen Treppe durch. &lt;b&gt;Flaune Elette&lt;/b&gt;, die Forschungsleiterin, erwartet mich dort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Flaune&lt;/b&gt; bat mich, beim &lt;b&gt;Turm der Seelensucher&lt;/b&gt; mit ihr zu sprechen, sobald ich bereit bin, das Experiment zu versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Etwas ist bei dem Experiment gehörig schiefgegangen. Ich bin irgendwo im &lt;b&gt;Zwischenreich&lt;/b&gt; gelandet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe es heil zurückgeschafft. &lt;b&gt;Flaune&lt;/b&gt; will bestimmt hören, was passiert ist. Ich bezweifle jedoch, dass sie so ein Ergebnis auch nur ansatzweise erwartet hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Während die Beseeler ihre Maschinen für weitere Experimente vorbereiten, kann ich mich für mehr Arbeit bei &lt;b&gt;Direktor Castol&lt;/b&gt; melden.
+
+Ich finde ihn im &lt;b&gt;Hauptquartier der Vailianischen Handelsgesellschaft&lt;/b&gt; am Ankerplatz der Königin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Flaune&lt;/b&gt; behauptet, ihre Forschergruppe hätte einen Weg gefunden, meine Fähigkeit, durch das &lt;b&gt;Zwischenreich&lt;/b&gt; zu reisen, zu nutzen, um mich ... nun, von einer Adra-Säule zu einer anderen zu senden. Sie möchte, dass ich an ihren Experimenten teilnehme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Scheint so, als wäre ich in &lt;b&gt;Rymrgands Reich&lt;/b&gt; gefangen – worüber sich die &lt;b&gt;Bestie des Winters&lt;/b&gt; hämisch freut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Von diesem Ort gibt es keinen offensichtlichen Ausweg. Ich muss wohl &lt;b&gt;Rymrgand&lt;/b&gt; davon überzeugen, mich gehen zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für den Abschluss dieser Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Das Experiment der Beseeler ist überhaupt nicht nach Plan gelaufen, aber wenigstens bin ich in einem Stück aus der Sache herausgekommen. Flaune entschuldigte sich vielmals und gab mir Schmerzensgeld – wohl auch in der Hoffnung, dass ich nochmal das Versuchskaninchen für sie spielen werde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Das Experiment der Beseeler ist überhaupt nicht nach Plan gelaufen, aber wenigstens bin ich in einem Stück aus der Sache herausgekommen. Nicht gerade der beste Start für Castols Träume vom wissenschaftlichen Fortschritt, aber er schien an den Ergebnissen interessiert und entlohnte mich für meine Mühen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

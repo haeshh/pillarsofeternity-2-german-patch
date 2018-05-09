@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_magran_boasting_contest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Du hast also diese Schiffe verschlingende Bestie besiegt, ganz allein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich sage dir doch, du musst einfach nur auf die Augen zielen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Er ist kein Krieger – sondern ein Spaßvogel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Das kann nicht sein Ernst sein!"</DefaultText>
+      <FemaleText>"Das kann nicht ihr Ernst sein!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

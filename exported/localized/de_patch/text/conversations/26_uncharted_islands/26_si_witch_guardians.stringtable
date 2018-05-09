@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_witch_guardians</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du stapfst durch ein dunkles, kaltes Moor. Das Wasser um dich herum wird immer tiefer, je weiter du in das Moor eindringst. Unter deinen Stiefeln sind Schlamm und glitschiger Matsch. Der Pfad nach vorne wirkt noch trügerischer als der Pfad zurück, doch jetzt bist du schon einmal so weit gekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Deinen Weg durch das Moor fortsetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du kämpfst dich weiter voran. Tiefe, wassergefüllte Gruben und Schlamm, der dich einzusaugen droht, bedecken den Boden überall, wohin du auch schaust. Doch mit großer Vorsicht gelingt es dir, all das zu vermeiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du stapfst weiter durch das Moor. Deine Aufmerksamkeit ist kurz abgelenkt, und da ist es auch schon passiert - du trittst auf einen Flecken schwankenden Bodens und sinkst tiefer ins Wasser hinein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du stapfst weiter durch das Moor. [SkillCheck 0]s Aufmerksamkeit ist kurz abgelenkt, und da ist es auch schon passiert - [SkillCheck 0] tritt auf einen Flecken schwankenden Bodens und sinkt tiefer ins Wasser hinein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du tauchst deine Arme in das schlammige Wasser und ziehst [Specified 0] zurück an die Oberfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du tauchst deine Arme in das schlammige Wasser, aber kannst [Specified 0] zwischen den verfaulenden Pflanzen und Baumwurzeln nicht finden.
+
+Einige angespannte Momente vergehen, dann steigt ein Schwall von Luftblasen an die Oberfläche. [Specified 0] durchbricht prustend und nach Luft schnappend die Wasseroberfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du kämpfst dir deinen Weg zurück an die Oberfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Egal was du versuchst, du schaffst es einfach nicht, zur Oberfläche zu gelangen und beginnst stattdessen noch tiefer in das Wasser zu sinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Als das schwache Licht der Oberfläche verschwindet, greift [Skillcheck 0] nach unten und zieht dich aus dem Wasser.
+
+Auch wenn du überlebst, lässt dich dieser Vorfall erschöpft zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Deine Lungen brennen und dir wird schwarz vor Augen. Mit dem Mut der Verzweiflung sammelst du deine letzten verbliebenen Kräfte und schießt zur Oberfläche hoch.
+
+Du ziehst dich auf festes Land und hustet eklig schmeckendes Moorwasser hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Mit Hilfe schafft es [Specified 0], sich auf trockenes Land zu rollen, wo [Specified 0] Moorwasser aushustet. Dank deines schnellen Zugreifens ist nichts weiter passiert, außer ein paar durchnässten Kleidern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Das Moor liegt still da. Es riecht nach Verfall und im abgestandenen Wasser haben sich über mehrere Jahrzehnte hinweg unzählige tote Pflanzen und Tiere angesammelt.
+
+Ein dichter Nebel breitet sich auf dem Wasser aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Weitergehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Mehrere vermummte Gestandene tauchen still aus dem Nebel auf, eine Herde von Moorlauerern direkt hinter ihnen. Ein großer männlicher Aumauaner an der Spitze der Gruppe zieht sein Schwert und richtet es auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Warum sollte ich auf dich hören?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Der Aumauaner sagt nichts mehr. Er hält sein Schwert weiterhin gezückt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Als du gerade denkst, dass du den Moorwächter hinter dir gelassen hast, erscheint er wieder, mit seiner Herde Moorlauerer im Schlepptau.
+
+Selbst wenn du Zeit zum Weglaufen hättest, macht der Sumpf ein Entkommen unmöglich. Sie greifen sofort an, ohne auch nur den Versuch zu unternehmen, mit dir zu reden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Du bist hier nicht willkommen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du ziehst [Specified 0] aus dem Wasser. Gemeinsam lässt ihr euch auf trockenes Land fallen. [Specified 0] hustet eimerweise Moorwasser hoch und liegt stöhnend am Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Wenn dir dein Leben lieb ist, verlässt du diesen Ort und kehrst nie mehr zurück." Er starrt dich finster an, als würde er nur darauf warten, dass du ihn herausforderst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich bin der Wächter dieses Ortes und ich werde es dir nicht erlauben, ihn mit deiner Anwesenheit zu entweihen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"So ... kommst du oft hierher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich bin nur auf der Durchreise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Weggehen.] "Das Moor gehört dir, Kumpel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[[Specified 0] aus dem Wasser ziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Specified 1] versucht, [Specified 0] zu helfen, aber fällt dabei bloß fast selbst ins Wasser.
+
+Einige angespannte Momente vergehen, dann steigt ein Schwall von Luftblasen an die Oberfläche. [Specified 0] durchbricht prustend und nach Luft schnappend die Wasseroberfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[[Specified 0] sich selbst überlassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 1] greift in das Wasser und zieht [Specified 0] zurück an die Oberfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 0] schafft es auch ohne Hilfe zurück an die Oberfläche, rollt sich auf trockenes Land und hustet eimerweise Wasser aus.
+
+[Specified 0] sieht dich durch zusammengekniffene Augen an, sagt aber nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Einige Momente vergehen und dann ist das Zappeln im Wasser vorbei. Der Sumpf hat sich [Specified 0] geholt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Du kämpfst dich weiter voran. Tiefe, wassergefüllte Gruben und Schlamm, der dich einzusaugen droht, bedecken den Boden überall, wohin du auch schaust, doch [Specified 0] führt euch sicher durch den Dreck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[[Specified 0] sich selbst überlassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Der Aumauaner sagt nichts mehr. Er hält sein Schwert weiterhin gezückt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Der Mann  starrt dich eine Weile an, bevor er spricht, seine Augenbrauen kräuseln sich. Dann knurrt er, mehr aus Verdruss als aus Zorn, und verschränkt die Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Dann weiten sich seine Augen und er weicht überrascht zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Nimm das, und sag dem Fürst der Jagd, dass es mir leidtut. Ich wollte niemanden beleidigen." Er zieht einen kleinen, abgenutzten Beutel von seinem Gürtel ab und gibt ihn dir ehrfürchtig in die Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Du bist einer von Galawain Berührter! Vergib mir, bitte – das wusste ich nicht. Natürlich kannst du durch diesen Sumpf reisen wie es dir beliebt, Gesegneter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Du kannst passieren, aber verweile nicht. Wenn wir uns noch einmal begegnen sollten, wird es keinen Austausch netter Worte geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

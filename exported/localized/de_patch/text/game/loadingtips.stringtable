@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\loadingtips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Reflexe sind eine der vier Verteidigungen (die anderen sind Abwehr, Tapferkeit und Wille). Sie wehren die meisten Flächenangriffe ab, die Schaden verursachen oder Charaktere ergreifen, wie Feuerball, Chaosfuß und Drachenatem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reflexe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Genauigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Genauigkeit ist der Wert, der bestimmt, ob ein Angriff trifft – ungeachtet der Angriffsart. Genauigkeit wird von einer der vier Verteidigungen des Ziels (Abwehr, Tapferkeit, Reflexe oder Wille) gekontert. Je höher die Genauigkeit im Vergleich zur Verteidigung des Ziels ist, desto höher ist die Trefferwahrscheinlichkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Abwehr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Abwehr ist eine der vier Verteidigungen (die anderen sind Tapferkeit, Reflexe und Wille). Sie kontert die meisten Nah- und Fernkampfwaffenangriffe sowie viele Zaubersprüche, die mit waffenähnlichen Angriffen direkt auf ein Ziel wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ermächtigung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Alle Gruppenmitglieder können einmal pro Begegnung jeweils eine Fähigkeit ermächtigen oder ihre verbrauchten Ressourcen wiederaufladen. Eine ermächtigte Fähigkeit wird so gewirkt, als wäre der Wirkende 10 Stufen höher. Ein ermächtigter Charakter erhält die Hälfte all seiner Ressourcen pro Begegnung zurück. Charaktere können nur eine bestimmte Anzahl von Ermächtigungen pro Ruhephase verwenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Tapferkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Tapferkeit ist eine der vier Verteidigungen (die anderen sind Abwehr, Reflexe und Wille). Sie kontert Angriffe, die auf die physische Widerstandsfähigkeit des Charakters abzielen, wie etwa Niederschlag, Giftige Explosion oder die meisten Gifte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Verletzungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Wenn ein Gruppenmitglied im Kampf bewusstlos geschlagen wird oder in vorgegebenen Interaktionen ein Missgeschick erleidet, wird es verletzt. Verletzungen können eine Reihe von negativen Auswirkungen haben und sogar tödlich sein, falls ein Charakter mehr als drei davon erleidet. Während einer Rast zu essen entfernt alle Verletzungen eines Charakters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Durchschlagskraft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die meisten Angriffe, die Schaden zufügen, haben einen Durchschlagskraftwert. Wenn die Durchschlagskraft des Angriffs unter dem Rüstungswert des Ziels für die jeweilige Schadensart liegt, wird der Angriff viel weniger Schaden verursachen. Wenn die Durchschlagskraft des Angriffs mindestens doppelt so hoch ist wie der Rüstungswert des Ziels, erhält er einen Schadensbonus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sicherer Umkreis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Der Wirkungsradius vieler Zauber kann durch Intelligenz und magische Gegenstände erweitert werden. Diese erweiterte Wirkung wird durch einen zweiten, größeren Zielkreis dargestellt. Charaktere, die sich in diesem erweiterten Wirkungsradius befinden, sind vor Angriffen des Verbündeten sicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Wille</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Wille ist eine der vier Verteidigungen (die anderen sind Abwehr, Tapferkeit und Reflexe). Er kontert die meisten mentalen Angriffe, wie Stopp, Betrügerisches Geflüster oder den Bezaubernden Blick eines Fampirs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Rüstung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Wähle deine Rüstungen anhand der Rollen deiner Charaktere. Die meisten Charaktere in den vorderen Reihen schlagen sich in mittelstarken oder schweren Rüstungen am besten. Selbst Mönche und Schurken können von etwas mehr Schutz profitieren!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Kraftstufe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Alle aktiven Fähigkeiten werden wirkungsvoller – Zahl der Geschosse, Schaden, Dauer, Durchschlagskraft – wenn die Kraftstufe eines Charakters steigt. Das kann auch Fähigkeiten mit niedriger Stufe wirkungsvoll sein lassen, wenn Charaktere sich steigern.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

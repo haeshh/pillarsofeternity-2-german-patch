@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\ghost_ship_encounter\re_si_ghost_ship_resolution</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Nachdem die letzten Untoten erlegt sind, kannst du dir jetzt den Fliegenden Henker nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Am Steuer des Fliegenden Henkers stehend signalisierst du deinem Bootsmann, in See zu stechen. Der Wind pfeift durch die zerfetzten Segel. Verrottetes Holz stöhnt als das Schiff an Tempo zulegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Besatzung! &lt;link="neutralvalue://Vailian: Holt mir den Seelenverschlinger!&gt; Derme o Engoliero do Espirs!&lt;/link&gt; Nehmt das Schwert – und spießt die Lebenden auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Am Steuer des Fliegenden Henkers stehend signalisierst du deinem Bootsmann, in See zu stechen. Der Wind pfeift durch die zerfetzten Segel. Verrottetes Holz stöhnt als das Schiff an Tempo zulegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Rivan hebt grüßend ihre Skelettfaust, als ihr Schiff vorbeigleitet. Sie hat ihren Kurs in die entgegengesetzte Richtung gesetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

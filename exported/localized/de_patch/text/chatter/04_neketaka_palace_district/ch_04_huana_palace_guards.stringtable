@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>chatter\04_neketaka_palace_district\ch_04_huana_palace_guards</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Du solltest der Königin für ihre Gastfreundschaft dankbar sein, Wächter."</DefaultText>
+      <FemaleText>"Du solltest der Königin für ihre Gastfreundschaft dankbar sein, Wächterin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"In der letzten Zeit treten sich die Gesandten im Palast gegenseitig auf die Füße."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich habe gehört, Tangaloa soll durch dich sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Du bist hier sicher - solange du keine Schwierigkeiten machst."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

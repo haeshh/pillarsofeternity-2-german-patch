@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_huana_faction_questline\fct_qst_01_black_market</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Geschäftsgeheimnisse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Mache die &lt;b&gt;Graberstraße&lt;/b&gt; ausfindig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Erreiche das &lt;b&gt;Gewölbe&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Erstatte dem &lt;b&gt;Prinzen Aruihi&lt;/b&gt; Bericht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Begib dich zum &lt;b&gt;Schlund&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Untersuche die &lt;b&gt;Graberstraße&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Prinz Aruihi&lt;/b&gt; hat Beweise für einen Schwarzmarkt gefunden, der sich im Roparu-Bezirk, der besser unter dem Namen &lt;b&gt;Schlund&lt;/b&gt; bekannt ist, befinden soll. Er möchte wissen, wie er Nachschub erhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Jemand im &lt;b&gt;Schlund&lt;/b&gt; muss einfach einen Weg in die &lt;b&gt;Graberstraße&lt;/b&gt; kennen. Das Medaillon des Prinzen herumzuzeigen erregt möglicherweise die Aufmerksamkeit eines potentiellen Käufers auf dem Schwarzmarkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Das &lt;b&gt;Gewölbe&lt;/b&gt; ist die Quelle der Konterbande in der &lt;b&gt;Graberstraße&lt;/b&gt;. Wenn ich in diesen bewachten Abgrund begebe, könnte ich mehr darüber in Erfahrung bringen, wie die Schwarzmarktgüter in die Stadt transportiert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Es scheint so, als hätten die Roparu eine Absprache mit einer Gruppe Piraten getroffen. Die Schwarzmarktgüter werden durch eine kleine Bucht im Gewölbe nach Neketaka transportiert. Doch das ist noch nicht alles – Die Schiffe werden mit Hilfe des Wasserformens geführt.
+
+Das ist etwas, das der Prinz sicher hören möchte. Er wartet im &lt;b&gt;Thronsaal des Palastes&lt;/b&gt; in &lt;b&gt;Schlangenkrone&lt;/b&gt; auf mich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Meine Ermittlungen beginnen im &lt;b&gt;Schlund&lt;/b&gt;, der &lt;b&gt;südöstlich von Perikis Aussichtspunkt&lt;/b&gt; liegt. Dort kann ich vielleicht Beweise für die &lt;b&gt;Graberstraße&lt;/b&gt;, den geheimnisumwoben Umschlagplatz des Schwarzmarktes, finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Ich habe die &lt;b&gt;Graberstraße&lt;/b&gt; ausfindig gemacht, aber ich weiß noch nicht, wie der Schwarzmarkt versorgt wird. Ein paar Händlern des Prinzen Medaillon zu zeigen führt mich vielleicht zu weiteren Informationen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Tekēhu&lt;/b&gt; wurde getötet. Ich bezweifle, dass &lt;b&gt;Prinz Aruihi&lt;/b&gt; das gut aufnehmen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe &lt;b&gt;Tekēhu&lt;/b&gt; zurückgelassen. Ich kann dieses Problem alleine aus der Welt schaffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe Zugang zur &lt;b&gt;Graberstraße&lt;/b&gt; erlangt. Er ist in der &lt;b&gt;Enge&lt;/b&gt; im Schlund, versteckt hinter einer Händlerbude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;Dereo der Magere&lt;/b&gt; hat allem Anschein nach in der &lt;b&gt;Graberstraße&lt;/b&gt; das Sagen. Ihm näherzukommen könnte mir dabei helfen, zu verstehen, wie der Schwarzmarkt funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Dereo hat mir erlaubt, das &lt;b&gt;Gewölbe&lt;/b&gt; per Aufzug in der &lt;b&gt;Graberstraße&lt;/b&gt; zu betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Während ich die Seele eines toten Roparu im &lt;b&gt;Schlund&lt;/b&gt; las, erhaschte ich einen Blick auf einen unterirdischen Hafen unter der Stadt. Das war bestimmt das &lt;b&gt;Gewölbe&lt;/b&gt;, in welches er durch einen Aufzug in der &lt;b&gt;Graberstraße&lt;/b&gt; gelangt war. Die Graberstraße selbst kann man durch eine Geheimtür, die sich hinter einer leeren Händlerbude in der &lt;b&gt;Enge&lt;/b&gt; befindet, erreichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe Ernezzo davon überzeugt, mich in die richtige Richtung zu weisen. &lt;b&gt;Dereo der Magere&lt;/b&gt; ist in der &lt;b&gt;Graberstraße&lt;/b&gt; der Obermacker, und Ernezzo hat sich dazu bereiterklärt, mich vorzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich bin in der &lt;b&gt;Graberstraße&lt;/b&gt; auf ein paar Schlägertypen getroffen, die einen Aufzug bewachten. Das könnte ein Weg in das &lt;b&gt;Gewölbe&lt;/b&gt; sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Zu &lt;b&gt;Dereos&lt;/b&gt; Versteck kommt man, wenn man die &lt;b&gt;Graberstraße&lt;/b&gt; verlässt, gleich rechts geht, dann links und nochmal links.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich habe mir sagen lassen, dass ein Geheimgang in der &lt;b&gt;Altstadt&lt;/b&gt; zu einer Tempelruine führt. In diesem Tempel gibt es eine Hintertür zum &lt;b&gt;Gewölbe&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich konnte in Erfahrung bringen, dass die &lt;b&gt;Graberstraße&lt;/b&gt; irgendwo in der &lt;b&gt;Enge&lt;/b&gt; ist – ein Tunnelsystem im Westen &lt;b&gt;des Schlunds&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Ein Händler namens &lt;b&gt;Ernezzo&lt;/b&gt; kümmert sich in der &lt;b&gt;Graberstraße&lt;/b&gt; um die teureren Waren. Er hat vielleicht Interesse an dem Medaillon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>&lt;b&gt;Ernezzo&lt;/b&gt; kümmert sich vor seinem Tod um die teureren Waren. Jemand, der unter dem Namen &lt;b&gt;Dereo bekannt ist, klingt wie der Mann, mit dem man sprechen sollte. Allerdings müsste ich mir dafür in der Unterwelt &lt;b&gt;Neketakas&lt;/b&gt; erstmal einen Namen machen, um seine Aufmerksamkeit zu erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Der Prinz schlug vor, dass ich Tekēhu, ein Mitglied der Wasserformerzunft in Perikis Aussichtspunkt rekrutieren solle. Tekēhu hat seine eigenen Vermutungen und könnte sich als nützlich erweisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Der Prinz schlug vor, dass ich &lt;b&gt;Tekēhu&lt;/b&gt; mitnehmen solle. Er könnte wertvolle Einblicke für meine Suche nach dem Schwarzmarkt bieten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Um die &lt;b&gt;Graberstraße&lt;/b&gt; zu finden, muss ich die &lt;b&gt;Enge&lt;/b&gt; betreten, rechts gehen und dann geradeaus, bis ich die Händlerbude sehe. Der Eingang zu &lt;b&gt;Graberstraße&lt;/b&gt; ist durch die Bude verdeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>&lt;b&gt;Dereo&lt;/b&gt; kann mich zum &lt;b&gt;Gewölbe&lt;/b&gt; bringen, aber ich muss ihn erst einen Gefallen tun. Er will das &lt;b&gt;Horn der Wellen&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>&lt;b&gt;Enoi&lt;/b&gt; erzählte mir, dass jemand im &lt;b&gt;Loch&lt;/b&gt; im &lt;b&gt;Schlund&lt;/b&gt; vielleicht wissen könnte, wie ich zur &lt;b&gt;Graberstraße&lt;/b&gt; gelangen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>&lt;b&gt;Tekēhu&lt;/b&gt; hat sich mir angeschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>&lt;b&gt;Ernezzo&lt;/b&gt; starb, bevor ich irgendetwas Nützlich aus ihm herausbekommen konnte. Ich muss mich wohl nach einer anderen Quelle umsehen, um herauszufinden, wie der Schwarzmarkt mit Waren versorgt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Nachdem ich mehrere Mitglieder der Wasserformerzunft umgebracht habe, will Prinz Aruihi nichts mehr mit mir zu tun haben. Er drohte mir damit, mich ins Exil und Gefängnis zu werfen, sollte ich wiederkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe den Prinzen angelogen und ihm weisgemacht, dass die Graberstraße nicht existierte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe dem Prinzen von dem Schmuggel im Gewölbe erzählt. Die Graberstraße wird über kurz oder lang dichtgemacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe dem Prinzen von dem Schmuggel im Gewölbe erzählt, doch gleichzeitig davon überzeugt, dass es besser wäre, die Graberstraße fürs Erste in Ruhe zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich habe dem Prinzen berichtet, wie ich die Príncipi-Schmuggler massakriert habe. Meine Initiative hat ihn verblüfft, aber nicht völlig enttäuscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

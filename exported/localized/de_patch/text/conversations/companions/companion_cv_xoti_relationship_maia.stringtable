@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_xoti_relationship_maia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>222</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Was schreibst du alles in deine Berichte, Maia? Hast du den Wächter ausführlich beschrieben? Was ist mit mir?</DefaultText>
+      <FemaleText>"Was schreibst du alles in deine Berichte, Maia? Hast du die Wächterin ausführlich beschrieben? Was ist mit mir?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich habe der Gesellschaft vielleicht ein oder zwei Einzelheiten von dir erzählt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Echt jetzt? Hältst du mich in deinen politischen Papieren für erwähnenswert? He, vielleicht werde ich meinen Tempel doch noch stolz machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Also bist du... geschmeichelt? Interessant. Schätze, ich schreibe das im nächsten Bericht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ishis Mist bekommt man schwerer aus Leder heraus als Teer! Es ist schon das zweite Mal, dass er meine Stiefel erwischt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Es ist eine Phase. Er will sich nur bei dir einschmeicheln, Glühwürmchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Na ja, ich habe ihm ein paar zusätzliche Samen geschmuggelt..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Kannst du steuern, auf wen er kackt? Mir fällt da nämlich jemand ein..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Das klingt wie eine gute Geschichte. Erzähl. Mir. Alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ishi hüpft immer in deine Richtung, Glühwürmchen. Womit hast du ihn nur gefüttert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Nicht mehr als eine Handvoll... oder einige ... Düsterbeeren. Ich schwöre es.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Wie viel von Eora hast du eigentlich bereist? Welche Länder - nein, warte - was war das Eigenartigste, was du je gesehen hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich fand eine Insel mit einer Adrasäule, die zu einem riesigen Fuß gemeißelt war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Gaun, das ist ja spannend! Du bist so weitgereist, das ist ja fabelhaft. Aber vermisst du niemals dein Zuhause? Was ist mit deinen Nahestehenden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Mit Ausnahme meiner Familie ist jeder, der mir etwas bedeutet, schon hier, Glühwürmchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Also, das ist... Siehst du, ich... Ich meine, das Gleiche gilt für mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Erzähl mir etwas, das du auf dem Bauernhof gelernt hast, Xoti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Getrockneter Mist ist gut, um ein Feuer anzuzünden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Hm... Also das war informationsreich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"...also hielten uns die Piraten für Händler und tappten genau in unsere Falle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Das klingt gefährlich... und höllisch lustig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Das erste Mal, als Onkel Angbert mich mit der Laterne ausbildete, setzte ich eine ganze Reihe von Dunkelbeerstäuchern in Flammen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Nicht wahr!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Doch. Das ganze Haus rannte herbei und schrie. Du hättest meine Großmutter sehen sollen, wie sie mit einer Schaufel auf die Sträucher eingeschlagen hat. Selbstverständlich war sie danach hinter mir her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"In Rauatai wächst nicht viel. Mit etwas Glück kann ich eines Tages selbst eine Geschichte vom Bauernhof erzählen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich glaube es nicht. Ein Kupferstück, aus 400 Metern Entfernung? Du veralberst mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Es ist einfach, ich zeig es dir. Halte das hier hoch in die Luft und stehe still."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Es ist nicht, dass ich kein Vertrauen habe, aber vielleicht sollte stattdessen Pallegina den Platz übernehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Sobald dieser Einsatz vorüber ist, kaufe ich mir mein eigenes Schiff. Irgendwas Kleines und Flinkes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Oh. Das heißt wohl, dass du fortreisen willst... auf Abenteuerreise die Weltmeere befahren, und das ganz allein...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Und dann hast du dich direkt in mein Gesicht erbrochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ähem... das tut mir leid! War es voller Stücke oder cremig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich denke, dass es ein Hackbraten war, also... klobig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Für ein Mädchen auf von einem Bauernhof hast du schon recht farbenfrohe Albträume, Xoti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Wächter, ich wollte dir über Maia eine Frage stellen - wenn es dir nichts ausmacht."</DefaultText>
+      <FemaleText>"Wächterin, ich wollte dir über Maia eine Frage stellen - wenn es dir nichts ausmacht."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Was ist mir ihr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Vielleicht später."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Götter, wo soll ich nur anfangen? Also, für's Erste denke ich, dass wir uns glänzend verstehen. Zu glänzend."
+
+Sie wühlt mit der Hand durch die Haare und zersaust sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"In Ordnung. Ich werde mich bemühen, das selber hinzubiegen und dir sagen, wie es klappt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Es ist eine seltsame Sache. Aber manchmal, wenn sie in der Nähe ist... springt mein Herz wie verwundet aus meiner Brust. Und mein Magen verdreht sich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Besonders, wenn sie jemanden tötet oder lacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Mir scheint, dass du dich verknallt hast ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Wie denkt Maia über dich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Nein, nein. Das kann nicht stimmen. Sie ist keine..." Sie verzieht das Gesicht, als sie es ernsthaft in Erwägung zieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Geistliche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ich weiß nicht ganz. Soll ich sie fragen? Ich denke, dass ich sie vielleicht fragen soll. Aber nein -"
+
+Sie schüttelt entschlossen den Kopf-</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ist das alles, was du mir sagen wolltest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ja, ich schätze, das wäre alles. Danke, dass du mir zugehört hast."
+
+Mit zusammengekniffenen Augen kaut Xoti an ihrer Lippe, als ob sie sich davon abhalten will, mehr zu sagen - vielleicht etwas, das sie bereuen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ist das wirklich ein Problem für dich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Dann setze der Beziehung jetzt sofort ein Ende, bevor jemand verletzt wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Meine Hohepriesterin würde sagen, dass es vorherbestimmt ist. Aber nein, für mich... ist es nicht so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Aber was tu ich jetzt? Wie gehe ich an die Sache ran? Konkret gesagt."
+
+Xoti senkt ihre besorgten Mundwinkel und neigt den Kopf zur Seite, als ob sie darauf wartet, dass du ihr genau die Antwort gibst, die sie will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Wenn du mich jetzt entschuldigst, werde ich dich nicht wieder damit nerven."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Das würde es ziemlich komisch zwischen uns machen. Meinst du nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Wenn du nie fragst, dann wirst du es nie herausfinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Du hast mir viel zum Nachdenken gegeben. Ich... werde es mir überlegen. Und ich danke dir für den Ratschlag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Sag ihr freiheraus, dass du eine romantische Beziehung mit ihr willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Gib ihr Hinweise auf dein Interesse. Schau, ob sie positiv reagiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Beeindrucke sie. Überschütte sie mit Geschenken und Komplimenten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Den Stier bei den Hörnern packen. Sozusagen. Das gefällt mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Den Köder setzen, ohne sie abzuschrecken. Es könnte vielleicht mehr Raffinesse fordern, als ich habe, aber es ist eine solide Strategie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Sie ist normalerweise diejenige, die mir Schmuckstücke gibt. Ich denke, du hast da etwas verstanden - vielleicht will sie zur Abwechslung ein Geschenk vor dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Wünsch mir Glück, Wächter. Ich bin mir nämlich sicher, dass ich es brauchen werde. Sie verkneift ein Grinsen.</DefaultText>
+      <FemaleText>"Wünsch mir Glück, Wächterin. Ich bin mir nämlich sicher, dass ich es brauchen werde. Sie verkneift ein Grinsen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Hey, Kapitän. Ich habe da... na ja, &lt;i&gt;etwas&lt;/i&gt; auf dem Herzen. Ich könnte eine zweite Meinung gebrauchen, das ist alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Wo liegt denn das Problem, Maia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Meuterei? Gibt es eine Meuterei?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Du hast wahrscheinlich bemerkt, dass ich mich wunderbar mit Xoti verstehe." Maia legt die Hand auf die Hüfte und hebt eine Augenbraue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Nein! Ich meine, noch nicht... Ich meine, nie und nimmer!" Maia schüttelt verblüfft den Kopf und fängt nochmal von vorne an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Sie ist gefährlich, und das begeistert dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Was meinst du, Wächter? Die Tatsache, dass sie eine Scharfschützin ist? Oder dass sie so weitgereist ist und soviel über die Welt weiß?"</DefaultText>
+      <FemaleText>"Was meinst du, Wächterin? Die Tatsache, dass sie eine Scharfschützin ist? Oder dass sie so weitgereist ist und soviel über die Welt weiß?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Wenn sie es müsste, dann würde sie es auch tun, denke ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Bleib weg von ihr. Es ist zu deinem eigenen Besten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Du denkst nicht, dass sie mich verletzen würde, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ich denke, sie hat dich gerne... so sehr sie kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Maia sieht dich wahrscheinlich als gute Freundin - und nicht weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"G-genau. Natürlich. Ich wollte nicht - Ich meine, selbstverständlich, ich weiß, dass wir Freunde sind. Nur Freunde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Weißt du das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Gütiger Gaun, nein! Und wenn du das tust, warum hast du sie mit uns mitkommen lassen? Sicherlich musst du ihr vertrauen, soviel wie ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Maia gibt es vielleicht nicht zu, aber sie liebt ihre Familie, und Ishiza auch. Sie ist nicht gefühllos, weißt du."
+
+Sie zieht bestürzt die Augenbrauen zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Xoti schüttelt den Kopf und leckt ihre Unterlippe. Offenbar reicht es ihr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Wer würde nicht tun, was er muss, wenn er dazu gezwungen wäre? Aber eines sage ich dir - sie würde mich nicht verletzen MÜSSEN. Ich lass mich gerne verwunden, um jeden von uns zu beschützen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Außer vielleicht Pallegina." Sie zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Mit halbgeöffneten Augen nagt sie an ihrer Unterlippe und nickt langsam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Nicht nur, dass sie keine Gaunitin ist, aber - na ja, sie achtet gar keinen Gott hoch, außer dass sie einen gesunden Respekt vor Ondra hegt. Wir wären ganz bestimmt ein schlechtes Pärchen."
+
+Aber bei der Erwähnung der beiden als Pärchen gibt Xoti ein schiefes Grinsen und einen verträumten Ausdruck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Für Maia kann ich darüber hinweg schauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Schritt eins - aufhören, so ein Feigling zu sein. Na gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Was meinst du, Wächter? Denkst du, dass sie gefühllos ist? Weil sie so gleichmütig ist? Oder ist es die Tatsache, dass sie eine professionelle Mörderin ist?"</DefaultText>
+      <FemaleText>"Was meinst du, Wächterin? Denkst du, dass sie gefühllos ist? Weil sie so gleichmütig ist? Oder ist es die Tatsache, dass sie eine professionelle Mörderin ist?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Vielleicht ist es nicht zu spät." Sie schnaubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Zeig ihr deine -"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Wächter, wenn das nächste Wort aus deinem Mund 'Liebreize' ist, dann zeige ich dir gleich meine rechte Faust."
+
+Trotz der Drohung trägt Xoti ein gutmütiges Grinsen.</DefaultText>
+      <FemaleText>"Wächterin, wenn das nächste Wort aus deinem Mund 'Liebreize' ist, dann zeige ich dir gleich meine rechte Faust."
+
+Trotz der Drohung trägt Xoti ein gutmütiges Grinsen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Was meinst du, Wächter? Denkst du, dass sie gefühllos ist? Weil sie auf vielen Schiffen gedient hat? Weil sie schon viele Leute hinter sich gelassen hat?"</DefaultText>
+      <FemaleText>"Was meinst du, Wächterin? Denkst du, dass sie gefühllos ist? Weil sie auf vielen Schiffen gedient hat? Weil sie schon viele Leute hinter sich gelassen hat?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Ich weiß, dass es ein Risiko ist - dass sie mich eines Tages auch verlassen könnte." Sie seufzt und blickt kurz auf ihre Füße.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Maia, Schatz? Ich, ähm - also es gibt da etwas, das ich dir sagen wollte... schon seit einer Weile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Was denn, hab ich etwas im Gesicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Nein! Es ist nur, dass du ganz toll bist, das ist alles. Und ich dachte, weißt du, dass du es wissen sollst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Toll, wie? Du siehst für 'toll' etwas rot aus, Glühwürmchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"He, ich sage nur, dass jeder Gestandene glücklich wäre, dich so zu kennen- Sehr glücklich. 'Von den Göttern gesegnet'-glücklich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Jetzt mache dich nicht schlecht, Glühwürmchen. Ich bin sicher, dass du das Eine oder Andere auf dem Bauernhof gelernt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Nicht annähernd so viel, wie ich es gerne hätte. Aber ich meine, ich könnte... es dir zeigen... unter dem Schein des Mondes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Glotz es nicht nur an, Maia. Nimm es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ein Reinigungsset für mein Gewehr! Xoti, da ist alles dabei! Wie viel bin ich dir schuldig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Wie? Nein, Schatz, das soll ein Geschenk sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Meine Güte, Glühwürmchen. Hier bist du am Wünsche erfüllen und ich stehe hier mit leeren Händen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Bin ich das? Ich meine nämlich... Will sagen... Du bist mehr als toll, du bist..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Lasst uns das an einem kühleren Ort mit etwas Warmem zu trinken bereden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Die Art, wie deine Augen das Licht dieser gruseligen Laterne spiegeln... Na ja, das fällt einem Mädchen auf, das ist alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Gütiger Gaun, das tut mir leid! H-hier, ich verdunkle das Licht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Hey, hey... beruhige dich, Glühwürmchen. Ich wette, du wusstest nicht, dass ich auf dich scharf war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Nun. Jeder Kapitän braucht einen ersten Maat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ich meine... Jetzt, da du's sagst... fällt mir doch etwas ein..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Oh, das sollte interessant sein. Wie wäre es damit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Bei nochmaliger Überlegung... lasst uns später üben. Mir gefällt dieser Wind nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ich dachte, dass ich meine Brüder mehr vermissen würde... aber jemand zu haben, die mich versteht. Das ist eine überraschende Erleichterung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Ich dachte, dass Readceraner rein kulturell nur Paare bilden, die Nachwuchs erzeugen können...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ja, und das soll heißen...?" Mit säuerlichem Ausdruck verschränkt sie ihre Arme über eine Brust und verlagerte das Gewicht auf ein Bein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Ich habe bei der Geburt von genug Kälbern, Zicklein, Ferkeln und Geschwistern geholfen, um zu wissen, welche Teile wohin gehören, Wächter."</DefaultText>
+      <FemaleText>"Ich habe bei der Geburt von genug Kälbern, Zicklein, Ferkeln und Geschwistern geholfen, um zu wissen, welche Teile wohin gehören, Wächterin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Kein Interesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Nun... Dann bin ich froh, das wir dieses kleine Gespräch hatten." Maia zuckt mit den Achseln und runzelt dir die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Na ja, sie hat mir etwas gebeichtet. Eine Mischung aus Gefühlen, Absichten, und... anderen Sachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Sprich weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Meinst du, dass sie dir einen Mord gebeichtet hat?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ha. Nicht ganz. Aber ich denke, steht kurz davor, ein Verlangen von mir zu abzutöten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Xoti ist ganz so wie ihre Laterne - man kann sie durchschauen, aber in ihrem Inneren brennt eine Flamme, die nie erlischt. 
+
+"Ich... ich mag das."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Aber es ist schon Jahre her, dass ich mit jemand... &lt;i&gt;auf festem Boden&lt;/i&gt; stehen musste. Ich mache mir Sorgen, dass ich ihre Fenstergläser zerbreche. Ich will nicht riskieren, dass ihre Flamme erlischt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ich schätze, im Leben wirft man sich einfach zu einem hin und hofft, dass er einen beim ersten Versuch auffängt." Maia seufzt und zeigt in die Ferne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Sie ist sehr... schmeichelhaft gewesen und wir hatten einen kleinen Moment unter Deck." Maia blickt in die Ferne und trägt den Anschein eines kleinen Lächelns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Sie hat mir ein wirklich aufmerksames Geschenk gegeben - Bürsten, Öle und Ersatzteile für mein Gewehr." Maia grinst und kratzt sich am Hinterkopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Gib ihr doch ein bisschen Anerkennung. Sie ist zäher als sie aussieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Da sie gerade dir nachjagt, warum lässt du sie nicht das Tempo der Sache bestimmen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Also gib ihr ein nettes Nein. Sag ihr nur, dass es gerade nicht die richtige Zeit dafür ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"He. Nichts, was ich nicht schon vorher wusste, aber sie hat es mit ihrer besonderen Note versehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Sprich weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Was denn, hat sie dir ein neues Spiel beigebracht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Wenn sie in der Nähe ist, fühlt es sich an, als ob ich zu lange im Ausguck stand und endlich ein Land gesichtet habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Zuerst wusste ich nicht, ob sie mir etwas sagen wollte. Später haben wir unter Deck geplaudert, und wir hatten einen Moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Sprich weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Was denn, ist sie jetzt an Schusswaffen interessiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Ich will sehen, was mein Glühwürmchen drauf hat, und ich weiß, dass sie es mir zeigen will." Maia blickt etwas besorgt weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Mit ihren Augen und dieser Stimme hat Xoti genug Waffen zur Verfügung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Da hast du Recht. Es könnte sein, dass ich mich zur Abwechslung mal abhärten muss." Maia verschränkt ihre Arme und seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Die Zügel aus der Hand geben, sozusagen? Das ist ein berechtigtes und... erfrischendes Argument."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Ich will nicht so klingen, als ob ich kein Interesse hätte. Ganz und gar nicht. Es ist nur, dass diese Dinge normalerweise nur der Notwendigkeit halber geschehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Wenn man auf einer monatelangen Reise ist und einen das Verlangen überkommt, dann lernt man es, Privatsphäre, Möglichkeiten und Planung als Luxusgüter zu betrachten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Was du bei Xoti beschreibst klingt anders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Also nehmt euch Zeit und verwöhnt euch. Das ist ein Befehl, Soldat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Wenn du dafür nicht bereit bist, niemand hält dir eine Sichel an die Kehle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Genau das bereitet mir Sorgen. Es ist... na ja, eine neue Art von Verwundbarkeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Ich weiß es zu schätzen, dass du dir die Zeit nimmst und mir zuhörst, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Es gibt nichts in der Welt, was mich noch bereiter machen könnte... außer vielleicht Xotis Lächeln, denke ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ich denke nicht, dass Xoti der Sache gewachsen ist. Vielleicht, wenn sie einmal mehr Erfahrung hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Maia holt tief Luft und nickt vor sich hin - eine langsame, widerwillige Geste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Ich schätze wohl, dass Xoti etwas mehr Freiraum braucht, um nochmal tief in sich zu gehen. Wenn ich mich da beteilige, dann würde es sie nur ablenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Ich breche nur ungern ihr Herz, aber wenn es eine verantwortungsvolle Herangehensweise gibt... verdammt, so viel bin ich ihr schuldig." Maia zuckt mit den Schultern und blickt weit in die Ferne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Hey Xoti. Weißt du noch, wie ich dir von dieser Stelle auf meinem Rücken erzählt habe, die ich nicht erreichen kann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Ich mag wie du Seemannsgarn spinnst, Glühwürmchen. Wie es dich im Moment mitreißt und du total aufgeregt wirst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Hey, Maia! Was sagst du, wir teilen uns ein Getränk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Ich könnte es... ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Wollte wissen, ob du da mal kratzen willst, später, wenn wir allein sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Oh... sicher. Ich schätze, ich... Moment, du meinst nicht etwa...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Soll Ishi es für dich ausbuchstabieren, Glühwürmchen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Nein. Nein, ich glaube, ich verstehe endlich, was du sagst, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Ähm, danke, Maia! Ich bekomme normalerweise den Eindruck, dass ich Leuten auf die Nerven gehe, aber du fragst immer nach mehr Geschichten vom Bauernhof, also..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Ich könnte dir die ganze Nacht zuhören, weißt du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Wir sollten auf jeden Fall heute Nacht am Lagerfeuer zusammenkommen! Ich wollte dir von diesem Vorfall erzählen, als ich auf einem Stier direkt über einen Heuballen geritten bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Aye, Kapitän!" Maia salutiert, kann aber das Lächeln an ihrem Gesicht nicht verbergen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Ich werde nicht allzu lange darüber nachgrübeln, aber dass ich das von einem Offizier und nicht von einem Freund höre, bedeutet mir etwas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Das ist echt goldig von dir, dass du mich einlädst. Ich bringe den Wein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Alkohol? Wozu brauchen wir...? Oh. Oooh. Genau... selbstverständlich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Vielleicht ein anderes Mal. Ich versuche es gerade, meine Hemmungen gehemmt zu halten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Das ist schon in Ordnung. Schon gut. Dann... wie wäre es mit dem Kartenspiel, das du mir beibringen wolltest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Ähm... vielleicht ein anderes Mal, Xoti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Müssen wir... müssen wir über etwas reden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Ich denke nicht... doch, ja, ich schätze, das sollten wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Heh, wenn du das weiter tust, folgt er dir bis ganz nach Hause nach Readceras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Um mein Volk kennenzulernen? Das wäre ja mal ein Beschwernis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Ich weiß, dass ich die Reise für weniger als ein paar Düsterbeeren machen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Ich bin nicht so wortgewandt wie Kana, in Ordnung?" Maia kratzt sich den Nacken und seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Xoti ist ganz goldig, aber sie ist jung und... und hat nicht so viele Narben wie wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Ich mache mir Sorgen, dass ich sie verletze und ihr diese fröhliche Haltung wegnehme. Und dafür werden wir beide mich hassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Du bist um sie besorgt. Das würde ich als Ermutigung nehmen, Maia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Ich möchte das ermutigen. Vielleicht bin ich aus der Übung. Vielleicht habe ich einfach Angst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Ich... will sie wirklich verdienen. Sie richtig behandeln. Ich weiß auch ohne Nachfrage, dass sie das Gleiche will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Du verdienst sie schon. Sie hat dich gewählt, also los, geh und hol sie dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Denke ich zu viel darüber nach? Ich denke zu viel darüber nach." Maia massiert ihre Stirn und gibt ein angenehmes Seufzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Müssen wir über die Bienchen und Blümchen reden, Xoti?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Offenbar ist das ist nicht deine Sorge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Das ist es schon, aber nicht so, wie du denkst. Ich bin stur, ja. Aber nicht vollkommen ignorant."
+
+Sie kratzt sich die Nase mit ausgetrockneten und schlammigen Knöcheln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Aber das bin ich nicht. Und ich kann nicht sagen, ob ich das jemals sein will. Ich bin eine Ernterin des Gaun. Meine Aufgabe ist nicht die Landwirtschaft, sondern die Seelen der Toten zu begleiten, Wächter."</DefaultText>
+      <FemaleText>"Aber das bin ich nicht. Und ich kann nicht sagen, ob ich das jemals sein will. Ich bin eine Ernterin des Gaun. Meine Aufgabe ist nicht die Landwirtschaft, sondern die Seelen der Toten zu begleiten, Wächterin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Auf lange Sicht hast du Recht. Meine Mama wollte, dass ich zu einer götterfürchtigen Bringerin des Lichts werde, die genug Arbeiter auf dem Hof großzieht, um das Familiengehöft zu betreiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Du denkst dir vielleicht, dass ich beides kann. Vielleicht werde ich das eines Tages. Oder vielleicht nie. Aber das ist zwischen mir und meinem Gott."
+
+Sie seufzt und lässt ihre Schulter hängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Sei nicht beleidigt, ich war nur neugierig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"In Ordnung." Sie zuckt mit den Schultern und lässt ihre Arme hängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Dann bin ich einfach nur neugierig, warum es dich interessiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Ich bin nur überrascht, dass du anders bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Vergiss es einfach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Sicherlich. Ich tu es wenn du es auch tust, Wächter."</DefaultText>
+      <FemaleText>"Sicherlich. Ich tu es wenn du es auch tust, Wächterin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Mein ganzes Leben lang beklagen sich Leute, weil ich anders bin." Sie kratzt sich am Ohr und zuckt nochmal mit den Achseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Solange ich meinem Gott gefällig bin, was interessiert es mich, ob die anderen mich mögen oder nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Ich denke nur... warum muss es bis dahin wichtig sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Ich habe noch andere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Lass uns hier verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Maia, was habe ich dich vermisst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Beruht auf Gegenseitigkeit, Glühwürmchen. Ich verspreche, dass ich mich nicht wieder so weit von deinem Licht entferne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Würdest du heute Abend mit mir kämpfen, Maia, Schatz? Ich weiß, dass du Nahkämpfen nicht viel abgewinnen kannst, aber ich muss diese Rastlosigkeit irgendwie loswerden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Wo und wann? Ishi, diesmal wird nicht heimlich zugeschaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Ich habe von dir und mir geträumt, Maia. Ein wirklich ... schöner Traum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Ah, das erklärt dein Gehampel von letzter Nacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Also, ich dachte, wir könnten das vielleicht heute Abend nachspielen? Was meinst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Was machst du, wenn all das vorüber ist? Ich dachte erst, ich würde in meinen Tempel zurückkehren, aber das war bevor ... du weißt schon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Wenn ich so weit in die Zukunft sehen könnte, wäre ich schon längst die Königin des Todesfeuers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Aber du hast doch keine Wahl, oder? Mit deiner Mission. Was, wenn du nächstes Mal ... Nicht wiederkommst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Wie wäre es, wenn du die Sorgen mir überlässt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Was? Nein, ich meine, ich brauche unbedingt einen wilden Kampf. Mit blauen Flecken an den Knöcheln und aufgeplatzten Lippen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Oh. Schätze, ich bin etwas abgedriftet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Hoffe, es war besser als der Traum mit der Kotze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Öhm ... Sagen wir einfach, dass ich diesen Traum bis auf die Knochen gespürt habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Ich stimme allem zu, wenn du nur versprichst, keine Decken mehr zu klauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Ich weiß nicht, was geschehen wird, aber ich glaube, wir überstehen es, wenn wir nah beieinander bleiben. Hört sich das gut an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Die Idee gefällt mir, ja. Wenn ich bei dir bleiben soll, werde ich zu deinem zweiten Schatten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Natürlich können wir kämpfen, Glühwürmchen. Halt dich aber bloß nicht zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Wir holen uns gemeinsam die Zukunft, einen Tag nach dem anderen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

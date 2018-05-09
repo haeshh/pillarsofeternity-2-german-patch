@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_cannibal_ruin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vor dir liegen die Ruinen eines uralten Gebäudekomplexes. Du näherst dich dem halb eingefallenen steinernen Eingang. Dabei fallen dir mehrere seltsame Zeichnungen auf, die in abblätternder brauner Farbe auf die Steine gekritzelt wurden.
+
+Du beugst dich herab, um dir die Zeichnungen näher zu betrachten und entdeckst, dass es brutale Abbildungen sind - Enthauptungen, Zerstückelungen, Hinrichtungen und andere furchtbare Dinge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Ruine betreten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>An den Wänden der Ruine flackern die Lichter entfernter Fackeln. Ein Windstoß, der nach Aas und metallisch nach Blut riecht, trägt unverständliche Worte heran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du lässt die Ruinen und die beunruhigenden Zeichnungen hinter dir und erkundest die Insel weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du kehrst zu den Ruinen zurück und eilst hinein, aber dieses Mal achtest du darauf, nicht die grausamen Zeichnungen auf den Steinen anzusehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

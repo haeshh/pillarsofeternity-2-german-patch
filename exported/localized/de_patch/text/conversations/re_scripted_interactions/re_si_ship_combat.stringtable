@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_ship_combat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>173</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Mannschaft von [ShipDuel_OpponentShip] wird aktiv und es herrscht hektische Betriebsamkeit an Deck. Einige klettern die Masten hoch, um Segel zu hissen und einzuholen, andere ziehen an großen Rollen vom Meerwasser glitschiger Taue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Kampf aufnehmen] "Auf in den Kampf!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Rückzug versuchen] "Zurückziehen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 0] leitet deinen Befehl weiter und deine Mannschaft wird aktiv. Die [ShipDuel_PlayerShip] begibt sich luvwärts und kreuzt mit voller Geschwindigkeit von Backbord nach Steuerbord.
+
+Dein Schiff ist schneller und deine Mannschaft ist besser vorbereitet. So kannst du dir den Vorteil des Windes sichern, noch bevor die Mannschaft von [ShipDuel_OpponentShip] auch nur die Chance hatte, ihn für sich zu beanspruchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du erteilst deiner Mannschaft den Befehl zur schnellen Flucht.
+
+Das gegnerische Schiff fällt hinter euch zurück, bis es schließlich am Horizont verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Ram"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt; "Geschwindigkeit zum Rammen aufnehmen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Half_Sail"&gt;&lt;sprite="Inline" name="action_half_sail" tint=1&gt;&lt;/link&gt; "Auf halbe Segel!" ([ShipDuel_PlayerHalfSailDist])</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt; "Feuert die Kanonen am Bug!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die Mannschaft beeilt sich, das Hauptsegel zu halsen. Sie haben auch nicht mehr Lust auf einen unerwarteten Kampf als du.
+
+Als sie die Segel hissen, dreht sich die [ShipDuel_PlayerShip] langsam mit dem Wind. Die Segel gut gefüllt und mit dem Wind im Rücken entfernt sich dein Schiff rasch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Nun seid ihr wieder allein auf hoher See.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die Segel gefüllt und den Wind im Rücken kreuzt die [ShipDuel_PlayerShip] über das offene Meer auf das gegnerische Schiff zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Jibe"&gt;&lt;sprite="Inline" name="action_reverse" tint=1&gt;&lt;/link&gt; "Klarmachen zum Halsen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Deine Kanonensalve zerreißt die Segel des gegnerischen Schiffes und lässt sie in Fetzen zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Deine Kanonensalve schlägt auf dem Deck des gegnerischen Schiffes ein und hinterlässt eine Spur der Zerstörung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Mannschaft hastet die Masten hoch und hisst die restlichen Segel. Das Schiff pflügt mit neuer Energie vorwärts durch die Wellen. Deine Mannschaft wirft sich gegen die Reling und bereitet sich auf den Zusammenstoß vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Dein Schiff pflügt durch das Wasser, rollt über die Wellen und die Brandung hinweg. Gischt spritzt auf das Hauptdeck.
+
+Mit ohrenbetäubendem Krachen stoßen [ShipDuel_PlayerShip] und [ShipDuel_OpponentShip] zusammen. Holzsplitter und gegnerische Seeleute fliegen gleichermaßen durch die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Dive"&gt;&lt;sprite="Inline" name="action_dive" tint=1&gt;&lt;/link&gt; "Klarmachen zum Tauchen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Alle Abteilungen melden, dass sie zum Tauchen bereit sind.
+
+[Specified 0] läutet die Tauchalarmglocke und das U-Boot versinkt unter den Wellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die [ShipDuel_OpponentShip] führt eine glatte Wende aus und richtet nun ihre Breitseite direkt auf deine.
+
+Über das Meer hallt das ferne Donnern von Kanonenfeuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[ShipDuel_OpponentShip] hisst die Segel und segelt mit der vollen Stärke des Windes im Rücken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Die [ShipDuel_OpponentShip] flieht vor dir. Fieberhaft hisst die Mannschaft die verbliebenen Segel, um den Wind einzufangen. Bald ist das Schiff nicht mehr als ein Punkt am Horizont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[ShipDuel_OpponentShip] hisst die Segel, um den Wind einzufangen. Das Schiff pflügt durch das Wasser, das Triumphgeschrei ihrer Besatzung wie Peitschen im Wind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Deine Kanonensalve fliegt deutlich über das Deck des gegnerischen Schiffes und verpasst vollständig Breitseite und Segel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Deine Kanonensalve zerfetzt die meisten Segel deines Gegners vom Bug bis zum Heck und reißt ein großes Loch in den Schiffsrumpf. Die panischen Rufe und Schreie der gegnerischen Seemänner dringen über das Wasser hinweg an deine Ohren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Meereswasser strömt in die Löcher im Rumpf der [ShipDuel_OpponentShip]. Im Nu liegt das Schiff halb unter Wasser.
+
+Eine Explosion im Frachtraum zerreißt das Schiff. Eine große Wolke dichten schwarzen Rauchs steigt in den Himmel auf und der Wind weht den Geruch zu dir herüber. Es ist Schwarzpulver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Die Breitseite des gegnerischen Schiffes bricht in einer Explosion aus Holzsplittern auseinander. Beißender Rauch vom Kanonenfeuer des Gegners rollt über das Wasser hinweg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Die gegnerische Kanonensalve zerfetzt deine Segel, nun mehr Spinnennetze als Flügel.
+
+Deine Takelage bricht. Losgerissene Seile peitschen durch die Luft und schlagen mehrere ahnungslose Besatzungsmitglieder auf das Deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Die gegnerische Kanonensalve schlägt auf deinem Deck ein und löst wilde Schreckensschreie deiner Mannschaft aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Der gegnerische Kapitän befiehlt seinen Kanonieren zu feuern, als das andere Schiff sich in der Aufwärts- und deines in der Abwärtsbewegung befindet. Die Kanonensalve fliegt in hohem Bogen über dein Deck und zischt an den Segeln vorbei, ohne Schaden anzurichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Die Kanonensalve des gegnerischen Schiffes schlägt in euren Rumpf ein und reißt Löcher vom Deck bis hinab in den Frachtraum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Die gegnerischen Kanonen kündigen donnernd eine weitere Salve an. Das Krachen des gegnerischen Kanonenfeuers, das sich durch den Rumpf deines Schiffes frisst, ist unablässig und markerschütternd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Specified 0] ruft deine Mannschaft zum Kampf zusammen. "An die Kanonen! Ziel erfassen!"
+
+Die Kanoniere richten ihre Kanonen auf das gegnerische Schiff.
+
+"Feuer!"
+
+Vom Kanonendeck kommt ein ohrenbetäubender Knall. Die Kanonensalve jagt direkt auf die [ShipDuel_OpponentShip] zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Specified 0] gibt Befehle an die Mannschaft weiter. "Bei der nächsten Aufwärtsbewegung feuern!"
+
+Als das Schiff die Spitze einer Welle erreicht hat, feuern deine Kanoniere eine ohrenbetäubende Salve auf das gegnerische Schiff ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_full_sail" tint=1&gt; "Segel voll öffnen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Full_Sail"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt; "Volle Kraft voraus!" ([ShipDuel_PlayerFullSailDist])</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Deine Kanonensalve zerfetzt die Segel des Gegners vom Bug bis zum Heck, macht das Deck zu Kleinholz und reißt ein Loch in den Schiffsrumpf. Das Schreien und Stöhnen der Mannschaft des gegnerischen Schiffes dringt über das Wasser an deine Ohren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Deine Kanonensalve zerfetzt die Segel deines Gegners vom Bug bis zum Heck. Kein einziges bleibt ungeschoren. Es trifft das Deck des Gegners und hinterlässt kaum mehr als zersplittertes Kleinholz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Deine Kanonenkugeln verwandeln ihr Deck in wenig mehr als zersplittertes Kleinholz. Sie durchbrechen den Schiffsrumpf, fliegen immer noch weiter und hinterlassen eine Spur der Verwüstung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Die Kanonensalve kracht in dein Schiff und zerfetzt deine Segel. Nur noch Fetzen hängen in der Brise von den Masten.
+
+Kanonenkugeln krachen in dein Deck. Sie zerstören deine Takelage und beschädigen deine Masten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Die Kanonensalve kracht durch deinen Schiffsrumpf und auf dein Deck. Sie zerstört deine Takelage und beschädigt deine Masten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Die Kanonensalve zerfetzt deine Segel, durchstößt deinen Schiffsrumpf und hinterlässt nichts als zerstörte Fracht und Waffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Wähle eine Vorgehensweise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Specified 0] und [Specified 1] klettern auf den Hauptmast und hissen die restlichen Segel.
+
+Die Segel blähen sich auf und fangen den Wind voll ein. Die [ShipDuel_PlayerShip] schießt vorwärts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Immer stärker wird der Wind in deinem Rücken. Er heult in deinen Ohren.
+
+Dein Schiff bricht durch die Wellen, vom Wind vorangetrieben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Deine Matrosen hissen die restlichen Segel und die [ShipDuel_PlayerShip] schießt nach vorn. Die Mannschaft wirft sich gegen die Reling und bereitet sich auf den Zusammenstoß vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Bootsmann [Specified 0] geht über das Deck und treibt deine Matrosen zur Arbeit an.
+
+Die Segel der [ShipDuel_PlayerShip] fangen den Wind ein. Rasch steuert dein Schiff auf das gegnerische Schiff zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Die [ShipDuel_PlayerShip] ist sich ihrer Überlegenheit gewiss und bewegt sich stetig und entschlossen auf das gegnerische Schiff zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Die gegnerische Mannschaft mag begierig auf einen Kampf sein, aber du hast es nicht eilig, ihnen diesen Wunsch zu erfüllen. Du lässt dir Zeit damit, auf das gegnerische Schiff zuzusegeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Deine Kanonensalve schlägt im gegnerischen Schiff ein, zersplittert den Rumpf und zerfetzt die Segel. Bevor ihr eine Gelegenheit zum Feiern habt, explodiert das gegnerische Schiff mit einem ohrenbetäubenden &lt;i&gt;Knall&lt;/i&gt;.
+
+Deine Kanonensalve muss das Pulverlager getroffen haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Tötet den Kapitän und nehmt die Mannschaft gefangen! Wir dürfen uns diese Gelegenheit nicht entgehen lassen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Benweths Kopfgeld und jede Menge Beute! Heute ist unser Glückstag!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Bleibt beweglich! Lasst die Bastarde nicht zu nah rankommen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Du kannst mir keine Angst machen! Ich bin kein Feigling!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>&lt;i&gt;Chhhrr - krek - kek - isss&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Casità, meine Geschosse wünschen eine Unterredung!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Der Donner rollte wie Wellen auf schwarzen Meeren und sieben Mann beschritten das Deck!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Vidòrio, meine Freunde, und wir werden feiern wie zehn Landungstage!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Selbst die Kamoa-Krieger waren nicht so stark wie wir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Wir erheben uns wie Ondras Flut. Auf sie!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Ekera, was für ein schönes Schiff! Was sagst du, wenn ich es dir abnehme?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"So sicher wie der Wind meine Segel füllt, soll er deine ignorieren!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Spürst du bereits den Atem der Bleichen Ritterin in deinem Nacken? Klingt dir bereits der Ruf des Pförtners in den Ohren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Du wirst eine gute Beute sein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Das Steuer drehen und windwärts halten! Wir dürfen ihnen keinen Vorteil geben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Wehe heftig, kalter Wind des Todes! Erhebe dich, dunkle Welle!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Deck bereit machen, ich habe Sichtkontakt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Zeig mir, wie schlau du bist. Ich werde es hassen, enttäuscht zu werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Deine Furcht läutet in meinem Kopf wie eine Glocke!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Das Gewicht meines Geldbeutels sagt deine Niederlage vorher!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Ich kenne dieses Meer wie meine Westentasche. Du kannst dich nicht vor mir verstecken!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Stirb schnell, vielleicht bin ich dann rechtzeitig daheim, um zu deiner Mutter ins Bett zu steigen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Gellarde! Endlich ein würdiger Gegner!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ich werde ernten, was du gesät hast!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Doppelte Grog-Ration für den, der den Kapitän lebend fasst!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Meine Mannschaft wird dich in Stücke reißen und deine Schreie werden keinen interessieren!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Magrans Schmiede braucht Nahrung für ihr Feuer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Wir werden euch von Bug bis Heck ausplündern!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Du bist nur ein Nagel unter unseren Hämmern!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Das Schiff kommt näher und seine Mannschaft öffnet die Kanonenluken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Mit großem Getöse wirft deine Mannschaft Enterhaken und Planken über den Spalt zwischen euren beiden Schiffen.
+
+Sie strömen auf das Deck des gegnerischen Schiffes, die Waffen gezogen. Die gegnerischen Seeleute sind von dem Angriff zunächst völlig überrascht. Doch rasch fassen sie sich wieder und begrüßen deine Leute mit dem Donnern von Pistolenfeuer und dem Klirren von Stahl auf Stahl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Die Mannschaft hastet die Masten hoch und hisst die restlichen Segel. Das Schiff macht einen Satz nach vorn, angetrieben von dem aufgekommenen Wind.
+
+Doch euer Schwung lässt nach, als ihr euch dem gegnerischen Schiff nähert. Der Wind in eurem Rücken hat sich gelegt. Dein Schiff ist kurz vor dem Ziel gestrandet – in Reichweite der gegnerischen Kanonen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Feuer hüllt das gegnerische Schiff ein. Schwarzer, beißender Rauch steigt in den Himmel auf.
+
+Wasser läuft in den Frachtraum und das brennende Schiff versinkt schnell in den Wellen. Bald ist die Wasseroberfläche wieder so glatt, als wäre dort nie ein Schiff gewesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Noch bevor du auch nur blinzeln kannst, verschwindet der größte Teil des Schiffes im Meer. Alles, was jetzt noch aus dem Wasser ragt, ist der Hauptmast mit seinen zerrissenen Segeln. Er steht aufrecht wie zu einem letzten Salut, bevor auch er im Meer verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Schon bald kannst du außer dem Lärm des Kanonenfeuers nur noch ein einziges Geräusch hören – das Splittern und Ächzen der [ShipDuel_PlayerShip]. Deine Mannschaft ist tot.
+
+Das Schiff neigt sich unter dir und mit nicht mehr als einem Flüstern gleitet es in die Arme der See.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>[Specified 0] gibt deine Befehle an die Mannschaft weiter. "Die Posten bemannen! Macht euch für den Aufprall bereit!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>[Specified 0] gibt deine Befehle weiter. Das Schiff nimmt Fahrt auf und pflügt durch die Wellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>[Specified 0] ruft durch das U-Boot. "Für stille Fahrt auftakeln! Normale Geschwindigkeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Das Schiff hält seinen Abstand und umschleicht dich aus sicherer Entfernung wie eine wilde Katze ein Schlachthaus.
+
+Es macht keinen Versuch, dich zu rufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[Kampf aufnehmen] "Leichte Beute!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>[Zurückziehen] "Lasst sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Das gegnerische Schiff hisst die Segel, um den Wind einzufangen. Das Schiff pflügt durch das Wasser, das Triumphgeschrei ihrer Besatzung wie Peitschen im Wind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Das gegnerische Schiff hisst die Segel und segelt mit der vollen Stärke des Windes im Rücken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Du hörst über dem Tosen des Meeres die Rufe des Bootsmannes des gegnerischen Schiffs. Er befiehlt die Seeleute auf ihre Posten.
+
+Seeleute klettern flink wie Spinnen die Takelage hoch und lösen die Segel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Das gegnerische Schiff führt eine glatte Wende aus und richtet nun seine Breitseite direkt auf deine.
+
+Über das Meer hallt das ferne Donnern von Kanonenfeuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Die Mannschaft des gegnerischen Schiffes beeilt sich, ihre Posten an den Kanonen einzunehmen.
+
+Nach einem Ruf des gegnerischen Bootsmannes hallt das Donnern von Kanonenfeuer über das Meer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Das gegnerische Schiff wendet und flieht mit dem Wind. Bald ist das Schiff nicht mehr als ein Punkt am Horizont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Der gegnerische Kapitän ruft zum Rückzug und die Mannschaft beeilt sich, die Segel bereit zu machen. Das gegnerische Schiff führt eine hastige Wende aus und segelt so hart am Wind, wie es nur möglich ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Die Mannschaft der [ShipDuel_OpponentShip] wird aktiv und besetzt hektisch ihre Posten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Die gegnerische Mannschaft eilt auf ihre Posten, um sich auf die Manöver vorzubereiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Die [ShipDuel_PlayerShip] begibt sich luvwärts und kreuzt mit voller Geschwindigkeit von Backbord nach Steuerbord.
+
+Dein Schiff ist schneller und deine Mannschaft ist besser vorbereitet. So kannst du dir den Vorteil des Windes sichern, noch bevor die Mannschaft von [ShipDuel_OpponentShip] auch nur die Chance hatte, ihn für sich zu beanspruchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Mit einigen schnellen Manövern kann sich die [ShipDuel_PlayerShip] den Windvorteil sichern, bevor die [ShipDuel_OpponentShip] auch nur die Chance hatte, ihn selbst zu beanspruchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Meereswasser strömt durch die Löcher im Rumpf der [ShipDuel_OpponentShip]. Es dauert kaum einen Augenblick und schon ist das Schiff halb versunken. Ihre Seeleute springen vom Deck ins Meer. Sie klammern sich an Trümmer und Treibgut und spucken Wasser. Ihre Augen sind vor Furcht geweitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Als das Schiff die Spitze einer Welle erreicht hat, feuern deine Kanoniere eine ohrenbetäubende Salve auf das gegnerische Schiff ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>[Specified 0] zeigt auf einen kleinen Punkt am fernen Horizont.
+
+"Kapitän, ein Schiff nähert sich."
+
+Du spähst zum Horizont und siehst eine unbekannte Flagge in der Brise wehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Die gegnerische Mannschaft eilt auf ihre Posten, um sich auf die Manöver vorzubereiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Hold"&gt;&lt;sprite="Inline" name="action_hold" tint=1&gt;&lt;/link&gt; "Position halten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Turn_Port"&gt;&lt;sprite="Inline" name="action_left" tint=1&gt;&lt;/link&gt; "Hart Backbord!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Turn_Starboard"&gt;&lt;sprite="Inline" name="action_right" tint=1&gt;&lt;/link&gt; "Hart Steuerbord!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Die Mannschaft beeilt sich, die Segel einzuholen und bringt das Schiff fast zum Stillstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Der Steuermann dreht das Steuerrad nach backbord, während die Mannschaft die Segel in den Wind stellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Der Steuermann dreht das Steuerrad nach steuerbord, während die Mannschaft die Segel in den Wind stellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Die Segel deines Gegners hängen schlaff, als ihr Schiff zum Stehen kommt. Der Wind ist abgeflacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Der gegnerische Kapitän dreht seine [[ShipDuel_OpponentShip]] nach backbord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Der gegnerische Kapitän dreht seine [[ShipDuel_OpponentShip]] nach steuerbord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Das gegnerische Schiff wendet und ändert den Kurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Die gegnerische Mannschaft läuft über das Deck, als ihr Kapitän sie auf die ihre Posten ruft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Die [ShipDuel_PlayerShip] fährt vor der [ShipDuel_OpponentShip] und hält die Kanonen ausgerichtet zum Feuern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Die Mannschaft halst schnell das Hauptsegel und wendet die [ShipDuel_PlayerShip].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt; "Feuert die Kanonen achtern!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt; "Feuert die Kanonen an Backbord!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt; "Feuert die Kanonen an Steuerbord!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_report" tint=1&gt;&lt;/link&gt; "Berichten an ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Deine Mannschaft hastet über das Deck, um ihre Posten einzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>[FEHLER] KI verwendete nicht erkannte Schiffskampfaktion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Ram"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt; "Geschwindigkeit zum Rammen aufnehmen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Board"&gt;&lt;sprite="Inline" name="action_board" tint=1&gt;&lt;/link&gt; "Bereitmachen zum Entern!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Du erspähst am Horizont einen dunklen Punkt und siehst eine unbekannte Flagge in der Brise wehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Als das Schiff näherkommt, öffnet seine Mannschaft die Kanonenluken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>[Kampf aufnehmen] "Angriff!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>[Zurückziehen] "Das ist nicht unser Kampf!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Das gegnerische Schiff fällt über euch her, ehe ihr fliehen könnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Feuer rast deinen Hauptmasten hoch und breitet sich auf die Segel aus. Die Segel werfen glühende Asche auf das Deck, das dann ebenfalls in Flammen aufgeht. Das Feuer breitet sich zu schnell aus, um erstickt zu werden, und dein Schiff wird überrollt. Diejenigen deiner Mannschaft, die nicht bei lebendigem Leib verbrennen, ertrinken, als die letzten Reste deines Schiffs in den Wellen versinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Feuer rast den Hauptmasten auf dem gegnerischen Schiff hoch und breitet sich auf die Segel aus. Die Segel werfen glühende Asche auf das Deck, das dann ebenfalls in Flammen aufgeht. Das Feuer breitet sich zu schnell aus, um vom gegnerischen Kapitän erstickt zu werden, und das Schiff wird überrollt. Diejenigen der Mannschaft, die nicht bei lebendigem Leib verbrennen, ertrinken, als die letzten Reste ihres Schiffs in den Wellen versinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Das gegnerische Schiff fällt hinter euch zurück, bis es schließlich am Horizont verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Meerwasser strömt in den Frachtraum der [ShipDuel_PlayerShip]. Das Deck neigt sich unter dir und dein Schiff gleitet mit nicht mehr als einem Flüstern in die Arme der See.
+
+Dunkelheit bricht über dich herein. Das helle Sonnenlicht ist nun nichts weiter als eine verschwommene Erinnerung. Unter den Wellen nimmst du deinen letzten Atemzug. Deine Reise hat ihr Ende gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Wasser läuft in den Frachtraum und das Schiff versinkt schnell in den Fluten. Bald ist die Wasseroberfläche wieder so glatt, als wäre dort nie ein Schiff gewesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Die Mannschaft der [ShipDuel_PlayerShip] beeilt sich, die Segel einzuholen. Dein Schiff kommt zum Stillstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Die [ShipDuel_PlayerShip] führt eine geschickte Wende nach backbord aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Die [ShipDuel_PlayerShip] führt eine geschickte Wende nach steuerbord aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Die Mannschaft der [ShipDuel_OpponentShip] nimmt ihre neuen Positionen ein, nachdem ihr Kapitän ihnen Beine gemacht hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Der gegnerische Kapitän bellt einen Befehl und die Mannschaft der [ShipDuel_OpponentShip] eilt auf ihre Posten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>Die [ShipDuel_OpponentShip] dreht ihr Heck durch den Wind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Das gegnerische Schiff halst durch den Wind und wechselt den Kurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Die [ShipDuel_OpponentShip] dreht nach backbord, um sich den Windvorteil zu holen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Die [ShipDuel_OpponentShip] dreht nach steuerbord, um sich den Windvorteil zu holen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Die [ShipDuel_OpponentShip] hat die Windrichtung falsch eingeschätzt. Als die Mannschaft das Manöver ausführt, hängen die Segel plötzlich schlaff von ihren Masten. Das Schiff kommt zum Stillstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Das gegnerische Schiff kommt im Wasser abrupt zum Stillstand. Sie haben den Wind verloren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Dunkelheit bricht über dich herein. Das helle Sonnenlicht ist nun nichts weiter als eine verschwommene Erinnerung. Unter den Wellen nimmst du deinen letzten Atemzug. Deine Reise hat ihr Ende gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Du erteilst deiner Mannschaft den Befehl zur schnellen Flucht.
+
+Das gegnerische Schiff fällt hinter euch zurück, bis es schließlich am Horizont verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>[Zum Entern vorbereiten] "Keine Gnade! Angriff!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Aber dein Schiff ist nicht unbeschädigt. Wasser strömt durch die Löcher im Rumpf der [ShipDiel_PlayerShip]. In wenigen Augenblicken ist dein Schiff halb versunken. Die Seeleute springen vom Deck des sinkenden Schiffes ins Meer. Sie klammern sich an Trümmer und Treibgut und spucken Wasser. Ihre Augen sind vor Furcht geweitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Die gegnerische Mannschaft jubelt im Chor, als sie auf dein Deck stürmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>[ShipDuel_OpponentShip] stürmt auf dich ein. Mit einem lautstarken Schrei von seiner Mannschaft pflügt das Schiff in deins hinein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_BraceForImpact"&gt;&lt;sprite="Inline" name="action_brace" tint=1&gt;&lt;/link&gt; "Auf den Aufprall vorbereiten!" ([ShipDuel_BraceChance] um Verletzungen abzuweisen)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Deine Mannschaft beeilt sich, sich für den Aufprall zu sichern. Die Matrosen halten sich an der Reling zum Hauptdeck fest und diejenigen, die es nicht rechtzeitig schaffen von der Takelage herunterzuklettern, binden sich an den Masten fest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Die Mannschaft von [ShipDuel_OpponentShip] wirft sich gegen die Reling auf dem Hauptdeck und diejenigen in der Takelage binden sich am Mast fest.
+
+"Auf den Aufprall vorbereiten!" schreit ihr Bootsmann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Auch wenn deine Mannschaft schnell ist, wendet [ShipDuel_PlayerShip] langsam für die nächste Runde der Manöver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>[ERROR] Spieler hat versucht, eine nicht unterstützte andauernde Aktion fortzuführen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Das Schiff deines Gegners beeilt sich, eine komplette Wendung zu vollziehen. Auch wenn die gegnerische Mannschaft schnell ist, dauert es einen Moment, bis ein Schiff von der Größe der [ShipDuel_OpponentShip] gewendet hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>[ERROR] Gegner hat versucht, eine nicht unterstützte andauernde Aktion fortzuführen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt;[Sich ergeben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Für deine Kapitulation verlangt [ShipDuel_Opponent]:
+[ShipDuel_SurrenderCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>[Annehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>[Ablehnen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Du hisst eine weiße Flagge, um deine Kapitulation zu signalisieren. [Shipduel_Opponent] schickt eine Handvoll Seemänner rüber, um die Ausbeute deiner Niederlage einzusammeln.
+
+Ein raues Gejohle ertönt aus den Kehlen von [ShipDuel_Opponent]s Mannschaft. [ShipDuel_OpponentShip] legt ab und du bist allein auf dem weiten Meer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Wähle eine Vorgehensweise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Dir fehlt die Mannschaft, um dein Schiff zu steuern, also musst du dich ergeben.
+
+[ShipDuel_Opponent] nimmt:
+[ShipDuel_SurrenderCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>[Annehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>[Ablehnen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>[Weiter vordringen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Andererseits, wenn ich noch einmal darüber nachdenke ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

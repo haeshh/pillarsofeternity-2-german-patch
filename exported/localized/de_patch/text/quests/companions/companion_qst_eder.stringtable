@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_eder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der Erleuchtete Pfad</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde jemanden, der Edérs Freund kennen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Suche in Hasongo nach Elafa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Untersuche die Partisanen des Erleuchteten Pfades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Gelange zum "Vorhut"-Schiff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Verfolge das Schiff des Erleuchteten Pfades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Rette Bearn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Bringe &lt;b&gt;Bearn&lt;/b&gt; nach &lt;b&gt;Hasongo&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Edér bekundete sein Interesse daran, ein Frau wiederzusehen, die er früher kannte und die sich jetzt angeblich mit den Kindern der Dämmerungssterne im Todesfeuer niedergelassen haben soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Jemand bei den Kindern der Dämmerungssterne muss etwas über sie wissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ein Dämmerungsstern, den wir getroffen haben, meint, dass sich Elafa mit ihrem Sohn auf Hasongo niedergelassen habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Wir trafen Elafas Sohn Bearn und haben erfahren, dass Elafa vor einiger Zeit verstorben ist. 
+
+Er scheint in die Fänge einer Sekte der Dämmerungssterne geraten zu sein, die sich die Partisanen des Erleuchteten Pfades nennt und von einem Mann namens Gaderian Bosc angeführt wird. Sie haben ungewöhnliche militaristische Ansichten bezüglich Eothas' Weg durch das Todesfeuer.
+
+Trotz der Nachricht über Elafa scheint Edér nun um ihren Sohn besorgt zu sein und will diese Sekte genauer unter die Lupe nehmen.
+
+Bearn verwies uns an eine Frau namens Ogne im Gaun-Tempel in Neketaka, die neue Mitglieder für den Erleuchteten Pfad anwirbt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Beim Gespräch mit Ogne wurde klar, dass die Partisanen des Erleuchteten Pfades sich Eothas dadurch anschließen wollen, dass sie in unmittelbarer Nähe zu ihm sterben.
+
+Bearn sagte, er wolle in ihrer Vorhut sein – der ersten Welle, die sich Eothas anschließen soll. Ihr Schiff liegt in Neketaka vor Anker.
+
+Wir müssen es erreichen, bevor es ablegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Wir kamen zu spät, um an Bord des Schiffs des Erleuchteten Pfades zu gehen, während es noch in Neketaka vor Anker lag.
+
+Ich habe Edér versprochen, dass wir das Schiff aufspüren und Bearn retten, falls er an Bord sein sollte. 
+
+Sie verfolgen Eothas – dann werden sie mit Sicherheit nach Norden segeln und seinem Pfad der Zerstörung folgen.
+
+Angesichts ihrer Absichten drängt die Zeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich muss Bearn finden und ihn von diesem Schiff holen, bevor es zu spät ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Nach allem, was &lt;b&gt;Bearn&lt;/b&gt; mitgemacht hat, fand &lt;b&gt;Edér&lt;/b&gt;, es sei das Angemessenste, ihn wieder nach &lt;b&gt;Hasongo&lt;/b&gt; zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Mir wurde gesagt, dass ich mit einem Ältesten der Dämmerungssterne namens Nordagand im Tempel von Gaun in Neketaka sprechen solle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Ogne&lt;/b&gt; hatte ein paar zerknüllte Dokumente bei sich. Die werden vielleicht noch von Interesse sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Wir konnten Bearn davon überzeugen, das Gift, welches die anderen Mitglieder seiner Sekte getrunken hatten, nicht zu trinken. Er hat die Strapazen überlebt, doch er scheint nicht davon überzeugt zu sein, dass dies zu seinem Besten war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Bearn nahm das Gift vor unseren Augen zu sich, doch wir konnten ihn glücklicherweise wiederbeleben. Er hat die Strapazen überlebt, doch er scheint nicht davon überzeugt zu sein, dass dies zu seinem Besten war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Uns ist es nicht gelungen, Bearn davon abzuhalten, sich mit den anderen Mitgliedern der Partisanen des Erleuchteten Pfades das Leben zu nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Jemand, der für den Abschluss dieser Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Schriftstücke, die wir bei Ogne gefunden hatten, lassen vermuten, dass die Partisanen des Erleuchteten Pfades sich Eothas dadurch anschließen wollen, dass sie in unmittelbarer Nähe zu ihm sterben.
+
+Bearn sagte, er wolle in ihrer Vorhut sein – der ersten Welle, die sich Eothas anschließen soll. Ihr Schiff lag zuletzt in Neketaka vor Anker.
+
+Wir müssen es erreichen, bevor es ablegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

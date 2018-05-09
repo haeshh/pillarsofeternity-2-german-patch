@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_backer_npc_granis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du begegnest einem hochgewachsenen Mann mit dunklen Haaren in einer Rüstung. Normalerweise würdest du auf solche Dinge ja nicht achten, aber seine Rüstung ist sehr ungewöhnlich. Sie schimmert in einem dunklen Grün und zeigt das Abbild eines goldenen Baumes.
+
+Mit der Hand auf dem Knauf seines Schwertes beobachtet der Mann aufmerksam die Menge, gleichzeitig entspannt und wachsam. Als er dich entdeckt, kneift er die Augen zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was willst du von mir?" Er betrachtet dich argwöhnisch, so, als sei er sich noch nicht sicher, ob du nicht vielleicht eine Schlange bist, die ihn beißen könnte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich grüße dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Der Segen stehe über unserer Begegnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Guten Tag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Nun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Erzähl mir von dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Zuerst reagiert er zögernd, ist sich deiner Absichten nicht sicher. Mit zusammengekniffenen Augen betrachtet er dich abschätzend, dann nickt er.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Kannst du mir das beibringen, was du als Mitglied der Schildträger gelernt hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich habe dir alles beigebracht, was ich beherrsche. Wenn du mehr lernen willst, solltest du dich dem Orden anschließen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nun ... Du müsstest selbst ein Schildträger werden, um wirklich alles zu lernen. Aber ich denke, ich kann dir erst einmal gleich ein oder zwei Dinge beibringen. Dieses Privileg wird dich allerdings dreitausend Kupfermünzen ärmer machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Er legt dir zwei schwere Sandsäcke auf die Schultern und lässt dich dann eine Reihe von Übungen absolvieren. Sie dienen alle dazu, die Stärke deiner Muskeln ebenso zu verbessern wie deine Beweglichkeit, wenn du eine Rüstung trägst.
+
+Er ist sich sicher, du hast jetzt genug gelernt, um in Zukunft eigenständig trainieren zu können. Er verabschiedet sich mit einem kräftigen Schulterklopfen von dir und wünscht dir eine gute Reise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Gehen] "Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Auf Wiedersehen." Ein leichtes Nicken zeigt, er hat bemerkt, dass du dich wieder von dannen machst. Und schon widmet er sich wieder seinen eigentlichen Aufgaben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Du trägst da eine höchst interessante Rüstung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Warten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Das könnte sein, ja. Hast du schon einmal von den Schildträgern von St. Elcga gehört? Wir sind ein Paladinorden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Das habe ich allerdings. Ich gehöre selbst ebenfalls diesem Orden an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Mein Bruder! Ich bin so froh, auf dieser von der Sonne ausgedörrten Inselgruppe endlich ein freundliches Gesicht zu sehen! Ich vermute einmal, du bist hier, um dir ehrliche Arbeit zu suchen?
+
+"Nun, ich muss nicht alle Einzelheiten erfahren. Du hast dich schließlich nach &lt;i&gt;mir&lt;/i&gt; erkundigt."
+
+Er räuspert sich laut und vernehmlich.</DefaultText>
+      <FemaleText>"Meine Schwester! Ich bin so froh, auf dieser von der Sonne ausgedörrten Inselgruppe endlich ein freundliches Gesicht zu sehen! Ich vermute einmal, du bist hier, um dir ehrliche Arbeit zu suchen?
+
+"Nun, ich muss nicht alle Einzelheiten erfahren. Du hast dich schließlich nach &lt;i&gt;mir&lt;/i&gt; erkundigt."
+
+Er räuspert sich laut und vernehmlich.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Nicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Den Kopf schütteln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Zu Anfang war der Orden nichts als eine Wache für Elcga, eine adelige Gesandte von Kulkin. Sie hat mit dem Königreich von Aedyr über ein Friedensabkommen verhandelt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Dann hat sich also die Kunde von unserem Orden schon weit verbreitet. Das ist gut!"
+
+Er räuspert sich laut und vernehmlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich bin der Sohn einer in Ungnade gefallenen adeligen Familie. Mein Vater und meine Brüder wurden wegen Hochverrates hingerichtet, als ich noch klein war. Und das war nur gerecht, möchte ich hinzufügen. Meine Mutter, meine Schwestern und mich hat man auf die Straße gesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Unser gesamter Besitz bestand aus einer Truhe mit Erbstücken. Eines dieser Erbstücke war diese Rüstung. Sie hat meinem ältesten Bruder gehört.
+
+"Jetzt bemühe ich mich darum, dem Anspruch dieser Rüstung gerecht zu werden und die Ehre meiner Familie wiederherzustellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Das ist alles; in Kurzfassung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich habe dir alles beigebracht, was ich beherrsche. Den Rest musst du auf deiner Reise mit dem Orden selbst lernen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Den Gründern des Ordens war es verboten, mit Waffen zu Verhandlungen zu erscheinen. Dann hat man sie angegriffen. Ihre Wache besaß nichts als die Schilde, um sie zu verteidigen. Dennoch ist es gelungen, ihre Angreifer zurückzuschlagen und sie in Sicherheit zu bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Später ist sie ihren Wunden erlegen, und zur Erinnerung an sie sind die Schildträger von St. Elcga entstanden."
+
+Er räuspert sich laut und vernehmlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Man spricht also in der Heimat immer noch von unserem Orden. Das ist gut!"
+
+Er räuspert sich laut und vernehmlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Nein, ich denke nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Er zuckt mit den Achseln. "Wie du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ich danke." Er nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Überleben und Athletik verbessern] "Bitte schön."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

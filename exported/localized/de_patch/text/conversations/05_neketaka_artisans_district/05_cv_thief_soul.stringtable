@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_thief_soul</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese Platte scheint für Arkemyrs Eisenkonstrukte vorgesehen zu sein. Du spürst den zerbrochenen, verwirrten Rest einer Seelenessenz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Seele lesen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du schreitest durch die Hallen von Arkemyrs Anwesen. Sein Grundriss ist dir vertraut und du bewegst dich selbstbewusst durch die Gänge. 
+
+Dein Partner ist dein Schatten, immer drei Schritte hinter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du erreichst die schwere Tür einer Schatzkammer. Das Schloss besteht aus Edelsteinen, die in einen Stein eingefügt werden. 
+
+Ifren sieht über seine Schulter, zu beschäftigt, um deinen vorsichtigen Bewegungen zu folgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Bevor du einen zweiten Schritt machen kannst, holt dich ein Schlag wie von einem Rammbock von den Füßen. Desorientiert und wehrlos ist das Letzte, was du siehst, die Faust eines eisernen Konstrukts, die erbarmungslos auf dich niederschmettert. Einzig dein Kopf steht zwischen ihr und dem kalten Steinboden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Gerade als sich die Tür zur Schatzkammer knirschend öffnet, kommt einer von Arkemyrs Imps um die Ecke gelaufen und kreischt lauthals los. 
+
+Du machst auf dem Absatz kehrt und läufst davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Die Edelsteine in ihrer Kombination einsetzen und beten, dass dein Kontakt richtig liegt.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Ihm deuten, dass er sich beeilen soll.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Leise Geräusche werden die Imp-Diener nicht stören. Ifren nickt und macht schneller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ifren ist nirgends zu sehen, aber ein wehendes Stück Stoff hinter einer offenen Tür verrät dir, wo er sich versteckt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich will verdammt sein, wenn ich es zulasse, dass eine Seele für so üble Ziele missbraucht wird! Komm mit mir, du armes verlorenes Ding!"
+
+Mit grimmigem Gesicht schwenkt Xoti ihre Laterne über den Innereien des Konstrukts hin und her und nimmt so die verbleibende Essenz des Diebs auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

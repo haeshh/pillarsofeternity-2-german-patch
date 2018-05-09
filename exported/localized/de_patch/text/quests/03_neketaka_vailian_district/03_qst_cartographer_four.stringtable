@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_qst_cartographer_four</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kartierung des Archipels: Die Brennenden Sandbänke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Erkunde die noch nicht kartierten Inseln rund um Magrans Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Sanza zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Sanza, der reizbare Kartograf, den ich am Ankerplatz der Königin getroffen habe, möchte einen umfassenden Führer für die Inseln des Todesfeuers erstellen. Allein kann er diese Aufgabe allerdings nicht erledigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Sanza, der Kartograf am Ankerplatz der Königin, hat mich gebeten, die bisher noch nicht kartografierten Inseln des Todesfeuer-Archipels zu erkunden.
+
+Sanza hat mich gebeten, die Inseln nahe eines Gebietes zu untersuchen, das als Brennende Sandbänke bekannt ist. Ich finde diese Region im Nordosten, in der Nähe des Ofecchia-Kanals</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe eine Karte der Inseln der Brennenden Sandbänke erstellt. &lt;b&gt;Sanza&lt;/b&gt; wartet in seinem Laden am &lt;b&gt;Ankerplatz der Königin&lt;/b&gt; in Neketaka auf meinen Bericht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Auf einer Insel im Nordosten habe ich eine überflutete Ruine gefunden, in der sich Lichs aufgehalten haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Westlich des Ofecchia-Kanals habe ich die Überreste einer eingefallenen Mine entdeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für den Abschluss dieser Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe eine Karte der Inseln der Brennenden Sandbänke erstellt und bin zu Sanza zurückgekehrt, um meine Belohnung in Empfang zu nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

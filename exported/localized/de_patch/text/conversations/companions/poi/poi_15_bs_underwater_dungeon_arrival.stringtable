@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_15_bs_underwater_dungeon_arrival</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ich habe keine Ahnung, wie wir atmen können, aber ich will mich nicht darüber beschweren. Ishi, bleib in meiner Nähe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Wenigstens muss ich nicht die Luft anhalten. Obwohl irgendetwas in diesem Teich den starken Wunsch in mir weckt, genau das zu tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Die Luft hier kann man vielleicht atmen, aber gesund ist sie deshalb noch lange nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Toll, dass sie es irgendwie geschafft haben, Luft zum Atmen hier unten zu haben. Mir wäre aber lieber, wenn sie nicht nach faulem Fisch riechen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ich habe gelesen, dass die Erfinderin Iverra mit Geräten experimentiert hat, die Luft unter Wasser bringen können. Das hier scheint mir allerdings eine weit größere Leistung zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Ich habe Remaro immer gesagt, es gibt Luft unter Wasser. Der alte Seebär schuldet mir eine Soule!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ich bin ja froh, dass ich nicht ertrinke. Aber ich muss zugeben, das Atmen unter Wasser verursacht mir Kopfschmerzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crit_path\cp_qst_09_to_hunt_a_god</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Jagd auf einen Gott</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Insel erkunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Ausgrabungsstätte erreichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Engwithaner-Ruinen durchsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Im Zuge des Sturm droht sich Eothas' Spur zu verlieren. Wenn ich auch nur die geringste Chance haben möchte, auf ihn aufzuschließen, muss ich unbedingt einige Hinweise auf seinen Aufenthalt auf dieser Insel finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Wir haben Eothas' Spur im Sturm verloren, doch er schien sich in Richtung Landesinnere zu bewegen, als wir verunglückten. 
+
+Er ist so groß, dass er einfach irgendwelche Spuren hinterlassen haben muss. Die Insel zu erkunden ist die vielversprechendste Chance, seine Fährte wiederzufinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Der Gouverneur von Port Maje meinte, dass mehrere Zeugen einen 'Riesen' gesehen haben wollen, der sich ostwärts in Richtung einer Ausgrabungsstätte, die von der Vailianischen Handelsgesellschaft geleitet wird, bewegt habe. Das sollte ich mir anschauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe die gewaltige Ausgrabungsstätte erreicht. Sie dreht sich um irgendwelche Engwithaner-Ruinen. Den wuchtigen Fußabdrücken nach zu urteilen muss Eothas hier vorbeigekommen sein. Dabei hat er es sich nicht nehmen lassen, eine ähnliche Verwüstung wie in Caed Nua zu hinterlassen.
+
+Ich sehe mich besser mal um. Vielleicht kann ich herausfinden, worauf er aus war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die Bürger von Port Maje haben den Riesen gesehen. Vielleicht weiß der &lt;b&gt;Gouverneur&lt;/b&gt; mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ein Geist bei der Ausgrabungsstätte erwähnte, ein helles Licht gesehen zu haben. Es hört sich so ähnlich wie das Leuchtfeuer an, welches mich in Beraths Reich zog; allerdings meinte der Geist, dass es mittlerweile erloschen sei. Vielleicht hat Eothas' Ankunft etwas damit zu tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Durch eine gewaltige Adrasäule im Innern der Engwithaner-Ruinen konnte ich eine Verbindung zwischen Eothas und mir aufbauen. Mir ist es gelungen, einen Bruchteil meiner Essens, die sich noch in ihm befindet, wiederzuerlangen; doch Eothas kappte die Verbindung, bevor ich mehr tun konnte. Allem Anschein nach bezieht er Energie aus dem leuchtenden Adra. Wenn er auf diese Art seine Reise durch das Todesfeuer mit Energie versorgt, dann könnte mich der Fund weiterer Adrasäulen direkt zu ihm führen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

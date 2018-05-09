@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_city_burning_building</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>71</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>In den höher gelegenen Gebieten von Neketaka machen schräge Hütten und Gebäude mit fremdländischem Aussehen Platz für bunte, offene Häuser mit breiten Holztüren, die kunstvolle Reliefs zeigen. Anstatt dich um Münzen oder etwas zu essen anzubetteln, versuchen die Kinder hier, dir Karten für ein Stück zu verkaufen oder die Vorteile der öffentlichen Bäder anzupreisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du rennst aus der Hintertür auf eine fast verlassene Straße. Eine Gruppe zerlumpter Gestandener mit Fackeln in den Händen sind die einzigen Anwesenden. Du bemerkst, dass einer von ihnen einen prallen Sack hält, der mit Blut befleckt ist.
+
+Einer der Gestandenen, ein breitschultriger Mensch mit einer eng sitzenden Maske blickt finster vor sich hin. "Anscheinend haben wir hier einen Held. Schade um dich, denn leider hat uns der Chef klare Anweisungen in Bezug auf Zeugen erteilt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Der Chef hat mich geschickt, um sicherzustellen, dass ihr Idioten hier nicht rumsteht und das Lagerfeuer anstarrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Angreifen] "Das ist für die Leute im Haus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Frau auf der rechten Seite, eine von Narben bedeckte Elfe, blickt den maskierten Anführer an. "Glaubst du, er hat jemanden geschickt, der uns kontrollieren soll? Hört sich nach ihm an, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Dereo und mich verbindet eine gemeinsame Geschichte. Steckt diese Waffen weg und ich vergesse, dass ihr sie gezogen habt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Versuchen, zu fliehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Tötet die Zeugen und verteilt euch!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Deine Gruppe folgt, bricht durch ihre Formation und rennt durch die Straßen, während ein Schauer von Messern und Fackeln vorbeifliegt. 
+
+Im Fliehen drehst du dich um und siehst, dass [SkillCheck 0] sich einen blutigen Arm hält. Dein Kamerad taumelt gegen eine Wand und schlägt mit der Stirn gegen die Ziegel.
+
+Glücklicherweise nimmt die Bande nicht die Verfolgung auf, vielleicht weil sie spüren, dass jederzeit wachen auftauchen könnten. Sie ziehen sich in die Gassen zurück, aus denen sie gekommen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du nimmst einen schlangenähnlichen Weg die gepflasterten Straßen hinunter und weichst einem Sturm geworfener Messer und Fackeln aus. 
+
+Die Bande nimmt nicht die Verfolgung auf, vielleicht weil sie spüren, dass jederzeit Wachen auftauchen könnten. Sie zieht sich in die Gassen zurück, aus denen sie gekommen ist.
+
+Als die Schläger weg sind, sinkt dein Adrenalinspiegel und enthüllt wie durch einen magischen Trick eine ernsthafte Verbrennung, die du dir auf der Flucht zugezogen haben musst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Fackeln fliegen vorbei und fallen herunter, rutschen über die Straße und Funken sprühen in Richtung deiner Füße. 
+
+Die Bande nimmt nicht die Verfolgung auf, vielleicht weil sie spüren, dass jederzeit Wachen auftauchen könnten. Sie zieht sich in die Gassen zurück, aus denen sie gekommen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Ein grobschlächtiger Aumauaner entfaltet seine dicken Arme und hebt eine Hand. "Ekera, es ist dieser Wächter, oder?"
+
+Der maskierte Mann blickt flüchtig von ihm zu dir. "[Player Name]?" Er deutet mit dem Kopf unwirsch in Richtung Gebäude. "Diese Dummköpfe haben Dereo zu lange zu viel geschuldet. Wir verlangen nur das zurück, was ihm gehört."</DefaultText>
+      <FemaleText>Ein grobschlächtiger Aumauaner entfaltet seine dicken Arme und hebt eine Hand. "Ekera, es ist diese Wächterin, oder?"
+
+Der maskierte Mann blickt flüchtig von ihm zu dir. "[Player Name]?" Er deutet mit dem Kopf unwirsch in Richtung Gebäude. "Diese Dummköpfe haben Dereo zu lange zu viel geschuldet. Wir verlangen nur das zurück, was ihm gehört."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ein grobschlächtiger Aumauaner, der zurückgeblieben war, entfaltet seine dicken Arme. "Wir sind nicht die Idioten. Du bist der Idiot. Idiot."
+
+"Tötet sie alle", sagt der maskierte Mann. 
+
+Die Brandstifter nähern sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Verschwinde von hier. Sofort!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Einen Hinterhalt vorbereiten, solange sie verwirrt sind.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Der Anführer runzelt die Stirn, aber er nickt dir kurz zu. Mit einem letzten unsicheren Blick fliehen die Brandstifter in die dunklen Gassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du hast ihresgleichen bereits im Gefolge von Dereo gesehen. So wie sie sich verhalten haben, leitest du ab, dass sie wahrscheinlich von ihm angeheuert wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Verdammt. Ich hasse es, wenn der Chef Scheiße zurückhält."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du gehst um eine Ecke und stehst plötzlich mitten im Tumult. Eines der großen Häuser vor dir brennt, es steht vollständig in Flammen. Die meisten der Huana starren fasziniert in die Flammen. Einige wenige schreien vor Entsetzen oder laufen los, um die Feuerwehr zu holen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Die Fackeln mit Frost-Magie auslöschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Das Haus betreten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Das Haus untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Einen Sturm heraufbeschwören, um die Flammen auszulöschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Es sein lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du wendest dich von dem Haus ab und gehst weiter die Straße hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Deine Finger und Lippen zucken gleichermaßen, als du die örtliche Essenz zu einem eisigen Zauberspruch bewegst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0] singt und du bemerkst, wie die milde tropische Luft kühler wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Der kraftvolle und kalte Luftstoß löscht die Fackeln aus und hinterlässt eine Reifschicht auf den Traufen um sie herum, doch die Flammen haben sich bereits im Inneren des Hauses ausgebreitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du rufst die Geister der Luft und des Meeres an und die Wolken sammeln sich über dir, wobei sie vor Essenz schäumen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 0] singt, ruft die Geister an und der Himmel über dir verdunkelt sich unheilvoll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Der Himmel öffnet sich und lässt eine Sturmflut herab, die die sorgsam gekleideten Huana unter Vorsprüngen und in Türnischen Schutz suchen lässt. 
+
+Dichter Dampf steigt aus dem Haus auf, als das Wasser die Traufen hinabfließt. Das Feuer scheint größtenteils gelöscht zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Das Haus sieht nicht anders aus als andere Häuser im Viertel, auch wenn es vielleicht ein wenig größer als die meisten hier ist. Hellblaue Farbe, mit weißen Details gesprenkelt, schält sich vom Mauerwerk ab ... wo sie nicht bereits vom Feuer geschwärzt wurde.
+
+Die große Eingangstür ist offen und Rauch entweicht auf die Straße. Du glaubst, eine schattenhafte Bewegung im Haus wahrzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Das Haus sieht nicht anders aus als andere Häuser im Viertel, auch wenn es vielleicht ein wenig größer als die meisten hier ist. Hellblaue Farbe, mit weißen Details gesprenkelt, schält sich vom Mauerwerk ab ... wo sie nicht bereits vom Feuer geschwärzt wurde.
+
+Die große Eingangstür ist offen und Rauch entweicht auf die Straße. Du glaubst, eine schattenhafte Bewegung im Haus wahrzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du betrittst das Haus durch die offene Tür, einen Arm hältst du schützend vor den Mund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Frische Fackeln liegen in den Traufen darüber ... Anscheinend war dies das Werk von Brandstiftern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Rauch umgibt dich, die Hitze zerrt an deiner Haut und bringt dein Haar dazu, sich zu kräuseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Dicker Rauch hängt in der Luft und dringt in deine Kleidung ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Dann siehst du die Leichen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Im Hauptraum liegen drei Leichen. Zwei liegen auf dem Boden und weisen Wunden von dünnen, kleinen Klingen auf, die immer noch bluten. Eine dritte Leiche liegt über einem langen, niedrigen Stuhl, ihr Körper ist von Armbrustbolzen durchdrungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Die Brandstifter zum Hinterausgang verfolgen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Auf Hinweise hin untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Nach der Anwesenheit von Geistern suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Die Leichen ausrauben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Aus dem Haus fliehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Eine schwer zu erkennende Spur blutiger Fußstapfen führt zur Rückseite des Hauses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Hier sieht nichts ungewöhnlich aus. Außer die Leichen, die ganz eindeutig nicht durch das Feuer gestorben sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Grinsend ziehen die Schläger ihre Waffen und verteilen sich, um dich einzukreisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Du öffnest deine Wächter-Sinne und suchst nach der Anwesenheit von Geistern ...
+
+Du spürst den Schmerz auf dich einprasseln, die tiefe Agonie von Klingen, die in deine Haut gebohrt werden, die heftigen Einschläge von Armbrustbolzen. Du hörst Schritte. Die Bastarde aus dem Schlund, die dich getötet haben, flüchten durch die Hintertür.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Anscheinend hatte jemand vor dir die Leichen entdeckt. Ihre Geldbeutel wurden von ihren Gürteln geschnitten, ihre Schmuckstücke grob von Fingern und Ohren gerissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Du fliehst und rennst aus dem Haus. Du erreichst die Straße und mischt dich unter die Menge, du hustest schwer und wischst dir den Ruß aus dem Gesicht.
+
+"Hat jemand überlebt, Ekera?" fragt eine alte Mataru-Frau, die mit den hellen Kleidern Amiras bekleidet ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Die Essenz der Geister &lt;link="stringtooltip://cyclopedia/56"&gt;strudelt gefährlich&lt;/link&gt;, sie wird von den physischen Flammen genährt und nährt sie im Gegenzug auch.
+
+Die Vision verblasst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Die Geister spüren deine Anwesenheit und hängen sich an dich wie eine Boje auf rauer See.
+
+Die Vision verblasst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ich fürchte nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Überzeuge dich selbst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Die Frau nickt. "Danke trotzdem, unser ausländischer Freund, für deine Mühen. Es ist nicht viel, aber nimm dies mit unserem Segen."
+
+Sie drückt dir eine Tasche in die Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Die Frau runzelt die Stirn als sie langsam nickt. "Amiras scharfe Augen mögen dich führen, Fremder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Die Frau schlägt ihre Augen nieder. "Ich verstehe. Aber trotzdem danke für deine Mühen. Es ist nicht viel, aber nimm es bitte an."
+
+Sie drückt dir eine Tasche in die Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Du drehst dem geschwärzten Gebäude den Rücken zu und gehst weiter die Straße hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Du solltest machen, dass du hier wegkommst, bevor die Mataru eintreffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Weicht zurück, ihr Arschlöcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ich kann alles vergessen, was ich hier gesehen habe. Aber das hat seinen Preis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Du blickst zurück zu dem glimmenden Haus und gehst dann weiter die Straße hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Der Anführer runzelt die Stirn und betrachtet dich von oben bis unten. Er blickt schließlich zu dem Schläger mit der Tasche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Die Schläger lachen. "Du musst vollkommen mit Rum abgefüllt sein, um zu glauben, wir würden dir auch nur einen krummen Kupferhaufen geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Die Schläger sehen einander an, sie wirken unsicher. Der unattraktive Elf macht einen Schritt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Einer der Schläger sieht zu dem maskierten Mann hin. "Dieses Arschloch hat uns gerade Arschlöcher genannt?"
+
+"Ich glaube, das Arschloch hat es getan", antwortet er. "Scheint ein paar Löcher mehr zu benötigen, wenn du mich fragst."
+
+Die Brandstifter nähern sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Gib ihm einen Anteil an der Beute, Murk."</DefaultText>
+      <FemaleText>"Gib ihr einen Anteil an der Beute, Murk."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Der Schläger namens Murk runzelt die Stirn, kramt ein bisschen Firlefanz aus der Tasche und schmeißt es dir vor die Füße.
+
+"Wir machen uns dann mal auf den Weg", sagt der maskierte Mann und sieht dir in die Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Angreifen] "Zu dumm nur, dass es nicht genug ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Du rennst los und schlägst einen Bogen um die Brandstifter.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

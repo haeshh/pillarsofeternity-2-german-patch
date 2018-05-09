@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_cv_location_ruined_tower</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Überbleibsel eines Turms liegen vor dir auf dem Boden verstreut. Das steinerne Gebäude scheint bei einem Erdbeben eingestürzt zu sein. Der Turm wirkt verlassen – nicht einmal eine Leiche in Sicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Das Gebiet absuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Das Gebiet weiter absuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du verbringst einige Stunden damit, den Turm zu durchsuchen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>... und findest nichts von Wert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>... und findest eine kleine Truhe voller Münzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>... und findest einige nützliche Werkzeuge in den Trümmern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>... und findest eine Handvoll gewöhnlicher Edelsteine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>... und findest ein Bündel Handwerkszutaten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>... und findest eine Truhe voller mächtiger Schriftrollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>... und findest eine Sammlung seltener Tränke, aufgehäuft in einem Regal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>... und findest ein verwittertes Zauberbuch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>... und findest einen seltsamen Anhänger, der mit einem gedämpften inneren Licht leuchtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du hast jeden Zentimeter des Turms durchsucht. Es gibt nichts mehr zu holen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Den Anhänger nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du nimmst den Anhänger auf. Er fühlt sich seltsam warm an, als wäre er kürzlich erst getragen worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du hast jeden Zentimeter des Turms durchsucht. Es gibt nichts mehr zu holen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du stößt auf eine Turmruine, die aus der Spitze eines Hügels ragt. Die Struktur aus Holz und Stein ist von öligem Ruß bedeckt, und vom Fuß des Turms aus liegt Mauerwerk in einem weiten Fächer verstreut. Es scheint, als sei eine Explosion für seinen Zustand verantwortlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ein schmaler, hölzerner Turm steht vor dir. Über der Tür an seinem Fuß hängt ein geschnitztes und gemaltes Wandbild von Amira und Ngati, die gerade in einen wilden Kampf verwickelt sind. Der Turm neigt sich stark zur Seite und steht kurz davor, umzukippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du kehrst zum Fuß des Turms zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du setzt deine Suche in den Ruinen des Turms fort ...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

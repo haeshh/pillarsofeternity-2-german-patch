@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_si_transition_exit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du ziehst deinen unförmigen Tauchanzug an und verlässt die Ruinen. Als du das schimmernde Schutzfeld der Ruinen passiert hast, spürst du den Druck des Meeres gegen deine Brust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der starke Druck in dieser Tiefe macht das Schwimmen zu einem beschwerlichen Unterfangen und du hast zu kämpfen, um an die Oberfläche zurückzukommen. Als du die Oberfläche erreichst, zieht dich deine Besatzung schnell an Deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

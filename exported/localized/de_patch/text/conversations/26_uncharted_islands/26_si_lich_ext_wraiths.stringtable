@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_lich_ext_wraiths</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Kommt, Schwestern! Lasst uns die Macht herbeirufen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Etwas stimmt nicht, aber du weißt nicht genau, was es ist. Dann wird es dir klar. Die Stille. Da ist kein Wind, der über deine Haut streicht oder die Baumwipfel zum Rauschen bringt. Da sind keine Vögel, die pfeifen und zwitschern. Auch das Zirpen der Insekten ist nicht mehr zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Nach der Quelle der Stimmen suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du triffst auf einen felsigen, gewundenen Pfad, der die steile Seite des Bergs hinauf führt. Hier ist der Sprechgesang der Stimmen lauter. Worte verstehst du allerdings noch immer keine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Den Pfad hinauf gehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Dich näher heranschleichen, um alles zu beobachten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du schleichst dich den Pfad entlang und entdeckst eine Gruppe von Geistern, die in der Lichtung vor dir umher schweben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du schleichst den Pfad entlang und entdeckst eine Gruppe von Geistern, die in der Lichtung vor dir umher schweben.
+
+Der felsige Untergrund knirscht unter deinen Stiefeln. Ein einziger Fehltritt sorgt dafür, dass es dir die Beine unter dir wegzieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Geister schweben um eine zentrale Gestalt herum. Nun wenden sie alle dir ihre geisterhaften Augen zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Deine Waffe ziehen und angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Dich näher an die Geister heranschleichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Aussicht auf einen Kampf schreckt dich nicht im Geringsten. Du nimmst all deine Entschlossenheit zusammen und greifst die Geister an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Als du um eine Ecke biegst, hörst du auf einmal in der Ferne einen seltsamen Sprechgesang. Du kannst die Worte nicht verstehen, vernimmst lediglich das leise Dröhnen von vielen Stimmen auf einmal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du schleichst dich den Pfad entlang. Der felsige Untergrund knirscht unter [SkillCheck 0]s Stiefeln. Ein zweiter Fehltritt schickt lautstark einen Stein den Hang hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

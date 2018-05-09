@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_principi_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Steinstampfer Rodul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte den &lt;b&gt;Steinstampfer Rodul&lt;/b&gt; und nimm den Triumph seines Schiffes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Udita&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Uditas&lt;/b&gt; Auftrag besteht darin, &lt;b&gt;Steinstampfer Rodul&lt;/b&gt;, den vailianischen Kapitän der Galleone &lt;b&gt;Ziegenhorn&lt;/b&gt; ausfindig zu machen. Wenn ich beweisen kann, dass ich den Kapitän getötet habe, werde ich ein Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Steinstampfer Rodul&lt;/b&gt; ist oft auf seinem Schiff, der &lt;b&gt;Ziegenhorn&lt;/b&gt;, und segelt in den offenen Gewässern &lt;b&gt;östlich Neketakas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Steinstampfer Roduls Kopfgeld steht nun mir zu. Ich kann meine Belohnung bei &lt;b&gt;Udita&lt;/b&gt; im &lt;b&gt;Refugium des Hebers&lt;/b&gt; in Stauholz abholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Rodul zerstampft und das Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

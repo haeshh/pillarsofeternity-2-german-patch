@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_qst_cartographer_three</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kartierung des Archipels: Das westliche Wakara-Riff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Erkunde die Inseln ganz weit im &lt;b&gt;Südwesten von Neketaka&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Sanza zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Sanza, der reizbare Kartograf, den ich am Ankerplatz der Königin getroffen habe, möchte einen umfassenden Führer für die Inseln des Todesfeuers erstellen. Allein kann er diese Aufgabe allerdings nicht erledigen.
+
+Ich habe gewisse Fortschritte gemacht, aber es gilt noch immer eine Menge zu erkunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Sanza, der Kartograf am Ankerplatz der Königin, hat mich gebeten, die bisher noch nicht kartografierten Inseln des Todesfeuer-Archipels zu erkunden.
+
+Wir sind vorangekommen, aber es gibt noch immer eine Menge zu tun. Sanza hat mich gebeten, die Inseln ganz weit im Südwesten zu erkunden, westlich des Wakara-Riffs und der Kangati-Inseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe den südwestlichen Viertelkreis meiner Karte ausgefüllt.&lt;b&gt;Sanza&lt;/b&gt; wird begierig sein, von meinen Fortschritten zu erfahren. Ich kann ihn in seinem Laden am &lt;b&gt;Ankerplatz der Königin&lt;/b&gt; in Neketaka finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe eine Insel mit völlig überwachsenem Dschungel gefunden. Darin fand ich eine uralte Ruine der Huana, in denen es von Lagufaeth nur so wimmelte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Auf einer Wüsteninsel habe ich eine Ruine der Huana gefunden, geschützt durch tödliche Fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für den Abschluss dieser Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe eine Karte der Inseln westlich des Wakara-Riffs angefertigt und bin zu Sanza zurückgekehrt, um ihm diese Informationen zu überbringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

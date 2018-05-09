@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_si_weak_wall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese Wand wurde anscheinend vor Kurzem repariert. Viele der Steine sind neu. Sie wurden extra so zugeschnitten, um sich in die ältere Struktur ringsum einzupassen.
+
+Man bräuchte ein entsprechendes Werkzeug oder beträchtliche Kraft, um das standhafte Hindernis zu überwinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Steinwand untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Wand erscheint ziemlich stabil und gerade, doch beharrliche Arbeit mit Hammer und Meißel würde kurzen Prozess mit ihr machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Jemand sich durch die Wand drücken lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Der Mörtel gibt letztendlich nach. Ein Stück der Wand bricht zusammen. Das Loch ist so groß, dass eine Gruppe einer nach dem anderen hindurchpasst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Wand steht beharrlich aufrecht. Das einzige Ergebnis dieser Aktion sind Schrammen an Schulter und Selbstwertgefühl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Den Mörtel wegmeißeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Mit Ruhe und Sorgfalt schaffst du es, die vor kurzem durchgeführten Reparaturen zu durchbrechen und einen gangbaren Weg aus der Mauer zu schlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du bemerkst dünne Metalldrähte, die wie ein spinnenwebenartiges Netzwerk in den Stein verschachtelt sind. Ihnen folgend gelangst du zu einem ausgeklügelten Alarmsystem, das durch ein Entfernen der Steine ausgelöst werden würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Das Alarmsystem deaktivieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Nachdem du die Drähte vom Alarmsystem getrennt hast, kann man die Steine sicher entfernen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Hoffnung, dass gleichzeitig an jedem Draht zu ziehen das Alarmsystem nicht auslösen könnte, erscheint dir schließlich doch eine schlechte Idee. So entscheidest du dich im letzten Augenblick dagegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Als der letzte der losen Steine wegrollt, erblickst du den Silberglanz eines Drahtes, der entzwei geht. Irgendwo in der Villa lässt eine Mischung aus Glocken und Hörnern einen dissonanten Alarm entstehen, der mit der Zeit leiser wird und durch ein hohes hämisches Lachen, welches näherkommt, ersetzt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

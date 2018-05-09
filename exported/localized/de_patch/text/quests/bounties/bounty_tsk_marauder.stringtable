@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_marauder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Nomu der Marodeur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Nomu&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Abocco&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Plünderer und Bandenanführer &lt;b&gt;Nomu der Marodeur&lt;/b&gt; ist mit dem Rest seiner Mannschaft aus der Haft entflohen. Sie sind in die Wildnis nordwestlich von &lt;b&gt;Neketaka&lt;/b&gt; geflohen. Sie hinterließen eine Schneise der Zerstörung sowie ein offenes Kopfgeld.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Nomu&lt;/b&gt; und seine wieder zusammengekommene Mannschaft wurden zuletzt in der Wildnis &lt;b&gt;nordwestlich von Neketaka&lt;/b&gt; gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe mich um Nomu gekümmert. &lt;b&gt;Abocco&lt;/b&gt; in der &lt;b&gt;Wilden Mähre&lt;/b&gt; im Ankerplatz der Königin wird mich für einen Beweis anständig bezahlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Nomu wird nie wieder marodieren, und ich habe das Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

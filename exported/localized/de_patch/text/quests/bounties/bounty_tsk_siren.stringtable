@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_siren</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Onadere die Sirene</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Onadere&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Okauro&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Eine Sirene lässt Schiffe an Felsen zerschellen. Nach Angaben Überlebender sucht &lt;b&gt;Onadere&lt;/b&gt; die &lt;b&gt;westlichen Inseln&lt;/b&gt; der großen Inselkette &lt;b&gt;Kua o Rikuhu&lt;/b&gt; heim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Onadere&lt;/b&gt; sucht die &lt;b&gt;westlichen Inseln&lt;/b&gt; der großen Inselkette &lt;b&gt;Kua o Rikuhu&lt;/b&gt; heim. Ihr Tod wird für sicherere Schiffsrouten und prall gefüllte Taschen sorgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Onadere wurde hingerichtet. Ich kann den Beweis ihres Todes bei &lt;b&gt;Okauro&lt;/b&gt; bei der &lt;b&gt;Schlangentreppe&lt;/b&gt; in Neketaka gegen meine Belohnung eintauschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Onadere hätte sich mal lieber ein paar Tipps von der Loreley geben lassen sollen. Wie auch immer, ich habe das Kopfgeld von Okauro bekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

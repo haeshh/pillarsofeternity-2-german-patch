@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_sea_troll</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Tāhae</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Tāhae&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Abocco&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein Seetroll namens &lt;b&gt;Tāhae&lt;/b&gt; hat sich mit der Plünderung von Fischerdörfern &lt;b&gt;südlich von Neketaka&lt;/b&gt; einen Namen gemacht. Wer Tāhaes Kopf hat, kann ein Kopfgeld kassieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Tāhae&lt;/b&gt; wurde zuletzt bei der Plünderung von Dörfern an der Küste &lt;b&gt;südlich von Neketaka&lt;/b&gt; gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe mit Tāhae abgerechnet. &lt;b&gt;Abocco&lt;/b&gt; in der &lt;b&gt;Wilden Mähre&lt;/b&gt; im Ankerplatz der Königin hat mein Kopfgeld.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Tāhae wird keine Dörfer mehr plündern. Ich habe sein Kopfgeld eingesackt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

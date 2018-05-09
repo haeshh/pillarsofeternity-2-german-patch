@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_kahn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>181</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine junge Frau lungert in der Nähe der Bühne herum, in ihren Händen hält sie einen Becher mit Met. Sie scheint kein Interesse an den Tänzern zu zeigen, doch die Ringe unter ihren Augen sprechen von etlichen Nächten, die sie in der Taverne verbracht haben muss.
+
+Sie sieht träge im Raum umher, bis ihr Blick sich interessiert an dir festbeißt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Nein, ich kann nicht behaupten, dass ich das habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Lügen] “Oh sicher, ich habe ihn etliche Male gesehen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was interessiert es dich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"He! Du bist der Kapitän, in dessen Crew sich ein Alt-Aedyranischer Elf befindet, oder?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Das hast du? Wo?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“Willst du mich damit täuschen? Du kannst schlechter lügen als ein Kind, das mit einer Hand in der Keksdose erwischt wird.”</DefaultText>
+      <FemaleText>"Willst du mich damit täuschen? Du kannst schlechter lügen als ein Kind, das mit einer Hand in der Keksdose erwischt wird."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“Hast du hier in letzter Zeit einen alten Elfen gesehen? Kleidet sich merkwürdig, vermutlich betrunkener als ein Aal in einem Fass voll Met.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“Warum interessiert dich das?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Lügen] “Elfen? Ich kenne keine Elfen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>“Schätze, ich habe mich vertan. Entschuldige meine Aufdringlichkeit, Fremder.” Kahn zuckt mit den Achseln, und ein neckisches Lächeln erstreckt sich über ihr Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>“Hör auf mit dem Scheiß. Ich bin nicht gerade für meine Geduld bekannt, und ich habe eine Rechnung offen, die zügig beglichen werden muss.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Wie der Zufall es will, habe ich ihn vor nicht allzu langer Zeit getroffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Lügen] "Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>“Du wirst dir schon etwas mehr Mühe geben müssen, wenn du mich übers Ohr hauen willst.” Sie verdreht die Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>“Bei Ondras Leere, ich wusste es.” Sie seufzt und kneift mit zwei Fingern auf ihren Nasensteg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Das hast du? Wo?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“Diese Ratte von einem Ziegenknutscher schuldet mir einen ordentlichen Batzen Münzen, und seine Schulden liegen nun in &lt;i&gt;deiner&lt;/i&gt; Verantwortung, Kapitän.’”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Lügen] “In Port Maje.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Lügen] “Unten am Hafen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Lügen] “In Caed Nua.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>“Entschuldigung, ich musste lachen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Versuch nicht, mich zu veralbern. Ich war gerade am Hafen, und da war er nicht.” Sie verschränkt die Arme und sieht dich finster an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>“Ich habe diesen Trottel &lt;i&gt;vom&lt;/i&gt; Dyrwald bis zum Todesfeuer verfolgt. Ich weiß sehr genau, dass er irgendwo auf diesen vermaledeiten Inseln ist.” </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>“Der alte Trunkenbold wurde vor nicht einmal zwei Tagen in Neketaka gesehen. Er kann unmöglich in Port Maje sein.” Sie verdreht die Augen und seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“Du! Du schuldest mir ein paar Münzen!”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Kahn sieht dich mit einem eiskalten Blick an und schweigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Hör mal, der Kerl, nach dem ich suche, schuldet mir eine Menge Geld. Fünftausend Kupferstücke. Wenn du mir hilfst, ihn zu finden, gebe ich dir zwanzig Prozent davon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>“In einer gigantischen Pyramide irgendwo im Nirgendwo, die zu Ehren von Woedica errichtet wurde.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>“Mach es nicht zu spannend! Was ist mit ihm passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>“Dieser alte Gänseschubser schuldet mir eine ordentliche Menge Münzen.” Sie nimmt einen tiefen Schluck aus ihrem Becher und rundet ihn mit einem fürchterlichen Rülpser ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“Von was für einer Summe sprechen wir hier?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>“Ich könnte dir dabei weiterhelfen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Weggehen] "Ein Jammer. Viel Erfolg!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Warte!" Bei dem Versuch, dich aufzuhalten, hechtet sie so schnell nach vorne, dass sie beinahe umfällt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Sie lehnt sich zu dir und flüstert geheimnistuerisch in dein Ohr:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Wirklich?" Ihr Mund steht offen, und erstaunt blinzelt sie wieder und wieder mit den Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“Von was für einer Summe sprechen wir hier?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“Er schuldet mir 5000 Kupferstücke, und ich habe vor, sie mir zu holen – entweder von seiner oder deiner Leiche, das spielt für mich keine Rolle.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>“Dann nimm dir, was er dir schuldet, und verschwinde.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>“Er ist ein alter Pleitegeier.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“Also, DAS hätte ich nicht erwartet. Danke, [Player Name], dass du Oswalds Schulden beglichen hast. Möge die Grabesdame dir hold sein.”
+
+Kahn trinkt ihr Met mit einem Schluck herunter und schmettert den Krug auf den Tisch, sichtlich erschüttert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“Zwanzig Prozent? Aber ich werde die ganze Arbeit haben.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>“Wer schuldet dir Geld?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Weggehen] "Für so etwas habe ich keine Zeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>“Dieser alte Trunkenbold Oswald, von dem ich dir erzählt habe. Gutgläubig wie ich bin, habe ich ihm etwas geliehen, und er ist natürlich verschwunden, bevor er mir auch nur ein Kupferstück zurückgezahlt hatte.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>“Mein Güte, bei Ondras hängenden Titten, IST JA GUT. Du kannst vierzig Prozent und all den Krimskrams haben, den Oswald bei sich trägt.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>“Für weniger als die Hälfte schnüre ich mir nicht einmal die Stiefel, werte Lady.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>“Klar, ist ja nicht so, als hätte ich etwas Besseres zu tun.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>“Wie du willst. Ich bin hier, falls du es dir anders überlegst.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>“Na, doch Interesse? Hat meine kleine Geschichte dich doch berührt?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>“Ich bin durch eine uralte Pyramide voller Monster und Kultisten gekrochen und habe ÜBERLEBT. Zisch. Ab.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>“Überzeugendes Argument.” Sie spitzt ihre dünnen Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>“Du bist sein Kapitän, also liegen seine Schulden in deiner Verantwortung! Gib mir meine Kupferstücke, verdammt, oder du wirst meinen Stahl spüren.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>“Ohne meine Hilfe würdest du schließlich keine einzige Münze sehen. Da ist noch Luft nach oben.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>“Wie wäre es damit: Ich gebe dir sechzig Prozent und die Diskussionen haben ein Ende.” Sie seufzt schwer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>“Na gut, ich gebe dir achtzig Prozent für deine Mühen. Aber mehr ist nicht drin.” Sie seufzt und fährt frustriert durch ihre Haare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“Warum dann überhaupt feilschen?” Sie drückt sich mit einem Seufzer vom Tisch weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>“Ich kann dir nicht genug danken. Niemand wollte mir auch nur sagen, was heute für einTag ist, bis du gekommen bist.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>“Vielleicht kriegst du mehr aus ihr als ich. Sie will nicht mit mir reden, diese widerspenstige kleine Töle.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>“Wie wäre es mit der Hälfte? Mehr habe ich nicht dabei.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>“Nicht, was ich mir erhofft hatte, aber ich schätze, es reicht.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>“Nicht notwendig, ich habe Oswalds Tagebuch bereits.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>“Zuerst habe ich ein paar Fragen an dich.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Weggehen] “Sicher doch.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>“In anderer Leute Angelegenheiten rumzuschnüffeln gibt dir einen Kick, was? Hehe, geht mir auch so. Du würdest nie glauben, was meine Schwester so in ihren Schränken aufbewahrt.” Ihre Lippen verformen sich zu einem verschwörerischen Grinsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>“Hast du schon ein paar Hinweise, die mir helfen, den verrückten alten Trunkenbold zu finden?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>“Na sieh mal einer an.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>“Er ist tot.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>“Er stand wegen Schwurbruchs vor Gericht. Ich habe ihn gerettet und ihm dann seinem Schicksal überlassen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Lügen] “Er ist tot.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>“Einzelheiten interessieren mich nicht. Hatte er Münzen bei sich?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>“Hatte er irgendwelche Münzen bei sich? Dieses alte Blesshuhn hat mir fünftausend Kupferstücke geschuldet!”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>“Nein, der Mann war völlig pleite.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Lügen] “Oh, er hatte haufenweise Münzen bei sich. Goldmünzen, Silbermünzen, einen riesigen Sack Kupfermünzen ...”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>“Bei Ondras schwingenden Möpsen, dieser Scharlatan hat mich betrogen!” Sie schmettert mit der Faust auf den Tisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>“Bei so einer fetten Beute macht es dir doch nichts aus, mir das zurückzugeben, was er mir geschuldet hat, oder?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>“Ich habe das Geld gefunden. Also gehört’s mir.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>“Habe ich haufenweise gesagt? Ich meinte überhaupt keine. Oswald war komplett pleite.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Was willst du wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Gehen] "Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>“Ich bin nicht auf der Suche nach Ärger. Gib mir mein Geld, und wir verlassen diese Taverne beide mit intakten Gliedern.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>“Ich hab nur einen Witz gemacht. Der Mann hatte nicht das kleinste Stückchen Kupfer bei sich.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>“Hier ist das Tagebuch.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>“Hast du nicht einen Tempel, den du finden musst?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>“Ich habe Oswald gefunden.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>“Und? Wo ist er? Hast du mein Geld?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>“Ziemlich witzige Sache, Oswald war komplett pleite. Nicht ein Kupferstückchen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Lügen] “Ich habe alles bei mir.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>“Also hast du das wirklich.” Ein schwaches Lächeln formt sich in ihren Mundwinkeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>“Also hast du das wirklich.” Ein schwaches Lächeln formt sich in ihren Mundwinkeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>“Also hast du das wirklich.” Ein schwaches Lächeln formt sich in ihren Mundwinkeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>“Dieser verflixte alte Schweineschlecker! Damit hätte ich rechnen müssen.” Kahn schmettert mit der Faust auf den Tisch. Das Besteck und Geschirr darauf springt kurz in die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>“Oh, tut mir leid, also bist du ein Vithrack? Oder vielleicht ein Aumaua? Vielleicht ein Zwerg? Denn du bist GANZ BESTIMMT kein Elf. Genau.” Sie verdreht die Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Aloth räuspert sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Aloth räuspert sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>“Ich schulde dir eher einen Klaps auf den Kopf.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Die Augen verdrehen und mit den Achseln zucken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>“Diese Ratte von einem Ziegenknutscher schuldet mir einen ordentlichen Batzen Münzen, und seine Schulden liegen nun in &lt;i&gt;deiner&lt;/i&gt; Verantwortung, Kapitän.’”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>“Ich kann es kaum erwarten, wieder in einem richtigen Bett zu schlafen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Lügen] “Es geht ihm gut. Es ist nicht passiert. Er ist ganz fröhlich seines Weges gegangen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Abgemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>“Oswald, der Mann, nach dem ich suche, war von einer der Kurtisanen oben besonders angetan. Aenalys.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>“Hast du versucht, nett zu sein?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>“Sie ist auf meinen besonderen ‘Charme’ nicht wirklich angesprungen. Sehen wir mal, ob du das besser kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Kahn blättert eilig durch Oswalds Tagebuch. Plötzlich bleibt sie auf einer Seite stehen, reißt die Augen auf und sieht dich an. Irgendjemand hat überhastet die gebrochene Krone, das Symbol von Woedica, auf die letzte Seite gekritzelt.
+
+Kahn murmelt etwas vor sich hin. Sie fährt mit ihren Fingern an den Linien des Symbols entlang und runzelt die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Oje, Oswald, jetzt bist du aber wirklich ins Fettnäpfchen getreten, nicht wahr? Dich auf die &lt;i&gt;Woedicaner&lt;/i&gt; einzulassen? Du verdammter alter Narr!" Traurig schüttelt sie den Kopf und schließt das Schloss des Tagebuchs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>“Wo könnten sie ihn hingebracht haben?” Mit ihren schiefen Zähnen kaut sie auf ihrer Unterlippe herum und murmelt etwas vor sich hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Mit etwas Glück kannst du die alte Ziege in einem Stück wiederfinden und wir beide gehen mit vollen Taschen aus dieser Sache."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>“Was hast du mit Oswald zu schaffen?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>“Warum schuldet Oswald dir Geld?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>“Ziemlich witzige Sache, Oswald ist komplett pleite. Nicht ein Kupferstückchen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>“Ich hatte gehofft, dass du mich das nicht fragen würdest. Aber was soll’s.” Sie fährt mit einer Hand ungeduldig durch ihre Haare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Danach grummelt sie theatralisch, als würde es ihr Schmerzen bereiten, diese Geschichte zu erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Sie starrt in die Tiefen ihres Krugs und seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Weggehen] “Ich würde lieber meine Stiefel fressen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>“So wie du aussiehst, wäre das wohl das Beste, was du seit Langem zwischen die Beißer kriegen würdest.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>“Ich bin hier, falls du deine Meinung änderst. &lt;i&gt;Nachdem&lt;/i&gt; du deine Stiefel gefressen hast, natürlich.” Ihre schmalen Lippen verwandeln sich zu einem neckischen Grinsen, und sie zieht einen unsichtbaren Hut vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>“Komm wieder zu mir, wenn du mit ihr geredet hast! Ich warte hier. Mit meinem Bier.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>“Ich bin mir unsicher.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>“Wir könnten das Geld gebrauchen. Ich wollte dir keine Sorgen bereiten, aber dein Bett hat seit einigen Wochen Rattenprobleme.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[Weggehen] “Ich kann dir nicht helfen. Lebe wohl.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Kahn wirft dir ein charmantes, lückenhaftes Lächeln zu und geht. Bevor sie aus der Tür verschwindet, dreht sie sich kurz um und winkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>“Schätze, ein Boot wartet auf mich. Lebe wohl.” Kahn kippt ihr Met zügig herunter und eilt überstürzt aus der Taverne, ohne auch nur zurückzublicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>“Also, ich mache mich besser aus dem Staub. Ein Boot wartet auf mich und so. Lebe wohl.”
+
+Kahn stürzt aus der Taverne und murmelt vor sich hin, dass sie besser verschwindet bevor du deine Meinung änderst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>“Danke für die Auskunft, [Player Name]. Ich kann nicht behaupten, dass mir gefällt, was ich da höre, aber ich bin froh, nichts mehr mit diesem Unsinn zu tun zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Sie winkt ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>“Also, wo hast du ihn gefunden?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>“Fünftausend Kupferstücke, ungelogen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>“Der Mann ist ein Freund der Familie – er WAR es, für mittlerweile wohl vier Generationen. Die Vorteile des Elfenlebens, nicht wahr?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>“Es war mein Fehler. Ich hätte es besser wissen müssen. Diesem alten Trunkenbold hätte ich nie glauben dürfen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>“Er ist ein Zauberer, weißt du, ein Bastler. Er hat sich – und mich – davon überzeugt, mithilfe von genügend leuchtendem Adra ein Gerät erschaffen zu können, dass das Leben verlängert.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>“Das muss kompletter Humbug gewesen sein, denn eines Tages ist er einfach abgehauen, ohne ein Wort zu sagen oder sich auch nur zu entschuldigen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>“Ich dachte, ich würde ihn besser kennen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>“Oh. Du bist es nicht. Entschuldige, Fremder. Hab einen Elfen in Aedyranischer Kleidung gesehen und ein bisschen überstürzt gehandelt.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>“Leuten mit deinem Gefeilsche auf die Nerven zu gehen, reicht dir nicht, was?” Sie zwinkert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>“Und wenn du mir hilfst, mein Geld zurückzuholen, bekommst du zum Dank zwanzig Prozent davon.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>“Also hast du das wirklich.” Ein schwaches Lächeln formt sich in ihren Mundwinkeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Trotz ihrer kühlen Worte bilden sich Tränen in ihren Augen. Unkommentiert wischt sie sie mit einem Blinzeln weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>“Du ehrloser Dummkopf! Hoffentlich fressen Hyleas fliegende Ratten deine Augen!” Sie stampft wutentbrannt davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Kahn nickt dir zu und schluckt den Rest ihres Getränks mit einem Mal herunter. Sie stürzt aus der Tür, ohne zurückzublicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>“Bei den Göttern, ich habe diese verdammten Inseln satt.” Sie atmet tief aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>“Wenn es dir also nichts ausmacht, würde ich jetzt gerne gehen. Möge Waels gruseliger Augenschwarm über dich wachen, und all dieser Kram.”
+
+Kahn nickt dir zu und schluckt den Rest ihres Getränks mit einem Mal herunter. Sie stolpert aus der Taverne, ohne sich zu verabschieden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>“Wo zum Henker steckt der Alte?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Als sich unser Schiff Neketaka näherte hat mir der Bootsmann von einem merkwürdigen Tempel auf einer Insel im Karatapu-Kanal erzählt, südwestlich der Stadt.
+
+"Sie wollte mir allerdings nicht erzählen, welchem Zweck sie diente. Sie wirkte ziemlich verängstigt, als ich danach fragte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>“Pass auf, es tut mir leid, dass ich dich in diesem Schlamassel verwickelt habe. Du hast dich mir und Oswald gegenüber anständig verhalten und genug getan.
+
+“Sagen wir, es ist Gleichstand, und wir gehen beide unserer Wege, oder?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>“Nicht, was ich mir erhofft hatte, aber ich schätze, es reicht.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>“Ich bin eine der zahllosen niederen Adligen, die es in der Gegend um Drywald zuhauf gibt. Du kennst Admeth Hadret, Held des Widerstandskrieges? Er ist mein Ururwasauchimmer.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>“Also? Wo liegt das Problem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>“Verzeiht meine Aufdringlichkeit, Mylady.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>“Genau deshalb erzähle ich niemandem davon. Alle benehmen sich dann seltsam. So wie du eben. Seltsam.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>[Mit den Achseln zucken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>“Wenn die Leute es erfahren, machen sie lauter seltsamen Scheiß, wie zum Beispiel mich ‘Mylady’ nennen, mir Türen offenhalten oder Getränke spendieren.
+
+“Dieser Titel ist der blanke Hohn. Er bedeutet mir gar nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>“Das dachte ich mir auch.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Hör mal, der Kerl, nach dem ich suche, schuldet mir eine Menge Geld. Fünftausend Kupferstücke. Wenn du mir hilfst, ihn zu finden, gebe ich dir zwanzig Prozent davon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Kahn blickt dich erwartungsvoll an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Oswald ist tot. Die woedicanische Bürgerwehr hat ihn hingerichtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Kahns Gesicht zeigt Bestürzung. Rasch blickt sie beiseite. Tränen benetzen ihre Wimpern. Mit einem zitternden Seufzer wischt sie sie ab.
+
+Nachdem der nur kurz anhaltende Sturm der Gefühle sich wieder gelegt hat, fängt sie sich wieder und betrachtet dich mit kalten Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Rasch blickt sie beiseite. Tränen benetzen ihre Wimpern. Mit einem zitternden Seufzer wischt sie sie ab.
+
+Nachdem der nur kurz anhaltende Sturm der Gefühle sich wieder gelegt hat, fängt sie sich wieder und betrachtet dich mit kalten Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Geh und sieh es dir an, und lass mich wissen, was du findest." Mit einer schwungvollen Bewegung zeigt sie dir den Standort auf deiner Karte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Du musst durch das halbe Todesfeuer gesegelt sein, um nach Neketaka zu gelangen. Ist dir irgendetwas aufgefallen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Es gibt zahllose kleine Verstecke, die über die ganzen Inseln verstreut sind. Kannst du es ... einengen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>[Mit den Schultern zucken.] "Zur Hölle, ich habe nicht die geringste Ahnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Nicht wirklich. Um ehrlich zu sein, ich habe die letzte Reise hierher von der Trutzbucht aus damit verbracht, über der Reling gelehnt Ondra einen Vorgeschmack meiner Innereien anzubieten. "Ich &lt;i&gt;hasse&lt;/i&gt; Schiffe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Ok ... Warum frage ich dich überhaupt?" Sie schüttelt ihren Kopf und sieht dich mit ein wenig Bedauern an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Du fragst den falschen Kerl. Ich bin neu hier."</DefaultText>
+      <FemaleText>"Du fragst das falsche Mädchen. Ich bin neu hier."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Verdammt, wenn ich doch nur den Kapitän finden würde, der uns die Passage ins Todesfeuer gewährt hat. Ich wette, er wüsste ...
+
+"Warte eine Sekunde." Sie zwinkert und erinnert sich an etwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Du und ich, wir beide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Kahn lacht ein wenig, hauptsächlich in sich selbst hinein. Sie scheint dich nur halb zu hören, ihre Gedanken wandern auf anderen Wegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>[Mit den Schultern zucken.] "Scheint ebenso gut ein Platz wie jeder andere zu sein, um anzufangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"'Seltsamer Tempel?' Ich bin dabei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Warum gehst du nicht hin und siehst dich um?" Mit einer schwungvollen Bewegung zeigt sie dir den Standort auf deiner Karte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>[Lügen] “Ich habe alles bei mir.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>[Lügen] “Ich habe alles bei mir.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>[Lügen] “Ich habe alles bei mir.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>[Lügen] “Ich habe alles bei mir.”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_serafen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein Zauberer und ein Gentleman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Hilf Serafen dabei, Informationen über Remaro in Fort Todeslicht zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Frage Udyne im Leuchtenden Badehaus in Neketaka aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Begib dich nach Sayuka und suche nach Hinweisen auf Remaro oder seinen Verbleib.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Fordere das auf Remaro ausgesetzte Kopfgeld ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Serafen will, dass ich ihm helfe, einen alten Piraten namens Remaro aufzuspüren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Serafen glaubt nicht, dass Remaro, ein Pirat, der von den Príncipi wegen Meuterei gejagt wird, den ihm zur Last gelegten Verrat hätte begehen können. Er bat mich darum, in Fort Todeslicht nach Hinweisen auf Remaros aktuellen Aufenthaltsort zu suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Remaro habe angeblich eine Person namens Udyne im Leuchtenden Badehaus in Perikis Aussichtspunkt in Neketaka getroffen. Vielleicht weiß sie, wie man mit Remaro in Verbindung treten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Udyne behauptete, dass Remaro in Sayuka seine Vorräte aufstocken will, bevor er das Todesfeuer verlässt. Serafen will, dass wir dem alten Piraten folgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Die Príncipi haben ein Kopfgeld auf Remaro ausgesetzt und sollten für einen Beweis seines Ablebens bezahlen. Ich muss einen Beweis von seinem Körper nehmen und dem Anführer der Piraten übergeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Eine Piratenkapitänin namens Malnaj traf mich auf der Straße. Auch sie sucht nach Remaro und fragte nach Informationen über den Flüchtigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe Malnaj nichts von Udyne gesagt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe Malnaj gesagt, wo sie Udyne finden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe Udyne, eine ehrwürdige Elfen-Kriegerin, im Leuchtenden Badehaus gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Udyne erzählte uns, dass Remaro sein Schiff gegen das ihre eingetauscht hat. Ihr zufolge hat Remaro behauptet, das Todesfeuer in Richtung Westen verlassen zu wollen. Er beabsichtigt, in Sayuka seine Vorräte aufzustocken, bevor er sich davonmacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe Remaro im Hafen von Sayuka aufgespürt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Remaro enthüllte, dass sein und Serafens ehemaliger Kapitän, Bastian von der Zauberer, die Sklaven, die sie gerettet hatten, verkauft hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Wir haben eine Truhe gefunden, die einst Remaro gehörte und in der sich ein Brief an Serafen befand. Der Brief sprach von jemandem namens Udyne an einem Ort namens Magische Gewässer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Ich nahm Remaros Kopf als Beweis seines Ablebens an mich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Ich habe Remaros Kopf der Schiffsjägerin Malnaj ausgehändigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Serafen hat Vergnügliches Leid, ein von der Príncipi-Schiffsjägerin Malnay kommandiertes Schiff, am Hafen am Ankerplatz der Königin in Neketaka bemerkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Syri behauptet, dass &lt;b&gt;Remaro&lt;/b&gt; &lt;b&gt;Fort Todeslicht&lt;/b&gt; verlassen habe. Während seines Aufenthalts hier hatte er das &lt;b&gt;Zimmer am Ende des Ganges rechts&lt;/b&gt; bezogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Wir haben Remaro in Sayuka gefunden und ihn gehen lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Remaros Kopf den Príncipi übergeben und das Kopfgeld dafür kassiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Malnaj Remaros sterbliche Überreste gegeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

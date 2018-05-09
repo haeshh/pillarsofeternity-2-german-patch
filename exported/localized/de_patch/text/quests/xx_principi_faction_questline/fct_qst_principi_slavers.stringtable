@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_principi_faction_questline\fct_qst_principi_slavers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein kluger Vorschlag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Sklaventreiber in Krummsporn erledigen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Mit Kapitän Aeldys sprechen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Zu Kapitän Furrante in Stauholz zurückkehren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Zum Sklavenhändler-Hafen in Krummsporn segeln</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Mit Kapitän Aeldys sprechen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Kapitän Furrante verfügt über eine wohlhabende Kontaktperson, die geschäftlich mit den Sklavenhändlern von Krummsporn zu schaffen hat. Allerdings hat sich in jüngster Zeit Ärger mit den Einheimischen negativ auf ihre Handelsrouten ausgewirkt.
+
+Diese Kontaktperson ist bereit, Furrante einen politischen Gefallen zu tun, wenn er ihm dabei hilft, den Sklaventreibern zur Hand zu gehen. Da Verbindungen zur Sklaventreiberei bei den Príncipi allerdings ein Verbrechen darstellen, hat Furrante mich gebeten, mich an seiner Statt um das Problem zu kümmern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich bin am Hafen der Sklavenhändler vor Anker gegangen und habe damit begonnen, die Lage auszusondieren. Irgendetwas sagt mir, dass hinter diesem Ort mehr steckt, als es zunächst scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Ich habe mich um die Sklaventreiber auf Krummsporn gekümmert, so wie &lt;b&gt;Aeldys&lt;/b&gt; es wollte. Es ist Zeit, sie in &lt;b&gt;Fort Todeslicht&lt;/b&gt; zu treffen, um ihr die Neuigkeiten zu überbringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Furrante wird wissen wollen, dass ich die Probleme der Sklaventreiber auf Krummsporn gelöst habe. Sie können ihre Arbeit in Kürze fortsetzen, was seine einflussreiche Kontaktperson freuen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Furrante hat mich gebeten, nach Krummsporn zu reisen und dort mit Meister Kua zu sprechen, dem Anführer einer Gruppe Sklaventreiber, die auf der Insel arbeiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Ich habe entgegen der Wünsche Furrantes die Sklaventreiber auf der Insel erledigt. Vielleicht wird Aeldys deine Kehrtwende freuen. Ich sollte in Fort Todeslicht vorbeischauen und mit ihr reden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe die Wahaki-Sklaven davon überzeugt, von Krummsporn zu fliehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Meister Kuas Schiffe werden von den Wahaki angegriffen, was sich langsam aber sicher auf seine Geschäfte auswirkt. Er hat mich gebeten, nach Ori o Koīki zu reisen und die Anführer der Stämme zu töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Aeldys hat mir einen Brief geschickt, in dem sie mich darum bittet, sie in Fort Todeslicht zu treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Aeldys verfügt über eine Kontaktperson auf der Insel Krummsporn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Seafol, eine von Aeldys' Spionen, bat mich darum, die Arbeit der Sklaventreiber auf Krummsporn mit jeden notwendigen Mitteln zu untergraben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Es scheint, als gäbe es einen Ein- und Ausgang auf der untersten Ebene der Sklaventreiber-Festung, einen Unterwassertunnel, der ins Meer führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Laut Seafol brechen die Sklaventreiber auf Krummsporn das Gesetz, indem sie die Eingeborenen des Todesfeuers als Sklaven verkaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe eine Gruppe Wahaki-Sklaven im Kerker unter Krummsporn gefunden. Sie scheinen gewillt zu sein, gegen die Sklaventreiber zu rebellieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Dir Oger-Zuchtmeister im Kerker von Krummsporn ist im Besitz der Schlüssel für die Sklavenzellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Auktionator Marcca hat mir gestattet, die Festung auf Krummsporn zu betreten, um mich mit dem Meister treffen zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Meister Kua ist keine Bedrohung mehr für die Völker des Todesfeuers, aber seine Gefangenen sind immer noch im Kerker von Krummsporn eingesperrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Die Sklavenzellen auf Krummsporn sind leer. Allem Anschein nach wurden die Gefangenen bereits verkauft – wenn ihnen nicht noch Schlimmeres widerfahren ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Du hast jemanden getötet, der für diese Quest von entscheidender Bedeutung ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe die Sklaven auf der Insel befreit und ihnen das Schiff der Sklaventreiber gegeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe die Sklaven auf der Insel befreit und ihnen das Schiff der Sklaventreiber gegeben. Ich habe sie davon überzeugt, Kapitän Aeldys in Fort Todeslicht aufzusuchen und den Príncipi beizutreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe den Sklaventreibern bei ihrem Wahaki-Problem geholfen. Kapitän Furrante wird erfreut darüber sein, dass sie ihre Arbeit fortsetzen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe den Sklaventreibern bei ihrem Wahaki-Problem geholfen. Direktor Castol wird erfreut sein, nun, da sie wieder ihrer Arbeit nachgehen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich habe den Sklaventreibern mit ihrem Wahaki-Problem geholfen und wurde dafür großzügig von Meister Kua belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich habe den Sklavenhandel auf Krummsporn unterbunden, indem ich den Kopf der Unternehmung, Meister Kua erledigt habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Kapitän Furrante wurde von Direktor Castol angeheuert, um das Problem zu bereinigen, dass Castols Geschäftsinteressen auf Krummsporn im Weg steht. Als ich mit Furrante in Stauholz gesprochen habe, bat er mir den Auftrag im Tausch gegen weitere Bezahlungen der Príncipi an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Eine Spionin der Príncipi hat mich darüber informiert, dass in Krummsporn illegaler Sklavenhandel betrieben werden könnte. Ihr Kapitän würde mich großzügig belohnen, wenn ich sie befreie.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

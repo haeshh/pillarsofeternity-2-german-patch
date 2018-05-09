@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crit_path\cp_qst_neketaka</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Venen Eoras</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mehr Säulen leuchtenden Adras finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Neketaka erreichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Erreiche den &lt;b&gt;Kahanga-Palast&lt;/b&gt; im Bezirk der &lt;b&gt;Schlangenkrone&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Eothas entzieht den Säulen leuchtenden Adras in dieser Region Essenz. Was auch immer er mit all dieser Macht vorhat, diese Säulen ausfindig zu machen mag vielleicht der einzige Weg sein, auf seine Fährte zu kommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich kann Eothas' Präsenz nicht länger fühle, was bedeutet, dass ich ihn nicht direkt aufspüren kann. Aber falls Eothas die Säulen leuchtenden Adras im ganzen Todesfeuer als Energiequelle nutzt, kann ich eventuell seine Spur wieder dadurch aufnehmen, dass ich mehr Orte mit leuchtendem Adra finde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Viele sind in die Huana-Stadt Neketaka gekommen, um ihr Glück mit leuchtendem Adra zu versuchen. Wenn jemand weiß, wo sich große Säulen von Bedeutung finden lassen können, dass kann ich so eine Person wahrscheinlich hier antreffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Meine Ankunft in der Stadt blieb nur wenigen verborgen. Berath hatte das sichergestellt.
+
+Der Hafenmeister steht mir nicht mehr im Weg. Ich kann mich nun ungestört auf die Suche nach dem &lt;b&gt;Kahanga-Palast&lt;/b&gt; im Bezirk &lt;b&gt;Schlangenkrone&lt;/b&gt; oben auf dem Berg machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Neketaka&lt;b&gt; liegt ziemlich weit &lt;b&gt;nördlich und leicht östlich von Port Maje&lt;/b&gt;. Ich kann dem Riff in Richtung der Stadt folgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Gouverneur Clario erwähnte, dass insbesondere die Vailianische Handelsgesellschaft Kenntnis über die Standorte wichtiger Adravorkommen besitze. Ihr Hauptquartier befindet sich in der Nähe des Hafens in Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Die Vailianische Handelsgesellschaft ist sehr daran interessiert, leuchtenden Adra zu finden. Gouverneur Clario kann mir vielleicht einen Stoß in die richtige Richtung geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ikawha hieß meinen Angriff auf Port Maje nicht gut, da sie Racheakte der Vailianer fürchtet. Sie und ihre Wachen griffen mich an, weswegen ich sie töten musste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Da der Gouverneur tot ist, kann ich in der Stadt nicht auf Hilfe hoffen. Vielleicht hat die Burgvogtin eine Idee, was als nächstes zu tun ist. Sie ist noch immer im Sand am Strand halb vergraben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Irgendjemand muss doch für diese laufenden Ausgrabungsarbeiten in den Ruinen verantwortlich sein. Vielleicht kann ich in Port Maje mehr Informationen bekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Mein Schiff ist wieder auf See. Nun, da ich der Kapitän bin, muss ich ein Auge auf Vorräte und Besatzung haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe herausgefunden, dass sich Eothas wieder hat blicken lassen. Dieses Mal im Außenposten Hasongo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich bin im Palast nicht länger willkommen. Im Moment ist dieser Name meine einzige Spur: Hasongo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Nachdem sie meinen Bericht aus Hasongo gehört hatte, hat mich die Königin dazu eingeladen, mit ihr unter vier Augen zu sprechen, auf dem Dach des Palastes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Eothas' Fährte bei Magrans Zähnen wiederaufgenommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

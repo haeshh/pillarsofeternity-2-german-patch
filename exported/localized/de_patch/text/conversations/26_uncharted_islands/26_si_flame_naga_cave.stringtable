@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_flame_naga_cave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du hievst dich auf den Vorsprung. Vor dir gähnt die Öffnung einer Höhle. Dichte Wolken von öligem schwarzem Qualm strömen aus der Höhlenöffnung, wie das Ausatmen einer Kreatur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Höhle betreten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Absteigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vor dir steigt ein Berghang steil an. Geröll und Gestrüpp versperren dir den Weg. Allerdings könnten Felsbrocken und unbewachsene Stellen deinen Händen ausreichend Halt bieten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Aus kleinen Löchern im Berg bricht ein Schwarm Fledermäuse hervor. Geschickt weichst du ihnen aus, als sie an dir vorbei flattern.
+
+Der Nāga beginnt zu zischen und zaubert mit Bewegungen seiner Arme aus den Schatten eine Wolke lebender Flammen hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Aus kleinen Löchern im Berg bricht ein Schwarm Fledermäuse hervor und erwischt dich auf dem falschen Fuß. Die Fledermäuse prallen gegen deinen Körper und schleudern dich gegen einen Haufen schroffer Felsen.
+
+Der Nāga beginnt zu zischen und zaubert mit Bewegungen seiner Arme aus den Schatten eine Wolke lebender Flammen hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Aus kleinen Löchern im Berg bricht ein Schwarm Fledermäuse hervor. [Specified 0] gelingt es nicht, sich rechtzeitig zu ducken. Die Fledermäuse prallen auf und werfen [Specified 0] zu Boden, gegen einen Haufen schroffer Felsen. Es ist eine harte Landung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der Nāga beginnt einen Sprechgesang in einer tiefen, lispelnden Stimme. Ein Schwarm kreischender Fledermäuse mit glühenden Flügeln fliegt wie eine Wolke über deinem Kopf und stürzt dann auf dich herab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du watest durch den Qualm und betrittst die Höhle. Deine Augen brennen und deine Lungen schmerzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Von diesem Berg hast du jetzt endgültig genug. Du kletterst auf demselben Weg wieder hinab, auf dem du aufgestiegen bist, und setzt seine Erkundung der Insel fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du beginnst den mühseligen Aufstieg an der Seite des Bergs. Schon bald hast du einen schmalen, flachen Vorsprung am Berghang erreicht.
+
+Du ziehst dich über den Rand des Vorsprungs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Über dir steigt der Berg in die Höhe. Er ist so hoch, dass er den Himmel zu berühren scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Den Berg erklimmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Absteigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du lässt den Berghang zurück und setzt deine Erkundung der Insel fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ein Nāga in farbenprächtigen Insignien steht auf dem Vorsprung. Er hat die Arme über ein halb verfallenes Totem erhoben.
+
+Der Nāga erblickt dich und weicht mit einem langgezogenen, schrillen &lt;i&gt;Zischen&lt;/i&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Den Berghang erklimmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Hineinschleichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Sprengstoff auf die Bestie werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Fliehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Deine Waffe ziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du entzündest eilig den Sprengstoff und wirfst ihn auf das Totem. Die Explosion verstreut Teile des Totems über der Anlegestelle. Der Nāga-Schamane steigt unversehrt aus dem Rauch auf, seine Knopfaugen sind auf dich gerichtet.
+
+Ein schrilles Kreischen hallt über die Berghang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Specified 1] entzündet den Sprengstoff und wirft ihn auf das Totem. Die Explosion verstreut Teile des Totems über der Anlegestelle. Der Nāga-Schamane steigt unversehrt aus dem Rauch auf, seine Knopfaugen sind auf [Specified 1] gerichtet.
+
+Ein schrilles Kreischen hallt über die Berghang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du wirfst den Sprengstoff auf das Totem, aber du hast ihn nicht schnell genug geworfen, er explodiert noch in der Luft.
+
+Ein schrilles Kreischen hallt über die Berghang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du hebst deine Waffe an und starrst auf den Nāga-Schamanen hinab. Aber gerade als du den Angriff erwartest, hallt ein schrilles Kreischen über den Berg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du drehst dich, um den Berghang hinabzuklettern, zögerst aber, als du ein schrilles Kreischen über den Berghang hallen hörst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du wirfst den Sprengstoff auf das Totem, aber du hast ihn nicht schnell genug geworfen, er explodiert noch in der Luft.
+
+Ein schrilles Kreischen hallt über die Berghang.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

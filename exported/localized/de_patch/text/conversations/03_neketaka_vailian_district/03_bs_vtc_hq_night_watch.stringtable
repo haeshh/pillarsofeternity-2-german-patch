@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_bs_vtc_hq_night_watch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Du solltest nach Büroschluss nicht hier herumlungern. Scher dich weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Was, wenn es ein Notfall ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Lügen.] "Ich habe wichtige Unterlagen vergessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Gouverneurin Alvari hat mir gestattet, zu passieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Angreifen] "Hübsches Hauptquartier. Wäre doch schade, wenn es jemand mit deinem Blut tünchen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Wache steckt zwei Finger in den Mund und pfeift schrill. Sie kommt mit gezückter Waffe auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Scheint in Ordnung zu sein. Moment, ich sperre dir gleich die Tür auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wenn es so wichtig ist, kannst du ganz beruhigt sein. Ich bewache das Gebäude, und während meiner Schicht wird nicht ein Bogen Pergament das Haus verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Wenn es mit Papierkram oder Wachssiegeln zu tun hat, so wie praktisch alles hier in diesem Gebäude, kann es mit Sicherheit auch bis morgen warten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Nur hinein, mein Herr."</DefaultText>
+      <FemaleText>Geh hinein."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Guten Abend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Wenn du Geschäfte mit der Vailianischen Handelsgesellschaft zu tätigen hast, muss das bis morgen warten. Wir haben geschlossen." Die Wache neigt warnend ihren Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Das Hauptquartier hat noch geschlossen, mein Herr."</DefaultText>
+      <FemaleText>"Das Hauptquartier hat noch geschlossen, meine Dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vielleicht können wir ein beiderseitig vorteilhaftes Einvernehmen erzielen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Spenden nehme ich gerne an, aber die Türen bleiben zu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Hier hast du eine Münze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich habe kein Geld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Zurück zu meinen Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Wenn du darüber diskutieren möchtest, ob ich dich ins Hauptquartier lasse, verschwendest du deine Zeit, aber nur zu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Tja, es hätte sowieso nichts geändert. Ich kann dir dennoch keinen Gefallen tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich weiß es zu schätzen, Aimico." Sie steckt deine Münze ein.</DefaultText>
+      <FemaleText>"Ich weiß es zu schätzen, aimica." Sie steckt deine Münze ein.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_sea_creature_gaint_jellyfish</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>96</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Gewässer des Todesfeuers sind so flach und durchsichtig wie buntes Glas und ein gleichmäßiger Wind führt die [Player Ship] hindurch. Der Duft eines gut gewürzten Eintopfes steigt vom Unterdeck auf.
+
+[Specified 0] und [Specified 1] haben sich ans Seitendeck gesetzt. Beine und Angelruten baumeln über dem Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Kanonen zum Feuern bereit machen! Alle Mann auf Gefechtsstationen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Dreh ab und bring uns hier raus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Nach einem Moment angespannter Stille steigt roter Schaum im aufgewühlten Wasser auf. Ein zerfleischter Kadaver kommt wie ein Alptraum an die Oberfläche, bevor er langsam wieder in der Tiefe versinkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Zum Glück fangen eure Segel den Wind ein und ihr könnt dem Monster ausweichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Unten stöhnen deine Kanoniere und seufzen erleichtert auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als das Monster wild um sich schlägt, wirft [Specified 0] ein Seil zu [Specified 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Defensive Schutzzauber auf das Schiff anwenden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Bestie kommt schnell näher, geschmeidig und glatt, aber du weißt genug über die Bewohner der Tiefe, um die Kreatur an ihren Stacheln zu erkennen, die gerade nicht die Wasseroberfläche durchbrechen.
+
+Es ist ein stacheliger Zerstörer, ein gewaltiger Hai, der gerne Schiffe rammt – und versenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Mit weit gespreizten Beinen und ausgestreckten Armen erhebst du deine Stimme in einem Gesang und breitest einen Schutzzauber über den Schiffsrumpf aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Plötzlich erstarrt [Specified 0].
+
+[Specified 1] klopft [Specified 0] auf den Rücken. "Entspann dich, es war nur ein Spaß."
+
+Aber [Specified 0] schlägt die Hand weg. "Was in Ondras Namen ist das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du schaust hin. Ein dunkler Schatten bewegt sich unter Wasser. Er ist noch am Rand des Horizonts, kommt aber schnell näher.
+
+[Specified 0] steht auf. "Eine von Galawains Ausgeburten. Hat es auf uns abgesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Das Deck donnert,während deine Mannschaft an ihre Plätze unten läuft. 
+
+[Specified 2] dreht am Steuerrad und bringt das Schiff backbord, um dem Monster frontal zu begegnen, als eine Wasserfontäne aus dem Meer emporschießt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Bestie, die aus den Fluten auftaucht, ist etwa 10 Meter groß und voller Schuppen, Stacheln und Sehnen. Sie sieht aus wie ein gigantisch großer Hai, nur gespickt mit Stacheln am ganzen Körper. Jeder einzelne davon sieht scharf genug aus, um einen Mann entzwei zu schneiden.
+
+Oder einen Schiffsrumpf zu durchstoßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die Bestie rammt euch. Das Schiff bebt. [Specified 1] stürzt in den Mast. Das Besatzungsmitglied sinkt regungslos auf das Deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die Bestie, die aus den Fluten auftaucht, ist etwa 10 Meter groß und voller Schuppen, Stacheln und Sehnen. Sie sieht aus wie ein gigantisch großer Hai, nur gespickt mit Stacheln am ganzen Körper. Jeder einzelne davon sieht scharf genug aus, um einen Mann entzwei zu schneiden.
+
+Oder einen Schiffsrumpf zu durchstoßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Dein Segel nimmt den Wind auf, aber nicht schnell genug, um dem Monster noch ausweichen zu können. 
+
+Die Bestie rammt euch. Das Schiff bebt. [Specified 1] stürzt in den Mast. Das Besatzungsmitglied sinkt regungslos auf das Deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Das Deck bebt, während deine Mannschaft sich beeilt, das Segel in den Wind zu stellen. 
+
+[Specified 2] dreht am Steuerrad und wendet das Schiff aus dem Weg des Monsters, als eine Wasserfontäne aus dem Meer emporschießt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du hörst ein Grollen wie von Donner und das Deck unter deinen Füßen wird auseinandergerissen. Einen schier endlosen Augenblick lang scheint sich alles um dich zu drehen, dann fällst du ins Wasser.
+
+Wie betäubt treibst du im Wasser. Um dich herum versinken Stücke von Holz und Stahl in der Tiefe. Du findest die Orientierung wieder und schwimmst an die Oberfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich bin sicher, [Specified 0] wird eines Tages was Großes an Land fischen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Lasst das Geschwätz, ihr zwei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich hab neulich was Großes gefangen", sagt [Specified 0]. "Ist mir aber wieder vom Haken gerutscht."
+
+"Ich sage dir doch immer, du sollst einen größeren nehmen." [Specified 1] lacht. "Die dunkeläugige Barkeeperin im Ankerplatz der Königin ist dir doch auch vom Haken gerutscht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 0] grinst hämisch und lacht dann. "Danke für das Vertrauensvotum, Kapitän."
+
+"Nicht, wenn der Dummkopf nicht in bessere Köder investiert ...", sagt [Specified 1].
+
+Aber [Specified 0] ist erstarrt. "Siehst du das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Aye-Aye, Kapitän." [Specified 1] salutiert mit einer Hand, während er mit der anderen seine Angelrute festhält.
+
+Ein paar Minuten gesegnete Ruhe folgen.
+
+[Specified 0] bricht sie. "He, Kapitän ... vielleicht solltest du dir das mal ansehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Es identifizieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 5] starrt auf die Form im Wasser. "Ich ... Ich glaube, das ist ein stacheliger Zerstörer."
+
+Ein stacheliger Zerstörer. Ein gewaltiger Hai, der gerne Schiffe rammt – und versenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Der Zerstörer wendet und schwimmt auf dich zu ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Unter dir stampfen und jubeln deine Kanoniere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Serafen starrt auf die Form im Wasser. "Es ist ein stacheliger Zerstörer, Käpt'n! Großer glänzender Fisch! Schnell wie der Wind und zweimal so bissig!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ein stacheliger Zerstörer ... Ngatis Killer aus der Tiefe. Mutter hat uns einen würdigen Kontrahenten geschickt, um uns zu testen."
+
+Tekēhu senkt die Hand, die er sich schützend vor die Augen gehalten hat. Sie zittert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Du kannst nichts an der Form erkennen, die rasend schnell auf euch zukommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Die Bestie kommt schnell näher, geschmeidig und glatt, aber du weißt genug über die Bewohner der Tiefe, um die Kreatur an ihren Stacheln zu erkennen, die gerade nicht die Wasseroberfläche durchbrechen.
+
+Es ist ein stacheliger Zerstörer, ein gewaltiger Hai, der gerne Schiffe rammt – und versenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Keine Ahnung", sagt [Specified 5]. "Aber hier kommt sie ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Mit weit ausgebreiteten Armen stimmt [Specified 5] einen Gesang an und breitet einen Schutzzauber über den Schiffsrumpf aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Die Bestie, die aus den Fluten auftaucht, ist etwa 10 Meter groß und voller Schuppen, Stacheln und Sehnen. Sie sieht aus wie ein gigantisch großer Hai, nur gespickt mit Stacheln am ganzen Körper. Jeder einzelne davon sieht scharf genug aus, um einen Mann entzwei zu schneiden.
+
+Oder einen Schiffsrumpf zu durchstoßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Deine Mannschaft feuert eine Salve ab, als die Kreatur in Schussweite kommt. Wasser spritzt auf, als die Geschosse auftreffen und die Bestie verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Bring uns zum Feuern ran!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Eine Granate darauf werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Die Segel mit dem heraufbeschworenen Wind füllen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Kurs halten! Volle Kraft voraus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Das Schiff nimmt Tempo auf und die Bestie fällt zurück und wird zu einem schnell schrumpfenden Fleck in der Ferne.
+
+[Specified 2] setzt einen Kurs, der euch in weitem Bogen um das Gebiet des Monsters herumführt, um eine erneute Begegnung zu vermeiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Noch eine Salve feuern! Und dieses Mal solltet ihr das verdammt Ding auch treffen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Hol uns hier raus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Die Kanoniere feuern eine volle Ladung auf die Bestie. Blut und Rauch füllen die Luft und die Kreatur verschwindet unter den Wellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Nach einem Moment angespannter Stille steigt roter Schaum im aufgewühlten Wasser auf. Ein zerfleischter Kadaver kommt wie ein Alptraum an die Oberfläche ... bevor er langsam wieder in der Tiefe versinkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Die Bestie rammt euch. Das Schiff bebt. [Specified 1] stürzt in den Mast. Das Besatzungsmitglied sinkt regungslos auf das Deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Feuert aus allen Rohren! Tötet den Bastard!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Der Zerstörer kommt wieder an die Oberfläche – und die Granate landet direkt in seinem aufgerissenen Maul.
+
+Sein Kopf explodiert in einer Wolke aus Knorpeln und Blut. Fetzen von Hirn und Muskeln regnen auf das Deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Der Zerstörer taucht wieder auf – und die Granate segelt weit am aufgerissenen Maul vorbei und plumpst enttäuschend harmlos in das Wasser. 
+
+Die Bestie rammt das Schiff seitlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Wind kommt auf. Die Segel straffen sich und werden voll. Die [Player Ship] nimmt Fahrt auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 2] greift das Steuerrad und dreht es entgegen dem Uhrzeigersinn. Befehle werden unter Deck gerufen, während die Kanonen scharfgemacht werden. 
+
+Der Zerstörer taucht wieder auf und rammt die Seite des Schiffes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Specified 0] läuft mit einer Angelrute in der Hand zur Reling. Als der Zerstörer wieder auftaucht, sticht [Specified 0] auf das Monster ein und rammt ihm die Angelrute tief ins Auge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Das Deck neigt sich heftig und mit einem angsterfüllten Schrei rutscht [Specified 3] vom Deck ins Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Specified 2] greift das Steuerrad und dreht es im Uhrzeigersinn. Befehle werden über das Deck gerufen, während die Takler ihr Bestes geben. 
+
+Der Zerstörer taucht wieder auf und rammt die Seite des Schiffes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Der Zerstörer taucht vor dir auf wie ein Gespenst. Er ist unfassbar schnell und sein Maul ist unfassbar groß und mit unfassbar vielen Zähnen bestückt.
+
+Sie sind das Letzte, was du je zu Gesicht bekommst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Feuert die Kanonen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Mann über Bord! Rettet [Specified 3]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Die Segel mit dem heraufbeschworenen Wind füllen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Kurs halten! Volle Kraft voraus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Eine Granate darauf werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Der Zerstörer kommt wieder an die Oberfläche – und die Granate landet direkt in seinem aufgerissenen Maul.
+
+Sein Kopf explodiert in einer Wolke aus Knorpeln und Blut. Fetzen von Hirn und Muskeln regnen auf das Deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Wind kommt auf. Die Segel straffen sich und werden voll. Die [Player Ship] nimmt Fahrt auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Die Mannschaft schnappt nach Luft und holt Atem. Jemand unter Deck lacht. Die Takelage knarrt.
+
+Es ist vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Specified 0] eilt zur Seite und wirft eine Leine über Bord. Kurz danach klettert [Specified 3] durchnässt wieder über die Reling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Wir haben keine Kanonenkugeln mehr, Kapitän!" ruft [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Wir haben keine Kanonenkugeln mehr, Kapitän!" ruft [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Verdammt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Wir haben keine Kanonenkugeln mehr, Kapitän!" ruft [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Das Schiff nimmt Tempo auf und die Bestie fällt zurück und wird zu einem schnell schrumpfenden Fleck in der Ferne.
+
+[Specified 2] setzt einen Kurs, der euch in weitem Bogen um das Gebiet des Monsters herumführt, um eine erneute Begegnung zu vermeiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Der Zerstörer wendet und schwimmt auf dich zu ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Wir haben keine Kanonenkugeln mehr, Kapitän!" ruft [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Feuert die Kanonen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Wir haben keine Kanonenkugeln mehr, Kapitän!" ruft [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Verdammt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Hol uns hier raus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Wie gewaltige Wellen, die an der Küste aufschlagen, kracht der Zerstörer in die Breitseite des Schiffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Du hörst ein Grollen wie von Donner und das Deck unter deinen Füßen wird auseinandergerissen. Einen schier endlosen Augenblick lang scheint sich alles um dich zu drehen, dann fällst du ins Wasser.
+
+Wie betäubt treibst du im Wasser. Um dich herum versinken Stücke von Holz und Stahl in der Tiefe. Du findest die Orientierung wieder und schwimmst an die Oberfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Ein Besatzungsmitglied als Köder opfern und fliehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Du gehst schnell deine Optionen durch ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[[Specified 0] über Bord werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[[Specified 1] über Bord werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[[Specified 3] über Bord werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Erneut deine Möglichkeiten überdenken ...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Das Besatzungsmitglied reißt die Augen auf, als du das unglückselige Opfer über die Reling hievst und ins Meer wirfst.
+
+Während das Wasser sich blutrot färbt, gibst du den Befehl, alle Segel zum Rückzug zu setzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Du entschließt dich, keinen aus deiner Mannschaft der Bestie zu opfern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Ein Besatzungsmitglied als Köder opfern und fliehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Du gehst schnell deine Optionen durch ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[[Specified 0] über Bord werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Das Besatzungsmitglied reißt die Augen auf, als du das unglückselige Opfer über die Reling hievst und ins Meer wirfst.
+
+Während das Wasser sich blutrot färbt, gibst du den Befehl, alle Segel zum Rückzug zu setzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[[Specified 1] über Bord werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[[Specified 3] über Bord werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Erneut deine Möglichkeiten überdenken ...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Du entschließt dich, keinen aus deiner Mannschaft der Bestie zu opfern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Du siehst kein Blut, keine Stücke des Seemonsters – nichts, das vermuten lässt, dass deine Mannschaft die Kreatur getroffen hat.
+
+Sie halten ihren Atem an ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Rekke starrt dich nichtssagend an. Nach ein paar langen, leisen Momenten weiten sich seine Augen und er schüttelt langsam den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

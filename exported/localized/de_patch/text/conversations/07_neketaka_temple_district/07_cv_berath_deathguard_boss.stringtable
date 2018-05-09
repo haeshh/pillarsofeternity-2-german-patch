@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_berath_deathguard_boss</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>121</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das dich überragende Skelett strafft das Rückgrat. Das Rütteln seiner Knochen hallt in der Höhle wider. Ein goldenes Schwert ist auf seinen Rücken geschnallt, und seine Hand liegt um einen riesigen Morgenstern, mit einem massivem Schädel als Waffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wie sieht es aus, Bruder?"</DefaultText>
+      <FemaleText>"Wie sieht es aus, Schwester?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Jetzt wieder. Sprich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Göttergewählter. Es ist ein Segen, dir zu begegnen - und eine Schande zugleich, denn hier zu wandeln bedeutet, mit dem Tod zu flirten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Es ist schon mehr als ein ganzes Leben her, dass mein Flegel zuletzt in Blut baden durfte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Sprich! Und dann krepiere. Selbst weit Geringere als du müssen Berath hier fürchten."
+
+Der Todeswächter zieht den spitzen Schädel seines enormen Morgensterns über den Boden, der sich in den Stein zu seinen Füßen eingräbt. Dann hebt er sich die Kette des Morgensterns auf die knochigen Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich will dich ja nicht stören, aber ich bin in einer Mission von höchster Bedeutung unterwegs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich könnte mich hier gar nicht aufhalten, wenn Berath nicht persönlich über mich wachen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Der Grund für mein Hiersein? Nun, die Bewohner der Stadt behaupten, es sei &lt;i&gt;der&lt;/i&gt; Ort, um andere Leute kennenzulernen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Wage es ja nicht noch einmal, mich zu bedrohen, du verrotteter Knochensack!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Warte. Ich werde alles erklären."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Das Skelett steht so still wie der Tod. Um es herum wabert Magie, verbrennt die Luft. Mehrere Augenblicke lang starrt das Skelett einfach vor sich hin. 
+
+Dann klappern seine Zähne laut, er hebt sich den Morgenstern von den Schultern und schwingt ihn- direkt vor deiner Kehle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Nimm deinen nächsten und letzten Atemzug!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ein Geisterschiff segelt über die Meere. Ich komme, um mehr über Lucia Rivan zu erfahren, damit ich ihren Spuk beenden kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Beraths Priester beklagen, dass deine Grabrede in Vergessenheit geraten ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich bin nicht wegen der Sache gekommen, die du beschützt, Todeswächter von Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich habe aus deiner Geschichte gelernt und suche dich deshalb auf, dich den großen Yseyr, den aedyranischen Auserwählten von Berath, und den Töter von Lucia Rivan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ehrlich ... Ich habe mich nur umgesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Angreifen.] "Bringen wir es hinter uns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Die Erwähnung von Rivans Namen weckt die Wut des Todeswächters. Kalter, aber gewalttätiger Zorn rüttelt das Rückgrat des Skeletts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"VERDAMMT SEI IHRE SEELE! MÖGE SIE IN EWIGER FOLTER DAHINVEGETIEREN! Rivan wollte Berath entehren und mithilfe der schwarzen Pocken Ruin herbeiführen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Aye. Dann werde ich noch ein wenig damit warten, sie umzubringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Aye - seit zwei Lebensaltern hat kein Priester Beraths mehr die Grabkammern besucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Er betrachtet dich aufmerksam. Dabei flackern seine Augen lautlos. Dann klappert er mit den Zähnen und senkt den Morgenstern auf den Boden herab, wo er eine Furche schlägt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Du kennst dich mit Beraths Riten aus. Du weißt, dass ich meine Pflicht erfülle. Selbst im Tod."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Mit einem Geräusch von klappernden Knochen senkt er den Morgenstern auf den Boden herab, wo er eine Furche schlägt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Erwähnung von Rivans Namen weckt die Wut des Todeswächters. Kalter, aber gewalttätiger Zorn rüttelt das Rückgrat des Skeletts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Er tritt einen Schritt vor, bei dem alle Knochen klappern und zittern, und dann noch einen. Seine Stimme aus der anderen Welt ruft eine Beschwörung Beraths, und die Flammen seiner Seele steigen nach oben, ergreifen das gesamte Skelett.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Was kannst du mir über Lucia Rivan berichten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Kannst du mir etwas über die Schlacht berichten, die gegen die Untoten geführt wurde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Du hast dich also selbst geopfert, um diese heilige Waffe zu bewachen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich muss die letzte Steintafel deiner Grabrede zum Hohepriester von Berath bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Und was willst du bitte erfahren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich bin gekommen, um Engoliero do Espirs zu holen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ich bin gekommen, um das dir anvertraute Gut zurückzubringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Rivan war ein Palladin der Darcozzi. Sie hat sich Berath widersetzt und eine Waffe geschwungen, die nicht für die Hände von Sterblichen bestimmt war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Aber Rivan wollte sich mit dem Tod einfach nicht abfinden. Aus purer Willenskraft ist sie als Monster wiederauferstanden, in der Lage, eine Armee aus Untoten zu erschaffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Verwandelt in einen Todeswächter, segelte Rivan mit ihrer untoten Armee in ihrer schrecklichen Fonferrus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ich habe die Route des Schiffs nachverfolgt und konnte eine gewisse Regelmäßigkeit feststellen. Also bin ich aufgebrochen, um Rivan in der Nähe der Untiefen der Dämmerinsel zu stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Dort habe ich gewartet. Trotz der guten Winde näherte sich eine Nebelbank. Und aus dem Nebel kam Rivans Schiff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Der Wind legte sich sofort. Das Meer beruhigte sich, und das Geisterschiff durchkreuzte unseren Hinterhalt und fügte uns eine vernichtende Niederlage zu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Es war ein jämmerliches Abschlachten. Ich konnte verwundet fliehen, mit Beraths Waffe – Engoliero do Espirs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ja, es war eine schwere Entscheidung, doch ich habe sie getroffen. Ich war bereit, meiner Gottheit dadurch zu dienen, dass ich in ihrem Namen ein Jäger wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Die Waffe darf niemals hinaus nach Eora gelangen. Ich muss sie bis auf alle Ewigkeit bewachen. Allerdings kann ich sie vor den Untoten nur dann bewahren, wenn ich selbst ebenfalls untot bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ich könnte diese Waffe einem guten Zweck zuführen - für Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Angreifen.] "Ich werde mir diese Waffe für mich selbst holen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Lass mich dir eine Frage zu einem ganz anderen Thema stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Seine bleichen Knochenfinger schließen sich fest um den Griff der Waffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Glaubst du etwa, du hättest sie verdient? Und warum zum Teufel sollte ich dir jetzt trauen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ich bin einer von Beraths Auserwählten. Erlaube mir, diese Waffe gegen die zu erheben, die den Tod übertreten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Du möchtest sie ebenso sehnlich gegen die Feinde von Berath erhoben wissen wie ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Wie sollen die Gestandenen jemals von den Göttern lernen, wenn wir ihre Wahrheiten auf ewig in vergessenen Gräbern begraben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Schweigend und drohend steht der Todeswächter da. Das Licht der Feuerschalen um euch herum wärmt den Schatten seiner Knochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Wer sonst, außer dir und mir, wurde wohl zweimal von Berath geboren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Du darfst diese Waffe schwingen, ja. Aber nur für eine gewisse Zeit. Und zuerst musst du mir einen Bluteid schwören, sie mir zurückzubringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Wenn du nicht einer von Beraths Auserwählten bist, soll dir der Blitz in die Knochen fahren. Aber du hast nicht ganz unrecht. Vielleicht berauben mich die Todeskälte und endlosen Nächte meiner gerechten Rache."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ich weiß nicht viel über die Gepflogenheiten der Gestandenen, aber eines weiß ich: Eine Welt ohne die Führung der Götter ist zum Untergang verdammt."
+
+Das dich überragende Skelett legt den Kopf von Seite zu Seite. Die Knochen knacken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Dich in die Hand schneiden.] "Ich werde das dir anvertraute Gut zurückbringen, das schwöre ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[So tun, als würdest du dich in die Hand schneiden.] "Ich werde das dir anvertraute Gut zurückbringen, das schwöre ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ich bin nicht bereit, einen solchen Eid abzulegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Er schüttelt seinen riesigen Schädel, dass die Knochen klappern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Dein Schwur wurde vor Berath geschlossen - damit ist dein Schicksal besiegelt."
+
+Der altehrwürdige Todeswächter hebt das Schwert an und bedeutet dir, es aus seinen knochigen Händen zu nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Bist du sicher? Ich werde ein solches Angebot nicht wiederholen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Weigere dich, das Schwert anzunehmen.] "So sei es denn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Magie flammt in der Klinge auf, die er hält, doch das Skelett schweigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Nun gut, denn. Ich werde es erlauben." Die Priester müssen die heiligen Riten Beraths am Leben erhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Es liegt dort in meiner Grabkammer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Es verlangt eine mutige Seele, eine so mächtige und tödliche Waffe aufzugeben. Ich bin also bereit, die Bewachung der Waffe wiederaufzunehmen."
+
+Er streckt einen dürren Arm aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Wenn du bereit bist, sie aufzugeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Ihm das Schwert geben.] "Jetzt ist es wieder an dir, es zu bewachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Noch nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Berath sei Dank." Mit einem knappen Nicken seines Schädels nimmt Yseyr das Schwert entgegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Du wirst jetzt doch nicht gierig, oder etwa doch?"
+
+Mit plötzlich erwachtem Verdacht betrachtet der Todeswächter dich misstrauisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Wächter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Dann sprich klar und deutlich und sage die Wahrheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Angreifen.] "Ich habe dich gewarnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Dann wirst du jetzt sterben, in der Dunkelheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Starr wie der Tod steht das Skelett da. Die einzige Bewegung stammt vom Flackern seiner Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Bist du dir ganz sicher, dass Berath mit deiner Unterbrechung des Kreislaufs der Wiedergeburt einverstanden ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Aye. Sonst würde ich jetzt nicht hier stehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Es ist gefährlich, den Schwur zu brechen, den du mir geleistet hast. Deshalb weiß ich genau, du wirst ihn halten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Wer war sie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Ich kannte sie gut." Der Todeswächter nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Endlich! Es ist ein wahres Vergnügen, sich mit jemandem zu unterhalten, der die Sprache so gut beherrscht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Dieses Kompliment kann ich nur zurückgeben, edler Herr. In diesen heutigen untoten Tagen geschieht es nur noch sehr selten, dass mir ein Verwandter über den Weg läuft. Vor allem ein so schön herausgeputzter. 
+
+"Aber ich muss trotzdem meinen Ruf wahren. Du weißt, was ich meine, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Fye, ich habe einiges gelernt, als ich oben einen steifen, gefühllosen Winzling beschützen musste."
+
+Aloth verdreht die Augen, als Iselmyr erneut verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Eine verwandte Seele kann ein wahrer Balsam sein. Ich sage meinen Dank." Er rollt den Schädel auf dem Hals. Es verursacht ein Geräusch wie Holz, das im Feuer knistert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"In Ordnung, du alter Schwachkopf!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Ich sage euch Lebewohl." Er nickt ernst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Man kann sich nicht beschweren. All die Schönheit und frische Luft hier draußen ... Du solltest manchmal mit uns nach draußen kommen. Es würde dir gut tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Die Feuer in den Augen des Todeswächters flackern heißer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Weißt du, Käpt'n, es ist ja nur so ein Gedanke, aber du könntest dies auch immer ... &lt;i&gt;nicht&lt;/i&gt; tun."
+
+Er grinst. Seine Lippen geben dabei einen schiefen Zahn frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ich warne dich - glaub ja nicht, dass du beides behalten kannst, die Waffe und dein Leben! Wenigstens nicht für immer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Es ist ein gutes Schwert und so weiter, aber vielleicht ist es besser, wenn wir nicht schon wieder einen Gefallen Beraths in Anspruch nehmen, den wir irgendwann entgelten müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ich neige dazu, Edérs Rat zu folgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Hey, das ist klasse! Jemand redet mit genau so einem komischen Akzent wie Iselmyr!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Der Todeswächter sieht drohend und finster drein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Lass mich dir eine Frage zu einem ganz anderen Thema stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ich bin bereit, jedem zu helfen, der auf der Jagd nach Rivan ist. Aye. Dann werde ich noch ein wenig damit warten, dich umzubringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Mit ihrem Darcozzi-Schwert kann ich Rivan hervorlocken und in ihren Untergang führen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ich bitte dich, es zu nehmen." Das feuer in seinen Augen flackert, als du die Steinschnitzerei aus seinem Sarkophag heraushebst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Eora kann nicht mehr dieselbe sein, die sie einmal war, als ich noch dort wandelte. Alte Weisheiten sollten nicht für immer verloren gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Zwillingsfeuer flackern in den Tiefen seiner geschwärzten Augenhöhlen. Sie brennen mit tödlicher Intensität.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Er betrachtet dich aufmerksam. Dabei flackern seine Augen lautlos. Dann klappert er mit den Zähnen und senkt den Morgenstern auf den Boden herab, wo er eine Furche schlägt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Die Erwähnung von Rivans Namen weckt die Wut des Todeswächters. Kalter, aber gewalttätiger Zorn rüttelt das Rückgrat des Skeletts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"VERDAMMT SEI IHRE SEELE! MÖGE SIE IN EWIGER FOLTER DAHINVEGETIEREN! Rivan wollte Berath entehren und mithilfe der schwarzen Pocken Ruin herbeiführen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Ich bin bereit, jedem zu helfen, der auf der Jagd nach Rivan ist. Aye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Das Skelett steht so still wie der Tod. Um es herum wabert Magie, verbrennt die Luft. Mehrere Augenblicke lang starrt das Skelett einfach vor sich hin. 
+
+Dann klappern seine Zähne laut, er hebt sich den Morgenstern von den Schultern und schwingt ihn- direkt vor deiner Kehle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Also sag mir wer um der Göttin Willen dich geschickt hat. Und zwar schnell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Das Skelett steht so still wie der Tod. Um es herum wabert Magie, verbrennt die Luft. Mehrere Augenblicke lang starrt das Skelett einfach vor sich hin. 
+
+Dann klappern seine Zähne laut, er hebt sich den Morgenstern von den Schultern und schwingt ihn- direkt vor deiner Kehle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Willst du, dass ich dabei lache, wenn ich dich umbringe? Wenn nicht, sag die Wahrheit!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Das Skelett steht so still wie der Tod. Um es herum wabert Magie, verbrennt die Luft. Mehrere Augenblicke lang starrt das Skelett einfach vor sich hin. 
+
+Dann klappern seine Zähne laut, er hebt sich den Morgenstern von den Schultern und schwingt ihn- direkt vor deiner Kehle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Die Toten spüren keine Furcht. Und genauso wirst du auch werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Ich habe Rivan und das Schwert verfolgt, von Vailia bis zum Todesfeuer. Endlich konnte ich sie stellen. Ich habe sie erschlagen und Beraths Waffe an mich genommen, um sie zu bewachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ich habe versucht, ihnen endgültig den Garaus zu machen, doch das Kampfglück hat sich gegen mich gewendet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Dann kam ich zum Tempel von Neketaka, um begraben zu werden. Aber ich konnte das Schwert nicht unbewacht lassen. Deshalb habe ich Berath um eine weitere Chance gebeten, meiner Aufgabe zu dienen.
+
+"Ich habe mich geweigert zu sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Oh, in Ordnung. Das, ähm, das ist meine Schuld. Ich hätte die Sprache nicht darauf bringen sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ich dachte einfach nur, ich sage es dir – ich habe dein kostbares Schwert Lucia Rivan gegeben. Im Austausch für ihr Schiff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"ICH VERFLUCHE DICH! NIEDERTRÄCHTIGE BESTIE! ICH WERDE DIR DIE KNOCHEN ZU BREI SCHLAGEN, ALS RACHE FÜR BERATH!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Er tritt einen Schritt vor, bei dem alle Knochen klappern und zittern, und dann noch einen. Seine Stimme aus der anderen Welt ruft eine Beschwörung Beraths, und die Flammen seiner Seele steigen nach oben, ergreifen das gesamte Skelett.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

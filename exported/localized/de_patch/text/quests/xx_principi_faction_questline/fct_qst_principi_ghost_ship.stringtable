@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_principi_faction_questline\fct_qst_principi_ghost_ship</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein Tanz mit dem Tod</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich den &lt;b&gt;Darcozzi-Schwur&lt;/b&gt; mit &lt;b&gt;Engoliero do Espirs&lt;/b&gt; auf See.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Lucia Rivan entgegentreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Mit dem Fliegenden Henker nach Stauholz zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Mit den Príncipi in Ondras Mörser segeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Erlange &lt;b&gt;Engoliero do Espirs&lt;/b&gt; von &lt;b&gt;Yseyr dem Berather&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Mit dem Anführer der Príncipi im Freudenfeuer-Leuchtturm in Stauholz sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Kapitän Furrante&lt;/b&gt; ist davon überzeugt, dass es nur möglich ist, &lt;b&gt;Ukaizo&lt;/b&gt; zu erreichen, indem man das Kommando über &lt;b&gt;Lucia Rivans&lt;/b&gt; Fliegenden Henker übernimmt. Jetzt, wo sich das Engoliero do Espirs in meinem Besitz befindet, muss ich in See stechen und den untoten Darcozzi-Paladin anlocken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Lucia Rivan wurde eine Todeswächterin aufgrund ihrer unsterblichen Hingabe zu ihrem Schwur, das Engoliere do Espirs zu beschützen. Aeldys fand heraus, dass man durch das Aussprechen des &lt;b&gt;Sterbeschwurs der Darcozzi&lt;/b&gt; während man das Schwert trägt eine Aura erzeugen kann, die auf Rivan wie ein Leuchtfeuer wirkt.
+
+ Ich sollte mit der Waffe in &lt;b&gt;See&lt;/b&gt; stechen und den Schwur aussprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe den Schwur ausgesprochen, und vom Schwert ging eine Energie aus, die einer brennenden Flamme ähnelte. Ihre Kraft hat den Fliegenden Henker und Rivan zu mir gebracht. Es ist endlich an der Zeit, sich ihr zu stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe den Fliegenden Henker von Rivan erbeutet. Bleibt nur noch, den Anführer der Príncipi in Stauholz zu treffen, um die Flotte für die Reise nach Ukaizo vorzubereiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Die Flotte der Príncipi wartet auf mein Signal zum Segelsetzen. 
+
+Sobald ich bereit bin, werden die Príncipi mit mir in die Stürme segeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Der einzige Weg, Rivan herauszulocken, besteht darin, den &lt;b&gt;Darcozzi-Schwur&lt;/b&gt; vor ihrem alten Schwert, &lt;b&gt;Engoliero do Espirs&lt;/b&gt; zu sprechen. Das Schwert wird derzeit von &lt;b&gt;Yseyr dem Berather&lt;/b&gt; bewacht, in den &lt;b&gt;Hängenden Grabkammern&lt;/b&gt; unter der Heiligen Treppe von Neketaka.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Wenn ich einen Weg finden will, mithilfe meiner Príncipi-Verbündeten nach Ukaizo zu gelangen, dann muss ich mich mit ihrem Anführer in Stauholz treffen. Es wird Zeit, sich Rivans Fliegendem Henker zu stellen, dem Fonferrus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe mich Ondras Mörser an der Seite der Príncipi-Flotte erfolgreich entgegengestellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Aeldys bat mich, sie in Stauholz zu treffen, von wo aus sie die Jagd auf Lucia Rivans Geisterschiff, den Fliegenden Henker planen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>&lt;b&gt;Aeldys&lt;/b&gt; ist davon überzeugt, dass die einzige Möglichkeit, nach &lt;b&gt;Ukaizo&lt;/b&gt; zu gelangen, darin besteht, die Kontrolle über &lt;b&gt;Lucia Rivans&lt;/b&gt; Fliegenden Henker zu übernehmen. Jetzt, wo sich das Engoliero do Espirs in meinem Besitz befindet, muss ich in See stechen und den untoten Darcozzi-Paladin anlocken.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

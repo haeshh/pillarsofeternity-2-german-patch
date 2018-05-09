@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_cv_2607_pirate_leader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>69</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Pirat verbeugt sich tief bis zur Hüfte, seine linke Hand hebt dabei die Rockspitze seiner feinen vailianischen Jacke. Seine rechte Hand bleibt allerdings in der Nähe des Griffs seiner Waffe. Er richtet sich wieder auf, seine dunklen Augen auf deine gerichtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du kommst zurück?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wenn es deine Kleidung ruiniert ... Nun, faire Warnung, fair gegeben, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich nehme an, du weißt nicht, wer ich bin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich gehe wohin ich will, wann ich will und wie ich will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Hast du den Turm da hinten gesehen? Schön, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich kam zufällig vorbei, und du sahst wie jemand aus, den man kennenlernen will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Merla. Du bist der Wächter aus dem Abschnitt, richtig? Derjenige, der gut mit den Príncipi kann. [Player Name], stimmt's?"</DefaultText>
+      <FemaleText>"Merla. Du bist die Wächterin aus dem Abschnitt, richtig? Diejenige, die gut mit den Príncipi kann. [Player Name], stimmt's?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Zweifelsohne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Wunderschön, in der Tat. Sicher war er einst sehr beeindruckend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich bin mir sicher. Wir kamen zufällig vorbei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Dennoch, die Frage drängt sich förmlich auf - warum bist du hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Das ist eine schöne Kiste, die du da hast. Was ist denn da drin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich würde dir gerne die Truhe abkaufen, zu einem angemessenen Preis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich nehme sie mir einfach und du wirst es nicht verhindern - es sei denn, du willst, dass ich dir ein paar neue Löcher verpasse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Gehen.] "Ich war eigentlich gerade dabei, zu gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ranettis Kopf neigt den Kopf zur Seite. "Wie du wünschst. Aber pass gut auf dich auf und mach dich auf den Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ein sehr großer Haufen mit Dingen, die dich verdammt noch mal nichts angehen."
+
+Der Imp, der in der Nähe hockt, kichert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Pass auf, ich weiß ganz sicher, dass in der Kiste nichts ist, was dich auch nur annähernd interessiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Das ist eine schöne Kiste, die du da hast. Was ist denn da drin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Es ist nicht nötig, diese kleine Konversation mit Zwang zu verderben."
+
+Ranetti hebt seine Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ach, tatsächlich? Vielleicht erteile ich dir eine Lektion in Sachen Príncipi-Höflichkeit. Zu den Waffen, Jungs - wir schicken diesen ungehobelten Flegel nach Cirono."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Deine Waffe ziehen.] "Ich habe es soeben zu meinem Problem gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Angreifen] "Genug Geschwätz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Schicken wir sie nach Cirono, Jungs!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Und dennoch interessanterweise, es bleibt bei ausgesprochen nein."
+
+Er zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Das gottverdammte Schwert ist mit einem Fluch belegt. Es hat unser Schiff ins Chaos gestürzt. Und zwei meiner Jacken ruiniert."
+
+Ranetti schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Und einige meiner eher ungebildeten Freunde. Das könnte für einen vergnügten Abend sorgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ein Fluch? Welche Art von Fluch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Dann hast du nichts dagegen, dass ich es kaufe. Ich wäre bereit, 450 Obles mit gemischten Währungen dafür zu bezahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Wenn jemand eine alte verfluchte Waffe sicher bedienen kann, dann ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Hier, für die Truhe." Er reicht dir einen kleinen Messingschlüssel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Wenn du mir die verdammte Kiste nicht gibst, werde ich euch alle aufschlitzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Er runzelt die Stirn und tippt sich ans Kinn. "Ac, gut. Da du dir Freunde unter den Príncipi gemacht hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Ranetti seufzt. "Hat dir schon mal jemand gesagt, dass es dir an Höflichkeit mangelt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Der Oger pfeift und Ranetti blickt ihn finster an. Er denkt nach, streicht sich dabei übers Kinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Die Details, das versichere ich dir, Aimico, sind nichts für die Ohren anständiger Leute. "Sie sind wirklich ziemlich ... desgant. Widerlich."</DefaultText>
+      <FemaleText>"Die Details, das versichere ich dir, Aimica, sind nichts für die Ohren anständiger Leute. "Sie sind wirklich ziemlich ... desgant. Widerlich."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Sag es mir endlich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Die Männer, die das verdammte Ding gemacht haben, nannten es den Kotzestecher. Es ist ein treffender Name, mehr sage ich nicht dazu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich hatte das von dir gehört. Dass du ein Denker bist."
+
+Er nickt und tippt sich ans Kinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Du willst es so sehr, dann nimm es. Aber komm nicht zu mir, wenn es deine teuren Bücher versaut hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Wer den kürzeren zieht, macht die Arbeit. So lauten die Regeln!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Du hast falsch verstanden. Es gibt nur einen kürzeren Halm, und das ist keine Aufgabe für einen allein, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Zurück an die Arbeit, Jungs. Teilt euch die verdammte Schaufel, wenn es sein muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Mit offenem Mund schnarcht der Pirat leise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Die beste Sache an ehrlicher Arbeit ist ein ehrlicher Drink danach!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Darauf trinke ich! Warte ... habe ich das nicht schon mal woanders gehört?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Das hat mir mein Freund Mirke einmal erzählt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ich breche nicht gern einen Streit vom Zaun, wenn ich nicht muss, bon Aimico, aber ich bin schon sehr neugierig, was in Waels Namen du hier machst."</DefaultText>
+      <FemaleText>"Ich bin Damen gegenüber gewöhnlich ein Gentleman, aber ich bin schon sehr neugierig, was in Waels Namen du hier machst."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Zu den Waffen, Jungs! Wir werden angegriffen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Was für eine schöne Überraschung. Ein Mann mit Stil und Anmut, und das an diesem Ort." Sie lächelt den jungen Herrn an, obwohl ihre Augen kalt bleiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Man trifft eine Person immer nur einmal, Tella. Was für ein Príncipo wäre ich, wenn das nicht zählen würde?"
+
+Er wendet seine Aufmerksamkeit dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ranetti, mein Junge! Ist einige Zeit her, dass wir uns zuletzt sahen! Wie ich sehe, umgibst du dich immer noch mit guter Gesellschaft."
+
+Er nickt zu dem Oger und zwinkert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Serafen. Ich sagte, es sei Quatsch, als ich hörte, dass du den Herrn verlassen hast, aber ich habe mich wohl kräftig geirrt." Sein Lächeln schwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Du weißt schon, wie du mich anpacken musst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Hat das Ding gerade &lt;i&gt;gesprochen&lt;/i&gt;?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"In der Tat hat es das.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Hast du etwas gehört? Du scheinst zu phantasieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Lasst uns am Ball bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"450 Obles ... das ist eine Menge Gold. Oder eine Menge von dem, was du mir gibst. Wir Piraten und unsere gemischten Währungen, was?"
+
+Schließlich nickt er und nimmt die schwere Geldtasche an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ich hoffe, du hast eine extensive Garderobe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Eine seltsame Wahl, angesichts dessen, wie die Dinge mit Remaro stehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Er spiegelt das in seinem Gesicht fast perfekt wider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Seine Augenbrauen heben sich über seinen funkelnden Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Er runzelt die Stirn, und mustert dich von Kopf bis Fuß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Das würde ich meinem schlimmsten Feind nicht wünschen ... Na ja, vielleicht schon meinem &lt;i&gt;schlimmsten&lt;/i&gt; Feind." 
+
+Er lächelt, und reibt sich das Kinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ruhe, Ratte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Ranetti grinst, seine Finger umgreifen sein Schwert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Ranetti seufzt und kneift seinen Nasenrücken.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

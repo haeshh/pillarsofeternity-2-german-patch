@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_si_engwithan_pylon_c</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Ring setzt seine langsame Drehung um den Pylon fort. Aus der Nähe ist ein schwaches Summen zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du findest eine kleine Maschine auf einem Podium, die von einem Ring umgeben ist. Sie scheint engwithanischen Ursprungs zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Maschine ausschalten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Die Maschine untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du studierst die Rotationsgeschwindigkeit des Ringes und das fast unmerkliche Summen der Maschine. Nach ein wenig Herumprobieren verstehst du, wie der Pylon funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Egal wie du die Maschine auch schüttelst und rüttelst, ihr Zweck verschließt sich dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du schaltest die Maschine aus. Der rotierende Ring bleibt stehen und die Energie, die er ausstrahlte, versiegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du schlägst mehrmals auf die Steuerungseinheit ein, bis die empfindliche Maschine stottert und kaputtgeht. Einen Augenblick später hört der Ring um die Maschine auf, sich zu drehen. Die Energie, die er ausstrahlte, versiegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Versuchen, die Maschine kaputtzumachen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du versuchst alles, aber der Pylon erweist sich gegenüber deinen Attacken als unempfindlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Ein leises Poltern hallt durch die Ruinen und die Barriere am Fenster in deiner Nähe flackert kurz auf. In der Nähe beginnen sich kleine Wasserrinnsale zu bilden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Das Poltern ist jetzt stärker und die Barriere gegenüber von dir blitzt und schwankt. Risse laufen die Wände hoch, gefolgt von vielen weiteren lecken Stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Die gesamte Struktur erbebt so heftig, dass es dich fast auf die Knie zwingt. Die Barriere flackert und verschwindet dann mit einem Knall.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

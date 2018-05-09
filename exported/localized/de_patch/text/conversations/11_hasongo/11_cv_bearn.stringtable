@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hasongo\11_cv_bearn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>151</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Das Licht von Eothas sei mit dir, Nachbar. Suchst du nach Überlebenden?"
+
+Im Gegensatz zu den anderen Überlebenden, denen du begegnet bist, sieht dieser junge Mann trotz seines ausgezehrten, lumpigen Aussehens sehr gefasst aus und er spricht mit einer steten Stimme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Gehörst du zu den Kindern der Dämmerungssterne? Mein Freund sucht nach jemandem, den du vielleicht kennst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ja, genau. Mein Freund ist auf der Suche nach jemandem, der in dieser Gegend hier leben soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Kleine Dame, etwa in meinem Alter. Kam aus Dyrwald mit ihrem Sohn hierher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich sollte mit ihm reden. Vielleicht kann ich helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Er ist nicht hier. Ich bringe ihn her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Verstehe. Nun gut." "Gab es sonst noch etwas?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Nein, ich mache mich dann auf den Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ähm, mal sehen ... Sommersprossen. Normalerweise Zöpfe. Schlägt dir auf den Arm, wenn sie dich mag, und ins Gesicht wenn nicht – und das an ihren guten Tagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Wir sind hier richtig. Du musst sie kennen. Sie hat einen Sohn in deinem Alter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Gibt es noch jemanden, den wir fragen könnten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich glaube nicht, dass ihr in dieser Gegend viel Glück haben werdet. Ich kenne alle meine Nachbarn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Du musst ihr Sohn sein. Hast ihre Nase und ihre Sommersprossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Du musst mich nicht anlügen, ich bin ein Freund deiner Mutter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Sie versteckt sich vor jemandem? Vielleicht vor einem ehemaligem Liebhaber, der ihr die beste Nacht ihres Lebens gegeben hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Nein, ich ... Das meinte ich nicht ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vergiss es. Sag mir nur eins. Dein Vater, kennst du ihn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Tut mir leid ... wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Wie Edér schon sagte, wir sind Freunde deiner Mutter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Entspann dich. Edér ist ein guter Mensch. Er mag Tiere und so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Wir werden die letzten Leute sein, die du auf Eora siehst, wenn du nicht gleich mit der Sprache herausrückst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich glaube, dass mein Freund hier vor langer Zeit eine fleischliche Beziehung mit deiner Mutter hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ja, ich kannte meinen Vater in meiner frühen Kindheit. Er war ein Mann festen Glaubens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Wir haben ihn während der Säuberungen verloren, weshalb wir hierher geflohen sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Also hast du ihn getroffen."
+
+Bearn nickt zögerlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Also das ... das ist großartig. Du hattest einen Vater."
+
+Ein Moment vergeht, in dem Edér Bearn mit einem seltsam gekräuselten Gesichtsausdruck ansieht. Er räuspert sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Muss so sein. Wer Elafa sauer macht, braucht zum Schutz einen Gott auf seiner Seite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Wo ist deine Mutter jetzt? Wir haben so viel zu besprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Sie ist vor einigen Jahren durch den Schleier gegangen. Eine Grippe."
+
+Edérs Kinn fällt herunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Du willst sie beschützen. Wir verstehen das."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Wir werden sie finden, ob du uns hilfst oder nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Hör auf meinen Rat. Wenn du jemanden wie mich triffst, erzählst du ihm besser alles, was er wissen will. Verstanden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Was genau soll das bedeuten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Sie ist in der Kirche?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Vielleicht hast du noch nicht davon gehört, aber Eothas befindet sich in einer riesigen Adra-Statue, die den Meeresboden entlangwandert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich glaube nicht, dass du verstehst, was ich meine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ja, er wandelt wieder unter uns, und er rekrutiert gläubige Soldaten. Ich glaube, sie ist bei ihm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Unter seiner Bauernbräune ist Edérs Gesicht knallrot geworden. Seine Nasenlöcher pulsieren mit jedem schweren Atemzug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Du hast uns angelogen. Hast behauptet, sie nicht zu kennen. Und jetzt erwartest du, dass ich dir das glaube?"
+
+Er macht einen kleinen Schritt auf Bearn zu, der wiederum zwei nach hinten setzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ruhig, er hat immerhin seine Mutter verloren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ich glaube, niemand würde sehr lange nach dem Jungen suchen, wenn er verschwinden würde, Edér."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Es sieht wirklich so aus, als wäre er hier draußen alleine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Wie kann er das so kaltherzig sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Es ist möglich, dass ihre Seele mittlerweile einen neuen Körper gefunden hat, aber wenn sie wirklich gesegnet war, marschiert sie jetzt an der Seite des Leuchtenden Gottes."
+
+Das dezente Lächeln des Jungen wird zu einem Strahlen, seine Augen blicken in weite Ferne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Interessant, man würde es ihm nicht ansehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ein guter Gedanke, aber damit komme ich nicht weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Nun, er versteckt seine Trauer ziemlich gut, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Daran ist nichts kaltes. Eher ... aufgeregt, das ist er."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Edér starrt dem Jungen eine Weile lang in die Augen, dreht sich dann grunzend um und winkt ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ich lüge nicht. Sie liegt auf der anderen Seite dieses Hügels dort begraben."
+
+Er zeigt nach Norden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Lasst euch von ihrem Dahinscheiden nicht betrüben. Allen Seelen, die an der Seite von Eothas marschieren, werden seine Wärme und sein Licht zuteil."
+
+Edér blickt finster drein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"'An der Seite von Eothas marschieren'? Was meinst du damit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Du scheinst sehr viel von einem Gott zu halten, der nur Zerstörung anrichtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Wer sind die Partisanen des Erleuchteten Pfades?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Eothas ist nun zwei Mal zu uns gekommen. Nicht einmal das Vergessen könnte ihn aufhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Wir hätten uns seinem ersten Kommen nicht entgegen stellen dürfen. Er wollte uns unter seinem Banner vereinen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Er hat damals zerstört wie er heute zerstört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Dyrwald hat übereilt reagiert, da stimme ich zu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Wir waren Opfer eines Streits unter Göttern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ich kenne eine Menge toter Dyrwalder, die sehr erleichtert wären, das zu hören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Eothas hat jeden dazu gezwungen, sich als Verbündeten oder Feind zu offenbaren. Mehr nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Du hast den riesigen Fußabdruck auf deinem Rücken, um es zu beweisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"In der Regel keine schlechte Idee, bei einer Invasion eilig zu reagieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Wenn man gesehen hat, was wir gesehen haben, fällt es schwer, zu glauben, dass sie nur unser Bestes wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Nun marschiert er wieder und wir haben die Chance, unseren Fehler zu korrigieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Auf bröckeligen Fundamenten lässt sich nichts errichten. Wahre Veränderungen brauchen Zerstörung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ich vertraue darauf, dass mein Gott es besser weiß als ich. Er kennt Wahrheiten, die ich nie verstehen werde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Da liegst du richtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ich war einst verloren. Habe mich durchschlagen müssen, so wie ihr jetzt. Aber die Partisanen des Erleuchteten Pfades haben meinen Glauben an Eothas wiederhergestellt."
+
+In dieser Sekunde sieht Edér zu Bearn hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Welche Ehre könnte größer sein, als in seiner Vorhut marschieren zu dürfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Wir haben als Kinder der Dämmerungssterne begonnen und uns dann von ihnen abgespalten, als wir unsere Bestimmung hinterfragt haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Aber dann hat Eothas Gaderian Bosc eine Vision zuteil werden lassen. Bosc sah einen erleuchteten Pfad, der den Weg durch die finstere Dunkelheit weist."
+
+Die Worte fallen klobig und unnatürlich aus seinem Mund, als hätte sie jemand anders dort eingepflanzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Und er sah Eothas auf diesem Pfad gehen, und Eothas sagte ihm, er solle an seiner Seite marschieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Und der Leuchtende Gott sagte zu Gaderian Bosc, er solle eine Armee der wahrhaftigsten Anhänger des Gottes zusammenstellen, und sich darauf vorbereiten, sie in die Schlacht zu führen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Man sollte meinen, dass er es mit dem Kämpfen etwas langsamer angeht, nachdem er in die Luft gejagt wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Mit wem will Eothas kämpfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Wie willst du dich Eothas anschließen, wenn er auf dem Meeresboden marschiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Hat dieser Bosc je einen Beweis für seine Visionen erbracht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Wie könnte sie weg sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Das wissen wir nicht. Der Ende des Pfades wurde Gaderian Bosc bisher noch nicht offenbart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Aber für die Gläubigen sollte das keinen Unterschied machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Es wird eine große Reise sein. Aber wir sind vorbereitet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Gaderian Bosc kennt den Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Eothas ist im Todesfeuer in der Form erschienen, die Gaderian Bosc vorhersagte. Das ist mehr Beweis, als seine Gläubigen ihm abverlangen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Was für ein Segen, die Gelegenheit zu erhalten, unserem Gott in der lebendigen Welt zu begegnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Edér, hast du alles, was du hier brauchtest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Wir können gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Wie du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Wir gehen dann mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"In Ordnung. Dieser Typ mit dem leuchtenden Pfad. Bosc. Hört sich interessant an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Gibt es eine Möglichkeit, ihn zu treffen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Üblicherweise ist er unterwegs, um Anhänger zu gewinnen. Aber die Partisanen des Erleuchteten Pfades treffen sich öfter im Tempel von Eothas in Neketaka."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Dort hält sich eine bestimmte Anhängerin auf, Ogne, die neue Partisanen einweist. Ohne Zweifel wird sie euch mit Freuden helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Eothas braucht fähige Soldaten. Selbst, wenn sie älter sind."
+
+Edér spuckt auf den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Du solltest in Erwägung ziehen, was Ogne zu sagen hat. Vielleicht spricht es dich an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"So sehen wir uns wieder. Möge Eothas' Segen mit dir sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ich wollte dich noch etwas fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Du hast davon gesprochen, dass die Seele deiner Mutter an der Seite von Eothas marschiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Erzähl mir noch einmal von den Partisanen des Erleuchteten Pfades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Wir haben als Kinder der Dämmerungssterne begonnen und uns dann von ihnen abgespalten, als wir unsere Bestimmung hinterfragt haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Aber dann hat Eothas Gaderian Bosc eine Vision zuteil werden lassen. Bosc sah einen erleuchteten Pfad, der den Weg durch die finstere Dunkelheit weist."
+
+Die Worte fallen klobig und unnatürlich aus seinem Mund, als hätte sie jemand anders dort eingepflanzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Und er sah Eothas auf diesem Pfad gehen, und Eothas sagte ihm, er solle an seiner Seite marschieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Und der Leuchtende Gott sagte zu Gaderian Bosc, er solle eine Armee der wahrhaftigsten Anhänger des Gottes zusammenstellen, und sich darauf vorbereiten, sie in die Schlacht zu führen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Nein, hört sich nicht bekannt an."
+
+Das Gesicht des jungen Mannes bleibt ganz entspannt, er zeigt weder Überraschung noch Interesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Der Junge sieht dich mit einer geradezu gruseligen Ruhe an.
+
+Langsam öffnet sich sein Mund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Der Junge blinzelt mehrere Male. Es ist nicht ersichtlich, ob er Edérs Kommentar überhaupt wahrgenommen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Elafa hatte wohl eher fleischliche Beziehungen mit dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"In Ordnung. Freund von Elafa."
+
+Nicht auch nur ein Hauch von Emotionen huscht über das Gesicht des Jungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Löwen, Fledermäuse, Orlaner, um nur ein paar zu nennen."
+
+Bearn nickt, ohne einen Anflug von Humor oder Persönlichkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Meine Mutter ist bei Eothas."
+
+Mit dem letzten Wort scheint sich ein leichtes Lächeln auf sein Gesicht zu legen.
+
+Edér sieht verwirrt aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Obwohl niemand von uns herausgefunden hat, warum er getan hat, was er tat, nachdem er gestorben war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ehrlich gesagt werde ich selbst bald dorthin gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"So sehe ich das nicht. Aber jeder darf sich sein eigenes Bild machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Ich bin mir nicht sicher, worüber du sprechen willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Edér atmet tief ein. Er sieht sich um, und richtet seinen Blick dann auf Bearn. 
+
+Er nickt und presst die Worte aus seinen Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Hey, äh, Junge. Wie war noch gleich dein Name?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Bearn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ich habe mein Leben, und ich weiß, dass ich es von dir habe. Ich weiß, dass ich dankbar sein sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Aber die Wahrheit ist, dass ich nicht weiß, ob ich wirklich hier sein will. Oder was ich tun sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Und ich weiß immer noch nicht, was ich Eothas sagen soll, wenn ich ihn eines Tages treffe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Bin nicht in der Stimmung, zu reden, wenn es dir nichts ausmacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Es sollte umgekehrt sein. Er ist derjenige, der dir eine Erklärung schuldet."
+
+Bearn weicht Edérs Blicken aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Hörst du mich, Junge? Er schuldet dir etwas."
+
+Bearn nickt geistesabwesend, starrt weiter auf den Boden und sagt nichts mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Das ist großzügig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Ich hätte mich ihm gerne angeschlossen, als er so gegangen ist, aber ich war schwach. Das wird nicht wieder passieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Warum hast du uns wegen Elafa angelogen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Gaderian Bosc hat uns gewarnt. Davor, dass diejenigen außerhalb der Partisanen unseren Glauben verspotten oder auf die Probe stellen würden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Besonders unsere alten Familien und andere, die ihnen nahe stehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Wir haben gelernt, dass es für uns am besten ist, wenn wir unter uns bleiben oder uns denen zuwenden, die uns gegenüber aufgeschlossen sind. Das sind Verwandte und Freunde meistens nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Erwartungsvoll blickt Edér hoch, als Bearn die [Player Ship] ohne ein Wort zu irgendjemandem verlässt. 
+
+Bearn marschiert davon, starrt dabei mit seinen eingesunkenen Augen stur geradeaus. Er verlangsamt seinen Schritt auch nicht, als er an Edér vorbeikommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Bearn?"
+
+Der Junge ist bereits einige Schritte gegangen, bevor er überhaupt irgendetwas gehört zu haben scheint. Als er endlich stehenbleibt, dreht er sich nicht sofort nach Edér um; so, als wollte er sich alle Möglichkeiten offenhalten. 
+
+Es vergeht ein langer Augenblick, dann wendet er sich doch um, mit einem hartnäckigen Zögern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Wer sind die Partisanen des Erleuchteten Pfades?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Wir haben als Kinder der Dämmerungssterne begonnen und uns dann von ihnen abgespalten, als wir unsere Bestimmung hinterfragt haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Aber dann hat Eothas Gaderian Bosc eine Vision zuteil werden lassen. Bosc sah einen erleuchteten Pfad, der den Weg durch die finstere Dunkelheit weist."
+
+Die Worte fallen klobig und unnatürlich aus seinem Mund, als hätte sie jemand anders dort eingepflanzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Und er sah Eothas auf diesem Pfad gehen, und Eothas sagte ihm, er solle an seiner Seite marschieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"So sehe ich das nicht. Aber jeder darf sich sein eigenes Bild machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Und der Leuchtende Gott sagte zu Gaderian Bosc, er solle eine Armee der wahrhaftigsten Anhänger des Gottes zusammenstellen, und sich darauf vorbereiten, sie in die Schlacht zu führen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Man sollte meinen, dass er es mit dem Kämpfen etwas langsamer angeht, nachdem er in die Luft gejagt wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Mit wem will Eothas kämpfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Das wissen wir nicht. Der Ende des Pfades wurde Gaderian Bosc bisher noch nicht offenbart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Aber für die Gläubigen sollte das keinen Unterschied machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Hat dieser Bosc je einen Beweis für seine Visionen erbracht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Eothas ist im Todesfeuer in der Form erschienen, die Gaderian Bosc vorhersagte. Das ist mehr Beweis, als seine Gläubigen ihm abverlangen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Was für ein Segen, die Gelegenheit zu erhalten, unserem Gott in der lebendigen Welt zu begegnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Wie willst du dich Eothas anschließen, wenn er auf dem Meeresboden marschiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Es wird eine große Reise sein. Aber wir sind vorbereitet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Gaderian Bosc kennt den Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Edér, hast du alles, was du hier brauchtest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Edér atmet tief ein. Er sieht sich um, und richtet seinen Blick dann auf Bearn. 
+
+Er nickt und presst die Worte aus seinen Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Wir können gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\ghost_ship_encounter\re_cv_ghost_ship_captain_encounter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>76</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine Gruppe wütender Untoter stürmt auf dein Schiff zu. Aber dann bleiben sie abrupt stehen und treten zur Seite, um ihrem Kapitän Platz zu machen. Mit festen, schweren Schritten kommt Rivan auf dich zu. Sie hält kurz inne und starrt dich mit feurigen Augen an, die dich geradezu durchstechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;link="neutralvalue://Vailian: Gebt mir den Seelenverschlinger!&gt;"Derme o Engoliero me Espirs!"&lt;/link&gt;
+
+Sie streckt eine Skeletthand nach dem Schwert aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Lügen] "Das? Das habe ich in einem Abfallhaufen gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Nein. Ich habe Yseyr für dieses Schwert getötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Tut mir leid, aber ich habe Yseyr versprochen, dich mit diesem Schwert zu töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Das Schwert gehört jetzt von Rechts wegen mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Selbst wenn es Yseyr verloren hätte wie ich - wer würde es je zulassen, dass einer so wertvollen Waffe so etwas widerfährt? Nein, das glaube ich nicht ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Dann gebührt dir mein Dank. Gib mir jetzt mein Engoliero me Espirs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich gebe das Schwert nicht her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Wie wäre es mit einem Tausch? Das Schwert gegen dein Schiff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Ihr das Schwert geben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Du &lt;i&gt;wirst&lt;/i&gt; es mir überlassen – sobald ich deine Seele von deinem Leichnam gelöst habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich habe deine Art schon einmal aus dem Dyrwald eliminiert. Ich kann und werde dich erledigen, Todeswächter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Also los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Er muss der Wächter von Caed Nua sein. Der Schlächter der Untoten. Raedrics Mörder." Einige der Untoten an Bord des Fliegenden Henkers springen entsetzt zurück.</DefaultText>
+      <FemaleText>"Sie muss die Wächterin von Caed Nua sein. Die Schlächterin der Untoten. Raedrics Mörderin." Einige der Untoten an Bord des Fliegenden Henkers springen entsetzt zurück.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Rivan dreht sich zu ihnen und zerlegt einen Fampir mit einer schnellen Bewegung in zwei Teile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Schweigend geht Rivan einen Schritt zurück und die Untoten stürmen mit Kampfschreien auf dein Schiff zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich verhandle nicht um das Schwert." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ein Darcozzi-Paladin namens Furrante braucht dein Schiff für Flüchtlinge aus Alt-Vailia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich komme im Namen von Kapitän Aeldys. Sie will Ukaizo plündern und braucht deine Fonferrus, um es zu schaffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"&lt;i&gt;Wenn&lt;/i&gt; er ein Darcozzi-Paladin ist, sollte dieser Furrante mir bei meiner Pflicht helfen, das Schwert der königlichen Linie zurückzubringen, oder etwa nicht? Wieso ist mein Schiff für Groß-Vailia wichtig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Die Fonferrus kann durch die Stürme segeln, die Ukaizo schützen.  Furrante will dort ein Neu-Vailia errichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Wieso sollte man diesem Furrante Vailias Nachlass anvertrauen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Als Darcozzi-Paladin schwöre ich dir, ich werde dafür sorgen, dass Furrante sein Wort hält."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Die königliche Familie von Vailia ist tot. Aber das Schwert kann immer noch seinen Zweck erfüllen - durch das Vermächtnis der Príncipi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich brauche dein Schiff, um Eothas daran zu hindern, das Rad zu zerstören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Dein Piratenkapitän kann meinetwegen tausendmal ertrinken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ein Schiff kann ersetzt werden, ein Schwert nicht. Ich gebe dir das Schwert, wenn du dein Schiff gegen meins tauschst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Du hast keine andere Möglichkeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Hast du vor, deinen Schwur dem Berathianer gegenüber einzuhalten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich habe einen Schwur geleistet. Ich habe vor, ihn einzuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Wenn du denkst, meine Ladung behalten zu können, irrst du dich gewaltig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Dein Schiff ist ein Stück Treibholz. Aber was das Schwert betrifft, das nehme ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich gebe dir das Schwert &lt;i&gt;und&lt;/i&gt; ein sehr gutes Schiff - meins, im Tausch gegen deins. Warum nicht handeln?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Dein Schiff scheint ein passendes Tauschobjekt zu sein. Was das Schwert betrifft, das nehme ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ich kann nicht erkennen, warum mich das kümmern sollte?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Wie willst du deine Pflicht erfüllen, wenn die Darcozzi-Blutlinie hohlgeboren wird?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich gebe dir die Fonferrus, aber du musst mir das Schwert und dein Schiff geben, damit ich mein Pflicht erfüllen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Es gehört dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Dir mein Schiff geben? Nicht in deinem ewigen Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Da könntest du recht haben." Sie tippt sich nachdenklich mit dem Skelettfinger an das Kinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ich schätze deine Überzeugung. Aber ich kann nicht einem Mann trauen, den ich noch nicht kenne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Wenn die Príncipi wirklich die nächste Fortsetzung des Darcozzi-Vermächtnisses sind, dann muss ich ihnen das Schwert bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ich jage einen bösartigen Gott, aber ohne die Fonferrus kann ich ihn nicht fangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Eora wird stehenbleiben und sterben, ohne das Rad, das es dreht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Der Handel ist geschmiedet." Nickend nimmt sie den Panzerbrecher. Nachdem sie ihn triumphierend über ihren Kopf gehoben hat, signalisiert sie der Besatzung, Fracht und Hab und Gut auf dein Schiff zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Dann muss ich mir das Schwert durch einen Kampf und Blutvergießen nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Rivan hebt das Schwert triumphierend über ihren Kopf. Dann zeigt sie damit zum Horizont und ihre Besatzung bereitet hastig das Schiff vor - lumpige Segel werden straff gezogen, ein verrosteter Anker eingeholt, bevor das Schiff gespenstisch davon segelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Das ist ein verlockendes Argument. Aber ich bedaure, ich werde nicht zulassen, dass deine persönlichen Angelegenheiten meine Pflichterfüllung behindern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ich muss widersprechen. Ich kann dich jederzeit auch töten und meine Suche mit dem Schwert in der Hand fortführen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Das behauptest du jedenfalls - aber welche Qualitäten des Ordens verkörperst du, Paladin? Ich sehe sie nicht in dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Du bist ein kluger Paladin, ja? Du verstehst, warum ich nicht einem Mann blind vertrauen kann, den ich nicht kenne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Welchen Anspruch hast du auf dieses Schwert? Ich habe den Engoliero aus einem Grab gestohlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Das habe ich auch. Und meins ist unendlich. Deins auch?" Die Todeswächterin neigt den Kopf zur Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Du meinst das und doch…" Modwyrs Griff glüht so hell wie ein Kohlestück und ein Fetzen Rauch steigt von seinem Knauf empor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Rivan dreht ihren Schädel auf ihrem fleischlosen Hals. Glühende Augen leuchten interessiert auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Wirklich? Ich hoffe, du hast es von den fleisch- und leblosen Händen des Berathianers. Allerdings schließt das nicht aus, dass das Schwert mir gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Wer sitzt denn dann im Palast auf dem Thron?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Der Palast wurde niedergebrannt und nie wiederaufgebaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Groß-Vailia zerfiel vor Hunderten von Jahren. Die Príncipi sind die Abkömmlinge der Flüchtlinge, die beim Zusammenbruch noch fliehen konnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Das wird er - wenn du ihm beides gibst, das Schwert und das Schiff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Hat irgendeiner von euch noch etwas dazu zu sagen? Will irgendein Feigling meine Besatzung verlassen? Es gibt nur einen Weg heraus - wie ihr wisst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Die Besatzung verstummt und schweigt wie ein Grab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Lucia Rivan, ich übernehme hiermit den Befehl über dein Schiff!”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Du möchtest gern die Fonferrus &lt;i&gt;und&lt;/i&gt; den Engoliero do Espirs meinem Befehl entziehen? Frecher Fleischsack.
+
+"Die einzige Art, wie du einen Fuß auf dieses Schiff setzen kannst, ist als ein Mitglied meiner Mannschaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Angreifen] "Der Fliegende Henker hat jetzt einen neuen Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Nein, sie wird gleich einen neuen ersten Maat haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Belfetto. Ich nehme dir heute zwei Schwerter ab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Einige der Untoten an Bord des Fliegenden Henkers weichen erschrocken zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Nachdem die letzten Untoten erlegt sind, kannst du dir jetzt den Fliegenden Henker nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Am Steuer des Fliegenden Henkers stehend signalisierst du deinem Bootsmann, in See zu stechen. Der Wind pfeift durch die zerfetzten Segel. Verrottetes Holz stöhnt als das Schiff an Tempo zulegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Rivan hebt grüßend ihre Skelettfaust, als ihr Schiff vorbeigleitet. Sie hat ihren Kurs in die entgegengesetzte Richtung gesetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Besatzung! Derme o Engoliero! Greift zum Schwert – und spießt die Lebenden auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Nachdem ihr die Engoliero mit Rivan gegen den Fliegenden Henker getauscht habt, signalisierst du deiner Mannschaft, alles für die Weiterfahrt bereit zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Rivan hebt das Schwert gegenüber dir in einer respektvollen letzten Geste zum Abschied. Dann entfernen sich die Todeswächter und ihre Mannschaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

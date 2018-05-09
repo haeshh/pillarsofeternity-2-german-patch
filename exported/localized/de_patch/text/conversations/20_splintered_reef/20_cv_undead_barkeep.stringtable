@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_cv_undead_barkeep</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ein Getränk, der Herr?" 
+
+Der Mann an der Theke geht seiner Arbeit nach, völlig unbeeindruckt von der Tatsache, dass er halb verwest aussieht. 
+
+Hinter ihm hängt ein Zwerg kopfüber über einem Fass. Blut strömt aus einer Wunde an seinem Handgelenk in das Fass. Von Zeit zu Zeit zuckt der Zwerg kläglich.</DefaultText>
+      <FemaleText>"Ein Getränk, die Dame?" 
+
+Der Mann an der Theke geht seiner Arbeit nach, völlig unbeeindruckt von der Tatsache, dass er halb verwest aussieht. 
+
+Hinter ihm hängt ein Zwerg kopfüber über einem Fass. Blut strömt aus einer Wunde an seinem Handgelenk in das Fass. Von Zeit zu Zeit zuckt der Zwerg kläglich.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ist der 'Fang des Tages' so ähnlich wie das da hinter dir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Keine Sorge. Die Kapitänin, die diese Siedlung gegründet hat, hat gute Leute am Ruder gelassen.
+
+"Dieses Land ist nicht geeignet für Landwirtschaft. Wir hängen von der See ab. Die Beschützer der Stadt segeln hinaus und bringen Essen für den Rest von uns mit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wer ist diese Kapitänin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Hä? Oh, ich dachte, du hättest die ganze Geschichte schon von den Beschützern gehört. Kapitän Lucia Rivan. Unsere großartige Gründerin. 
+
+"Das war vor langer Zeit. Jetzt hat natürlich Menzzago das Sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Die Lucia Rivan vom Fliegenden Henker? Dem Geisterschiff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Geisterschiff? Was meinst du damit? Es hatte eine Besatzung wie jedes andere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich werde das vielleicht bereuen, aber ... Verkaufst du hier etwas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Gehen] "Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Also. Was darf's sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du bemerkst im Augenwinkel ein metallisches Glitzern, drehst den Kopf in diese Richtung und siehst einen Mann mit einem glänzenden Helm, der vom Balkon über dir auf dich hinabsieht. Er starrt dich einige Momente lang mit wilden Augen an, bevor er von der Brüstung wegeilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Wer ist das mit dem Helm da oben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Hä? Ach, das muss Kupferkopf sein. 
+
+"Der ist ein wenig weich in der Birne, aber er kann Dinge gut genug reparieren, dass wir seine Dummheit dafür ertragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Gefällt es dir hier langsam? Wir können hier immer Leute gebrauchen, die anpacken können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Wer ist Zulka?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Eine unserer Beschützerinnen. Sie bewahren unsere Siedlung vor Bösem und segeln aufs Meer auf der Suche nach Nahrung. 
+
+"Der Mann, der hier das Sagen hat, ist Menzzago. Er wirft vom Turm auf dem Hügel ein wachsames Auge auf alles, was hier so läuft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Mein, öhm, Schiff ist aufgelaufen. Ich muss ganz schön weggetreten gewesen sein, als sie mich gerettet haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Die Beschützer? Wer sind die?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Lass dich von dem Namen nicht abschrecken. Rivan hat hier auf dem Zersplitterten Riff eine nette kleine Gemeinschaft gegründet. 
+
+"Du wirst schon sehen. Wenn du dich hier erstmal eingelebt hast, wirst auch du ihr dankbar sein. Und Menzzago ebenfalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Wer ist dieser Menzzago?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Einer der allerersten Siedler, soviel ich gehört habe. 
+
+"Ehrlich gesagt habe ich in letzter Zeit nicht viel von Menzzago gesehen. Er hat bestimmt viel zu tun, jetzt wo die Stadt so groß geworden ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Hier, Neuankömmling. Die erste Runde geht aufs Haus." 
+
+Er nimmt einen Krug und schenkt eine unverwechselbare rote Flüssigkeit, dick und dunkel, in einen Kelch ein. Der kupferartige Geruch trifft deine Nasenlöcher mit voller Wucht. 
+
+Der Wirt schiebt dir den Kelch über den Tresen zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Rivan ist eine tolle Frau. Sie kommandierte den Fliegenden Henker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Oh ... Na, du wirst mal mit Zulka sprechen müssen, sobald sie hier ist. Sie will immer genau wissen, wer hier was macht. Natürlich nur zu unserem Schutz, du verstehst. 
+
+"Du willst ihr nicht den Eindruck vermitteln, dass du hier heimlich herumschleichst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich finde es seltsam, dass noch niemand versucht hat, mich bei lebendigem Leibe zu essen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Bist mit 'nem Loch im Bauch hergekommen, wie? Na ja, wenn Zulka nicht bald mit Fischen ankommt, werde ich mich wirklich beherrschen müssen, dich nicht anzuknabbern."
+
+Er kichert über seinen kleinen Witz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Der Wirt hält inne und schaut über seine Schulter. Als er sich wieder dir zuwendet, sieht er äußerst verwirrt aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Es trinken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Es nur scheinbar trinken und das Blut ausschütten, wenn der Wirt nicht hinsieht.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Bist du verrückt? Ich trinke doch kein Blut!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du hebst den Kelch und nimmst einen großen Schluck seines grausigen Inhalts. Nahezu auf der Stelle überkommt dich eine Übelkeit, die dir den Magen umdreht, doch du schaffst es, dir nichts anmerken zu lassen und dein Mittagessen bei dir zu behalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du hebst den Kelch, nimmst einen langen Schluck ... und spuckst sofort das Blut über den Wirt, den Boden und deine Füße wieder aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Igitt! Was zum–? Du bekommst hier nichts mehr zu trinken, wenn du nichts vertragen kannst!"
+
+Er wischt sich genervt über die Vorderseite seines Hemds und dreht sich dann mit einem gemurmelten Kraftausdruck weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Um die Wahrheit zu sagen, ist die Speisekarte nicht gerade üppig, aber ein Ale sollte dich über Wasser halten, bis Zulka und ihre Leute zurückkommen.
+
+"Dann kannst du den Fang des Tages genießen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ich trinke seit Jahren keinen Ale mehr. Ertrunkenenlunge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Oh, Verzeihung, der Herr. Schrecklich schade, sowas."
+
+Er zieht den Kelch wieder zu sich zurück.</DefaultText>
+      <FemaleText>"Oh, Verzeihung, die Dame. Schrecklich schade, sowas."
+
+Er zieht den Kelch wieder zu sich zurück.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Was? Wie kannst du es wagen! Mein Ale ist das beste im ganzen Todesfeuer!" 
+
+Der Wirt nimmt dir den Kelch wieder weg und sieht dich mit einer finsteren Miene an, die durch sein grausiges Äußeres noch entsetzlicher wirkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ein bescheidenes Angebot, aber schau dich nur um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Angreifen] "Ich werde nicht tatenlos zusehen, wie du Gestandene ausbluten lässt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Von deinem Wutausbruch völlig überrascht stolpert der Wirt ein paar Schritte zurück. 
+
+Gerade als du deine Waffe ziehst, fliegt die Tür der Schenke auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Gerade erst angekommen? Ich wette, du hast Durst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Jetzt mal langsam. Ich probiere alles mal aus." Maia nickt dem Wirt zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Aye, schlimmer geht nimmer. Absolut grauenhafte Art, den Löffel abzugeben. Als ob man an seinem eigenen Atem erstickt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Na, also wenn du nicht gerade auf eine magische Insel gestoßen bist, auf der wilde Alefässer durch die Gegend rollen, dann weiß ich nicht, wie. Hatte noch nie selbst das Glück, ein Fass zu fischen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Die Huana machen doch sowas Ähnliches, oder? Wie hieß es nochmal ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Das Teilen der Ausbeute mutet ... nun doch sehr anders an. 
+
+"Kapitän ... glauben diese Leute wirklich, dass sie mit Fisch handeln?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Er schenkt Maia einen Krug ein. Sie kippt ihn in einem Zug runter.
+
+Ihr linkes Auge zuckt, aber ansonsten behält sie ihre Fassung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Und noch etwas, das ich bereue." 
+
+Sie wischt sich ihren Mund mit einer zitternden Hand ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Als ob man sich den Mund mit Grabeswasser ausspült. Als ob man kielgeholt wird, selbst wenn man an Land ist."
+
+Serafen grinst dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>&lt;ispeech&gt;Glaubst du, er ist drauf reingefallen?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

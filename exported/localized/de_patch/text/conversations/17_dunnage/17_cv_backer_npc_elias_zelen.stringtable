@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_backer_npc_elias_zelen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du siehst einen schlaksigen, blonden Elfen, der durch ein Buch über aedyranische Poeten von einem Künstler namens Scilba blättert. Seine Rüstung sieht gebraucht und dennoch gut gepflegt aus, auf der Brust ist die Abbildung eines doppelköpfigen Adlers zu erkennen, der ein Schwert und eine Krone trägt.
+
+Bei näherer Betrachtung bemerkst du, dass er mit seiner freien Hand ein Schloss zu knacken versucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Hallo ... kann ich dir helfen?" Er bemerkt deine Blicke und wirft dir ein schüchternes Lächeln zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Hast du eine Buchempfehlung für mich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Es geht dir gut, nehme ich an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Schönen Tag auch!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Kann ich dir helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Erzähl mir von dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich bin mir nicht sicher, wovon ich erzählen kann. Ich bin weitestgehend ein Mann des Abenteuers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Kannst du mir beibringen, was du auf deinen Reisen gelernt hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Dir etwas noch Komplexeres beizubringen würde nach einer gut ausgestatteten Werkstatt und etwa vierzig Pfund Düngemittel verlangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Na ja, du hast dir meine lange Geschichte angehört, also schätze ich, dass ich dir den einen oder anderen Trick schulde ... für den niedrigen Preis von dreitausend Kupferstücken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Er wühlt durch seine Taschen und zieht mehrere Schlösser heraus, die er auf seinen Reisen gefunden hat. Er lässt dich jedes Schloss bearbeiten, misst, wie lange du brauchst, um es zu knacken, und drängt dich dazu, es wieder und wieder zu versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Gehen] "Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Sanfte Winde!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ein paar." Er lächelt. "Mehr, als ich in einer Nacht teilen könnte, sicher. Es gibt da &lt;i&gt;eine&lt;/i&gt;, die mir sehr am Herzen liegt ... Weil sie mich zu meiner Liebe geführt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Und was für eine Auswahl an Büchern es da gab – jedes Thema abgedeckt, sogar einige fragwürdige. Ich konnte nicht anders, als sie an mich zu nehmen.
+
+"Hab so viele genommen, wie ich tragen konnte. Und ich kann eine Menge tragen. Hab sie von vorne bis hinten durchgelesen und dabei einiges gelernt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Hast du welche gelesen, die eine gute Geschichte abgeben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Lauschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich war auf einer Expedition in die Hinterwälder von Readceras, als ich in einer verlassenen Stadt vorbeigekommen bin. Zu meiner Überraschung habe ich eine unheimliche Menge an Büchern in der Hütte des örtlichen Priesters gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Bald war ich das Reisen leid, also habe ich mich in einer kleinen Stadt im Dyrwald niedergelassen, wo ich Tutor einer adligen Familie wurde. Natürlich habe ich mich in die Gouvernante verliebt, und ich blieb.
+
+"Eine Weile lang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Dann was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Lauschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Eines Tages habe ich diese Rastlosigkeit in den Knochen gespürt. Ich kann es nicht erklären. Ich bin aufgewacht, habe den Horizont gesehen und musste einfach aufbrechen.
+
+"Meine Frau habe ich dort zurückgelassen, sie lag noch in unserem gemeinsamen Bett." Er stößt einen tiefen Seufzer aus. Sehnsucht breitet sich kurz auf seinem Gesicht aus, doch er verscheucht sie mit einem zügigen Stirnrunzeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Na ja ..." Er reibt sich über den Nacken und sieht einen Augenblick lang weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ich weiß nicht, was da draußen im Todesfeuer auf mich wartet, aber ich hoffe, dass es mein bisher größtes Abenteuer wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Weggehen] "Ich komme später nochmal darauf zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Jederzeit." Er nickt zackig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Was ist so überraschend daran?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Lauschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Die Readceraner sind konservativ, sogar noch mehr als die Aedyraner. Mit Büchern, bei denen es sich nicht gerade um die heiligen Schriften der Kirche von Eothas handelt, können sie für gewöhnlich nicht viel anfangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Du musst dich mit dem zufrieden geben, was ich dir gezeigt habe, und den Rest selbst herausfinden." Er lacht leicht, ein kleines Lächeln liegt auf seinen Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Zufrieden damit, dass du nun fingerfertiger geworden bist, zeigt er dir, wie du leichten Sprengstoff aus Schwarzpulver, Pergament und Schnur herstellen kannst. Nachdem du demonstriert hast, dass du den Sprengstoff herstellen kannst, ohne dich oder jemand anders dabei in die Luft zu jagen, wünscht er dir viel Glück und schickt dich fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Sprich weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Lauschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Er nickt zufrieden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Nein, ich denke nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Vielen Dank."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Wie du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Sprengstoffe und Mechanik verbessern] "Hier, bitte sehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

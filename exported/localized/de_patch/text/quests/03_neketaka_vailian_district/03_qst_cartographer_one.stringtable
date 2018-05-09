@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_qst_cartographer_one</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kartierung des Archipels: Port Maje</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Erkunde die noch nicht kartierten Inseln rund um Port Maje.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Sanza zurück</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Sanza, der reizbare Kartograf, den ich am Ankerplatz der Königin getroffen habe, möchte einen umfassenden Führer für die Inseln des Todesfeuers erstellen. Allein kann er diese Aufgabe allerdings nicht erledigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Sanza, der Kartograf am Ankerplatz der Königin, hat mich gebeten, die bisher noch nicht kartografierten Inseln des Todesfeuer-Archipels zu erkunden.
+
+Er hat vorgeschlagen, dass ich mit den zwei bisher noch nicht kartierte Inseln nördlich und südlich von Port Maje beginne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe Karten beider Inseln dieser Region erstellt. &lt;b&gt;Sanza&lt;/b&gt; wird einen aktuellen Bericht über meine Fortschritte hören und bei dieser Gelegenheit auch gleich seine Karten vervollständigen wollen. Er wird in seinem Laden am &lt;b&gt;Ankerplatz der Königin&lt;/b&gt; in Neketaka auf mich warten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe eine Insel entdeckt, die von einer Sippe von Xaurips bewohnt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich bin auf eine Insel von Schiffbrüchigen gestoßen, die der Hunger um den Verstand gebracht und zu Kannibalen gemacht hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für den Abschluss dieser Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe die Ergebnisse meiner Untersuchung der Inseln rund um Port Maje Sanza übergeben und meine Belohnung für meine Mühe in Empfang genommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

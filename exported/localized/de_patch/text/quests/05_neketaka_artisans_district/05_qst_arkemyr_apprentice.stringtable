@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_qst_arkemyr_apprentice</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Samthandschuh, Messingfaust</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde &lt;b&gt;Bertenno&lt;/b&gt; in der &lt;b&gt;Messingzitadelle&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bezahle &lt;b&gt;Hamuto&lt;/b&gt; für die Freilassung von &lt;b&gt;Bertenno&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bringe &lt;b&gt;Fassina&lt;/b&gt; die Handschuhe zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Fassina&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Fassina&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Besiege &lt;b&gt;Hamuto&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein Vailianer namens &lt;b&gt;Bertenno&lt;/b&gt; stahl Rokowas Finger, ein Paar teurer Handschuhe, die dem Zauberer &lt;b&gt;Arkemyr&lt;/b&gt; gehörten. &lt;b&gt;Fassina&lt;/b&gt; vom Dunklen Schrank muss die Handschuhe wiederhaben, bevor sie mit ihrem Meister richtig Ärger bekommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Es gibt keine Hinweise darauf, wo &lt;b&gt;Bertenno&lt;/b&gt; versuchen wird, die Handschuhe zu verhökern, er hat jedoch einen Termin im Hafen der &lt;b&gt;Messingzitadelle&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;Hamuto&lt;/b&gt; willigte ein, &lt;b&gt;Bertenno&lt;/b&gt; im Gegenzug für eine Bezahlung von seiner Schuld gegenüber der Königlichen Todesfeuer-Gesellschaft zu befreien. Er erwartet mich vor dem &lt;b&gt;Kaiserlichen Kommando&lt;/b&gt; bei der &lt;b&gt;Messingzitadelle&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Kehre zum &lt;b&gt;Dunklen Schrank&lt;/b&gt; in &lt;b&gt;Perikis Aussichtspunkt&lt;/b&gt; zurück, um Rokowas Finger zurückzubringen und erzähle &lt;b&gt;Fassina&lt;/b&gt;, was mit &lt;b&gt;Bertenno&lt;/b&gt; passiert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Kehre zum &lt;b&gt;Dunklen Schrank&lt;/b&gt; in &lt;b&gt;Perikis Aussichtspunkt&lt;/b&gt; zurück und erzähle &lt;b&gt;Fassina&lt;/b&gt;, was mit &lt;b&gt;Bertenno&lt;/b&gt; und den gestohlenen Handschuhen passiert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Fassina&lt;/b&gt; im &lt;b&gt;Dunklen Schrank&lt;/b&gt; in &lt;b&gt;Perikis Aussichtspunkt&lt;/b&gt; über die Handschuhe, die du bei &lt;b&gt;Bertenno&lt;/b&gt; gefunden hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ich habe &lt;b&gt;Hamuto&lt;/b&gt; in der &lt;b&gt;Messingzitadelle&lt;/b&gt; angegriffen und muss ihn besiegen, um &lt;b&gt;Bertennos&lt;/b&gt; Freiheit sicherzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Bertenno&lt;/b&gt; schuldet einem berüchtigten rauataianischen Kapitän namens &lt;b&gt;Hamuto Steinferse&lt;/b&gt; Geld.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Hamuto&lt;/b&gt; verlangt 400 Pires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Hamuto&lt;/b&gt; verlangt 750 Pires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe &lt;b&gt;Bertenno&lt;/b&gt; getötet. Die Wiederbeschaffung der von ihm gestohlenen Handschuhe wird jetzt viel einfacher sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>&lt;b&gt;Hamuto&lt;/b&gt; nahm &lt;b&gt;Bertenno&lt;/b&gt; in die Schuldknechtschaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe &lt;b&gt;Hamuto&lt;/b&gt; getötet und &lt;b&gt;Bertenno&lt;/b&gt; befreit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe &lt;b&gt;Bertennos&lt;/b&gt; Schulden beglichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Bertenno von seiner Schuld gegenüber der Königlichen Todesfeuer-Gesellschaft befreit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Bertenno konnte seine Schuld gegenüber der Königlichen Todesfeuer-Gesellschaft nicht bezahlen, weshalb sie ihn in die Schuldknechtschaft nahmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Hamuto und seine Soldaten getötet und Bertenno wird sich bei den Príncipi verstecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Die von Bertenno gestohlenen Handschuhe wurden wiederbeschafft und Fassina zurückgebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Fassina war extrem enttäuscht, dass ich ihr die Handschuhe nicht wiederbeschafft habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Ich habe ein Paar schöner Handschuhe bei einem Möchtegern-Dieb im &lt;b&gt;Dunklen Schrank&lt;/b&gt; gefunden. Die Bedienung, &lt;b&gt;Fassina&lt;/b&gt;, hätte sie vermutlich gerne wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Ich habe einen Möchtegerndieb im &lt;b&gt;Dunklen Schrank&lt;/b&gt; getötet. Die Angestellte, &lt;b&gt;Fassina&lt;/b&gt;, war von meinen Taten nicht gerade begeistert.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

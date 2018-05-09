@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_2609_victims</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Dschungel wird zunehmend dichter, je weiter du nach Osten kommst. Der Schatten, den die Vegetation über dir wirft, kann die Hitze nur geringfügig abschwächen. Die Feuchtigkeit und der unablässige Chor der schwirrenden Insekten hängen dick in der Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weitergehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Das Seil knarzt, als du es umklammerst und langsam darüber krabbelst ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du hangelst dich an dem Seil entlang, bis du auf ungefähr halbem Weg über dem Abgrund hängst. 
+
+Deine Muskeln stechen und deine Hände brennen, und vor dir liegt noch ein weiterer Weg, als du bisher zurückgelegt hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du näherst dich der anderen Seite des Abgrunds, als deine Füße vom Seil rutschen. Dein Magen zieht sich zusammen, als deine Finger versuchen, Halt zu finden – vergeblich ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Mit einem Japsen rutscht [SkillCheck 0] vom Seil ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[SkillCheck 1] greift nach deinem wedelnden Arm und hält ihn fest, während du mit strampelnden Beinen über dem Abgrund taumelst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Instinktiv greifst du nach seinem Arm und hältst ihn fest. Er taumelt in der Luft und droht, euch beide in den Abgrund zu reißen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Von der Spitze der Klippe kannst du die westliche Seite der Insel überblicken. Das Todesfeuer schimmert blau am Horizont und die Inseln von &lt;xg&gt;Kua o Rikuhu&lt;/xg&gt; sind gerade so im Süden auszumachen. 
+
+In der Ferne kannst du sogar die vor Anker liegende [Player Ship] erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Vor dir breitet sich ein gähnender Abgrund aus. Er erstreckt sich von den Bergen im Norden bis zum Meer im Süden und erscheint in der Dunkelheit bodenlos.
+
+Kurioserweise ist ein Seil über den Abgrund gespannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Das Seil untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Die Umgebung untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Das Seil überqueren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Es besteht aus drei ineinander gewundenen Strängen, sehr ähnlich den Seilen, die man bei verschiedenen Händlern in ganz Eora kaufen kann. Es scheint überraschend neu und unbenutzt zu sein und kann problemlos das Gewicht der schwersten Gestandenen tragen.
+
+Der Machart nach zu urteilen stammt es aus dem Abschnitt, vielleicht aus dem Dyrwald oder aus Vailia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Es sieht robust genug aus, um darauf den Abgrund zu überqueren. Glaubst du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Bin mir nicht sicher, was ich dir sagen soll ..." sagt [Specified 5]. "Sieht für mich wie ein normales Seil aus. Sollte sicher sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Zurückgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du steigst die Hügel hinab und kehrst zum Boden des Dschungels zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du kehrst zu den Klippen zurück, die über die Kluft von Whēnura ragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Dir springt nichts offensichtlich Verdächtiges ins Auge, auf jeden Fall keine Anzeichen von Fallen. Allerdings sind frische Fußspuren von Gestandenen und Ogern neben den Felsen zu sehen, an denen das Seil festgebunden ist. Mehrere Personen, wie es aussieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du findest nichts Verdächtiges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 5] findet nichts Verdächtiges und zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Serafens Nase zuckt. "Das Seil scheint sicher zu sein, Käpt'n ... für ein Seil, das über 'nen klaffenden Abgrund hängt zumindest. Aber irgendwas liegt in der Luft, was mich fuchst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Hinter der Schlucht geht der Dschungel in ein offenes Feld über, auf dem einige große und mit Früchten behangene Bäume stehen. Der Dschungel breitet sich bis zu den Bergen im Norden aus, aber im Südosten ist über einem steilen Abhang zur Küste hin das Todesfeuer zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Im Nordosten steigt eine dünne Rauchschwade aus dem Dschungel auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Du setzt die Überquerung der Schlucht fort. Dein Schweiß tropft in den Abgrund unter dir.
+
+Letztlich erreichst du jedoch sicher die andere Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du schaffst es über das Seil, aber als du auf halbem Wege über der Schlucht angekommen bist, schwitzt und atmest du bereits heftig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Als ihr beide es sicher über das Seil geschafft habt, sieht [SkillCheck 0] ausgelaugt aus, verschwitzt und außer Atem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Was jedoch sofort eure Aufmerksamkeit auf sich zieht, ist der Anblick, der sich vor euch ausbreitet. An einem der Bäume, durch Feuer geschwärzt und mit Blasen übersät, hängen mehrere Leichen an ihren Hälsen aufgeknüpft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Stimmen und Bewegungen in der Nähe erregen deine Aufmerksamkeit. Am Fuß des Baumes siehst du ausgerechnet vier Mitglieder deiner Besatzung stehen.
+
+"Wir sollten sie begraben. Sie würden es so wollen – und die Götter verlangen es!" brummt [Specified 3].
+
+"Sicher", antwortet [Specified 0]. "Sobald wir ihre Taschen durchsucht haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du bewegst dich in Richtung des Baumes und der Geier, die sich wie Monarchen in seiner Krone eingenistet haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Das Gebiet durchsuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Nach der Anwesenheit von Geistern suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Möchtest du deine Lampe einsetzen, Xoti?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Die Leichen verbrennen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Die Leichen begraben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Vom Baum weggehen und deine Reise fortsetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Unter den verrußten Habseligkeiten der Verblichenen findest du ein Paar Sandalen, die eine spürbare Aura der Macht ausstrahlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Die fremden Gestandenen schubsen dich mit Schulter und Ellbogen, piksen dich mit Klinge und Speer. Ihre Rüstung – zu schwer für das Todesfeuer – leuchtet im Licht des Feuers, wodurch sie geradezu rechtschaffen wirken. 
+
+Du spuckst. 
+
+Nein. Diese gottlosen Plünderer sind alles andere als das. Sie haben den jungen Druiden getötet. Haben den Stab des Ältesten zerbrochen und die Kräuter des Doktors gestohlen. Jetzt verbrennen sie Amiras Baum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Wird er jemals vor dem azurblauen Himmel wieder in allen Farben leuchten, die Götter und Gestandene kennen? Du betest, dass er das wird. Du betest zu Amira. Zu Ngati. Zu Rikuhu – Kohopa und Tangaloa – und zu den Gesichtern von Toamowhai.
+
+Was können diese Fremden noch von euch nehmen, fragst du dich, als sie stückweise Seil abschneiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Der Dämmerungsstern nickt ernst und hebt ihre Laterne. Ein heftiger Schwung und das Licht aus dem Inneren der Laterne strahlt wie ein sterbender Stern, während sie die verlorenen Seelen erntet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Du überquerst die Lichtung, lässt den morbiden Baum hinter dir und dringst wieder in den Dschungel ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Du meinst, ein Oger würde keine Leichen aufhängen?" fragt [Specified 0]. "Ich glaube nämlich, das da sind Oger-Fußspuren ..."
+
+[Specified 3] reißt die Augen auf und nimmt Haltung an. "Kapitän!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Was treibt ihr denn hier draußen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Habt ihr was Interessantes gefunden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Das sind keine Vorräte, das sind Leichen. Schneidet sie runter und gebt ihnen ein ordentliches Begräbnis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Macht nur weiter. Aber denkt daran, dass eurem Kapitän ein Anteil zusteht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Du sammelst die Überreste ein und sammelst dann Zunder und Holz, um ein kleines Lagerfeuer zu entzünden. Als die Körper brennen, versuchst du, nicht zu viel von dem Rauch, der von dem verbrennenden Fleisch emporsteigt, einzuatmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Der dunkle Boden ist weich und innerhalb weniger Stunden hast du ein Loch gegraben, das groß genug für die Überreste ist. Du lässt sie hinab, bedeckst sie und übergibst sie so an das Rad.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Während die Kleidung dieser Aumauaner jener der Huana ähnelt, scheinen sie Häute und Leder gegenüber Stoff und Muscheln zu bevorzugen. Einige wurden erstochen bevor man sie hängte. Ihre Wunden scheinen von Dolchen oder Schwertern zu stammen. Einige hängen mit aufgeschlitzten Kehlen da.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Was auch immer du zu suchen glaubst, du findest es nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Mit gerunzelter Stirn winkt [Specified 5] dich zu sich und macht dich auf einige seltsame Details aufmerksam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Nach mehreren Minuten der Untersuchung runzelt [Specified 5] die Stirn und seufzt. "Bringt nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Specified 0] hustet. "Wir sind auf der Suche nach Vorräten für die [Player Ship], Kapitän, wie immer, wenn du an Land gehst." Eine Hand zeigt auf den Baum. "Das schien mir einen Blick wert zu sein, aye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Wie seid ihr überhaupt hierher gekommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Specified 1] scheint von der Frage etwas verwirrt zu sein. "Wir sind Seeleute, Kapitän. Klettern und sowas, das können wir ganz gut."
+
+"Außerdem", mischt sich [Specified 0] ein, "war da ein Seil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Denkt ihr nicht, dass ihr zum Schiff zurückkehren solltet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Mit verschränkten Armen und gerunzelter Stirn blickt [Specified 0] zu Boden. "Noch nicht. Sind noch nicht lange genug hier, damit wir uns richtig umsehen hätten können."
+
+"Das stimmt nicht ganz", sagt [Specified 2]. "Wenn man sich die Wunden dieser Leute und die Seile ansieht, mit denen sie aufgeknüpft wurden, dann deutet alles auf Plünderer aus dem Östlichen Abschnitt hin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Specified 0] seufzt. "Und wieder will jemand beim Kapitän Eindruck schinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Specified 3] lächelt und salutiert. "Aye, Kapitän. Wir machen uns so schnell wie möglich dran."
+
+Sie ziehen Messer und gehen in Richtung des Baumes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Specified 1] salutiert. "Aye-aye, Kapitän."
+
+[Specified 0] schmunzelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 0] zuckt zusammen, aber [Specified 2] salutiert zackig. "Aye, Kapitän. Sind schon unterwegs."
+
+Mit einigen wenigen Blicken zurück über ihre Schultern machen sich die vier in Richtung der Schlucht davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Kopfschüttelnd sagt [Specified 5]: "Tut mir leid, keine Ahnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Schreiend stürzt du in den Abgrund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Instinktiv greifst du nach ihrem Arm und hältst sie fest. Sie taumelt in der Luft und droht, euch beide in den Abgrund zu reißen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Es wirkt, als hätte man die gesamte östliche Seite der Insel aus dem Boden hochgezogen. Oder, als wäre die westliche Seite in Richtung Meer abgesunken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Ihr wisst nicht zufällig, was das für ein Ort ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Sicher. Ein guter Ort, um ein Seil zu testen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Der klaffende Abgrund? Warum gibst du ihm nicht einen Namen und wartest ab, ob er sich durchsetzt?" 
+
+Maia zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Könnte die Kluft von Whēnura sein, Käpt'n. Hab ein- oder dreimal davon gehört. Angeblich tiefer als das Meer selbst. Weiß aber nicht, was das heißen soll, schließlich ist sie ja an Land und so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ich sage, wir stehen vor der Kluft von Whēnura. Ein heiliger Ort. Ideal zum Meditieren und ... für ausgiebige Wanderungen." 
+
+Tekēhu blickt über den Rand des Abgrundes. Sofort nimmt er Abstand und zittert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Sie haben keine Taschen", bemerkt [Specified 1]. "Wenn man es genau nimmt."
+
+[Specified 2] sieht stirnrunzelnd zu dem Baum hoch. "Macht sich denn keiner von euch Gedanken darüber, wer das getan haben könnte? Ganz offensichtlich waren es weder Bestien noch Gestandene."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Das Seil über dem Abgrund stammt also nicht von euch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Nee, Kapitän", antwortet [Specified 2] kopfschüttelnd. "Bezweifle, dass jemand von uns überhaupt ein Seil hat, abgesehen von denen im Lager der [Player Ship]."
+
+"Ich hab ein Seil", grummelt [Specified 0]. "Acht Fuß lang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Nur wenige haben Verbrennungen. Der Baum wurde offenbar verbrannt, bevor man sie tötete.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Während die Kleidung dieser Aumauaner jener der Huana ähnelt, scheinen sie Häute und Leder gegenüber Stoff und Muscheln zu bevorzugen. Einige wurden erstochen bevor man sie hängte. Ihre Wunden scheinen von Dolchen oder Schwertern zu stammen. Einige hängen mit aufgeschlitzten Kehlen da.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Du kannst die Geister in deinen Augenwinkeln beinahe mühelos erkennen. Als du dich ihrer Präsenz öffnest, stürzen sie auf dich ein, ein reißender Strom aus brennender Pein und eiskalter Furcht ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Die Vision endet abrupt, weggespült wie eine Welle über den Rand eines Decks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Den Ausblick nutzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Der Pfad führt nun steil bergauf und deine Beine schmerzen, während du ihn erklimmst. Langsam lichtet sich der Dschungel und schließlich findest du dich auf der Spitze eines langen Bergkamms wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Der Abgrund ist gewaltig. Ihn zu überqueren wäre extrem anstrengend und ein Sturz würde den sicheren Tod bedeuten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Umkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Du kehrst zu deiner Seite des Abgrunds zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Mit einem heftigen Schnauben hievt [SkillCheck 1] dich auf das Seil zurück. 
+
+Du hältst dich zitternd fest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[SkillCheck 1] bemüht sich, dich hochzuziehen, aber deine Finger rutschen ab und du verlierst den Griff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Ihn hochziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Ihn loslassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Sie hochziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Sie loslassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Mit zusammengebissenen Zähnen und unter großer Anstrengung gelingt es dir, [SkillCheck 0] wieder auf das Seil zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Mit den Beinen umklammerst du das Seil, mit den Armen hältst du [SkillCheck 0] fest und kämpfst gegen das Gewicht deines Begleiters an ... doch du verlierst den Kampf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[SkillCheck 0] stürzt schreiend in die Dunkelheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Vorsichtig ziehst du dich auf die andere Seite hinüber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Er klammert sich verzweifelt daran fest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Sie klammert sich verzweifelt daran fest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Deine Beine geben nach und du rutscht vom Seil ab.
+
+Ihr beide stürzt schreiend in den Abgrund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Einige Minuten später kommt [Specified 2] auf dich zu. "Entschuldigung, Kapitän. Dachte, du würdest das vielleicht sehen wollen. Sie wirken ... besonders auf mich."
+
+[Specified 2] zeigt dir ein Paar Huana-Schuhe, etwas durchgeweicht aber ansonsten noch in gutem Zustand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Hey, ich bilde mit das nicht nur ein, oder? Hör mal, wenn ich so etwas hätte sehen wollen, wäre ich zuhause geblieben, okay?"
+
+Edér presst die Lippen zusammen und richtet seine Aufmerksamkeit auf den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ich hatte gehofft, so etwas nie wieder sehen zu müssen", sagt Aloth, den Baum traurig ansehend.
+
+"Wahrscheinlich war es naiv von mir, zu denken, dass es diese Art der Gewalt nur im Dyrwald gäbe." Er zittert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Du siehst das. Richtig, Wächter? Ich bin nicht in einem weiteren Albtraum gefangen… "... Oder?"
+
+Xotis Augen fliegen von Leiche zu Leiche und ein Zucken geht über ihr Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Viele Seelen hier. Sehen reif zum Ernten aus."
+
+Xotis Ausdruck leuchtet mit einem dunklen und habgierigen Glänzen auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Rekke starrt dich nichtssagend an. Nach ein paar langen, leisen Momenten weiten sich seine Augen und er schüttelt langsam den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Rekke starrt dich nichtssagend an. Nach ein paar langen, leisen Momenten weiten sich seine Augen und er schüttelt langsam den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

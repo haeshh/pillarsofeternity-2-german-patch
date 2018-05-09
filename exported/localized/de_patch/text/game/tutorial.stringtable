@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tutorial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>128</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bewegung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Um ausgewählte Charaktere zu bewegen, klicke auf einen beliebigen offenen Bereich auf der Karte. Alle ausgewählten Charaktere werden sich dann in der aktuellen Formation zur vorgegebenen Position bewegen.  Charaktere können nicht an eine Stelle bewegt werden, an der der Mauszeiger durch einen roten, durchgestrichenen Kreis dargestellt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Klicke auf hervorgehobene Objekte, um mit ihnen zu interagieren. Jeder Objekttyp hat seine eigene Basisinteraktion. Türen lassen sich öffnen oder schließen, verriegelte Objekte lassen sich entriegeln, Gegenstände werden aufgesammelt, Personen in der Welt werden mit dir sprechen, und Feinde werden angegriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Interagieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Inventar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Drücke &lt;sprite="Inline" name="ico_inventory" tint=1&gt; oder die Taste [I], um das Inventar zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Wenn du auf einen Gegenstand in deinem Inventar klickst, um ihn aufzunehmen, kannst du ihn in einen beliebigen, hervorgehobenen Slot platzieren, um ihn auszurüsten. Du kannst auch auf Gegenstände doppelklicken, um sie automatisch auszurüsten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Gegenstände ausrüsten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Kampfeinführung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Charaktere mit einem roten Auswahlkreis sind dir gegenüber feindselig gesinnt. Um einen Gegner mit deiner derzeit ausgerüsteten Waffe anzugreifen, klicke auf seinen Auswahlkreis.
+
+Du kannst in der unteren Bildschirmmitte auch &lt;sprite="Inline" name="ico_attack" tint=1&gt; auswählen, um den Mauszeiger in den Angriffsmodus zu wechseln. Hierdurch kannst du jeden angreifen, selbst neutrale Charaktere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Gesinnungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du hast eine Reputation zu einer Gesinnung erlangt. Gesinnungen zeigen, wie deine Persönlichkeit von Personen in der ganzen Welt wahrgenommen wird. Selbst scheinbar üble Reputationen werden von einigen Personen geschätzt, und wohlgesinnte Reputationen bringen gelegentlich das Schlimmste in einer Person hervor. Keine Gesinnung in Pillars of Eternity II: Deadfire ist von Natur aus gut oder böse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Gesinnungen – Paladin und Priester</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du hast eine Reputation zu einer Gesinnung erlangt. Gesinnungen zeigen, wie deine Persönlichkeit von Personen in der ganzen Welt wahrgenommen wird. Selbst scheinbar üble Reputationen werden von einigen Personen geschätzt, und wohlgesinnte Reputationen bringen gelegentlich das Schlimmste in einer Person hervor. Keine Gesinnung in Pillars of Eternity II: Deadfire ist von Natur aus gut oder böse.
+
+Da dein Wächter aber ein Priester oder Paladin ist, musst du trotzdem darauf achten, Gesinnungen nicht fälschlicherweise auf das auszurichten, was von seiner Gottheit respektive seinem Orden bevorzugt wird. Gesinnungen verändern die Effekte des Heiligen Glanzes (bei Priestern) und des Glaubens und der Überzeugung (bei Paladinen) nur für den Wächter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Quest-Tagebuch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Wenn du Quests erhältst, wird dein Tagebuch mit relevanten Informationen aktualisiert. Solltest du jemals festhängen, öffne es, um deine Notizen einzusehen, indem du &lt;sprite="Inline" name="ico_journal" tint=1&gt; oder die Taste [J] drückst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Dialog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Klicke auf die Auswahlkreise von freundlich gesinnten und neutralen Charakteren in der Welt, um einen Dialog mit ihnen zu beginnen. &lt;sprite="Inline" name="ico_talk" tint=1&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Auswählen von Charakteren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Um ein Gruppenmitglied auszuwählen, klicke auf dessen Auswahlkreis oder Portrait, oder drücke die Zahlentaste, die seiner Stellung in der Gruppe entspricht, mit 1 links beginnend. 
+
+Um mehrere Gruppenmitglieder auszuwählen, klicke und halte den Mauszeiger auf einer beliebigen Stelle auf dem Bildschirm gedrückt und ziehe die Markierung über die Auswahlkreise der Gruppenmitglieder, die du auswählen möchtest.
+
+Um die ganze Gruppe auszuwählen, drücke &lt;sprite="Inline" name="ico_selectall" tint=1&gt; oder die Taste [Löschen].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Bestiarium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Durch Besiegen von Kreaturen schaltest du Schritt für Schritt ihre Einträge im Bestiarium frei.  Wenn du weitere Informationen im Bestiarium freischaltest, erlangst du mehr Erfahrung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Kampfangriffsergebnisse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Alle Charaktere im Spiel haben vier Verteidigungen gegen Angriffe: Abwehr, Tapferkeit, Reflex und Wille. Diese Verteidigungen basieren auf ihren Attributen, ihrer Stufe, Gegenständen und anderen Effekten. Je stärker der Charakter, desto höher sind seine Verteidigungen und je schwerer ist es, ihn zu treffen oder ihn mit Fähigkeiten zu beeinträchtigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Der Angriffswurf ist eine zufällige Zahl zwischen 1 und 100, auf die die Differenz zwischen der Genauigkeit des Angriffs &lt;sprite="Inline" name="cs_accuracy" tint=1&gt; und der Verteidigung des Ziels &lt;sprite="Inline" name="cs_deflection" tint=1&gt; &lt;sprite="Inline" name="cs_fortitude" tint=1&gt; hinzugerechnet wird.  &lt;sprite="Inline" name="cs_reflex" tint=1&gt; &lt;sprite="Inline" name="cs_will" tint=1&gt;. Wenn die Genauigkeit geringer als die Verteidigung ist, erfolgt ein Abzug auf den Angriffswurf. Wenn die Genauigkeit höher als die Verteidigung ist, wird ein Bonus auf den Angriffswurf angewandt.
+
+Ein höherer, finaler Angriffswurf ist immer besser.  0-24 = Fehlschlag, 24-49 = Leichter Treffer, 50-99 = Treffer, 100+ = Kritischer Treffer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Ein Fehlschlag hat keinen Effekt. Ein Treffer hat den standardmäßig aufgeführten Effekt. Ein leichter Treffer fügt weniger Schaden zu und hat eine kürzere Wirkdauer (für Effekte). Ein kritischer Treffer verursacht mehr Schaden, hat eine höhere Durchschlagskraft &lt;sprite="Inline" name="cs_penetration" tint=1&gt; und eine längere Wirkdauer (für Effekte).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Schnellauswahl-Gegenstände</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Unterstützungsgegenstände wie Tränke, Schriftrollen, Sprengstoffe, Fallen und Zauberfiguren werden in einem der Schnellgegenstand-Slots des Charakters ausgerüstet.  Diese Gegenstände sind während des Kampfs zugänglich, wenn &lt;sprite="Inline" name="quickitems_s" tint=1&gt; in der Schnellleiste des Charakters ausgewählt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Reputation eines Gefährten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Drücke &lt;sprite="Inline" name="ico_charsheet" tint=1&gt; oder die Taste [C], um den Charakterbogen zu öffnen.  Wähle den Reiter ‚Reputation‘ und anschließend das Portrait eines beliebigen Gefährten aus, um dessen Beziehungen zu anderen Gruppenmitgliedern anzuzeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Reputation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Die Reputationen, Gesinnungen und Beziehungen des Wächters werden über das Reputationsrad angezeigt.
+
+Das Reputationsrad eines Gefährten zeigt dessen Beziehungen zu anderen Gruppenmitgliedern und jegliche Vorlieben an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Heimlichkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Drücke &lt;sprite="Inline" name="ico_stealth" tint=1&gt; oder die Taste [Alt], um die ausgewählten Charaktere in den Heimlichkeitsmodus zu wechseln oder diesen zu deaktivieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Entdeckung im Heimlichkeitsmodus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Wenn sich ein Charakter im Heimlichkeitsmodus befindet und die Hörreichweite oder den Sichtkegel eines Umstehenden betritt, wird er langsam von dem Umstehenden entdeckt.  Die Entdeckungsrate wird durch die Heimlichkeitsfertigkeit des Charakters und die Stufe des Umstehenden bestimmt. Sie ist schneller im Sichtkegel als in Hörreichweite. Du kannst im Heimlichkeitsmodus mit dem Mauszeiger über einen beliebigen Charakter fahren, um seine Hörreichweite und seinen Sichtkegel anzuzeigen.
+
+Einige Gegenstände, wie zum Beispiel Krachmacher, können eingesetzt werden, um Umstehende abzulenken und zu bewegen, während du im Heimlichkeitsmodus erkundest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Fallen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Fallen und andere verborgene Gegenstände können während der Erkundung entdeckt werden. Die Fähigkeit eines Charakters, verborgene Gegenstände zu entdecken, ist mit seiner Wahrnehmung verknüpft und ihre Fähigkeit, eine entdeckte Falle zu entschärfen, hängt von seinen Mechanik-Fähigkeiten ab.
+
+Jeder Charakter (auch ein Feind) kann eine Falle auslösen. Sobald sie aktiviert wurden, können Fallen jeden Charakter verletzen, der davon getroffen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Fähigkeiten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Jeder Charakter hat seine eigene Fähigkeitsleiste, die alle aktiven Aktivitäten umfasst (einschließlich Zaubersprüche, Mächte, Beschwörungen usw.). Um eine Fähigkeit einzusetzen, klicke darauf. Einige Fähigkeiten richten sich automatisch auf den Nutzer aus, erfordern meist jedoch, dass du ein Ziel auswählst, indem du darauf klickst.
+
+Einige Fähigkeiten richten sich auf einen Wirkungsbereich aus. Der gängigste Wirkungsbereich ist ein Kreis. Wenn dein Wirkungsbereich als zwei Kreise angezeigt wird, wobei einer größer ist als der andere, dann erleiden freundlich gesinnte Charaktere, die sich im Bereich zwischen den beiden Kreisen befinden, &lt;i&gt;niemals&lt;/i&gt; dadurch Schaden. Dies ist immer eine sichere Zone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Die meisten Fähigkeiten beziehen Macht von einer Ressource, die für jede Charakterklasse einzigartig ist. Fähigkeiten von Barbaren, Kämpfern, Mönchen, Paladinen, Waldläufern und Schurken beziehen aus einem Pool, der zu Beginn eines Kampfes gefüllt ist. Jede Fähigkeit entzieht eine gewisse Menge dieser Ressource, bis diese vollständig aufgebraucht ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Im Gegensatz zu Barbaren und Kämpfern haben Druiden, Priester und Zauberer &lt;i&gt;keinen&lt;/i&gt; gemeinsamen Ressourcenpool für all ihre Fähigkeiten. Stattdessen können sie in jedem Kampf eine Anzahl von Zaubersprüchen von jeder Stufe wirken, auf die sie Zugriff haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Sänger, Medien und Mönche beginnen mit einem Bruchteil ihres Gesamtressourcenpools und müssen ihn in jedem Kampf im Laufe der Zeit auffüllen. Jede Klasse erlangt ihre Ressource auf eine andere Weise. Im Gegensatz zu anderen Klassen können sie ihre Ressourcen durch einen Kampf wiederauffüllen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Rüstung und Durchschlagskraft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Charaktere haben einen Rüstungswert &lt;sprite="Inline" name="cs_ar" tint=1&gt;, der ihre Fähigkeit darstellt, einem Durchschlag &lt;sprite="Inline" name="cs_penetration" tint=1&gt; aus verschiedenen Schadensarten zu widerstehen. Angriffe, die Schaden verursachen, haben einen Durchschlagswert, der verwendet wird, um zu bestimmen, wie einfach sie den Rüstungswert des Ziels übertreffen können.
+
+Wenn die Durchschlagskraft eines Angriffs gleich oder höher als der Rüstungswert des Ziels der entsprechenden Schadensart ist, verursacht der Angriff den vollen Schaden. Wenn die Durchschlagskraft des Angriffs geringer als der Rüstungswert des Ziels ist, dann verursacht er mit jedem Differenzpunkt weniger Schaden. Wenn die Durchschlagskraft eines Angriffs mindestens doppelt so hoch wie der Rüstungswert des Ziels ist, gibt es einen Schadensbonus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Angriffsbindung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Einer deiner Charaktere wurde im Nahkampf gebunden. Wenn sich ein gebundener Charakter von dem bindenden Charakter entfernt, dann provoziert er einen Absetzangriff.
+
+Eine Unterbrechung, wie der Niederschlag durch einen Kämpfer, kann die Angriffsbindung durchbrechen, um ein sicheres Entkommen zu ermöglichen. Einige Fähigkeiten, wie die Flucht des Schurken, ermöglichen es einem Charakter, sich zu entfernen, ohne einen Absetzangriff zu provozieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Unterbrechung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Einige Fähigkeiten geben an, einen Charakter unterbrechen zu können. Wenn ein Charakter mit einer Unterbrechung getroffen wird, geht seine aktuelle Aktion verloren, gemeinsam mit allen Ressourcen (einschließlich Schnellauswahl-Gegenständen), die eingesetzt wurden.
+
+Unterbrechungen können durch Konzentration blockiert werden. Wenn ein Charakter mit Konzentration durch eine Unterbrechung getroffen wird, verliert er seine Konzentration, wird jedoch nicht unterbrochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Verletzungen und Ruhe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Durch Auslösen einer Falle oder einen Niederschlag während eines Kampfs wird dieser Charakter verletzt.  Verletzungen bleiben bestehen, bis der Charakter während einer Ruhephase isst oder trinkt, oder wenn er in einem Gasthaus ruht.  Drücke &lt;sprite="Inline" name="ico_rest" tint=1&gt;, um zu ruhen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Ruheboni</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Ein Gruppenmitglied hat einen Ruhebonus erlangt.  Diese Boni werden gewährt, wenn der Charakter in einem Gasthaus ruht, oder wenn er während der Ruhephase an einem anderen Ort isst oder trinkt. Ruheboni dauern immer bis zur nächsten Ruhephase des Charakters an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Stufenaufstieg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Dein Charakter hat ausreichend Erfahrung gesammelt, um eine Stufe aufzusteigen. Klicke auf das Plus-Symbol in seinem Portrait, um in der Stufe aufzusteigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Du kannst jetzt deine Fähigkeiten oder dich selbst ermächtigen &lt;sprite="Inline" name="empowered" tint=1&gt;. Du kannst einmal pro Kampf eine solche Ermächtigung bei einer aktiven Fähigkeit einsetzen, um diese zu stärken. Alternativ kannst du diese Ermächtigung auch bei dir selbst einsetzen, um einen Teil deiner Fähigkeits-Ressourcen wieder aufzufüllen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Ermächtigung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Gesänge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Ein Klick auf &lt;sprite="Inline" name="actionbar_edit_chant" tint=1&gt; erlaubt dir, Gesänge zu bearbeiten oder neue Gesänge zu erstellen.
+
+Klicke auf einen Gesang, um ihn auszuwählen. Die auf der linken Leiste angeklickten Phrasen werden dem ausgewählten Gesang hinzugefügt. Wenn du eine Phrase entfernen möchtest, klickst du einfach im Gesang darauf.
+
+Ein aktiver Gesang spielt automatisch jede einzelne Phrase in der vorgegebenen Reihenfolge ab. Danach beginnt der Gesang wieder von vorne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Weltkarte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Durch einen Klick auf die Weltkarte bewegst du deine Gruppe an den ausgewählten Standort.  Um ein- bzw. auszuschalten, dass die Kamera der Gruppe automatisch folgt, klicke auf die Option 'Kameraverfolgung an' unten rechts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Reputation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Klicke auf &lt;sprite="Inline" name="ICO_charSheet" tint=1&gt; oder die [C]-Taste, um den Charakterbogen anzuzeigen.  Wähle den Reiter 'Reputation', um die Reputation anzuzeigen, die der Charakter in der Fraktion und der Gemeinschaft erworben hat.
+
+Positive Reputation bei Fraktionen wird mit einem blauen Balken und negative Reputation mit einem roten Balken angezeigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Für dein Schiff brauchst du Mannschaftsmitglieder.  Du kannst Mannschaftsmitglieder in den meisten Gasthäusern in Hafenstädten anwerben.  Klicke auf &lt;sprite="Inline" name="sqrmenu_hiresailor" tint=1&gt;, um dir die Mannschaftsmitglieder anzeigen zu lassen, die im Gasthaus verfügbar sind.
+
+Sobald du ein neues Mitglied für deine Mannschaft angeheuert hast, musst du der Person eine aktive Position auf deinem Schiff zuweisen. Mannschaftsmitglieder, die du nicht auf deinem Schiff platzierst, sind nicht aktiv. Sie kosten dich weder Nahrung noch Getränke oder Lohn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Zauberbuch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Zauberbücher ermöglichen es Zauberern, Zaubersprüche zu wirken, die sie bisher noch nicht gelernt haben. Um die Zaubersprüche eines Zauberbuchs wirken zu können, muss sich das Zauberbuch im Zauberbuch-Slot des Zauberers befinden. Während eines Kampfes kann ein Zauberer rasch zwischen verschiedenen Zauberbüchern wechseln. Dazu muss er die weiteren Zauberbücher nur in den Slots für die Schnellauswahl platzieren.
+
+Um die Zaubersprüche anzuzeigen, die ein Zauberbuch enthält, klicke mit der rechten Maustaste darauf. Alternativ kannst du auch erst auf das Fragezeichen (?) im Inventar und dann auch auf das Zauberbuch klicken. Beachte: Zauberbücher bieten zwar Zugang zu vielen mächtigen Zaubersprüchen. Ein Zauberer kann jedoch keine Zaubersprüche aus einem Zauberbuch wirken, auf die er auf seiner Stufe noch keinen Zugriff hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Zutaten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Du hast eine Zutat gefunden.  Zutaten können verwendet werden, um einzigartige Waffen, Rüstungen und Schilde zu verzaubern oder um Lebensmittel, Schriftrollen, Tränke und andere Dinge herzustellen.
+
+Wähle &lt;sprite="Inline" name="ico_filtercrafting" tint=1&gt; im Gruppenlager, um dir deine Zutaten anzeigen zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Verzauberung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Einzigartige Waffen, Rüstungen und Schilde (mit goldenem Rand) können verzaubert werden, um ihre Macht noch zu erhöhen.  Jedes Verzauberungsrezept erfordert eine Anzahl bestimmter Zutaten. Wenn du alle Zutaten beisammen hast, um einen Gegenstand zu verzaubern, siehst du ein + oben links im Symbol des Gegenstandes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Versteckte Objekte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Versteckte Objekte können beim Erkunden entdeckt werden.  Die Fähigkeit eines Charakters, versteckte Objekte zu finden, hängt von seiner Wahrnehmung ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Konter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Ein Konter ist eine Fähigkeit oder ein Effekt, der einen anderen Effekt entfernt oder ihm gegenüber eine Immunität verleiht. Es gibt zwei Arten von Kontern: Inspirationen und Schlüsselworte.
+
+Inspirationen werden anhand von Attributen gruppiert (z. B. Gewandtheit, Wahrnehmung) und wirken automatisch den entsprechenden Attributen zugehörigen Wirkungen entgegen.
+
+Schlüsselworte sind Beschreibungen wie Wasser, Feuer oder Frost.  Wasser kontert Feuer und Feuer kontert Frost. Die Beziehungen zwischen Schlüsselworten ist ausschließlich einseitig. Feuer kontert also &lt;i&gt;nicht&lt;/i&gt; Wasser.
+
+Beispiel: Ein Charakter hat den Flammenschild-Effekt mit dem Schlüsselwort Feuer. Ein Gegner trifft ihn mit Überwältigende Welle, verbunden mit dem Schlüsselwort Wasser.  Die volle Wirkung von Überwältigende Welle trifft den Charakter und der Flammenschild wird entfernt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Gruppen-KI</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Wenn du möchtest, dass deine Gruppenmitglieder bei einem Kampf automatisch bestimmte Handlungen ausführen, kannst du bestimmte KI-Verhaltensweisen (KI = künstliche Intelligenz) für sie festlegen. Jede Klasse verfügt über mehrere Verhaltensweisen, unter denen du auswählen kannst, basierend auf den verschiedenen Rollen, die sie übernehmen können.
+
+Du kannst außerdem im Verhaltenseditor auch vorhandene Verhaltensweisen anpassen oder neue Verhaltensweisen erstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Aufbrechen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>An Deck deines Schiffes kannst du &lt;sprite="Inline" name="citymapicon_setsail"&gt; auswählen. Dann wird die Weltkarte angezeigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Schiffskapitän</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Der Wächter ist der Kapitän des Schiffs.  Wie andere Mitglieder der Mannschaft erwerben Schiffskapitäne Seemannserfahrung. Doch die Seemannserfahrung eines Kapitäns steigert immer dessen Kapitänsrang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Benutzeroberfläche Schiff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Es gibt verschiedene Aufgaben auf einem Schiff, die die Mannschaft erledigen muss, während das Schiff unterwegs ist. Auf jedem Schiff braucht es Deckarbeiter, Kanoniere und einen Steuermann. Und für alle Schiffe ist es vorteilhaft, wenn es auch einen Koch, einen Schiffsarzt und einen Navigator an Bord gibt. Die größeren Schiffe benötigen sogar zusätzlich einen Bootsmann, der für Ordnung unter den Deckarbeitern sorgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Du musst dich in einem Hafen befinden, um neue Seeleute auf dem Schiff zu platzieren. Klicke im Bereich 'Bekannte Seemänner' auf verfügbare Seeleute und ziehe sie auf eine offene Position auf dem Schiff. Beachte: Alle Seeleute verfügen über unterschiedliche Talente. Nicht alle sind für jede Arbeit gleich gut geeignet. Du kannst die 'Bekannten Seelmänner' durchsuchen und dabei einen Filter nach Jobarten einsetzen, um Seeleute zu finden, die für eine bestimmte Arbeit besonders geeignet sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Deine Mannschaft muss während des Abenteuers mit Nahrung und Getränken versorgt werden. Die Art von Nahrung und Getränken, die du bereitstellst, wirkt sich auf die Moral deiner Mannschaft aus. Teurerer Proviant macht sie glücklicher. Billige Nahrung und billige Getränke senken die Moral deiner Mannschaft im Laufe der Zeit.
+
+Und es gibt nichts, was die Moral deiner Mannschaft so sehr beeinträchtigt, wie wenn sie hungern muss. Eine Mannschaft mit niedriger Moral und knurrenden Mägen könnte durchaus eine Meuterei anzetteln. Wenn du deine Leute zu lange vernachlässigt, könnten sogar einige von ihnen sterben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Auf einem Schiff gibt es verschiedene Jobs.
+
+Der Kapitän bestimmt darüber, wie wahrscheinlich es ist, dass das Schiff bei einem Schiffskampf Vorteile hat (Erstbewegung und andere Boni).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Bei einem Kampf zwischen Schiffen müssen die Deckarbeiter alle erforderlichen Manöver ausführen. Wenn ein Schiff nicht über genügend Deckarbeiter verfügt, bewegt es sich langsamer über die Weltkarte. Je mehr erfahrene Deckarbeiter ein Schiff hat, desto schneller kann es sich im Kampf bewegen.
+
+Der Bootsmann zählt als Deckarbeiter. Seine Bedeutung geht jedoch darüber hinaus, da er in der Lage ist, den Abschluss spezieller Ereignisse auf dem Schiff zu beschleunigen (wie etwa ein Feuer an Deck zu löschen), indem er die Handlungen der Deckarbeiter koordiniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Für das Wenden und Halsen beim Kampf zwischen Schiffen wird ein Steuermann benötigt. Ein erfahrener Steuermann sorgt dafür, dass ein Schiff nach Wende- und Halsemanövern schwerer zu treffen ist.
+
+Kanonen können nur abgefeuert werden, wenn ihnen Kanoniere zugewiesen wurden. Je erfahrener ein Kanonier ist, desto sicherer trifft er sein Ziel.
+
+Der Schiffsarzt erhöht die Heilungsrate verletzter Mannschaftsmitglieder in der Reserve, sowohl im Kampf als auch auf der Reise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Zwei Jobs übernehmen bei einem Kampf keine Rolle, können jedoch eingesetzt werden, um Schiffsereignisse zu lösen.
+
+Der Navigator erhöht die Geschwindigkeit auf der Weltkarte und der Koch verringert den Nahrungsmittelverbrauch während der Reise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Navigation auf See</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Klicke auf die Dropdown-Liste der 'Bekannten Orte', um eine Liste der Orte anzuzeigen, die du bereits entdeckt hast. Du kannst nach einem bestimmten Ort auch mithilfe seines Namens suchen. In tieferen Gewässern sind die Schiffe schneller und in seichteren langsamer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Geringe Rationen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Deine Mannschaft konsumiert jeden Tag Nahrung und Getränke.  Du musst diese Ressourcen regelmäßig wieder auffüllen, indem du neue findest oder kaufst.
+
+Klicke auf &lt;sprite="Inline" name="ico_strongholdship" tint=1&gt;, um dein Schiff zu verwalten.  Fülle die Vorräte an Nahrung und Getränken auf, indem du neue Lebensmittel kaufst und in die entsprechende Reihe platzierst. Der Proviant wird immer von links nach rechts konsumiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Keine Rationen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Wenn du ohne Nahrung und Getränke unterwegs bist, wird deine Mannschaft hungern. Das senkt ihre Moral und irgendwann werden die Seeleute sterben oder meutern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Geringe Moral</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Wenn in deiner Mannschaft eine sehr geringe Moral herrscht, kann das irgendwann zu einer Meuterei führen. Du kannst die Moral deiner Mannschaft erhöhen, indem du den Seeleuten teureren Proviant verschaffst oder feindliche Schiffe besiegst und die Beute dieser Siege mit ihnen teilst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Schiffskampf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Nicht jedes Schiff im Todesfeuer ist dir freundlich gesinnt. Feindliche Schiffe können versuchen, dich in einen Schiffskampf zu verwickeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Während eines Schiffskampfs sind die Entfernung zum Gegner und deine Position im Vergleich zu der des Gegners von entscheidender Bedeutung für einen Erfolg.  Die Entfernung bestimmt darüber, ob sich der Feind in Reichweite deiner Kanonen befindet (oder dein Schiff in der Reichweite seiner Kanonen). Die Position bestimmt, ob du deine Kanonen einsetzen kannst, und wenn ja welche. Außerdem hängt davon auch ab, wie leicht dein Schiff vom Gegner getroffen werden kann. Wenn du dem Gegner deine Seite zuwendest, kannst du zwar mit den meisten deiner eigenen Kanonen feuern, bist jedoch auch ein leichteres Ziel.
+
+Segel und Rumpf jedes Schiffes müssen regelmäßig gewartet werden. Beschädigte Segel verringern die Geschwindigkeit eines Schiffes. Wenn der Rumpf zu stark beschädigt ist, sinkt das Schiff. Die Leistung der Kanonen eines Schiffes wird auch durch die Munitionsvorräte beschränkt, die das Schiff mit sich führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Wenn zwei Schiffe sich nahe genug kommen, können sie sich gegenseitig rammen oder die Mannschaften können das andere Schiff entern. Beim Entern werden zwei Schiffe fest miteinander verbunden. Die Folge des Enterns sind immer Kämpfe an Deck zwischen den Mannschaften der beiden Schiffe. Ein Rammangriff beschädigt den Rumpf beider Schiffe. Wenn dabei nicht eines der Schiffe versenkt wird, beginnt anschließend der Kampf an Deck.
+
+Wenn du das andere Schiff versenkt oder seine Mannschaft beim Kampf an Deck besiegt hast, kannst du das Schiff plündern und alles mitnehmen, was sich darauf befindet.  Beim Plündern werden die Ressourcen und Schätze des Schiffes mitgenommen und gelegentlich darf sich der Sieger auch an dem Triumph erfreuen, den gegnerischen Kapitän gefangenzunehmen. Die Münzen, die du beim Plündern eroberst, kannst du mit deiner Mannschaft teilen. Das hebt ihre Moral. Eine Flagge in der Takelage ist das sichtbare Zeichen deines Triumphs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Verletzungen der Mannschaft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Es kann bei Schiffskämpfen und während Begegnungen auf See zu Verletzungen kommen. Verletzungen schränken die Fähigkeiten der Mannschaftsmitglieder ein. Während eines Kampfes kannst du den Befehl 'Bericht an ...' verwenden, um ein verletztes Mannschaftsmitglied der Reserve zuzuweisen, wo es vom Schiffsarzt geheilt werden kann. Solange sie verletzt sind, können Seeleute während eines Kampfes ihren Job nicht erledigen – es sei denn, der Schiffsarzt kümmert sich um sie.
+
+Wenn du auf der Weltkarte ein verletztes Mannschaftsmitglied dazu zwingst, seinen Job dennoch weiter zu erledigen, hat das gravierende Auswirkungen auf die Moral der gesamten Mannschaft. Solange sie sich im Reserve-Slot befinden, können Mannschaftsmitglieder immer vom Schiffsarzt geheilt werden.
+
+Ob auf der Weltkarte oder während eines Kampfes – wenn ein Mannschaftsmitglied insgesamt vier Verletzungen erlitten hat, bedeutet das den Tod. Daran kann auch der Schiffsarzt nichts ändern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Seemannserfahrung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Begegnungen und Siege über gegnerische Kapitäne auf See bringen Mannschaft und Kapitän Seemannserfahrung ein.  Der Erwerb von Seemannserfahrung steigert den Rang des derzeitigen Jobs eines Mannschaftsmitglieds. Mannschaftsmitglieder können ihren Rang &lt;i&gt;ausschließlich&lt;/i&gt; in Jobs verbessern, in denen sie bereits über mindestens einen Rang verfügen. Kapitäne steigern immer ihren Kapitänsrang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Wesenszüge der Seeleute</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Wenn die Mannschaftsmitglieder an Seemannserfahrung gewinnen, steigen sie ganz natürlich in den ihnen zugewiesenen Jobs auf. Mannschaftsmitglieder können lediglich in Jobs aufsteigen, in denen sie bereits über mindestens einen Rang verfügen. Für einfache Mannschaftsmitglieder existieren höchstens 4 Ränge. Der Wächter als Kapitän kann bis zu 5 Kapitänsränge erringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Wenn du das Geschäft in einem Hafen besuchen und die Vorräte deines Schiffes wieder auffüllen willst, musst du auf der Stadtkarte &lt;sprite="Inline" name="citymapicon_supplies"&gt; auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Hafengeschäft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Dem Tode nahe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Ein Mitglied der Gruppe hat drei Verletzungen erlitten. Wenn das Mitglied eine vierte Verletzung erleidet, wird die betreffende Person sterben. Heile die Verletzungen, indem du während einer Rast Nahrung und Getränke einsetzt oder in einem Gasthaus rastest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Tod</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Ein Mitglied der Gruppe ist gestorben. Die Mitglieder der Gruppe können sterben, wenn sie vier Verletzungen erleiden, ohne dass eine geheilt wurde, oder wenn sie von einer mächtigen Zerstörungswirkung getroffen wurden. Heile Verletzungen, indem du während einer Rast Nahrung und Getränke einsetzt oder in einem Gasthaus rastest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Unterhaltungen mit Begleitern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Einer deiner Begleiter möchte mit dir sprechen.  Um eine Unterhaltung mit einem Begleiter zu beginnen, musst du zuerst die jeweilige Person auswählen und dann in der Fähigkeitsleiste auf &lt;sprite="Inline" name="ico_talk" tint=1&gt; klicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Reputationen und Gesinnungen des Wächters werden auf dem Reputationsrad dargestellt.
+
+Das Reputationsrad einer Begleitperson zeigt deren Reputationen bei den anderen Gruppenmitgliedern ebenso an wie etwaige Vorurteile, die sie hegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Benutzeroberfläche Reputation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Mannschaft anheuern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Schiffsereignisse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Manchmal kann ein Angriff auf dein Schiff ein Schiffsereignis auslösen. Dabei handelt es sich um ein anhaltendes Problem. Du musst Mannschaftsmitglieder abstellen, die sich darum kümmern. Verwende den Befehl 'Bericht an ...', um einem Ereignis Mannschaftsmitglieder zuzuweisen. Je mehr Mannschaftsmitglieder du einem Ereignis zuweist, desto schneller kann das Ereignis gelöst werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Helfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Helfer beginnen als einzigartige NPCs bestimmter Quests mit eigener Persönlichkeit und eigenem Aussehen. Als Belohnung für den Abschluss ihrer Quest können sie anbieten, deiner Gruppe beizutreten. Genau wie Gefährten haben diese neuen Charaktere personalisierte Portraits und Stimmen. Im Gegensatz zu Gefährten haben sie jedoch keine individuellen Visions-Quests und sind nicht Teil des Gefährten-Beziehungssystems.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Schlüsselworte sind Beschreibungen wie Wasser, Feuer oder Frost.  Wasser kontert Feuer und Feuer kontert Frost. Die Beziehungen zwischen Schlüsselworten ist einseitig, Feuer kontert also &lt;i&gt;nicht&lt;/i&gt; Wasser.
+
+Nehmen wir an, dass ein Charakter unter dem Einfluss von Flammenschild mit dem Flammen-Schlüsselwort ist. Ein Gegner trifft ihn mit Überwältigende Welle, verbunden mit dem Wasser-Schlüsselwort.  Die volle Wirkung von Überwältigende Welle trifft den Charakter und der Flammenschild wird entfernt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Einige der Quests, die du erhältst, können sehr anspruchsvoll sein, bis dein Charakter eine höhere Stufe erreicht hat. Eine Quest jenseits der aktuellen Stufe deines Charakters wird in deinem Tagebuch mit ein, zwei oder drei Schädeln gekennzeichnet – einen für jede Stufe. Ist eine Quest mehr als drei Stufen über der aktuellen Stufe deines Charakters, werden die Schädel in Rot angezeigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Um eine Fähigkeit zu ermächtigen, klickst du auf &lt;sprite="Inline" name="empowered" tint=1&gt; in deiner Aktionsleiste und wählst dann die Fähigkeit aus, die du ermächtigen möchtest. Um Ressourcen wiederherzustellen, klickst du auf &lt;sprite="Inline" name="Empowered" tint=1&gt; und dann auf das Portrait deines Charakters oder den Auswahlkreis.
+
+Du kannst diese Ermächtigung pro Kampf einmal verwenden, und eine begrenzte Anzahl von Malen zwischen den Ruhepausen. Eine Rast in einem Gasthaus oder Essen und Trinken während einer Rast an anderen Orten stellt alle Ermächtigungs-Punkte eines Charakters wieder her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Wenn du auf der Weltkarte ein verletztes Mannschaftsmitglied dazu zwingst, seinen Job dennoch weiter zu erledigen, hat das gravierende Auswirkungen auf die Moral. Solange sie sich im Reserve-Slot befinden, können Mannschaftsmitglieder immer vom Schiffsarzt geheilt werden.
+
+Ob auf der Weltkarte oder während eines Kampfes – wenn ein Mannschaftsmitglied insgesamt vier Verletzungen erlitten hat, bedeutet das den Tod. Daran kann auch der Schiffsarzt nichts ändern. =&gt; Verletzungen können bei Schiffskämpfen und Begegnungen auf See entstehen. Verletzungen schränken die Fähigkeiten der Mannschaftsmitglieder ein. Während eines Kampfes kannst du den Befehl 'Bericht an ...' verwenden, um ein verletztes Mannschaftsmitglied der Reserve zuzuweisen, wo es vom Schiffsarzt geheilt werden kann. Solange sie verletzt sind, können Seeleute während eines Kampfes ihren Job nicht erledigen – es sei denn, der Schiffsarzt kümmert sich um sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Bestimmte Angriffe und Fähigkeiten machen Geräusche, auf die NPCs reagieren können. Wachen werden dem Geräusch nachgehen und aktiv den Bereich patrouillieren, den sie bewachen sollen.
+
+Die explosiven Böller, die gefertigt werden können, bringen jeden NPC in Reichweite  dazu, dem Geräusch nachzugehen. Dadurch kann sich für deine Charaktere die Chance ergeben, sich an Feinden vorbeizuschleichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

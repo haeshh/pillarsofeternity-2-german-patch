@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_rathun</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Jarlseggr der Rathun</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Umox&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Okauro&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Umox Breinth&lt;/b&gt;, ein Kriegsherr der Rathun, verübt Überfälle auf die Schiffsrouten von Neketaka. Seine Besatzung und er wurden zuletzt gesehen, wie sie auf einer Insel am &lt;b&gt;südlichen Mittelpunkt von Magrans Zähnen&lt;/b&gt; Zuflucht suchten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der Kriegsherr kann auf einer &lt;b&gt;Insel in der Mitte von Magrans Zähnen&lt;/b&gt; gefunden werden. Ihn zu töten gäbe ein saftiges Kopfgeld.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Umox ist tot. &lt;b&gt;Okauro&lt;/b&gt; bei der &lt;b&gt;Heiligen Treppe&lt;/b&gt; in Neketaka wird mir ohne Tötungsbeweis keine Belohnung geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe den Krieg zu Jarlseggr gebracht und die Belohnung von Okauro bekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

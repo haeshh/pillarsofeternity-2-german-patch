@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_flame_naga_camp</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Gebirgspass, der vor dir liegt, wird von einer Gruppe Flammennāga blockiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Dich den Nāga nähern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Nāga bereiten sich auf einen Kampf vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Dich an die Nāga anschleichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die sich aalenden Nāga bekommen nichts davon mit, dass du dich anschleichst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Während du dich an die Nāga anschleichst, hebt eine von ihnen den Kopf und schaut sich schnell um, bevor ihre Augen die Deinen finden. Mit ihrem lauten Zischen stachelt sie die anderen Nāga an, die sich zum Kampf bereitmachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Während du dich an die Nāga anschleichst, hebt eine von ihnen den Kopf und schaut sich schnell um und schaut [SkillCheck 0] direkt an. Mit ihrem lauten Zischen stachelt sie die anderen Nāga an, die vorwärtsschlängeln. Sie scheinen niemand anderen bemerkt zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Dich mit [SkillCheck 0] zusammen den Nāga entgegenstellen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Die Ablenkung, die [SkillCheck 0] erzeugt hat, zur Flucht nutzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Als dich die Nāga entdecken, halten sie einen Moment lang inne, bevor sie anrücken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du fliehst, während du hörst, wie [SkillCheck 0] mutig – aber letztendlich vergebens – kämpft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[An den Nāga vorbeiziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Die Nāga mit einem Schleichangriff angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du schleichst an den Nāga vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du kommst den ahnungslosen Nāga nahe.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

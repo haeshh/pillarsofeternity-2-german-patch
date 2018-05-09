@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_huana_druid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Im Osten von Port Maje dehnen sich dichte Wälder aus. Das verlangsamt deine Reise. Über dir flattern Vögel, und unablässig zirpen und summen Insekten. Der Pfad endet in einem Wildwechsel, und dann ist überhaupt kein Weg mehr zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du entdeckst einen Baum, der auf merkwürdige Weise markiert wurde. Die Rinde wurde in einem bestimmten Muster weggeschnitten. Die Riefen scheinen von links nach rechts nach oben zu verlaufen, nicht ganz senkrecht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Markierungen untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Vorsichtig vorwärtsgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Zurückgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Tiefe und Breite der Schnitte weist auf die Hauer eines Ebers hin. Dieser Verdacht wird durch die lockigen Büschel braunen Fells bestätigt, die du im verletzten Holz findest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 0] untersucht die Schnitte im Holz und zupft dann von der Seite des Baums ein Büschel Haare. 
+
+"Das haben Wildschweine angerichtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du bemerkst ein in das Holz geschnitztes Siegel. Der Abdruck ist so schwach, er ist kaum noch wahrnehmbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 0] klopft gegen den Baum. "Schau dir das an!"
+
+Ein Siegel wurde in das Holz geschnitzt. Der Abdruck ist so schwach, er ist kaum noch wahrnehmbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du hast keine Ahnung, was dies zu bedeuten hat. Vielleicht ist es einfach nur Teil eines örtlichen Rituals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 0] runzelt die Stirn. "Das hier? Das sieht absolut natürlich aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Mit großer Vorsicht begibst du dich hinein in den Wald. Deine Kleidung ist durchnässt von der hohen Luftfeuchtigkeit und dem Wasser, das von den Bäumen tropft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ein leises Rascheln im Unterholz nördlich von dir, tiefer im Wald, weckt deine Aufmerksamkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Rufen] "Hallo? Ist da jemand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Dich im Unterholz verstecken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Versuchen, zu fliehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Leise versteckst du dich hinter einem gefallenen Baumstamm und bemühst dich, lautlos zu atmen. Was auch immer dieses Geräusch verursacht, es kommt näher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du tauchst ab ins Unterholz. Dabei stößt du gegen einen Holzklotz, der an einem Baum lehnte. Du kannst ihn nicht aufhalten. Hilflos musst du zusehen, wie er umfällt und dabei eine Ranke mitzieht, die sich um einen toten Zweig gewickelt hat.
+
+Mit einem lauten Krachen landet alles auf dem Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Das Geräusch kommt näher und inmitten der Vegetation taucht ein hochgewachsener Aumauaner auf. Verfilzte rote Haare säumen seinen Kopf und sein Körper ist in Wildschweinfelle gehüllt Noch merkwürdiger sind allerdings die Wildscheine, die ihm folgen, und bei deinem Anblick drohend schnauben, die Borsten aufgestellt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Durch eine Lücke in den Blättern siehst du einen hochgewachsenen Insel-Aumauaner inmitten einer kleinen Herde Wildschweine. Matte, kupferfarbene Haare hängen ihm ins Gesicht. Sein Körper ist in Wildschweinfelle gehüllt. Trotz seiner Anwesenheit scheinen die Wildschweine überhaupt nicht beunruhigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du rennst los, durch den Wald, immer in Richtung Süden, zurück zu den offenen Wiesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Erneut triffst du auf den dichten Wald östlich von Port Maje. Du bahnst dir deinen Weg tief in den Wald hinein, als du auf einmal um dich herum Schnauben und Rascheln hörst. Du fährst herum, suchst nach der Quelle ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich grüße dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Einen Hinterhalt vorbereiten und angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Die Gegend umschleichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du schleichst dich weiter nach vorn, ziehst deine Waffe ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Ganz plötzlich steht der Mann vor dir, Er ist herumgefahren und hat seinen Stab erhoben, als wolle er dich damit erschlagen.
+
+"Ekera! Wer bist du denn? Was hat dich hierher verschlagen?" Die Sprache der Huana verstärkt noch seinen Akzent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>... plötzlich fallen deine Augen auf den in Felle gehüllten Aumauaner und seine Wildschweine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ich sage, du wirst den Wildschweinen zum Fraß dienen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Die Wildschweine bezaubern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Mit gerunzelter Stirn folgt der Gestandene den Wildschweinen, die sich dir nähern. Als er dich mitten in all dem Grün entdeckt, weiten sich seine Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ekera, wer bist du denn? Und weshalb belästigst du diese Wildschweine?"
+
+Mit einer Bewegung seines Stabes weckt er die Wildschweine aus der Verzauberung. Die Bestien schnauben unwillig und ziehen sich zum Aumauaner zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Das Symbol identifizieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Hast du eine Ahnung, was das sein könnte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Es scheint im Stil der Huana-Kultur geschaffen worden zu sein. Davon abgesehen erinnert es an drei sich überlappende Kreise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Es ist nichts, womit du bisher Erfahrung gemacht hättest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Die Markierungen untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1] betrachtet die Schnitzerei mit zusammengekniffenen Augen und runzelt die Stirn. "Das sieht nach Huana aus. Drei sich überlappende Kreise. Mehr kann ich dazu nicht sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 1] schüttelt den Kopf. "Keine Ahnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 1] schüttelt den Kopf. "Nicht die geringste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Leise duckst du dich hinter einen umgefallenen Baumstamm. [SkillCheck 0] folgt dir, lehnt sich jedoch gegen einen Ast, der mit einem lauten Krachen abbricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Du schleichst dich durch den Wald und vermeidest die Windschweine und ihren aumauanischen Gefährten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Du flüsterst leise etwas und versuchst, mit deiner Seele den Geist der Schweine zu erreichen und zu beeinflussen.
+
+Die Wildschweine stapfen auf dich zu und schnüffeln dabei fröhlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Specified 2] flüstert den Geistern etwas zu, und die Umgebungsessenz lädt die Luft auf. 
+
+Die Wildschweine stapfen auf dich zu und schnüffeln dabei fröhlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Wildschweine umgeben dich, tauchen aus dem Unterholz auf. Sie werden begleitet von einem hochgewachsenen Insel-Aumauaner, in Felle gehüllt, seine kupferfarbenen Haare matt und wirr. Mit einem hölzernen Stab deutet er auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Du bist gegangen. Und du hättest niemals zurückkehren sollen ..." Die Worte sind wegen des breiten örtlichen Akzentes schwer zu verstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Das Symbol identifizieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_wilder_trap</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>146</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Pfad vor dir ist durch chaotische Fußspuren gründlich aufgewühlt und die wenigen Pflanzen, die ihn säumen, sind übel mitgenommen. 
+
+Hier könnte ein Kampf stattgefunden haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Zu beiden Seiten hörst du tippelnde Schritte. Xaurips erscheinen, ihre einfachen Speere einsatzbereit. 
+
+Der erste Reptilienwilde, eine Kreatur mit matten Schuppen und gelben Augen, brüllt dich wütend an und deutet auf die Falle. Die anderen zischen und zeigen ihre abgesplitterten und wild durcheinander stehenden Zähne.
+
+Die Xaurips greifen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Die Falle entschärfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Obwohl die Falle simpel aussieht, nimmst du dir Zeit, um sie zu entschärfen und ihre Teile einzusammeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Die Gegend umschleichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du machst dich wieder auf den Weg, aber stolperst über eine Liane, die vor deinen Füßen auftaucht. Mit einem Knacken strömt neben dir eine Wolke beißenden grünen Gases in die Luft. Bei Hautkontakt brennt es und du schließt deine tränenden Augen vor diesem plötzlichen Schmerz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Du machst dich wieder auf den Weg, aber kannst nur hilflos zusehen, wie [Slot 0] über eine Liane stolpert, die vor euren Füßen auftaucht. Du hörst ein Knacken neben dir und eine kleine Wolke grünen Gases strömt aus und nebelt [Slot 0] ein. [Slot 0] kneift die Augen zu, hustet und hält sich den Bauch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Obwohl die Falle simpel aussieht, rutschen deine Hände beim Entschärfungsversuch ab. Mit einem lauten Knacken strömt ein Wölkchen beißenden grünen Gases in die Luft ... ein paar Meter vor dir. Das Gas löst sich langsam wieder auf, ohne Schaden anzurichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Die Falle umgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du verlässt den vielbenutzten Pfad und nimmt eine Route durch die Wildnis, ständig auf der Hut vor weiteren Fallen auf deinem Weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Eine riesige Gestalt mit langen schwingenden Gliedmaßen stürmt auf dich zu. Ihre knolligen Augen leuchten hungrig ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Den Pfad entlang weitergehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Zurückgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Du brauchst nur einen kurzen Moment, um zu verstehen, was sich hier zugetragen hat. Die fehlenden Blutspritzer deuten darauf hin, dass dies kein Kampf war. Weiterhin erkennst du mit Leichtigkeit die klauenartigen Fußspuren von Xaurips. Sie sehen frisch aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Du bist dir nicht sicher, was du von dem Chaos auf dem Pfad halten sollst. Es gibt Spuren, aber du kannst nicht erkennen, von wem oder was sie sind; und sie scheinen sich wie in einem Tanz zu umkreisen.
+
+Nur eines ist sicher - wer oder was auch immer diese Spuren hinterlassen hat, ist nicht mehr auf dem Pfad.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Eine trockene und faserige Liane wurde über den Pfad gespannt und unbeholfen mit Erde bedeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Zu beiden Seiten hörst du tippelnde Schritte. Xaurips erscheinen, ihre einfachen Speere einsatzbereit. 
+
+Der erste Reptilienwilde, eine Kreatur mit matten Schuppen und gelben Augen, brüllt dich wütend an und deutet auf die Falle. Die anderen zischen und zeigen ihre abgesplitterten und wild durcheinander stehenden Zähne.
+
+Die Xaurips greifen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Die Biegung des Pfads vor euch kommt dir irgendwie merkwürdig vor und lässt dich innehalten. Aufgrund der verdeckten Sicht scheint das ein guter Ort für einen Hinterhalt zu sein.
+
+Doch gleichzeitig hörst du nichts Außergewöhnliches. Eigentlich hörst du überhaupt nichts ... kein Summen von Insekten, kein Rascheln von Tieren. Selbst die Luft ist völlig still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Als du deinen Weg auf der Straße fortsetzt, bemerkst du auf einmal, wie das Licht sich verdunkelt, als ob ein Schatten auf dich fallen würde. Du siehst dich um, bist dir nicht sicher, woher dieser Schatten kommt. Die Luft fühlt sich schwer an, voller unsichtbarer Energie.
+
+Der Weg vor scheint frei zu sein. Es wäre jedoch nicht das erste Mal, dass dich der Schein trügt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Vorsichtig vorwärtsgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Du hörst ein scharfes Einatmen, das du erst nachträglich als dein eigenes erkennst; eine instinktive Reaktion auf den mit Federn besetzten Pfeil, der zwischen deinen Rippen steckt. Deine Sicht verschwimmt kurz ein wenig, als du das Geschoss aus deinem Körper ziehst und zu Boden wirfst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Du hörst ein scharfes Einatmen gefolgt von einem dumpfen Schlag. Du drehst dich um und siehst einen mit Federn besetzten Pfeil in [Specified 0]s Seite stecken. Dein Gefährte blickt für einen Moment auf das Geschoss, reißt es sich dann aus dem Körper und wirft es weg. 
+
+[Specified 0] taumelt zur Seite und zeigt dann auf etwas hinter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Du hörst ein scharfes Einatmen, das du erst nachträglich als dein eigenes erkennst; eine instinktive Reaktion auf den mit Federn besetzten Pfeil, der zwischen deinen Rippen steckt. Deine Sicht verschwimmt kurz ein wenig, als du das Geschoss aus deinem Körper ziehst und zu Boden wirfst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Deine Umgebung untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Während du dich vorsichtig voran bewegst, erspähst du einen riesigen Lagufaeth, der durch den Wildwuchs schleicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Deine Umgebung untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Vorsichtig vorwärtsgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Scheinbar wirst du langsam paranoid. Alles sieht in Ordnung aus. Sogar der Wind weht wieder ein wenig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Ein großer Stein steht direkt neben der Straße. Dir wird schwindlig, als du dich ihm näherst. Dahinter findest du eine ungewöhnliche Sammlung von Knochen und Stöcken - ein kleines Totem der Wilden, das unheilvoll schimmert. Seine Kraft stört die Essenz, die es umgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Die Dunkelheit wird immer intensiver, doch du hast keine Ahnung, woher sie stammt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Eine große Nāga gleitet zischend nach vorne. Ihre Zunge flattert zwischen langen Fangzähnen. Ein in einer Kralle endender Finger wird dir entgegengestreckt. 
+
+Ein paar andere Nāga zischen eine gemeinsame Antwort. Die Gruppe kommt näher, ihre primitiven Waffen einsatzbereit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Je weiter du vordringst, desto länger werden die Schatten, desto intensiver wird die Dunkelheit. Deine Sicht verdüstert sich mehr und mehr. Instinktiv blinzelst du. 
+
+Du hörst ein Rascheln in der Nähe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[Das Totem zerstören.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Mit ein paar brutalen Schlägen schlägst du das Totem kurz und klein. Die Luft klart sofort wieder auf. Das Dröhnen, das du zuvor gehört hattest, wird durch ein nahes Rascheln ersetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Du entschließt dich, kein Risiko einzugehen und machst wieder kehrt. Wahrscheinlich kannst du einen anderen Weg zu deinem Ziel finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Du schickst dich an, den aufgewühlten Pfad entlangzugehen, als [Player Animal Companion] sich neben dir anspannt. Das Fell deines tierischen Gefährten stellt sich auf, als er sich schützend vor dich stellt. Die Ohren deines tierischen Gefährten zucken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Eine trockene und faserige Liane wurde über den Pfad gespannt und unbeholfen mit Erde bedeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[Nach der Anwesenheit anderer Geister suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Du bewegst dich weiter, als du plötzlich einen Angstschub in der Verbindung zwischen dir und [Player Animal Companion] spürst. Bevor du reagieren kannst, packt dich dein tierischer Gefährte am Gewand und zieht dich zurück. 
+
+Der mit Federn besetzte Pfeil verfehlt dich um Haaresbreite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Während du dich vorsichtig voran bewegst, erspähst du einen riesigen Lagufaeth, der durch den Wildwuchs schleicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Du öffnest deinen Geist für deine Umgebung und suchst nach einer anderen Intelligenz. 
+
+Und tatsächlich spürst du eine pulsierende unheilvolle Feindseligkeit in der Nähe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Mit den Geistern Zwiesprache halten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Du öffnest dich der spirituellen Resonanz der Welt um dich herum. 
+
+Der Weg vor dir scheint vor deinen Augen zu verschwinden und die Dunkelheit verwandelt sich in ein gequältes Flüstern, das dich vom Weg fortzieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Ein großer Stein steht direkt neben der Straße. Dir wird schwindlig, als du dich ihm näherst. Dahinter findest du eine ungewöhnliche Sammlung von Knochen und Stöcken - ein kleines Totem der Wilden, das unheilvoll schimmert. Seine Kraft stört die Essenz, die es umgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>[Vorsichtig vorwärtsgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>[Nach den Xaurips suchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Du gehst ohne weitere Unterbrechungen auf dem Pfad weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Vor dir hörst du leises Gezwitscher und Brummen. Du kannst im Gestrüpp kleine, sich bewegende Gestalten ausmachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[Deine Waffe ziehen und angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>[Dich näher heranschleichen, um alles zu beobachten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Du kriechst näher heran und teilst das Gras, um besser sehen zu können.
+
+Eine Handvoll Xaurips zischen und schnappen sich gegenseitig an und schwenken die Speere in ihren schuppigen Händen. Sie stehen über dem, was anscheinend ihren Streit ausgelöst hat - ein kleiner Haufen Beute, den sie wahrscheinlich von anderen Reisenden gestohlen haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[[Player Animal Companion] losschicken, um sie abzulenken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[Sie mit Magie auseinandertreiben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[Einen Hinterhalt vorbereiten und angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Du schleichst dich weiter nach vorn, ziehst deine Waffe ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>[Ihren Streit anstacheln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Nach einem leisen Streicheln macht sich [Player Animal Companion] auf. Kurz danach hören die Xaurips mit ihrem Streit auf, da sie in der Entfernung etwas gehört haben. 
+
+Sie laufen in Richtung des Geräusches, aber du bist zuversichtlich, dass dein tierischer Gefährte sie mühelos abhängen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Du entfaltest deine Gedanken und streifst die einfachen chaotischen Geister der Wilden. Du entfachst ihren Zorn, wie du auf eine Glut blasen würdest, um ein Feuer anzufachen. Ihr Zischen wird immer hitziger und sie beginnen, aufeinander einzustechen. 
+
+Schließlich stürzen sich zwei von ihnen auf einen Dritten, der ins Dickicht davonläuft. Alle Xaurips verfolgen ihn lauthals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Du sagst die Zauberformel leise auf und sammelst Essenz, bevor du eine Explosion mystischer Kraft auf die Xaurips schleuderst. Sie stoßen zischende Schreie aus und fliehen vor der plötzlichen magischen Gewalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Da die Xaurips weg sind, kannst du aufsammeln, was sie zurückgelassen haben.
+
+Du findest ein paar Münzen, einen zerschlissenen Umhang und ein altes Stilett.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>[Specified 0] sammelt Essenz um sich und schleudert dann eine Explosion mystischer Kraft auf die Xaurips. Sie stoßen zischende Schreie aus und fliehen vor der plötzlichen magischen Gewalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Nach dir, Serafen. Seefahrer zuerst, nicht wahr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Nach dir, Käpt'n, ich bestehe darauf. Ich arbeite am besten von hinten."
+
+Serafen kichert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Verdammt! Das sind ganz schön trickreiche kleine Teufel, nicht wahr?" Xoti runzelt die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>[Rufen] "Ich verstecke mich nicht! Wenn ihr mich wollt, kommt und holt mich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>[An die boshafte Präsenz heranschleichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Der Lagufaeth hat dich anscheinend nicht bemerkt ... noch nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Deine Augen treffen die seinen. Ihr blickt euch einen Augenblick lang kalt und ohne zu blinzeln an.
+
+Mit einem gegurgelten Ruf lässt der Wilde jede Subtilität hinter sich und geht zum Angriff über.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Du schleichst dich weiter nach vorn, ziehst deine Waffe ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>[Einen Hinterhalt vorbereiten und angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>[Elektrizität auf ihn werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>[Einen Jungdrachen beschwören.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Tritt mir gegenüber, du schuppiger Bastard, denn ich bin dein Tod!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[Die Gegend umschleichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Du gehst ohne weitere Unterbrechungen auf dem Pfad weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Du hörst ein scharfes Einatmen, das du erst nachträglich als dein eigenes erkennst; eine instinktive Reaktion auf den mit Federn besetzten Pfeil, der zwischen deinen Rippen steckt. Deine Sicht verschwimmt kurz ein wenig, als du das Geschoss aus deinem Körper ziehst und zu Boden wirfst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Du kriechst so leise es geht von den Kreaturen weg ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Gleißend weiße Elektrizität trifft den Lagufaeth. Funken fliegen von seinen schwimmhäutigen Fingern und Lichtbögen blitzen zwischen seinen scharfen Zähnen.
+
+Brutzelnd und rauchend flieht die Kreatur in die Wildnis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Dein Gesang wühlt die Geister dieses Ortes auf. Als du den Jungdrachen rufst, antwortet er.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Auf jetzt, Serafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Diesem schwabbligen fischgesichtigen Bilgenlutscher werde ich's zeigen, Käpt'n."
+
+Serafen leckt sich die Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Der Lagufaeth tritt einen Schritt zurück, dann einen zweiten und läuft dann so schnell davon, wie ihn seine schwimmhäutigen Füße tragen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Der Gesang von [Specified 3] wühlt die Geister dieses Ortes auf. Als der Jungdrache gerufen wird, antwortet er.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Ein Schatten fällt über dich, als die Bestie mit ledrigen Flügeln im Sturzflug herabkommt und schreckliche Flammen aus seinem Maul speit.
+
+Mit gurgelndem Kreischen und wilden Schlägen versucht der Lagufaeth, das Feuer, das sein Fleisch schwärzt, auszumachen, während er panisch davonläuft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Der Lagufaeth tritt einen Schritt zurück, dann einen zweiten und läuft dann so schnell davon, wie ihn seine schwimmhäutigen Füße tragen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Der Lagufaeth kommt vorsichtig näher, seine Hand an der Waffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Die kalten Knopfaugen des Wilden sehen dich an ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Der Orlaner springt mit der Waffe in der Hand aus seinem Versteck. Er fuchtelt damit herum und lässt einen Schwall an Kraftausdrücken los, die selbst den Lagufaeth schockieren. 
+
+Der Orlaner schreitet mit dem selbstsicherem Stolz des geborenen Piraten auf den Lagufaeth zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Der geflüchtete Lagufaeth hinterlässt ein paar Fische, einige Giftstachel und eine gut gearbeitete Keule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>[Den Schutzstein der Dunkelheit am Totem einsetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Ich spüre nichts, das konventioneller Gestandenen-Magie ähnelt. Ich würde zur Vorsicht raten." Aloth bewegt seine Finger über sein Zauberbuch, während seine Augen eure Umgebung absuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Du bewegst dich auf das Totem zu, den Stein hoch erhoben. Dann bleibst du davor stehen und erlaubst der Essenz um das Totem herum, dich in tintenschwarze Dunkelheit zu hüllen. Das Klingeln löst sich in zischendes Flüstern auf; vielleicht ist es das Murmeln einer Myriade wandelnder Seelen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Als du deine Augen öffnest, ist deine Sicht wieder klar, und eine große Nāga steht bedrohlich vor dir. Ein verzierter Helm säumt sein Gesicht. Knochen und Korallenteile hängen von Lederbändern um seinen Hals herab. Seine gespaltene Zunge zuckt heraus, als er dich anstarrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>[Sich vor ihm verbeugen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Wir möchten lediglich in Frieden passieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Was genau ist dieses Totem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>[Deine Waffe ziehen und angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>[Weggehen] "Ich gehe besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Du hörst, wie die Nāga sich bewegt. Dann spürst du ihre Hand auf deinem Hinterkopf. Als du aufsiehst, verneigt sie ihren Kopf vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Sie greift nach einer ihrer vielen Halsketten und reißt eine ab. Sie drückt dir den Gegenstand in die Hand, gleitet zurück und macht eine Geste, dass du dich wieder auf den Weg machen sollst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Die Nāga starrt dich mit kühlen, intelligenten Augen an. Sie sagt nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Als du dich zu bewegen beginnst, wird das Flüstern wieder laut und misstönend. Dunkelheit vernebelt deine Sicht. Du hörst die Nāga zischen, als sie zum Angriff ansetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Du bist nicht sehr gesprächig, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>[Die Reise fortsetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>[Deine Waffe ziehen und angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Die Nāga starrt dich mit kühlen, intelligenten Augen an. Sie sagt nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Als du dich zu bewegen beginnst, wird das Flüstern wieder laut und misstönend. Dunkelheit vernebelt deine Sicht. Du hörst die Nāga zischen, als sie zum Angriff ansetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>[Dich näher heranschleichen, um alles zu beobachten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Der Wilde macht einen gurgelnden Laut. Seine kalten knolligen Augen mustern dich, während sich die Muskeln seiner vielen Arme anspannen. Er senkt seine Waffe und schlurft vorsichtig auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Ein gewaltiger Lagufaeth tritt auf den Weg. Seine kalten knolligen Augen mustern dich, während sich die Muskeln seiner vielen Arme anspannen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>[Deine Waffe ziehen und angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>[Warten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>[Vor dem Biest weglaufen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Der Lagufaeth macht keine Anstalten, dich zu stoppen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Er zieht aus seinem rauen Gürtel ein Seil, an dem einige schleimige Fische baumeln, und legt es vor dir auf die Erde. Mit gesenktem Kopf tritt er einige Schritte zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>[Versuchen, seine Motivation zu verstehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>[Die Fische akzeptieren.] "Vielen Dank."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>[Gehen.] "Ich war eigentlich gerade dabei, zu gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Der Lagufaeth scheint dankbar. Vielleicht hat er von den jungen Lagufaeth gehört, die du von den Huana befreit hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Du hast keinen blassen Schimmer, warum der Fischmann dir Fisch geben sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>[Specified 5] runzelt die Stirn und mustert den Wilden.
+
+"Er scheint ... dankbar?" 
+
+Vielleicht hat er von den jungen Lagufaeth gehört, die du von den Huana befreit hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Er gurgelt und verbeugt sich erneut vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>[Die Reise fortsetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>[Nach dem suchen, was das Totem verlassen hat, was auch immer es ist.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Du schleichst dich weiter nach vorn, ziehst deine Waffe ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Der Orlaner presst seine Fingerkuppen gegen beide Schläfen und schließt seine hellgrünen Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Aye, Käpt'n. Da oben ist was, aber ich kann nicht sagen, was."
+
+Serafens Miene verdunkelt sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Die karmesinroten Augen der bleichen Elfin rollen zurück, als sich ihre Augen schließen. Einen Augenblick lang bewegt sie keinen Muskel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Ich spüre ein einziges, kaltes Bewusstsein direkt vor uns. Es ist ein wilder, aber mächtiger Verstand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Nach einem Augenblick nickt [Specified 0] und deutet auf einen Punkt weitab von dem Pfad, der vor euch liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Selbst zusammengekauert überragt der Wilde die tropischen Bäume noch deutlich. Auf seinem Kopf trägt er einen gebleichten Schädel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Selbst zusammengekauert überragt der Wilde die tropischen Bäume noch deutlich. Auf seinem Kopf trägt er einen gebleichten Schädel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Selbst zusammengekauert überragt der Wilde die tropischen Bäume noch deutlich. Auf seinem Kopf trägt er einen gebleichten Schädel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>[Specified 0] runzelt die Stirn und kann sich auf das Durcheinander keinen Reim machen. Aber da sind Fährten. Wie Tänzer umkreisen sie einander.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>[Specified 0] entschärft die Falle leise und sammelt ihre Bestandteile ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Während des Versuchs rutscht [Specified 0]s Hand ab. Mit einem lauten Knacken bricht ein Wölkchen beißenden grünen Gases hervor ... In ein paar Metern Entfernung. Das Gas löst sich langsam wieder auf, ohne Schaden anzurichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>[Specified 0] weiß sofort, was er von dem Durcheinander zu halten hat. Die fehlenden Blutspritzer deuten darauf hin, dass hier kein Kampf stattgefunden hat. Außerdem erkennt dein Gefährte sofort die klauenartigen Fußspuren von Xaurips. Die Spuren scheinen ganz frisch zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>[Das Gebiet durchsuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Der Lagufaeth scheint dankbar. Vielleicht hat er von den jungen Lagufaeth gehört, die du von den Huana befreit hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Dahinter erschaudert eine Gruppe in Roben gewandeter Personen und kauern sich in einer nahegelegenen Flussbiegung nieder. Jeder ist an seinem Platz erstarrt, sie sind aschfahl und grau wie Statuen, die aus Ruß gemacht sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Dahinter erschaudert eine Gruppe in Roben gewandeter Personen und kauern sich in einer nahegelegenen Flussbiegung nieder. Jeder ist an seinem Platz erstarrt, sie sind aschfahl und grau wie Statuen, die aus Ruß gemacht sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

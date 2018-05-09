@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_tsk_arkemyr_invite</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Eine herzliche Einladung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Arkemyr&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Arkemyr&lt;/b&gt; lud mich zu einem Gespräch in sein &lt;b&gt;Anwesen&lt;/b&gt; ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Arkemyr&lt;/b&gt; möchte persönlich sprechen. Ich kann ihn in seinem &lt;b&gt;Anwesen&lt;/b&gt; in &lt;b&gt;Perikis Aussichtspunkt&lt;/b&gt; finden und in seinem &lt;b&gt;Arbeitszimmer&lt;/b&gt; mit ihm sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe mich wie gewünscht mit &lt;b&gt;Arkemyr&lt;/b&gt; in seinem Anwesen&lt;/b&gt; getroffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

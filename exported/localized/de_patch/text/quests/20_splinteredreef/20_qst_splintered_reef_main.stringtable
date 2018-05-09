@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\20_splinteredreef\20_qst_splintered_reef_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Geistesparadies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mit Kupferkopf bei ihm zu Hause sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Krypta im Zersplitterten Riff untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Treppe in der Krypta hochgehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Nachschub an lebender Essenz für Menzzago und seine Armee finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Mit Kupferkopf sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Das Zersplitterte Riff erkunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Die Krypta untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Die Krypta im Zersplitterten Riff untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Bei der Erkundung des Zersplitterten Riffs bin ich auf eine Schenke gestoßen, die mit Gefäßen gefüllt ist, die ihrem Leben nachgehen, als wäre alles in Ordnung. Darin traf ich einen Dargul namens Kupferkopf. Er behauptet, dass etwas Seltsames vor sich geht. Da hier anscheinend niemand bemerkt hat, dass alle verrottende Leichen sind, die das Fleisch lebender Gestandener verspeisen, hat er womöglich recht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Kupferkopf hat mich gebeten, ihn in seiner Behausung am Dorfrand, westlich von hier, aufzusuchen. Er scheint mehr darüber zu wissen, was im Zersplitterten Riff vor sich geht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Kupferkopf hat mir verraten, dass er glaubt, dass jeder in diesem Dorf den Eindruck hat, ein lebender Gestandener zu sein. Irgendwie blockiert der Helm, den er gefunden hat, diese Magie, deren Quelle sich an der Spitze des Turmes in der Dorfmitte zu befinden scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Durch meine Nachforschungen konnte ich einen Weg ausfindig machen, der entlang des Vorgebirges nach oben führt. Es ist wenig einladend, aber ich schätze mal, dass ich dort ein paar Antworten finden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Um Menzzago sowie seine Armee satt und in kampfbereitem Zustand zu halten, muss ich einen Weg finden, ihm eine neue Quelle von Essenz zu sichern.
+
+Er meinte, dass Krummsporn eine geeignete Quelle für Gestandene sein könne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Menzzagos Vorherrschaft über die bemitleidenswerten Seelen des Zersplitterten Riffs ein Ende bereitet. Ich sollte wieder zu Kupferkopf gehen und ihn auf den neuesten Stand bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Kupferkopf ist tot. Das heißt, dass ich die Insel und ihre grotesken Bewohner auf eigene Faust untersuchen muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>Was auch immer für eine Macht auf dieser Insel am Werk ist, diese Krypta scheint ihr Dreh- und Angelpunkt zu sein. Vielleicht kann ich darin einige Hinweise finden – falls ich die Horde vergammelnder Gestandener, die in der Gegend herumstreifen, umgehen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>Die Krypta wird stark verteidigt. Was immer auf dieser Insel vor sich geht, die Krypta scheint im Zentrum zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Kupferkopf hat mir versprochen, für eine Ablenkung außerhalb der Krypta zu sorgen, damit ich hineinschleichen kann, ohne die Horde Untoter, die sie bewacht, zu alarmieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich bin auf eine Tür gestoßen, an der kein Schloss oder Knauf zu sehen ist. Stattdessen hat sie ein Reservoire an jeder Seite, in dem geronnenes Blut ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe eine Fampirin getroffen, die eine Art Gefäße erschafft. Nachdem ich sie getötet hatte, konnte ich etwas ihres Blutes retten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe einen Fampir getroffen, der magische Siegel an Untoten anbrachte. Nachdem ich ihn getötet hatte, konnte ich etwas seines Blutes retten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Es scheint so, als ob sich die Kohlenbecken neben der Tür entzünden, wenn man Fampirblut in die Reservoire hineingibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe mich dazu entschieden, die Kugel, die Menzzago dazu nutzte, die Untoten zu kontrollieren, zu zerstören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich hielt es für das Beste, die Leute im Zersplitterten Riff ihrer Halluzinationen nicht zu berauben. Der Zauber wird möglicherweise mit der Zeit schwächer werden; doch bis dahin bleiben sie zufrieden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich konnte Menzzago davon überzeugen, dass ich einen besseren Verbündeten als Gegner abgebe. Er sagte mir die Unterstützung seiner Flotte zu, so ich sie denn benötigte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe die Kugel an der Spitze der Krypta im Zersplitterten Riff zerstört und damit die Bewohner ihrer kollektiven Illusion beraubt. Ohne die Magie der Kugel hat Menzzago keine Chance, eine Armee auszuheben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich nahm es auf mich, die Gefäße im Zersplitterten Riff zu zerstören. Zumindest die Kugel mit ihren geistesverändernden Fähigkeiten könnte mir noch von Nutzen sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe Menzzago besiegt, den Herrscher über das Zersplitterte Riff. Was immer er vorhatte, habe ich damit beendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Ich bin an einer Krypta vorbeigekommen, die sich hoch über dem Zersplitterten Riff auf einem zerklüfteten Vorsprung befindet. Hier wimmelt es nur so vor wandelnden Leichen. Mir kommt es so vor, als sammelten sich äußerst viele Gefäße in dieser Gegend.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

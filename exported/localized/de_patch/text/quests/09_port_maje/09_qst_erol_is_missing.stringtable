@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_qst_erol_is_missing</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Anteil in gutem Glauben verloren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Aenalys&lt;/b&gt; über &lt;b&gt;Oswald&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Übergib &lt;b&gt;Kahn&lt;/b&gt; &lt;b&gt;Oswalds Tagebuch&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Finde den antiken Tempel in der Nähe des &lt;b&gt;Karatapu-Kanals&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Suche nach &lt;b&gt;Oswald&lt;/b&gt; im Inneren des &lt;b&gt;Heiligtums des Eidbinders&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Oswald&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Oswald&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Beschaffe &lt;b&gt;Kahns Geld&lt;/b&gt; von &lt;b&gt;Oswald&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Schreite ein oder beobachte die Szene.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Durchsuche &lt;b&gt;Oswalds&lt;/b&gt; Leichnam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Sprich mit Oswald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Sprich mit Oswald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Kahn&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Kahn&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Kahn&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Schreite ein oder beobachte die Szene.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Kahn&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Kahn&lt;/b&gt; bat mich, ihr bei der Suche nach &lt;b&gt;Oswald&lt;/b&gt; zu helfen, einem alten Elfen, der ihr 5.000 Kupferstücke schuldet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Kahn erwähnte, dass Oswald &lt;b&gt;Aenalys&lt;/b&gt; bevorzugte, eine der Kurtisanen im &lt;b&gt;zweiten Stock&lt;/b&gt; der &lt;b&gt;Wilden Mähre&lt;/b&gt;.
+
+Kahn erzählte mir, dass sich Aenalys weigerte, mit ihr über Oswald oder seinen Aufenthaltsort zu sprechen. Sie meinte, ich könnte vielleicht mehr Glück mit Aenalys haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Oswalds Tagebuch in Aenalys Schrank gefunden. &lt;b&gt;Kahn&lt;/b&gt; wird es lesen wollen. Ich finde sie im &lt;b&gt;Erdgeschoss&lt;/b&gt; der &lt;b&gt;Wilden Mähre&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Kahn erzählte mir, dass sie von einem massiven Woedica-Tempel auf einer großen Insel in der Nähe des &lt;b&gt;Karatapu-Kanals&lt;/b&gt; &lt;b&gt;südwestlich von Neketaka&lt;/b&gt; erfahren habe.
+
+Kahn vermutet, dass Oswald entführt und von der Person, die ihm nachstellte, dorthin gebracht wurde.
+
+Sie bat mich, zum Tempel zu gehen und ihr Geld von Oswald zu beschaffen, egal wie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe den Tempel gefunden, von dem Kahn sprach. Mit etwas Glück ist &lt;b&gt;Oswald&lt;b&gt; hier und noch am Leben – oder ich finde zumindest das Geld an seiner Leiche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>&lt;b&gt;Oswald&lt;b&gt; wurde von einem Kult übereifriger Woedicaner gefangen gehalten und wegen Eidbruchs vor Gericht gestellt. Ich habe die Leute, die ihn entführt haben, davon überzeugt, ihn laufen zu lassen.
+
+Ich muss mit ihm über das Geld reden, das er &lt;b&gt;Kahn&lt;b&gt; schuldet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>&lt;b&gt;Oswald&lt;b&gt; wurde von einem Kult übereifriger Woedicaner gefangen gehalten und wegen Eidbruchs vor Gericht gestellt. Ich habe Oswald vor seinem Schicksal gerettet und die Leute getötet, die ihn entführt hatten.
+
+Ich muss mit ihm über das Geld reden, das er &lt;b&gt;Kahn schuldet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>&lt;b&gt;Oswald&lt;b&gt; wurde von einem Kult übereifriger Woedicaner gefangen gehalten und wegen Eidbruchs vor Gericht gestellt. Er hat ihr Urteil nicht überlebt.
+
+Das Geld, das er &lt;b&gt;Kahn&lt;b&gt; schuldet, trägt er möglicherweise immer noch am Mann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Ich habe einen Elf namens &lt;b&gt;Oswald&lt;b&gt; gefunden, der von scheinbaren Agenten von Woedica vor Gericht gestellt wurde. Ich nehme an, dass er dies ohne meine Hilfe nicht überleben wird.
+
+Er erzählte den Agenten, dass er sie reich machen könnte. Ich könnte ihn retten und eine Belohnung fordern … oder ich könnte mir einfach das Geld von seinem Leichnam nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Der vor Gericht stehende Elf wurde von seinen Entführern getötet. Bevor er starb, erwähnte er, dass er seine Entführer reich machen könnte, wenn sie ihn laufen lassen würden.
+
+Ich sollte seinen Leichnam durchsuchen und sehen, wie viel Geld er bei sich hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>&lt;b&gt;Oswald&lt;b&gt; wurde von einem übereifrigen Kult von Woedicanern gefangen gehalten und wegen Eidbruchs vor Gericht gestellt.
+
+Ich habe Oswald gerettet und seine Entführer getötet. Ich sollte mit ihm über eine Belohnung reden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>&lt;b&gt;Oswald&lt;b&gt; wurde von einem übereifrigen Kult von Woedicanern gefangen gehalten und wegen Eidbruchs vor Gericht gestellt.
+
+Ich habe Oswalds Entführer davon überzeugt, ihn laufen zu lassen. Ich sollte mit ihm über eine Belohnung reden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>Ich habe Oswalds Leichnam durchsucht, konnte das erwähnte Geld aber nicht finden.
+
+Ich vermute, dass &lt;b&gt;Kahn&lt;b&gt; in der &lt;b&gt;Wilden Mähre&lt;b&gt; nicht erfreut sein wird, das zu erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>Ich habe mit Oswald gesprochen und festgestellt, dass er vollkommen pleite ist. Ich vermute, dass &lt;b&gt;Kahn&lt;b&gt; in der &lt;b&gt;Wilden Mähre&lt;b&gt; nicht erfreut sein wird, das zu erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10029</ID>
+      <DefaultText>Ich habe mit Oswald gesprochen und festgestellt, dass er vollkommen pleite ist. Ich vermute, dass &lt;b&gt;Kahn&lt;b&gt; in der &lt;b&gt;Wilden Mähre&lt;b&gt; nicht erfreut sein wird, das zu erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10033</ID>
+      <DefaultText>I habe &lt;b&gt;Oswald&lt;/b&gt; gefunden, der von einem Kult der Woedicanern gefangen gehalten wird. Ich könnte eingreifen und ihm helfen, oder ich könnte mir einfach nur &lt;b&gt;Kahns Geld&lt;/b&gt; von seinem Leichnam nehmen, sobald der Kult mit ihm fertig ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10035</ID>
+      <DefaultText>Oswald wurde von einem Kult übereifriger Woedicaner gefangen gehalten und wegen Eidbruchs vor Gericht gestellt. Ich bin nicht eingeschritten und Oswald ist gestorben. Wie sich herausstellte, hatte er Kahns Geld sowieso nicht.
+
+Ich muss zu &lt;b&gt;Kahn&lt;/b&gt; in der &lt;b&gt;Wilden Mähre&lt;/b&gt; zurückkehren und ihr Bescheid geben. Ich nehme an, dass sie nicht erfreut sein wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich konnte &lt;b&gt;Oswalds Entführer&lt;/b&gt; einschüchtern. Obwohl sie einverstanden waren, friedlich zu gehen, habe ich sie trotzdem alle getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Von dem, was ich aus &lt;b&gt;Oswalds Tagebuch&lt;/b&gt; erfahren habe, scheint er seit einiger Zeit verfolgt worden zu sein. Komischerweise ist der letzte Tagebucheintrag nur eine Zeichnung von Woedicas zerbrochenem Kronensymbol. &lt;b&gt;Kahn&lt;/b&gt; könnte mehr darüber wissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Obwohl &lt;b&gt;Aenalys&lt;/b&gt; mir nichts über Oswald erzählt hat, hat sie die ganze Zeit nervös auf ihren &lt;b&gt;Schrank&lt;/b&gt; geblickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Den entzündeten Kerzen auf dem Altar im Eingang der Pyramide nach zu urteilen, scheint hier vor Kurzem jemand gewesen zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe die Seele einer Person gefunden, die scheinbar von geheimnisvollen Gestalten hierher gebracht und vor Gericht gestellt wurde. Die Seele bestand darauf, dass sie unschuldig war. Vielleicht lagen die Entführer bei ihrem Opfer falsch, oder es hat sie einfach nicht interessiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Basierend auf einer Nachricht, die ich auf einem Leichnam gefunden habe, scheint jemand mit dem Namen &lt;b&gt;Inquisitor Lödwyn&lt;/b&gt; der Anführer der Gruppe zu sein, die derzeit diese Pyramide besetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe &lt;b&gt;Oswald gefunden&lt;/b&gt;. Er wurde wegen Eidbruchs vor Gericht gestellt und seine Chancen stehen schlecht. Er wird vermutlich sterben, wenn ich nicht eingreife.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Oswald vor seinen Entführern gerettet, indem ich sie alle getötet habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Oswald vor seinen Entführern gerettet, indem ich sie davon überzeugt habe, ihn gehen zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Kahn ist tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Oswald ist tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Kahn ist zum Heiligtum des Eidbinders gerannt, um Oswalds Ring zu finden. Ich bin mir nicht sicher, was mit ihr passieren wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Der Mann vor Gericht, Oswald, wurde getötet. Leider hatte er das Geld nicht, das er zu haben behauptet hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30012</ID>
+      <DefaultText>Ich habe mich auf Seiten der Woedicaner gestellt, die einen Mann namens Oswald vor Gericht gestellt haben. Er hatte das Geld nicht, das er zu haben behauptet hat, das Gericht hat mich aber für meinen Glauben entlohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Ich bin auf ein seltsames improvisiertes Gericht am Grunde des &lt;b&gt;Heiligtums des Eidbinders&lt;/b&gt; gestoßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_vtc_faction_questline\fct_qst_vtc06_no_confidence</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein Misstrauensvotum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dem Prozess als Zeuge beiwohnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Mit Direktor Castol sprechen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Mit Gouverneurin Alvari sprechen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Dem letzten Richtspruch von Nirro, Canta Nichese beiwohnen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Lueva Alvari hat eine Zusammenkunft der wichtigsten Investoren der Vailianischen Handelsgesellschaft einberufen, um Direktor Castol von seinem Posten entfernen zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der Canta Nichese wird diejenigen befragen wollen, die mit Direktor Castols jüngsten Geschäften zu tun hatten. Das schließt mich ein.
+
+Alvari bat mich, der Ratsversammlung in der Kammer des Direktors auf der oberen Etage des Hauptquartiers der Vailianischen Handelsgesellschaft beizuwohnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Direktor Castols Posten ist sicher. Jetzt, wo Lueva Alvari aus Neketaka verbannt wurde, kann sie ihm nicht weiter im Weg stehen.
+Castol wird vermutlich wissen, wie es von jetzt an weitergehen soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Castol wurde verbannt, und Lueva Alvari ist die neue Direktorin der Vailianischen Handelsgesellschaft. 
+Alvari wird vermutlich wissen, wie es von jetzt an weitergehen soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe meinen Teil beigetragen. Bleibt nur noch, abzuwarten, was aus der Führungsposition der VTG wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für den Abschluss dieser Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Die Songretta hat Alvari ins Exil verbannt und es Direktor Castol überlassen, die Übernahme Ukaizos durch die Vailianische Handelsgesellschaft voranzutreiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Die Songretta hat Castol ins Exil verbannt und an seiner Stelle Lueva Alvari zur Direktorin befördert. Sie wird von nun an die Übernahme Ukaizos vorantreiben und hat mich bereits diesbezüglich um Unterstützung gebeten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

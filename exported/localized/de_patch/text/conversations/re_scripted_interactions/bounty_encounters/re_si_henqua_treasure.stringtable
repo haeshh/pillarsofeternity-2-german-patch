@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\bounty encounters\re_si_henqua_treasure</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Gegend wirkt unscheinbar, abgesehen von einer in einer Dreiecksform angeordneten Gruppe großer Felsen. Du vergleichst den öden Wüstenpass mit den Notizen und Markierungen auf der Karte von Kapitän Henqua. Dies ist der Ort, an dem der Schatz begraben ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du gräbst, bis du mit deiner Schaufel auf einen Sack stößt, so prall mit Münzen gefüllt, dass seine Nähte zu platzen drohen. Du kniest nieder, um die Reichtümer mit beiden Armen aufzunehmen. Dabei bemerkst du die Ecke einer vergrabenen Truhe. Du gräbst schneller und brichst die Truhe auf. Ein Vermögen an Juwelen und anderen Schätzen funkelt dir entgegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

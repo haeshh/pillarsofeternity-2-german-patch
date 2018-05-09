@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_tsk_drunk_sailor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der betrunkene Seemann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Befreie Rum-Dumb Riggere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Triff dich mit Rum-Dumb Riggere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Rum-Dumb Riggere, ein im Gefängnis von Port Maje inhaftierter Seemann, hat mir angeboten, sich meiner Mannschaft anzuschließen, wenn ich ihn dort raushole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Riggere meinte, dass Kommandantin Savia ihn freilassen würde, wenn seine Strafe bezahlt wird. Leider hat er eine Strafe von 400 Pires angesammelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Nachdem er nun freigelassen wurde, will sich Rum-Dumb Riggere mit mir auf dem Markt im Hafen von Port Maje treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Riggere meinte, dass Savia die Zellenschlüssel bei sich trage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Es könnte möglich sein, das Mauerwerk um das Zellenfenster herum zu zerstören und Riggere so zu befreien. Das wäre laut, aber effektiv.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Norgund, ein Kaufmann im Obergeschoss des Krakenauges in Port Maje, handelt mit der Art von Gegenständen, die ich möglicherweise brauche, um Riggere aus seiner Zelle zu holen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe Savia umgebracht. Ich sollte nun ihrer Leiche den Zellenschlüssel abnehmen und Riggere befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe den Zellenschlüssel von Savia genommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Rum-Dumb Riggeres Strafe bezahlt und ihm seine Freiheit geschenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Rum-Dumb Riggere aus dem Gefängnis befreit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Sprengstoff benutzt, um die Gitter an Riggeres Zellenfenster zu zerstören. Er konnte im dadurch verursachten Chaos fliehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Savia umgebracht und Rum-Dumb Riggere aus dem Gefängnis befreit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Ich habe Rum-Dumb Riggere aus dem Gefängnis befreit. Er will sich draußen mit mir treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Ich habe Savia umgebracht und Rum-Dumb Riggere aus dem Gefängnis befreit. Er hat angeboten, sich meiner Mannschaft anzuschließen, wenn ich ihm helfe, von der Insel zu fliehen und sich der Verantwortung für den Tod des Wachmanns zu entziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

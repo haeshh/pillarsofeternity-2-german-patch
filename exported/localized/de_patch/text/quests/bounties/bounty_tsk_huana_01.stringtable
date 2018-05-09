@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_huana_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld – Diccila</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte &lt;b&gt;Diccila&lt;b&gt; und nimm den Triumph ihres Schiffes nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Barati&lt;b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Barati&lt;b&gt; hat mich damit beauftragt, &lt;b&gt;Diccila&lt;b&gt;, einen vailianische Kapitänin, die das Entdeckungsschiff &lt;b&gt;Alisio&lt;b&gt; kommandiert, zur Strecke zu bringen. Wenn ich beweisen kann, dass ich den Kapitän getötet habe, werde ich ein Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Diccila&lt;/b&gt; kommandiert das Entdeckungsschiff Alisio. Sie hält sich oft in den Gewässern südlich &lt;b&gt;Neketakas&lt;/b&gt; auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Diccila ist tot. &lt;b&gt;Barati&lt;/b&gt; wird mich für einen Beweis der Tat entlohnen. Er hält sich im oberen Stock des Palastes in der &lt;b&gt;Schlangenkrone&lt;/b&gt; in Neketaka auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Diccila hat ihre letzte Fahrt angetreten, und ich habe das Kopfgeld erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

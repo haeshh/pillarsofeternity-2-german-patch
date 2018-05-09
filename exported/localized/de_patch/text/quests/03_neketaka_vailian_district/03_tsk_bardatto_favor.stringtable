@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_tsk_bardatto_favor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein banges Gefühl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde Zili Valera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde Persa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Ezzali zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ezzali Bardatto ist davon überzeugt, dass die Familie Valera etwas gegen sie im Schilde führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ezzali Bardatto hat mich gebeten, Informationen über das Komplott der Valera-Familie gegen sie zu beschaffen. Sie hat vorgeschlagen, dass ich bei meinen Erkundigungen mit Zili Valera beginne. Zili ist eines der umgänglichsten Mitglieder der Familie Valera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Zili hat mich an Persa verwiesen, seinen Cousin. Er ist anscheinend oft in einer Schenke unten im Schlund anzutreffen, die den Namen 'Das Loch' trägt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich glaube, ich habe alle Informationen gefunden, die ich hier finden kann. Ich hoffe, das reicht Ezzali aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe Persa beiseite geschafft. Das könnte sich in Zukunft als nützlich erweisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ezzali meinte, dass Zili seine Laute in der Nähe eines der örtlichen Wachtürme spiele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Zili Valera ist tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für den Abschluss dieser Quest von entscheidender Bedeutung ist, wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Ezzali die Informationen beschafft, die sie haben wollte, und sie hat mich dafür gut bezahlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich hab es bei der Suche nach den Informationen für Ezzali ein wenig übertrieben. Ich glaube nicht, dass sie mich so schnell wieder um Hilfe bitten wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Ezzali von dem Plan erzählt, ihre Schatzkammer auszurauben. Ich habe ihr aber auch gesagt, dass ich nicht glaube, dass die Vernichtung der Familie Valera die richtige Reaktion darauf sei. Ich muss schnell arbeiten, wenn ich die Leute davon überzeugen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe Ezzali von dem Plan erzählt, ihre Schatzkammer auszurauben. Sie will den Spieß umdrehen. Sieht aus, als würde es sehr bald blutig werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Da die Fehde nun beigelegt wurde, hat Ezzali keine Verwendung mehr für diese Informationen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Die Familie Valera hat ihren Plan bereits in die Tat umgesetzt – und es läuft scheinbar nicht wirklich gut. Ich habe beschlossen, den Valeras dabei zu helfen, ihren Saustall aufzuräumen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

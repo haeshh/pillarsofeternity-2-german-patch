@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_si_transition_exit_pylons_destroyed</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Wasser strömt in die Ruinen. Du hast gerade noch Zeit, deinen Tauchanzug anzuziehen, bevor das Wasser dir über den Kopf steigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Auch wenn du nicht Gefahr läufst, zu ertrinken, in Sicherheit bist du auch noch nicht. Das Rumpeln tief in den Ruinen hört nicht auf, sondern wird immer stärker. Du springst aus dem Fenster gegenüber des Pylonen und beginnst, den langen Weg zurück an die Oberfläche zu deinem wartenden Schiff zu schwimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Auf halbem Weg nach oben bemerkst du, dass das Atmen immer schwieriger wird und das Gewicht deines Tauchanzugs beginnt, dich nach unten zu ziehen. Irgendetwas stimmt damit nicht mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Den Anzug ausziehen und so schnell wie möglich an die Oberfläche schwimmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Den Tauchanzug auf Schäden untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Den Helm rasch flicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Eine schnelle Überprüfung ergibt, dass Wasser durch einen Riss im Helm eindringt, was die dank Iverras Zauber zirkulierende Luftmenge verringert und den Anzug schwerer macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du schwimmst so schnell du kannst an die Oberfläche und fühlst dich schutzlos ohne den Tauchanzug. Schließlich siehst Licht über dir, gerade als schwarze Punkte vor deinen Augen erscheinen. Endlich durchbrichst du die Wasseroberfläche und schnappst nach frischer Luft, bevor du an Bord deines Schiffes kletterst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du schwimmst so schnell du kannst an die Oberfläche. Ohne den Tauchanzug fühlst du dich schutzlos. Bevor du noch das Licht über dem Ozean sehen kannst, erscheinen schwarze Punkte vor deinen Augen. Als dir schwarz vor Augen wird, schwimmst du verzweifelt noch schneller nach oben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Kaum noch bei Bewusstsein durchbrichst du die Wasseroberfläche und füllst gierig deine Lunge mit Luft, bevor du an Bord deines Schiffes kletterst – erschöpft, aber am Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ohne Zeit zu verschwenden reißt du ein Stück Stoff von deinem Anzug ab und umwickelst damit den beschädigten Helm. Es dringt zwar weiterhin Wasser ein, aber viel weniger als zuvor und es gelingt dir, unversehrt zu deinem Schiff zurückzukehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du reißt ein Stück Stoff von deinem Anzug ab und versuchst, damit den beschädigten Helm zu umwickeln. Du versuchst alles, aber das Wasser dringt weiter ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du tauchst weiter auf, aber das zunehmende Gewicht des Anzugs und der Sauerstoffmangel machen dich immer langsamer. Endlich siehst du Licht über dir. Du durchbrichst die Wasseroberfläche und kletterst an Bord deines Schiffes – völlig erschöpft, aber am Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

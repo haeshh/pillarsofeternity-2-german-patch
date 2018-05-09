@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_si_statue_temple_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Neben der versiegelten Tür befindet sich die Statue einer Frau, mit Rissen und Moos übersät. 
+
+Sie streckt ihre beiden Arme nach dir aus, aber eine ihrer Hände fehlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Die Statue inspizieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Die Muschel in die geöffneten Hand der Statue platzieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Sie sieht aus wie die Huana-Darstellung von Ondra. Ihr Gewand hängt wie Bögen aus Wasser herunter, das sich um ihre Füße wie die wogenden Gezeiten sammelt.
+
+Du untersuchst die Stelle, an der ihr eine Hand fehlt. Doch der Stein in ihrem leeren Ärmel fühlt sich glatt an, als hätte ihr Schöpfer nie eine Hand an dieser Stelle angebracht.
+
+Die Fläche ihrer einzigen Hand ist geöffnet, als erwarte sie etwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Das Geräusch von Wellen wird lauter und heftiger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Als du die Muschel einsetzt, dröhnt donnernde, erschütternde Musik einer stürmischen See aus ihr heraus.
+
+Sie verfärbt sich zu einer wortlosen Melodie, die dich an Stimmen erinnert, die von unter der Wasseroberfläche zu hören sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Als das Lied sein Crescendo erreicht, erfüllt ein tieferes Grummeln die Luft und bringt deine Knochen zum Zittern.
+
+Du nimmst die Muschel wieder an dich, als die Musik abklingt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Dir fällt auf, dass ein rauschender, flüsternder Ton aus deinem Gepäck ertönt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Es ist das Horn der Wellen. Es hört sich an, als käme eine sanfte, rauschende Welle aus der Muschel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Es ist das Horn der Tiefen. Es hört sich an, als käme eine sanfte, rauschende Welle aus der Muschel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Es sind die Muscheln – beide Hörner. Es hört sich an, als käme eine sanfte, rauschende Welle aus den Muscheln.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_quest_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Verflucht noch eins, Kapitän! Du liebäugelst mit diesem dreifach-zerschissenen, nackt-stangigen Haufen Plunder dort drüben? Das ist die Freude der Misere, der eitergestopfte Schanker von Malnaj!"
+
+Er deutet wild auf eine Halbgaleere, die in der Nähe vertäut ist. Nur zwei Mann halten an Deck Wache. Die verbleibende Mannschaft könnte unter Deck oder an Land sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich kann mir deine ganzen Piratenfreunde nicht merken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Dann lass uns mal beeilen. Das kann kein Zufall sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Malnaj! Hohekönigin, Seeteufelin des Todesfeuers! Unglücklicherweise auch die zweitbeste Schiffsjägerin der Gegend, nach meiner Wenigkeit natürlich."
+
+Er schnaubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Malnaj ist auf der Jagd nach Remaros Kopf, oder ich will noch nie auf den Wogen gesegelt sein. Wenn sie ihn vor uns findet, versenkt sie ihn, sobald sie ihn erblickt hat! Komm schon, Käpt'n!"
+
+Er hüpft auf seinen Fußballen herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Die Hure hasst mich von der Sekunde an, in der ich auf der Zauberer angeheuert hab. Remaro hat mich vor dem schlimmsten Teil ihres 'Trainings' beschützt. Als sie das Kopfgeld auf ihn ausgesetzt haben, war ich mir ziemlich sicher, dass die Rattenkönigin die erste auf der Planke sein würde!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du siehst eine blutige Wachstafel vor dir, unleserlich – abgesehen von zwei Worten: 'Udyne' und 'Remaro.' 
+
+Du findest keinen weiteren Hinweis auf Udyne, Malnaj oder Serafen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Wen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Halte deine Augen offen und sei auf der Hut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Aye-aye, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

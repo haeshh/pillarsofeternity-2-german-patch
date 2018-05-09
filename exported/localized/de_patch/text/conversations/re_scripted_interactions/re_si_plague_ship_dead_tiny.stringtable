@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_plague_ship_dead_tiny</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein Klopfen an deiner Kabinentür unterbricht dich beim Lesen. 
+
+Draußen steht [Specified 1] und blickt niedergeschlagen drein. “Käpt'n, du solltest an Deck kommen. Da ist ein Schiff am Horizont, sieht total runtergekommen aus.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“Macht die Kanonen feuerbereit. Versenkt es auf den Meeresboden.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“Ich gehe an Bord.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“Kurs beibehalten.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0] singt ein Ondritisches Klagelied, während die Kanoniere die Kanonen vorbereiten. Als ihre Lieder lauter werden, feuert die [Player Ship] eine Salve ab, die das Wrack direkt an der Wasserlinie trifft.
+
+Nachdem das Schiff in den Tiefen versunken ist, kehrt die Besatzung besonnen zu ihren Aufgaben zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Es dauert etwas, aber es gelingt dir, die Blockade zu räumen und den Frachtraum zu öffnen. Der Gestank von verwestem Fleisch dringt heraus, zusammen mit einem Schwarm schwarzer Fliegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Deine Besatzung verteilt sich unter dem Gemurmel nervöser Gebete. Die Seemänner kehren auf ihre Posten zurück. Du bemerkst, wie einige von ihnen Münzen über die Reling werfen, um Ondra gnädig zu stimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Das Schiff treibt mit Schlagseite auf den Wellen, seine Segel eingeholt. Auf dem Mast ist eine grüne Flagge gehisst, ein Zeichen dafür, dass dieses Schiff einer Seuche anheim gefallen sein muss. 
+
+Du kannst keine Bewegungen an Deck erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 1] führt dich zum Vordeck, wo sich ein paar Seemänner versammelt haben. 
+
+[Specified 0] greift nach dem heiligen Symbol unter der Kleidung. "Ein böses Omen, Kapitän. Wir sollten sie der Fürstin der Klagen übergeben, wenn wir keinen Ärger wollen. Merk dir meine Worte.”
+
+[Specified 2] kichert. “Wir wissen nicht einmal, ob sie tot sind, oder was wir auf dem Schiff finden könnten, und du willst sie gleich versenken?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Palleginas Blick schweift in die Ferne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“Niemand hat ein Signal gegeben. Selbst, wenn sich noch jemand auf diesem Schiff aufhält, könnten wir ihn wohl kaum helfen.” [Specified 3] runzelt die Stirn.
+
+“Dieses Schiff stellt eine Gefahr dar, Captain, für jeden, der seine Wege kreuzt. Ich will dir nicht vorschreiben, was du zu tun hast, aber ich würde dazu anraten, es zu versenken, bevor jemand auf die Idee kommt, an Bord zu gehen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>“Aye, Kapitän”, sagt [Specified 1] grummelig und bereitet dann das Ruderboot vor.
+
+Du ruderst hinaus zum Schiff und bindest das Boot fest. Außer dem Ächzen von Holz und dem sanften Plätschern des Meeres kannst du nichts hören.
+
+Du kletterst an Bord, und das Erste, was dich an Deck begrüßt, sind zwei Leichen in einfacher Rüstung. Das bisschen Fleisch, das sie noch hatten, ist bis auf die Knochen zurück geschrumpft, und die Sonne hat die exponierten Teile ihres Schädels völlig ausgebleicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Den Laderaum betreten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Zu deinem Schiff zurückkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die Besatzung sichert das Ruderboot nach deiner Rückkehr, aber sie halten Abstand von dir. Manche haben Lumpen um ihre Gesichter gewickelt.
+
+[Specified 0] spricht ein Gebet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ein Klopfen an deiner Kabinentür unterbricht dich beim Lesen. 
+
+Draußen steht [Specified 1] und blickt niedergeschlagen drein. “Käpt'n, du solltest an Deck kommen. Da ist ein Schiff am Horizont, sieht total runtergekommen aus.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Durch das Fernrohr schauen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du zückst dein Fernrohr und nimmst das Wrack unter die Lupe. An Deck scheint sich nichts zu bewegen, aber du entdeckst eine Leiche, die auf dem Vordeck liegt. Einige Sekunden später entdeckst du eine weitere. 
+
+Unter der Seuchenflagge entdeckst du eine weitere Flagge, auf der eine angezündete Kerze in einer offenen Tür abgebildet ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du erkennst darin das Emblem der Gütigen Wanderer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Den Schiffsartz ansprechen.] “Was denkst du, [Specified 3]?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du hoffst, dass das bedeutet, dass das, was auch immer sie auf dem Gewissen hat, nicht mehr in Umlauf ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Es gibt abgesehen von zerfetzten Segeln nicht viel mehr auf dem Deck zu entdecken, aber du kannst erkennen, dass der Eingang zum Laderaum verbarrikadiert wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Die Besatzung des Wracks hat ordentliche Arbeit geleistet. Trotz aller Bemühungen lässt sich die Luke nicht öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Mehrere Seemänner glotzen ungläubig. 
+
+[Specified 2] schüttelt grinsend den Kopf. "Unser Kapitän ist mutig, das muss man ihm lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“Macht die Kanonen feuerbereit. Versenkt es auf den Meeresboden.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>“Wenn da jemand ist, dem ich helfen kann, dann muss ich es versuchen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>“Ich will mir ein Bild von der Lage machen, bevor ich mich entscheide.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>“Es könnte da etwas Wertvolles zu holen geben.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>“Nicht lang schnacken, an die Arbeit!”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“So ein bisschen Seuche hat noch niemandem geschadet.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 2] zuckt mit den Schultern und seufzt, doch [Specified 1] nickt zustimmend.
+
+"Wie immer eine weise Entscheidung, Kapitän."
+
+Die Mannschaft steuert um das Pestschiff herum und segelt weiter, bis das dem Untergang geweihte Schiff am Horizont verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>“Das sind die Farben der Gütigen Wanderer. Wenn die Flagge der Wahrheit entspricht, dann würden sie ihr eigenes Schiff lieber versenken, als zu riskieren, die Krankheit auf andere zu übertragen.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Sie sieht nach unten, zum Deck, und leichter Anflug von Traurigkeit huscht über ihr Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Serafen schüttelt den Kopf in Richtung [Specified 2]. "Specified 1] furzt nicht aus dem Mund. Krankheit oder nicht, ein Schiff, das tot auf dem Meer treibt, bedeutet oft nichts anderes als Schwierigkeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Die Luke aufpusten und eintreten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Nach ein paar Momenten der Konzentration entfesselst du eine Welle zerstörerischer Kraft, die die Luke entzwei reißt. Eine Wolke aus Fliegen schießt heraus und hüllt das Deck einen Moment lang in Dunkelheit.
+
+Du bahnst dir deinen Weg nach unten ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Nach ein paar Momenten ruhigen Gesangs entfesselt [Specified 5]  eine Welle zerstörerischer Kraft, die die Luke entzwei reißt. Eine Wolke aus Fliegen schießt heraus und verdunkelt das Deck einen Moment lang.
+
+Du bahnst dir deinen Weg nach unten ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Du findest mehrere Leichen, die im Laderaum herumliegen. Die meisten von ihnen tragen die einfache Kleidung readceranischer Bauern, aber einer trägt eine Rüstung. Sein Gürtel zieht deine Aufmerksamkeit auf sich und du erleichterst ihn vorsichtig um diesen Gegenstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Mit was? Wir haben keine Kanonenkugeln."
+
+[Specified 2] hustet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Mein Herr."</DefaultText>
+      <FemaleText>Meine Dame.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Nachdem du eine Weile gesucht hast, findest du ein versiegeltes Fass Pech, ein paar Eimer Nägel und eine große Menge Leinen, mit der du deine Segel reparieren kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ein grausames Schicksal. Die Pest kennt keine Gnade."
+
+Palleginas goldene Augen wandern über die Leichen der Paladine und betrachten das, was von ihren Ausdrücken übrig bleibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Krankheit ist eine Tatsache des Lebens, sowohl für Getreide wie auch Völker. Ich weiß es." Aber das heißt nicht, dass es mir gefällt."
+
+Xoti schwenkt ihre Laterne über die Leichen und führt ihre Ernte schnell durch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ich hoffe, dass das, was auch immer sie auf dem Gewissen hat, nicht mehr in Umlauf ist." Aloth verdeckt seinen Mund mit einem Ärmel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Du findest mehrere Leichen, die im Laderaum herumliegen. Die meisten von ihnen tragen die einfache Kleidung readceranischer Bauern, aber einer trägt eine Rüstung – scheinbar ein anderer Paladin.
+
+Nachdem du eine Weile gesucht hast, findest du ein versiegeltes Fass Pech, ein paar Eimer Nägel und eine große Menge Leinen, mit der du deine Segel reparieren kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Es dauert etwas, aber es gelingt [Specified 5], die Blockade zu räumen und den Frachtraum zu öffnen. Der Gestank von verwestem Fleisch dringt heraus, zusammen mit einem Schwarm schwarzer Fliegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
