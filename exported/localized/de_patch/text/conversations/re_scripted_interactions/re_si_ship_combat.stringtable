@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Kampf aufnehmen] "Auf in den Kampf!"</DefaultText>
+      <DefaultText>[Kampf aufnehmen] „Auf in den Kampf!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Rückzug versuchen] "Zurückziehen!"</DefaultText>
+      <DefaultText>[Rückzug versuchen] „Zurückziehen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -35,17 +35,17 @@ Das gegnerische Schiff fällt hinter euch zurück, bis es schließlich am Horizo
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Ram"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt; "Geschwindigkeit zum Rammen aufnehmen!"</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Ram"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt;„Geschwindigkeit zum Rammen aufnehmen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Half_Sail"&gt;&lt;sprite="Inline" name="action_half_sail" tint=1&gt;&lt;/link&gt; "Auf halbe Segel!" ([ShipDuel_PlayerHalfSailDist])</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Half_Sail"&gt;&lt;sprite="Inline" name="action_half_sail" tint=1&gt;&lt;/link&gt;„Auf halbe Segel!“ ([ShipDuel_PlayerHalfSailDist])</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt; "Feuert die Kanonen am Bug!"</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt;„Feuert die Kanonen am Bug!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,7 +67,7 @@ Als sie die Segel hissen, dreht sich die [ShipDuel_PlayerShip] langsam mit dem W
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Jibe"&gt;&lt;sprite="Inline" name="action_reverse" tint=1&gt;&lt;/link&gt; "Klarmachen zum Halsen!"</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Jibe"&gt;&lt;sprite="Inline" name="action_reverse" tint=1&gt;&lt;/link&gt;„Klarmachen zum Halsen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,7 +94,7 @@ Mit ohrenbetäubendem Krachen stoßen [ShipDuel_PlayerShip] und [ShipDuel_Oppone
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Dive"&gt;&lt;sprite="Inline" name="action_dive" tint=1&gt;&lt;/link&gt; "Klarmachen zum Tauchen!"</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Dive"&gt;&lt;sprite="Inline" name="action_dive" tint=1&gt;&lt;/link&gt;„Klarmachen zum Tauchen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -177,18 +177,18 @@ Deine Takelage bricht. Losgerissene Seile peitschen durch die Luft und schlagen 
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>[Specified 0] ruft deine Mannschaft zum Kampf zusammen. "An die Kanonen! Ziel erfassen!"
+      <DefaultText>[Specified 0] ruft deine Mannschaft zum Kampf zusammen. „An die Kanonen! Ziel erfassen!“
 
 Die Kanoniere richten ihre Kanonen auf das gegnerische Schiff.
 
-"Feuer!"
+„Feuer!“
 
 Vom Kanonendeck kommt ein ohrenbetäubender Knall. Die Kanonensalve jagt direkt auf die [ShipDuel_OpponentShip] zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>[Specified 0] gibt Befehle an die Mannschaft weiter. "Bei der nächsten Aufwärtsbewegung feuern!"
+      <DefaultText>[Specified 0] gibt Befehle an die Mannschaft weiter. „Bei der nächsten Aufwärtsbewegung feuern!“
 
 Als das Schiff die Spitze einer Welle erreicht hat, feuern deine Kanoniere eine ohrenbetäubende Salve auf das gegnerische Schiff ab.</DefaultText>
       <FemaleText />
@@ -200,7 +200,7 @@ Als das Schiff die Spitze einer Welle erreicht hat, feuern deine Kanoniere eine 
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Full_Sail"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt; "Volle Kraft voraus!" ([ShipDuel_PlayerFullSailDist])</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Full_Sail"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt;„Volle Kraft voraus!“ ([ShipDuel_PlayerFullSailDist])</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -285,22 +285,22 @@ Deine Kanonensalve muss das Pulverlager getroffen haben.</DefaultText>
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Tötet den Kapitän und nehmt die Mannschaft gefangen! Wir dürfen uns diese Gelegenheit nicht entgehen lassen!"</DefaultText>
+      <DefaultText>„Tötet den Kapitän und nehmt die Mannschaft gefangen! Wir dürfen uns diese Gelegenheit nicht entgehen lassen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Benweths Kopfgeld und jede Menge Beute! Heute ist unser Glückstag!"</DefaultText>
+      <DefaultText>„Benweths Kopfgeld und jede Menge Beute! Heute ist unser Glückstag!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Bleibt beweglich! Lasst die Bastarde nicht zu nah rankommen!"</DefaultText>
+      <DefaultText>„Bleibt beweglich! Lasst die Bastarde nicht zu nah rankommen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Du kannst mir keine Angst machen! Ich bin kein Feigling!"</DefaultText>
+      <DefaultText>„Du kannst mir keine Angst machen! Ich bin kein Feigling!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -310,122 +310,122 @@ Deine Kanonensalve muss das Pulverlager getroffen haben.</DefaultText>
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Casità, meine Geschosse wünschen eine Unterredung!"</DefaultText>
+      <DefaultText>„Casità, meine Geschosse wünschen eine Unterredung!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Der Donner rollte wie Wellen auf schwarzen Meeren und sieben Mann beschritten das Deck!"</DefaultText>
+      <DefaultText>„Der Donner rollte wie Wellen auf schwarzen Meeren und sieben Mann beschritten das Deck!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Vidòrio, meine Freunde, und wir werden feiern wie zehn Landungstage!"</DefaultText>
+      <DefaultText>„Vidòrio, meine Freunde, und wir werden feiern wie zehn Landungstage!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Selbst die Kamoa-Krieger waren nicht so stark wie wir!"</DefaultText>
+      <DefaultText>„Selbst die Kamoa-Krieger waren nicht so stark wie wir!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Wir erheben uns wie Ondras Flut. Auf sie!"</DefaultText>
+      <DefaultText>„Wir erheben uns wie Ondras Flut. Auf sie!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Ekera, was für ein schönes Schiff! Was sagst du, wenn ich es dir abnehme?"</DefaultText>
+      <DefaultText>„Ekera, was für ein schönes Schiff! Was sagst du, wenn ich es dir abnehme?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"So sicher wie der Wind meine Segel füllt, soll er deine ignorieren!"</DefaultText>
+      <DefaultText>„So sicher wie der Wind meine Segel füllt, soll er deine ignorieren!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Spürst du bereits den Atem der Bleichen Ritterin in deinem Nacken? Klingt dir bereits der Ruf des Pförtners in den Ohren?"</DefaultText>
+      <DefaultText>„Spürst du bereits den Atem der Bleichen Ritterin in deinem Nacken? Klingt dir bereits der Ruf des Pförtners in den Ohren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Du wirst eine gute Beute sein!"</DefaultText>
+      <DefaultText>„Du wirst eine gute Beute sein!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Das Steuer drehen und windwärts halten! Wir dürfen ihnen keinen Vorteil geben!"</DefaultText>
+      <DefaultText>„Das Steuer drehen und windwärts halten! Wir dürfen ihnen keinen Vorteil geben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Wehe heftig, kalter Wind des Todes! Erhebe dich, dunkle Welle!"</DefaultText>
+      <DefaultText>„Wehe heftig, kalter Wind des Todes! Erhebe dich, dunkle Welle!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Deck bereit machen, ich habe Sichtkontakt!"</DefaultText>
+      <DefaultText>„Deck bereit machen, ich habe Sichtkontakt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Zeig mir, wie schlau du bist. Ich werde es hassen, enttäuscht zu werden."</DefaultText>
+      <DefaultText>„Zeig mir, wie schlau du bist. Ich werde es hassen, enttäuscht zu werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Deine Furcht läutet in meinem Kopf wie eine Glocke!"</DefaultText>
+      <DefaultText>„Deine Furcht läutet in meinem Kopf wie eine Glocke!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Das Gewicht meines Geldbeutels sagt deine Niederlage vorher!"</DefaultText>
+      <DefaultText>„Das Gewicht meines Geldbeutels sagt deine Niederlage vorher!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Ich kenne dieses Meer wie meine Westentasche. Du kannst dich nicht vor mir verstecken!"</DefaultText>
+      <DefaultText>„Ich kenne dieses Meer wie meine Westentasche. Du kannst dich nicht vor mir verstecken!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Stirb schnell, vielleicht bin ich dann rechtzeitig daheim, um zu deiner Mutter ins Bett zu steigen!"</DefaultText>
+      <DefaultText>„Stirb schnell, vielleicht bin ich dann rechtzeitig daheim, um zu deiner Mutter ins Bett zu steigen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"Gellarde! Endlich ein würdiger Gegner!"</DefaultText>
+      <DefaultText>„Gellarde! Endlich ein würdiger Gegner!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Ich werde ernten, was du gesät hast!"</DefaultText>
+      <DefaultText>„Ich werde ernten, was du gesät hast!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Doppelte Grog-Ration für den, der den Kapitän lebend fasst!"</DefaultText>
+      <DefaultText>„Doppelte Grog-Ration für den, der den Kapitän lebend fasst!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Meine Mannschaft wird dich in Stücke reißen und deine Schreie werden keinen interessieren!"</DefaultText>
+      <DefaultText>„Meine Mannschaft wird dich in Stücke reißen und deine Schreie werden keinen interessieren!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Magrans Schmiede braucht Nahrung für ihr Feuer!"</DefaultText>
+      <DefaultText>„Magrans Schmiede braucht Nahrung für ihr Feuer!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"Wir werden euch von Bug bis Heck ausplündern!"</DefaultText>
+      <DefaultText>„Wir werden euch von Bug bis Heck ausplündern!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Du bist nur ein Nagel unter unseren Hämmern!"</DefaultText>
+      <DefaultText>„Du bist nur ein Nagel unter unseren Hämmern!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -468,7 +468,7 @@ Das Schiff neigt sich unter dir und mit nicht mehr als einem Flüstern gleitet e
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>[Specified 0] gibt deine Befehle an die Mannschaft weiter. "Die Posten bemannen! Macht euch für den Aufprall bereit!"</DefaultText>
+      <DefaultText>[Specified 0] gibt deine Befehle an die Mannschaft weiter. „Die Posten bemannen! Macht euch für den Aufprall bereit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -478,7 +478,7 @@ Das Schiff neigt sich unter dir und mit nicht mehr als einem Flüstern gleitet e
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>[Specified 0] ruft durch das U-Boot. "Für stille Fahrt auftakeln! Normale Geschwindigkeit."</DefaultText>
+      <DefaultText>[Specified 0] ruft durch das U-Boot. „Für stille Fahrt auftakeln! Normale Geschwindigkeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -490,12 +490,12 @@ Es macht keinen Versuch, dich zu rufen.</DefaultText>
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>[Kampf aufnehmen] "Leichte Beute!"</DefaultText>
+      <DefaultText>[Kampf aufnehmen] „Leichte Beute!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>[Zurückziehen] "Lasst sie."</DefaultText>
+      <DefaultText>[Zurückziehen] „Lasst sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -575,7 +575,7 @@ Dein Schiff ist schneller und deine Mannschaft ist besser vorbereitet. So kannst
       <ID>213</ID>
       <DefaultText>[Specified 0] zeigt auf einen kleinen Punkt am fernen Horizont.
 
-"Kapitän, ein Schiff nähert sich."
+„Kapitän, ein Schiff nähert sich.“
 
 Du spähst zum Horizont und siehst eine unbekannte Flagge in der Brise wehen.</DefaultText>
       <FemaleText />
@@ -587,17 +587,17 @@ Du spähst zum Horizont und siehst eine unbekannte Flagge in der Brise wehen.</D
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Hold"&gt;&lt;sprite="Inline" name="action_hold" tint=1&gt;&lt;/link&gt; "Position halten!"</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Hold"&gt;&lt;sprite="Inline" name="action_hold" tint=1&gt;&lt;/link&gt;„Position halten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Turn_Port"&gt;&lt;sprite="Inline" name="action_left" tint=1&gt;&lt;/link&gt; "Hart Backbord!"</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Turn_Port"&gt;&lt;sprite="Inline" name="action_left" tint=1&gt;&lt;/link&gt;„Hart Backbord!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Turn_Starboard"&gt;&lt;sprite="Inline" name="action_right" tint=1&gt;&lt;/link&gt; "Hart Steuerbord!"</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Turn_Starboard"&gt;&lt;sprite="Inline" name="action_right" tint=1&gt;&lt;/link&gt;„Hart Steuerbord!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -652,22 +652,22 @@ Du spähst zum Horizont und siehst eine unbekannte Flagge in der Brise wehen.</D
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt; "Feuert die Kanonen achtern!"</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt;„Feuert die Kanonen achtern!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt; "Feuert die Kanonen an Backbord!"</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt;„Feuert die Kanonen an Backbord!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt; "Feuert die Kanonen an Steuerbord!"</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt;„Feuert die Kanonen an Steuerbord!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_report" tint=1&gt;&lt;/link&gt; "Berichten an ..."</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_report" tint=1&gt;&lt;/link&gt;„Berichten an …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -682,12 +682,12 @@ Du spähst zum Horizont und siehst eine unbekannte Flagge in der Brise wehen.</D
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Ram"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt; "Geschwindigkeit zum Rammen aufnehmen!"</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Ram"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt;„Geschwindigkeit zum Rammen aufnehmen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Board"&gt;&lt;sprite="Inline" name="action_board" tint=1&gt;&lt;/link&gt; "Bereitmachen zum Entern!"</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Board"&gt;&lt;sprite="Inline" name="action_board" tint=1&gt;&lt;/link&gt;„Bereitmachen zum Entern!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -702,12 +702,12 @@ Du spähst zum Horizont und siehst eine unbekannte Flagge in der Brise wehen.</D
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>[Kampf aufnehmen] "Angriff!"</DefaultText>
+      <DefaultText>[Kampf aufnehmen] „Angriff!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>[Zurückziehen] "Das ist nicht unser Kampf!"</DefaultText>
+      <DefaultText>[Zurückziehen] „Das ist nicht unser Kampf!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -811,7 +811,7 @@ Das gegnerische Schiff fällt hinter euch zurück, bis es schließlich am Horizo
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>[Zum Entern vorbereiten] "Keine Gnade! Angriff!"</DefaultText>
+      <DefaultText>[Zum Entern vorbereiten] „Keine Gnade! Angriff!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -831,7 +831,7 @@ Das gegnerische Schiff fällt hinter euch zurück, bis es schließlich am Horizo
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_BraceForImpact"&gt;&lt;sprite="Inline" name="action_brace" tint=1&gt;&lt;/link&gt; "Auf den Aufprall vorbereiten!" ([ShipDuel_BraceChance] um Verletzungen abzuweisen)</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_BraceForImpact"&gt;&lt;sprite="Inline" name="action_brace" tint=1&gt;&lt;/link&gt;„Auf den Aufprall vorbereiten!“ ([ShipDuel_BraceChance] um Verletzungen abzuweisen)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -843,7 +843,7 @@ Das gegnerische Schiff fällt hinter euch zurück, bis es schließlich am Horizo
       <ID>306</ID>
       <DefaultText>Die Mannschaft von [ShipDuel_OpponentShip] wirft sich gegen die Reling auf dem Hauptdeck und diejenigen in der Takelage binden sich am Mast fest.
 
-"Auf den Aufprall vorbereiten!" schreit ihr Bootsmann.</DefaultText>
+„Auf den Aufprall vorbereiten!“ schreit ihr Bootsmann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -929,7 +929,7 @@ Ein raues Gejohle ertönt aus den Kehlen von [ShipDuel_Opponent]s Mannschaft. [S
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>"Andererseits, wenn ich noch einmal darüber nachdenke ..."</DefaultText>
+      <DefaultText>„Andererseits, wenn ich noch einmal darüber nachdenke …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

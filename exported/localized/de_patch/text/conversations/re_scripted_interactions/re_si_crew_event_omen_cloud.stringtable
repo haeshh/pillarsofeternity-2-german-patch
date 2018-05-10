@@ -11,29 +11,29 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[Feierlich 1000 Kupferstücke über Bord werfen.] "Ich denke, wir können etwas für die Dame der Wehklage entbehren."</DefaultText>
+      <DefaultText>[Feierlich 1000 Kupferstücke über Bord werfen.] „Ich denke, wir können etwas für die Dame der Wehklage entbehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Wir haben einfach nicht das Geld dafür."</DefaultText>
+      <DefaultText>„Wir haben einfach nicht das Geld dafür.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>[Specified 0] schluckt.
 
-"Aber Kapitän, du forderst Ondra heraus ..."</DefaultText>
+„Aber Kapitän, du forderst Ondra heraus …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Zurück an die Arbeit, [Specified 0]."</DefaultText>
+      <DefaultText>„Zurück an die Arbeit, [Specified 0].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[[Specified 0] über Bord werfen.] "Wie ist das als Opfer?"</DefaultText>
+      <DefaultText>[[Specified 0] über Bord werfen.] „Wie ist das als Opfer?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -54,7 +54,7 @@ Am nächsten Tag hat sich der Wind gelegt und die Stimmung der Mannschaft ist be
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Du stürzt dich auf [Specified 0] und packst sie, bevor sie reagieren kann. Zuerst stottert sie alarmiert und protestiert dann wild schreiend, als du sie an Deck ziehst.  Die Mannschaft sieht erstaunt zu, als du [Specified 0] zur Reling schleifst und sie über Bord wirfst.</DefaultText>
+      <DefaultText>Du stürzt dich auf [Specified 0] und packst sie, bevor sie reagieren kann. Zuerst stottert sie alarmiert und protestiert dann wild schreiend, als du sie an Deck ziehst. Die Mannschaft sieht erstaunt zu, als du [Specified 0] zur Reling schleifst und sie über Bord wirfst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,12 +68,12 @@ Entsprechend deiner Anweisung steht jedes Besatzungsmitglied am Rand des Schiffs
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[Die Zeit nehmen, um die Mannschaft in deiner Zeremonie anzuleiten, um Ondras Schutz zu erbitten.] "Wir schulden ihr Respekt und wir werden ihn ihr erweisen."</DefaultText>
+      <DefaultText>[Die Zeit nehmen, um die Mannschaft in deiner Zeremonie anzuleiten, um Ondras Schutz zu erbitten.] „Wir schulden ihr Respekt und wir werden ihn ihr erweisen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[Es wissenschaftlich erklären.] "Dieser Wind ist ein natürliches Phänomen und nichts, worüber man sich Sorgen machen muss."</DefaultText>
+      <DefaultText>[Es wissenschaftlich erklären.] „Dieser Wind ist ein natürliches Phänomen und nichts, worüber man sich Sorgen machen muss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -99,36 +99,36 @@ Das Ritual kostet dich mehrere Stunden, doch am nächsten Tag hat sich der Wind 
       <ID>20</ID>
       <DefaultText>Du hörst, wie [Specified 1] gegenüber dem Rest der Mannschaft bemerkt, dass du angesichts der Summe, die du gerade über Bord geworfen hast, wohl auch deine Matrosen besser bezahlen können solltest.
 
-"Ich glaube, wir verdienen einen Anteil am Wohlstand, oder nicht, Kapitän?"
+„Ich glaube, wir verdienen einen Anteil am Wohlstand, oder nicht, Kapitän?“
 
 Die Besatzungsmitglieder blicken sich an und nicken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Natürlich tut ihr das."</DefaultText>
+      <DefaultText>„Natürlich tut ihr das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Fein. Teilt das unter euch auf, ihr Geier."</DefaultText>
+      <DefaultText>„Fein. Teilt das unter euch auf, ihr Geier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ich glaube, du verdienst es, für deine Unverschämtheit kielgeholt zu werden. Vielleicht kannst du den anderen als Lektion dienen ..."</DefaultText>
+      <DefaultText>„Ich glaube, du verdienst es, für deine Unverschämtheit kielgeholt zu werden. Vielleicht kannst du den anderen als Lektion dienen …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Als Kapitän spare ich Geld für Notfälle wie diesen auf. Willst du behaupten, dass du mit Ondra auf einer Stufe stehst?"</DefaultText>
+      <DefaultText>„Als Kapitän spare ich Geld für Notfälle wie diesen auf. Willst du behaupten, dass du mit Ondra auf einer Stufe stehst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Die übrigen Seeleute sehen [Specified 1] mit geschürzten Lippen und gerunzelter Stirn an. 
 
-"Nun, &lt;i&gt;so&lt;/i&gt; weit würde ich nicht gehen, aber du musst zugeben ..."
+„Nun, &lt;i&gt;so&lt;/i&gt; weit würde ich nicht gehen, aber du musst zugeben …“
 
 [Specified 1] fängt an, seinen Standpunkt darzulegen, aber der Rest der Mannschaft hat es sich bereits anders überlegt. Sie schütteln ihre Köpfe, murmeln vor sich hin und reiben sich den Nacken.
 
@@ -137,18 +137,18 @@ Es dauert nicht lange, bis sie beschließen, dass das Geld die Gotteslästerung 
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Verpiss dich, [Specified 1]. Geht zurück auf eure Posten, ihr alle."</DefaultText>
+      <DefaultText>„Verpiss dich, [Specified 1]. Geht zurück auf eure Posten, ihr alle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>Mit erhobenen Händen macht [Specified 1] einen Schritt zurück und lacht nervös.
 
-"Ah ... War nicht so ganz ernst gemeint. Ich meine, wir würden alle gerne besser bezahlt-"
+„Ah … War nicht so ganz ernst gemeint. Ich meine, wir würden alle gerne besser bezahlt-“
 
 Die anderen Besatzungsmitglieder weichen von euch beiden zurück.
 
-"Vergiss, dass ich gefragt habe. Tut mir leid, Kapitän. Wird nicht wieder passieren."
+„Vergiss, dass ich gefragt habe. Tut mir leid, Kapitän. Wird nicht wieder passieren.“
 
 [Specified 1] versteckt sich schnell zwischen den anderen Besatzungsmitgliedern, die geschockt, aber in Furcht vor ihrem Kapitän auf ihre Posten zurückkehren.</DefaultText>
       <FemaleText />
@@ -172,12 +172,12 @@ Niemand will die Sache weiter verfolgen, nicht einmal [Specified 1]. Auch wenn s
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>[Die Mannschaft finster anblicken] "Möchte &lt;i&gt;noch jemand&lt;/i&gt; hinterfragen, wie ich mein Schiff führe?"</DefaultText>
+      <DefaultText>[Die Mannschaft finster anblicken] „Möchte &lt;i&gt;noch jemand&lt;/i&gt; hinterfragen, wie ich mein Schiff führe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>[Manisch lachen.] "Nun, worauf wartet ihr? Lobpreist Ondra mal schön!"</DefaultText>
+      <DefaultText>[Manisch lachen.] „Nun, worauf wartet ihr? Lobpreist Ondra mal schön!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@ Am nächsten Tag hat der Wind nachgelassen und die Mannschaft ist wieder mit ihr
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Es tut mir leid. Ich kann es einfach nicht entbehren."</DefaultText>
+      <DefaultText>„Es tut mir leid. Ich kann es einfach nicht entbehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -234,7 +234,7 @@ Am nächsten Tag haben die Winde nachgelassen, aber deine Leute sind wegen der v
       <ID>41</ID>
       <DefaultText>[Specified 0] klopft kleinlaut an die Tür deiner Kajüte. Als sie eintritt, ist sie bleich und auf ihrer Stirn sind Schweißtropfen zu sehen.
 
-"Verzeih, Kapitän, aber das ist ein böser Wind, den uns Ondra da geschickt hat. Wir sind zu lange gesegelt, ohne ihr Tribut zu zollen. Sie wird uns bestimmt bestrafen, wenn wir ihr nicht geben, was ihr zusteht."
+„Verzeih, Kapitän, aber das ist ein böser Wind, den uns Ondra da geschickt hat. Wir sind zu lange gesegelt, ohne ihr Tribut zu zollen. Sie wird uns bestimmt bestrafen, wenn wir ihr nicht geben, was ihr zusteht.“
 
 Sie neigt ihren Kopf in Richtung der Luke und fordert dich auf, ihr an Deck zu folgen.</DefaultText>
       <FemaleText />
@@ -243,7 +243,7 @@ Sie neigt ihren Kopf in Richtung der Luke und fordert dich auf, ihr an Deck zu f
       <ID>42</ID>
       <DefaultText>[Specified 0] klopft kleinlaut an die Tür deiner Kajüte. Als er eintritt, ist er bleich und auf seiner Stirn sind Schweißtropfen zu sehen.
 
-"Verzeih, Kapitän, aber das ist ein böser Wind, den uns Ondra da geschickt hat. Wir sind zu lange gesegelt, ohne ihr Tribut zu zollen. Sie wird uns bestimmt bestrafen, wenn wir ihr nicht geben, was ihr zusteht."
+„Verzeih, Kapitän, aber das ist ein böser Wind, den uns Ondra da geschickt hat. Wir sind zu lange gesegelt, ohne ihr Tribut zu zollen. Sie wird uns bestimmt bestrafen, wenn wir ihr nicht geben, was ihr zusteht.“
 
 Er neigt seinen Kopf in Richtung der Luke und fordert dich auf, ihm an Deck zu folgen.</DefaultText>
       <FemaleText />
@@ -267,14 +267,14 @@ In den nächsten Tagen ist die Stimmung bestens und jedes Besatzungsmitglied bem
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Nun, ein wenig ist besser als gar nichts. Danke, Kapitän."
+      <DefaultText>„Nun, ein wenig ist besser als gar nichts. Danke, Kapitän.“
 
 Die Mannschaft verteilt den Beutel Münzen sorgfältig und scheint mit der Geste einigermaßen zufrieden, als sie wieder an die Arbeit gehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Du stürzt dich auf [Specified 0] und packst ihn, bevor er reagieren kann. Zuerst stottert er alarmiert und protestiert dann wild schreiend, als du ihn an Deck ziehst.  Die Mannschaft sieht erstaunt zu, als du [Specified 0] zur Reling schleifst und ihn über Bord wirfst.</DefaultText>
+      <DefaultText>Du stürzt dich auf [Specified 0] und packst ihn, bevor er reagieren kann. Zuerst stottert er alarmiert und protestiert dann wild schreiend, als du ihn an Deck ziehst. Die Mannschaft sieht erstaunt zu, als du [Specified 0] zur Reling schleifst und ihn über Bord wirfst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -284,22 +284,22 @@ Die Mannschaft verteilt den Beutel Münzen sorgfältig und scheint mit der Geste
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Heiliges Kanonenrohr, Kapitän Wächter, sieht so aus, als würdest du es darauf anlegen, dass sie eine Meuterei anzetteln ..." Serafen murmelt vor sich hin und sein Blick streift über die Mannschaft.</DefaultText>
-      <FemaleText>"Heiliges Kanonenrohr, Kapitän Wächterin, sieht so aus, als würdest du es darauf anlegen, dass sie eine Meuterei anzetteln ..." Serafen murmelt vor sich hin und sein Blick streift über die Mannschaft.</FemaleText>
+      <DefaultText>„Heiliges Kanonenrohr, Kapitän Wächter, sieht so aus, als würdest du es darauf anlegen, dass sie eine Meuterei anzetteln …“ Serafen murmelt vor sich hin und sein Blick streift über die Mannschaft.</DefaultText>
+      <FemaleText>„Heiliges Kanonenrohr, Kapitän Wächterin, sieht so aus, als würdest du es darauf anlegen, dass sie eine Meuterei anzetteln …“ Serafen murmelt vor sich hin und sein Blick streift über die Mannschaft.</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Pallegina schreit hinter dir her, "Bist du verrückt geworden?! Was soll das bringen?"</DefaultText>
+      <DefaultText>Pallegina schreit hinter dir her, „Bist du verrückt geworden?! Was soll das bringen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Wir &lt;i&gt;werden&lt;/i&gt; ihnen entgegenkommen ... oder?"</DefaultText>
+      <DefaultText>„Wir &lt;i&gt;werden&lt;/i&gt; ihnen entgegenkommen … oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Das mag ja dein Schiff sein, aber wenn du es weiter so führst, wird es nicht lange dauern, bis es dir die Mannschaft mit gleicher Münze zurückzahlt." Edér schüttelt den Kopf.</DefaultText>
+      <DefaultText>„Das mag ja dein Schiff sein, aber wenn du es weiter so führst, wird es nicht lange dauern, bis es dir die Mannschaft mit gleicher Münze zurückzahlt.“ Edér schüttelt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

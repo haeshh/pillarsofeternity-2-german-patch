@@ -15,7 +15,7 @@ Deine Mannschaft versammelt sich und flüstert mit leiser, aufgeregter Stimme.</
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Bereitet ein Boot vor." Wir müssen hinrudern und am Rumpf hochklettern."</DefaultText>
+      <DefaultText>„Bereitet ein Boot vor.“ Wir müssen hinrudern und am Rumpf hochklettern.„</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -32,7 +32,7 @@ Deine Mannschaft versammelt sich und flüstert mit leiser, aufgeregter Stimme.</
       <ID>5</ID>
       <DefaultText>Die Mannschaft murmelt etwas und verteilt sich. [Specified 0] scharrt mit einem Stiefel über das Deck und blickt [Specified 1] und [Specified 2] finster hinterher.
 
-"War vielleicht etwas Gutes. Schadet nie, mal nachzusehen." [Specified 0] zuckt mit den Schultern.</DefaultText>
+„War vielleicht etwas Gutes. Schadet nie, mal nachzusehen.“ [Specified 0] zuckt mit den Schultern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@ Sobald das Schiff anlegt, setzt du deine Kletterpartie fort und erreichst das si
 
 [Specified 0] staunt.
 
-[Specified 2] dreht sich halb um. "Deshalb ist [Player Name] der Kapitän."
+[Specified 2] dreht sich halb um. „Deshalb ist [Player Name] der Kapitän.“
 
 [Specified 0]s Gesicht verfinstert sich.</DefaultText>
       <FemaleText />
@@ -60,11 +60,11 @@ Sobald das Schiff anlegt, setzt du deine Kletterpartie fort und erreichst das si
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[Specified 0] eilt an die Reling. "Kapitän, das ist ein Gabenbringer-Schiff! Man kann nicht sagen, welche Schätze sich darauf befinden."
+      <DefaultText>[Specified 0] eilt an die Reling. „Kapitän, das ist ein Gabenbringer-Schiff! Man kann nicht sagen, welche Schätze sich darauf befinden.“
 
-[Specified 1] schnaubt. "Gabenbringer führen sentimentalen Krimskrams mit sich. Nutzloses Zeug. Nein, das ist das Schiff eines Schmugglers. Es ist eine klassische Tarnung."
+[Specified 1] schnaubt. „Gabenbringer führen sentimentalen Krimskrams mit sich. Nutzloses Zeug. Nein, das ist das Schiff eines Schmugglers. Es ist eine klassische Tarnung.“
 
-[Specified 2] spuckt ins Wasser. "Dann ist es eine verdammt dumme Tarnung. Gabenbringer besuchen nur Siedlungen, die von Land umgeben sind. Das ist eine Falle."</DefaultText>
+[Specified 2] spuckt ins Wasser. „Dann ist es eine verdammt dumme Tarnung. Gabenbringer besuchen nur Siedlungen, die von Land umgeben sind. Das ist eine Falle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,12 +96,12 @@ Du schiebst sie zur Seite und findest darunter eine Falltür. Darin ist eine kle
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[Specified 4] sieht sich um und schiebt dann eine Kiste mit Krimskrams zur Seite ... und findet darunter eine Falltür. Darin ist eine kleine Truhe, randvoll mit Goldmünzen.</DefaultText>
+      <DefaultText>[Specified 4] sieht sich um und schiebt dann eine Kiste mit Krimskrams zur Seite … und findet darunter eine Falltür. Darin ist eine kleine Truhe, randvoll mit Goldmünzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Wie war das mit den Gabenbringern, [Specified 1]?"</DefaultText>
+      <DefaultText>„Wie war das mit den Gabenbringern, [Specified 1]?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@ Du schiebst sie zur Seite und findest darunter eine Falltür. Darin ist eine kle
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[Specified 1] sieht nachdenklich auf das Wrack. "Wollte dich nicht beleidigen, Kapitän, aber die Diener Ondras sammeln Dinge, die die Leute vergessen wollen, um sie der See zu übergeben. Alles, was die Gabenbringer mit sich führen, ist per Definition etwas, das keiner will."</DefaultText>
+      <DefaultText>[Specified 1] sieht nachdenklich auf das Wrack. „Wollte dich nicht beleidigen, Kapitän, aber die Diener Ondras sammeln Dinge, die die Leute vergessen wollen, um sie der See zu übergeben. Alles, was die Gabenbringer mit sich führen, ist per Definition etwas, das keiner will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,24 +121,24 @@ Du schiebst sie zur Seite und findest darunter eine Falltür. Darin ist eine kle
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Irgendwelche Ideen?"</DefaultText>
+      <DefaultText>„Irgendwelche Ideen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Das Schiff fällt auseinander, Kapitän. Du kannst nichts mehr für das Schiff tun. Die See soll sich holen, was ihr zusteht." 
+      <DefaultText>„Das Schiff fällt auseinander, Kapitän. Du kannst nichts mehr für das Schiff tun. Die See soll sich holen, was ihr zusteht.“ 
 
 Maia zuckt mit den Schultern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ist keine Falle, Kapitän. Das Schiff ist dafür zu demoliert. Das Schiff ist auch dafür zu demoliert, um nach Bergungsgut zu suchen." Serafen kratzt sich am Hinterkopf als er das Schiff betrachtet.</DefaultText>
+      <DefaultText>„Ist keine Falle, Kapitän. Das Schiff ist dafür zu demoliert. Das Schiff ist auch dafür zu demoliert, um nach Bergungsgut zu suchen.“ Serafen kratzt sich am Hinterkopf als er das Schiff betrachtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Die Schiffe der Gabenbringer sind in der Tat selten. Ich habe nicht gehört, dass eins vermisst wird ..." 
+      <DefaultText>„Die Schiffe der Gabenbringer sind in der Tat selten. Ich habe nicht gehört, dass eins vermisst wird …“ 
 
 Tekēhu zieht sich an den Haaren und denkt nach.</DefaultText>
       <FemaleText />
@@ -214,7 +214,7 @@ Du schiebst sie zur Seite und findest darunter eine Falltür. Darin ist eine kle
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[Specified 4] pfeift. "Schmuggler letzten Endes."</DefaultText>
+      <DefaultText>[Specified 4] pfeift. „Schmuggler letzten Endes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -234,14 +234,14 @@ Du schiebst sie zur Seite und findest darunter eine Falltür. Darin ist eine kle
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Aloth reibt sich das Kinn. "Ich habe Gerüchte gehört, dass manche Gabenbringer im Nebenerwerb als Schmuggler tätig sind. 
+      <DefaultText>Aloth reibt sich das Kinn. „Ich habe Gerüchte gehört, dass manche Gabenbringer im Nebenerwerb als Schmuggler tätig sind. 
 
-"Möglicherweise hatten sie etwas von Wert dabei."</DefaultText>
+“Möglicherweise hatten sie etwas von Wert dabei.„</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Meine Sichel schneidet durch Schmuggler genauso einfach durch wie durch Gestandene. Einfacher vielleicht."
+      <DefaultText>„Meine Sichel schneidet durch Schmuggler genauso einfach durch wie durch Gestandene. Einfacher vielleicht.“
 
 Xoti leckt über ihre Oberlippe und betrachtet das scheinbar gestrandete Boot.</DefaultText>
       <FemaleText />
@@ -253,28 +253,28 @@ Xoti leckt über ihre Oberlippe und betrachtet das scheinbar gestrandete Boot.</
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Macht die Kanonen bereit. Die Kanoniere brauchen die Übung."</DefaultText>
+      <DefaultText>„Macht die Kanonen bereit. Die Kanoniere brauchen die Übung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Mit was? Wir haben keine Kanonenkugeln."
+      <DefaultText>„Mit was? Wir haben keine Kanonenkugeln.“
 
 [Specified 2] hustet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>[Specified 2] schüttelt seufzend den Kopf. "Oder wir könnten die Beute einfach versenken, vermute ich mal."
+      <DefaultText>[Specified 2] schüttelt seufzend den Kopf. „Oder wir könnten die Beute einfach versenken, vermute ich mal.“
 
-[Specified 1] nickt. "Aye, Kapitän."
+[Specified 1] nickt. „Aye, Kapitän.“
 
 [Specified 0] brüllt Befehle, und die Mannschaft begibt sich daran, die Kanonen unter Deck bereit zu machen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Mein Herr."</DefaultText>
+      <DefaultText>„Mein Herr.“</DefaultText>
       <FemaleText>Meine Dame.</FemaleText>
     </Entry>
     <Entry>
@@ -290,12 +290,12 @@ Deine Mannschaft unter Deck stampft mit den Füßen und jubelt.</DefaultText>
 
 Die Mannschaft zuckt angesichts der eigenen Unfähigkeit zusammen.
 
-[Specified 0] schaut zu dir. "Noch einmal, Kapitän?"</DefaultText>
+[Specified 0] schaut zu dir. „Noch einmal, Kapitän?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Noch eine Salve feuern! Und dieses Mal solltet ihr das verdammt Ding auch treffen!"</DefaultText>
+      <DefaultText>„Noch eine Salve feuern! Und dieses Mal solltet ihr das verdammt Ding auch treffen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -307,14 +307,14 @@ Deine Mannschaft unter Deck stampft mit den Füßen und jubelt.</DefaultText>
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Die Kanonen feuern erneut ... und verfehlen ihr Ziel erneut.
+      <DefaultText>Die Kanonen feuern erneut … und verfehlen ihr Ziel erneut.
 
-[Specified 0] seufzt. "Befehle?"</DefaultText>
+[Specified 0] seufzt. „Befehle?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Versenkt das verdammte Schiff!"</DefaultText>
+      <DefaultText>„Versenkt das verdammte Schiff!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,7 +326,7 @@ Deine Mannschaft unter Deck stampft mit den Füßen und jubelt.</DefaultText>
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Nein. Steuere uns hier heraus."</DefaultText>
+      <DefaultText>„Nein. Steuere uns hier heraus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
