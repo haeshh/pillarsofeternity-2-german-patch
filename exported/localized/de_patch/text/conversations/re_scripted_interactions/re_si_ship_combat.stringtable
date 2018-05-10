@@ -35,17 +35,17 @@ Das gegnerische Schiff fällt hinter euch zurück, bis es schließlich am Horizo
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_Ram“&gt;&lt;sprite=„Inline“ name=„action_full_sail“ tint=1&gt;&lt;/link&gt; „Geschwindigkeit zum Rammen aufnehmen!“</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Ram"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt;„Geschwindigkeit zum Rammen aufnehmen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_Half_Sail“&gt;&lt;sprite=„Inline“ name=„action_half_sail“ tint=1&gt;&lt;/link&gt; „Auf halbe Segel!“ ([ShipDuel_PlayerHalfSailDist])</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Half_Sail"&gt;&lt;sprite="Inline" name="action_half_sail" tint=1&gt;&lt;/link&gt;„Auf halbe Segel!“ ([ShipDuel_PlayerHalfSailDist])</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_FireCannons“&gt;&lt;sprite=„Inline“ name=„action_fire“ tint=1&gt;&lt;/link&gt; „Feuert die Kanonen am Bug!“</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt;„Feuert die Kanonen am Bug!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,7 +67,7 @@ Als sie die Segel hissen, dreht sich die [ShipDuel_PlayerShip] langsam mit dem W
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_Jibe“&gt;&lt;sprite=„Inline“ name=„action_reverse“ tint=1&gt;&lt;/link&gt; „Klarmachen zum Halsen!“</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Jibe"&gt;&lt;sprite="Inline" name="action_reverse" tint=1&gt;&lt;/link&gt;„Klarmachen zum Halsen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,7 +94,7 @@ Mit ohrenbetäubendem Krachen stoßen [ShipDuel_PlayerShip] und [ShipDuel_Oppone
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_Dive“&gt;&lt;sprite=„Inline“ name=„action_dive“ tint=1&gt;&lt;/link&gt; „Klarmachen zum Tauchen!“</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Dive"&gt;&lt;sprite="Inline" name="action_dive" tint=1&gt;&lt;/link&gt;„Klarmachen zum Tauchen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,12 +195,12 @@ Als das Schiff die Spitze einer Welle erreicht hat, feuern deine Kanoniere eine 
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>&lt;sprite=„Inline“ name=„action_full_sail“ tint=1&gt; „Segel voll öffnen!“</DefaultText>
+      <DefaultText>&lt;sprite="Inline" name="action_full_sail" tint=1&gt; "Segel voll öffnen!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_Full_Sail“&gt;&lt;sprite=„Inline“ name=„action_full_sail“ tint=1&gt;&lt;/link&gt; „Volle Kraft voraus!“ ([ShipDuel_PlayerFullSailDist])</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Full_Sail"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt;„Volle Kraft voraus!“ ([ShipDuel_PlayerFullSailDist])</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -587,17 +587,17 @@ Du spähst zum Horizont und siehst eine unbekannte Flagge in der Brise wehen.</D
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_Hold“&gt;&lt;sprite=„Inline“ name=„action_hold“ tint=1&gt;&lt;/link&gt; „Position halten!“</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Hold"&gt;&lt;sprite="Inline" name="action_hold" tint=1&gt;&lt;/link&gt;„Position halten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_Turn_Port“&gt;&lt;sprite=„Inline“ name=„action_left“ tint=1&gt;&lt;/link&gt; „Hart Backbord!“</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Turn_Port"&gt;&lt;sprite="Inline" name="action_left" tint=1&gt;&lt;/link&gt;„Hart Backbord!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_Turn_Starboard“&gt;&lt;sprite=„Inline“ name=„action_right“ tint=1&gt;&lt;/link&gt; „Hart Steuerbord!“</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Turn_Starboard"&gt;&lt;sprite="Inline" name="action_right" tint=1&gt;&lt;/link&gt;„Hart Steuerbord!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -652,22 +652,22 @@ Du spähst zum Horizont und siehst eine unbekannte Flagge in der Brise wehen.</D
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_FireCannons“&gt;&lt;sprite=„Inline“ name=„action_fire“ tint=1&gt;&lt;/link&gt; „Feuert die Kanonen achtern!“</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt;„Feuert die Kanonen achtern!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_FireCannons“&gt;&lt;sprite=„Inline“ name=„action_fire“ tint=1&gt;&lt;/link&gt; „Feuert die Kanonen an Backbord!“</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt;„Feuert die Kanonen an Backbord!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_FireCannons“&gt;&lt;sprite=„Inline“ name=„action_fire“ tint=1&gt;&lt;/link&gt; „Feuert die Kanonen an Steuerbord!“</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt;„Feuert die Kanonen an Steuerbord!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_FireCannons“&gt;&lt;sprite=„Inline“ name=„action_report“ tint=1&gt;&lt;/link&gt; „Berichten an …“</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_report" tint=1&gt;&lt;/link&gt;„Berichten an …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -682,12 +682,12 @@ Du spähst zum Horizont und siehst eine unbekannte Flagge in der Brise wehen.</D
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_Ram“&gt;&lt;sprite=„Inline“ name=„action_full_sail“ tint=1&gt;&lt;/link&gt; „Geschwindigkeit zum Rammen aufnehmen!“</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Ram"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt;„Geschwindigkeit zum Rammen aufnehmen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_Board“&gt;&lt;sprite=„Inline“ name=„action_board“ tint=1&gt;&lt;/link&gt; „Bereitmachen zum Entern!“</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Board"&gt;&lt;sprite="Inline" name="action_board" tint=1&gt;&lt;/link&gt;„Bereitmachen zum Entern!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -831,7 +831,7 @@ Das gegnerische Schiff fällt hinter euch zurück, bis es schließlich am Horizo
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>&lt;link=„glossary://GlossaryEntry_Action_BraceForImpact“&gt;&lt;sprite=„Inline“ name=„action_brace“ tint=1&gt;&lt;/link&gt; „Auf den Aufprall vorbereiten!“ ([ShipDuel_BraceChance] um Verletzungen abzuweisen)</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_BraceForImpact"&gt;&lt;sprite="Inline" name="action_brace" tint=1&gt;&lt;/link&gt;„Auf den Aufprall vorbereiten!“ ([ShipDuel_BraceChance] um Verletzungen abzuweisen)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -868,7 +868,7 @@ Das gegnerische Schiff fällt hinter euch zurück, bis es schließlich am Horizo
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>&lt;sprite=„Inline“ name=„ic_ship_surrender“ tint=1&gt;[Sich ergeben.]</DefaultText>
+      <DefaultText>&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt;[Sich ergeben.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
