@@ -841,7 +841,7 @@
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Frisst die Seele des Ziels auf, verursacht Korrosionsschaden und wandelt diese Essenz in Ausdauer für den Zauberwirker um.</DefaultText>
+      <DefaultText>Frisst die Seele des Ziels auf, verursacht Zersetzungsschaden und wandelt diese Essenz in Ausdauer für den Zauberwirker um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -881,7 +881,7 @@
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>Speit eine schädliche Wolke aus ranziger Fäule hervor, die jeden krank macht, der sich darin befindet, wodurch ein geringer Korrosionsschaden verursacht wird.</DefaultText>
+      <DefaultText>Speit eine schädliche Wolke aus ranziger Fäule hervor, die jeden krank macht, der sich darin befindet, wodurch ein geringer Zersetzungsschaden verursacht wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -891,7 +891,7 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Erzeugt eine giftige physikalische Manifestation der gegenseitigen Antipathie zwischen dem Medium und dem feindlichen Ziel. Jeder, der zwischen die beiden gerät, erleidet Korrosionsschaden.</DefaultText>
+      <DefaultText>Erzeugt eine giftige physikalische Manifestation der gegenseitigen Antipathie zwischen dem Medium und dem feindlichen Ziel. Jeder, der zwischen die beiden gerät, erleidet Zersetzungsschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1421,7 +1421,7 @@
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>Erzeugt einen Energieball in der Hand des Zauberwirkers, der auf einen Feind geschleudert werden kann und somit jedem im Wirkungsbereich Verbrennungs-, Frost-, Korrosions- oder Elektroschockschaden zufügt – die Fäule wird kontinuierlich genährt, bis der Zauber endet.</DefaultText>
+      <DefaultText>Erzeugt einen Energieball in der Hand des Zauberwirkers, der auf einen Feind geschleudert werden kann und somit jedem im Wirkungsbereich Verbrennungs-, Frost-, Zersetzungs- oder Elektroschockschaden zufügt – die Fäule wird kontinuierlich genährt, bis der Zauber endet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1766,7 +1766,7 @@
     </Entry>
     <Entry>
       <ID>521</ID>
-      <DefaultText>Erzeugt einen Kegel der Fäulnis, der allen im Wirkungsbereich umgehend Korrosionsschaden und weiteren Zeitschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen Kegel der Fäulnis, der allen im Wirkungsbereich umgehend Zersetzungsschaden und weiteren Zeitschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2706,7 +2706,7 @@
     </Entry>
     <Entry>
       <ID>838</ID>
-      <DefaultText>Erzeugt faulende, von Krankheit gebeutelte Schädel in der Hand des Zauberwirkers, die als Fernkampfwaffe dienen, Schmetterschaden zufügen und einen krankheitsbasierten Korrosionswirkungsbereich erzeugen, der Zeitschaden verursacht.</DefaultText>
+      <DefaultText>Erzeugt faulende, von Krankheit gebeutelte Schädel in der Hand des Zauberwirkers, die als Fernkampfwaffe dienen, Schmetterschaden zufügen und einen krankheitsbasierten Zersetzungswirkungsbereich erzeugen, der Zeitschaden verursacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6752,7 +6752,7 @@ Höllenläufer-Mönche erleiden mehr Schaden mit jeder Wunde, die ihnen zugefüg
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Beschaffe dir die Flammen der Hingabe.
 
-Die Flammen der Hingabe verursachen zusätzlichen Korrosionsschaden (Schwarze Flammen) und verursachen bei den Zielen die Erkrankungs-Wirkung.</DefaultText>
+Die Flammen der Hingabe verursachen zusätzlichen Zersetzungsschaden (Schwarze Flammen) und verursachen bei den Zielen die Erkrankungs-Wirkung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8613,7 +8613,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2651</ID>
-      <DefaultText>(Toxischer Schlag) - Verursacht auch Korrosionsschaden über Zeit, der umso stärker wird, je länger er aktiv bleibt.</DefaultText>
+      <DefaultText>(Toxischer Schlag) - Verursacht auch Zersetzungsschaden über Zeit, der umso stärker wird, je länger er aktiv bleibt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8823,7 +8823,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2695</ID>
-      <DefaultText>(Schädliche Wolke) - Erhöht Größe und Dauer der Wolke und fügt Korrosionsschaden über Zeit hinzu.</DefaultText>
+      <DefaultText>(Schädliche Wolke) - Erhöht Größe und Dauer der Wolke und fügt Zersetzungsschaden über Zeit hinzu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8843,7 +8843,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2699</ID>
-      <DefaultText>Löst einen Effekt aus, der Gegnern im Bereich Reinen Schaden zufügt. Diejenigen, die dem Tode nahe sind, können explodieren und verursachen Korrosionsschaden an Gegnern in der Nähe.</DefaultText>
+      <DefaultText>Löst einen Effekt aus, der Gegnern im Bereich Reinen Schaden zufügt. Diejenigen, die dem Tode nahe sind, können explodieren und verursachen Zersetzungsschaden an Gegnern in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9539,7 +9539,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2843</ID>
-      <DefaultText>Die eigene Haut des Ziels frisst sie langsam auf und versetzt ihm in hohem Umfang Korrosionsschaden über einen längeren Zeitraum. Außerdem wird das Ziel geschwächt und eine Heilung wird verhindert.</DefaultText>
+      <DefaultText>Die eigene Haut des Ziels frisst sie langsam auf und versetzt ihm in hohem Umfang Zersetzungsschaden über einen längeren Zeitraum. Außerdem wird das Ziel geschwächt und eine Heilung wird verhindert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9559,7 +9559,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2847</ID>
-      <DefaultText>Feuere eine Reihe unberechenbarer Geschosse auf einen Bereich ab. Diese Geschosse geben beim Aufprall Schockwellen ab, die in einem kleinen Bereich Zerschmetterungs-/Korrosionsschaden hervorrufen.</DefaultText>
+      <DefaultText>Feuere eine Reihe unberechenbarer Geschosse auf einen Bereich ab. Diese Geschosse geben beim Aufprall Schockwellen ab, die in einem kleinen Bereich Zerschmetterungs-/Zersetzungsschaden hervorrufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10980,7 +10980,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>3252</ID>
-      <DefaultText>Verschaffe den magischen Geschossen des arkanen Zerstörers eine Superladung. Dadurch verursacht jeder Schuss zusätzlichen Zerschmetterungs-/Korrosionsschaden. Dies geht auf Kosten der Geschwindigkeit beim Nachladen. Zusätzliche Zauber können zusätzliche Wirkungen hervorrufen.</DefaultText>
+      <DefaultText>Verschaffe den magischen Geschossen des arkanen Zerstörers eine Superladung. Dadurch verursacht jeder Schuss zusätzlichen Zerschmetterungs-/Zersetzungsschaden. Dies geht auf Kosten der Geschwindigkeit beim Nachladen. Zusätzliche Zauber können zusätzliche Wirkungen hervorrufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11786,7 +11786,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3429</ID>
-      <DefaultText>Der Träger ist immun gegen Korrosionsschaden, wenn er so sehr verletzt wurde, dass Blut fließt, oder dem Tode nahe ist.</DefaultText>
+      <DefaultText>Der Träger ist immun gegen Zersetzungsschaden, wenn er so sehr verletzt wurde, dass Blut fließt, oder dem Tode nahe ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13181,7 +13181,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3758</ID>
-      <DefaultText>Während Concelhauts Schädel dir folgt, erhält deine Gruppe einen Bonus auf den ausgeteilten Korrosionsschaden.</DefaultText>
+      <DefaultText>Während Concelhauts Schädel dir folgt, erhält deine Gruppe einen Bonus auf den ausgeteilten Zersetzungsschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16004,7 +16004,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4507</ID>
-      <DefaultText>Wirft einen vergifteten Pfeil auf ein nahes Ziel, teilt Stichschaden aus und wendet einen anhaltenden Korrosionsschaden über Zeit an.</DefaultText>
+      <DefaultText>Wirft einen vergifteten Pfeil auf ein nahes Ziel, teilt Stichschaden aus und wendet einen anhaltenden Zersetzungsschaden über Zeit an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
