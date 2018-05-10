@@ -18,7 +18,7 @@ Das Geplapper deiner Mannschaft wird dunkler und nimmt einen unheilvollen Ton an
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Wir lassen die Kreatur in Frieden ziehen.”</DefaultText>
+      <DefaultText>„Wir lassen die Kreatur in Frieden ziehen.”“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,26 +48,26 @@ Am Morgen ist sie verschwunden, aber das Gefühl der Ruhe, das sie mit sich brac
       <ID>12</ID>
       <DefaultText>Eine lange, bleiche Kreatur kommt an die Wasseroberfläche. Ihre Haut ist lichtdurchlässig und phosphoreszierend gepunktet. Du kannst die gespenstischen Umrisse leuchtender Organe darunter erkennen. Die Kreatur schwimmt langsam und starrt dich mit einem leuchtenden blauen Auge an. Der Nerv hinter ihrem Auge ist so dick wie ein Tau.
 
-[Specified 0] lächelt. "Diese hier ist noch jung."</DefaultText>
+[Specified 0] lächelt. „Diese hier ist noch jung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[Specified 1] lehnt sich über die Reling. "Kein Mangel an Fleisch an dieser Bestie. Davon könnten wir uns tagelang satt essen. Wenn der Kapitän es erlaubt." [Specified 1] lächelt hoffnungsfroh. 
+      <DefaultText>[Specified 1] lehnt sich über die Reling. „Kein Mangel an Fleisch an dieser Bestie. Davon könnten wir uns tagelang satt essen. Wenn der Kapitän es erlaubt.“ [Specified 1] lächelt hoffnungsfroh. 
 
 Andere murmeln in eifriger Zustimmung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[Specified 2] grinst heftig. "Ein Steinbruch, der Galawain selbst würdig wäre. Das wird eine spannende Hatz, Kapitän!”
+      <DefaultText>[Specified 2] grinst heftig. „Ein Steinbruch, der Galawain selbst würdig wäre. Das wird eine spannende Hatz, Kapitän!”
 
 [Specified 1] nickt und lächelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[Specified 0] weicht schockiert zurück. "Du würdest einen von Ondras Boten töten? Und diesen Segen sinnlos verschwenden?"</DefaultText>
+      <DefaultText>[Specified 0] weicht schockiert zurück. „Du würdest einen von Ondras Boten töten? Und diesen Segen sinnlos verschwenden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -79,7 +79,7 @@ Der Strick von der Harpune zum Boot strafft sich, als der Wal das Boot mit sich 
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Sie taucht ab!" ruft [Specified 3]. 
+      <DefaultText>„Sie taucht ab!“ ruft [Specified 3]. 
 
 Mit hoch erhobenem Beil springt [Specified 1] nach vorn, als der Wal den Bug des Bootes unter Wasser zieht.</DefaultText>
       <FemaleText />
@@ -88,7 +88,7 @@ Mit hoch erhobenem Beil springt [Specified 1] nach vorn, als der Wal den Bug des
       <ID>21</ID>
       <DefaultText>Die wunderbare Kreatur kehrt schon bald in die Tiefe zurück.
 
-[Specified 0] sieht entsetzt dabei zu. "So bald schon, und ohne ein Lied? Das ist in der Tat ein schlechtes Zeichen."
+[Specified 0] sieht entsetzt dabei zu. „So bald schon, und ohne ein Lied? Das ist in der Tat ein schlechtes Zeichen.“
 
 Die Mannschaft murmelt leise vor sich hin.</DefaultText>
       <FemaleText />
@@ -100,31 +100,31 @@ Die Mannschaft murmelt leise vor sich hin.</DefaultText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Was in Waels Namen ist das?"</DefaultText>
+      <DefaultText>„Was in Waels Namen ist das?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Kanonen zum Feuern bereit machen! Alle Mann auf Gefechtsstationen!"</DefaultText>
+      <DefaultText>„Kanonen zum Feuern bereit machen! Alle Mann auf Gefechtsstationen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Dreh ab und bring uns hier raus!"</DefaultText>
+      <DefaultText>„Dreh ab und bring uns hier raus!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>Die bewegte See erstreckt sich bis zum Horizont, dunkelblaue Wellen haben schaumige weiße Kronen.
 
-"Kapitän!" schreit [Specified 3] aus der Takelage. "Da ist etwas im Wasser auf Backbord!”</DefaultText>
+„Kapitän!“ schreit [Specified 3] aus der Takelage. „Da ist etwas im Wasser auf Backbord!”</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Das Schiff schwimmt auf einer großen Welle hoch, bevor es in das nächste Tal hinunter rauscht. [Specified 0] hält sich an der Reling fest und ruft Befehle vom Achterdeck herunter, als sich Wasser auf das Deck ergießt.
 
-[Specified 3] zeigt auf die raue See. "Etwas voraus im Wasser!"</DefaultText>
+[Specified 3] zeigt auf die raue See. „Etwas voraus im Wasser!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -139,14 +139,14 @@ Die Mannschaft murmelt leise vor sich hin.</DefaultText>
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ein Strahlendes Phantom! Wir könnten kein besseres Omen erbeten haben als diese Schönheit!"
+      <DefaultText>„Ein Strahlendes Phantom! Wir könnten kein besseres Omen erbeten haben als diese Schönheit!“
 
 Tekēhu legt seine Hände zusammen und lässt einen tiefen, musikalischen Ruf ertönen, der sich auf dem Wasser ausbreitet. Der Wal antwortet mit einer majestätischen Wasserfontäne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[Specified 5] sieht die wachsende Glut an. "Muss ein Strahlendes Phantom sein. Ein großer leuchtender Wal. Gutes Futter, so sagt man."</DefaultText>
+      <DefaultText>[Specified 5] sieht die wachsende Glut an. „Muss ein Strahlendes Phantom sein. Ein großer leuchtender Wal. Gutes Futter, so sagt man.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,24 +156,24 @@ Tekēhu legt seine Hände zusammen und lässt einen tiefen, musikalischen Ruf er
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Keine Ahnung", sagt [Specified 5]. "Aber hier kommt sie ..."</DefaultText>
+      <DefaultText>„Keine Ahnung“, sagt [Specified 5]. „Aber hier kommt sie ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Bei den Göttern," murmelt [Specified 1].
+      <DefaultText>„Bei den Göttern,“ murmelt [Specified 1].
 
 Die Oberfläche des Meeres schwillt an. Eine riesige, leuchtende Form erhebt sich aus dem Wasser.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Warte mal, Kapitän ..." sagt [Specified 1] und sieht [Specified 0] an. "Ist dies das, für das ich es halte?"</DefaultText>
+      <DefaultText>„Warte mal, Kapitän ...“ sagt [Specified 1] und sieht [Specified 0] an. „Ist dies das, für das ich es halte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Was meint ihr, Männer?"</DefaultText>
+      <DefaultText>„Was meint ihr, Männer?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,7 +236,7 @@ Mit dem Ton eines Horns, das unter Wasser geblasen wird, schießen zwei kraftvol
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Was meint ihr, Männer?"</DefaultText>
+      <DefaultText>„Was meint ihr, Männer?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,7 +251,7 @@ Mit dem Ton eines Horns, das unter Wasser geblasen wird, schießen zwei kraftvol
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Wir lassen die Kreatur in Frieden ziehen.”</DefaultText>
+      <DefaultText>„Wir lassen die Kreatur in Frieden ziehen.”“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@ Mit dem Ton eines Horns, das unter Wasser geblasen wird, schießen zwei kraftvol
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>[Specified 5] blickt stirnrunzelnd das Wasser an. "Vielleicht ein Grönlandwal? Oder ein Pottwal. Wal, so oder so."</DefaultText>
+      <DefaultText>[Specified 5] blickt stirnrunzelnd das Wasser an. „Vielleicht ein Grönlandwal? Oder ein Pottwal. Wal, so oder so.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,26 +271,26 @@ Mit dem Ton eines Horns, das unter Wasser geblasen wird, schießen zwei kraftvol
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Keine Ahnung", sagt [Specified 5]. "Aber hier kommt sie ..."</DefaultText>
+      <DefaultText>„Keine Ahnung“, sagt [Specified 5]. „Aber hier kommt sie ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>[Specified 2] fährt sich mit der Zunge über die trockenen Lippen und sagt: "Das ist ein Pottwal, Kapitän. Der beste Wal zum Jagen im ganzen verdammten Todesfeuer."
+      <DefaultText>[Specified 2] fährt sich mit der Zunge über die trockenen Lippen und sagt: „Das ist ein Pottwal, Kapitän. Der beste Wal zum Jagen im ganzen verdammten Todesfeuer.“
 
-[Specified 1] schnaubt. "Vermutlich eher ein Grönlandwal. Siehst du das V-förmige Atemloch? Dieser Wal hat zwei Blaslöcher, daher die Form."</DefaultText>
+[Specified 1] schnaubt. „Vermutlich eher ein Grönlandwal. Siehst du das V-förmige Atemloch? Dieser Wal hat zwei Blaslöcher, daher die Form.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[Specified 2] spottet. "Das macht die Jagd aber nicht schwerer."
+      <DefaultText>[Specified 2] spottet. „Das macht die Jagd aber nicht schwerer.“
 
-"Nicht wenn er taucht und unser Boot versenkt!" [Specified 1] rollt mit den Augen.</DefaultText>
+„Nicht wenn er taucht und unser Boot versenkt!“ [Specified 1] rollt mit den Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>[Specified 0] weicht schockiert zurück. "Du würdest einen von Ondras Boten töten? Und diesen Segen sinnlos verschwenden?"</DefaultText>
+      <DefaultText>[Specified 0] weicht schockiert zurück. „Du würdest einen von Ondras Boten töten? Und diesen Segen sinnlos verschwenden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,7 +316,7 @@ Mehrere Stunden später sieht es [Specified 1] als sicher an, auf die Bestie zu 
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Mit schockierender Geschwindigkeit taucht der Wal ab und entlockt [Specified 1] ein kurzes "Scheiße!".
+      <DefaultText>Mit schockierender Geschwindigkeit taucht der Wal ab und entlockt [Specified 1] ein kurzes „Scheiße!“.
 
 Das Boot verschwindet mit allen Matrosen unter den Wellen.</DefaultText>
       <FemaleText />
@@ -339,7 +339,7 @@ Sie singen ein Walfängerlied, als sie dieser blutigen Arbeit nachgehen.
       <ID>73</ID>
       <DefaultText>Nach einigen angespannten Sekunden taucht die Mannschaft wieder auf, sie spucken Wasser und fluchen. Stirnrunzelnd wirft [Specified 0] den Matrosen ein Seil zu.
 
-Als das Schiff die Segel setzt, sieht sich [Specified 1] um. "Hat jemand [Specified 3] gesehen?"
+Als das Schiff die Segel setzt, sieht sich [Specified 1] um. „Hat jemand [Specified 3] gesehen?“
 
 Niemand hat das.</DefaultText>
       <FemaleText />
@@ -348,7 +348,7 @@ Niemand hat das.</DefaultText>
       <ID>74</ID>
       <DefaultText>Die große Bestie schwimmt mehrere Stunden neben dem Schiff her, ihr Lied scheint die Planken der [Player Ship] zum Schwingen zu bringen. [Specified 0] summt leise mit, während [Specified 2] der Kreatur Nahrungsstücke zuwirft.
 
-[Specified 1] seufzt. "Sie essen keinen Zwieback."
+[Specified 1] seufzt. „Sie essen keinen Zwieback.“
 
 [Specified 3] kichert.
 
@@ -359,7 +359,7 @@ Das Schiff segelt weiter.</DefaultText>
       <ID>75</ID>
       <DefaultText>Eine riesige, graue Gestalt taucht kurz im Wasser vor dir auf und verschwindet wieder mit dem Schlag ihrer mächtigen Schwanzflosse.
 
-"Was in Ondras Namen war das?" schreit [Specified 0].</DefaultText>
+„Was in Ondras Namen war das?“ schreit [Specified 0].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -369,7 +369,7 @@ Das Schiff segelt weiter.</DefaultText>
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Kanonen zum Feuern bereit machen! Alle Mann auf Gefechtsstationen!"</DefaultText>
+      <DefaultText>„Kanonen zum Feuern bereit machen! Alle Mann auf Gefechtsstationen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -379,12 +379,12 @@ Das Schiff segelt weiter.</DefaultText>
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Wir lassen die Kreatur in Frieden ziehen.”</DefaultText>
+      <DefaultText>„Wir lassen die Kreatur in Frieden ziehen.”“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Dreh ab und bring uns hier raus!"</DefaultText>
+      <DefaultText>„Dreh ab und bring uns hier raus!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -394,7 +394,7 @@ Das Schiff segelt weiter.</DefaultText>
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Wir haben keine Kanonenkugeln mehr, Kapitän!" ruft [Specified 0].</DefaultText>
+      <DefaultText>„Wir haben keine Kanonenkugeln mehr, Kapitän!“ ruft [Specified 0].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@ Ein Qilutaalik, ein großer fleischfressender Wal, der dafür bekannt ist, Löch
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>[Specified 5] flucht. "Ein Qilutaalik! Siehst du die Hörner?"
+      <DefaultText>[Specified 5] flucht. „Ein Qilutaalik! Siehst du die Hörner?“
 
 Du hast von diesen Bestien gehört. Es sind große fleischfressende Wale, die dafür bekannt sind, Löcher in die Seiten von Schiffen zu hauen.</DefaultText>
       <FemaleText />
@@ -418,14 +418,14 @@ Du hast von diesen Bestien gehört. Es sind große fleischfressende Wale, die da
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Keine Ahnung", sagt [Specified 5]. "Aber sie sieht wütend aus ..."</DefaultText>
+      <DefaultText>„Keine Ahnung“, sagt [Specified 5]. „Aber sie sieht wütend aus ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>[Specified 0] staunt. "Bei den Göttern, Kapitän, machst du Witze?"
+      <DefaultText>[Specified 0] staunt. „Bei den Göttern, Kapitän, machst du Witze?“
 
-[Specified 2] jedoch greift nach einer Harpune. "Ich beanspruche einen dieser Stoßzähne auf jeden Fall für mich!"</DefaultText>
+[Specified 2] jedoch greift nach einer Harpune. „Ich beanspruche einen dieser Stoßzähne auf jeden Fall für mich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -448,17 +448,17 @@ Der Strick von der Harpune zum Boot strafft sich, als der Wal das Boot mit sich 
 
 Die Bestie fährt mit schnappenden Zähnen herum. Nur die obere Hälfte von [Specified 2]s Körper trifft auf dem Wasser auf.
 
-"Bei der süßen Ondra", murmelt [Specified 0] entsetzt, als die Bestie das Ruderboot auseinanderreißt.</DefaultText>
+„Bei der süßen Ondra“, murmelt [Specified 0] entsetzt, als die Bestie das Ruderboot auseinanderreißt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Aye-aye, Kapitän!" [Specified 0] brüllt [Specified 4] am Steuer und den anderen Matrosen in der Takelage Befehle zu. Die Mannschaft hastet über das Deck und beeilt sich, den Befehlen nachzukommen.</DefaultText>
+      <DefaultText>„Aye-aye, Kapitän!“ [Specified 0] brüllt [Specified 4] am Steuer und den anderen Matrosen in der Takelage Befehle zu. Die Mannschaft hastet über das Deck und beeilt sich, den Befehlen nachzukommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>[Specified 0] stockt. "Ohne eine erfahrene Kraft am Steuer? Bei allen Göttern!" Der Maat fängt an, Befehle zu brüllen, und die Mannschaft hastet über das Deck.</DefaultText>
+      <DefaultText>[Specified 0] stockt. „Ohne eine erfahrene Kraft am Steuer? Bei allen Göttern!“ Der Maat fängt an, Befehle zu brüllen, und die Mannschaft hastet über das Deck.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -475,7 +475,7 @@ Dann lässt sich die Bestie schwer wieder ins Wasser zurückfallen. Das Schiff s
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>[Specified 3]s Augen begegnen deinen. "Ich bin mir nicht sicher, ob wir diese Möglichkeit haben, Kapitän."
+      <DefaultText>[Specified 3]s Augen begegnen deinen. „Ich bin mir nicht sicher, ob wir diese Möglichkeit haben, Kapitän.“
 
 Als ob dies das Stichwort wäre, bricht die Bestie erneut aus den Wellen empor. Zwei der drei mächtigen Stoßzähne schlagen sich in die Seite des Schiffes. Der am höchsten gelegene Zahn zerreißt Takelage und Hauptsegel, die beiden anderen, dicker und kräftiger, reißen das Schiff auf, bis sie an Deck wieder herausschauen.</DefaultText>
       <FemaleText />
@@ -492,12 +492,12 @@ Als ob dies das Stichwort wäre, bricht die Bestie erneut aus den Wellen empor. 
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Feuert die Kanonen!"</DefaultText>
+      <DefaultText>„Feuert die Kanonen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Greift die Bestie an, solange sie im Rumpf feststeckt!"</DefaultText>
+      <DefaultText>„Greift die Bestie an, solange sie im Rumpf feststeckt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -631,7 +631,7 @@ Der Wal windet sich frei vom Deck und gleitet ins Wasser zurück. Endlich tritt 
       <ID>125</ID>
       <DefaultText>Der Sprengstoff landet direkt zwischen Bestie und Deck, gefährlich nahe am Schiff.
 
-"Bist du völlig verrückt geworden?", ruft [Specified 0].
+„Bist du völlig verrückt geworden?“, ruft [Specified 0].
 
 Der Sprengstoff explodiert.</DefaultText>
       <FemaleText />
@@ -672,17 +672,17 @@ Der am höchsten gelegene Zahn zerreißt Takelage und Hauptsegel, die beiden and
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>[Specified 0] weicht schockiert zurück. "Du würdest es wagen, eines von Ngatis Kindern zu erschlagen? Und diesen Segen sinnlos verschwenden?“</DefaultText>
+      <DefaultText>[Specified 0] weicht schockiert zurück. „Du würdest es wagen, eines von Ngatis Kindern zu erschlagen? Und diesen Segen sinnlos verschwenden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>[Specified 0] weicht schockiert zurück. "Du würdest es wagen, eines von Ngatis Kindern zu erschlagen? Und diesen Segen sinnlos verschwenden?“</DefaultText>
+      <DefaultText>[Specified 0] weicht schockiert zurück. „Du würdest es wagen, eines von Ngatis Kindern zu erschlagen? Und diesen Segen sinnlos verschwenden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Lass den Wal gehen!"</DefaultText>
+      <DefaultText>„Lass den Wal gehen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

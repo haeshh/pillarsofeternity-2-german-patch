@@ -8,41 +8,41 @@
       <ID>1</ID>
       <DefaultText>Ein Streit auf Deck reißt dich aus dem sanften Schaukeln des Schiffs und den sanften blauen Weiten des Horizonts. 
 
-"Die Hälfte der Fische trieben auf dem Rücken!", schreit [Specified 0]. "Besser, wir schmeißen den ganzen Fang weg, als dass sich die ganze Besatzung den Magen verdirbt!"
+„Die Hälfte der Fische trieben auf dem Rücken!“, schreit [Specified 0]. „Besser, wir schmeißen den ganzen Fang weg, als dass sich die ganze Besatzung den Magen verdirbt!“
 
-"Die sahen doch noch ziemlich lebendig aus, als wir sie reingezogen haben!", entgegnet [Specified 1] mit wilden Gesten in Richtung des Fischhaufens an Deck. "Fische sterben halt, wenn sie aus dem Wasser gezogen werden! Das haben die so an sich!"</DefaultText>
+„Die sahen doch noch ziemlich lebendig aus, als wir sie reingezogen haben!“, entgegnet [Specified 1] mit wilden Gesten in Richtung des Fischhaufens an Deck. „Fische sterben halt, wenn sie aus dem Wasser gezogen werden! Das haben die so an sich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[Die Fische auf Krankheitssymptome untersuchen.] "Begutachten wir mal den Fang."</DefaultText>
+      <DefaultText>[Die Fische auf Krankheitssymptome untersuchen.] „Begutachten wir mal den Fang.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Wir können es uns nicht leisten, Essen wegzuwerfen. Verstaut den Fisch im Laderaum."</DefaultText>
+      <DefaultText>„Wir können es uns nicht leisten, Essen wegzuwerfen. Verstaut den Fisch im Laderaum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Die Fische kommen zurück ins Meer. Ich setze nicht die Gesundheit der Mannschaft aufs Spiel."</DefaultText>
+      <DefaultText>„Die Fische kommen zurück ins Meer. Ich setze nicht die Gesundheit der Mannschaft aufs Spiel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Mehrere Fische weisen verfärbte Schuppen und aufgeblähte Bäuche auf – ausgeprägte Zeichen einer Krankheit. Es ist möglich, dass der faule Fisch die Besatzung krank machen könnte.
 
-"Siehst du?", fragt [Specified 0] [Specified 1] mit wenig erfreuter Miene. "Willst du, dass wir alle Montezumas Rache bekommen?"</DefaultText>
+„Siehst du?“, fragt [Specified 0] [Specified 1] mit wenig erfreuter Miene. „Willst du, dass wir alle Montezumas Rache bekommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Siehst du, [Specified 0]?" Der Kapitän weiß, dass wir Essen, das noch absolut in Ordnung ist, wegwerfen können."</DefaultText>
+      <DefaultText>„Siehst du, [Specified 0]?“ Der Kapitän weiß, dass wir Essen, das noch absolut in Ordnung ist, wegwerfen können.„</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Das ist die weiseste Entscheidung, Kapitän", nickt [Specified 0] glücklich. 
+      <DefaultText>„Das ist die weiseste Entscheidung, Kapitän“, nickt [Specified 0] glücklich. 
 
 Die beiden Besatzungsmitglieder kippen das Fass über Bord und die Fische zurück in die See.</DefaultText>
       <FemaleText />
@@ -51,74 +51,74 @@ Die beiden Besatzungsmitglieder kippen das Fass über Bord und die Fische zurüc
       <ID>8</ID>
       <DefaultText>Es lassen sich keine ausgeprägten Symptome, wie nässende Wunden oder blutende Augen, finden – aber es könnte subtilere Hinweise auf den Gesundheitszustand der Fische geben, die übersehen wurden. 
 
-"Wenn wir diese Fische behalten, Kapitän, dann hängt die Mannschaft möglicherweise tagelang arschüber von der Verschanzung." 
+„Wenn wir diese Fische behalten, Kapitän, dann hängt die Mannschaft möglicherweise tagelang arschüber von der Verschanzung.“ 
 
-"Du bist ja schlimmer als meine Großmutter, [Specified 0]. Es gibt keine Anzeichen einer Krankheit."</DefaultText>
+„Du bist ja schlimmer als meine Großmutter, [Specified 0]. Es gibt keine Anzeichen einer Krankheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>Es sind keine Verfärbungen, offene Wunden oder aufgeblähte Bäuche zu sehen. Die Fische sind allem Anschein nach kerngesund.
 
-"Ich hab dir doch gesagt, dass es nicht gefährlich ist", brüstet sich [Specified 1], Arme in die Hüften gestemmt.</DefaultText>
+„Ich hab dir doch gesagt, dass es nicht gefährlich ist“, brüstet sich [Specified 1], Arme in die Hüften gestemmt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[Specified 0]s Mund steht offen. "Machst du Witze, Kapitän?"</DefaultText>
+      <DefaultText>[Specified 0]s Mund steht offen. „Machst du Witze, Kapitän?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Was meinst du, [Player Animal Companion]?"</DefaultText>
+      <DefaultText>„Was meinst du, [Player Animal Companion]?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>[Player Animal Companion] nähert sich dem Fass, schnuppert am Fisch, schnappt einen und präsentiert ihn dir wie ein Geschenk. [Specified 1] lacht herzlich. 
 
-"Da haben wir wohl die Zustimmung eines Besatzungsmitglieds!"</DefaultText>
+„Da haben wir wohl die Zustimmung eines Besatzungsmitglieds!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>[Player Animal Companion] schnuppert am Fisch, dreht die Nase zum Fass und gibt dir mit dem Kopf einen warnenden Stupser. [Specified 0] seufzt.
 
-"[Player Animal Companion] hat anscheinen mehr zwischen den Ohren als so mancher unserer Seemänner hier."</DefaultText>
+„[Player Animal Companion] hat anscheinen mehr zwischen den Ohren als so mancher unserer Seemänner hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Du hast mich schon verstanden."</DefaultText>
+      <DefaultText>„Du hast mich schon verstanden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Wenn ich es mir so recht überlege; wirf sie über Bord."</DefaultText>
+      <DefaultText>„Wenn ich es mir so recht überlege; wirf sie über Bord.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>[Specified 0] seufzt. "Kapitän, wenn wir die zu uns nehmen, dann werden wir höchstwahrscheinlich–"
+      <DefaultText>[Specified 0] seufzt. „Kapitän, wenn wir die zu uns nehmen, dann werden wir höchstwahrscheinlich–“
 
-"Klappe zu", bellt [Specified 1]. "Das Wort des Kapitäns ist Gesetz. Bringen wir die Fische nach unten."
+„Klappe zu“, bellt [Specified 1]. „Das Wort des Kapitäns ist Gesetz. Bringen wir die Fische nach unten.“
 
 Die Beiden hieven das Fass hoch und bewegen es zur Luke. Du geht wieder nach achtern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[Specified 1] sieht [Player Animal Companion] an. "Ich habe so viel Hunger wie jeder andere hier auch, aber hast du die Reaktion von [Player Animal Companion] gesehen?"</DefaultText>
+      <DefaultText>[Specified 1] sieht [Player Animal Companion] an. „Ich habe so viel Hunger wie jeder andere hier auch, aber hast du die Reaktion von [Player Animal Companion] gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[Specified 1] nickt mit Nachdruck. "Ja, ich weiß, dass ich sie erst behalten wollte; aber das war, bevor du mich auf die Bäuche, Schuppen und so weiter aufmerksam gemacht hast."</DefaultText>
+      <DefaultText>[Specified 1] nickt mit Nachdruck. „Ja, ich weiß, dass ich sie erst behalten wollte; aber das war, bevor du mich auf die Bäuche, Schuppen und so weiter aufmerksam gemacht hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[Die Fische von Toxinen befreien.] "Das kriegen wir schon wieder hin."</DefaultText>
+      <DefaultText>[Die Fische von Toxinen befreien.] „Das kriegen wir schon wieder hin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,12 +128,12 @@ Die Beiden hieven das Fass hoch und bewegen es zur Luke. Du geht wieder nach ach
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Wir können es uns nicht leisten, Essen wegzuwerfen. Verstaut den Fisch im Laderaum."</DefaultText>
+      <DefaultText>„Wir können es uns nicht leisten, Essen wegzuwerfen. Verstaut den Fisch im Laderaum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Die Fische kommen zurück ins Meer. Ich setze nicht die Gesundheit der Mannschaft aufs Spiel."</DefaultText>
+      <DefaultText>„Die Fische kommen zurück ins Meer. Ich setze nicht die Gesundheit der Mannschaft aufs Spiel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -148,7 +148,7 @@ Die Beiden hieven das Fass hoch und bewegen es zur Luke. Du geht wieder nach ach
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Du kannst kranke Fische in Ordnung bringen?", fragt [Specified 0] verdutzt.</DefaultText>
+      <DefaultText>„Du kannst kranke Fische in Ordnung bringen?“, fragt [Specified 0] verdutzt.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -13,25 +13,25 @@ Möwen treiben durch die Lüfte über dem seichten Wasser und stürzen hier und 
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Sieh dir das an!" sagt Serafen, während er das Wasser beobachtet. "Blau wie ein Saphir und doppelt so glatt." 
+      <DefaultText>„Sieh dir das an!“ sagt Serafen, während er das Wasser beobachtet. „Blau wie ein Saphir und doppelt so glatt.“ 
 
-Er grinst Tekēhu an. "Schon mal ein Auge auf diese Küste geworfen, Kumpel? Hast dein ganzes Leben hier verbracht, aye? Haste schon viele dieser Inseln gesehen, bevor du bei Kapitän [Player Name] angeheuert hast?"</DefaultText>
+Er grinst Tekēhu an. „Schon mal ein Auge auf diese Küste geworfen, Kumpel? Hast dein ganzes Leben hier verbracht, aye? Haste schon viele dieser Inseln gesehen, bevor du bei Kapitän [Player Name] angeheuert hast?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich habe viele schöne Orte gesehen. Und seit ich unserer bescheidenen Besatzung beigetreten bin, auch einige schreckliche.
+      <DefaultText>„Ich habe viele schöne Orte gesehen. Und seit ich unserer bescheidenen Besatzung beigetreten bin, auch einige schreckliche.“
 
-"Das hier, ist eine willkommene Abwechslung, sage ich." 
+„Das hier, ist eine willkommene Abwechslung, sage ich.“ 
 
 Tekēhu lächelt in deine Richtung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Serafen kichert. "Und ich dachte schon, das Todesfeuer wär nichts weit als staubige Keller und zu groß gewachsene ..."
+      <DefaultText>Serafen kichert. „Und ich dachte schon, das Todesfeuer wär nichts weit als staubige Keller und zu groß gewachsene ...“
 
-Der Orlaner hält inne und runzelt die Stirn. "Hey, Käpt‘n. Was hältst'n davon?"</DefaultText>
+Der Orlaner hält inne und runzelt die Stirn. „Hey, Käpt‘n. Was hältst'n davon?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@ Der Orlaner hält inne und runzelt die Stirn. "Hey, Käpt‘n. Was hältst'n dav
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Auf sie zugehen.] "Ahoi, Leute!"</DefaultText>
+      <DefaultText>[Auf sie zugehen.] „Ahoi, Leute!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,9 +138,9 @@ Der Orlaner hält inne und runzelt die Stirn. "Hey, Käpt‘n. Was hältst'n dav
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Was auch immer sich in dieser Kiste befindet, wurde von Magie beeinflusst", sagt Aloth und hält inne.
+      <DefaultText>„Was auch immer sich in dieser Kiste befindet, wurde von Magie beeinflusst“, sagt Aloth und hält inne.
 
-"Und ich bin mir nicht sicher, ob es sich um ... anständige Magie handelt." Er rümpft die Nase.</DefaultText>
+„Und ich bin mir nicht sicher, ob es sich um ... anständige Magie handelt.“ Er rümpft die Nase.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@ Die Explosion wirft dich von den Beinen. Schmerzerfüllt stehst du auf und bemer
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Nach einer Weile steht [Specified 0] auf und seufzt. "Klappt nicht, [Player Name]."</DefaultText>
+      <DefaultText>Nach einer Weile steht [Specified 0] auf und seufzt. „Klappt nicht, [Player Name].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -252,14 +252,14 @@ Sie scheinen deine Anwesenheit nicht bemerkt zu haben.</DefaultText>
       <ID>46</ID>
       <DefaultText>Du duckst dich hinter einen Stein und trittst dabei gegen einen Kiesel. Er kullert den Hügel hinab und die Piraten sehen zu dir hinauf.
 
-"EIN VERSTECKER HINTER DEM STEIN!" quiekt der Imp, während er wild fuchtelnd auf dich zeigt. "ICH HAB ES ZUERST GESEHEN."</DefaultText>
+„EIN VERSTECKER HINTER DEM STEIN!“ quiekt der Imp, während er wild fuchtelnd auf dich zeigt. „ICH HAB ES ZUERST GESEHEN.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>Obwohl du dich gekonnt hinter dem Stein versteckst, tritt [SkillCheck 0] einen kleinen Kiesel los, der daraufhin den Hügel hinunterrollt. Die Piraten verstummen und sehen zu dir hinauf.
 
-"EIN VERSTECKER HINTER DEM STEIN!" quiekt der Imp, während er wild fuchtelnd auf [SkillCheck 0] zeigt. "ICH HAB ES ZUERST GESEHEN."</DefaultText>
+„EIN VERSTECKER HINTER DEM STEIN!“ quiekt der Imp, während er wild fuchtelnd auf [SkillCheck 0] zeigt. „ICH HAB ES ZUERST GESEHEN.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -274,7 +274,7 @@ Sie scheinen deine Anwesenheit nicht bemerkt zu haben.</DefaultText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Schicken wir sie nach Cirono, Jungs!"</DefaultText>
+      <DefaultText>„Schicken wir sie nach Cirono, Jungs!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -328,7 +328,7 @@ Endlich haben sie das Loch fertig gegraben und senken die Kiste darin hinab. Dan
       <ID>60</ID>
       <DefaultText>Stunden später sind sie fertig. Der Schatz ist versteckt und die Piraten stehen um ihn herum und wischen sie sich den Schweiß von der Stirn. 
 
-Einer der Piraten, womöglich ihr Anführer, sagt: "Ich glaube, jetzt brauchen wir dringend einen Drink. Hol den Grog raus, Großer Burknur."</DefaultText>
+Einer der Piraten, womöglich ihr Anführer, sagt: „Ich glaube, jetzt brauchen wir dringend einen Drink. Hol den Grog raus, Großer Burknur.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -409,7 +409,7 @@ Sie stürzen sich auf den Grog und mit ihrer Nüchternheit ist es bald vorbei.</
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"EIN VERSTECKER HINTER DEM STEIN!" quiekt der Imp, während er wild fuchtelnd auf dich zeigt. "ICH HAB ES ZUERST GESEHEN."</DefaultText>
+      <DefaultText>„EIN VERSTECKER HINTER DEM STEIN!“ quiekt der Imp, während er wild fuchtelnd auf dich zeigt. „ICH HAB ES ZUERST GESEHEN.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

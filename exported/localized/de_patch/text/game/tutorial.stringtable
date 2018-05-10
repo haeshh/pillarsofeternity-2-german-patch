@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Drücke &lt;sprite="Inline" name="ico_inventory" tint=1&gt; oder die Taste [I], um das Inventar zu öffnen.</DefaultText>
+      <DefaultText>Drücke &lt;sprite=„Inline“ name=„ico_inventory“ tint=1&gt; oder die Taste [I], um das Inventar zu öffnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -53,7 +53,7 @@
       <ID>9</ID>
       <DefaultText>Charaktere mit einem roten Auswahlkreis sind dir gegenüber feindselig gesinnt. Um einen Gegner mit deiner derzeit ausgerüsteten Waffe anzugreifen, klicke auf seinen Auswahlkreis.
 
-Du kannst in der unteren Bildschirmmitte auch &lt;sprite="Inline" name="ico_attack" tint=1&gt; auswählen, um den Mauszeiger in den Angriffsmodus zu wechseln. Hierdurch kannst du jeden angreifen, selbst neutrale Charaktere.</DefaultText>
+Du kannst in der unteren Bildschirmmitte auch &lt;sprite=„Inline“ name=„ico_attack“ tint=1&gt; auswählen, um den Mauszeiger in den Angriffsmodus zu wechseln. Hierdurch kannst du jeden angreifen, selbst neutrale Charaktere.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,7 +85,7 @@ Da dein Wächter aber ein Priester oder Paladin ist, musst du trotzdem darauf ac
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Wenn du Quests erhältst, wird dein Tagebuch mit relevanten Informationen aktualisiert. Solltest du jemals festhängen, öffne es, um deine Notizen einzusehen, indem du &lt;sprite="Inline" name="ico_journal" tint=1&gt; oder die Taste [J] drückst.</DefaultText>
+      <DefaultText>Wenn du Quests erhältst, wird dein Tagebuch mit relevanten Informationen aktualisiert. Solltest du jemals festhängen, öffne es, um deine Notizen einzusehen, indem du &lt;sprite=„Inline“ name=„ico_journal“ tint=1&gt; oder die Taste [J] drückst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -95,7 +95,7 @@ Da dein Wächter aber ein Priester oder Paladin ist, musst du trotzdem darauf ac
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Klicke auf die Auswahlkreise von freundlich gesinnten und neutralen Charakteren in der Welt, um einen Dialog mit ihnen zu beginnen. &lt;sprite="Inline" name="ico_talk" tint=1&gt;</DefaultText>
+      <DefaultText>Klicke auf die Auswahlkreise von freundlich gesinnten und neutralen Charakteren in der Welt, um einen Dialog mit ihnen zu beginnen. &lt;sprite=„Inline“ name=„ico_talk“ tint=1&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -109,7 +109,7 @@ Da dein Wächter aber ein Priester oder Paladin ist, musst du trotzdem darauf ac
 
 Um mehrere Gruppenmitglieder auszuwählen, klicke und halte den Mauszeiger auf einer beliebigen Stelle auf dem Bildschirm gedrückt und ziehe die Markierung über die Auswahlkreise der Gruppenmitglieder, die du auswählen möchtest.
 
-Um die ganze Gruppe auszuwählen, drücke &lt;sprite="Inline" name="ico_selectall" tint=1&gt; oder die Taste [Löschen].</DefaultText>
+Um die ganze Gruppe auszuwählen, drücke &lt;sprite=„Inline“ name=„ico_selectall“ tint=1&gt; oder die Taste [Löschen].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,14 +134,14 @@ Um die ganze Gruppe auszuwählen, drücke &lt;sprite="Inline" name="ico_selectal
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Der Angriffswurf ist eine zufällige Zahl zwischen 1 und 100, auf die die Differenz zwischen der Genauigkeit des Angriffs &lt;sprite="Inline" name="cs_accuracy" tint=1&gt; und der Verteidigung des Ziels &lt;sprite="Inline" name="cs_deflection" tint=1&gt; &lt;sprite="Inline" name="cs_fortitude" tint=1&gt; hinzugerechnet wird.  &lt;sprite="Inline" name="cs_reflex" tint=1&gt; &lt;sprite="Inline" name="cs_will" tint=1&gt;. Wenn die Genauigkeit geringer als die Verteidigung ist, erfolgt ein Abzug auf den Angriffswurf. Wenn die Genauigkeit höher als die Verteidigung ist, wird ein Bonus auf den Angriffswurf angewandt.
+      <DefaultText>Der Angriffswurf ist eine zufällige Zahl zwischen 1 und 100, auf die die Differenz zwischen der Genauigkeit des Angriffs &lt;sprite=„Inline“ name=„cs_accuracy“ tint=1&gt; und der Verteidigung des Ziels &lt;sprite=„Inline“ name=„cs_deflection“ tint=1&gt; &lt;sprite=„Inline“ name=„cs_fortitude“ tint=1&gt; hinzugerechnet wird.  &lt;sprite=„Inline“ name=„cs_reflex“ tint=1&gt; &lt;sprite=„Inline“ name=„cs_will“ tint=1&gt;. Wenn die Genauigkeit geringer als die Verteidigung ist, erfolgt ein Abzug auf den Angriffswurf. Wenn die Genauigkeit höher als die Verteidigung ist, wird ein Bonus auf den Angriffswurf angewandt.
 
 Ein höherer, finaler Angriffswurf ist immer besser.  0-24 = Fehlschlag, 24-49 = Leichter Treffer, 50-99 = Treffer, 100+ = Kritischer Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Ein Fehlschlag hat keinen Effekt. Ein Treffer hat den standardmäßig aufgeführten Effekt. Ein leichter Treffer fügt weniger Schaden zu und hat eine kürzere Wirkdauer (für Effekte). Ein kritischer Treffer verursacht mehr Schaden, hat eine höhere Durchschlagskraft &lt;sprite="Inline" name="cs_penetration" tint=1&gt; und eine längere Wirkdauer (für Effekte).</DefaultText>
+      <DefaultText>Ein Fehlschlag hat keinen Effekt. Ein Treffer hat den standardmäßig aufgeführten Effekt. Ein leichter Treffer fügt weniger Schaden zu und hat eine kürzere Wirkdauer (für Effekte). Ein kritischer Treffer verursacht mehr Schaden, hat eine höhere Durchschlagskraft &lt;sprite=„Inline“ name=„cs_penetration“ tint=1&gt; und eine längere Wirkdauer (für Effekte).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@ Ein höherer, finaler Angriffswurf ist immer besser.  0-24 = Fehlschlag, 24-49 =
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Unterstützungsgegenstände wie Tränke, Schriftrollen, Sprengstoffe, Fallen und Zauberfiguren werden in einem der Schnellgegenstand-Slots des Charakters ausgerüstet.  Diese Gegenstände sind während des Kampfs zugänglich, wenn &lt;sprite="Inline" name="quickitems_s" tint=1&gt; in der Schnellleiste des Charakters ausgewählt wird.</DefaultText>
+      <DefaultText>Unterstützungsgegenstände wie Tränke, Schriftrollen, Sprengstoffe, Fallen und Zauberfiguren werden in einem der Schnellgegenstand-Slots des Charakters ausgerüstet.  Diese Gegenstände sind während des Kampfs zugänglich, wenn &lt;sprite=„Inline“ name=„quickitems_s“ tint=1&gt; in der Schnellleiste des Charakters ausgewählt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@ Ein höherer, finaler Angriffswurf ist immer besser.  0-24 = Fehlschlag, 24-49 =
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Drücke &lt;sprite="Inline" name="ico_charsheet" tint=1&gt; oder die Taste [C], um den Charakterbogen zu öffnen.  Wähle den Reiter ‚Reputation‘ und anschließend das Portrait eines beliebigen Gefährten aus, um dessen Beziehungen zu anderen Gruppenmitgliedern anzuzeigen.</DefaultText>
+      <DefaultText>Drücke &lt;sprite=„Inline“ name=„ico_charsheet“ tint=1&gt; oder die Taste [C], um den Charakterbogen zu öffnen.  Wähle den Reiter ‚Reputation‘ und anschließend das Portrait eines beliebigen Gefährten aus, um dessen Beziehungen zu anderen Gruppenmitgliedern anzuzeigen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,7 +188,7 @@ Das Reputationsrad eines Gefährten zeigt dessen Beziehungen zu anderen Gruppenm
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Drücke &lt;sprite="Inline" name="ico_stealth" tint=1&gt; oder die Taste [Alt], um die ausgewählten Charaktere in den Heimlichkeitsmodus zu wechseln oder diesen zu deaktivieren.</DefaultText>
+      <DefaultText>Drücke &lt;sprite=„Inline“ name=„ico_stealth“ tint=1&gt; oder die Taste [Alt], um die ausgewählten Charaktere in den Heimlichkeitsmodus zu wechseln oder diesen zu deaktivieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -249,7 +249,7 @@ Einige Fähigkeiten richten sich auf einen Wirkungsbereich aus. Der gängigste W
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Charaktere haben einen Rüstungswert &lt;sprite="Inline" name="cs_ar" tint=1&gt;, der ihre Fähigkeit darstellt, einem Durchschlag &lt;sprite="Inline" name="cs_penetration" tint=1&gt; aus verschiedenen Schadensarten zu widerstehen. Angriffe, die Schaden verursachen, haben einen Durchschlagswert, der verwendet wird, um zu bestimmen, wie einfach sie den Rüstungswert des Ziels übertreffen können.
+      <DefaultText>Charaktere haben einen Rüstungswert &lt;sprite=„Inline“ name=„cs_ar“ tint=1&gt;, der ihre Fähigkeit darstellt, einem Durchschlag &lt;sprite=„Inline“ name=„cs_penetration“ tint=1&gt; aus verschiedenen Schadensarten zu widerstehen. Angriffe, die Schaden verursachen, haben einen Durchschlagswert, der verwendet wird, um zu bestimmen, wie einfach sie den Rüstungswert des Ziels übertreffen können.
 
 Wenn die Durchschlagskraft eines Angriffs gleich oder höher als der Rüstungswert des Ziels der entsprechenden Schadensart ist, verursacht der Angriff den vollen Schaden. Wenn die Durchschlagskraft des Angriffs geringer als der Rüstungswert des Ziels ist, dann verursacht er mit jedem Differenzpunkt weniger Schaden. Wenn die Durchschlagskraft eines Angriffs mindestens doppelt so hoch wie der Rüstungswert des Ziels ist, gibt es einen Schadensbonus.</DefaultText>
       <FemaleText />
@@ -285,7 +285,7 @@ Unterbrechungen können durch Konzentration blockiert werden. Wenn ein Charakter
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Durch Auslösen einer Falle oder einen Niederschlag während eines Kampfs wird dieser Charakter verletzt.  Verletzungen bleiben bestehen, bis der Charakter während einer Ruhephase isst oder trinkt, oder wenn er in einem Gasthaus ruht.  Drücke &lt;sprite="Inline" name="ico_rest" tint=1&gt;, um zu ruhen.</DefaultText>
+      <DefaultText>Durch Auslösen einer Falle oder einen Niederschlag während eines Kampfs wird dieser Charakter verletzt.  Verletzungen bleiben bestehen, bis der Charakter während einer Ruhephase isst oder trinkt, oder wenn er in einem Gasthaus ruht.  Drücke &lt;sprite=„Inline“ name=„ico_rest“ tint=1&gt;, um zu ruhen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -310,7 +310,7 @@ Unterbrechungen können durch Konzentration blockiert werden. Wenn ein Charakter
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Du kannst jetzt deine Fähigkeiten oder dich selbst ermächtigen &lt;sprite="Inline" name="empowered" tint=1&gt;. Du kannst einmal pro Kampf eine solche Ermächtigung bei einer aktiven Fähigkeit einsetzen, um diese zu stärken. Alternativ kannst du diese Ermächtigung auch bei dir selbst einsetzen, um einen Teil deiner Fähigkeits-Ressourcen wieder aufzufüllen.</DefaultText>
+      <DefaultText>Du kannst jetzt deine Fähigkeiten oder dich selbst ermächtigen &lt;sprite=„Inline“ name=„empowered“ tint=1&gt;. Du kannst einmal pro Kampf eine solche Ermächtigung bei einer aktiven Fähigkeit einsetzen, um diese zu stärken. Alternativ kannst du diese Ermächtigung auch bei dir selbst einsetzen, um einen Teil deiner Fähigkeits-Ressourcen wieder aufzufüllen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -325,7 +325,7 @@ Unterbrechungen können durch Konzentration blockiert werden. Wenn ein Charakter
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Ein Klick auf &lt;sprite="Inline" name="actionbar_edit_chant" tint=1&gt; erlaubt dir, Gesänge zu bearbeiten oder neue Gesänge zu erstellen.
+      <DefaultText>Ein Klick auf &lt;sprite=„Inline“ name=„actionbar_edit_chant“ tint=1&gt; erlaubt dir, Gesänge zu bearbeiten oder neue Gesänge zu erstellen.
 
 Klicke auf einen Gesang, um ihn auszuwählen. Die auf der linken Leiste angeklickten Phrasen werden dem ausgewählten Gesang hinzugefügt. Wenn du eine Phrase entfernen möchtest, klickst du einfach im Gesang darauf.
 
@@ -349,14 +349,14 @@ Ein aktiver Gesang spielt automatisch jede einzelne Phrase in der vorgegebenen R
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Klicke auf &lt;sprite="Inline" name="ico_charSheet" tint=1&gt; oder die [C]-Taste, um den Charakterbogen anzuzeigen.  Wähle den Reiter 'Reputation', um die Reputation anzuzeigen, die der Charakter in der Fraktion und der Gemeinschaft erworben hat.
+      <DefaultText>Klicke auf &lt;sprite=„Inline“ name=„ico_charSheet“ tint=1&gt; oder die [C]-Taste, um den Charakterbogen anzuzeigen.  Wähle den Reiter 'Reputation', um die Reputation anzuzeigen, die der Charakter in der Fraktion und der Gemeinschaft erworben hat.
 
 Positive Reputation bei Fraktionen wird mit einem blauen Balken und negative Reputation mit einem roten Balken angezeigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Für dein Schiff brauchst du Mannschaftsmitglieder.  Du kannst Mannschaftsmitglieder in den meisten Gasthäusern in Hafenstädten anwerben.  Klicke auf &lt;sprite="Inline" name="sqrmenu_hiresailor" tint=1&gt;, um dir die Mannschaftsmitglieder anzeigen zu lassen, die im Gasthaus verfügbar sind.
+      <DefaultText>Für dein Schiff brauchst du Mannschaftsmitglieder.  Du kannst Mannschaftsmitglieder in den meisten Gasthäusern in Hafenstädten anwerben.  Klicke auf &lt;sprite=„Inline“ name=„sqrmenu_hiresailor“ tint=1&gt;, um dir die Mannschaftsmitglieder anzeigen zu lassen, die im Gasthaus verfügbar sind.
 
 Sobald du ein neues Mitglied für deine Mannschaft angeheuert hast, musst du der Person eine aktive Position auf deinem Schiff zuweisen. Mannschaftsmitglieder, die du nicht auf deinem Schiff platzierst, sind nicht aktiv. Sie kosten dich weder Nahrung noch Getränke oder Lohn.</DefaultText>
       <FemaleText />
@@ -382,7 +382,7 @@ Um die Zaubersprüche anzuzeigen, die ein Zauberbuch enthält, klicke mit der re
       <ID>69</ID>
       <DefaultText>Du hast eine Zutat gefunden.  Zutaten können verwendet werden, um einzigartige Waffen, Rüstungen und Schilde zu verzaubern oder um Lebensmittel, Schriftrollen, Tränke und andere Dinge herzustellen.
 
-Wähle &lt;sprite="Inline" name="ico_filtercrafting" tint=1&gt; im Gruppenlager, um dir deine Zutaten anzeigen zu lassen.</DefaultText>
+Wähle &lt;sprite=„Inline“ name=„ico_filtercrafting“ tint=1&gt; im Gruppenlager, um dir deine Zutaten anzeigen zu lassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -440,7 +440,7 @@ Du kannst außerdem im Verhaltenseditor auch vorhandene Verhaltensweisen anpasse
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>An Deck deines Schiffes kannst du &lt;sprite="Inline" name="citymapicon_setsail"&gt; auswählen. Dann wird die Weltkarte angezeigt.</DefaultText>
+      <DefaultText>An Deck deines Schiffes kannst du &lt;sprite=„Inline“ name=„citymapicon_setsail“&gt; auswählen. Dann wird die Weltkarte angezeigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -524,7 +524,7 @@ Der Navigator erhöht die Geschwindigkeit auf der Weltkarte und der Koch verring
       <ID>93</ID>
       <DefaultText>Deine Mannschaft konsumiert jeden Tag Nahrung und Getränke.  Du musst diese Ressourcen regelmäßig wieder auffüllen, indem du neue findest oder kaufst.
 
-Klicke auf &lt;sprite="Inline" name="ico_strongholdship" tint=1&gt;, um dein Schiff zu verwalten.  Fülle die Vorräte an Nahrung und Getränken auf, indem du neue Lebensmittel kaufst und in die entsprechende Reihe platzierst. Der Proviant wird immer von links nach rechts konsumiert.</DefaultText>
+Klicke auf &lt;sprite=„Inline“ name=„ico_strongholdship“ tint=1&gt;, um dein Schiff zu verwalten.  Fülle die Vorräte an Nahrung und Getränken auf, indem du neue Lebensmittel kaufst und in die entsprechende Reihe platzierst. Der Proviant wird immer von links nach rechts konsumiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -607,7 +607,7 @@ Ob auf der Weltkarte oder während eines Kampfes – wenn ein Mannschaftsmitglie
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Wenn du das Geschäft in einem Hafen besuchen und die Vorräte deines Schiffes wieder auffüllen willst, musst du auf der Stadtkarte &lt;sprite="Inline" name="citymapicon_supplies"&gt; auswählen.</DefaultText>
+      <DefaultText>Wenn du das Geschäft in einem Hafen besuchen und die Vorräte deines Schiffes wieder auffüllen willst, musst du auf der Stadtkarte &lt;sprite=„Inline“ name=„citymapicon_supplies“&gt; auswählen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -642,7 +642,7 @@ Ob auf der Weltkarte oder während eines Kampfes – wenn ein Mannschaftsmitglie
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>Einer deiner Begleiter möchte mit dir sprechen.  Um eine Unterhaltung mit einem Begleiter zu beginnen, musst du zuerst die jeweilige Person auswählen und dann in der Fähigkeitsleiste auf &lt;sprite="Inline" name="ico_talk" tint=1&gt; klicken.</DefaultText>
+      <DefaultText>Einer deiner Begleiter möchte mit dir sprechen.  Um eine Unterhaltung mit einem Begleiter zu beginnen, musst du zuerst die jeweilige Person auswählen und dann in der Fähigkeitsleiste auf &lt;sprite=„Inline“ name=„ico_talk“ tint=1&gt; klicken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,7 +701,7 @@ Nehmen wir an, dass ein Charakter unter dem Einfluss von Flammenschild mit dem F
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Um eine Fähigkeit zu ermächtigen, klickst du auf &lt;sprite="Inline" name="empowered" tint=1&gt; in deiner Aktionsleiste und wählst dann die Fähigkeit aus, die du ermächtigen möchtest. Um Ressourcen wiederherzustellen, klickst du auf &lt;sprite="Inline" name="empowered" tint=1&gt; und dann auf das Portrait deines Charakters oder den Auswahlkreis.
+      <DefaultText>Um eine Fähigkeit zu ermächtigen, klickst du auf &lt;sprite=„Inline“ name=„empowered“ tint=1&gt; in deiner Aktionsleiste und wählst dann die Fähigkeit aus, die du ermächtigen möchtest. Um Ressourcen wiederherzustellen, klickst du auf &lt;sprite=„Inline“ name=„empowered“ tint=1&gt; und dann auf das Portrait deines Charakters oder den Auswahlkreis.
 
 Du kannst diese Ermächtigung pro Kampf einmal verwenden, und eine begrenzte Anzahl von Malen zwischen den Ruhepausen. Eine Rast in einem Gasthaus oder Essen und Trinken während einer Rast an anderen Orten stellt alle Ermächtigungs-Punkte eines Charakters wieder her.</DefaultText>
       <FemaleText />
