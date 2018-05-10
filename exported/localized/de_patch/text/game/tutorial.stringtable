@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Um ausgewählte Charaktere zu bewegen, klicke auf einen beliebigen offenen Bereich auf der Karte. Alle ausgewählten Charaktere werden sich dann in der aktuellen Formation zur vorgegebenen Position bewegen.  Charaktere können nicht an eine Stelle bewegt werden, an der der Mauszeiger durch einen roten, durchgestrichenen Kreis dargestellt wird.</DefaultText>
+      <DefaultText>Um ausgewählte Charaktere zu bewegen, klicke auf einen beliebigen offenen Bereich auf der Karte. Alle ausgewählten Charaktere werden sich dann in der aktuellen Formation zur vorgegebenen Position bewegen. Charaktere können nicht an eine Stelle bewegt werden, an der der Mauszeiger durch einen roten, durchgestrichenen Kreis dargestellt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -119,7 +119,7 @@ Um die ganze Gruppe auszuwählen, drücke &lt;sprite=„Inline“ name=„ico_se
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Durch Besiegen von Kreaturen schaltest du Schritt für Schritt ihre Einträge im Bestiarium frei.  Wenn du weitere Informationen im Bestiarium freischaltest, erlangst du mehr Erfahrung.</DefaultText>
+      <DefaultText>Durch Besiegen von Kreaturen schaltest du Schritt für Schritt ihre Einträge im Bestiarium frei. Wenn du weitere Informationen im Bestiarium freischaltest, erlangst du mehr Erfahrung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,9 +134,9 @@ Um die ganze Gruppe auszuwählen, drücke &lt;sprite=„Inline“ name=„ico_se
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Der Angriffswurf ist eine zufällige Zahl zwischen 1 und 100, auf die die Differenz zwischen der Genauigkeit des Angriffs &lt;sprite=„Inline“ name=„cs_accuracy“ tint=1&gt; und der Verteidigung des Ziels &lt;sprite=„Inline“ name=„cs_deflection“ tint=1&gt; &lt;sprite=„Inline“ name=„cs_fortitude“ tint=1&gt; hinzugerechnet wird.  &lt;sprite=„Inline“ name=„cs_reflex“ tint=1&gt; &lt;sprite=„Inline“ name=„cs_will“ tint=1&gt;. Wenn die Genauigkeit geringer als die Verteidigung ist, erfolgt ein Abzug auf den Angriffswurf. Wenn die Genauigkeit höher als die Verteidigung ist, wird ein Bonus auf den Angriffswurf angewandt.
+      <DefaultText>Der Angriffswurf ist eine zufällige Zahl zwischen 1 und 100, auf die die Differenz zwischen der Genauigkeit des Angriffs &lt;sprite=„Inline“ name=„cs_accuracy“ tint=1&gt; und der Verteidigung des Ziels &lt;sprite=„Inline“ name=„cs_deflection“ tint=1&gt; &lt;sprite=„Inline“ name=„cs_fortitude“ tint=1&gt; hinzugerechnet wird. &lt;sprite=„Inline“ name=„cs_reflex“ tint=1&gt; &lt;sprite=„Inline“ name=„cs_will“ tint=1&gt;. Wenn die Genauigkeit geringer als die Verteidigung ist, erfolgt ein Abzug auf den Angriffswurf. Wenn die Genauigkeit höher als die Verteidigung ist, wird ein Bonus auf den Angriffswurf angewandt.
 
-Ein höherer, finaler Angriffswurf ist immer besser.  0-24 = Fehlschlag, 24-49 = Leichter Treffer, 50-99 = Treffer, 100+ = Kritischer Treffer</DefaultText>
+Ein höherer, finaler Angriffswurf ist immer besser. 0-24 = Fehlschlag, 24-49 = Leichter Treffer, 50-99 = Treffer, 100+ = Kritischer Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@ Ein höherer, finaler Angriffswurf ist immer besser.  0-24 = Fehlschlag, 24-49 =
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Unterstützungsgegenstände wie Tränke, Schriftrollen, Sprengstoffe, Fallen und Zauberfiguren werden in einem der Schnellgegenstand-Slots des Charakters ausgerüstet.  Diese Gegenstände sind während des Kampfs zugänglich, wenn &lt;sprite=„Inline“ name=„quickitems_s“ tint=1&gt; in der Schnellleiste des Charakters ausgewählt wird.</DefaultText>
+      <DefaultText>Unterstützungsgegenstände wie Tränke, Schriftrollen, Sprengstoffe, Fallen und Zauberfiguren werden in einem der Schnellgegenstand-Slots des Charakters ausgerüstet. Diese Gegenstände sind während des Kampfs zugänglich, wenn &lt;sprite=„Inline“ name=„quickitems_s“ tint=1&gt; in der Schnellleiste des Charakters ausgewählt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@ Ein höherer, finaler Angriffswurf ist immer besser.  0-24 = Fehlschlag, 24-49 =
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Drücke &lt;sprite=„Inline“ name=„ico_charsheet“ tint=1&gt; oder die Taste [C], um den Charakterbogen zu öffnen.  Wähle den Reiter ‚Reputation‘ und anschließend das Portrait eines beliebigen Gefährten aus, um dessen Beziehungen zu anderen Gruppenmitgliedern anzuzeigen.</DefaultText>
+      <DefaultText>Drücke &lt;sprite=„Inline“ name=„ico_charsheet“ tint=1&gt; oder die Taste [C], um den Charakterbogen zu öffnen. Wähle den Reiter ‚Reputation‘ und anschließend das Portrait eines beliebigen Gefährten aus, um dessen Beziehungen zu anderen Gruppenmitgliedern anzuzeigen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -198,7 +198,7 @@ Das Reputationsrad eines Gefährten zeigt dessen Beziehungen zu anderen Gruppenm
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Wenn sich ein Charakter im Heimlichkeitsmodus befindet und die Hörreichweite oder den Sichtkegel eines Umstehenden betritt, wird er langsam von dem Umstehenden entdeckt.  Die Entdeckungsrate wird durch die Heimlichkeitsfertigkeit des Charakters und die Stufe des Umstehenden bestimmt. Sie ist schneller im Sichtkegel als in Hörreichweite. Du kannst im Heimlichkeitsmodus mit dem Mauszeiger über einen beliebigen Charakter fahren, um seine Hörreichweite und seinen Sichtkegel anzuzeigen.
+      <DefaultText>Wenn sich ein Charakter im Heimlichkeitsmodus befindet und die Hörreichweite oder den Sichtkegel eines Umstehenden betritt, wird er langsam von dem Umstehenden entdeckt. Die Entdeckungsrate wird durch die Heimlichkeitsfertigkeit des Charakters und die Stufe des Umstehenden bestimmt. Sie ist schneller im Sichtkegel als in Hörreichweite. Du kannst im Heimlichkeitsmodus mit dem Mauszeiger über einen beliebigen Charakter fahren, um seine Hörreichweite und seinen Sichtkegel anzuzeigen.
 
 Einige Gegenstände, wie zum Beispiel Krachmacher, können eingesetzt werden, um Umstehende abzulenken und zu bewegen, während du im Heimlichkeitsmodus erkundest.</DefaultText>
       <FemaleText />
@@ -285,7 +285,7 @@ Unterbrechungen können durch Konzentration blockiert werden. Wenn ein Charakter
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Durch Auslösen einer Falle oder einen Niederschlag während eines Kampfs wird dieser Charakter verletzt.  Verletzungen bleiben bestehen, bis der Charakter während einer Ruhephase isst oder trinkt, oder wenn er in einem Gasthaus ruht.  Drücke &lt;sprite=„Inline“ name=„ico_rest“ tint=1&gt;, um zu ruhen.</DefaultText>
+      <DefaultText>Durch Auslösen einer Falle oder einen Niederschlag während eines Kampfs wird dieser Charakter verletzt. Verletzungen bleiben bestehen, bis der Charakter während einer Ruhephase isst oder trinkt, oder wenn er in einem Gasthaus ruht. Drücke &lt;sprite=„Inline“ name=„ico_rest“ tint=1&gt;, um zu ruhen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -295,7 +295,7 @@ Unterbrechungen können durch Konzentration blockiert werden. Wenn ein Charakter
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Ein Gruppenmitglied hat einen Ruhebonus erlangt.  Diese Boni werden gewährt, wenn der Charakter in einem Gasthaus ruht, oder wenn er während der Ruhephase an einem anderen Ort isst oder trinkt. Ruheboni dauern immer bis zur nächsten Ruhephase des Charakters an.</DefaultText>
+      <DefaultText>Ein Gruppenmitglied hat einen Ruhebonus erlangt. Diese Boni werden gewährt, wenn der Charakter in einem Gasthaus ruht, oder wenn er während der Ruhephase an einem anderen Ort isst oder trinkt. Ruheboni dauern immer bis zur nächsten Ruhephase des Charakters an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -339,7 +339,7 @@ Ein aktiver Gesang spielt automatisch jede einzelne Phrase in der vorgegebenen R
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Durch einen Klick auf die Weltkarte bewegst du deine Gruppe an den ausgewählten Standort.  Um ein- bzw. auszuschalten, dass die Kamera der Gruppe automatisch folgt, klicke auf die Option 'Kameraverfolgung an' unten rechts.</DefaultText>
+      <DefaultText>Durch einen Klick auf die Weltkarte bewegst du deine Gruppe an den ausgewählten Standort. Um ein- bzw. auszuschalten, dass die Kamera der Gruppe automatisch folgt, klicke auf die Option 'Kameraverfolgung an' unten rechts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -349,14 +349,14 @@ Ein aktiver Gesang spielt automatisch jede einzelne Phrase in der vorgegebenen R
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Klicke auf &lt;sprite=„Inline“ name=„ico_charSheet“ tint=1&gt; oder die [C]-Taste, um den Charakterbogen anzuzeigen.  Wähle den Reiter 'Reputation', um die Reputation anzuzeigen, die der Charakter in der Fraktion und der Gemeinschaft erworben hat.
+      <DefaultText>Klicke auf &lt;sprite=„Inline“ name=„ico_charSheet“ tint=1&gt; oder die [C]-Taste, um den Charakterbogen anzuzeigen. Wähle den Reiter 'Reputation', um die Reputation anzuzeigen, die der Charakter in der Fraktion und der Gemeinschaft erworben hat.
 
 Positive Reputation bei Fraktionen wird mit einem blauen Balken und negative Reputation mit einem roten Balken angezeigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Für dein Schiff brauchst du Mannschaftsmitglieder.  Du kannst Mannschaftsmitglieder in den meisten Gasthäusern in Hafenstädten anwerben.  Klicke auf &lt;sprite=„Inline“ name=„sqrmenu_hiresailor“ tint=1&gt;, um dir die Mannschaftsmitglieder anzeigen zu lassen, die im Gasthaus verfügbar sind.
+      <DefaultText>Für dein Schiff brauchst du Mannschaftsmitglieder. Du kannst Mannschaftsmitglieder in den meisten Gasthäusern in Hafenstädten anwerben. Klicke auf &lt;sprite=„Inline“ name=„sqrmenu_hiresailor“ tint=1&gt;, um dir die Mannschaftsmitglieder anzeigen zu lassen, die im Gasthaus verfügbar sind.
 
 Sobald du ein neues Mitglied für deine Mannschaft angeheuert hast, musst du der Person eine aktive Position auf deinem Schiff zuweisen. Mannschaftsmitglieder, die du nicht auf deinem Schiff platzierst, sind nicht aktiv. Sie kosten dich weder Nahrung noch Getränke oder Lohn.</DefaultText>
       <FemaleText />
@@ -380,7 +380,7 @@ Um die Zaubersprüche anzuzeigen, die ein Zauberbuch enthält, klicke mit der re
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Du hast eine Zutat gefunden.  Zutaten können verwendet werden, um einzigartige Waffen, Rüstungen und Schilde zu verzaubern oder um Lebensmittel, Schriftrollen, Tränke und andere Dinge herzustellen.
+      <DefaultText>Du hast eine Zutat gefunden. Zutaten können verwendet werden, um einzigartige Waffen, Rüstungen und Schilde zu verzaubern oder um Lebensmittel, Schriftrollen, Tränke und andere Dinge herzustellen.
 
 Wähle &lt;sprite=„Inline“ name=„ico_filtercrafting“ tint=1&gt; im Gruppenlager, um dir deine Zutaten anzeigen zu lassen.</DefaultText>
       <FemaleText />
@@ -392,7 +392,7 @@ Wähle &lt;sprite=„Inline“ name=„ico_filtercrafting“ tint=1&gt; im Grupp
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Einzigartige Waffen, Rüstungen und Schilde (mit goldenem Rand) können verzaubert werden, um ihre Macht noch zu erhöhen.  Jedes Verzauberungsrezept erfordert eine Anzahl bestimmter Zutaten. Wenn du alle Zutaten beisammen hast, um einen Gegenstand zu verzaubern, siehst du ein + oben links im Symbol des Gegenstandes.</DefaultText>
+      <DefaultText>Einzigartige Waffen, Rüstungen und Schilde (mit goldenem Rand) können verzaubert werden, um ihre Macht noch zu erhöhen. Jedes Verzauberungsrezept erfordert eine Anzahl bestimmter Zutaten. Wenn du alle Zutaten beisammen hast, um einen Gegenstand zu verzaubern, siehst du ein + oben links im Symbol des Gegenstandes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -402,7 +402,7 @@ Wähle &lt;sprite=„Inline“ name=„ico_filtercrafting“ tint=1&gt; im Grupp
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Versteckte Objekte können beim Erkunden entdeckt werden.  Die Fähigkeit eines Charakters, versteckte Objekte zu finden, hängt von seiner Wahrnehmung ab.</DefaultText>
+      <DefaultText>Versteckte Objekte können beim Erkunden entdeckt werden. Die Fähigkeit eines Charakters, versteckte Objekte zu finden, hängt von seiner Wahrnehmung ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,9 +416,9 @@ Wähle &lt;sprite=„Inline“ name=„ico_filtercrafting“ tint=1&gt; im Grupp
 
 Inspirationen werden anhand von Attributen gruppiert (z. B. Gewandtheit, Wahrnehmung) und wirken automatisch den entsprechenden Attributen zugehörigen Wirkungen entgegen.
 
-Schlüsselworte sind Beschreibungen wie Wasser, Feuer oder Frost.  Wasser kontert Feuer und Feuer kontert Frost. Die Beziehungen zwischen Schlüsselworten ist ausschließlich einseitig. Feuer kontert also &lt;i&gt;nicht&lt;/i&gt; Wasser.
+Schlüsselworte sind Beschreibungen wie Wasser, Feuer oder Frost. Wasser kontert Feuer und Feuer kontert Frost. Die Beziehungen zwischen Schlüsselworten ist ausschließlich einseitig. Feuer kontert also &lt;i&gt;nicht&lt;/i&gt; Wasser.
 
-Beispiel: Ein Charakter hat den Flammenschild-Effekt mit dem Schlüsselwort Feuer. Ein Gegner trifft ihn mit Überwältigende Welle, verbunden mit dem Schlüsselwort Wasser.  Die volle Wirkung von Überwältigende Welle trifft den Charakter und der Flammenschild wird entfernt.</DefaultText>
+Beispiel: Ein Charakter hat den Flammenschild-Effekt mit dem Schlüsselwort Feuer. Ein Gegner trifft ihn mit Überwältigende Welle, verbunden mit dem Schlüsselwort Wasser. Die volle Wirkung von Überwältigende Welle trifft den Charakter und der Flammenschild wird entfernt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -450,7 +450,7 @@ Du kannst außerdem im Verhaltenseditor auch vorhandene Verhaltensweisen anpasse
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Der Wächter ist der Kapitän des Schiffs.  Wie andere Mitglieder der Mannschaft erwerben Schiffskapitäne Seemannserfahrung. Doch die Seemannserfahrung eines Kapitäns steigert immer dessen Kapitänsrang.</DefaultText>
+      <DefaultText>Der Wächter ist der Kapitän des Schiffs. Wie andere Mitglieder der Mannschaft erwerben Schiffskapitäne Seemannserfahrung. Doch die Seemannserfahrung eines Kapitäns steigert immer dessen Kapitänsrang.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -522,9 +522,9 @@ Der Navigator erhöht die Geschwindigkeit auf der Weltkarte und der Koch verring
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Deine Mannschaft konsumiert jeden Tag Nahrung und Getränke.  Du musst diese Ressourcen regelmäßig wieder auffüllen, indem du neue findest oder kaufst.
+      <DefaultText>Deine Mannschaft konsumiert jeden Tag Nahrung und Getränke. Du musst diese Ressourcen regelmäßig wieder auffüllen, indem du neue findest oder kaufst.
 
-Klicke auf &lt;sprite=„Inline“ name=„ico_strongholdship“ tint=1&gt;, um dein Schiff zu verwalten.  Fülle die Vorräte an Nahrung und Getränken auf, indem du neue Lebensmittel kaufst und in die entsprechende Reihe platzierst. Der Proviant wird immer von links nach rechts konsumiert.</DefaultText>
+Klicke auf &lt;sprite=„Inline“ name=„ico_strongholdship“ tint=1&gt;, um dein Schiff zu verwalten. Fülle die Vorräte an Nahrung und Getränken auf, indem du neue Lebensmittel kaufst und in die entsprechende Reihe platzierst. Der Proviant wird immer von links nach rechts konsumiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -559,7 +559,7 @@ Klicke auf &lt;sprite=„Inline“ name=„ico_strongholdship“ tint=1&gt;, um 
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Während eines Schiffskampfs sind die Entfernung zum Gegner und deine Position im Vergleich zu der des Gegners von entscheidender Bedeutung für einen Erfolg.  Die Entfernung bestimmt darüber, ob sich der Feind in Reichweite deiner Kanonen befindet (oder dein Schiff in der Reichweite seiner Kanonen). Die Position bestimmt, ob du deine Kanonen einsetzen kannst, und wenn ja welche. Außerdem hängt davon auch ab, wie leicht dein Schiff vom Gegner getroffen werden kann. Wenn du dem Gegner deine Seite zuwendest, kannst du zwar mit den meisten deiner eigenen Kanonen feuern, bist jedoch auch ein leichteres Ziel.
+      <DefaultText>Während eines Schiffskampfs sind die Entfernung zum Gegner und deine Position im Vergleich zu der des Gegners von entscheidender Bedeutung für einen Erfolg. Die Entfernung bestimmt darüber, ob sich der Feind in Reichweite deiner Kanonen befindet (oder dein Schiff in der Reichweite seiner Kanonen). Die Position bestimmt, ob du deine Kanonen einsetzen kannst, und wenn ja welche. Außerdem hängt davon auch ab, wie leicht dein Schiff vom Gegner getroffen werden kann. Wenn du dem Gegner deine Seite zuwendest, kannst du zwar mit den meisten deiner eigenen Kanonen feuern, bist jedoch auch ein leichteres Ziel.
 
 Segel und Rumpf jedes Schiffes müssen regelmäßig gewartet werden. Beschädigte Segel verringern die Geschwindigkeit eines Schiffes. Wenn der Rumpf zu stark beschädigt ist, sinkt das Schiff. Die Leistung der Kanonen eines Schiffes wird auch durch die Munitionsvorräte beschränkt, die das Schiff mit sich führt.</DefaultText>
       <FemaleText />
@@ -568,7 +568,7 @@ Segel und Rumpf jedes Schiffes müssen regelmäßig gewartet werden. Beschädigt
       <ID>101</ID>
       <DefaultText>Wenn zwei Schiffe sich nahe genug kommen, können sie sich gegenseitig rammen oder die Mannschaften können das andere Schiff entern. Beim Entern werden zwei Schiffe fest miteinander verbunden. Die Folge des Enterns sind immer Kämpfe an Deck zwischen den Mannschaften der beiden Schiffe. Ein Rammangriff beschädigt den Rumpf beider Schiffe. Wenn dabei nicht eines der Schiffe versenkt wird, beginnt anschließend der Kampf an Deck.
 
-Wenn du das andere Schiff versenkt oder seine Mannschaft beim Kampf an Deck besiegt hast, kannst du das Schiff plündern und alles mitnehmen, was sich darauf befindet.  Beim Plündern werden die Ressourcen und Schätze des Schiffes mitgenommen und gelegentlich darf sich der Sieger auch an dem Triumph erfreuen, den gegnerischen Kapitän gefangenzunehmen. Die Münzen, die du beim Plündern eroberst, kannst du mit deiner Mannschaft teilen. Das hebt ihre Moral. Eine Flagge in der Takelage ist das sichtbare Zeichen deines Triumphs.</DefaultText>
+Wenn du das andere Schiff versenkt oder seine Mannschaft beim Kampf an Deck besiegt hast, kannst du das Schiff plündern und alles mitnehmen, was sich darauf befindet. Beim Plündern werden die Ressourcen und Schätze des Schiffes mitgenommen und gelegentlich darf sich der Sieger auch an dem Triumph erfreuen, den gegnerischen Kapitän gefangenzunehmen. Die Münzen, die du beim Plündern eroberst, kannst du mit deiner Mannschaft teilen. Das hebt ihre Moral. Eine Flagge in der Takelage ist das sichtbare Zeichen deines Triumphs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -592,7 +592,7 @@ Ob auf der Weltkarte oder während eines Kampfes – wenn ein Mannschaftsmitglie
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Begegnungen und Siege über gegnerische Kapitäne auf See bringen Mannschaft und Kapitän Seemannserfahrung ein.  Der Erwerb von Seemannserfahrung steigert den Rang des derzeitigen Jobs eines Mannschaftsmitglieds. Mannschaftsmitglieder können ihren Rang &lt;i&gt;ausschließlich&lt;/i&gt; in Jobs verbessern, in denen sie bereits über mindestens einen Rang verfügen. Kapitäne steigern immer ihren Kapitänsrang.</DefaultText>
+      <DefaultText>Begegnungen und Siege über gegnerische Kapitäne auf See bringen Mannschaft und Kapitän Seemannserfahrung ein. Der Erwerb von Seemannserfahrung steigert den Rang des derzeitigen Jobs eines Mannschaftsmitglieds. Mannschaftsmitglieder können ihren Rang &lt;i&gt;ausschließlich&lt;/i&gt; in Jobs verbessern, in denen sie bereits über mindestens einen Rang verfügen. Kapitäne steigern immer ihren Kapitänsrang.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -642,7 +642,7 @@ Ob auf der Weltkarte oder während eines Kampfes – wenn ein Mannschaftsmitglie
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>Einer deiner Begleiter möchte mit dir sprechen.  Um eine Unterhaltung mit einem Begleiter zu beginnen, musst du zuerst die jeweilige Person auswählen und dann in der Fähigkeitsleiste auf &lt;sprite=„Inline“ name=„ico_talk“ tint=1&gt; klicken.</DefaultText>
+      <DefaultText>Einer deiner Begleiter möchte mit dir sprechen. Um eine Unterhaltung mit einem Begleiter zu beginnen, musst du zuerst die jeweilige Person auswählen und dann in der Fähigkeitsleiste auf &lt;sprite=„Inline“ name=„ico_talk“ tint=1&gt; klicken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -689,9 +689,9 @@ Das Reputationsrad einer Begleitperson zeigt deren Reputationen bei den anderen 
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Schlüsselworte sind Beschreibungen wie Wasser, Feuer oder Frost.  Wasser kontert Feuer und Feuer kontert Frost. Die Beziehungen zwischen Schlüsselworten ist einseitig, Feuer kontert also &lt;i&gt;nicht&lt;/i&gt; Wasser.
+      <DefaultText>Schlüsselworte sind Beschreibungen wie Wasser, Feuer oder Frost. Wasser kontert Feuer und Feuer kontert Frost. Die Beziehungen zwischen Schlüsselworten ist einseitig, Feuer kontert also &lt;i&gt;nicht&lt;/i&gt; Wasser.
 
-Nehmen wir an, dass ein Charakter unter dem Einfluss von Flammenschild mit dem Flammen-Schlüsselwort ist. Ein Gegner trifft ihn mit Überwältigende Welle, verbunden mit dem Wasser-Schlüsselwort.  Die volle Wirkung von Überwältigende Welle trifft den Charakter und der Flammenschild wird entfernt.</DefaultText>
+Nehmen wir an, dass ein Charakter unter dem Einfluss von Flammenschild mit dem Flammen-Schlüsselwort ist. Ein Gegner trifft ihn mit Überwältigende Welle, verbunden mit dem Wasser-Schlüsselwort. Die volle Wirkung von Überwältigende Welle trifft den Charakter und der Flammenschild wird entfernt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -717,7 +717,7 @@ Ob auf der Weltkarte oder während eines Kampfes – wenn ein Mannschaftsmitglie
       <ID>128</ID>
       <DefaultText>Bestimmte Angriffe und Fähigkeiten machen Geräusche, auf die NPCs reagieren können. Wachen werden dem Geräusch nachgehen und aktiv den Bereich patrouillieren, den sie bewachen sollen.
 
-Die explosiven Böller, die gefertigt werden können, bringen jeden NPC in Reichweite  dazu, dem Geräusch nachzugehen. Dadurch kann sich für deine Charaktere die Chance ergeben, sich an Feinden vorbeizuschleichen.</DefaultText>
+Die explosiven Böller, die gefertigt werden können, bringen jeden NPC in Reichweite dazu, dem Geräusch nachzugehen. Dadurch kann sich für deine Charaktere die Chance ergeben, sich an Feinden vorbeizuschleichen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

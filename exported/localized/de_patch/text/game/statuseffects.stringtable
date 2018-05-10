@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Trifft zweimal, aber mit verringertem Schaden. (Sonne fügt 50 % Verbrennungsschaden hinzu.)  (Mond fügt 50 % Frostschaden hinzu.)</DefaultText>
+      <DefaultText>Trifft zweimal, aber mit verringertem Schaden. (Sonne fügt 50 % Verbrennungsschaden hinzu.) (Mond fügt 50 % Frostschaden hinzu.)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -626,12 +626,12 @@
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Verschafft dir bei Unbeweglichkeit einen der Vervielfachung unterliegenden Aktionsgeschwindigkeits-Bonus von {0:value:percent} für den Nahkampf bei einem Treffer.  (Vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>Verschafft dir bei Unbeweglichkeit einen der Vervielfachung unterliegenden Aktionsgeschwindigkeits-Bonus von {0:value:percent} für den Nahkampf bei einem Treffer. (Vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Verschafft dir bei Unbeweglichkeit einen der Vervielfachung unterliegenden Schaden im Nahkampf von  (Stacks {0:extravalue:straight} times) bei Empfang eines Treffers im Nahkampf. (Vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>Verschafft dir bei Unbeweglichkeit einen der Vervielfachung unterliegenden Schaden im Nahkampf von (Stacks {0:extravalue:straight} times) bei Empfang eines Treffers im Nahkampf. (Vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1226,7 +1226,7 @@
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Stellt beim Erzielen einer Tötung bei allen Verbündeten in der Nähe  {0:value} Gesundheit wieder her (Erhöht sich mit den Religionsfähigkeiten)</DefaultText>
+      <DefaultText>Stellt beim Erzielen einer Tötung bei allen Verbündeten in der Nähe {0:value} Gesundheit wieder her (Erhöht sich mit den Religionsfähigkeiten)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1266,12 +1266,12 @@
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>Gefrierschaden von Waffe  reduziert {0:value:percent} von der maximalen Gesundheit des Ziels</DefaultText>
+      <DefaultText>Gefrierschaden von Waffe reduziert {0:value:percent} von der maximalen Gesundheit des Ziels</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>{0:value:percent} Chance, dass sich der Schuss teilt und  {0:extravalue:straight} Geschosse gefeuert werden</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass sich der Schuss teilt und {0:extravalue:straight} Geschosse gefeuert werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1807,7 +1807,7 @@
     </Entry>
     <Entry>
       <ID>380</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration}  zu betäuben, wenn derjenige, der die Waffe führt, ein Zwerg ist</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} zu betäuben, wenn derjenige, der die Waffe führt, ein Zwerg ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2147,7 +2147,7 @@
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>Fügt Feinden bei einem Treffer einen vervielfachenden Effekt zu.  Bei einem kritischen Treffer verlieren alle Gegner im Wirkungsbereich sämtliche Vervielfältigungen und erleiden pro Vervielfältigung {0:extravalue} Schockschaden.</DefaultText>
+      <DefaultText>Fügt Feinden bei einem Treffer einen vervielfachenden Effekt zu. Bei einem kritischen Treffer verlieren alle Gegner im Wirkungsbereich sämtliche Vervielfältigungen und erleiden pro Vervielfältigung {0:extravalue} Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2212,7 +2212,7 @@
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit bei einem Treffer bis zum Ende des Kampfes.  Wirkung vervielfacht sich bis zu 15 Mal</DefaultText>
+      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit bei einem Treffer bis zum Ende des Kampfes. Wirkung vervielfacht sich bis zu 15 Mal</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2382,7 +2382,7 @@
     </Entry>
     <Entry>
       <ID>508</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration}  zu betäuben, wenn derjenige, der die Waffe führt, ein Zwerg ist</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} zu betäuben, wenn derjenige, der die Waffe führt, ein Zwerg ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
