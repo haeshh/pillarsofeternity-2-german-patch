@@ -4221,12 +4221,12 @@
     </Entry>
     <Entry>
       <ID>1578</ID>
-      <DefaultText>Der Kantor füllt sich mit manischer Energie, wodurch sich seine Angriffsgeschwindigkeit deutlich erhöht.</DefaultText>
+      <DefaultText>Der Sänger füllt sich mit manischer Energie, wodurch sich seine Angriffsgeschwindigkeit deutlich erhöht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1579</ID>
-      <DefaultText>Beschwört eine Sumpfspore, die für den Kantor kämpft.</DefaultText>
+      <DefaultText>Beschwört eine Sumpfspore, die für den Sänger kämpft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6573,9 +6573,20 @@ Verjüngungszauber von Druiden werden mit erhöhter Kraftstufe gewirkt.
 Während des Geisterwandelns ist der Bonus des Druiden für die Kraftstufe für Verjüngungszauber erheblich erhöht.
 
 Lerne die folgenden Druidenzauber auf neuen Kraftstufen:
-1.
+1. Kraft der Natur.
+2. Mondlicht
+3. Balsam der Natur
+4. Mondquelle
+5. Reinigender Wind
+6. Garten des Lebens
+7. Gabe der Natur
+8. Regenieren
+9. Pollenfleck
 
-Kraft der Natur. 2. Mondlicht 3. Balsam der Natur 4. Mondquelle 5. Reinigender Wind 6. Garten des Lebens 7. Gabe der Natur 5. Regenieren 6. Pollenfleck &lt;b&gt;Abzug&lt;/b&gt; Kann keinen Kreaturenbeschwörungszauber wirken. Nach dem Geisterwandeln erhält der Druide einen deutlichen Abzug bei der Kraftstufe für Verjüngungszauber, bis der Kampf beendet ist.</DefaultText>
+&lt;b&gt;Abzug&lt;/b&gt;
+Kann keinen Kreaturenbeschwörungszauber wirken.
+
+Nach dem Geisterwandeln erhält der Druide einen deutlichen Abzug bei der Kraftstufe für Verjüngungszauber, bis der Kampf beendet ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6593,7 +6604,17 @@ Elementarzauber von Druiden erhalten erhöhte Reichweite und Durchschlagskraft.
 Das Töten eines Feindes während des Geisterwandelns verlängert die Wirkungsdauer der Wandlung.
 
 Lerne die folgenden Druidenzauber auf neuen Kraftstufen:
-1. Tanzende Blitze 2. Explosion der Sommerflamme 3. Sturm der Wiederkehr 4. Hagelsturm 5. Unaufhörlicher Sturm 6. Sonnenlanze 7. Sturmtrotzer 8 Rächender Sturm 9. Großer Maelstrom &lt;b&gt;Abzug&lt;/b&gt;
+1. Tanzende Blitze
+2. Explosion der Sommerflamme
+3. Sturm der Wiederkehr
+4. Hagelsturm
+5. Unaufhörlicher Sturm
+6. Sonnenlanze
+7. Sturmtrotzer
+8 Rächender Sturm
+9. Großer Maelstrom
+
+&lt;b&gt;Abzug&lt;/b&gt;
 Verjüngungszauber können nicht verhängt werden.</DefaultText>
       <FemaleText />
     </Entry>
@@ -6612,7 +6633,18 @@ Geisterwandler hat eine verlängerte Wirkungsdauer.
 Nach dem Geisterwandeln heilt der Druide einen Teil seiner Gesundheit.
 
 Lerne die folgenden Druidenzauber auf neuen Kraftstufen:
-1. Zeichen der Natur 2. Insektenschwarm 3. Madenbefall 4. Form der Delemgan 5. Schrecken der Natur 6. Garten des Lebens 7. Rostige Rüstung 8. Entropie 9. Pollenfleck &lt;b&gt;Abzug&lt;/b&gt; Kann in Tiergestalt keine Zauber wirken.</DefaultText>
+1. Zeichen der Natur
+2. Insektenschwarm
+3. Madenbefall
+4. Form der Delemgan
+5. Schrecken der Natur
+6. Garten des Lebens
+7. Rostige Rüstung
+8. Entropie
+9. Pollenfleck
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Kann in Tiergestalt keine Zauber wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
