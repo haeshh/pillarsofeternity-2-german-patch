@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>{0:value:percent} Chance, sich selbst beim Angriff {0:extravalue} Verbrennungsschäden zuzuziehen.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, sich selbst beim Angriff {0:extravalue} Brandschäden zuzuziehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>{0:value:percentbonus} Korrosionsschaden für {0:extravalue:duration} bei einem Treffer (vervielfacht sich {0:triggercount}-mal)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Zersetzungsschaden für {0:extravalue:duration} bei einem Treffer (vervielfacht sich {0:triggercount}-mal)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,7 +246,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Chance, bei einem Treffer beim Ziel längere Zeit anhaltenden Korrosionsschaden zu verursachen</DefaultText>
+      <DefaultText>Chance, bei einem Treffer beim Ziel längere Zeit anhaltenden Zersetzungsschaden zu verursachen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Trifft zweimal, aber mit verringertem Schaden. (Sonne fügt 50 % Verbrennungsschaden hinzu.) (Mond fügt 50 % Frostschaden hinzu.)</DefaultText>
+      <DefaultText>Trifft zweimal, aber mit verringertem Schaden. (Sonne fügt 50 % Brandschaden hinzu.) (Mond fügt 50 % Frostschaden hinzu.)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,7 +371,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Derjenige, der die Waffe führt, erhält {0:value:percent} Schaden, der als Korrosionsschaden zurückgezahlt wird</DefaultText>
+      <DefaultText>Derjenige, der die Waffe führt, erhält {0:value:percent} Schaden, der als Zersetzungsschaden zurückgezahlt wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -546,7 +546,7 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer im Nahkampf den Wirkungskreis des Schmetterschadens zu unterbrechen.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer im Nahkampf den Wirkungskreis des Wuchtschadens zu unterbrechen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -556,7 +556,7 @@
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>Verwandelt {0:value:percent} Verbrennungsschaden in Gesundheit.</DefaultText>
+      <DefaultText>Verwandelt {0:value:percent} Brandschaden in Gesundheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -661,7 +661,7 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Der Träger ist immun gegen Korrosionsschaden, wenn er so sehr verletzt wurde, dass Blut fließt, oder dem Tode nahe ist</DefaultText>
+      <DefaultText>Der Träger ist immun gegen Zersetzungsschaden, wenn er so sehr verletzt wurde, dass Blut fließt, oder dem Tode nahe ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -681,7 +681,7 @@
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>{0:extravalue} Verbrennungs-Rüstwert, der sich erhöht, wenn der Träger an Gesundheit verliert (max {0:value} AR})</DefaultText>
+      <DefaultText>{0:extravalue} Brand-Rüstwert, der sich erhöht, wenn der Träger an Gesundheit verliert (max {0:value} AR})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -976,7 +976,7 @@
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>Verschafft dir +3 % Korrosionsschaden bei einem Treffer. Wirkung verzehnfacht</DefaultText>
+      <DefaultText>Verschafft dir +3 % Zersetzungsschaden bei einem Treffer. Wirkung verzehnfacht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1026,17 +1026,17 @@
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>Tötet mit &lt;xg&gt;Magrans&lt;/xg&gt; Gunst Gegner in der Nähe erleiden Verbrennungsschaden</DefaultText>
+      <DefaultText>Tötet mit &lt;xg&gt;Magrans&lt;/xg&gt; Gunst Gegner in der Nähe erleiden Brandschaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>{0:triggercount} Verbrennungsschaden pro {0:extravalue:duration} für eine Dauer von {0:value:duration} für das Ziel bei einem kritischen Treffer</DefaultText>
+      <DefaultText>{0:triggercount} Brandschaden pro {0:extravalue:duration} für eine Dauer von {0:value:duration} für das Ziel bei einem kritischen Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>{0:value:percent} des mit &lt;xg&gt;Magrans&lt;/xg&gt; Gunst zugefügten Verbrennungsschaden Heilt den Träger</DefaultText>
+      <DefaultText>{0:value:percent} des mit &lt;xg&gt;Magrans&lt;/xg&gt; Gunst zugefügten Brandschaden Heilt den Träger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1096,12 +1096,12 @@
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>Chance, bei einem Treffer beim Ziel längere Zeit anhaltenden Korrosionsschaden zu verursachen Dem Tode nahe Ziele können durch Anklicken sofort getötet werden</DefaultText>
+      <DefaultText>Chance, bei einem Treffer beim Ziel längere Zeit anhaltenden Zersetzungsschaden zu verursachen Dem Tode nahe Ziele können durch Anklicken sofort getötet werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>Chance, bei einem Treffer beim Ziel längere Zeit anhaltenden Korrosionsschaden zu verursachen Chance, das Ziel beim Anklicken zu lähmen</DefaultText>
+      <DefaultText>Chance, bei einem Treffer beim Ziel längere Zeit anhaltenden Zersetzungsschaden zu verursachen Chance, das Ziel beim Anklicken zu lähmen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1171,7 +1171,7 @@
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>Wirf 20 % des Verbrennungsschadens von einem Feuerangriff auf den Angreifer zurück</DefaultText>
+      <DefaultText>Wirf 20 % des Brandschadens von einem Feuerangriff auf den Angreifer zurück</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1261,7 +1261,7 @@
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>{0:value:percent} Verbrennungsschaden von der Waffe bringt Gesundheit zurück</DefaultText>
+      <DefaultText>{0:value:percent} Brandschaden von der Waffe bringt Gesundheit zurück</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1276,7 +1276,7 @@
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>Modifiziert belegte Munition bei einem Treffer mit {0:value:percent}, um über Zeit Verbrennungsschaden hinzuzufügen 
+      <DefaultText>Modifiziert belegte Munition bei einem Treffer mit {0:value:percent}, um über Zeit Brandschaden hinzuzufügen 
 </DefaultText>
       <FemaleText />
     </Entry>
@@ -1657,7 +1657,7 @@
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>+10 % Schaden bei einem kritischen Treffer als Korrosionsschaden bis zum Ende des Kampfes hinzugefügt Verzehnfachung</DefaultText>
+      <DefaultText>+10 % Schaden bei einem kritischen Treffer als Zersetzungsschaden bis zum Ende des Kampfes hinzugefügt Verzehnfachung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1787,7 +1787,7 @@
     </Entry>
     <Entry>
       <ID>376</ID>
-      <DefaultText>(Current Bonus: {0:value:percentbonus}) {0:extravalue:bonuspercentbonus} Jeglicher pro Wunde empfangener Schaden</DefaultText>
+      <DefaultText>(Derzeitiger Bonus: {0:value:percentbonus}) {0:extravalue:bonuspercentbonus} Jeglicher pro Wunde empfangener Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1857,7 +1857,7 @@
     </Entry>
     <Entry>
       <ID>393</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer mit Marux Amanth einen Flächenzauber mit Verbrennungsschaden zu wirken.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer mit Marux Amanth einen Flächenzauber mit Brandschaden zu wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1912,12 +1912,12 @@
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>Einen Gegner mit einem kritischen Treffer zu töten wirkt einen Flächenzauber mit Verbrennungsschaden</DefaultText>
+      <DefaultText>Einen Gegner mit einem kritischen Treffer zu töten wirkt einen Flächenzauber mit Brandschaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer oder kritischem Treffer einen kleinen Flächenzauber mit Verbrennungsschaden zu wirken</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer oder kritischem Treffer einen kleinen Flächenzauber mit Brandschaden zu wirken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2127,7 +2127,7 @@
     </Entry>
     <Entry>
       <ID>451</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Angriff einen kegelförmigen Flächenzauber mit Korrosionsschaden von sich selbst aus sowie Humpeln auf das Ziel zu wirken</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Angriff einen kegelförmigen Flächenzauber mit Zersetzungsschaden von sich selbst aus sowie Humpeln auf das Ziel zu wirken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2167,7 +2167,7 @@
     </Entry>
     <Entry>
       <ID>459</ID>
-      <DefaultText>+{0:value:percent} Schaden wird als Verbrennungsschaden gewirkt, wenn über {0:extravalue:percent} Gesundheit. +{0:value:percent} Schaden wird als Frostschaden gewirkt, wenn unter {0:extravalue:percent} Gesundheit</DefaultText>
+      <DefaultText>+{0:value:percent} Schaden wird als Brandschaden gewirkt, wenn über {0:extravalue:percent} Gesundheit. +{0:value:percent} Schaden wird als Frostschaden gewirkt, wenn unter {0:extravalue:percent} Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2282,7 +2282,7 @@
     </Entry>
     <Entry>
       <ID>486</ID>
-      <DefaultText>{0:extravalue:percent} Chance, Angriffen mit Schmetterschaden zu widerstehen</DefaultText>
+      <DefaultText>{0:extravalue:percent} Chance, Angriffen mit Wuchtschaden zu widerstehen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2522,12 +2522,12 @@
     </Entry>
     <Entry>
       <ID>551</ID>
-      <DefaultText>20 % Chance auf einen zusätzlichen Verbrennungsschaden bei Treffer</DefaultText>
+      <DefaultText>20 % Chance auf einen zusätzlichen Brandschaden bei Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>552</ID>
-      <DefaultText>20 % Chance auf einen zusätzlichen Verbrennungsschaden im Wirkungsradius bei Treffer</DefaultText>
+      <DefaultText>20 % Chance auf einen zusätzlichen Brandschaden im Wirkungsradius bei Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6532,7 +6532,7 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>1466</ID>
-      <DefaultText>Druiden wählen eine Schadensart (Hieb-, Stich-, Schmetter-, Verbrennungs-, Korrosions-, Frost- oder Elektroschockschaden), die jedem eingesetzten Angriff hinzugefügt wird, der einem Ziel eine dieser Schadensarten zufügt.</DefaultText>
+      <DefaultText>Druiden wählen eine Schadensart (Hieb-, Stich-, Wucht-, Brand-, Zersetzungs-, Frost- oder Elektroschockschaden), die jedem eingesetzten Angriff hinzugefügt wird, der einem Ziel eine dieser Schadensarten zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13370,7 +13370,7 @@ Verminderte Reflexe.</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Beginne den Kampf mit mehr Wunden.
 
-Höllenläufer-Mönche verschaffen sich mit jeder Wunde, die ihnen zugefügt wird.
+Höllenläufer-Mönche erwerben mit jeder Wunde, die ihnen zugefügt wird, mehr Macht.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Höllenläufer-Mönche erleiden mehr Schaden mit jeder Wunde, die ihnen zugefügt wird.</DefaultText>
@@ -13386,7 +13386,7 @@ Erzeugt Wunden solange man den Bonus von Drogen erhält.
 &lt;b&gt;Abzug&lt;/b&gt;
 Abzüge, die durch den Absturz von Drogen entstehen, machen es dem Mönch unmöglich, geheilt zu werden.
 
-Wunden arten aus, wenn man keine Vorteile von Drogen erhält.</DefaultText>
+Wunden gehen verloren, wenn man keine Vorteile von Drogen erhält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15886,7 +15886,7 @@ Multiklasse-Charaktere können Kräfte aus zwei Klassen auswählen, aber erhalte
     </Entry>
     <Entry>
       <ID>3329</ID>
-      <DefaultText>Seit {0} Tagen verletzt</DefaultText>
+      <DefaultText>Noch {0} weitere Tage verletzt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21443,7 +21443,7 @@ Keine.</DefaultText>
       <ID>4629</ID>
       <DefaultText>Eora: Eine Welt, auf der Sterbliche leben, sterben und durch das Drehen des &lt;b&gt;Rads&lt;/b&gt; wiedergeboren werden. Der Reinkarnationskreislauf wird von den Göttern überwacht und durch Säulen mit einer magischen Substanz namens &lt;b&gt;Adra&lt;/b&gt; ermöglicht.
 
-Vor fünf Jahren hast du dein Zuhause verlassen und bist in den Drywald gereist, einer Nation, die einen Krieg gegen den verkörperten Gott des Lichts, &lt;b&gt;Eothas&lt;/b&gt; führte, in dem der Gott zerstört wurde. Das Land litt in der Folge unter einer Plage von &lt;b&gt;Hohlgeborenen&lt;/b&gt;, Kinder, die ohne Seele geboren wurden – was viele als Strafe für das Töten eines Gottes ansahen. 
+Vor fünf Jahren hast du dein Zuhause verlassen und bist in den Dyrwald gereist, einer Nation, die einen Krieg gegen den verkörperten Gott des Lichts, &lt;b&gt;Eothas&lt;/b&gt; führte, in dem der Gott zerstört wurde. Das Land litt in der Folge unter einer Plage von &lt;b&gt;Hohlgeborenen&lt;/b&gt;, Kinder, die ohne Seele geboren wurden – was viele als Strafe für das Töten eines Gottes ansahen. 
 
 In einer alten, abgeschiedenen Ruine hast du ein geheimes Ritual beobachtet, das dich unbeabsichtigterweise in einen &lt;b&gt;Wächter&lt;/b&gt; verwandelt hat, der Seelen sehen und mit ihnen sprechen kann.
 
