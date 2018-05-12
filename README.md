@@ -1,5 +1,6 @@
 # pillarsofeternity-2-german-patch
 This fixes errors in the german translation of Pillars of Eternity II: Deadfire
+Von denen es leider allerhand gab und gibt. Auﬂerdem gibt es einen kompletten Satz Typographie, weil ich diese "" ingame nicht ausstehen kann.
 
 
 **Important:**
@@ -21,3 +22,8 @@ Here are a few easy to use clients:
 	* https://wiki.gnome.org/Apps/Gitg/
 	* http://www.syntevo.com/smartgit/
 
+# Credits
+Xaratas
+Aurelio
+Madscientist
+Glurak
