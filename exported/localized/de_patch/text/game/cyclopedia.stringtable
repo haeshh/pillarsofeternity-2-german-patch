@@ -154,7 +154,7 @@ Wie alle anderen lebenden Kreaturen verfügen sie über ein Maß an Seelenessenz
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>In den Städten des Dyrwalds haben die Will-o-Wisps einen fast mythologischen Status und kommen in mehreren Ammenmärchen vor. Eines der beliebtesten davon deutet an, dass Will-o-Wisps die Seelen verlorener Kinder sind, die auf ihre nächsten Leben zuwandern. In ländlichen Gebieten betrachten jene, die regelmäßig in Kontakt mit Will-o-Wisps kommen, diese Geschichte einigermaßen amüsiert. 
+      <DefaultText>In den Städten des Dyrwalds haben die Irrlichter einen fast mythologischen Status und kommen in mehreren Ammenmärchen vor. Eines der beliebtesten davon deutet an, dass Irrlichter die Seelen verlorener Kinder sind, die auf ihre nächsten Leben zuwandern. In ländlichen Gebieten betrachten jene, die regelmäßig in Kontakt mit Irrlicht kommen, diese Geschichte einigermaßen amüsiert. 
 Wisps sind bekannt dafür, verlassene Ruinen und andere verlorene Orte zu bewohnen. Man hält sie für neugierige Kreaturen, dass sie Reisenden manchmal für kurze Zeit folgen. Obwohl Wisps normalerweise friedlich sind, reagieren sie auf Provokationen mit notorischen Aggressivität, und wenn sie eine Bedrohung ihrer Territorien wahrnehmen, verteidigen sie diese mit äußester Brutalität. Aus diesem Grund werden Wisps oft als das Unkraut der Geisterwelt beschrieben - schnell, zur schnellen Regeneration fähig und in großer Zahl fast nicht aufzuhalten.</DefaultText>
       <FemaleText />
     </Entry>
@@ -535,7 +535,7 @@ Einige Kreaturen können manchen Wirkungen gegenüber immun sein. In diesem Fall
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Wird ein Charakter mit passiven Talenten oder Fähigkeiten ausgestattet, erhält er den entsprechenden Bonus automatisch. Ein Charakter mit 'Reflexe der Schlange' erhält den Bonus auf seine Reflexe beispielsweise automatisch.</DefaultText>
+      <DefaultText>Wird ein Charakter mit passiven Talenten oder Fähigkeiten ausgestattet, erhält er den entsprechenden Bonus automatisch. Ein Charakter mit „Reflexe der Schlange“ erhält den Bonus auf seine Reflexe beispielsweise automatisch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -785,9 +785,9 @@ Einige Kreaturen, besonders große Exemplare, können mehr als eine Kreatur glei
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Wenn im Nahkampf zwei Angreifer aus unterschiedlichen Richtungen eine Nahkampfbindung mit ein und demselben Gegner eingehen, 'flankieren' sie ihn. Dadurch wird der Verteidiger mit dem Flankiert-Status belegt - er leidet unter verschiedenen Mali und kann mit einem Schleichangriff angegriffen werden. Jeder Zustand, der die Angriffsbindung eines Angreifers aufhebt, entfernt auch den Flankiert-Status des Verteidigers, wenn dieser nicht ohne den Angreifer aufrecht gehalten werden kann.
+      <DefaultText>Wenn im Nahkampf zwei Angreifer aus unterschiedlichen Richtungen eine Nahkampfbindung mit ein und demselben Gegner eingehen, „flankieren“ sie ihn. Dadurch wird der Verteidiger mit dem Flankiert-Status belegt - er leidet unter verschiedenen Mali und kann mit einem Schleichangriff angegriffen werden. Jeder Zustand, der die Angriffsbindung eines Angreifers aufhebt, entfernt auch den Flankiert-Status des Verteidigers, wenn dieser nicht ohne den Angreifer aufrecht gehalten werden kann.
 
-Hinweis: Es gibt einige Fähigkeiten, die Ausnahmen zu den üblichen Flankierungsregeln verleihen, zum Beispiel 'Einer alleine' (Barbar), Pirscher (Waldläufer) und Phantomfeinde (Medium).</DefaultText>
+Hinweis: Es gibt einige Fähigkeiten, die Ausnahmen zu den üblichen Flankierungsregeln verleihen, zum Beispiel ‚Einer alleine‘ (Barbar), Pirscher (Waldläufer) und Phantomfeinde (Medium).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1237,7 +1237,7 @@ Selbst ein normalerweise feindlicher Wirkungsbereich wirkt sich aber nicht auf V
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Ein Gegenstand mit der Eigenschaft 'Zauberbindung' ermöglicht den Einsatz einer Fähigkeit oder eines Zaubers, während der Gegenstand ausgerüstet ist.</DefaultText>
+      <DefaultText>Ein Gegenstand mit der Eigenschaft „Zauberbindung“ ermöglicht den Einsatz einer Fähigkeit oder eines Zaubers, während der Gegenstand ausgerüstet ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1247,7 +1247,7 @@ Selbst ein normalerweise feindlicher Wirkungsbereich wirkt sich aber nicht auf V
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>Gegenstände mit der Eigenschaft 'Zauberwirkung' lösen automatisch die angegebene Fähigkeit bzw. den angegebenen Zauber aus, wenn der Nutzer des Gegenstands im Kampf einen kritischen Treffer erleidet. Die Zauberwirkung wird maximal zweimal pro Begegnung ausgelöst.</DefaultText>
+      <DefaultText>Gegenstände mit der Eigenschaft „Zauberwirkung“ lösen automatisch die angegebene Fähigkeit bzw. den angegebenen Zauber aus, wenn der Nutzer des Gegenstands im Kampf einen kritischen Treffer erleidet. Die Zauberwirkung wird maximal zweimal pro Begegnung ausgelöst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1257,7 +1257,7 @@ Selbst ein normalerweise feindlicher Wirkungsbereich wirkt sich aber nicht auf V
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Waffen mit der Eigenschaft 'Zauberschlag' lösen die angegebene Fähigkeit bzw. den angegebenen Zauber aus, wenn der Nutzer der Waffe einen kritischen Treffer gegen einen Feind landet. Der Zauberschlag kann nur einmal pro Begegnung ausgelöst werden.</DefaultText>
+      <DefaultText>Waffen mit der Eigenschaft „Zauberschlag“ lösen die angegebene Fähigkeit bzw. den angegebenen Zauber aus, wenn der Nutzer der Waffe einen kritischen Treffer gegen einen Feind landet. Der Zauberschlag kann nur einmal pro Begegnung ausgelöst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1329,7 +1329,7 @@ Die Wappen der Weißmark sind noch heute auf edlen Bronze- und Stahlstücken zu 
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>Waffen mit der Eigenschaft 'Zauberchance' haben die Chance, die angegebene Fähigkeit bzw. den angegebenen Zauber auszulösen, meist bei einem Treffer oder einem kritischen Treffer.</DefaultText>
+      <DefaultText>Waffen mit der Eigenschaft „Zauberchance“ haben die Chance, die angegebene Fähigkeit bzw. den angegebenen Zauber auszulösen, meist bei einem Treffer oder einem kritischen Treffer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1506,7 +1506,7 @@ Ein Kern aus leuchtendem Adra ruht in der Brust des Titanen. Diesem Kanalisierer
     </Entry>
     <Entry>
       <ID>364</ID>
-      <DefaultText>Huana für 'große Person'. Der Paki Takiri nimmt die Rolle des Vermittlers und Schlichters zwischen den Stammesangehörigen der Huana-Stämme ein. Im Gegensatz zum Häuptling führt der Paki Takiri den Stamm nicht an, sondern bietet ihm Weisheiten und Ratschläge an und fungiert je nach Bedarf als Berater oder Vermittler.</DefaultText>
+      <DefaultText>Huana für „große Person“. Der Paki Takiri nimmt die Rolle des Vermittlers und Schlichters zwischen den Stammesangehörigen der Huana-Stämme ein. Im Gegensatz zum Häuptling führt der Paki Takiri den Stamm nicht an, sondern bietet ihm Weisheiten und Ratschläge an und fungiert je nach Bedarf als Berater oder Vermittler.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2087,7 +2087,7 @@ Ihre Jagdmethoden sind etwas unorthodox. Sie nutzen keine Echoortung, sondern fl
     </Entry>
     <Entry>
       <ID>480</ID>
-      <DefaultText>Die Kategorie von Biestern ist eine recht durchlässige, da sie sowohl normale Tiere wie Hunde als auch magische Kreaturen wie Drachen beschreibt. Auch wenn es viele Definitionen eines 'Biestes' gibt, werden allgemein Arten als solche angesehen, die keine Organisation in der Gruppe aufrechterhalten, die der durchschnittliche Gestandene als eine Gesellschaft anerkennen würde.</DefaultText>
+      <DefaultText>Die Kategorie von Biestern ist eine recht durchlässige, da sie sowohl normale Tiere wie Hunde als auch magische Kreaturen wie Drachen beschreibt. Auch wenn es viele Definitionen eines „Biestes“ gibt, werden allgemein Arten als solche angesehen, die keine Organisation in der Gruppe aufrechterhalten, die der durchschnittliche Gestandene als eine Gesellschaft anerkennen würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
