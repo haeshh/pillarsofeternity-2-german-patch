@@ -50,6 +50,11 @@ class Entry {
 			DefaultText = String.join("\n", parts);
 		}
 		
+		while(DefaultText.contains("”")) {
+			DefaultText = DefaultText.replaceFirst("”","“"); // Englische Anführungszeichen
+			tausch++;
+		}
+		
 		while(DefaultText.contains("\"") && !DefaultText.contains("=")) {
 			DefaultText = DefaultText.replaceFirst("\"", "„").replaceFirst("\"", "“");
 			tausch++;
@@ -67,6 +72,12 @@ class Entry {
 			}
 			FemaleText = String.join("\n", parts);
 		}
+		
+		while(FemaleText.contains("”")) {
+			FemaleText = FemaleText.replaceFirst("”","“"); // Englische Anführungszeichen
+			tausch++;
+		}
+		
 		while(FemaleText.contains("\"") && !FemaleText.contains("=")) {
 			FemaleText = FemaleText.replaceFirst("\"", "„").replaceFirst("\"", "“");
 			tausch++;
@@ -192,6 +203,11 @@ class Entry {
 			DefaultText = DefaultText.replaceFirst(" “", "“ ");
 			satzzeichen++;
 		}
+		while(DefaultText.contains("““")) {
+			DefaultText = DefaultText.replaceFirst("““", "“");
+			satzzeichen++;
+		}
+		
 		
 		while(FemaleText.contains("  ")) {
 			FemaleText = FemaleText.replaceFirst("  ", " ");
@@ -219,6 +235,10 @@ class Entry {
 		}
 		while(FemaleText.contains(" “")) {
 			FemaleText = FemaleText.replaceFirst(" “", "“ ");
+			satzzeichen++;
+		}
+		while(FemaleText.contains("““")) {
+			FemaleText = FemaleText.replaceFirst("““", "“");
 			satzzeichen++;
 		}
 		
@@ -314,23 +334,23 @@ class Entry {
 	}
 	
 	public Pair<Long, Long> tagBalanceCheck3() {
-		long eckige = 0, runde = 0;
+		long double_ = 0, single = 0;
 		
 		if(DefaultText.chars().filter(ch -> ch =='„').count()  != DefaultText.chars().filter(ch -> ch =='“').count()) {
-			runde++;
+			double_++;
 		}
 		if(DefaultText.chars().filter(ch -> ch =='‚').count()  != DefaultText.chars().filter(ch -> ch =='‘').count()) {
-			eckige++;
+			single++;
 		}
 		
 		if(FemaleText.chars().filter(ch -> ch =='„').count()  != FemaleText.chars().filter(ch -> ch =='“').count()) {
-			runde++;
+			double_++;
 		}
 		if(FemaleText.chars().filter(ch -> ch =='‚').count()  != FemaleText.chars().filter(ch -> ch =='‘').count()) {
-			eckige++;
+			single++;
 		}
 		
-		return new Pair<Long, Long>(eckige, runde);
+		return new Pair<Long, Long>(double_, single);
 	}
 	
 	public void DocuHelper(){

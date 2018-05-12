@@ -24,6 +24,11 @@ Here are a few easy to use clients:
 
 # Credits
 Xaratas
+
 Aurelio
+
 Madscientist
+
 Glurak
+
+Pseudohalogen
