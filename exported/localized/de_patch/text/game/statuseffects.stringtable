@@ -386,7 +386,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Chance, bei einem kritischen Treffer beim Ziel über einen Zeitraum von 12,0 Sekunden Behinderung, einen K.O. oder reinen Schaden zu verursachen - oder eine Verringerung der Aktionsgeschwindigkeit um 25 %</DefaultText>
+      <DefaultText>Chance, bei einem kritischen Treffer beim Ziel über einen Zeitraum von 12,0 Sekunden Behinderung, einen K.O. oder reinen Schaden zu verursachen – oder eine Verringerung der Aktionsgeschwindigkeit um 25 %</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -876,7 +876,7 @@
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>{0:triggervalue:duration} lang {0:value:percent} Schadensverringerung bei einem Treffer (Wirkung vervielfacht sich {0:extravalue:straight}.) )(Erhöht sich mit den metaphysischen Fähigkeiten)</DefaultText>
+      <DefaultText>{0:triggervalue:duration} lang {0:value:percent} Schadensverringerung bei einem Treffer (Wirkung vervielfacht sich {0:extravalue:straight}.) (Erhöht sich mit den metaphysischen Fähigkeiten)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1041,7 +1041,7 @@
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>Töten mit &lt;xg&gt;Magrans&lt;/xg&gt; Gunst gewährt {0:value:percent} Schaden als Verbrennung und {0:extravalue:percent} Aktionsgeschwindigkeit (Wirkung vervielfacht sich {0:triggervalue:straight} Mal.</DefaultText>
+      <DefaultText>Töten mit &lt;xg&gt;Magrans&lt;/xg&gt; Gunst gewährt {0:value:percent} Schaden als Verbrennung und {0:extravalue:percent} Aktionsgeschwindigkeit (Wirkung vervielfacht sich {0:triggervalue:straight} Mal.)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

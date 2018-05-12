@@ -166,7 +166,7 @@ Ein höherer, finaler Angriffswurf ist immer besser. 0-24 = Fehlschlag, 24-49 = 
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Drücke &lt;sprite="Inline" name="ico_charsheet" tint=1&gt; oder die Taste [C], um den Charakterbogen zu öffnen. Wähle den Reiter ‚Reputation‘ und anschließend das Portrait eines beliebigen Gefährten aus, um dessen Beziehungen zu anderen Gruppenmitgliedern anzuzeigen.</DefaultText>
+      <DefaultText>Drücke &lt;sprite="Inline" name="ico_charsheet" tint=1&gt; oder die Taste [C], um den Charakterbogen zu öffnen. Wähle den Reiter „Reputation“ und anschließend das Portrait eines beliebigen Gefährten aus, um dessen Beziehungen zu anderen Gruppenmitgliedern anzuzeigen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -339,7 +339,7 @@ Ein aktiver Gesang spielt automatisch jede einzelne Phrase in der vorgegebenen R
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Durch einen Klick auf die Weltkarte bewegst du deine Gruppe an den ausgewählten Standort. Um ein- bzw. auszuschalten, dass die Kamera der Gruppe automatisch folgt, klicke auf die Option 'Kameraverfolgung an' unten rechts.</DefaultText>
+      <DefaultText>Durch einen Klick auf die Weltkarte bewegst du deine Gruppe an den ausgewählten Standort. Um ein- bzw. auszuschalten, dass die Kamera der Gruppe automatisch folgt, klicke auf die Option „Kameraverfolgung an“ unten rechts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -349,7 +349,7 @@ Ein aktiver Gesang spielt automatisch jede einzelne Phrase in der vorgegebenen R
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Klicke auf &lt;sprite="Inline" name="ico_charsheet" tint=1&gt; oder die [C]-Taste, um den Charakterbogen anzuzeigen. Wähle den Reiter ‚Reputation‘, um die Reputation anzuzeigen, die der Charakter in der Fraktion und der Gemeinschaft erworben hat.
+      <DefaultText>Klicke auf &lt;sprite="Inline" name="ico_charsheet" tint=1&gt; oder die [C]-Taste, um den Charakterbogen anzuzeigen. Wähle den Reiter „Reputation“, um die Reputation anzuzeigen, die der Charakter in der Fraktion und der Gemeinschaft erworben hat.
 
 Positive Reputation bei Fraktionen wird mit einem blauen Balken und negative Reputation mit einem roten Balken angezeigt.</DefaultText>
       <FemaleText />
@@ -465,7 +465,7 @@ Du kannst außerdem im Verhaltenseditor auch vorhandene Verhaltensweisen anpasse
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Du musst dich in einem Hafen befinden, um neue Seeleute auf dem Schiff zu platzieren. Klicke im Bereich 'Bekannte Seemänner' auf verfügbare Seeleute und ziehe sie auf eine offene Position auf dem Schiff. Beachte: Alle Seeleute verfügen über unterschiedliche Talente. Nicht alle sind für jede Arbeit gleich gut geeignet. Du kannst die 'Bekannten Seelmänner' durchsuchen und dabei einen Filter nach Jobarten einsetzen, um Seeleute zu finden, die für eine bestimmte Arbeit besonders geeignet sind.</DefaultText>
+      <DefaultText>Du musst dich in einem Hafen befinden, um neue Seeleute auf dem Schiff zu platzieren. Klicke im Bereich „Bekannte Seemänner“ auf verfügbare Seeleute und ziehe sie auf eine offene Position auf dem Schiff. Beachte: Alle Seeleute verfügen über unterschiedliche Talente. Nicht alle sind für jede Arbeit gleich gut geeignet. Du kannst die ‚Bekannten Seelmänner‘ durchsuchen und dabei einen Filter nach Jobarten einsetzen, um Seeleute zu finden, die für eine bestimmte Arbeit besonders geeignet sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -512,7 +512,7 @@ Der Navigator erhöht die Geschwindigkeit auf der Weltkarte und der Koch verring
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>Klicke auf die Dropdown-Liste der 'Bekannten Orte', um eine Liste der Orte anzuzeigen, die du bereits entdeckt hast. Du kannst nach einem bestimmten Ort auch mithilfe seines Namens suchen. In tieferen Gewässern sind die Schiffe schneller und in seichteren langsamer.</DefaultText>
+      <DefaultText>Klicke auf die Dropdown-Liste der „Bekannten Orte“, um eine Liste der Orte anzuzeigen, die du bereits entdeckt hast. Du kannst nach einem bestimmten Ort auch mithilfe seines Namens suchen. In tieferen Gewässern sind die Schiffe schneller und in seichteren langsamer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -578,7 +578,7 @@ Wenn du das andere Schiff versenkt oder seine Mannschaft beim Kampf an Deck besi
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Es kann bei Schiffskämpfen und während Begegnungen auf See zu Verletzungen kommen. Verletzungen schränken die Fähigkeiten der Mannschaftsmitglieder ein. Während eines Kampfes kannst du den Befehl 'Bericht an …' verwenden, um ein verletztes Mannschaftsmitglied der Reserve zuzuweisen, wo es vom Schiffsarzt geheilt werden kann. Solange sie verletzt sind, können Seeleute während eines Kampfes ihren Job nicht erledigen – es sei denn, der Schiffsarzt kümmert sich um sie.
+      <DefaultText>Es kann bei Schiffskämpfen und während Begegnungen auf See zu Verletzungen kommen. Verletzungen schränken die Fähigkeiten der Mannschaftsmitglieder ein. Während eines Kampfes kannst du den Befehl „Bericht an …“ verwenden, um ein verletztes Mannschaftsmitglied der Reserve zuzuweisen, wo es vom Schiffsarzt geheilt werden kann. Solange sie verletzt sind, können Seeleute während eines Kampfes ihren Job nicht erledigen – es sei denn, der Schiffsarzt kümmert sich um sie.
 
 Wenn du auf der Weltkarte ein verletztes Mannschaftsmitglied dazu zwingst, seinen Job dennoch weiter zu erledigen, hat das gravierende Auswirkungen auf die Moral der gesamten Mannschaft. Solange sie sich im Reserve-Slot befinden, können Mannschaftsmitglieder immer vom Schiffsarzt geheilt werden.
 
@@ -669,7 +669,7 @@ Das Reputationsrad einer Begleitperson zeigt deren Reputationen bei den anderen 
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Manchmal kann ein Angriff auf dein Schiff ein Schiffsereignis auslösen. Dabei handelt es sich um ein anhaltendes Problem. Du musst Mannschaftsmitglieder abstellen, die sich darum kümmern. Verwende den Befehl 'Bericht an …', um einem Ereignis Mannschaftsmitglieder zuzuweisen. Je mehr Mannschaftsmitglieder du einem Ereignis zuweist, desto schneller kann das Ereignis gelöst werden.</DefaultText>
+      <DefaultText>Manchmal kann ein Angriff auf dein Schiff ein Schiffsereignis auslösen. Dabei handelt es sich um ein anhaltendes Problem. Du musst Mannschaftsmitglieder abstellen, die sich darum kümmern. Verwende den Befehl „Bericht an …“, um einem Ereignis Mannschaftsmitglieder zuzuweisen. Je mehr Mannschaftsmitglieder du einem Ereignis zuweist, desto schneller kann das Ereignis gelöst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -710,7 +710,7 @@ Du kannst diese Ermächtigung pro Kampf einmal verwenden, und eine begrenzte Anz
       <ID>127</ID>
       <DefaultText>Wenn du auf der Weltkarte ein verletztes Mannschaftsmitglied dazu zwingst, seinen Job dennoch weiter zu erledigen, hat das gravierende Auswirkungen auf die Moral. Solange sie sich im Reserve-Slot befinden, können Mannschaftsmitglieder immer vom Schiffsarzt geheilt werden.
 
-Ob auf der Weltkarte oder während eines Kampfes – wenn ein Mannschaftsmitglied insgesamt vier Verletzungen erlitten hat, bedeutet das den Tod. Daran kann auch der Schiffsarzt nichts ändern. =&gt; Verletzungen können bei Schiffskämpfen und Begegnungen auf See entstehen. Verletzungen schränken die Fähigkeiten der Mannschaftsmitglieder ein. Während eines Kampfes kannst du den Befehl 'Bericht an …' verwenden, um ein verletztes Mannschaftsmitglied der Reserve zuzuweisen, wo es vom Schiffsarzt geheilt werden kann. Solange sie verletzt sind, können Seeleute während eines Kampfes ihren Job nicht erledigen – es sei denn, der Schiffsarzt kümmert sich um sie.</DefaultText>
+Ob auf der Weltkarte oder während eines Kampfes – wenn ein Mannschaftsmitglied insgesamt vier Verletzungen erlitten hat, bedeutet das den Tod. Daran kann auch der Schiffsarzt nichts ändern. =&gt; Verletzungen können bei Schiffskämpfen und Begegnungen auf See entstehen. Verletzungen schränken die Fähigkeiten der Mannschaftsmitglieder ein. Während eines Kampfes kannst du den Befehl „Bericht an …“ verwenden, um ein verletztes Mannschaftsmitglied der Reserve zuzuweisen, wo es vom Schiffsarzt geheilt werden kann. Solange sie verletzt sind, können Seeleute während eines Kampfes ihren Job nicht erledigen – es sei denn, der Schiffsarzt kümmert sich um sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
