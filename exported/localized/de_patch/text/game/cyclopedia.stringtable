@@ -280,12 +280,12 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Dominiert</DefaultText>
+      <DefaultText>Beherrscht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Intelligenz-Wirkung. Dominierte Charaktere unterliegen dem Willen des Gegners und werden alles tun, um gegen ihre einstigen Verbündeten zu kämpfen. -5 Intelligenz.</DefaultText>
+      <DefaultText>Intelligenz-Wirkung. Beherrschte Charaktere unterliegen dem Willen des Gegners und werden alles tun, um gegen ihre einstigen Verbündeten zu kämpfen. -5 Intelligenz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3012,7 +3012,7 @@ Das Schloss fiel dir quasi in den Schoß, nachdem du seinen vorherigen Besitzer,
       <ID>689</ID>
       <DefaultText>Inspirationen sind, ähnlich wie Wirkungen, verschiedene Effekte, die auf Charaktere wirken. Im Gegensatz zu Wirkungen haben Inspirationen positive Auswirkungen auf die betroffenen Charaktere.
 
-Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht oder Gewandtheit) bestimmt. Inspirationen wirken den Wirkungen entgegen, die mit dem jeweiligen Attribut verbunden sind, und gewähren ihnen gegenüber Immunität. Die Inspiration Klug beispielsweise setzt die Wirkung von Verwirrt, Bezaubert und Dominiert aus und entfernt sie.</DefaultText>
+Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht oder Gewandtheit) bestimmt. Inspirationen wirken den Wirkungen entgegen, die mit dem jeweiligen Attribut verbunden sind, und gewähren ihnen gegenüber Immunität. Die Inspiration Klug beispielsweise setzt die Wirkung von Verwirrt, Bezaubert und Beherrscht aus und entfernt sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3052,7 +3052,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>697</ID>
-      <DefaultText>Die Wirkungen Verwirrt, Bezaubert und Dominiert beeinflussen die Intelligenz. Diesen Wirkungen kann mit einer Intelligenzinspiration entgegengewirkt werden (Klug, Scharfsinnig, Brillant).</DefaultText>
+      <DefaultText>Die Wirkungen Verwirrt, Bezaubert und Beherrscht beeinflussen die Intelligenz. Diesen Wirkungen kann mit einer Intelligenzinspiration entgegengewirkt werden (Klug, Scharfsinnig, Brillant).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3102,7 +3102,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>707</ID>
-      <DefaultText>Die Inspirationen Klug, Scharfsinnig und Brillant beeinflussen Intelligenz. Diesen Inspirationen kann mit einer Intelligenzwirkung entgegengewirkt werden (Verwirrt, Bezaubert, Dominiert).</DefaultText>
+      <DefaultText>Die Inspirationen Klug, Scharfsinnig und Brillant beeinflussen Intelligenz. Diesen Inspirationen kann mit einer Intelligenzwirkung entgegengewirkt werden (Verwirrt, Bezaubert, Beherrscht).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
