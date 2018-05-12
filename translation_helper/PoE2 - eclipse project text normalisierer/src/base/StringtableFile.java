@@ -81,19 +81,34 @@ class Entry {
 			int i = 0;
 			i = DefaultText.indexOf("link=", 0);
 			if(i>0)DefaultText = DefaultText.substring(0, i+5) + DefaultText.substring(i+5).replaceFirst("„", "\"").replaceFirst("“", "\"");
-			i = DefaultText.indexOf("color=", 0);
+			i = DefaultText.indexOf("color=", 0);                                                          
 			if(i>0)DefaultText = DefaultText.substring(0, i+6) + DefaultText.substring(i+6).replaceFirst("„", "\"").replaceFirst("“", "\"");
-			i = DefaultText.indexOf("sprite=", 0);
+			i = DefaultText.indexOf("sprite=", 0);                                                         
 			if(i>0)DefaultText = DefaultText.substring(0, i+6) + DefaultText.substring(i+6).replaceFirst("„", "\"").replaceFirst("“", "\"");
-			i = DefaultText.indexOf("name=", 0);
+			i = DefaultText.indexOf("name=", 0);                                                           
 			if(i>0)DefaultText = DefaultText.substring(0, i+5) + DefaultText.substring(i+5).replaceFirst("„", "\"").replaceFirst("“", "\"");
 
 			
 			tokenFehler++;
 		}
 		
+		if(DefaultText.contains("=“")) {
+			int i = 0;
+			i = DefaultText.indexOf("link=", 0);
+			if(i>0)DefaultText = DefaultText.substring(0, i+5) + DefaultText.substring(i+5).replaceFirst("“", "\"").replaceFirst("„", "\"");
+			i = DefaultText.indexOf("color=", 0);                                                                                  
+			if(i>0)DefaultText = DefaultText.substring(0, i+6) + DefaultText.substring(i+6).replaceFirst("“", "\"").replaceFirst("„", "\"");
+			i = DefaultText.indexOf("sprite=", 0);                                                                                 
+			if(i>0)DefaultText = DefaultText.substring(0, i+6) + DefaultText.substring(i+6).replaceFirst("“", "\"").replaceFirst("„", "\"");
+			i = DefaultText.indexOf("name=", 0);                                                                                   
+			if(i>0)DefaultText = DefaultText.substring(0, i+5) + DefaultText.substring(i+5).replaceFirst("“", "\"").replaceFirst("„", "\"");
+
+			
+			tokenFehler++;
+		}
 		
-		if(FemaleText.contains("=")) {
+		
+		if(FemaleText.contains("=„")) {
 			int i = 0;
 			i = FemaleText.indexOf("link=", 0);
 			if(i>0)FemaleText = FemaleText.substring(0, i+5) + FemaleText.substring(i+5).replaceFirst("„", "\"").replaceFirst("“", "\"");
@@ -103,6 +118,20 @@ class Entry {
 			if(i>0)FemaleText = FemaleText.substring(0, i+6) + FemaleText.substring(i+6).replaceFirst("„", "\"").replaceFirst("“", "\"");
 			i = FemaleText.indexOf("name=", 0);
 			if(i>0)FemaleText = FemaleText.substring(0, i+5) + FemaleText.substring(i+5).replaceFirst("„", "\"").replaceFirst("“", "\"");
+
+			tokenFehler++;
+		}
+		
+		if(FemaleText.contains("=“")) {
+			int i = 0;
+			i = FemaleText.indexOf("link=", 0);
+			if(i>0)FemaleText = FemaleText.substring(0, i+5) + FemaleText.substring(i+5).replaceFirst("“", "\"").replaceFirst("„", "\"");
+			i = FemaleText.indexOf("color=", 0);                                                                                
+			if(i>0)FemaleText = FemaleText.substring(0, i+6) + FemaleText.substring(i+6).replaceFirst("“", "\"").replaceFirst("„", "\"");
+			i = FemaleText.indexOf("sprite=", 0);                                                                               
+			if(i>0)FemaleText = FemaleText.substring(0, i+6) + FemaleText.substring(i+6).replaceFirst("“", "\"").replaceFirst("„", "\"");
+			i = FemaleText.indexOf("name=", 0);                                                                                 
+			if(i>0)FemaleText = FemaleText.substring(0, i+5) + FemaleText.substring(i+5).replaceFirst("“", "\"").replaceFirst("„", "\"");
 
 			tokenFehler++;
 		}
@@ -263,14 +292,21 @@ class Entry {
 		if(DefaultText.chars().filter(ch -> ch =='{').count()  != DefaultText.chars().filter(ch -> ch =='}').count()) {
 			geschweift++;
 		}
-		if(DefaultText.split("&lt;", -1).length-1 != DefaultText.split("&gt;", -1).length-1) {
+		if(DefaultText.split("<", -1).length-1 != DefaultText.split(">", -1).length-1) {
 			html++;
 		}
+		if((DefaultText.split("<", -1).length-1) % 2 != 0) { 
+			html++;
+		}
+		// Todo unvollständige Tags
 		
 		if(FemaleText.chars().filter(ch -> ch =='{').count()  != FemaleText.chars().filter(ch -> ch =='}').count()) {
 			geschweift++;
 		}
-		if(FemaleText.split("&lt;", -1).length-1 != FemaleText.split("&gt;", -1).length-1) {
+		if(FemaleText.split("<", -1).length-1 != FemaleText.split(">", -1).length-1) {
+			html++;
+		}
+		if((FemaleText.split("<", -1).length-1) % 2 != 0) { 
 			html++;
 		}
 		
@@ -295,6 +331,12 @@ class Entry {
 		}
 		
 		return new Pair<Long, Long>(eckige, runde);
+	}
+	
+	public void DocuHelper(){
+		if(DefaultText.contains("<")) {
+			System.out.println(DefaultText);
+		}
 	}
 }
 

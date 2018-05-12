@@ -70,8 +70,8 @@ public class Cleanup {
 				countLeerzeichen.a += count2.a;
 				countLeerzeichen.b += count2.b;
 				
-				//count2 = entry.repairTags();
-				//countTags.a += count2.a;
+				count2 = entry.repairTags();
+				countTags.a += count2.a;
 				
 				count2 = entry.tagBalanceCheck1();
 				balance1.a += count2.a;
@@ -92,6 +92,8 @@ public class Cleanup {
 				
 				count2 = entry.cleanBindestrich();
 				bindestrich.a += count2.a;
+				
+		//		entry.DocuHelper();
 			}		
 		    
 		    m.marshal(stringtable, path.toFile());
@@ -115,7 +117,7 @@ public class Cleanup {
 		System.out.println("( ): " + balance1.a);
 		System.out.println("[ ]: " + balance1.b);
 		System.out.println("{ }: " + balance2.a);
-		System.out.println("< >: " + balance2.b);
+		System.out.println("< > 10 davon sind wirkliche größer als Zeichen: " + balance2.b); 
 		System.out.println("„ “: " + balance3.a);
 		System.out.println("‚ ‘: " + balance3.b);
 		
