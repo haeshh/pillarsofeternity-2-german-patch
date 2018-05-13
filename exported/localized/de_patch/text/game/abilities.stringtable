@@ -811,7 +811,7 @@
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Beschwört drei Zaubergeschosse, die im Ziel einschlagen und Wucht- oder Säureschaden verursachen.</DefaultText>
+      <DefaultText>Beschwört drei Zaubergeschosse, die im Ziel einschlagen und Wucht- oder Zersetzungsschaden verursachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1121,7 +1121,7 @@
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>Das Wissen des Druiden über die Mächte der Natur ermöglicht es ihm oder ihr, beim Geisterwandeln zusätzlichen Säureschaden zuzufügen.</DefaultText>
+      <DefaultText>Das Wissen des Druiden über die Mächte der Natur ermöglicht es ihm oder ihr, beim Geisterwandeln zusätzlichen Zersetzungsschaden zuzufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1326,7 +1326,7 @@
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>Umgibt den Zauberwirker mit einem geheimnisvollen Schild und durchdringt ihn mit Boni auf die Schadensreduktion gegen Brand-, Frost-, Säure- und Schockschaden.</DefaultText>
+      <DefaultText>Umgibt den Zauberwirker mit einem geheimnisvollen Schild und durchdringt ihn mit Boni auf die Schadensreduktion gegen Brand-, Frost-, Zersetzungs- und Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1386,7 +1386,7 @@
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>Erzeugt eine Lanze aus reiner nekrotischer Energie, die sofortigen und Säurezeitschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt eine Lanze aus reiner nekrotischer Energie, die sofortigen und Zersetzungszeitschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1406,7 +1406,7 @@
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>Die Hand des Zauberwirkers wird zu einem giftigen Parasiten, der dem Ziel Säureschaden zufügt, es schwächt, und seine Lebenskraft in Ausdauer für den Zauberwirker umwandelt.</DefaultText>
+      <DefaultText>Die Hand des Zauberwirkers wird zu einem giftigen Parasiten, der dem Ziel Zersetzungsschaden zufügt, es schwächt, und seine Lebenskraft in Ausdauer für den Zauberwirker umwandelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2616,7 +2616,7 @@
     </Entry>
     <Entry>
       <ID>820</ID>
-      <DefaultText>Die Hände des Zauberwirkers strahlen eine Fäule aus, die allen im Wirkungsbereich umgehend Säureschaden und weiteren Zeitschaden zufügt.</DefaultText>
+      <DefaultText>Die Hände des Zauberwirkers strahlen eine Fäule aus, die allen im Wirkungsbereich umgehend Zersetzungsschaden und weiteren Zeitschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2791,7 +2791,7 @@
     </Entry>
     <Entry>
       <ID>860</ID>
-      <DefaultText>Beschwört einen schwarzen Ring nekrotischer Energie herauf, der sich in alle Richtungen ausbreitet und Feinden, die er berührt, Säureschaden zufügt. Jene mit geringer Ausdauer können vernichtet werden.</DefaultText>
+      <DefaultText>Beschwört einen schwarzen Ring nekrotischer Energie herauf, der sich in alle Richtungen ausbreitet und Feinden, die er berührt, Zersetzungsschaden zufügt. Jene mit geringer Ausdauer können vernichtet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4071,7 +4071,7 @@
     </Entry>
     <Entry>
       <ID>1465</ID>
-      <DefaultText>Der Druide belegt seine Verbündeten mit einer mächtigen Aegis gegen die Mächte der Natur. Die Aegis verleiht einen starken Widerstand gegen Brand-, Säure-, Frost- und Elektroschockschaden.</DefaultText>
+      <DefaultText>Der Druide belegt seine Verbündeten mit einer mächtigen Aegis gegen die Mächte der Natur. Die Aegis verleiht einen starken Widerstand gegen Brand-, Zersetzungs-, Frost- und Elektroschockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4566,7 +4566,7 @@
     </Entry>
     <Entry>
       <ID>1749</ID>
-      <DefaultText>Zeichnet das Symbol von Berath auf den Boden, das Gegnern in regelmäßigen Abständen Säureschaden zufügt und sie geschwächt zurücklässt.</DefaultText>
+      <DefaultText>Zeichnet das Symbol von Berath auf den Boden, das Gegnern in regelmäßigen Abständen Zersetzungsschaden zufügt und sie geschwächt zurücklässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4611,7 +4611,7 @@
     </Entry>
     <Entry>
       <ID>1764</ID>
-      <DefaultText>Der Zauberer beschwört einen furchteinflößenden Bogen herauf, der Gegnern Säureschaden zufügt und sie Geschockt zurücklässt. Jeder Energieblitz, den der Zauberer abschießt, springt auf ein weiteres Ziel über.</DefaultText>
+      <DefaultText>Der Zauberer beschwört einen furchteinflößenden Bogen herauf, der Gegnern Zersetzungsschaden zufügt und sie Geschockt zurücklässt. Jeder Energieblitz, den der Zauberer abschießt, springt auf ein weiteres Ziel über.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4621,7 +4621,7 @@
     </Entry>
     <Entry>
       <ID>1766</ID>
-      <DefaultText>Der Zauberer wird durch Elementarschilde beschützt, die ihn vor Brand-, Säure-, Frost- und Elektroschockschaden bewahren, bis er überwältigt wird oder die Wirkungsdauer abgelaufen ist.</DefaultText>
+      <DefaultText>Der Zauberer wird durch Elementarschilde beschützt, die ihn vor Brand-, Zersetzungs-, Frost- und Elektroschockschaden bewahren, bis er überwältigt wird oder die Wirkungsdauer abgelaufen ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4646,7 +4646,7 @@
     </Entry>
     <Entry>
       <ID>1771</ID>
-      <DefaultText>Beschwört ein Trio mächtiger Tentakel, die sich nicht bewegen können – dafür aber jedem, den sie treffen, Wucht- oder Säureschaden zufügen und ihn mit der Wirkung Bewegungsunfähig belegen.</DefaultText>
+      <DefaultText>Beschwört ein Trio mächtiger Tentakel, die sich nicht bewegen können – dafür aber jedem, den sie treffen, Wucht- oder Zersetzungsschaden zufügen und ihn mit der Wirkung Bewegungsunfähig belegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5303,7 +5303,7 @@ Wenn der Aufstieg nachlässt, wird der Fokus auf null verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>1964</ID>
-      <DefaultText>(Größerer Wildschlag: Zersetzung) – Durch das umfassendere Wissen über die Naturgewalten wird während des Geisterwandelns mehr Säureschaden verursacht.</DefaultText>
+      <DefaultText>(Größerer Wildschlag: Zersetzung) – Durch das umfassendere Wissen über die Naturgewalten wird während des Geisterwandelns mehr Zersetzungsschaden verursacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10150,7 +10150,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2978</ID>
-      <DefaultText>Eine Wolke säurehaltigen Nebels erhebt sich aus dem Gerät, die Säureschaden verursacht und den Rüstungswert senkt.</DefaultText>
+      <DefaultText>Eine Wolke säurehaltigen Nebels erhebt sich aus dem Gerät, die Zersetzungsschaden verursacht und den Rüstungswert senkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
