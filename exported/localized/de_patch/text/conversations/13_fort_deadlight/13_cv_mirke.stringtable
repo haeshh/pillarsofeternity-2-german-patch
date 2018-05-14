@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\13_fort_deadlight\13_cv_mirke</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>102</EntryCount>
+  <EntryCount>103</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -524,6 +524,11 @@ Sie grinst lässig, und der Drink lässt ihre Lippen glänzen.</DefaultText>
     <Entry>
       <ID>110</ID>
       <DefaultText>„Du hast Arbeit erwähnt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>„Verdammt, der Becher ist leer!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

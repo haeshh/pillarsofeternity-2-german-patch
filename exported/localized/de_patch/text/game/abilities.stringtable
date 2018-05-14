@@ -701,7 +701,7 @@
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>Ein Ruf nach der Gunst der Götter, durch den die Genauigkeit und die Verteidigung aller Verbündeten im Wirkungsbereich erhöht wird.</DefaultText>
+      <DefaultText>Ein Ruf nach der Gunst der Götter, der allen Verbündeten im Wirkungsbereich eine Aufschlussreiche Inspiration gewährt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -716,12 +716,12 @@
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>Isoliert ein einzelnes Ziel innerhalb einer Schutzsphäre und schützt es so vor Gefahren, während seine Ausdauer regeneriert.</DefaultText>
+      <DefaultText>Isoliert ein einzelnes Ziel innerhalb einer Schutzsphäre und schützt es so vor Gefahren, während seine Gesundheit regeneriert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>Erzeugt einen bleibenden Heilungskreis, in dem die Ausdauer von Verbündeten regeneriert wird.</DefaultText>
+      <DefaultText>Erzeugt einen bleibenden Heilungskreis, der die Gesundheit von Verbündeten regeneriert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -811,7 +811,7 @@
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Beschwört drei Zaubergeschosse, die im Ziel einschlagen und Wucht- oder Säureschaden verursachen.</DefaultText>
+      <DefaultText>Beschwört drei Zaubergeschosse, die im Ziel einschlagen und Wucht- oder Zersetzungsschaden verursachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -951,7 +951,7 @@
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>Der Kämpfer bemüht sich zusätzlich, die wildesten Schläge abzuwehren, wodurch ein Teil aller eingehenden kritischen Treffer zu Treffern umgewandelt wird und alle eingehenden Treffer zu leichten Treffern.</DefaultText>
+      <DefaultText>Der Kämpfer bemüht sich zusätzlich, die wildesten Schläge abzuwehren, wodurch ein Teil aller eingehenden kritischen Treffer in Treffern umgewandelt wird und alle eingehenden Treffer zu leichten Treffern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1121,7 +1121,7 @@
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>Das Wissen des Druiden über die Mächte der Natur ermöglicht es ihm oder ihr, beim Geisterwandeln zusätzlichen Säureschaden zuzufügen.</DefaultText>
+      <DefaultText>Das Wissen des Druiden über die Mächte der Natur ermöglicht es ihm oder ihr, beim Geisterwandeln zusätzlichen Zersetzungsschaden zuzufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1326,7 +1326,7 @@
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>Umgibt den Zauberwirker mit einem geheimnisvollen Schild und durchdringt ihn mit Boni auf die Schadensreduktion gegen Brand-, Frost-, Säure- und Schockschaden.</DefaultText>
+      <DefaultText>Umgibt den Zauberwirker mit einem geheimnisvollen Schild und durchdringt ihn mit Boni auf die Schadensreduktion gegen Brand-, Frost-, Zersetzungs- und Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1386,7 +1386,7 @@
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>Erzeugt eine Lanze aus reiner nekrotischer Energie, die sofortigen und Säurezeitschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt eine Lanze aus reiner nekrotischer Energie, die sofortigen und Zersetzungszeitschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1406,7 +1406,7 @@
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>Die Hand des Zauberwirkers wird zu einem giftigen Parasiten, der dem Ziel Säureschaden zufügt, es schwächt, und seine Lebenskraft in Ausdauer für den Zauberwirker umwandelt.</DefaultText>
+      <DefaultText>Die Hand des Zauberwirkers wird zu einem giftigen Parasiten, der dem Ziel Zersetzungsschaden zufügt, es schwächt, und seine Lebenskraft in Ausdauer für den Zauberwirker umwandelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2536,7 +2536,7 @@
     </Entry>
     <Entry>
       <ID>804</ID>
-      <DefaultText>Verringert die Dauer von und die Verteidigung gegen Behindert-, Bewegungsunfähig-, Gelähmt- und Versteinert-Effekten bei allen Verbündeten im Wirkungsbereich.</DefaultText>
+      <DefaultText>Verringert die Dauer von und die Verteidigung gegen Humpelnd-, Bewegungsunfähig-, Gelähmt- und Versteinert-Effekten bei allen Verbündeten im Wirkungsbereich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2616,7 +2616,7 @@
     </Entry>
     <Entry>
       <ID>820</ID>
-      <DefaultText>Die Hände des Zauberwirkers strahlen eine Fäule aus, die allen im Wirkungsbereich umgehend Säureschaden und weiteren Zeitschaden zufügt.</DefaultText>
+      <DefaultText>Die Hände des Zauberwirkers strahlen eine Fäule aus, die allen im Wirkungsbereich umgehend Zersetzungsschaden und weiteren Zeitschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2791,7 +2791,7 @@
     </Entry>
     <Entry>
       <ID>860</ID>
-      <DefaultText>Beschwört einen schwarzen Ring nekrotischer Energie herauf, der sich in alle Richtungen ausbreitet und Feinden, die er berührt, Säureschaden zufügt. Jene mit geringer Ausdauer können vernichtet werden.</DefaultText>
+      <DefaultText>Beschwört einen schwarzen Ring nekrotischer Energie herauf, der sich in alle Richtungen ausbreitet und Feinden, die er berührt, Zersetzungsschaden zufügt. Jene mit geringer Ausdauer können vernichtet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3351,7 +3351,7 @@
     </Entry>
     <Entry>
       <ID>1050</ID>
-      <DefaultText>Der Kämpfer wird widerstandsfähig gegen Machtwirkungen (taumelnd, benommen und betäubt).</DefaultText>
+      <DefaultText>Der Kämpfer wird widerstandsfähig gegen Machtwirkungen (Taumelnd, Benommen und Betäubt).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4071,7 +4071,7 @@
     </Entry>
     <Entry>
       <ID>1465</ID>
-      <DefaultText>Der Druide belegt seine Verbündeten mit einer mächtigen Aegis gegen die Mächte der Natur. Die Aegis verleiht einen starken Widerstand gegen Brand-, Säure-, Frost- und Elektroschockschaden.</DefaultText>
+      <DefaultText>Der Druide belegt seine Verbündeten mit einer mächtigen Aegis gegen die Mächte der Natur. Die Aegis verleiht einen starken Widerstand gegen Brand-, Zersetzungs-, Frost- und Elektroschockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4566,7 +4566,7 @@
     </Entry>
     <Entry>
       <ID>1749</ID>
-      <DefaultText>Zeichnet das Symbol von Berath auf den Boden, das Gegnern in regelmäßigen Abständen Säureschaden zufügt und sie geschwächt zurücklässt.</DefaultText>
+      <DefaultText>Zeichnet das Symbol von Berath auf den Boden, das Gegnern in regelmäßigen Abständen Zersetzungsschaden zufügt und sie geschwächt zurücklässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4611,7 +4611,7 @@
     </Entry>
     <Entry>
       <ID>1764</ID>
-      <DefaultText>Der Zauberer beschwört einen furchteinflößenden Bogen herauf, der Gegnern Säureschaden zufügt und sie Geschockt zurücklässt. Jeder Energieblitz, den der Zauberer abschießt, springt auf ein weiteres Ziel über.</DefaultText>
+      <DefaultText>Der Zauberer beschwört einen furchteinflößenden Bogen herauf, der Gegnern Zersetzungsschaden zufügt und sie Geschockt zurücklässt. Jeder Energieblitz, den der Zauberer abschießt, springt auf ein weiteres Ziel über.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4621,7 +4621,7 @@
     </Entry>
     <Entry>
       <ID>1766</ID>
-      <DefaultText>Der Zauberer wird durch Elementarschilde beschützt, die ihn vor Brand-, Säure-, Frost- und Elektroschockschaden bewahren, bis er überwältigt wird oder die Wirkungsdauer abgelaufen ist.</DefaultText>
+      <DefaultText>Der Zauberer wird durch Elementarschilde beschützt, die ihn vor Brand-, Zersetzungs-, Frost- und Elektroschockschaden bewahren, bis er überwältigt wird oder die Wirkungsdauer abgelaufen ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4646,7 +4646,7 @@
     </Entry>
     <Entry>
       <ID>1771</ID>
-      <DefaultText>Beschwört ein Trio mächtiger Tentakel, die sich nicht bewegen können – dafür aber jedem, den sie treffen, Wucht- oder Säureschaden zufügen und ihn mit der Wirkung Bewegungsunfähig belegen.</DefaultText>
+      <DefaultText>Beschwört ein Trio mächtiger Tentakel, die sich nicht bewegen können – dafür aber jedem, den sie treffen, Wucht- oder Zersetzungsschaden zufügen und ihn mit der Wirkung Bewegungsunfähig belegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5303,7 +5303,7 @@ Wenn der Aufstieg nachlässt, wird der Fokus auf null verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>1964</ID>
-      <DefaultText>(Größerer Wildschlag: Zersetzung) – Durch das umfassendere Wissen über die Naturgewalten wird während des Geisterwandelns mehr Säureschaden verursacht.</DefaultText>
+      <DefaultText>(Größerer Wildschlag: Zersetzung) – Durch das umfassendere Wissen über die Naturgewalten wird während des Geisterwandelns mehr Zersetzungsschaden verursacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6494,7 +6494,7 @@ Passiver Zauber-&lt;xg&gt;Widerstand&lt;/xg&gt; beeinflusst freundliche und fein
     </Entry>
     <Entry>
       <ID>2240</ID>
-      <DefaultText>Beschwörer</DefaultText>
+      <DefaultText>Lautmaler</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10150,7 +10150,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2978</ID>
-      <DefaultText>Eine Wolke säurehaltigen Nebels erhebt sich aus dem Gerät, die Säureschaden verursacht und den Rüstungswert senkt.</DefaultText>
+      <DefaultText>Eine Wolke säurehaltigen Nebels erhebt sich aus dem Gerät, die Zersetzungsschaden verursacht und den Rüstungswert senkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12981,7 +12981,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3718</ID>
-      <DefaultText>Beschwörer haben sich auf Beschwörungen spezialisiert, die Geister aus dem Jenseits rufen. Sie stammen oft aus Kulturen mit einer engen Verbindung zur Natur und großer Verehrung der Ahnen.</DefaultText>
+      <DefaultText>Lautmaler haben sich auf Beschwörungen spezialisiert, die Geister aus dem Zwischenreich rufen. Sie stammen oft aus Kulturen mit einer engen Verbindung zur Natur und großer Verehrung der Ahnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14599,7 +14599,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4113</ID>
-      <DefaultText>Gewährt zu Beginn des Kampfes für kurze Zeit die Inspirationen Fit und Standhaft.</DefaultText>
+      <DefaultText>Gewährt zu Beginn des Kampfes für kurze Zeit die Inspirationen Fit und Standfest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15194,7 +15194,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4313</ID>
-      <DefaultText>(Kein Mitleid mit den Verlorenen): Seelen gewähren dem Wächter nun die Inspiration Standhaft.</DefaultText>
+      <DefaultText>(Kein Mitleid mit den Verlorenen): Seelen gewähren dem Wächter nun die Inspiration Standfest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15474,7 +15474,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4371</ID>
-      <DefaultText>(Beschwörer): Erhöht die Anzahl der Beschwörungen.</DefaultText>
+      <DefaultText>(Lautmaler): Erhöht die Anzahl der Beschwörungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15939,7 +15939,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4483</ID>
-      <DefaultText>Der Geist von Griffin erhöht den Mut der Gruppe. Gewährt dem Träger und allen nahen Verbündeten Standhaft, wenn der Träger so sehr verletzt wurde, dass Blut fließt.</DefaultText>
+      <DefaultText>Der Geist von Griffin erhöht den Mut der Gruppe. Gewährt dem Träger und allen nahen Verbündeten Standfest, wenn der Träger so sehr verletzt wurde, dass Blut fließt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16556,7 +16556,7 @@ Keine.</DefaultText>
     </Entry>
     <Entry>
       <ID>4634</ID>
-      <DefaultText>Vereint deine Gedanken und kanalisiert deine Stärke in einen Zustand reiner fokussierter Disziplin, gewährt alle ersten drittstufigen Inspirationen für eine kurze Zeit. (Stark, Fit, Schnell, Einsichtig, Klug und Standhaft)</DefaultText>
+      <DefaultText>Vereint deine Gedanken und kanalisiert deine Stärke in einen Zustand reiner fokussierter Disziplin, gewährt alle ersten drittstufigen Inspirationen für eine kurze Zeit. (Stark, Fit, Schnell, Einsichtig, Klug und Standfest)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
