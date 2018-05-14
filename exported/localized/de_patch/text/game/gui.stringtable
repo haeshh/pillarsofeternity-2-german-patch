@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4290</EntryCount>
+  <EntryCount>4299</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -21952,6 +21952,51 @@ Die Visionen suchen dich endlich nicht mehr heim und du ziehst dich zurück ins 
     <Entry>
       <ID>4750</ID>
       <DefaultText>Eofanias Waren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4751</ID>
+      <DefaultText>Emaitas Erfrischungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4752</ID>
+      <DefaultText>Aussichtspunkt Küche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4753</ID>
+      <DefaultText>Allerlei des Strahlenden Hofes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4754</ID>
+      <DefaultText>Arena-Unterebene</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4755</ID>
+      <DefaultText>Strahlende Hofbar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4756</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4757</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4758</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4759</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
