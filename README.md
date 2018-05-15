@@ -2,6 +2,10 @@
 This fixes errors in the german translation of Pillars of Eternity II: Deadfire
 Von denen es leider allerhand gab und gibt. Auﬂerdem gibt es einen kompletten Satz Typographie, weil ich diese "" ingame nicht ausstehen kann.
 
+Release builds are also available on nexusmods:
+https://www.nexusmods.com/pillarsofeternity2/mods/5/?
+
+Please report bugs here or on the Obsidian forum: https://forums.obsidian.net/topic/97719-german-translation-errors-missing-translations-poe-2-edition/
 
 **Important:**
 If you want to fork this project and make pull requests, use at least a proper git-client.
@@ -23,12 +27,11 @@ Here are a few easy to use clients:
 	* http://www.syntevo.com/smartgit/
 
 # Credits
-Xaratas
-
-Aurelio
-
-Madscientist
-
-Glurak
-
-Pseudohalogen
+- Aurelio
+- Bonekit
+- Glurak
+- Karinon
+- Madscientist
+- Pseudohalogen
+- Tillwater
+- Xaratas

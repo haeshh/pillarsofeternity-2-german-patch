@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\15_rdc_port\15_bs_weto</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>59</EntryCount>
+  <EntryCount>60</EntryCount>
   <Entries>
     <Entry>
       <ID>6</ID>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>„Das war nichts als ein Trick, um uns von ihnen abhängig zu machen, Ekera.“ Wir haben die Lebensmittel genommen, die sie uns gegeben haben, wir haben die angebotene Hilfe in Anspruch genommen. Und jetzt schlafen wir in Gebäuden, die sie gebaut haben, und beobachten das Meer von ihren Wällen aus.“</DefaultText>
+      <DefaultText>„Das war nichts als ein Trick, um uns von ihnen abhängig zu machen, Ekera. Wir haben die Lebensmittel genommen, die sie uns gegeben haben, wir haben die angebotene Hilfe in Anspruch genommen. Und jetzt schlafen wir in Gebäuden, die sie gebaut haben, und beobachten das Meer von ihren Wällen aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -294,7 +294,7 @@ Er versucht, seiner Schwester die Hand auf die Schulter zu legen, doch sie schü
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Wir brauchen euch und eure Wälle nicht, um uns sicher zu fühlen, und &lt;i&gt;ganz sicher&lt;/i&gt; brauchen wir auch euer Langhaus nicht!“</DefaultText>
+      <DefaultText>„Wir brauchen euch und eure Wälle nicht, um uns sicher zu fühlen, und &lt;i&gt;ganz sicher&lt;/i&gt; brauchen wir auch euer Langhaus nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -304,7 +304,7 @@ Er versucht, seiner Schwester die Hand auf die Schulter zu legen, doch sie schü
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Wir brauchen sie oder ihre Wälle nicht, um uns sicher zu fühlen, und &lt;i&gt;ganz sicher&lt;/i&gt; brauchen wir auch ihr Langhaus nicht!“</DefaultText>
+      <DefaultText>„Wir brauchen sie oder ihre Wälle nicht, um uns sicher zu fühlen, und &lt;i&gt;ganz sicher&lt;/i&gt; brauchen wir auch ihr Langhaus nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -315,6 +315,11 @@ Er versucht, seiner Schwester die Hand auf die Schulter zu legen, doch sie schü
     <Entry>
       <ID>71</ID>
       <DefaultText>Weto drückt mit einem Stirnrunzeln Tipas Schulter. Sie zuckt zusammen und beobachtet ihn aus den Augenwinkeln heraus, schüttelt seine Hand jedoch nicht ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

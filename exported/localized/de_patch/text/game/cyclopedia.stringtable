@@ -255,7 +255,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Intelligenz-Wirkung. Ein Bezauberter Charakter kämpft für seine Gegner, verwendet dabei aber nur Standardangriffe und keine Fähigkeiten. -5 Intelligenz</DefaultText>
+      <DefaultText>Intellekt-Wirkung. Ein Bezauberter Charakter kämpft für seine Gegner, verwendet dabei aber nur Standardangriffe und keine Fähigkeiten. -5 Intellekt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -265,7 +265,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Intelligenz-Wirkung. Verwirrte Charaktere erhalten -5 Intelligenz und all ihre Angriffe und Fähigkeiten treffen sowohl Gegner als auch Verbündete.</DefaultText>
+      <DefaultText>Intellekt-Wirkung. Verwirrte Charaktere erhalten -5 Intellekt und all ihre Angriffe und Fähigkeiten treffen sowohl Gegner als auch Verbündete.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -280,12 +280,12 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Dominiert</DefaultText>
+      <DefaultText>Beherrscht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Intelligenz-Wirkung. Dominierte Charaktere unterliegen dem Willen des Gegners und werden alles tun, um gegen ihre einstigen Verbündeten zu kämpfen. -5 Intelligenz.</DefaultText>
+      <DefaultText>Intellekt-Wirkung. Beherrschte Charaktere unterliegen dem Willen des Gegners und werden alles tun, um gegen ihre einstigen Verbündeten zu kämpfen. -5 Intellekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -507,7 +507,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
       <ID>146</ID>
       <DefaultText>In Pillars of Eternity gibt es vier Verteidigungen: Abwehr, Tapferkeit, Reflexe und Wille. Jede Verteidigung dient als Schutz gegen eine andere Kategorie von Angriffen durch den Angriffswurf. Abwehr dient als Schutz gegen die meisten direkten Waffenangriffe oder Angriffe, die Waffen ähneln. Tapferkeit bietet Schutz gegen körperliche Versuche, einen Charakter zu überwältigen oder seinen Körper innerlich anzugreifen (z.B. durch ein Gift). Körperliche Wirkungsbereichsangriffe wie Feuerbälle oder Blitze werden durch die Reflexe abgeschwächt. Fast alle mentalen Angriffe treffen auf die Wille-Verteidigung.
 
-Tapferkeit, Reflexe und Wille basieren alle auf Attributspaaren. Macht und Verfassung definieren die Tapferkeit, Gewandtheit und Wahrnehmung definieren die Reflexe und Intelligenz und Entschlossenheit definieren den Willen. Die Basisabwehr wird durch die Klasse und Entschlossenheit des Charakters definiert. Alle Charaktere erhalten mit jedem Stufenaufstieg pauschale Boni auf ihre Verteidigungen. Darüber hinaus können Zauber, Fähigkeiten, Wirkungen und Gegenstände die Verteidigungen eines Charakters modifizieren.</DefaultText>
+Tapferkeit, Reflexe und Wille basieren alle auf Attributspaaren. Macht und Verfassung definieren die Tapferkeit, Gewandtheit und Wahrnehmung definieren die Reflexe und Intellekt und Entschlossenheit definieren den Willen. Die Basisabwehr wird durch die Klasse und Entschlossenheit des Charakters definiert. Alle Charaktere erhalten mit jedem Stufenaufstieg pauschale Boni auf ihre Verteidigungen. Darüber hinaus können Zauber, Fähigkeiten, Wirkungen und Gegenstände die Verteidigungen eines Charakters modifizieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1907,7 +1907,7 @@ Im Verlauf des nächsten Jahrhunderts erfolgte der Niedergang von Groß-Vailia z
     </Entry>
     <Entry>
       <ID>443</ID>
-      <DefaultText>Ein rhatunisches Wort, das so viel wie „ unerfahrene Kriegerin“ bedeutet.</DefaultText>
+      <DefaultText>Ein rhatunisches Wort, das so viel wie „unerfahrene Kriegerin“ bedeutet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2364,7 +2364,7 @@ Es gibt unzählige Geschichten von Hunden, die so treu sind, dass sie noch bei i
     </Entry>
     <Entry>
       <ID>559</ID>
-      <DefaultText>Beschwörer haben sich auf Beschwörungen spezialisiert, die Geister aus dem Jenseits rufen. Sie stammen oft aus Kulturen mit einer engen Verbindung zur Natur und großer Verehrung der Ahnen.</DefaultText>
+      <DefaultText>Lautmaler haben sich auf Beschwörungen spezialisiert, die Geister aus dem Jenseits rufen. Sie stammen oft aus Kulturen mit einer engen Verbindung zur Natur und großer Verehrung der Ahnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3012,7 +3012,7 @@ Das Schloss fiel dir quasi in den Schoß, nachdem du seinen vorherigen Besitzer,
       <ID>689</ID>
       <DefaultText>Inspirationen sind, ähnlich wie Wirkungen, verschiedene Effekte, die auf Charaktere wirken. Im Gegensatz zu Wirkungen haben Inspirationen positive Auswirkungen auf die betroffenen Charaktere.
 
-Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht oder Gewandtheit) bestimmt. Inspirationen wirken den Wirkungen entgegen, die mit dem jeweiligen Attribut verbunden sind, und gewähren ihnen gegenüber Immunität. Die Inspiration Klug beispielsweise setzt die Wirkung von Verwirrt, Bezaubert und Dominiert aus und entfernt sie.</DefaultText>
+Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht oder Gewandtheit) bestimmt. Inspirationen wirken den Wirkungen entgegen, die mit dem jeweiligen Attribut verbunden sind, und gewähren ihnen gegenüber Immunität. Die Inspiration Klug beispielsweise setzt die Wirkung von Verwirrt, Bezaubert und Beherrscht aus und entfernt sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3027,7 +3027,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>692</ID>
-      <DefaultText>Intelligenzwirkungen</DefaultText>
+      <DefaultText>Intellektwirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3052,7 +3052,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>697</ID>
-      <DefaultText>Die Wirkungen Verwirrt, Bezaubert und Dominiert beeinflussen die Intelligenz. Diesen Wirkungen kann mit einer Intelligenzinspiration entgegengewirkt werden (Klug, Scharfsinnig, Brillant).</DefaultText>
+      <DefaultText>Die Wirkungen Verwirrt, Bezaubert und Beherrscht beeinflussen den Intellekt. Diesen Wirkungen kann mit einer Intellektinspiration entgegengewirkt werden (Klug, Scharfsinnig, Brillant).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3097,12 +3097,12 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>706</ID>
-      <DefaultText>Intelligenzinspirationen</DefaultText>
+      <DefaultText>Intellektinspirationen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>707</ID>
-      <DefaultText>Die Inspirationen Klug, Scharfsinnig und Brillant beeinflussen Intelligenz. Diesen Inspirationen kann mit einer Intelligenzwirkung entgegengewirkt werden (Verwirrt, Bezaubert, Dominiert).</DefaultText>
+      <DefaultText>Die Inspirationen Klug, Scharfsinnig und Brillant beeinflussen Intellekt. Diesen Inspirationen kann mit einer Intellektwirkung entgegengewirkt werden (Verwirrt, Bezaubert, Beherrscht).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3252,7 +3252,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>737</ID>
-      <DefaultText>Intelligenzinspiration Kluge Charaktere verfügen über +5 Intelligenz.</DefaultText>
+      <DefaultText>Intellektinspiration Kluge Charaktere verfügen über +5 Intellekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3262,7 +3262,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>739</ID>
-      <DefaultText>Intelligenzinspiration. Scharfsinnige Charaktere verfügen über +5 Intelligenz und ihre Fähigkeiten und Zauber über +1 Kraftstufe.</DefaultText>
+      <DefaultText>Intellektinspiration. Scharfsinnige Charaktere verfügen über +5 Intellekt und ihre Fähigkeiten und Zauber über +1 Kraftstufe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3272,7 +3272,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>741</ID>
-      <DefaultText>Intelligenzinspiration. Brillante Charaktere verfügen über +5 Intelligenz, ihre Fähigkeiten und Zauber über +1 Kraftstufe und sie stellen regelmäßig Klassenressourcen wieder her.</DefaultText>
+      <DefaultText>Intellektinspiration. Brillante Charaktere verfügen über +5 Intellekt, ihre Fähigkeiten und Zauber über +1 Kraftstufe und sie stellen regelmäßig Klassenressourcen wieder her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3357,7 +3357,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>758</ID>
-      <DefaultText>Wirkungen, die Intelligenz, Wahrnehmung und Entschlossenheit beeinflussen, gelten als Geisteswirkungen.</DefaultText>
+      <DefaultText>Wirkungen, die Intellekt, Wahrnehmung und Entschlossenheit beeinflussen, gelten als Geisteswirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3853,7 +3853,7 @@ Manchmal fallen die Bären des Todesfeuer auch Tigern zum Opfer, wobei Bärenmü
     </Entry>
     <Entry>
       <ID>846</ID>
-      <DefaultText>Intelligenz-Wirkung</DefaultText>
+      <DefaultText>Intellekt-Wirkung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4527,12 +4527,12 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     </Entry>
     <Entry>
       <ID>990</ID>
-      <DefaultText />
+      <DefaultText>Lähmen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>991</ID>
-      <DefaultText />
+      <DefaultText>Verwirren</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

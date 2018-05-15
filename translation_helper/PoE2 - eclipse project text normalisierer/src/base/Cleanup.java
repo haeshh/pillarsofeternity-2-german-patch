@@ -117,7 +117,7 @@ public class Cleanup {
 		System.out.println("( ): " + balance1.a);
 		System.out.println("[ ]: " + balance1.b);
 		System.out.println("{ }: " + balance2.a);
-		System.out.println("< > 10 davon sind wirkliche größer als Zeichen: " + balance2.b); 
+		System.out.println("< > 10 davon sind wirkliche größer als Zeichen, 38 Sprites, die keinen Endtag haben: " + balance2.b); 
 		System.out.println("„ “: " + balance3.a);
 		System.out.println("‚ ‘: " + balance3.b);
 		

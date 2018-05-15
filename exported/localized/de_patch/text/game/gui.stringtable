@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4290</EntryCount>
+  <EntryCount>4303</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Intelligenz</DefaultText>
+      <DefaultText>Intellekt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,7 +246,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Wil</DefaultText>
+      <DefaultText>Wille</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1776,7 +1776,7 @@
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>{0} Stunden sind vergangen.</DefaultText>
+      <DefaultText>{0} sind vergangen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2336,7 +2336,7 @@
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>Intelligenz trägt zur Willensverteidigung bei und beeinflusst Dauer und Bereiche der Auswirkung für alle Fähigkeiten. Sie repräsentiert die logischen, argumentativen und schlussfolgernden Fähigkeiten eines Charakters. 5 – Gering 10 – Durchschnitt 15 – &lt;xg&gt;Schlagfertig&lt;/xg&gt; 20 – &lt;xg&gt;Brillant&lt;/xg&gt;</DefaultText>
+      <DefaultText>Intellekt trägt zur Willensverteidigung bei und beeinflusst Dauer und Bereiche der Auswirkung für alle Fähigkeiten. Sie repräsentiert die logischen, argumentativen und schlussfolgernden Fähigkeiten eines Charakters. 5 – Gering 10 – Durchschnitt 15 – &lt;xg&gt;Schlagfertig&lt;/xg&gt; 20 – &lt;xg&gt;Brillant&lt;/xg&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2361,7 +2361,7 @@
     </Entry>
     <Entry>
       <ID>476</ID>
-      <DefaultText>Elfen sind die dominante Rasse in Eir Glanfath und in Das Ewige Weiß und sind im Dyrwald und Aedyr extrem verbreitet. Elfen sind für ihre Geschwindigkeit und ihre Intelligenz bekannt sowie für ihre gewöhnlich zurückgezogene Art.</DefaultText>
+      <DefaultText>Elfen sind die dominante Rasse in Eir Glanfath und in Das Ewige Weiß und sind im Dyrwald und Aedyr extrem verbreitet. Elfen sind für ihre Geschwindigkeit und ihren Intellekt bekannt sowie für ihre gewöhnlich zurückgezogene Art.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2957,7 +2957,7 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>591</ID>
-      <DefaultText>Statistik:</DefaultText>
+      <DefaultText>Eigenschaften:</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5177,7 +5177,7 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>1158</ID>
-      <DefaultText>{0} Intelligenz</DefaultText>
+      <DefaultText>{0} Intellekt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5217,7 +5217,7 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>1173</ID>
-      <DefaultText>{0} Bereich Kritischer Treffer – Treffer angreifender Feinde</DefaultText>
+      <DefaultText>{0} eingehender Kritischer Treffer in Treffer umgewandelt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5227,12 +5227,12 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>1175</ID>
-      <DefaultText>{0} Bereich Treffer – Leichter Treffer gegen Feinde, die Abwehr oder Reflexe angreifen</DefaultText>
+      <DefaultText>{0} Treffer in Leichter Treffer umgewandelt gegen Feinde, die Abwehr oder Reflexe angreifen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1176</ID>
-      <DefaultText>{0} Bereich Treffer – Leichter Treffer gegen Feinde, die Tapferkeit oder Wille angreifen</DefaultText>
+      <DefaultText>{0} Treffer in Leichter Treffer umgewandelt gegen Feinde, die Tapferkeit oder Wille angreifen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5327,32 +5327,32 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>1201</ID>
-      <DefaultText>{0} Bereich Leichter Treffer – Treffer</DefaultText>
+      <DefaultText>{0} Leichter Treffer in Treffer umgewandelt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1203</ID>
-      <DefaultText>{0} Leichter Treffer zu Fehlschlag</DefaultText>
+      <DefaultText>{0} Leichter Treffer in Fehlschlag umgewandelt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1204</ID>
-      <DefaultText>{0} Kritischer Treffer zu Treffer umgewandelt</DefaultText>
+      <DefaultText>{0} Kritischer Treffer in Treffer umgewandelt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1205</ID>
-      <DefaultText>{0} Fehlschlag zu Leichter Treffer umgewandelt</DefaultText>
+      <DefaultText>{0} Fehlschlag in Leichter Treffer umgewandelt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1206</ID>
-      <DefaultText>{0} Treffer zu Kritischer Treffer umgewandelt</DefaultText>
+      <DefaultText>{0} Treffer in Kritischer Treffer umgewandelt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1207</ID>
-      <DefaultText>{0} Treffer zu Leichter Treffer umgewandelt</DefaultText>
+      <DefaultText>{0} Treffer in Leichter Treffer umgewandelt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5387,7 +5387,7 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>1214</ID>
-      <DefaultText>{0} Bereich Leichter Treffer umgewandelt zu Fehlschlag gegen Feinde, die Reflexe angreifen</DefaultText>
+      <DefaultText>{0} Leichter Treffer umgewandelt in Fehlschlag gegen Feinde, die Reflexe angreifen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7239,7 +7239,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1614</ID>
-      <DefaultText>{0} schubsen</DefaultText>
+      <DefaultText>{0} stoßen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7534,7 +7534,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1675</ID>
-      <DefaultText>{0} Leichter Treffer umgewandelt zu Treffer mit Einhand-Nahkampfwaffen</DefaultText>
+      <DefaultText>{0} Leichter Treffer umgewandelt in Treffer mit Einhand-Nahkampfwaffen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10702,7 +10702,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2314</ID>
-      <DefaultText>Mindestschaden gegen Verwirrte, Bezauberte, Dominierte Charaktere</DefaultText>
+      <DefaultText>Mindestschaden gegen Verwirrte, Bezauberte, Beherrschte Charaktere</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12932,7 +12932,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2769</ID>
-      <DefaultText>Beschwörer</DefaultText>
+      <DefaultText>Lautmaler</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14081,17 +14081,17 @@ Frömmigkeit und Gebete sind die Eckpfeiler deines öffentlichen Lebens und du f
     </Entry>
     <Entry>
       <ID>2946</ID>
-      <DefaultText>Kein Abzug</DefaultText>
+      <DefaultText>Kein Durchschlag</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2947</ID>
-      <DefaultText>Abzug</DefaultText>
+      <DefaultText>Durchschlag</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2948</ID>
-      <DefaultText>Voller Abzug</DefaultText>
+      <DefaultText>Voller Durchschlag</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14531,7 +14531,7 @@ Frömmigkeit und Gebete sind die Eckpfeiler deines öffentlichen Lebens und du f
     </Entry>
     <Entry>
       <ID>3037</ID>
-      <DefaultText>{0} mit {1}</DefaultText>
+      <DefaultText>{0} (mit {1})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14546,7 +14546,7 @@ Frömmigkeit und Gebete sind die Eckpfeiler deines öffentlichen Lebens und du f
     </Entry>
     <Entry>
       <ID>3040</ID>
-      <DefaultText>Schubsen</DefaultText>
+      <DefaultText>Stoßen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -20251,7 +20251,7 @@ Möchtest du die Telemetrie jetzt aktivieren?</DefaultText>
     </Entry>
     <Entry>
       <ID>4376</ID>
-      <DefaultText>Haufen ablehnen</DefaultText>
+      <DefaultText>Abfallhaufen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -20994,7 +20994,7 @@ Modwyr kann nicht länger an die Seele des Wächters gebunden werden und wurde i
     </Entry>
     <Entry>
       <ID>4540</ID>
-      <DefaultText>Show abgeschlossen</DefaultText>
+      <DefaultText>abgeschlossene anzeigen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21952,6 +21952,71 @@ Die Visionen suchen dich endlich nicht mehr heim und du ziehst dich zurück ins 
     <Entry>
       <ID>4750</ID>
       <DefaultText>Eofanias Waren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4751</ID>
+      <DefaultText>Emaitas Erfrischungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4752</ID>
+      <DefaultText>Aussichtspunkt Küche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4753</ID>
+      <DefaultText>Allerlei des Strahlenden Hofes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4754</ID>
+      <DefaultText>Arena-Unterebene</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4755</ID>
+      <DefaultText>Strahlende Hofbar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4756</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4757</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4758</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4759</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4760</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4761</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4762</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4763</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

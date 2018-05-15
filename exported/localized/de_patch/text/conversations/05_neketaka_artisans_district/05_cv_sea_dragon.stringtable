@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_neketaka_artisans_district\05_cv_sea_dragon</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>262</EntryCount>
+  <EntryCount>265</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -456,7 +456,7 @@
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>&lt;ispeech&gt;Der Stab könnte die Schutzzauber ebenfalls zerstören.&lt;/speech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;Der Stab könnte die Schutzzauber ebenfalls zerstören.&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -616,7 +616,7 @@
     </Entry>
     <Entry>
       <ID>391</ID>
-      <DefaultText>&lt;/ispeech&gt;Der Stab, den du bei dir trägst, beinhaltet ein Stück meiner Seele – es kann die Schutzzauber meines Gefängnisses ganz einfach ausschalten.&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;Der Stab, den du bei dir trägst, beinhaltet ein Stück meiner Seele – es kann die Schutzzauber meines Gefängnisses ganz einfach ausschalten.&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1352,6 +1352,21 @@ Es wird einen … Schmerz geben, den ich nur ungern erleiden möchte.&lt;/ispeec
     <Entry>
       <ID>604</ID>
       <DefaultText>&lt;ispeech&gt;Hm. Was für ein unglücklicher Beginn unserer Bekanntschaft!&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>[Den Zauber der Gefangenschaft stärken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>[Den Stab des Tiefen Jägers benutzen, um die Verzauberungen unwirksam zu machen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>[Genug Drachenessenz absaugen, um die Gilde zu stärken, dann den Zauber der Gefangenschaft brechen.]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

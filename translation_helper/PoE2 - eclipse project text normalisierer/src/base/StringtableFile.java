@@ -2,6 +2,8 @@ package base;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
@@ -207,7 +209,10 @@ class Entry {
 			DefaultText = DefaultText.replaceFirst("““", "“");
 			satzzeichen++;
 		}
-		
+		while(DefaultText.contains("„ ")) {
+			DefaultText = DefaultText.replaceFirst("„ ", " „");
+			satzzeichen++;
+		}
 		
 		while(FemaleText.contains("  ")) {
 			FemaleText = FemaleText.replaceFirst("  ", " ");
@@ -239,6 +244,10 @@ class Entry {
 		}
 		while(FemaleText.contains("““")) {
 			FemaleText = FemaleText.replaceFirst("““", "“");
+			satzzeichen++;
+		}
+		while(FemaleText.contains("„ ")) {
+			FemaleText = FemaleText.replaceFirst("„ ", " „");
 			satzzeichen++;
 		}
 		
@@ -314,20 +323,54 @@ class Entry {
 		}
 		if(DefaultText.split("<", -1).length-1 != DefaultText.split(">", -1).length-1) {
 			html++;
+			
 		}
 		if((DefaultText.split("<", -1).length-1) % 2 != 0) { 
 			html++;
+			
 		}
 		// Todo unvollständige Tags
+		if(DefaultText.matches("<.+?>")) {
+			// es gibt öffnenden und schließenden tag
+			String pattern = "(<(.+?)>).*?(</(.+?)>)";
+
+		      // Create a Pattern object
+		      Pattern r = Pattern.compile(pattern);
+
+		      // Now create matcher object.
+		      Matcher m = r.matcher(DefaultText);
+		      if (m.find() && !m.group(3).startsWith("/") && !m.group(2).startsWith(m.group(4))) {
+		         System.out.println("Found value: " + m.group(0) );
+		         html++;
+		      }
+		}
+		
+		
 		
 		if(FemaleText.chars().filter(ch -> ch =='{').count()  != FemaleText.chars().filter(ch -> ch =='}').count()) {
 			geschweift++;
 		}
 		if(FemaleText.split("<", -1).length-1 != FemaleText.split(">", -1).length-1) {
 			html++;
+			System.out.println(FemaleText);
 		}
 		if((FemaleText.split("<", -1).length-1) % 2 != 0) { 
 			html++;
+		}
+		
+		if(FemaleText.matches("<.+?>")) {
+			// es gibt öffnenden und schließenden tag
+			String pattern = "(<(.+?)>).*?(</(.+?)>)";
+
+		      // Create a Pattern object
+		      Pattern r = Pattern.compile(pattern);
+
+		      // Now create matcher object.
+		      Matcher m = r.matcher(FemaleText);
+		      if (m.find() && !m.group(3).startsWith("/") && !m.group(2).startsWith(m.group(4))) {
+		         System.out.println("Found value: " + m.group(0) );
+		         html++;
+		      }
 		}
 		
 		return new Pair<Long, Long>(geschweift, html);
@@ -339,14 +382,40 @@ class Entry {
 		if(DefaultText.chars().filter(ch -> ch =='„').count()  != DefaultText.chars().filter(ch -> ch =='“').count()) {
 			double_++;
 		}
+		int index1 = DefaultText.indexOf("„");
+		int index2 = DefaultText.indexOf("„", index1 + 1);
+		int index3 = DefaultText.indexOf("“");
+		if(index2 > 0 && index2 < index3) {
+			double_++;
+		}
+		
 		if(DefaultText.chars().filter(ch -> ch =='‚').count()  != DefaultText.chars().filter(ch -> ch =='‘').count()) {
 			single++;
 		}
+		index1 = DefaultText.indexOf("‚");
+		index2 = DefaultText.indexOf("‚", index1 + 1);
+		index3 = DefaultText.indexOf("‘");
+		if(index2 > 0 && index2 < index3) {
+			single++;
+		}
+		
 		
 		if(FemaleText.chars().filter(ch -> ch =='„').count()  != FemaleText.chars().filter(ch -> ch =='“').count()) {
 			double_++;
 		}
+		index1 = FemaleText.indexOf("„");
+		index2 = FemaleText.indexOf("„", index1 + 1);
+		index3 = FemaleText.indexOf("“");
+		if(index2 > 0 && index2 < index3) {
+			double_++;
+		}
 		if(FemaleText.chars().filter(ch -> ch =='‚').count()  != FemaleText.chars().filter(ch -> ch =='‘').count()) {
+			single++;
+		}
+		index1 = FemaleText.indexOf("‚");
+		index2 = FemaleText.indexOf("‚", index1 + 1);
+		index3 = FemaleText.indexOf("‘");
+		if(index2 > 0 && index2 < index3) {
 			single++;
 		}
 		
@@ -355,6 +424,15 @@ class Entry {
 	
 	public void DocuHelper(){
 		if(DefaultText.contains("<")) {
+		//	System.out.println(DefaultText);
+		}
+		
+		// Non Break Space
+		if(FemaleText.contains(" ")) {
+			System.out.println(FemaleText);
+		}
+		
+		if(DefaultText.contains(" ")) {
 			System.out.println(DefaultText);
 		}
 	}
