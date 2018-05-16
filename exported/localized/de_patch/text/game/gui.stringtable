@@ -10456,7 +10456,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2261</ID>
-      <DefaultText>{0} wenn Ausdauer unter {1} fällt</DefaultText>
+      <DefaultText>{0} wenn Gesundheit unter {1} fällt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10606,7 +10606,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2291</ID>
-      <DefaultText>Ist diese Option aktiviert, werden Gruppenmitglieder nicht mit KO-Verletzungen belegt, wenn ihre Ausdauer im Kampf auf 0 sinkt.</DefaultText>
+      <DefaultText>Ist diese Option aktiviert, werden Gruppenmitglieder nicht mit KO-Verletzungen belegt, wenn ihre Gesundheit im Kampf auf 0 sinkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11301,12 +11301,12 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2432</ID>
-      <DefaultText>{0} mit mindestens {1} Ausdauer</DefaultText>
+      <DefaultText>{0} mit mindestens {1} Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2433</ID>
-      <DefaultText>{0} mit weniger als {1} Ausdauer</DefaultText>
+      <DefaultText>{0} mit weniger als {1} Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
