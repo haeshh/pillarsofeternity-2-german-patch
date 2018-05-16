@@ -5204,12 +5204,12 @@ Legenden der Huana erzählen von einer verheerenden Überschwemmung vor Tausende
     </Entry>
     <Entry>
       <ID>1160</ID>
-      <DefaultText>{0} Ausdauer entzogen</DefaultText>
+      <DefaultText>{0} Gesundheit entzogen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1161</ID>
-      <DefaultText>{0} Ausdauerregeneration</DefaultText>
+      <DefaultText>{0} Gesundheitsregeneration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5219,7 +5219,7 @@ Legenden der Huana erzählen von einer verheerenden Überschwemmung vor Tausende
     </Entry>
     <Entry>
       <ID>1170</ID>
-      <DefaultText>{0} Schaden gegen Feinde mit geringer Ausdauer</DefaultText>
+      <DefaultText>{0} Schaden gegen Feinde mit geringer Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5484,17 +5484,17 @@ Legenden der Huana erzählen von einer verheerenden Überschwemmung vor Tausende
     </Entry>
     <Entry>
       <ID>1232</ID>
-      <DefaultText>{0} Schaden als Ausdauer wiederhergestellt</DefaultText>
+      <DefaultText>{0} Schaden als Gesundheit wiederhergestellt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1234</ID>
-      <DefaultText>{0} Genauigkeit, wenn unter {1} Ausdauer</DefaultText>
+      <DefaultText>{0} Genauigkeit, wenn unter {1} Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1235</ID>
-      <DefaultText>{0} Schaden, wenn unter {1} Ausdauer</DefaultText>
+      <DefaultText>{0} Schaden, wenn unter {1} Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5614,7 +5614,7 @@ Legenden der Huana erzählen von einer verheerenden Überschwemmung vor Tausende
     </Entry>
     <Entry>
       <ID>1266</ID>
-      <DefaultText>{0} von {1} Schaden zu Ausdauer umgewandelt</DefaultText>
+      <DefaultText>{0} von {1} Schaden zu Gesundheit umgewandelt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5654,7 +5654,7 @@ Legenden der Huana erzählen von einer verheerenden Überschwemmung vor Tausende
     </Entry>
     <Entry>
       <ID>1275</ID>
-      <DefaultText>Mit {0:Value:Straight} Ausdauer wiederbeleben</DefaultText>
+      <DefaultText>Mit {0:Value:Straight} Gesundheit wiederbeleben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6104,7 +6104,7 @@ Legenden der Huana erzählen von einer verheerenden Überschwemmung vor Tausende
     </Entry>
     <Entry>
       <ID>1366</ID>
-      <DefaultText>Erfordert Ausdauer unter {0}</DefaultText>
+      <DefaultText>Erfordert Gesundheit unter {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
