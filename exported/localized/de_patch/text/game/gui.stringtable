@@ -6873,7 +6873,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1532</ID>
-      <DefaultText>Entzieht {0} {1} Schaden als Ausdauer</DefaultText>
+      <DefaultText>Entzieht {0} {1} Schaden als Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6968,12 +6968,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1552</ID>
-      <DefaultText>{0} wenn Ausdauer über {1}</DefaultText>
+      <DefaultText>{0} wenn Gesundheit über {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1553</ID>
-      <DefaultText>{0} wenn Ausdauer unter {1}</DefaultText>
+      <DefaultText>{0} wenn Gesundheit unter {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10186,7 +10186,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2207</ID>
-      <DefaultText>Erfordert Ausdauer über {0}</DefaultText>
+      <DefaultText>Erfordert Gesundheit über {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
