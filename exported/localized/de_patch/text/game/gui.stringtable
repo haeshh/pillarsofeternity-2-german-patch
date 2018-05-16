@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4303</EntryCount>
+  <EntryCount>4305</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -21981,42 +21981,52 @@ Die Visionen suchen dich endlich nicht mehr heim und du ziehst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4756</ID>
-      <DefaultText />
+      <DefaultText>{0} {1} reputation gained with {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4757</ID>
-      <DefaultText />
+      <DefaultText>{0} {1} reputation lost with {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4758</ID>
-      <DefaultText />
+      <DefaultText>You successfully crafted {0} {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4759</ID>
-      <DefaultText />
+      <DefaultText>You successfully enchanted {0} with {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4760</ID>
-      <DefaultText />
+      <DefaultText>Resistances</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4761</ID>
-      <DefaultText />
+      <DefaultText>Weaknesses</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4762</ID>
-      <DefaultText />
+      <DefaultText>Base Accuracy</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4763</ID>
-      <DefaultText />
+      <DefaultText>Base Health</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4764</ID>
+      <DefaultText>Combat Text</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4765</ID>
+      <DefaultText>If enabled, floating text will appear above characters in combat, related to damage, healing, or other status effects.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
