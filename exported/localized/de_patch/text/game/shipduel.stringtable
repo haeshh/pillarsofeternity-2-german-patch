@@ -121,12 +121,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
+      <DefaultText>Ein Besatzungsmitglied ist über Bord gefallen!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText />
+      <DefaultText>{0:OverboardCrewMember} wird in {0:Value:Straight} Runden oder wenn das Schiff sich fortbewegt sterben</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
