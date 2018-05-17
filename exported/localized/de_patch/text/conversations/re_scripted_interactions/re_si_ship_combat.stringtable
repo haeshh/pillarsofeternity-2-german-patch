@@ -816,7 +816,7 @@ Das gegnerische Schiff fällt hinter euch zurück, bis es schließlich am Horizo
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>Aber dein Schiff ist nicht unbeschädigt. Wasser strömt durch die Löcher im Rumpf der [ShipDiel_PlayerShip]. In wenigen Augenblicken ist dein Schiff halb versunken. Die Seeleute springen vom Deck des sinkenden Schiffes ins Meer. Sie klammern sich an Trümmer und Treibgut und spucken Wasser. Ihre Augen sind vor Furcht geweitet.</DefaultText>
+      <DefaultText>Aber dein Schiff ist nicht unbeschädigt. Wasser strömt durch die Löcher im Rumpf der [ShipDuel_PlayerShip]. In wenigen Augenblicken ist dein Schiff halb versunken. Die Seeleute springen vom Deck des sinkenden Schiffes ins Meer. Sie klammern sich an Trümmer und Treibgut und spucken Wasser. Ihre Augen sind vor Furcht geweitet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -889,7 +889,7 @@ Das gegnerische Schiff fällt hinter euch zurück, bis es schließlich am Horizo
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText>Du hisst eine weiße Flagge, um deine Kapitulation zu signalisieren. [Shipduel_Opponent] schickt eine Handvoll Seemänner rüber, um die Ausbeute deiner Niederlage einzusammeln.
+      <DefaultText>Du hisst eine weiße Flagge, um deine Kapitulation zu signalisieren. [ShipDuel_Opponent] schickt eine Handvoll Seemänner rüber, um die Ausbeute deiner Niederlage einzusammeln.
 
 Ein raues Gejohle ertönt aus den Kehlen von [ShipDuel_Opponent]s Mannschaft. [ShipDuel_OpponentShip] legt ab und du bist allein auf dem weiten Meer.</DefaultText>
       <FemaleText />
