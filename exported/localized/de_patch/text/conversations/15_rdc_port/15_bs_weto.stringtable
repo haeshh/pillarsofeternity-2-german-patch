@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\15_rdc_port\15_bs_weto</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>60</EntryCount>
+  <EntryCount>59</EntryCount>
   <Entries>
     <Entry>
       <ID>6</ID>
@@ -180,9 +180,9 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Tipa schnaubt unwillig. „Pah! Das ist nur ein weiterer Trick der Rauataianer.
+      <DefaultText>Tipa schnaubt unwillig. „Pah! Das ist nur ein weiterer Trick der Rauataianer.“
 
-“Als unsere Hütten von den Stürmen zerstört worden sind, haben sie sie nicht so wieder aufgebaut, wie sie einmal waren; &lt;i&gt;so wie wir es auch verlangt haben&lt;/i&gt;. Sondern stattdessen haben sie dieses Langhaus gebaut.“</DefaultText>
+„Als unsere Hütten von den Stürmen zerstört worden sind, haben sie sie nicht so wieder aufgebaut, wie sie einmal waren; &lt;i&gt;so wie wir es auch verlangt haben&lt;/i&gt;. Sondern stattdessen haben sie dieses Langhaus gebaut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -315,11 +315,6 @@ Er versucht, seiner Schwester die Hand auf die Schulter zu legen, doch sie schü
     <Entry>
       <ID>71</ID>
       <DefaultText>Weto drückt mit einem Stirnrunzeln Tipas Schulter. Sie zuckt zusammen und beobachtet ihn aus den Augenwinkeln heraus, schüttelt seine Hand jedoch nicht ab.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>72</ID>
-      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

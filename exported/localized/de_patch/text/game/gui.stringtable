@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4303</EntryCount>
+  <EntryCount>4305</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1816,7 +1816,7 @@
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>{0}% Ausdauer und Gesundheit, {1} Tapferkeit</DefaultText>
+      <DefaultText>{0}% Gesundheit, {1} Tapferkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2156,17 +2156,17 @@
     </Entry>
     <Entry>
       <ID>438</ID>
-      <DefaultText>Leicht</DefaultText>
+      <DefaultText>Leichte</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>Mittel</DefaultText>
+      <DefaultText>Mittelere</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>440</ID>
-      <DefaultText>Schwer</DefaultText>
+      <DefaultText>Schwere</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2331,17 +2331,32 @@
     </Entry>
     <Entry>
       <ID>471</ID>
-      <DefaultText>Gewandtheit beeinflusst die Aktionsgeschwindigkeit eines Charakters mit allen Angriffen, Zaubern und Fähigkeiten und trägt zur Reflex-Verteidigung bei. Sie repräsentiert eine Kombination aus Hand-Augen-Kombination, Schwung und gesamter Anmut. 5 – Tollpatschig 10 – Durchschnitt 15 – Wendig 20 – Unglaublich elegant</DefaultText>
+      <DefaultText>Gewandtheit beeinflusst die Aktionsgeschwindigkeit eines Charakters mit allen Angriffen, Zaubern und Fähigkeiten und trägt zur Reflex-Verteidigung bei. Sie repräsentiert eine Kombination aus Hand-Augen-Kombination, Schwung und gesamter Anmut.
+
+5 – Tollpatschig
+10 – Durchschnitt
+15 – Wendig
+20 – Unglaublich elegant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>Intellekt trägt zur Willensverteidigung bei und beeinflusst Dauer und Bereiche der Auswirkung für alle Fähigkeiten. Sie repräsentiert die logischen, argumentativen und schlussfolgernden Fähigkeiten eines Charakters. 5 – Gering 10 – Durchschnitt 15 – &lt;xg&gt;Schlagfertig&lt;/xg&gt; 20 – &lt;xg&gt;Brillant&lt;/xg&gt;</DefaultText>
+      <DefaultText>Intellekt trägt zur Willensverteidigung bei und beeinflusst Dauer und Bereiche der Auswirkung für alle Fähigkeiten. Sie repräsentiert die logischen, argumentativen und schlussfolgernden Fähigkeiten eines Charakters.
+
+5 – Gering
+10 – Durchschnitt
+15 – &lt;xg&gt;Schlagfertig&lt;/xg&gt;
+20 – &lt;xg&gt;Brillant&lt;/xg&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>473</ID>
-      <DefaultText>Verfassung beeinflusst Gesundheit und die Tapferkeitsverteidigung. Sie repräsentiert eine Kombination der gesamten Gesundheit und des Staminas eines Charakters. 5 – Zerbrechlich 10 – Durchschnitt 15 – &lt;xg&gt;Gesundheit&lt;/xg&gt; 20 – Unzerstörbar</DefaultText>
+      <DefaultText>Verfassung beeinflusst Gesundheit und die Tapferkeitsverteidigung. Sie repräsentiert eine Kombination der gesamten Gesundheit und des Staminas eines Charakters.
+
+5 – Zerbrechlich
+10 – Durchschnitt
+15 – &lt;xg&gt;Gesundheit&lt;/xg&gt;
+20 – Unzerstörbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2577,7 +2592,9 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>508</ID>
-      <DefaultText>Das Todesfeuer-Archipel markiert den östlichen Rand der „Bekannten Welt“. Hunderte von Inseln erstrecken sich wie an eine Kette gereiht über Tausende von Meilen. Sie sind überwiegend von den Insel-Aumauaner bevölkert, die zu den Stämmen der Huana gehören. Das Todesfeuer-Archipel bietet zahlreiche Klimazonen und Biome, die einer verblüffenden Vielzahl von Kreaturen eine Heimat bietet. Das letzte Jahrhundert brachte ehrgeizige Händler, Forscher und Piraten in das Todesfeuer, aber Reisen in den östlichen Teil des Archipels verhindern die zerstörerischen Stürme von Ondras Mörser. Legenden der Huana erzählen von einer verheerenden Überschwemmung vor Tausenden von Jahren. Einzelheiten über das Ereignis gingen im Laufe der Zeit verloren, aber die Geschichtenerzähler der Huana behaupten, dass sie alles zerstört hat, was man einst aufgebaut hatte, sogar die größten Städte seien unter den Wellen versunken.</DefaultText>
+      <DefaultText>Das Todesfeuer-Archipel markiert den östlichen Rand der „Bekannten Welt“. Hunderte von Inseln erstrecken sich wie an eine Kette gereiht über Tausende von Meilen. Sie sind überwiegend von den Insel-Aumauaner bevölkert, die zu den Stämmen der Huana gehören. Das Todesfeuer-Archipel bietet zahlreiche Klimazonen und Biome, die einer verblüffenden Vielzahl von Kreaturen eine Heimat bietet. Das letzte Jahrhundert brachte ehrgeizige Händler, Forscher und Piraten in das Todesfeuer, aber Reisen in den östlichen Teil des Archipels verhindern die zerstörerischen Stürme von Ondras Mörser.
+
+Legenden der Huana erzählen von einer verheerenden Überschwemmung vor Tausenden von Jahren. Einzelheiten über das Ereignis gingen im Laufe der Zeit verloren, aber die Geschichtenerzähler der Huana behaupten, dass sie alles zerstört hat, was man einst aufgebaut hatte, sogar die größten Städte seien unter den Wellen versunken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5187,12 +5204,12 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>1160</ID>
-      <DefaultText>{0} Ausdauer entzogen</DefaultText>
+      <DefaultText>{0} Gesundheit entzogen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1161</ID>
-      <DefaultText>{0} Ausdauerregeneration</DefaultText>
+      <DefaultText>{0} Gesundheitsregeneration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5202,12 +5219,12 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>1170</ID>
-      <DefaultText>{0} Schaden gegen Feinde mit geringer Ausdauer</DefaultText>
+      <DefaultText>{0} Schaden gegen Feinde mit geringer Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1171</ID>
-      <DefaultText>{0} Kritische Reichweite, wenn das gleiche Ziel auch von einem Verbündeten angegriffen wird</DefaultText>
+      <DefaultText>{0} Treffer werden in Kritischer Treffer umgewandelt, wenn das gleiche Ziel auch von einem Verbündeten angegriffen wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5467,17 +5484,17 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>1232</ID>
-      <DefaultText>{0} Schaden als Ausdauer wiederhergestellt</DefaultText>
+      <DefaultText>{0} Schaden als Gesundheit wiederhergestellt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1234</ID>
-      <DefaultText>{0} Genauigkeit, wenn unter {1} Ausdauer</DefaultText>
+      <DefaultText>{0} Genauigkeit, wenn unter {1} Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1235</ID>
-      <DefaultText>{0} Schaden, wenn unter {1} Ausdauer</DefaultText>
+      <DefaultText>{0} Schaden, wenn unter {1} Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5597,7 +5614,7 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>1266</ID>
-      <DefaultText>{0} von {1} Schaden zu Ausdauer umgewandelt</DefaultText>
+      <DefaultText>{0} von {1} Schaden zu Gesundheit umgewandelt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5637,7 +5654,7 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>1275</ID>
-      <DefaultText>Mit {0:Value:Straight} Ausdauer wiederbeleben</DefaultText>
+      <DefaultText>Mit {0:Value:Straight} Gesundheit wiederbeleben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6087,7 +6104,7 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>1366</ID>
-      <DefaultText>Erfordert Ausdauer unter {0}</DefaultText>
+      <DefaultText>Erfordert Gesundheit unter {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6142,7 +6159,7 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>1377</ID>
-      <DefaultText>Stand. wiederh.</DefaultText>
+      <DefaultText>Standard wiederherstellen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6197,7 +6214,9 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>1397</ID>
-      <DefaultText>Die Abenteurerei ist harte Arbeit. Neben den Gefahren des tödlichen Kampfs müssen Abenteurer auch Mauern erklimmen, Flüsse überqueren und Gruben überspringen. Einmal pro Begegnung können Charaktere mit Athletik die Fähigkeit Neue Kraft einsetzen, um aufgebrauchte Ausdauer zu regenerieren. Je höher der Athletik-Wert, desto stärker die Wirkung von Neue Kraft. In Dialogen und geskripteten Interaktionen wird die Athletik für körperliche Aktivitäten wie Klettern, Schwimmen und Springen verwendet.</DefaultText>
+      <DefaultText>Die Abenteurerei ist harte Arbeit. Neben den Gefahren des tödlichen Kampfs müssen Abenteurer auch Mauern erklimmen, Flüsse überqueren und Gruben überspringen.
+Einmal pro Begegnung können Charaktere mit Athletik die Fähigkeit Neue Kraft einsetzen, um aufgebrauchte Ausdauer zu regenerieren. Je höher der Athletik-Wert, desto stärker die Wirkung von Neue Kraft.
+In Dialogen und geskripteten Interaktionen wird die Athletik für körperliche Aktivitäten wie Klettern, Schwimmen und Springen verwendet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6854,7 +6873,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1532</ID>
-      <DefaultText>Entzieht {0} {1} Schaden als Ausdauer</DefaultText>
+      <DefaultText>Entzieht {0} {1} Schaden als Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6949,12 +6968,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1552</ID>
-      <DefaultText>{0} wenn Ausdauer über {1}</DefaultText>
+      <DefaultText>{0} wenn Gesundheit über {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1553</ID>
-      <DefaultText>{0} wenn Ausdauer unter {1}</DefaultText>
+      <DefaultText>{0} wenn Gesundheit unter {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8606,7 +8625,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1891</ID>
-      <DefaultText>Aufgeschossen!</DefaultText>
+      <DefaultText>Aufgeschlossen!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10167,7 +10186,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2207</ID>
-      <DefaultText>Erfordert Ausdauer über {0}</DefaultText>
+      <DefaultText>Erfordert Gesundheit über {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10382,7 +10401,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2250</ID>
-      <DefaultText>Der Märchenstunde-Modus ist für Spieler, die mehr daran interessiert sind, die Welt zu erforschen und die Geschichte voranzutreiben, als sich im Kampf zu messen. Wenn der Märchenstunde-Modus aktiv ist, ist die feindliche Zusammensetzung im Kampf identisch wie im Schwierigkeitsgrad Normal. Die Spielmechaniken sind aber zugunsten des Spielers verschoben.</DefaultText>
+      <DefaultText>Der &lt;b&gt;Märchenstunde-Modus&lt;/b&gt; ist für Spieler, die mehr daran interessiert sind, die Welt zu erforschen und die Geschichte voranzutreiben, als sich im Kampf zu messen. Wenn der Märchenstunde-Modus aktiv ist, ist die feindliche Zusammensetzung im Kampf identisch wie im Schwierigkeitsgrad Normal. Die Spielmechaniken sind aber zugunsten des Spielers verschoben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10437,7 +10456,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2261</ID>
-      <DefaultText>{0} wenn Ausdauer unter {1} fällt</DefaultText>
+      <DefaultText>{0} wenn Gesundheit unter {1} fällt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10587,7 +10606,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2291</ID>
-      <DefaultText>Ist diese Option aktiviert, werden Gruppenmitglieder nicht mit KO-Verletzungen belegt, wenn ihre Ausdauer im Kampf auf 0 sinkt.</DefaultText>
+      <DefaultText>Ist diese Option aktiviert, werden Gruppenmitglieder nicht mit KO-Verletzungen belegt, wenn ihre Gesundheit im Kampf auf 0 sinkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11162,7 +11181,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2407</ID>
-      <DefaultText>Beim Springen: {0} Schaden</DefaultText>
+      <DefaultText>Beim Springen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11282,12 +11301,12 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2432</ID>
-      <DefaultText>{0} mit mindestens {1} Ausdauer</DefaultText>
+      <DefaultText>{0} mit mindestens {1} Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2433</ID>
-      <DefaultText>{0} mit weniger als {1} Ausdauer</DefaultText>
+      <DefaultText>{0} mit weniger als {1} Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12987,12 +13006,12 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2780</ID>
-      <DefaultText>Schwarze Weste</DefaultText>
+      <DefaultText>Schwarze Jacke</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2781</ID>
-      <DefaultText>Hingebungsvoll</DefaultText>
+      <DefaultText>Gewidmeten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17004,7 +17023,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3646</ID>
-      <DefaultText>Schwarzpulversilo</DefaultText>
+      <DefaultText>Schießpulversilo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17959,7 +17978,9 @@ Lerne die folgenden Druidenzauber auf neuen Kraftstufen:
 9. Pollenfleck
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Kann keinen Kreaturenbeschwörungszauber wirken. Nach dem Geisterwandeln erhält der Druide einen deutlichen Abzug bei der Kraftstufe für Verjüngungszauber, bis der Kampf beendet ist.</DefaultText>
+Kann keinen Kreaturenbeschwörungszauber wirken.
+
+Nach dem Geisterwandeln erhält der Druide einen deutlichen Abzug bei der Kraftstufe für Verjüngungszauber, bis der Kampf beendet ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -19301,17 +19322,17 @@ Möchtest du die Telemetrie jetzt aktivieren?</DefaultText>
     </Entry>
     <Entry>
       <ID>4112</ID>
-      <DefaultText>Höchste Rüstung (Zerschmettern)</DefaultText>
+      <DefaultText>Höchste Rüstung (Wucht)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4113</ID>
-      <DefaultText>Höchste Rüstung (Brennen)</DefaultText>
+      <DefaultText>Höchste Rüstung (Brand)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4114</ID>
-      <DefaultText>Höchste Rüstung (Gefrieren)</DefaultText>
+      <DefaultText>Höchste Rüstung (Frost)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -19321,27 +19342,27 @@ Möchtest du die Telemetrie jetzt aktivieren?</DefaultText>
     </Entry>
     <Entry>
       <ID>4116</ID>
-      <DefaultText>Höchste Rüstung (Korrodieren)</DefaultText>
+      <DefaultText>Höchste Rüstung (Zersetzung)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4117</ID>
-      <DefaultText>Niedrigste Rüstung (Brennen)</DefaultText>
+      <DefaultText>Niedrigste Rüstung (Brand)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4118</ID>
-      <DefaultText>Niedrigste Rüstung (Korrodieren)</DefaultText>
+      <DefaultText>Niedrigste Rüstung (Zersetzung)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4119</ID>
-      <DefaultText>Niedrigste Rüstung (Zerschmettern)</DefaultText>
+      <DefaultText>Niedrigste Rüstung (Wucht)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4120</ID>
-      <DefaultText>Niedrigste Rüstung (Gefrieren)</DefaultText>
+      <DefaultText>Niedrigste Rüstung (Frost)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -20541,7 +20562,9 @@ Möchtest du die Telemetrie jetzt aktivieren?</DefaultText>
     </Entry>
     <Entry>
       <ID>4438</ID>
-      <DefaultText>Wähle aus, welche Geschichte während Pillars of Eternity stattfand oder wähle eine Spielende-Sicherung von Pillars of Eternity aus, um diese zu importieren. Wenn du eine eigene Geschichte erstellen möchtest, kannst du das im Hauptmenü in den Einstellungen machen. Wenn du Schwierigkeiten hast, deine Spielende-Sicherung von Pillars of Eternity zu finden, solltest du überprüfen, ob deine Datei &lt;b&gt;gamecomplete.savegame&lt;/b&gt; im richtigen Sicherungsordner des Spieles ist. </DefaultText>
+      <DefaultText>Wähle aus, welche Geschichte während Pillars of Eternity stattfand oder wähle eine Spielende-Sicherung von Pillars of Eternity aus, um diese zu importieren.
+
+Wenn du eine eigene Geschichte erstellen möchtest, kannst du das im Hauptmenü in den Einstellungen machen. Wenn du Schwierigkeiten hast, deine Spielende-Sicherung von Pillars of Eternity zu finden, solltest du überprüfen, ob deine Datei &lt;b&gt;gamecomplete.savegame&lt;/b&gt; im richtigen Sicherungsordner des Spieles ist. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21916,22 +21939,22 @@ Die Visionen suchen dich endlich nicht mehr heim und du ziehst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4743</ID>
-      <DefaultText>{0}</DefaultText>
+      <DefaultText>{0} Heilungsrate</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4744</ID>
-      <DefaultText />
+      <DefaultText>Pillars of Eternity II: Deadfire – Installiert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4745</ID>
-      <DefaultText />
+      <DefaultText>Freier DLC – Installiert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4746</ID>
-      <DefaultText />
+      <DefaultText>Fehlende DLC</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21981,42 +22004,52 @@ Die Visionen suchen dich endlich nicht mehr heim und du ziehst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4756</ID>
-      <DefaultText />
+      <DefaultText>{0} {1} Reputation mit {2} gewonnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4757</ID>
-      <DefaultText />
+      <DefaultText>{0} {1} Reputation mit {2} verloren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4758</ID>
-      <DefaultText />
+      <DefaultText>Du hast erfolgreich {0} {1} hergestellt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4759</ID>
-      <DefaultText />
+      <DefaultText>Du hast erfolgreich {0} mit {1} verzaubert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4760</ID>
-      <DefaultText />
+      <DefaultText>Resistenzen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4761</ID>
-      <DefaultText />
+      <DefaultText>Schwächen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4762</ID>
-      <DefaultText />
+      <DefaultText>Basis Genauigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4763</ID>
-      <DefaultText />
+      <DefaultText>Basis Gesundheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4764</ID>
+      <DefaultText>Kampftext</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4765</ID>
+      <DefaultText>Wenn aktiviert, erscheint ein schwebender Text über den Charakteren im Kampf, der sich auf Schaden, Heilung oder andere Status-Effekte bezieht.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

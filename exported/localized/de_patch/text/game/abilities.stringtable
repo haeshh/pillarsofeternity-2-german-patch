@@ -5425,7 +5425,7 @@ Wenn der Aufstieg nachlässt, wird der Fokus auf null verringert.</DefaultText>
       <ID>1990</ID>
       <DefaultText>Gewährt drei sich gegenseitig ausschließende Auren:
 
-Fokus – Gewährt Genauigkeit
+&lt;xg&gt;Fokus&lt;/xg&gt; – Gewährt Genauigkeit
 Ansturm – Gewährt Vorwärtskommen
 Ausdauer – Gewährt Rüstungswert</DefaultText>
       <FemaleText />
@@ -6649,7 +6649,7 @@ Kann in Tiergestalt keine Zauber wirken.</DefaultText>
     </Entry>
     <Entry>
       <ID>2258</ID>
-      <DefaultText>Schwarze Weste</DefaultText>
+      <DefaultText>Schwarze Jacke</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6685,7 +6685,7 @@ Verminderte Reflexe.</DefaultText>
     </Entry>
     <Entry>
       <ID>2262</ID>
-      <DefaultText>Hingebungsvoll</DefaultText>
+      <DefaultText>Gewidmeten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8253,7 +8253,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2576</ID>
-      <DefaultText>Der Kämpfer übt sich in der Fähigkeit, spezielle Kampfhaltungen einzunehmen. Jede Haltung ist hervorragend für einen anderen Aspekt des Kampfes geeignet. Die Verteidigungshaltung ist geeignet, um sich gegen Gruppen von Gegnern zu behaupten, die Niedermähen-Haltung ist effektiv, wenn man mehrere Gegner auf einmal angreift und die Kriegerhaltung ist am besten, wenn man mit einem einzelnen Gegner Mann gegen Mann kämpft.</DefaultText>
+      <DefaultText>Der Kämpfer übt sich in der Fähigkeit, spezielle Kampfhaltungen einzunehmen. Jede Haltung ist hervorragend für einen anderen Aspekt des Kampfes geeignet. Die &lt;xg&gt;Verteidigungshaltung&lt;/xg&gt; ist geeignet, um sich gegen Gruppen von Gegnern zu behaupten, die Niedermähen-Haltung ist effektiv, wenn man mehrere Gegner auf einmal angreift und die Kriegerhaltung ist am besten, wenn man mit einem einzelnen Gegner Mann gegen Mann kämpft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
