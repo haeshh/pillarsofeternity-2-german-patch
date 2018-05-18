@@ -82,16 +82,16 @@ Wenig subtil lässt [Specified 1] einen zweiten Dolch in seiner Tasche verschwin
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>[Specified 1] wird ganz blass, während [Specified 0] stramm steht. „Aye aye, Käpt‘n!“ stammeln sie nacheinander vor sich hin.
+      <DefaultText>[Specified 1] wird ganz blass, während [Specified 0] stramm steht. „Aye aye, Käpt‘n!“, stammeln sie nacheinander vor sich hin.“
 
-“Entschuldigung, Käpt‘n.“ [Specified 0] verbeugt sich.“ Wir hatten keine bösen Absichten. Wir, äh, wir machen uns dann mal auf in die Kombüse.“
+„Entschuldigung, Käpt‘n.“ [Specified 0] verbeugt sich.“ Wir hatten keine bösen Absichten. Wir, äh, wir machen uns dann mal auf in die Kombüse.“
 
 Die beiden verziehen sich eilig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Der Dolch trifft die [OrlansHeadGame_OpponentLastResult] des Orlaners und [Specified 1] kichert.“ Das wären [OrlansHeadGame_OpponentLastScore] Punkte für [Specified 0], Käpt'n. Denkst du, du kannst das überbieten?“</DefaultText>
+      <DefaultText>Der Dolch trifft die [OrlansHeadGame_OpponentLastResult] des Orlaners und [Specified 1] kichert. „Das wären [OrlansHeadGame_OpponentLastScore] Punkte für [Specified 0], Käpt'n. Denkst du, du kannst das überbieten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,7 +108,7 @@ Die beiden verziehen sich eilig.</DefaultText>
       <ID>84</ID>
       <DefaultText>Du schleuderst den Dolch, welcher sich mit einem stumpfen Geräusch tief in die [OrlansHeadGame_PlayerLastResult] des Orlaners bohrt.
 
-“Ein Treffer, Käpt'n! Das macht [OrlansHeadGame_PlayerLastScore] Punkte für dich!“</DefaultText>
+„Ein Treffer, Käpt'n! Das macht [OrlansHeadGame_PlayerLastScore] Punkte für dich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -129,12 +129,12 @@ Serafen sieht zu.</DefaultText>
       <ID>87</ID>
       <DefaultText>[Specified 0] neigt den Kopf zur Seite.
 
-“Aber die Schnitzerei hat gar keine Hände.“</DefaultText>
+„Aber die Schnitzerei hat gar keine Hände.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>[Specified 1] reibt die Handflächen zusammen. Das Endergebnis lautet also: [OrlansHeadGame_OpponentTotalScore] für [Specified 0], und [OrlansHeadGame_PlayerTotalScore] für den Käpt'n. Sieht aus, als hätte unser Käpt‘n gewonnen!“</DefaultText>
+      <DefaultText>[Specified 1] reibt die Handflächen zusammen. „Das Endergebnis lautet also: [OrlansHeadGame_OpponentTotalScore] für [Specified 0], und [OrlansHeadGame_PlayerTotalScore] für den Käpt'n. Sieht aus, als hätte unser Käpt‘n gewonnen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,17 +144,17 @@ Serafen sieht zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>[Specified 1] applaudiert grinsend.“ Unentschieden mit [OrlansHeadGame_PlayerTotalScore] Punkten. Der nächste Wurf entscheidet!“</DefaultText>
+      <DefaultText>[Specified 1] applaudiert grinsend. „Unentschieden mit [OrlansHeadGame_PlayerTotalScore] Punkten. Der nächste Wurf entscheidet!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>[Specified 0] zieht den Dolch heraus und wischt die Klinge am Hosenbein ab, bevor sie mit dem Griff voran in deine Hände weitergegeben wird.“ Du bist dran, Käpt'n. Sehen wir mal, wie du dich gegen den fürchterlichen Orlaner schlägst.“</DefaultText>
+      <DefaultText>[Specified 0] zieht den Dolch heraus und wischt die Klinge am Hosenbein ab, bevor sie mit dem Griff voran in deine Hände weitergegeben wird. „Du bist dran, Käpt'n. Sehen wir mal, wie du dich gegen den fürchterlichen Orlaner schlägst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>[Specified 0] lacht vor sich hin, schüttelt den Kopf und reicht dir eine Geldbörse.“ Gutes Spiel, Käpt'n. Danke. Nächstes Mal kriege ich dich dran, alles klar? Jetzt sollten wir erstmal wieder auf unsere Posten.“</DefaultText>
+      <DefaultText>[Specified 0] lacht vor sich hin, schüttelt den Kopf und reicht dir eine Geldbörse. „Gutes Spiel, Käpt'n. Danke. Nächstes Mal kriege ich dich dran, alles klar? Jetzt sollten wir erstmal wieder auf unsere Posten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -184,16 +184,16 @@ Serafen sieht zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>„Aye aye, Sir!“ [Specified 0] salutiert.“ Aber nicht doch.“</DefaultText>
+      <DefaultText>„Aye aye, Sir!“ [Specified 0] salutiert. „Aber nicht doch.“</DefaultText>
       <FemaleText>„Aye-aye, Ma'am!“ [Specified 1] zieht den Hut. „Aber nicht doch.“</FemaleText>
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>[Specified 0] reibt sich den Hinterkopf.“ Wir haben nur eine Runde Orla--“
+      <DefaultText>[Specified 0] reibt sich den Hinterkopf. „Wir haben nur eine Runde Orla--“
 
 [Specified 1] unterbricht den Satz mit einem schnellen Ellbogenstoß.
 
-“Uff!“</DefaultText>
+„Uff!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@ Serafen reibt sich über den Nasensteg.</DefaultText>
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Der Dolch steckt im Mast, aber ging vollkommen am Orlaner vorbei. [Specified 0] schlägt nur die Hände vor dem Gesicht zusammen, während [Specified 1] genüsslich lacht.“ He Käpt'n, das zu überbieten sollte dir nicht schwerfallen!“</DefaultText>
+      <DefaultText>Der Dolch steckt im Mast, aber ging vollkommen am Orlaner vorbei. [Specified 0] schlägt nur die Hände vor dem Gesicht zusammen, während [Specified 1] genüsslich lacht. „He Käpt'n, das zu überbieten sollte dir nicht schwerfallen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,23 +230,23 @@ Serafen reibt sich über den Nasensteg.</DefaultText>
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>„Ach komm schon, Käpt‘n!“ nörgelt [Specified 1] laut.“ Das war ein freundschaftliches Spiel! Da muss man doch echt nicht bescheißen, vor allem nicht, wenn man den dicksten Goldbeutel an Bord hat!“
+      <DefaultText>„Ach komm schon, Käpt‘n!“ nörgelt [Specified 1] laut. „Das war ein freundschaftliches Spiel! Da muss man doch echt nicht bescheißen, vor allem nicht, wenn man den dicksten Goldbeutel an Bord hat!“
 
 Der Seemann seufzt und wirft dir deinen Anteil an Münzen hin.
 
-“Bitteschön, wenn du so einen Stress machen musst … Ich und [Specified 0] gehen dann wieder an die Arbeit.“ 
+„Bitteschön, wenn du so einen Stress machen musst … Ich und [Specified 0] gehen dann wieder an die Arbeit.“ 
 
 Die beiden schlurfen mit finsteren Blicken davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>[Specified 1] zuckt zusammen.“ Oh, Käpt'n, du weißt schon, dass du eigentlich auf den Orlaner zielen musst, oder? Wenigstens hast du den Mast getroffen.“</DefaultText>
+      <DefaultText>[Specified 1] zuckt zusammen. „Oh, Käpt'n, du weißt schon, dass du eigentlich auf den Orlaner zielen musst, oder? Wenigstens hast du den Mast getroffen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>[Specified 0] lächelt und schnappt sich den Geldbeutel.“ Hoffentlich läuft’s beim nächsten Mal besser für dich, Käpt'n! Wir gehen jetzt wieder auf unsere Posten.“</DefaultText>
+      <DefaultText>[Specified 0] lächelt und schnappt sich den Geldbeutel. „Hoffentlich läuft’s beim nächsten Mal besser für dich, Käpt'n! Wir gehen jetzt wieder auf unsere Posten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
