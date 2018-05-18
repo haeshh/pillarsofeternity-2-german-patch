@@ -1,7 +1,9 @@
 package base;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -436,6 +438,99 @@ class Entry {
 			System.out.println(DefaultText);
 		}
 	}
+	
+	public Set<String> tagViewHelper() {
+		Set<String> tagSet = new HashSet<>();
+		String pattern = "(\\[.*?\\])"; 
+		Pattern r = Pattern.compile(pattern);
+	
+		if(DefaultText.contains("[")) {
+		    Matcher m = r.matcher(DefaultText);
+		    while (m.find()) {
+		        tagSet.add(m.group(1)); 
+			}
+		}
+		if(FemaleText.contains("[")) {
+			Matcher m = r.matcher(FemaleText);
+		    while (m.find()) {
+		        tagSet.add(m.group(1)); 
+			}
+		}
+		
+		return tagSet;
+	}
+
+	public void compareTags(Entry lang2) {
+		if(DefaultText.chars().filter(ch -> ch =='{').count()  != lang2.DefaultText.chars().filter(ch -> ch =='{').count()) {
+			System.out.println("A: " + DefaultText);
+			System.out.println("B: " + lang2.DefaultText);
+		}
+		if(DefaultText.chars().filter(ch -> ch =='[').count()  != lang2.DefaultText.chars().filter(ch -> ch =='[').count()) {
+			System.out.println("A: " + DefaultText);
+			System.out.println("B: " + lang2.DefaultText);
+		}
+		if(DefaultText.chars().filter(ch -> ch =='(').count()  != lang2.DefaultText.chars().filter(ch -> ch =='(').count()) {
+			System.out.println("A: " + DefaultText);
+			System.out.println("B: " + lang2.DefaultText);
+		}
+		if(DefaultText.chars().filter(ch -> ch =='}').count()  != lang2.DefaultText.chars().filter(ch -> ch =='}').count()) {
+			System.out.println("A: " + DefaultText);
+			System.out.println("B: " + lang2.DefaultText);
+		}
+		if(DefaultText.chars().filter(ch -> ch ==']').count()  != lang2.DefaultText.chars().filter(ch -> ch ==']').count()) {
+			System.out.println("A: " + DefaultText);
+			System.out.println("B: " + lang2.DefaultText);
+		}
+		if(DefaultText.chars().filter(ch -> ch ==')').count()  != lang2.DefaultText.chars().filter(ch -> ch ==')').count()) {
+			System.out.println("A: " + DefaultText);
+			System.out.println("B: " + lang2.DefaultText);
+		}
+		if(DefaultText.chars().filter(ch -> ch =='<').count()  != lang2.DefaultText.chars().filter(ch -> ch =='<').count()) {
+			System.out.println("A: " + DefaultText);
+			System.out.println("B: " + lang2.DefaultText);
+		}
+		if(DefaultText.chars().filter(ch -> ch =='>').count()  != lang2.DefaultText.chars().filter(ch -> ch =='>').count()) {
+			System.out.println("A: " + DefaultText);
+			System.out.println("B: " + lang2.DefaultText);
+		}
+		
+		
+		if((FemaleText.chars().filter(ch -> ch =='{').count()  != lang2.FemaleText.chars().filter(ch -> ch =='{').count()) && lang2.FemaleText.length() > 0) {
+			System.out.println("A: " + FemaleText);
+			System.out.println("B: " + lang2.FemaleText);
+		}
+		if((FemaleText.chars().filter(ch -> ch =='[').count()  != lang2.FemaleText.chars().filter(ch -> ch =='[').count()) && lang2.FemaleText.length() > 0) {
+			System.out.println("A: " + FemaleText);
+			System.out.println("B: " + lang2.FemaleText);
+		}
+		if((FemaleText.chars().filter(ch -> ch =='(').count()  != lang2.FemaleText.chars().filter(ch -> ch =='(').count()) && lang2.FemaleText.length() > 0) {
+			System.out.println("A: " + FemaleText);
+			System.out.println("B: " + lang2.FemaleText);
+		}
+		if((FemaleText.chars().filter(ch -> ch =='}').count()  != lang2.FemaleText.chars().filter(ch -> ch =='}').count()) && lang2.FemaleText.length() > 0) {
+			System.out.println("A: " + FemaleText);
+			System.out.println("B: " + lang2.FemaleText);
+		}
+		if((FemaleText.chars().filter(ch -> ch ==']').count()  != lang2.FemaleText.chars().filter(ch -> ch ==']').count()) && lang2.FemaleText.length() > 0) {
+			System.out.println("A: " + FemaleText);
+			System.out.println("B: " + lang2.FemaleText);
+		}
+		if((FemaleText.chars().filter(ch -> ch ==')').count()  != lang2.FemaleText.chars().filter(ch -> ch ==')').count()) && lang2.FemaleText.length() > 0) {
+			System.out.println("A: " + FemaleText);
+			System.out.println("B: " + lang2.FemaleText);
+		}
+		if((FemaleText.chars().filter(ch -> ch =='<').count()  != lang2.FemaleText.chars().filter(ch -> ch =='<').count()) && lang2.FemaleText.length() > 0) {
+			System.out.println("A: " + FemaleText);
+			System.out.println("B: " + lang2.FemaleText);
+		}
+		if((FemaleText.chars().filter(ch -> ch =='>').count()  != lang2.FemaleText.chars().filter(ch -> ch =='>').count()) && lang2.FemaleText.length() > 0) {
+			System.out.println("A: " + FemaleText);
+			System.out.println("B: " + lang2.FemaleText);
+		}
+		
+	}
+	
+	// Next tagscount und art? vs englisch
 }
 
 class Pair<A,B>{

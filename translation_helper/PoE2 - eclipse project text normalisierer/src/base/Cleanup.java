@@ -7,7 +7,11 @@ import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.HashSet;
 import java.util.List;
+import java.util.ListIterator;
+import java.util.Set;
+import java.util.TreeSet;
 import java.util.stream.Collectors;
 
 import javax.xml.XMLConstants;
@@ -44,6 +48,8 @@ public class Cleanup {
 		m.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
 		
 		List<Path> filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		List<Path> compareFilesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		List<Path> compareFilesENInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		Pair<Long, Long> count = new Pair<>(0L,0L);
 		Pair<Long, Long> countPunkte = new Pair<>(0L,0L);
 		Pair<Long, Long> countLeerzeichen = new Pair<>(0L,0L);
@@ -53,8 +59,21 @@ public class Cleanup {
 		Pair<Long,Long> balance3 = new Pair<>(0L, 0L);
 		Pair<Long,Long> apostrophe = new Pair<>(0L, 0L);
 		Pair<Long,Long> bindestrich = new Pair<>(0L, 0L);
+		Set<String> allTags = new TreeSet<>();
+		ListIterator<Path> compareFilesIterator = compareFilesInFolder.listIterator();
+		ListIterator<Path> compareFilesENIterator = compareFilesENInFolder.listIterator();
 		for (Path path : filesInFolder) {
+			Path compareFile = compareFilesIterator.next();
+			Path compareENFile = compareFilesENIterator.next();
+			
 			StringTableFile stringtable = (StringTableFile) jaxbUnmarshaller.unmarshal( path.toFile() );
+			StringTableFile compareStringtable = (StringTableFile) jaxbUnmarshaller.unmarshal( compareFile.toFile() );
+			StringTableFile compareENStringtable = (StringTableFile) jaxbUnmarshaller.unmarshal( compareENFile.toFile() );
+			if(stringtable.getEntries().size() != compareStringtable.getEntries().size() || stringtable.getEntries().size() != compareENStringtable.getEntries().size()) {
+				System.out.println(compareFile.toString());
+				System.out.println(stringtable.getEntries().size() + " <-> " + compareStringtable.getEntries().size() + " <-> " + compareENStringtable.getEntries().size());
+			}
+			
 			
 			for(Entry entry : stringtable.getEntries())
 			{
@@ -93,9 +112,16 @@ public class Cleanup {
 				count2 = entry.cleanBindestrich();
 				bindestrich.a += count2.a;
 				
-		//		entry.DocuHelper();
-			}		
-		    
+		
+				//		entry.DocuHelper();
+				allTags.addAll(entry.tagViewHelper());
+			}
+			
+			ListIterator<Entry> enIterator = compareENStringtable.getEntries().listIterator();
+			for(Entry entry : stringtable.getEntries())
+			{
+				entry.compareTags(enIterator.next());
+			}
 		    m.marshal(stringtable, path.toFile());
 			
 		    List<String> lines = Files.readAllLines(path, Charset.forName("UTF-8")); 
@@ -124,6 +150,10 @@ public class Cleanup {
 		System.out.println("Getauschte ': " + apostrophe.a);
 		System.out.println("Getauschte ‚‘ gegen „“: " + apostrophe.b);
 		System.out.println("Getauschte -: " + bindestrich.a);
+		
+		
+		System.out.println("Tags");
+		System.out.println(String.join("\n", allTags));
 	}
 	
 
