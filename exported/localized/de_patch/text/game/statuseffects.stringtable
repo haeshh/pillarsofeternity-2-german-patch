@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>{0:value:percent} Chance, dass der Angriff bei einem Treffer abgeschüttelt wird</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass bei einem Treffer das Ziel Erschüttert wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Gefrierschaden-Angriff in Kegelformation bei einem kritischen Treffer</DefaultText>
+      <DefaultText>Frostschaden-Angriff in Kegelformation bei einem kritischen Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Der Angriff mit einem Zauberspruch hat eine {0:value:percent} Chance, dass der Zauberspruchangriff das Ziel trifft</DefaultText>
+      <DefaultText>Der Angriff mit einem Zauberspruch hat eine {0:value:percent} Chance, Ziele zu Bezaubern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,12 +66,12 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>-2 % Aktionsgeschwindigkeit für 30,0 Sekunden für das Ziel bei einem Treffer Verzehnfachung</DefaultText>
+      <DefaultText>Bei einem Treffer erhält das Ziel 30,0 Sekunden lang -2 % Aktionsgeschwindigkeit. Effekt ist 10-fach stapelbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer krank zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass das Ziel bei einem Treffer Erkrankt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>{0:value:percent} Chance, beim Ziel einen Additions-Fluch anzubringen und dadurch den erlittenen Schaden zu erhöhen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, beim Ziel einen stapelbaren Fluch anzubringen und dadurch den erlittenen Schaden zu erhöhen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>{0:value:percent} Chance, sich selbst beim Angriff {0:extravalue} Brandschäden zuzuziehen.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, sich selbst beim Angriff {0:extravalue} Brandschaden zuzuziehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Treffer gegen dem Tode nahe Ziele schadet auch Gegnern in der Nähe</DefaultText>
+      <DefaultText>Fügt einen Treffer einem Ziel zu, das dem Tode nahe ist. Schadet auch Gegnern in der Nähe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
