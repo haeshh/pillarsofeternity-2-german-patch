@@ -431,7 +431,7 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Rüstig und &lt;xg&gt;robust&lt;/xg&gt;</DefaultText>
+      <DefaultText>Rüstig und &lt;g&gt;robust&lt;/g&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2541,7 +2541,7 @@
     </Entry>
     <Entry>
       <ID>805</ID>
-      <DefaultText>Häuft verstreute Seelenfragmente an, um zwei &lt;xg&gt;Irrlichter&lt;/xg&gt; zu schaffen, die für die Gruppe kämpfen.</DefaultText>
+      <DefaultText>Häuft verstreute Seelenfragmente an, um zwei &lt;g&gt;Irrlichter&lt;/g&gt; zu schaffen, die für die Gruppe kämpfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5425,7 +5425,7 @@ Wenn der Aufstieg nachlässt, wird der Fokus auf null verringert.</DefaultText>
       <ID>1990</ID>
       <DefaultText>Gewährt drei sich gegenseitig ausschließende Auren:
 
-&lt;xg&gt;Fokus&lt;/xg&gt; – Gewährt Genauigkeit
+&lt;g&gt;Fokus&lt;/g&gt; – Gewährt Genauigkeit
 Ansturm – Gewährt Vorwärtskommen
 Ausdauer – Gewährt Rüstungswert</DefaultText>
       <FemaleText />
@@ -6324,7 +6324,7 @@ Während der Raserei erleidest du fortwährend reinen Schaden.</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Erfolgreiche Nahkampfwaffenangriffe fügen dem Ziel Zauberzersetzung zu, was beim Wirken von Zaubersprüchen von Zauberern, Priestern, Druiden, Medien oder Sängern dazu führen kann, dass das Wirken fehlschlägt.
 
-Verschaffe dir passive &lt;xg&gt;Widerstandsfähigkeit&lt;/xg&gt; gegen Zaubersprüche.
+Verschaffe dir passive &lt;g&gt;Widerstandsfähigkeit&lt;/g&gt; gegen Zaubersprüche.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Zaubertränke oder Schriftrollen können nicht benutzt werden.
@@ -6825,8 +6825,8 @@ Die Priester von Berath lernen die folgenden Zaubersprüche automatisch auf der 
 5. Verrottende Schädel
 6. Die Zeit heilt alle Wunden
 7. Rostige Rüstung
-8. Symbol von &lt;xg&gt;Berath
-&lt;/xg&gt;9. &lt;xg&gt;Beraths&lt;/xg&gt; Hand</DefaultText>
+8. Symbol von &lt;g&gt;Berath
+&lt;/g&gt;9. &lt;xg&gt;Beraths&lt;/xg&gt; Hand</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6845,8 +6845,8 @@ Die Priester von Eothas lernen die folgenden Zaubersprüche automatisch auf der 
 5. Wiederbelebung der Gefallenen
 6. Geringe Fürbitte
 7. Wiederauferstehung
-8. Symbol von &lt;xg&gt; Eothas
-&lt;/xg&gt;9. Licht von &lt;xg&gt;Eothas&lt;/xg&gt;</DefaultText>
+8. Symbol von &lt;g&gt; Eothas
+&lt;/g&gt;9. Licht von &lt;xg&gt;Eothas&lt;/xg&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6865,8 +6865,8 @@ Die Priester von Magran lernen die folgenden Zaubersprüche automatisch auf der 
 5. Flammenschild
 6. Säule des Heiligen Feuers
 7. Flammenstrom
-8. Symbol von &lt;xg&gt;Magran
-&lt;/xg&gt;9. &lt;xg&gt;Magrans&lt;/xg&gt; Macht</DefaultText>
+8. Symbol von &lt;g&gt;Magran
+&lt;/g&gt;9. &lt;xg&gt;Magrans&lt;/xg&gt; Macht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6885,8 +6885,8 @@ Die Priester von Skaen lernen die folgenden Zaubersprüche automatisch auf der j
 5. Schatten des Jenseits
 6. Geistiger Verbündeter
 7. Geringer Avatar
-8. Symbol von &lt;xg&gt;Skaen
-&lt;/xg&gt;9. &lt;xg&gt;Skaens&lt;/xg&gt; Rache</DefaultText>
+8. Symbol von &lt;g&gt;Skaen
+&lt;/g&gt;9. &lt;xg&gt;Skaens&lt;/xg&gt; Rache</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6903,7 +6903,7 @@ Die Priester von Wael lernen die folgenden Zaubersprüche automatisch auf der je
 3. Spiegelbild
 4. Llengraths verlegtes Bild
 5. Verwirrung.
-6. &lt;xg&gt;Arkemyrs&lt;/xg&gt; wundersame Folter
+6. &lt;g&gt;Arkemyrs&lt;/g&gt; wundersame Folter
 7. Starren des Adragan
 8. Symbol von &lt;xg&gt;Wael
 &lt;/xg&gt;9. &lt;xg&gt;Waels&lt;/xg&gt; Segnung</DefaultText>
@@ -8253,7 +8253,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2576</ID>
-      <DefaultText>Der Kämpfer übt sich in der Fähigkeit, spezielle Kampfhaltungen einzunehmen. Jede Haltung ist hervorragend für einen anderen Aspekt des Kampfes geeignet. Die &lt;xg&gt;Verteidigungshaltung&lt;/xg&gt; ist geeignet, um sich gegen Gruppen von Gegnern zu behaupten, die Niedermähen-Haltung ist effektiv, wenn man mehrere Gegner auf einmal angreift und die Kriegerhaltung ist am besten, wenn man mit einem einzelnen Gegner Mann gegen Mann kämpft.</DefaultText>
+      <DefaultText>Der Kämpfer übt sich in der Fähigkeit, spezielle Kampfhaltungen einzunehmen. Jede Haltung ist hervorragend für einen anderen Aspekt des Kampfes geeignet. Die &lt;g&gt;Verteidigungshaltung&lt;/g&gt; ist geeignet, um sich gegen Gruppen von Gegnern zu behaupten, die Niedermähen-Haltung ist effektiv, wenn man mehrere Gegner auf einmal angreift und die Kriegerhaltung ist am besten, wenn man mit einem einzelnen Gegner Mann gegen Mann kämpft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
