@@ -696,7 +696,7 @@
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>Bestraft ein Ziel für seine Sünden, wodurch seine Abwehr, seine Tapferkeit, seine Reflexe und sein Wille gesenkt werden.</DefaultText>
+      <DefaultText>Bestraft ein Ziel für seine Sünden, fügt ihm Stichschaden zu und seine Attribute Abwehr, Tapferkeit, Reflexe und Wille werden gesenkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,7 +746,7 @@
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>Segnet Verbündete mithilfe einer mitfühlenden Seele, was eine Heilwirkung erzeugt, wenn ihre Ausdauer gering wird.</DefaultText>
+      <DefaultText>Segnet Verbündete mithilfe einer mitfühlenden Seele, was eine Heilwirkung erzeugt, wenn diese dem Tode Nahe sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -756,7 +756,7 @@
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Quälender Zweifel am unerschütterlichen Glauben überfällt Feinde im Wirkungsbereich und verringert ihre Nahkampfgenauigkeit und die Reichweite ihrer kritischen Treffer.</DefaultText>
+      <DefaultText>Quälender Zweifel am unerschütterlichen Glauben überfällt Feinde im Wirkungsbereich und verringert ihre Nahkampfgenauigkeit und wandelt deren kritischen Treffer zu Treffern um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,7 +776,7 @@
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>Generiert ein magisches Siegel, das in einem Schwall elektrischer Energie explodiert, wenn ein Feind es berührt, und ihm Elektroschockschaden zufügt.</DefaultText>
+      <DefaultText>Generiert ein magisches Siegel, das in einem Schwall elektrischer Energie explodiert, wenn ein Feind es berührt, und ihm Schockschaden zufügt und ihn unterbricht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -791,27 +791,27 @@
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>Verleiht dem Ziel eine unnatürliche Geschwindigkeit und steigert dessen Bewegungsrate.</DefaultText>
+      <DefaultText>Verleiht dem Zauberwirker eine unnatürliche Geschwindigkeit, gewährt ihnen die Inspiration Flink sowie als Bonus Absetzangriff-Verteidigung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>Erzeugt ein Feld überirdischer Klingen, das Zielen im Wirkungsbereich sofortigen Stichschaden und ein Humpelnd-Leiden zufügt.</DefaultText>
+      <DefaultText>Erzeugt ein Feld überirdischer Klingen, das Zielen im Wirkungsbereich sofortigen Hieb- oder Stichschaden zufügt und diese Humpeln läßt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>Ein Stromblitz springt von den Händen des Zauberwirkers auf den nächsten Feind und anschließend auf die umstehenden Feinde über, wobei diese abnehmenden Elektroschockschaden erleiden.</DefaultText>
+      <DefaultText>Ein Stromblitz springt von den Händen des Zauberwirkers auf den nächsten Feind und anschließend auf die umstehenden Feinde über, wobei diese abnehmenden Schockschaden erleiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>Bedeckt den Boden mit einer rutschigen, ölähnlichen Substanz, die jeden im Wirkungsbereich umwirft.</DefaultText>
+      <DefaultText>Bedeckt den Boden mit einer rutschigen, ölähnlichen Substanz, die jeden im Wirkungsbereich niederstreckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Beschwört drei Zaubergeschosse, die im Ziel einschlagen und Wucht- oder Zersetzungsschaden verursachen.</DefaultText>
+      <DefaultText>Beschwört mehrere Zaubergeschosse, die im Ziel einschlagen und Wucht- oder Zersetzungsschaden verursachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6344,7 +6344,7 @@ Passiver Zauber-&lt;g&gt;Widerstand&lt;/g&gt; beeinflusst freundliche und feindl
     </Entry>
     <Entry>
       <ID>2203</ID>
-      <DefaultText>Fingerfertig</DefaultText>
+      <DefaultText>Flink</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11213,7 +11213,7 @@ Dadurch verlierst du den Zugang zu den Feuer- und Kreaturen-Druiden-Zaubersprüc
     </Entry>
     <Entry>
       <ID>3300</ID>
-      <DefaultText>Alptraumblick</DefaultText>
+      <DefaultText>Albtraumblick</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
