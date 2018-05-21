@@ -1461,7 +1461,7 @@
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>Erzeugt eine Wolke aus ansteckendem Gift, die jedem innerhalb der Wolke alle paar Sekunden reinen Schaden zufügt, bis er die Wolke verlässt.</DefaultText>
+      <DefaultText>Erzeugt eine Wolke aus ansteckendem Gift, die jedem innerhalb der Wolke alle paar Sekunden direkten Schaden zufügt, bis er die Wolke verlässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2261,7 +2261,7 @@
     </Entry>
     <Entry>
       <ID>646</ID>
-      <DefaultText>Zerreißt die Lebenskraft aller Feinde im Wirkungsbereich und fügt reinen Schaden zu. Wenn wenigstens ein Feind betroffen ist, kann der Sänger auch ein wenig Gesundheit wiederherstellen.</DefaultText>
+      <DefaultText>Zerreißt die Lebenskraft aller Feinde im Wirkungsbereich und fügt direkten Schaden zu. Wenn wenigstens ein Feind betroffen ist, kann der Sänger auch ein wenig Gesundheit wiederherstellen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3446,7 +3446,7 @@
     </Entry>
     <Entry>
       <ID>1082</ID>
-      <DefaultText>Der Mönch fügt sich sofort selbst reinen Schaden zu, um eine Wunde zu erleiden.</DefaultText>
+      <DefaultText>Der Mönch fügt sich sofort selbst direkten Schaden zu, um eine Wunde zu erleiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3786,7 +3786,7 @@
     </Entry>
     <Entry>
       <ID>1324</ID>
-      <DefaultText>Schießt einen magischen Magieblitz aus dem Zauberbuch, das Zielen im Wirkungsbereich Reinen Schaden zufügt und zu Benommenheit führt.</DefaultText>
+      <DefaultText>Schießt einen magischen Magieblitz aus dem Zauberbuch, das Zielen im Wirkungsbereich direkten Schaden zufügt und zu Benommenheit führt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4076,7 +4076,7 @@
     </Entry>
     <Entry>
       <ID>1466</ID>
-      <DefaultText>Der Kämpfer stellt sich zwischen feindliche Angriffe und seine Verbündeten. Der endgültige Gesamtschaden aller Angriffe auf Verbündete in der Nähe wird halbiert – der Kämpfer erleidet die andere Hälfte als reinen Schaden.</DefaultText>
+      <DefaultText>Der Kämpfer stellt sich zwischen feindliche Angriffe und seine Verbündeten. Der endgültige Gesamtschaden aller Angriffe auf Verbündete in der Nähe wird halbiert – der Kämpfer erleidet die andere Hälfte als direkten Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4196,7 +4196,7 @@
     </Entry>
     <Entry>
       <ID>1570</ID>
-      <DefaultText>Diese mächtigere Variante des einfachen Feuerstrahl-Zaubers verursacht reinen Schaden. Sie greift die Tapferkeit des Ziels an und wirkt sich nur auf Feinde aus.</DefaultText>
+      <DefaultText>Diese mächtigere Variante des einfachen Feuerstrahl-Zaubers verursacht direkten Schaden. Sie greift die Tapferkeit des Ziels an und wirkt sich nur auf Feinde aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4206,7 +4206,7 @@
     </Entry>
     <Entry>
       <ID>1572</ID>
-      <DefaultText>Concelhauts Variante von Minolettas kleinen Fluggeschossen verursacht reinen Schaden, greift die Tapferkeit des Ziels an und verleiht dem Wirker vom Ziel entzogene Ausdauer.</DefaultText>
+      <DefaultText>Concelhauts Variante von Minolettas kleinen Fluggeschossen verursacht direkten Schaden, greift die Tapferkeit des Ziels an und verleiht dem Wirker vom Ziel entzogene Ausdauer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4516,7 +4516,7 @@
     </Entry>
     <Entry>
       <ID>1733</ID>
-      <DefaultText>Das Medium nutzt die Seele eines Verbündeten, um „Klingen“ aus reiner Energie zu erschaffen, die aus beiden Händen hervortreten. Die Klingen verursachten reinen Schaden und erzeugen Fokus für das Medium, das sie erschaffen hat.</DefaultText>
+      <DefaultText>Das Medium nutzt die Seele eines Verbündeten, um „Klingen“ aus reiner Energie zu erschaffen, die aus beiden Händen hervortreten. Die Klingen verursachten direkten Schaden und erzeugen Fokus für das Medium, das sie erschaffen hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4546,7 +4546,7 @@
     </Entry>
     <Entry>
       <ID>1743</ID>
-      <DefaultText>Die Schläge des Mönchs erzeugen eine Eigenschwingung zwischen dem Mönch und seinem Ziel. Sukzessive Schläge vergrößern die Intensität der Eigenschwingung. Zu einem dem Mönch überlassenen Zeitpunkt kann er jede Eigenschwingung auslösen, um verheerenden Reinen Schaden auf jeden zu wirken, der sie gerade trägt.</DefaultText>
+      <DefaultText>Die Schläge des Mönchs erzeugen eine Eigenschwingung zwischen dem Mönch und seinem Ziel. Sukzessive Schläge vergrößern die Intensität der Eigenschwingung. Zu einem dem Mönch überlassenen Zeitpunkt kann er jede Eigenschwingung auslösen, um verheerenden direkten Schaden auf jeden zu wirken, der sie gerade trägt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4556,7 +4556,7 @@
     </Entry>
     <Entry>
       <ID>1745</ID>
-      <DefaultText>Durch Willenskraft kann der Paladin jeden Geist oder jede beschworene Kreatur unter seiner eigenen Stufe zerstören. Geister und beschworene Kreaturen, die die gleiche oder eine höhere Stufe als der Paladin haben, erleiden Reinen Schaden.</DefaultText>
+      <DefaultText>Durch Willenskraft kann der Paladin jeden Geist oder jede beschworene Kreatur unter seiner eigenen Stufe zerstören. Geister und beschworene Kreaturen, die die gleiche oder eine höhere Stufe als der Paladin haben, erleiden direkten Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4636,7 +4636,7 @@
     </Entry>
     <Entry>
       <ID>1769</ID>
-      <DefaultText>Ein trockener Wind bläst über das Schlachtfeld und fügt jedem im Zielgebiet Reinen Schaden zu und lässt ihn Geschwächt zurück.</DefaultText>
+      <DefaultText>Ein trockener Wind bläst über das Schlachtfeld und fügt jedem im Zielgebiet direkten Schaden zu und lässt ihn Geschwächt zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5186,7 +5186,7 @@ Die Seelenpeitsche gewährt weniger Bonus-Schaden und weniger Fokus gegen Ziele,
     </Entry>
     <Entry>
       <ID>1938</ID>
-      <DefaultText>Das Medium schlägt brutal auf einen Gegner ein, verursacht reinen Schaden und erzeugt einen Kegel erschütternder Macht hinter dem Ziel.</DefaultText>
+      <DefaultText>Das Medium schlägt brutal auf einen Gegner ein, verursacht direkten Schaden und erzeugt einen Kegel erschütternder Macht hinter dem Ziel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5258,7 +5258,7 @@ Wenn der Aufstieg nachlässt, wird der Fokus auf null verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>1951</ID>
-      <DefaultText>(Brutaler Rückschlag) – Der Rückschlag des Mediums wird besonders traumatisch, wodurch das Ziel zusätzlichen reinen Schaden erleidet.</DefaultText>
+      <DefaultText>(Brutaler Rückschlag) – Der Rückschlag des Mediums wird besonders traumatisch, wodurch das Ziel zusätzlichen direkten Schaden erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5661,7 +5661,7 @@ Einhändig: Reiner Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2039</ID>
-      <DefaultText>(Arterienstich) – Betroffene Gegner bluten nun auch, wenn sie sich bewegen, und erleiden mit jedem Schritt Reinen Schaden.</DefaultText>
+      <DefaultText>(Arterienstich) – Betroffene Gegner bluten nun auch, wenn sie sich bewegen, und erleiden mit jedem Schritt direkten Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5771,7 +5771,7 @@ Einhändig: Reiner Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2061</ID>
-      <DefaultText>(Blutrausch) – Während der Wirkungsdauer kommt es bei Kritischen Treffern zu Blutungen, die Reinen Schaden über Zeit verursachen.</DefaultText>
+      <DefaultText>(Blutrausch) – Während der Wirkungsdauer kommt es bei Kritischen Treffern zu Blutungen, die direkten Schaden über Zeit verursachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6306,7 +6306,7 @@ Während Raserei bist du verwirrt.
 
 Während Raserei kannst du die Gesundheit nicht sehen.
 
-Während der Raserei erleidest du fortwährend reinen Schaden.</DefaultText>
+Während der Raserei erleidest du fortwährend direkten Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6550,7 +6550,7 @@ Das Verhängen aller Beschwörungen kostet +1 Satz.</DefaultText>
     <Entry>
       <ID>2247</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Erhalte die Fähigkeit „Seelenvernichtung“: Ein seelenangereicherter Nahkampfschlag, der die verbleibende Kraftreserve des Mediums aufbraucht und diese als Reinen Schaden auf das Ziel wirkt.
+Erhalte die Fähigkeit „Seelenvernichtung“: Ein seelenangereicherter Nahkampfschlag, der die verbleibende Kraftreserve des Mediums aufbraucht und diese als direkten Schaden auf das Ziel wirkt.
 
 Abgelegte Zauber des Mediums kosten weniger Fokus.
 
@@ -7452,7 +7452,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2411</ID>
-      <DefaultText>(Panthersprung) – Schlage auf alle Gegner in der Nähe des Aufschlagortes heftig ein und füge ihnen Hiebschaden und Reinen Schaden über Zeit zu.</DefaultText>
+      <DefaultText>(Panthersprung) – Schlage auf alle Gegner in der Nähe des Aufschlagortes heftig ein und füge ihnen Hiebschaden und direkten Schaden über Zeit zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8428,7 +8428,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2613</ID>
-      <DefaultText>Umgibt einen Verbündeten mit einem Feld aus Geistenergie, das Gegnern im Bereich Reinen Schaden zufügt.</DefaultText>
+      <DefaultText>Umgibt einen Verbündeten mit einem Feld aus Geistenergie, das Gegnern im Bereich direkten Schaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8658,7 +8658,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2661</ID>
-      <DefaultText>Das Medium visiert einen Geist oder ein Gefäß an und reißt an der verschmolzenen Seelenenergie darin, wodurch das Medium und jeder Geist oder jedes Gefäß in der Nähe einen ohrenbetäubenden Schrei ausstoßen, der allen in der Nähe Ablenkung und Reinen Schaden zufügt.</DefaultText>
+      <DefaultText>Das Medium visiert einen Geist oder ein Gefäß an und reißt an der verschmolzenen Seelenenergie darin, wodurch das Medium und jeder Geist oder jedes Gefäß in der Nähe einen ohrenbetäubenden Schrei ausstoßen, der allen in der Nähe Ablenkung und direkten Schaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8843,7 +8843,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2699</ID>
-      <DefaultText>Löst einen Effekt aus, der Gegnern im Bereich Reinen Schaden zufügt. Diejenigen, die dem Tode nahe sind, können explodieren und verursachen Zersetzungsschaden an Gegnern in der Nähe.</DefaultText>
+      <DefaultText>Löst einen Effekt aus, der Gegnern im Bereich direkten Schaden zufügt. Diejenigen, die dem Tode nahe sind, können explodieren und verursachen Zersetzungsschaden an Gegnern in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9008,7 +9008,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2732</ID>
-      <DefaultText>(Geteilter Schmerz) – Gegner, die im Weg stehen, werden gegeißelt und erleiden blutenden Reinen Schaden basierend auf der Anzahl an Wunden, die der Mönch hat.</DefaultText>
+      <DefaultText>(Geteilter Schmerz) – Gegner, die im Weg stehen, werden gegeißelt und erleiden blutenden direkten Schaden basierend auf der Anzahl an Wunden, die der Mönch hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9098,7 +9098,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2752</ID>
-      <DefaultText>Durch seine Willenskraft kann der Priester jeden Geist oder jede Gefäß-Kreatur unter seiner eigenen Stufe zerstören. Geister und Gefäß-Kreaturen mit gleicher oder höherer Stufe als der Priester erleiden Reinen Schaden.</DefaultText>
+      <DefaultText>Durch seine Willenskraft kann der Priester jeden Geist oder jede Gefäß-Kreatur unter seiner eigenen Stufe zerstören. Geister und Gefäß-Kreaturen mit gleicher oder höherer Stufe als der Priester erleiden direkten Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9244,7 +9244,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2781</ID>
-      <DefaultText>Bricht die Seele des Ziels und verursacht so reinen Schaden über längere Zeit. Am Ziel eingesetzte Zerfetzungs-Zaubersprüche verursachen einen weiteren Bruch sowie sofortigen reinen Schaden und verlängern die Dauer der Wirkung.</DefaultText>
+      <DefaultText>Bricht die Seele des Ziels und verursacht so direkten Schaden über längere Zeit. Am Ziel eingesetzte Zerfetzungs-Zaubersprüche verursachen einen weiteren Bruch sowie sofortigen direkten Schaden und verlängern die Dauer der Wirkung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9569,7 +9569,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2849</ID>
-      <DefaultText>Ruft einen Mantel schwarzer Energie hervor, der um den Zauberer herum wirbelt. Der Mantel vernichtet die Nahkampf-Angreifer des Zauberers und nimmt sie für kurze Zeit in Dunkelheit gefangen. Während dieser Zeit sind sie aller Aktionen unfähig. Außerdem erhalten sie raschen reinen Schaden über längere Zeit.</DefaultText>
+      <DefaultText>Ruft einen Mantel schwarzer Energie hervor, der um den Zauberer herum wirbelt. Der Mantel vernichtet die Nahkampf-Angreifer des Zauberers und nimmt sie für kurze Zeit in Dunkelheit gefangen. Während dieser Zeit sind sie aller Aktionen unfähig. Außerdem erhalten sie raschen direkten Schaden über längere Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9594,7 +9594,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2854</ID>
-      <DefaultText>Der Waldläufer startet einen gewalttätigen Wirbel tödlicher Angriffe, die auf jeden Feind innerhalb seiner Reichweite einen vollen Angriff darstellen und ihm reinen Schaden über längere Zeit zufügen. (Erfordert eine Nahkampfwaffe)</DefaultText>
+      <DefaultText>Der Waldläufer startet einen gewalttätigen Wirbel tödlicher Angriffe, die auf jeden Feind innerhalb seiner Reichweite einen vollen Angriff darstellen und ihm direkten Schaden über längere Zeit zufügen. (Erfordert eine Nahkampfwaffe)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9674,7 +9674,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2870</ID>
-      <DefaultText>Ein seelenangereicherter Nahkampfschlag, der die verbleibende Kraftreserve des Mediums aufbraucht und diese als Reinen Schaden auf das Ziel wirkt.</DefaultText>
+      <DefaultText>Ein seelenangereicherter Nahkampfschlag, der die verbleibende Kraftreserve des Mediums aufbraucht und diese als direkten Schaden auf das Ziel wirkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12896,7 +12896,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3697</ID>
-      <DefaultText>Passive Fähigkeit. Der erste Nahkampfangriff aus Heimlichkeit heraus verursacht langanhaltenden Reinen Schaden über Zeit.</DefaultText>
+      <DefaultText>Passive Fähigkeit. Der erste Nahkampfangriff aus Heimlichkeit heraus verursacht langanhaltenden direkten Schaden über Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14189,7 +14189,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>3965</ID>
-      <DefaultText>Bissangriff verursachte Reinen Giftschaden über Zeit.</DefaultText>
+      <DefaultText>Bissangriff verursachte direkten Giftschaden über Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14779,7 +14779,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4155</ID>
-      <DefaultText>Aura, die Reinen Schaden über Zeit an nahen Verbündeten verursacht.</DefaultText>
+      <DefaultText>Aura, die direkten Schaden über Zeit an nahen Verbündeten verursacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15249,7 +15249,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4324</ID>
-      <DefaultText>Heimliche Angriffe lassen das Ziel bis zum Ende des Kampfes für reinen Schaden bluten.</DefaultText>
+      <DefaultText>Heimliche Angriffe lassen das Ziel bis zum Ende des Kampfes für direkten Schaden bluten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15319,7 +15319,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4338</ID>
-      <DefaultText>Feuert einen Pfeil auf einen Verbündeten ab. Der Träger erleidet Reinen Schaden, während das Ziel Gesundheit erhält. Die erhaltene Gesundheit wird durch die Religionskompetenz des Trägers erhöht.</DefaultText>
+      <DefaultText>Feuert einen Pfeil auf einen Verbündeten ab. Der Träger erleidet direkten Schaden, während das Ziel Gesundheit erhält. Die erhaltene Gesundheit wird durch die Religionskompetenz des Trägers erhöht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15424,7 +15424,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4361</ID>
-      <DefaultText>Aura, die Reinen Schaden über Zeit an nahen Gegnern verursacht und ihren Rüstungswert senkt. Schaden erhöht sich, wenn das Ziel Gesundheit verliert.</DefaultText>
+      <DefaultText>Aura, die direkten Schaden über Zeit an nahen Gegnern verursacht und ihren Rüstungswert senkt. Schaden erhöht sich, wenn das Ziel Gesundheit verliert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15519,7 +15519,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4384</ID>
-      <DefaultText>Spießt ein Ziel auf, wirft es zurück und verursacht Reinen Blutungsschaden.</DefaultText>
+      <DefaultText>Spießt ein Ziel auf, wirft es zurück und verursacht direkten Blutungsschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16611,7 +16611,7 @@ Keine.</DefaultText>
     </Entry>
     <Entry>
       <ID>4659</ID>
-      <DefaultText>Schlägt mit dem gezackten Griff der Waffe zu und fügt dem Ziel Waffenschaden und Reinen Schaden über Zeit zu.</DefaultText>
+      <DefaultText>Schlägt mit dem gezackten Griff der Waffe zu und fügt dem Ziel Waffenschaden und direkten Schaden über Zeit zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
