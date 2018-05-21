@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Verursacht reinen Schaden und greift schneller an als eine normale Klinge</DefaultText>
+      <DefaultText>Verursacht direkten Schaden und greift schneller an als eine normale Klinge</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Heimliche Angriffe sorgen dafür, dass das Ziel bis zum Ende des Kampfes wegen dem eingetretenen reinen Schaden blutet.</DefaultText>
+      <DefaultText>Heimliche Angriffe sorgen dafür, dass das Ziel bis zum Ende des Kampfes wegen dem eingetretenen direkten Schaden blutet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,7 +326,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Grundlegende Angriffe fügen weniger reinen Schaden zu</DefaultText>
+      <DefaultText>Grundlegende Angriffe fügen weniger direkten Schaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +386,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Chance, bei einem kritischen Treffer beim Ziel über einen Zeitraum von 12,0 Sekunden Behinderung, einen K.O. oder reinen Schaden zu verursachen – oder eine Verringerung der Aktionsgeschwindigkeit um 25 %</DefaultText>
+      <DefaultText>Chance, bei einem kritischen Treffer beim Ziel über einen Zeitraum von 12,0 Sekunden Behinderung, einen K.O. oder direkten Schaden zu verursachen – oder eine Verringerung der Aktionsgeschwindigkeit um 25 %</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -541,7 +541,7 @@
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Nahkampf-Angriff mit Heimlichkeit verursacht beim Ziel im Laufe der Zeit reinen Schaden </DefaultText>
+      <DefaultText>Nahkampf-Angriff mit Heimlichkeit verursacht beim Ziel im Laufe der Zeit direkten Schaden </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,7 +551,7 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Bei kritischem Treffer im Nahkampf Vergeltungsangriff, der reinen Schaden verursacht</DefaultText>
+      <DefaultText>Bei kritischem Treffer im Nahkampf Vergeltungsangriff, der direkten Schaden verursacht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,7 +581,7 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>{0:value:percent} von {0:damagetype} Schaden als reiner Schaden über längere Zeit</DefaultText>
+      <DefaultText>{0:value:percent} von {0:damagetype} Schaden als direkten Schaden über längere Zeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -671,7 +671,7 @@
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Derjenige, der die Waffe führt, erleidet selbst {0:value:percent} des ausgeteilten Schadens als reinen Schaden</DefaultText>
+      <DefaultText>Derjenige, der die Waffe führt, erleidet selbst {0:value:percent} des ausgeteilten Schadens als direkten Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -881,7 +881,7 @@
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Startet den Wirkungskreis reinen Schadens, wenn {0:value:straight} aufeinanderfolgende Treffer auf das Ziel erzielt werden</DefaultText>
+      <DefaultText>Startet den Wirkungskreis direkten Schadens, wenn {0:value:straight} aufeinanderfolgende Treffer auf das Ziel erzielt werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1236,7 +1236,7 @@
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>Treffer mit dieser Waffe verursachen {0:value:percent} Schaden als reinen Schaden über Zeit</DefaultText>
+      <DefaultText>Treffer mit dieser Waffe verursachen {0:value:percent} Schaden als direkten Schaden über Zeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1327,7 +1327,7 @@
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>Füge bei einem kritischen Treffer für 12,0 Sekunden reinen Schaden über längere Zeit zu, wenn das Ziel über Wirkung auf die Entschlossenheit verfügt</DefaultText>
+      <DefaultText>Füge bei einem kritischen Treffer für 12,0 Sekunden direkten Schaden über längere Zeit zu, wenn das Ziel über Wirkung auf die Entschlossenheit verfügt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1432,7 +1432,7 @@
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Gibt für {0:value:duration} nach dem Beginn des Angriffs {0:extravalue:percent} des empfangenen Nahkampf-Schadens an die Angreifer als reinen Schaden zurück.</DefaultText>
+      <DefaultText>Gibt für {0:value:duration} nach dem Beginn des Angriffs {0:extravalue:percent} des empfangenen Nahkampf-Schadens an die Angreifer als direkten Schaden zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1487,7 +1487,7 @@
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Wirkungskreis eines reinen Schadens bei bewusstlosen Personen, allerdings nur feindlichen</DefaultText>
+      <DefaultText>Wirkungskreis eines direkten Schadens bei bewusstlosen Personen, allerdings nur feindlichen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
