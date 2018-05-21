@@ -6963,7 +6963,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1551</ID>
-      <DefaultText>{0} pro Kill</DefaultText>
+      <DefaultText>{0} pro Tötung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7833,7 +7833,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1732</ID>
-      <DefaultText>Freischalten mit {0}</DefaultText>
+      <DefaultText>Aufschließen mit {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10771,7 +10771,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2324</ID>
-      <DefaultText>{0} bei Kill</DefaultText>
+      <DefaultText>{0} bei Tötung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14050,7 +14050,7 @@ Frömmigkeit und Gebete sind die Eckpfeiler deines öffentlichen Lebens und du f
     </Entry>
     <Entry>
       <ID>2936</ID>
-      <DefaultText>Automatisches Freischalten</DefaultText>
+      <DefaultText>Automatisches aufschließen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14375,7 +14375,7 @@ Frömmigkeit und Gebete sind die Eckpfeiler deines öffentlichen Lebens und du f
     </Entry>
     <Entry>
       <ID>3001</ID>
-      <DefaultText>Freischalten</DefaultText>
+      <DefaultText>Aufschließen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15175,7 +15175,7 @@ Frömmigkeit und Gebete sind die Eckpfeiler deines öffentlichen Lebens und du f
     </Entry>
     <Entry>
       <ID>3179</ID>
-      <DefaultText>Ich bringe dich {0} in die Stadt, um dann nach {2} zu reisen.</DefaultText>
+      <DefaultText>Der Weg in die Stadt nach {2} dauert {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21052,7 +21052,7 @@ Modwyr kann nicht länger an die Seele des Wächters gebunden werden und wurde i
     </Entry>
     <Entry>
       <ID>4547</ID>
-      <DefaultText>{0:Value} Wirkt Zauber der Stufe {0:ExtraValue:straight} </DefaultText>
+      <DefaultText>{0:Value} extra Wirkungen für Zauber der Stufe {0:ExtraValue:straight}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
