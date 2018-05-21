@@ -742,9 +742,9 @@ Die Dauer der Verzögerung hängt von der Unterbrechung-Stärke der Waffe oder d
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>In Pillars of Eternity gibt es acht Schadensarten: Hieb-, Stich-, Wucht-, Brand-, Schock-, &lt;g&gt;Zersetzung&lt;/g&gt;s-, Frost- und direkten Schaden. Die Schadensarten werden dazu genutzt, zu bestimmten, wie leicht ein Ziel solchem Schaden widerstehen kann, basierend auf seinen Schadensreduktionen. Eine Kreatur oder Rüstung kann einer Schadensart gegenüber sehr resistent sein, einer anderen gegenüber aber sehr anfällig. 
+      <DefaultText>In Pillars of Eternity gibt es acht Schadensarten: Hieb-, Stich-, Wucht-, Brand-, Schock-, &lt;g&gt;Zersetzung&lt;/g&gt;s-, Frost- und direkter Schaden. Die Schadensarten werden dazu genutzt, zu bestimmten, wie leicht ein Ziel solchem Schaden widerstehen kann, basierend auf seinen Schadensreduktionen. Eine Kreatur oder Rüstung kann einer Schadensart gegenüber sehr resistent sein, einer anderen gegenüber aber sehr anfällig. 
 
-Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen zwischen ihren Schadensarten ein „oder“. Wenn ein „oder“ aufgeführt wird, verursacht der Angriff immer die Schadensart, gegen die das Ziel am anfälligsten ist. Reiner Schaden ist die einzige Schadensart, die alle Schadensreduktionen ignoriert – und meist mit Giften und ähnlichen Effekten in Verbindung steht.</DefaultText>
+Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen zwischen ihren Schadensarten ein „oder“. Wenn ein „oder“ aufgeführt wird, verursacht der Angriff immer die Schadensart, gegen die das Ziel am anfälligsten ist. Direkter Schaden ist die einzige Schadensart, die alle Schadensreduktionen ignoriert – und meist mit Giften und ähnlichen Effekten in Verbindung steht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1963,7 +1963,7 @@ Sie sind gerissene Jäger und den Legenden zufolge Ondras furchterregende Diener
       <ID>453</ID>
       <DefaultText>Wenn ein schadenverursachender Angriff ein Ziel trifft, wird die &lt;b&gt;Durchschlagskraft&lt;/b&gt; des Angriffs mit dem &lt;b&gt;Rüstungswert&lt;/b&gt; des Ziels verglichen, um den zugefügten Schaden zu bestimmen.
 
-Die Durchschlagskraft eines Angriffs hängt von der verwendeten Waffe oder dem zugrundeliegenden Zauber ab und kann durch Magie, Fähigkeiten, Talente oder Waffenverzauberungen erhöht werden. Die Durchschlagskraft wird mit dem Rüstungswert der Schadensart des Angriffs verglichen. Beispiel: Bei einem Feuerball wird stets die Durchschlagskraft mit dem Rüstungswert für Brennen verglichen. Reiner Schaden umgeht jegliche Rüstung und ist nicht von der Durchschlagskraft abhängig.
+Die Durchschlagskraft eines Angriffs hängt von der verwendeten Waffe oder dem zugrundeliegenden Zauber ab und kann durch Magie, Fähigkeiten, Talente oder Waffenverzauberungen erhöht werden. Die Durchschlagskraft wird mit dem Rüstungswert der Schadensart des Angriffs verglichen. Beispiel: Bei einem Feuerball wird stets die Durchschlagskraft mit dem Rüstungswert für Brennen verglichen. Direkter Schaden umgeht jegliche Rüstung und ist nicht von der Durchschlagskraft abhängig.
 
 &lt;b&gt;Vollständiger Durchschlag&lt;/b&gt; (+ 30 % Schaden) – Durchschlagskraft beträgt das Doppelte oder mehr des Rüstungswerts
 

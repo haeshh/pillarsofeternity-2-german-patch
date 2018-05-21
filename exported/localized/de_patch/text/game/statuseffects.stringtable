@@ -366,7 +366,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Derjenige, der die Waffe führt, erhält {0:value:percent} Schaden, der als reiner Schaden zurückgezahlt wird</DefaultText>
+      <DefaultText>Derjenige, der die Waffe führt, erhält {0:value:percent} Schaden, der als direkter Schaden zurückgezahlt wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1071,7 +1071,7 @@
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>Mäßiger längere Zeit anhaltender reiner Schaden beim flankierten Ziel bei einem Treffer</DefaultText>
+      <DefaultText>Mäßiger längere Zeit anhaltender direkter Schaden beim flankierten Ziel bei einem Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1412,7 +1412,7 @@
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>Reiner Schaden über längere Zeit hinweg für 18,0 Sekunden bei einem Treffer, wenn das Ziel über weniger als 25 % Gesundheit verfügt</DefaultText>
+      <DefaultText>Direkter Schaden über längere Zeit hinweg für 18,0 Sekunden bei einem Treffer, wenn das Ziel über weniger als 25 % Gesundheit verfügt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1617,7 +1617,7 @@
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>{0:value:percent} des verursachten Schadens wird beim Spieler selbst als reiner Schaden hervorgerufen</DefaultText>
+      <DefaultText>{0:value:percent} des verursachten Schadens wird beim Spieler selbst als direkter Schaden hervorgerufen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1647,7 +1647,7 @@
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>Gesundheit für denjenigen, der die Waffe führt, und reiner Schaden beim Ziel beim Empfang eines Treffers</DefaultText>
+      <DefaultText>Gesundheit für denjenigen, der die Waffe führt, und direkter Schaden beim Ziel beim Empfang eines Treffers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1827,7 +1827,7 @@
     </Entry>
     <Entry>
       <ID>384</ID>
-      <DefaultText>{0:value:percent} des empfangenen Schadens wird als reiner Schaden zurückgegeben</DefaultText>
+      <DefaultText>{0:value:percent} des empfangenen Schadens wird als direkter Schaden zurückgegeben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
