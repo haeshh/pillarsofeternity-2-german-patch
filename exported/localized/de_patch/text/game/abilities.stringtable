@@ -701,7 +701,7 @@
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>Ein Ruf nach der Gunst der Götter, der allen Verbündeten im Wirkungsbereich eine Aufschlussreiche Inspiration gewährt.</DefaultText>
+      <DefaultText>Ein Ruf nach der Gunst der Götter, der allen Verbündeten im Wirkungsbereich die Inspiration Aufschlussreich gewährt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -731,7 +731,7 @@
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>Erzeugt einen Bereich der göttlichen Gunst um den Zauberwirker herum, in dem alle Verbündeten eine Starke Inspiration erhalten.</DefaultText>
+      <DefaultText>Erzeugt einen Bereich der göttlichen Gunst um den Zauberwirker herum, in dem alle Verbündeten die Inspiration Stark erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -761,7 +761,7 @@
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>Verstärkt die Verbündeten im Kampf und gibt ihnen Aufmerksamkeits-Inspiration.</DefaultText>
+      <DefaultText>Verstärkt die Verbündeten im Kampf und gewährt diesen die Inspiration Bewusst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -831,7 +831,7 @@
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>Erzeugt Duplikate des Zauberwirkers zur Ablenkung der Feinde und gewährt einen Bonus auf Abwehr, der mit jedem erlittenem Treffer verringert wird.</DefaultText>
+      <DefaultText>Erzeugt Duplikate des Zauberwirkers zur Ablenkung der Feinde und gewährt einen großen Bonus auf Abwehr, der mit jedem erlittenem Treffer verringert wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -841,7 +841,7 @@
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Frisst die Seele des Ziels auf, verursacht Zersetzungsschaden und wandelt diese Essenz in Ausdauer für den Zauberwirker um.</DefaultText>
+      <DefaultText>Frisst die Seele des Ziels auf, verursacht Zersetzungsschaden und wandelt diese Essenz in Gesundheit für den Zauberwirker um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -856,7 +856,7 @@
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>Deckt für alle sichtbar die Schwachstellen des Feindes im Kampf auf, wodurch dessen Schadensreduktion, Abwehr und Konzentration verringert werden.</DefaultText>
+      <DefaultText>Deckt für alle sichtbar die Schwachstellen des Feindes im Kampf auf, unterbricht diese und verringert sowohl deren Schadensreduktion als auch deren Abwehr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -871,7 +871,7 @@
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>Der Zauberwirker nutzt seine Lebenskraft, um seine Geschwindigkeit und Bewegung zu erhöhen, während seine Ausdauer sinkt.</DefaultText>
+      <DefaultText>Der Zauberwirker nutzt seine Lebenskraft, um die Inspiration Schnell zu erwerben auf Kosten seiner eigenen Gesundheit, die stetig abnimmt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1106,7 +1106,7 @@
     </Entry>
     <Entry>
       <ID>351</ID>
-      <DefaultText>Wildschlag-Verbrennung</DefaultText>
+      <DefaultText>Wildschlag: Brand</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1116,7 +1116,7 @@
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>Wildschlag-Zersetzung</DefaultText>
+      <DefaultText>Wildschlag: Zersetzung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1126,7 +1126,7 @@
     </Entry>
     <Entry>
       <ID>355</ID>
-      <DefaultText>Wildschlag-Frost</DefaultText>
+      <DefaultText>Wildschlag: Frost</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1136,7 +1136,7 @@
     </Entry>
     <Entry>
       <ID>357</ID>
-      <DefaultText>Wildschlag-Elektroschock</DefaultText>
+      <DefaultText>Wildschlag: Schock</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5288,12 +5288,12 @@ Wenn der Aufstieg nachlässt, wird der Fokus auf null verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>1961</ID>
-      <DefaultText>Größerer Wildschlag: Verbrennung</DefaultText>
+      <DefaultText>Größerer Wildschlag: Brand</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1962</ID>
-      <DefaultText>(Größerer Wildschlag: Verbrennung) – Durch das umfassendere Wissen über die Naturgewalten wird während des Geisterwandelns mehr Brandschaden verursacht.</DefaultText>
+      <DefaultText>(Größerer Wildschlag: Brand) – Durch das umfassendere Wissen über die Naturgewalten wird während des Geisterwandelns mehr Brandschaden verursacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5966,7 +5966,7 @@ Einhändig: Reiner Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2112</ID>
-      <DefaultText>Gewährt einem Einzelziel für eine mittellange Dauer die Inspiration Hellhörig.</DefaultText>
+      <DefaultText>Gewährt einem Einzelziel für eine mittellange Dauer die Inspiration Scharfsinnig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8228,12 +8228,12 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2571</ID>
-      <DefaultText>(Disziplinierte Schläge) – Bewusste Inspiration wird zu Intuitiver Inspiration verbessert.</DefaultText>
+      <DefaultText>(Disziplinierte Schläge) – Die Inspiration Bewusst wird zur Inspiration Intuitiv verbessert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2572</ID>
-      <DefaultText>(Taktischer Beschuss) – Der Kämpfer erhält nun auch die Akute Inspiration.</DefaultText>
+      <DefaultText>(Taktischer Beschuss) – Der Kämpfer erhält nun auch die Inspiration Scharfsinnig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8723,7 +8723,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2674</ID>
-      <DefaultText>Greift Gegner mit einem starken Nahkampfangriff an, fügt hohen Schaden zu und betäubt ihn. Feinde hinter dem Gegner werden taumelnd und erhalten Rohschaden.</DefaultText>
+      <DefaultText>Greift Gegner mit einem starken Nahkampfangriff an, fügt hohen Schaden zu und betäubt ihn. Feinde hinter dem Gegner werden taumelnd und erhalten direkten Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9800,7 +9800,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2896</ID>
-      <DefaultText>(Wildschlag–Raserei Brand) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und verursacht Verbrennung und Schaden über Zeit bei Gegnern in der Nähe.</DefaultText>
+      <DefaultText>(Wildschlag–Raserei: Brand) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und verursacht Verbrennung und Schaden über Zeit bei Gegnern in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9810,7 +9810,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2898</ID>
-      <DefaultText>(Wildschlag–Raserei Zersetzung) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und verursacht Zersetzung und verringert den Rüstungswert von Gegnern in der Nähe.</DefaultText>
+      <DefaultText>(Wildschlag–Raserei: Zersetzung) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und verursacht Zersetzung und verringert den Rüstungswert von Gegnern in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9820,7 +9820,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2900</ID>
-      <DefaultText>(Wildschlag–Raserei Frost) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und friert Gegner in der Nähe ein und verlangsamt sie.</DefaultText>
+      <DefaultText>(Wildschlag–Raserei: Frost) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und friert Gegner in der Nähe ein und verlangsamt sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9830,7 +9830,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2902</ID>
-      <DefaultText>(Wildschlag–Raserei Schock) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und unterbricht Gegner in der Nähe.</DefaultText>
+      <DefaultText>(Wildschlag–Raserei: Schock) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und unterbricht Gegner in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
