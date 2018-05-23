@@ -1427,7 +1427,7 @@
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>-20 % Nahkampf-Schaden empfangen und +8 % Abwehr für 2,0 Sekunden bei Start eines Angriffs</DefaultText>
+      <DefaultText>{0:value:percentbonus} Nahkampfschaden empfangen für {0:extravalue:duration} bei Start eines Angriffs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1442,7 +1442,7 @@
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>+2 % Aktionsgeschwindigkeit bei einem Treffer im Nahkampf Verzehnfachung Hat eine Bewegung entfernt</DefaultText>
+      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit bei einem Treffer im Nahkampf ({0:triggercount} x stapelbar, wird bei Bewegung entfernt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2522,12 +2522,12 @@
     </Entry>
     <Entry>
       <ID>551</ID>
-      <DefaultText>20 % Chance auf einen zusätzlichen Brandschaden bei Treffer</DefaultText>
+      <DefaultText>20 % Chance auf zusätzlichen Brandschaden bei Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>552</ID>
-      <DefaultText>20 % Chance auf einen zusätzlichen Brandschaden im Wirkungsradius bei Treffer</DefaultText>
+      <DefaultText>20 % Chance auf zusätzlichen Brandschaden im Wirkungsradius bei Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
