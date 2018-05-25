@@ -20818,7 +20818,7 @@ Die Klinge des Wächters wurde zu dem Haufen hinzugefügt.</DefaultText>
     </Entry>
     <Entry>
       <ID>4500</ID>
-      <DefaultText>{0:DamageType} Schadensheilung für {0:Value:Percent} anstelle von des Austeilens von Schaden</DefaultText>
+      <DefaultText>{0:DamageType}schaden heilt für {0:Value:Percent} anstatt Schaden zu verursachen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
