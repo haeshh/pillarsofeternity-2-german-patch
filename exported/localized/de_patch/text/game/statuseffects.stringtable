@@ -1372,7 +1372,7 @@
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>25 % Chance, Primitive einer geringeren Stufe bei einem kritischen Treffer sofort zu vernichten</DefaultText>
+      <DefaultText>{0:value:percent} Chance, Primitive einer geringeren Stufe bei einem kritischen Treffer sofort zu vernichten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
