@@ -1792,7 +1792,7 @@
     </Entry>
     <Entry>
       <ID>377</ID>
-      <DefaultText>{0:value} Alle Verteidigungen gegen Pflanzenangriffe, solange die Gesundheit über 75 % liegt</DefaultText>
+      <DefaultText>{0:value} Alle Verteidigungen gegen Pflanzenangriffe, solange die Gesundheit über {0:extravalue:percent} liegt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
