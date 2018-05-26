@@ -1101,7 +1101,7 @@
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>Chance, bei einem Treffer beim Ziel längere Zeit anhaltenden Zersetzungsschaden zu verursachen Chance, das Ziel beim Anklicken zu lähmen</DefaultText>
+      <DefaultText>{0:triggercount} Zersetzungsschaden alle {0:value:duration} für {0:triggervalue:duration} bei einem Treffer ({0:extravalue:percent} Chance das Ziel bei jedem Zyklus zu lähmen)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
