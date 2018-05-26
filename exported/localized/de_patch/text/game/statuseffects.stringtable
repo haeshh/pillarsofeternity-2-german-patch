@@ -1096,7 +1096,7 @@
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>Chance, bei einem Treffer beim Ziel längere Zeit anhaltenden Zersetzungsschaden zu verursachen Dem Tode nahe Ziele können durch Anklicken sofort getötet werden</DefaultText>
+      <DefaultText>{0:triggercount} Zersetzungsschaden alle {0:value:duration} für {0:triggervalue:duration} bei einem Treffer ({0:extravalue:percent} Chance Ziele, die Dem Tode nahe sind, bei jedem Zyklus sofort zu töten)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
