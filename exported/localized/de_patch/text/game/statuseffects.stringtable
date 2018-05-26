@@ -1131,7 +1131,7 @@
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>+2 % Genauigkeit für alle Fernkampfwaffen für 30,0 Sekunden bei einem erzielten Treffer. Wirkung vervielfacht sich.</DefaultText>
+      <DefaultText>{0:value} Genauigkeit für alle Fernkampfwaffen für {0:extravalue:duration} Sekunden bei einem erzielten Treffer. (Stapelbar: {0:triggercount} mal)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
