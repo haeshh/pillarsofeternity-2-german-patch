@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Ein kritischer Treffer verschafft {0:triggervalue} Genauigkeit und {0:extravalue:percent} Aktionsgeschwindigkeit (Stapelt {0:value:straight} Mal)</DefaultText>
+      <DefaultText>Ein kritischer Treffer verschafft {0:triggervalue} Genauigkeit und {0:extravalue:percent} Aktionsgeschwindigkeit ({0:value:straight} mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
