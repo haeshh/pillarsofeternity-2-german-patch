@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Bei kritischem Treffer 9 Sek lang 5 roher Blutungsschaden pro 3 Sek.</DefaultText>
+      <DefaultText>Bei kritischem Treffer alle 3 Sekunden 5 direkter Blutungsschaden für die Dauer von 9 Sekunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,7 +236,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Bei Treffer auf flankiertem Ziel {0:extravalue:duration} lang {0:triggercount} Rohschaden pro {0:value:duration}</DefaultText>
+      <DefaultText>{0:triggercount} direkter Schaden alle {0:value:duration} für die Dauer von {0:extravalue:duration} bei einem Treffer auf flankiertes Ziel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
