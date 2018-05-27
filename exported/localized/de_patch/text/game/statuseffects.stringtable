@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>15 % Chance, bei einem Treffer über das Ziel einen zufälligen Illusionszauber zu verhängen</DefaultText>
+      <DefaultText>{0:extravalue:percent} Chance, bei einem Treffer über das Ziel einen zufälligen Illusionszauber zu verhängen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
