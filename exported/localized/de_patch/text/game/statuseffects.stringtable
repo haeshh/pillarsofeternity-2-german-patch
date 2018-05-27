@@ -1096,12 +1096,12 @@
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>{0:triggercount} Zersetzungsschaden alle {0:value:duration} für {0:triggervalue:duration} bei einem Treffer ({0:extravalue:percent} Chance Ziele, die Dem Tode nahe sind, bei jedem Zyklus sofort zu töten)</DefaultText>
+      <DefaultText>{0:triggercount} Zersetzungsschaden alle {0:value:duration} für die Dauer von {0:triggervalue:duration} bei einem Treffer ({0:extravalue:percent} Chance Ziele, die Dem Tode nahe sind, bei jedem Schadenszyklus sofort zu töten)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>{0:triggercount} Zersetzungsschaden alle {0:value:duration} für {0:triggervalue:duration} bei einem Treffer ({0:extravalue:percent} Chance das Ziel bei jedem Zyklus zu lähmen)</DefaultText>
+      <DefaultText>{0:triggercount} Zersetzungsschaden alle {0:value:duration} für die Dauer von {0:triggervalue:duration} bei einem Treffer ({0:extravalue:percent} Chance das Ziel bei jedem Schadenszyklus zu lähmen)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
