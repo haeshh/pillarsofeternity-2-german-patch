@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>{0:value} Abwehr vom Ziel bei einem kritischen Treffer für {0:triggervalue:duration}. (Wirkung vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>{0:value} Abwehr vom Ziel bei einem kritischen Treffer für {0:triggervalue:duration} ({0:extravalue:straight} mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
