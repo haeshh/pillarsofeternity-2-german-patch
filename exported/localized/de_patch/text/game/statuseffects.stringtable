@@ -806,7 +806,7 @@
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>+10 Genauigkeit und +15 % Waffenschaden, wenn die Gesundheit unter 50 % liegt</DefaultText>
+      <DefaultText>{0:triggervalue} Genauigkeit und {0:extravalue:percentbonus} Waffenschaden, wenn die Gesundheit unter 50 % liegt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
