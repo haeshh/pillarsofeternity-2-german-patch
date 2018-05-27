@@ -946,7 +946,7 @@
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>Lähmt das Ziel bei einem kritischen Treffer, wenn die vereiste Klinge über eine vervielfachende Wirkung von {0:value} verfügt.</DefaultText>
+      <DefaultText>Lähmt das Ziel bei einem kritischen Treffer, wenn der Effekt vereiste Klinge {0:value} mal gestapelt wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -981,7 +981,7 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>Macht das Ziel bei einem Treffer krank, sobald die unreine Klinge über eine vervielfachende Wirkung von {0:value} verfügt.</DefaultText>
+      <DefaultText>Macht das Ziel bei einem Treffer krank, sobald der Effekt unreine Klinge {0:value} mal gestapelt wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
