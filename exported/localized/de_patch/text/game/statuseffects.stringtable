@@ -496,7 +496,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>5 % Chance, einen Gestandenen oder eine Bestie mit weniger als 100 Gesundheit beim Treffer sofort zu vernichten</DefaultText>
+      <DefaultText>{0:value:percent} Chance, einen Gestandenen oder eine Bestie mit weniger als 100 Gesundheit beim Treffer sofort zu vernichten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
