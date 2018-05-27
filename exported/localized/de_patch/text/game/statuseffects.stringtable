@@ -396,7 +396,7 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>{0:value:percentbonus} Sichel-Schaden bis zum Ende des Kampfes bei Tötung. (vervielfacht sich {0:triggercount}-mal) (Erhöht sich mit den Religionsfähigkeiten) </DefaultText>
+      <DefaultText>{0:value:percentbonus} Sichel-Schaden bis zum Ende des Kampfes bei Tötung ({0:triggercount} mal stapelbar) (Erhöht sich mit den Religionsfähigkeiten)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
