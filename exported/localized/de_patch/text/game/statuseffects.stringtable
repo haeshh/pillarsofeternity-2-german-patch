@@ -631,7 +631,7 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Verschafft dir bei Unbeweglichkeit einen der Vervielfachung unterliegenden Schaden im Nahkampf von (Stacks {0:extravalue:straight} times) bei Empfang eines Treffers im Nahkampf. (Vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>Verschafft dir bei Unbeweglichkeit {0:value:percent} Nahkampfschaden beim Erleiden eines Treffers im Nahkampf ({0:extravalue:straight} mal stapelbar).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
