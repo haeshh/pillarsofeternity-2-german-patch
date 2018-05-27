@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem kritischen Treffer durch Eis zu lähmen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem kritischen Treffer durch Eis für {0:extravalue:duration} zu lähmen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
