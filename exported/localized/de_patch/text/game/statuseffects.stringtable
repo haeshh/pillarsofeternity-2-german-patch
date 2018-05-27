@@ -831,7 +831,7 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>{0:value:percent} Chance auf sofortige Erholung bei einem kritischen Treffer im Nahkampf</DefaultText>
+      <DefaultText>{0:value:percent} Chance bei einem kritischen Treffer im Nahkampf die Erholungsphase frühzeitig zu beenden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1126,7 +1126,7 @@
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer sofortige Erholung auszulösen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer die Erholungsphase frühzeitig zu beenden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1146,7 +1146,7 @@
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer sofortige Erholung auszulösen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer die Erholungsphase frühzeitig zu beenden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1241,7 +1241,7 @@
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>{0:value:percent} Chance auf sofortige Erholung bei einem kritischen Treffer</DefaultText>
+      <DefaultText>{0:value:percent} Chance bei einem kritischen Treffer die Erholungsphase frühzeitig zu beenden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
