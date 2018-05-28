@@ -1326,7 +1326,7 @@
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>Füge bei einem kritischen Treffer für 12,0 Sekunden direkten Schaden über längere Zeit zu, wenn das Ziel über Wirkung auf die Entschlossenheit verfügt</DefaultText>
+      <DefaultText>Füge bei einem kritischen Treffer {0:triggercount} direkten Schaden alle {0:extravalue:duration} für die Dauer von {0:value:duration} zu, wenn das Ziel über Wirkung auf die Entschlossenheit verfügt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
