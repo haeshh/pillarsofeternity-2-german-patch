@@ -1041,7 +1041,7 @@
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>Töten mit &lt;g&gt;Magrans&lt;/g&gt; Gunst gewährt {0:value:percent} Schaden als Verbrennung und {0:extravalue:percent} Aktionsgeschwindigkeit (Wirkung vervielfacht sich {0:triggervalue:straight} Mal.)</DefaultText>
+      <DefaultText>Töten mit &lt;g&gt;Magrans&lt;/g&gt; Gunst gewährt {0:value:percent} Schaden als Brandschaden und {0:extravalue:percent} Aktionsgeschwindigkeit ({0:triggervalue:straight} mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
