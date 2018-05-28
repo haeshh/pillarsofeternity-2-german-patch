@@ -1296,7 +1296,7 @@
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>50 % Chance, beim Erzielen eines kritischen Treffers beim Ziel eine zufällige Wirkung auszulösen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, beim Erzielen eines kritischen Treffers beim Ziel eine zufällige Wirkung auszulösen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
