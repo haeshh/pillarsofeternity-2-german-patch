@@ -1131,7 +1131,7 @@
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>{0:value} Genauigkeit für alle Fernkampfwaffen für {0:extravalue:duration} Sekunden bei einem erzielten Treffer. (Stapelbar: {0:triggercount} mal)</DefaultText>
+      <DefaultText>{0:value} Genauigkeit für alle Fernkampfwaffen für {0:extravalue:duration} Sekunden bei einem erzielten Treffer. ({0:triggercount} mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1141,7 +1141,7 @@
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>{0:value} Genauigkeit für alle Fernkampfwaffen. Wirkung vervielfacht sich.</DefaultText>
+      <DefaultText>{0:value} Genauigkeit für alle Fernkampfwaffen. Effekt ist stapelbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
