@@ -1401,12 +1401,12 @@
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>{0:value:percentbonus} Heilung erledigt. Erhöht sich mit den Religionsfähigkeiten</DefaultText>
+      <DefaultText>{0:value:percentbonus} Heilung erledigt. Erhöht sich mit der Fähigkeit Religion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>{0:value:percent} Chance, eingehenden Zaubersprüchen zu widerstehen. Erhöht sich mit den Religionsfähigkeiten</DefaultText>
+      <DefaultText>{0:value:percent} Chance, eingehenden Zaubersprüchen zu widerstehen. Erhöht sich mit der Fähigkeit Religion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1416,7 +1416,7 @@
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit für {0:extravalue:duration} in der Nähe eines erschlagenen Feindes (erhöht sich mit den Religionsfähigkeiten).</DefaultText>
+      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit für {0:extravalue:duration} in der Nähe eines erschlagenen Feindes (erhöht sich mit der Fähigkeit Religion).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
