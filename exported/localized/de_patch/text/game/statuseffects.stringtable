@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Ein kritischer Treffer verschafft {0:triggervalue} Genauigkeit und {0:extravalue:percent} Aktionsgeschwindigkeit ({0:value:straight} mal stapelbar)</DefaultText>
+      <DefaultText>Ein kritischer Treffer verschafft {0:triggervalue} Genauigkeit und {0:extravalue:percent} Aktionsgeschwindigkeit ({0:value:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>{0:value:percentbonus} Frostschaden für {0:extravalue:duration} bei einem Treffer ({0:triggercount} mal stapelbar)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Frostschaden für {0:extravalue:duration} bei einem Treffer ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>{0:value} Abwehr vom Ziel bei einem kritischen Treffer für {0:triggervalue:duration} ({0:extravalue:straight} mal stapelbar)</DefaultText>
+      <DefaultText>{0:value} Abwehr vom Ziel bei einem kritischen Treffer für {0:triggervalue:duration} ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,12 +346,12 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>{0:value:percent} Schaden ausgeteilt und empfangen bei Tötung bis zur Ruhepause. ({0:extravalue:straight} mal stapelbar)</DefaultText>
+      <DefaultText>{0:value:percent} Schaden ausgeteilt und empfangen bei Tötung bis zur Ruhepause. ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>{0:value} Willen beim Ziel für {0:extravalue:duration} bei einem Treffer ({0:triggercount} mal stapelbar).</DefaultText>
+      <DefaultText>{0:value} Willen beim Ziel für {0:extravalue:duration} bei einem Treffer ({0:triggercount}-mal stapelbar).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,7 +396,7 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>{0:value:percentbonus} Sichel-Schaden bis zum Ende des Kampfes bei Tötung ({0:triggercount} mal stapelbar) (Erhöht sich mit den Religionsfähigkeiten)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Sichel-Schaden bis zum Ende des Kampfes bei Tötung ({0:triggercount}-mal stapelbar) (Erhöht sich mit den Religionsfähigkeiten)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,7 +471,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>{0:extravalue} für alle Verteidigungen, wenn angegriffen ({0:triggercount} mal stapelbar)</DefaultText>
+      <DefaultText>{0:extravalue} für alle Verteidigungen, wenn angegriffen ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -626,12 +626,12 @@
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Verschafft dir bei Unbeweglichkeit einen stapelbaren Aktionsgeschwindigkeits-Bonus von {0:value:percent} bei einem Treffer mit einer Nahkampfwaffe ({0:extravalue:straight} mal stapelbar).</DefaultText>
+      <DefaultText>Verschafft dir bei Unbeweglichkeit einen stapelbaren Aktionsgeschwindigkeits-Bonus von {0:value:percent} bei einem Treffer mit einer Nahkampfwaffe ({0:extravalue:straight}-mal stapelbar).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Verschafft dir bei Unbeweglichkeit {0:value:percent} Nahkampfschaden beim Erleiden eines Treffers im Nahkampf ({0:extravalue:straight} mal stapelbar).</DefaultText>
+      <DefaultText>Verschafft dir bei Unbeweglichkeit {0:value:percent} Nahkampfschaden beim Erleiden eines Treffers im Nahkampf ({0:extravalue:straight}-mal stapelbar).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,12 +746,12 @@
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit für {0:extravalue:duration} bei einem Treffer ({0:triggercount} mal stapelbar)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit für {0:extravalue:duration} bei einem Treffer ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>{0:value:percentbonus} Abwehr für {0:extravalue:duration} bei einem Treffer ({0:triggercount} mal stapelbar)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Abwehr für {0:extravalue:duration} bei einem Treffer ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>Erhöhung der Chance um {0:value:percentbonus} für einen kritischen Treffer bei einem Treffer. ({0:extravalue} mal stapelbar und Wirkung wird bei kritischem Treffer zurückgesetzt)</DefaultText>
+      <DefaultText>Erhöhung der Chance um {0:value:percentbonus} für einen kritischen Treffer bei einem Treffer. ({0:extravalue}-mal stapelbar und Wirkung wird bei kritischem Treffer zurückgesetzt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -876,7 +876,7 @@
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>{0:triggervalue:duration} lang {0:value:percent} Schadensverringerung bei einem Treffer ({0:extravalue:straight} mal stapelbar) (Erhöht sich mit den metaphysischen Fähigkeiten)</DefaultText>
+      <DefaultText>{0:triggervalue:duration} lang {0:value:percent} Schadensverringerung bei einem Treffer ({0:extravalue:straight}-mal stapelbar) (Erhöht sich mit den metaphysischen Fähigkeiten)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1041,7 +1041,7 @@
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>Töten mit &lt;g&gt;Magrans&lt;/g&gt; Gunst gewährt {0:value:percent} Schaden als Brandschaden und {0:extravalue:percent} Aktionsgeschwindigkeit ({0:triggervalue:straight} mal stapelbar)</DefaultText>
+      <DefaultText>Töten mit &lt;g&gt;Magrans&lt;/g&gt; Gunst gewährt {0:value:percent} Schaden als Brandschaden und {0:extravalue:percent} Aktionsgeschwindigkeit ({0:triggervalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1131,7 +1131,7 @@
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>{0:value} Genauigkeit für alle Fernkampfwaffen für {0:extravalue:duration} Sekunden bei einem erzielten Treffer. ({0:triggercount} mal stapelbar)</DefaultText>
+      <DefaultText>{0:value} Genauigkeit für alle Fernkampfwaffen für {0:extravalue:duration} Sekunden bei einem erzielten Treffer. ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
