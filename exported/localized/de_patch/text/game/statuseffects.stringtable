@@ -1566,7 +1566,7 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Für einhändige Fortschritte {0:value:straight} {0:damagetype} Schaden pro {0:interval} für {0:extravalue:duration}</DefaultText>
+      <DefaultText>Einhändig erwirbt {0:value:straight} {0:damagetype} Schaden alle {0:interval} für die Dauer von {0:extravalue:duration}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
