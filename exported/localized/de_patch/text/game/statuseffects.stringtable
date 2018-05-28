@@ -1151,7 +1151,7 @@
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer für 3,0 Sekunden die Erholung zu ignorieren</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer die Erholung für {0:extravalue:duration} zu ignorieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
