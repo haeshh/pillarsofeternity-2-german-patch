@@ -1491,7 +1491,7 @@
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>{0:value} Abwehr und {0:extravalue} Reflexe bis zum Kampfende beim Empfang eines Treffers, (vervielfacht sich {0:triggervalue:straight}-mal) </DefaultText>
+      <DefaultText>{0:value} Abwehr und {0:extravalue} Reflexe bis zum Kampfende beim Empfang eines Treffers, ({0:triggervalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
