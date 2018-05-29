@@ -1656,7 +1656,7 @@
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>+10 % Schaden bei einem kritischen Treffer als Zersetzungsschaden bis zum Ende des Kampfes hinzugefügt Verzehnfachung</DefaultText>
+      <DefaultText>+10 % Schaden bei einem kritischen Treffer als Zersetzungsschaden bis zum Ende des Kampfes hinzugefügt. Der Effekt ist 10-mal stapelbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1686,17 +1686,17 @@
     </Entry>
     <Entry>
       <ID>346</ID>
-      <DefaultText>{0:value} Genauigkeit im Nahkampf für {0:interval} bis zum Ende des Kampfes. (Wirkung vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>{0:value} Genauigkeit im Nahkampf für {0:interval} bis zum Ende des Kampfes. ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>Weitere {0:value} Willen bis zum Ende des Kampfes bei kritischem Treffer. (Wirkung vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>Weitere {0:value} Willen bis zum Ende des Kampfes bei kritischem Treffer. ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>+1 Verfassung bei kritischem Treffer Verfünffachung</DefaultText>
+      <DefaultText>+1 Verfassung bei kritischem Treffer. Der Effekt ist fünfmal stapelbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1706,7 +1706,7 @@
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>{0:value:percentbonus} Erholungszeit (Wirkung vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Erholungszeit ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
