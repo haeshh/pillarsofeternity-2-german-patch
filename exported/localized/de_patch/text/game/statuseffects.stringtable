@@ -2146,7 +2146,7 @@
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>Fügt Feinden bei einem Treffer einen vervielfachenden Effekt zu. Bei einem kritischen Treffer verlieren alle Gegner im Wirkungsbereich sämtliche Vervielfältigungen und erleiden pro Vervielfältigung {0:extravalue} Schockschaden.</DefaultText>
+      <DefaultText>Fügt Feinden bei einem Treffer einen stapelbaren Effekt zu. Bei einem kritischen Treffer verlieren alle Gegner im Wirkungsbereich sämtliche Stapel und erleiden pro Stapel {0:extravalue} Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
