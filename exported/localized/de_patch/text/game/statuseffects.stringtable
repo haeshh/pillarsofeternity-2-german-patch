@@ -2201,17 +2201,17 @@
     </Entry>
     <Entry>
       <ID>470</ID>
-      <DefaultText>{0:value} Abwehr für 45,0 Sekunden auf Ziel bei einem Treffer. Wirkung vervielfacht sich 5 Mal</DefaultText>
+      <DefaultText>{0:value} Abwehr für 45,0 Sekunden auf Ziel bei einem Treffer. Der Effekt ist fünfmal stapelbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>471</ID>
-      <DefaultText>{0:value:percentbonus} Erholungszeit auf Ziel bei einem Treffer. Wirkung vervielfacht sich 5 Mal</DefaultText>
+      <DefaultText>{0:value:percentbonus} Erholungszeit auf Ziel bei einem Treffer. Der Effekt ist fünfmal stapelbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit bei einem Treffer bis zum Ende des Kampfes. Wirkung vervielfacht sich bis zu 15 Mal</DefaultText>
+      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit bei einem Treffer bis zum Ende des Kampfes. Der Effekt ist bis 15-mal stapelbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
