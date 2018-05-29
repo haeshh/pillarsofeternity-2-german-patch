@@ -2251,12 +2251,12 @@
     </Entry>
     <Entry>
       <ID>480</ID>
-      <DefaultText>{0:Value:PercentBonus} durch Zauber erlittener Schaden. Der Bonus erhöht sich mit der Metaphysik-Fertigkeit</DefaultText>
+      <DefaultText>{0:value:percentbonus} durch Zauber erlittener Schaden. Der Bonus erhöht sich mit der Metaphysik-Fertigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>481</ID>
-      <DefaultText>{0:Value:PercentBonus} von allen Quellen erlittener Schaden. Der Bonus erhöht sich mit der Metaphysik-Fertigkeit</DefaultText>
+      <DefaultText>{0:value:percentbonus} von allen Quellen erlittener Schaden. Der Bonus erhöht sich mit der Metaphysik-Fertigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2266,7 +2266,7 @@
     </Entry>
     <Entry>
       <ID>483</ID>
-      <DefaultText>{0:Value} Rüstungswert. Rüstung geht durch Treffer verloren, regeneriert sich jedoch wieder</DefaultText>
+      <DefaultText>{0:value} Rüstungswert. Rüstung geht durch Treffer verloren, regeneriert sich jedoch wieder</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
