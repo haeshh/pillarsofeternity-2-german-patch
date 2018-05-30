@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{0:value} Fernkampfgenauigkeit (Erhöht sich mit Arkana-Fähigkeiten)</DefaultText>
+      <DefaultText>{0:value} Fernkampfgenauigkeit (Erhöht sich mit der Fertigkeit Arkana)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit (Erhöht sich mit den metaphysischen Fähigkeiten)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit (Erhöht sich mit der Fertigkeit Metaphysik)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>{0:Value:PercentBonus} Schaden am Stab. (Erhöht sich mit den metaphysischen Fähigkeiten)</DefaultText>
+      <DefaultText>{0:Value:PercentBonus} Schaden am Stab. (Erhöht sich mit der Fertigkeit Metaphysik)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>{0:value:percentbonus} Schaden (Erhöht sich mit Überlebensfähigkeiten)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Schaden (Erhöht sich mit der Fertigkeit Überleben)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,7 +286,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>{0:value:percent} Schaden bei flankierenden Zielen. Schaden erhöht sich mit der Heimlichkeitsfähigkeit.</DefaultText>
+      <DefaultText>{0:value:percent} Schaden bei flankierenden Zielen. Schaden erhöht sich mit der Fertigkeit Heimlichkeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,7 +306,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>{0:value:percentbonus} Nahkampf-Schaden. Erhöht sich mit der Überlebensfähigkeit</DefaultText>
+      <DefaultText>{0:value:percentbonus} Nahkampf-Schaden. Erhöht sich mit der Fertigkeit Überleben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,12 +391,12 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>{0:value:percentbonus} Wirkungsradius für Wiederherstellung und Inspirationsfähigkeiten. Bonus erhöht sich mit den Religionsfähigkeiten.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Wirkungsradius für Wiederherstellung und Inspirationsfähigkeiten. Bonus erhöht sich mit der Fertigkeit Religion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>{0:value:percentbonus} Sichel-Schaden bis zum Ende des Kampfes bei Tötung ({0:triggercount}-mal stapelbar) (Erhöht sich mit den Religionsfähigkeiten)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Sichel-Schaden bis zum Ende des Kampfes bei Tötung ({0:triggercount}-mal stapelbar) (Erhöht sich mit der Fertigkeit Religion)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>{0:value} Abwehr. Erhöht sich mit der Einschüchterungsfähigkeit</DefaultText>
+      <DefaultText>{0:value} Abwehr. Erhöht sich mit der Fertigkeit Einschüchtern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -586,7 +586,7 @@
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>{0:value:percentbonus} Vorwärtskommen (Bonus erhöht sich mit den Überlebensfähigkeiten).</DefaultText>
+      <DefaultText>{0:value:percentbonus} Vorwärtskommen (Bonus erhöht sich mit der Fertigkeit Überleben).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -616,7 +616,7 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>{0:value} Alle Verteidigungen außer Abwehr (Bonus erhöht sich der Fähigkeit Geschichte)</DefaultText>
+      <DefaultText>{0:value} Alle Verteidigungen außer Abwehr (Bonus erhöht sich der Fertigkeit Geschichte)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -876,7 +876,7 @@
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>{0:triggervalue:duration} lang {0:value:percent} Schadensverringerung bei einem Treffer ({0:extravalue:straight}-mal stapelbar) (Erhöht sich mit den metaphysischen Fähigkeiten)</DefaultText>
+      <DefaultText>{0:triggervalue:duration} lang {0:value:percent} Schadensverringerung bei einem Treffer ({0:extravalue:straight}-mal stapelbar) (Erhöht sich mit der Fertigkeit Metaphysik)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1046,7 +1046,7 @@
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>{0:Value} Durchschlagskraft. Erhöht sich mit der Fähigkeit Überleben</DefaultText>
+      <DefaultText>{0:Value} Durchschlagskraft. Erhöht sich mit der Fertigkeit Überleben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1221,12 +1221,12 @@
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>{0:value:percentbonus} Schaden. Erhöht sich mit der Fähigkeit Überleben</DefaultText>
+      <DefaultText>{0:value:percentbonus} Schaden. Erhöht sich mit der Fertigkeit Überleben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Stellt beim Erzielen einer Tötung bei allen Verbündeten in der Nähe {0:value} Gesundheit wieder her (Erhöht sich mit der Fähigkeit Religion)</DefaultText>
+      <DefaultText>Stellt beim Erzielen einer Tötung bei allen Verbündeten in der Nähe {0:value} Gesundheit wieder her (Erhöht sich mit der Fertigkeit Religion)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1246,7 +1246,7 @@
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>{0:value:percent} Schaden bei flankierten Zielen (Erhöht sich mit der Fähigkeit Heimlichkeit)</DefaultText>
+      <DefaultText>{0:value:percent} Schaden bei flankierten Zielen (Erhöht sich mit der Fertigkeit Heimlichkeit)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1401,12 +1401,12 @@
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>{0:value:percentbonus} Heilung erledigt. Erhöht sich mit der Fähigkeit Religion.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Heilung erledigt. Erhöht sich mit der Fertigkeit Religion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>{0:value:percent} Chance, eingehenden Zaubersprüchen zu widerstehen. Erhöht sich mit der Fähigkeit Religion.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, eingehenden Zaubersprüchen zu widerstehen. Erhöht sich mit der Fertigkeit Religion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1416,7 +1416,7 @@
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit für {0:extravalue:duration} in der Nähe eines erschlagenen Feindes (erhöht sich mit der Fähigkeit Religion).</DefaultText>
+      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit für {0:extravalue:duration} in der Nähe eines erschlagenen Feindes (erhöht sich mit der Fertigkeit Religion).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1521,7 +1521,7 @@
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>{0:value:} Abwehr gegenüber Fernkampfwaffen (erhöht sich mit der Fähigkeit Heimlichkeit)</DefaultText>
+      <DefaultText>{0:value:} Abwehr gegenüber Fernkampfwaffen (erhöht sich mit der Fertigkeit Heimlichkeit)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2241,22 +2241,22 @@
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>{0:value} Abwehr (Erhöht sich mit der Fähigkeit Athletik)</DefaultText>
+      <DefaultText>{0:value} Abwehr (Erhöht sich mit der Fertigkeit Athletik)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>479</ID>
-      <DefaultText>{0:value} Alle Verteidigungen. Erhöht sich mit der Fähigkeit Metaphysik</DefaultText>
+      <DefaultText>{0:value} Alle Verteidigungen. Erhöht sich mit der Fertigkeit Metaphysik</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>480</ID>
-      <DefaultText>{0:value:percentbonus} durch Zauber erlittener Schaden. Der Bonus erhöht sich mit der Fähigkeit Metaphysik</DefaultText>
+      <DefaultText>{0:value:percentbonus} durch Zauber erlittener Schaden. Der Bonus erhöht sich mit der Fertigkeit Metaphysik</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>481</ID>
-      <DefaultText>{0:value:percentbonus} von allen Quellen erlittener Schaden. Der Bonus erhöht sich mit der Fähigkeit Metaphysik</DefaultText>
+      <DefaultText>{0:value:percentbonus} von allen Quellen erlittener Schaden. Der Bonus erhöht sich mit der Fertigkeit Metaphysik</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2386,7 +2386,7 @@
     </Entry>
     <Entry>
       <ID>509</ID>
-      <DefaultText>{0:value} Gesundheit (erhöht sich mit der Fähigkeit Diplomatie)</DefaultText>
+      <DefaultText>{0:value} Gesundheit (erhöht sich mit der Fertigkeit Diplomatie)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
