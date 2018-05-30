@@ -263,7 +263,7 @@ Wenn die Durchschlagskraft eines Angriffs gleich oder höher als der Rüstungswe
       <ID>47</ID>
       <DefaultText>Einer deiner Charaktere wurde im Nahkampf gebunden. Wenn sich ein gebundener Charakter von dem bindenden Charakter entfernt, dann provoziert er einen Absetzangriff.
 
-Eine Unterbrechung, wie der Niederschlag durch einen Kämpfer, kann die Angriffsbindung durchbrechen, um ein sicheres Entkommen zu ermöglichen. Einige Fähigkeiten, wie die Flucht des Schurken, ermöglichen es einem Charakter, sich zu entfernen, ohne einen Absetzangriff zu provozieren.</DefaultText>
+Eine Unterbrechung, wie Niederstrecken durch einen Kämpfer, kann die Angriffsbindung durchbrechen, um ein sicheres Entkommen zu ermöglichen. Einige Fähigkeiten, wie die Flucht des Schurken, ermöglichen es einem Charakter, sich zu entfernen, ohne einen Absetzangriff zu provozieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -285,7 +285,7 @@ Unterbrechungen können durch Konzentration blockiert werden. Wenn ein Charakter
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Durch Auslösen einer Falle oder einen Niederschlag während eines Kampfs wird dieser Charakter verletzt. Verletzungen bleiben bestehen, bis der Charakter während einer Ruhephase isst oder trinkt, oder wenn er in einem Gasthaus ruht. Drücke &lt;sprite="Inline" name="ico_rest" tint=1&gt;, um zu ruhen.</DefaultText>
+      <DefaultText>Durch Auslösen einer Falle oder Niederstrecken während eines Kampfs wird dieser Charakter verletzt. Verletzungen bleiben bestehen, bis der Charakter während einer Ruhephase isst oder trinkt, oder wenn er in einem Gasthaus ruht. Drücke &lt;sprite="Inline" name="ico_rest" tint=1&gt;, um zu ruhen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

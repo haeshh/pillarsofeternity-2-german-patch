@@ -340,12 +340,12 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>Niedergeschlagen</DefaultText>
+      <DefaultText>Niedergestreckt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Niedergeschlagene Charaktere können keine Handlungen unternehmen. Gewandtheit wird um 2 reduziert. Reflexe und Abwehr werden um 10 reduziert.</DefaultText>
+      <DefaultText>Niedergestreckte Charaktere können keine Handlungen unternehmen. Gewandtheit wird um 2 reduziert. Reflexe und Abwehr werden um 10 reduziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -545,7 +545,7 @@ Einige Kreaturen können manchen Wirkungen gegenüber immun sein. In diesem Fall
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>Aktive Talente oder Fähigkeiten müssen vom Spieler aktiviert werden. Ein Kämpfer mit der Fähigkeit Niederschlag muss beispielsweise in der Aktionsleiste das Niederschlag-Symbol auswählen und dann ein Ziel für die Fähigkeit bestimmen.</DefaultText>
+      <DefaultText>Aktive Talente oder Fähigkeiten müssen vom Spieler aktiviert werden. Ein Kämpfer mit der Fähigkeit Niederstrecken muss beispielsweise in der Aktionsleiste das Niederstrecken-Symbol auswählen und dann ein Ziel für die Fähigkeit bestimmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -773,7 +773,7 @@ Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen 
 
 Die Angriffsbindung wird immer dann ausgelöst, wenn ein Charakter einen Gegner mit einer Nahkampfwaffe angreift. Sobald der Angreifer seinem Ziel nahe genug ist, tritt die Angriffsbindung in Kraft. Wird ein Charakter angegriffen und die Angriffsbindung ausgelöst, werden seine Bewegungen unterbrochen. Der Charakter kann sich dabei frei um den Angreifer bewegen, wenn er sich aber von ihm fortbewegt, riskiert er damit einen Absetzangriff. Wenn ein Charakter die Angriffsbindung bricht, muss eine gewisse Zeit vergehen, bis der Gegner ihn wieder angreifen kann.
 
-Manche Wirkungen machen es einem Charakter unmöglich, einen Gegner anzugreifen. Alle Machtwirkungen sowie Gelähmt, Versteinert oder Niedergeschlagen verhindern, dass das Ziel jemanden angreifen kann. Jeder dieser Effekte bricht die Angriffsbindung sofort und kann genutzt werden, um zu entkommen.
+Manche Wirkungen machen es einem Charakter unmöglich, einen Gegner anzugreifen. Alle Machtwirkungen sowie Gelähmt, Versteinert oder Niedergestreckt verhindern, dass das Ziel jemanden angreifen kann. Jeder dieser Effekte bricht die Angriffsbindung sofort und kann genutzt werden, um zu entkommen.
 
 Einige Kreaturen, besonders große Exemplare, können mehr als eine Kreatur gleichzeitig angreifen.</DefaultText>
       <FemaleText />
