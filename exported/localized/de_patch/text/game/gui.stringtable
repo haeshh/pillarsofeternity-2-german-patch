@@ -12451,7 +12451,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2669</ID>
-      <DefaultText>{0:Value} Wirkt Zauber der Stufe {0:ExtraValue:straight} {0:Class}</DefaultText>
+      <DefaultText>{0:Value} Wirkt {0:Class} Zauber der Stufe {0:ExtraValue:straight}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
