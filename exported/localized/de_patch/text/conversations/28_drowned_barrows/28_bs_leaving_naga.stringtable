@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\28_drowned_barrows\28_bs_leaving_naga</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4</EntryCount>
+  <EntryCount>6</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -22,6 +22,16 @@
     <Entry>
       <ID>5</ID>
       <DefaultText>„…“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
