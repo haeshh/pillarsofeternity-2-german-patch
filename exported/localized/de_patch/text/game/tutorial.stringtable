@@ -285,7 +285,7 @@ Unterbrechungen können durch Konzentration blockiert werden. Wenn ein Charakter
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Durch Auslösen einer Falle oder Niederstrecken während eines Kampfs wird dieser Charakter verletzt. Verletzungen bleiben bestehen, bis der Charakter während einer Ruhephase isst oder trinkt, oder wenn er in einem Gasthaus ruht. Drücke &lt;sprite="Inline" name="ico_rest" tint=1&gt;, um zu ruhen.</DefaultText>
+      <DefaultText>Durch Auslösen einer Falle oder Niederstrecken während eines Kampfs wird dieser Charakter verletzt. Verletzungen bleiben bestehen, bis der Charakter während einer Ruhephase isst oder trinkt oder in einer Schenke rastet. Klicke auf die &lt;sprite="Inline" name="ico_rest" tint=1&gt;-Schaltfläche in der unteren Bildschirmmitte oder drücke die [R]-Taste, um zu rasten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
