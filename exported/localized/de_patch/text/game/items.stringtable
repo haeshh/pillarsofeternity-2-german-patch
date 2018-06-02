@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2824</EntryCount>
+  <EntryCount>2827</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -16930,6 +16930,21 @@ Wenn Sie Fragen oder Beschwerden zu meinem Dienst haben, wenden Sie sich bitte d
     <Entry>
       <ID>5384</ID>
       <DefaultText>Dieser Schlüssel fühlt sich besonders glatt an, die Kanten wurden präzise gearbeitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5445</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5446</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5447</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
