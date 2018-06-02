@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4305</EntryCount>
+  <EntryCount>4358</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -10370,21 +10370,6 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2244</ID>
-      <DefaultText>Die Weißmark: Teil 2 – Installiert</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2245</ID>
-      <DefaultText>Die Weißmark: Teil 2 – Nicht installiert</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2246</ID>
-      <DefaultText>Die Weißmark: Teil 2 – Installiert (Die Weißmark: Teil 1 – Benötigt)</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2247</ID>
       <DefaultText>{0} des verursachten Schadens werden {1} als Fokus gewährt</DefaultText>
       <FemaleText />
@@ -11322,16 +11307,6 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2436</ID>
       <DefaultText>Byrnwigars Truppen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2438</ID>
-      <DefaultText>Du hast Pillars of Eternity – Die Weißmark: Teil 2 installiert. Es steht zur Verfügung, sobald du die Hauptstory von Teil 1 abgeschlossen ist.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2439</ID>
-      <DefaultText>Du hast Pillars of Eternity – Die Weißmark: Teil 1 abgeschlossen. Um das nächste Kapitel der Geschichte zu beginnen, raste an einem beliebigen Ort außerhalb der Weißmark.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22050,6 +22025,311 @@ Die Visionen suchen dich endlich nicht mehr heim und du ziehst dich zurück ins 
     <Entry>
       <ID>4765</ID>
       <DefaultText>Wenn aktiviert, erscheint ein schwebender Text über den Charakteren im Kampf, der sich auf Schaden, Heilung oder andere Status-Effekte bezieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4765</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4768</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4769</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4770</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4771</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4772</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4773</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4774</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4775</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4776</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4777</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4778</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4779</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4780</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4781</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4782</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4783</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4784</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4785</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4786</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4787</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4788</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4789</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4790</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4791</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4792</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4793</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4794</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4795</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4801</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4802</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4803</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4804</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4805</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4806</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4807</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4808</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4809</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4810</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4811</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4812</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4813</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4814</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4815</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4816</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4817</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4818</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4819</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4820</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4821</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4822</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4823</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4824</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4825</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4826</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4827</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4828</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4829</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4830</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4831</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4832</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
