@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_neketaka_artisans_district\05_cv_bertenno</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>45</EntryCount>
+  <EntryCount>47</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -229,6 +229,16 @@ Kopfschüttelnd zieht er ein Paar feine Handschuhe aus der Tasche und betrachtet
     <Entry>
       <ID>177</ID>
       <DefaultText>„Was zum … Wo habe ich sie nur fallenlassen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
