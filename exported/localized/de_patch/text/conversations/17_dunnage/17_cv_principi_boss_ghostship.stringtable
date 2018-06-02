@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\17_dunnage\17_cv_principi_boss_ghostship</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>44</EntryCount>
+  <EntryCount>47</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -235,6 +235,21 @@ Er verbeugt sich steif zum Abschied.</DefaultText>
 
 „Guri chue liuretto bon aimo i ba fetta, eppore peri chue mao Dicenas fiaces mi converande.“&lt;/link&gt;</DefaultText>
       <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>„Ich habe deinen Verbündeten in Krumsporn geholfen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>„Du bist für meine Sache sehr wertvoll, Casità. Ich möchte gern noch mehr in unsere Partnerschaft investieren. Ich bin mir sicher, dass dir das zusagen wird.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>„Es ist unerlässlich, dass wir die Ukaizo-Sache irgendwie regeln. Und dafür brauchen wir Rivans Fliegenden Henker, Aimico.“</DefaultText>
+      <FemaleText>„Es ist unerlässlich, dass wir die Ukaizo-Sache irgendwie regeln. Und dafür brauchen wir Rivans Fliegenden Henker, Aimica.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
