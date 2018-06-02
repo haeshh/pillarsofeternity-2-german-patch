@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_neketaka_artisans_district\05_cv_fessina</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>208</EntryCount>
+  <EntryCount>209</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1060,6 +1060,11 @@ Obwohl sie das nicht laut gesagt hat, schlägt sie wütend auf den Tresen.</Defa
     <Entry>
       <ID>656</ID>
       <DefaultText>Fassina hebt die Augenbrauen und verschränkt die Arme, als du versuchst, sie anzusprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
