@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\tutorial</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>128</EntryCount>
+  <EntryCount>134</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -718,6 +718,36 @@ Ob auf der Weltkarte oder während eines Kampfes – wenn ein Besatzungsmitglied
       <DefaultText>Bestimmte Angriffe und Fähigkeiten machen Geräusche, auf die NPCs reagieren können. Wachen werden dem Geräusch nachgehen und aktiv den Bereich patrouillieren, den sie bewachen sollen.
 
 Die explosiven Böller, die gefertigt werden können, bringen jeden NPC in Reichweite dazu, dem Geräusch nachzugehen. Dadurch kann sich für deine Charaktere die Chance ergeben, sich an Feinden vorbeizuschleichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
