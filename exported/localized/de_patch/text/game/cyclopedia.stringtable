@@ -63,7 +63,7 @@ Lauerer sind dafür berüchtigt, sich in voller Sicht zu verstecken. Oftmals leg
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir Glanfaths ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwäldlerischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem tapfersten Gestandenen die Angst ins Herz treiben kann.</DefaultText>
+      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir Glanfaths ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwälderischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem tapfersten Gestandenen die Angst ins Herz treiben kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -245,7 +245,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Wahrnehmungs-Wirkung. Geblendete Charaktere leiden unter -5 Wahrnehmung, gelten als Flankiert, erhalten +50 % Erholung, -10 Genauigkeit und die Reichweite aller Fernkampfattacken wird halbiert. Geblendete Charaktere können keine Blick-Angriffe nutzen oder von ihnen beeinflusst werden.</DefaultText>
+      <DefaultText>Wahrnehmungswirkung: Geblendete Charaktere leiden unter -5 Wahrnehmung, gelten als Flankiert, erhalten +50 % Erholung, -10 Genauigkeit und die Reichweite aller Fernkampfattacken wird halbiert. Geblendete Charaktere können keine Blick-Angriffe nutzen oder von ihnen beeinflusst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -255,7 +255,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Intellekt-Wirkung. Ein Bezauberter Charakter kämpft für seine Gegner, verwendet dabei aber nur Standardangriffe und keine Fähigkeiten. -5 Intellekt</DefaultText>
+      <DefaultText>Intellektwirkung: Ein Bezauberter Charakter kämpft für seine Gegner, verwendet dabei aber nur Standardangriffe und keine Fähigkeiten. -5 Intellekt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -265,7 +265,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Intellekt-Wirkung. Verwirrte Charaktere erhalten -5 Intellekt und all ihre Angriffe und Fähigkeiten treffen sowohl Gegner als auch Verbündete.</DefaultText>
+      <DefaultText>Intellektwirkung: Verwirrte Charaktere erhalten -5 Intellekt und all ihre Angriffe und Fähigkeiten treffen sowohl Gegner als auch Verbündete.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -275,7 +275,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Macht-Wirkung. Benommene Charaktere erhalten -5 Macht, -4 Penetration und können nicht angreifen</DefaultText>
+      <DefaultText>Machtwirkung: Benommene Charaktere erhalten -5 Macht, -4 Penetration und können nicht angreifen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -285,7 +285,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Intellekt-Wirkung. Beherrschte Charaktere unterliegen dem Willen des Gegners und werden alles tun, um gegen ihre einstigen Verbündeten zu kämpfen. -5 Intellekt.</DefaultText>
+      <DefaultText>Intellektwirkung: Beherrschte Charaktere unterliegen dem Willen des Gegners und werden alles tun, um gegen ihre einstigen Verbündeten zu kämpfen. -5 Intellekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -305,7 +305,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Entschlossenheits-Wirkungen Verängstigte Charaktere erhalten -5 Entschlossenheit, -3 Kraftstufe und können keine Zauber oder Fähigkeiten auf Gegner anwenden.</DefaultText>
+      <DefaultText>Entschlossenheitswirkung: Verängstigte Charaktere erhalten -5 Entschlossenheit, -3 Kraftstufe und können keine Zauber oder Fähigkeiten auf Gegner anwenden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -315,7 +315,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Gewandtheits-Wirkung. Humpelnde Charaktere erhalten -5 Gewandtheit und verringertes Vorwärtskommen.</DefaultText>
+      <DefaultText>Gewandtheitswirkung: Humpelnde Charaktere erhalten -5 Gewandtheit und verringertes Vorwärtskommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -325,7 +325,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Gewandtheits-Wirkung. Gelähmte Charaktere können keine Aktionen ausführen. Sie erhalten -5 Gewandtheit und 50 % aller Treffer gegen sie werden zu kritischen Treffern.</DefaultText>
+      <DefaultText>Gewandtheitswirkung: Gelähmte Charaktere können keine Aktionen ausführen. Sie erhalten -5 Gewandtheit und 50 % aller Treffer gegen sie werden zu kritischen Treffern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -340,12 +340,12 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>Niedergeschlagen</DefaultText>
+      <DefaultText>Niedergestreckt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Niedergeschlagene Charaktere können keine Handlungen unternehmen. Gewandtheit wird um 2 reduziert. Reflexe und Abwehr werden um 10 reduziert.</DefaultText>
+      <DefaultText>Niedergestreckte Charaktere können keine Handlungen unternehmen. Gewandtheit wird um 2 reduziert. Reflexe und Abwehr werden um 10 reduziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -355,7 +355,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Verfassungs-Wirkung Erkrankte Charaktere erhalten -5 Verfassung und jegliche erhaltene Heilung wird um 25 % verringert.</DefaultText>
+      <DefaultText>Verfassungswirkung: Erkrankte Charaktere erhalten -5 Verfassung und jegliche erhaltene Heilung wird um 25 % verringert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -365,7 +365,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Gewandtheits-Wirkung. Bewegungsunfähige Charaktere können sich nicht bewegen und erhalten -5 Gewandtheit.</DefaultText>
+      <DefaultText>Gewandtheitswirkung: Bewegungsunfähige Charaktere können sich nicht bewegen und erhalten -5 Gewandtheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -375,7 +375,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Macht-Wirkung. Betäubte Charaktere können keine Aktionen ausführen, nicht angreifen und erhalten einen Abzug auf jegliche Verteidigung, -4 Durchschlagskraft sowie -5 Macht.</DefaultText>
+      <DefaultText>Machtwirkung: Betäubte Charaktere können keine Aktionen ausführen, nicht angreifen und erhalten einen Abzug auf jegliche Verteidigung, -4 Durchschlagskraft sowie -5 Macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -385,7 +385,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Entschlossenheits-Wirkungen Geschockte Charaktere erhalten -5 Entschlossenheit, -3 Kraftstufe und können keine andere Aktion durchführen, als zu fliehen.</DefaultText>
+      <DefaultText>Entschlossenheitswirkung: Geschockte Charaktere erhalten -5 Entschlossenheit, -3 Kraftstufen und können keine andere Aktion durchführen, als zu fliehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -395,7 +395,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Verfassungs-Wirkung Geschwächte Charaktere erhalten -5 Verfassung und jegliche erhaltene Heilung wird halbiert.</DefaultText>
+      <DefaultText>Verfassungswirkung: Geschwächte Charaktere erhalten -5 Verfassung und jegliche erhaltene Heilung wird halbiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -440,32 +440,32 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Verdrehter Knöchel</DefaultText>
+      <DefaultText>Verstauchter Knöchel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Ein verdrehter Knöchel reduziert die Reflexe-Verteidigung eines Charakters.</DefaultText>
+      <DefaultText>Ein verstauchter Knöchel reduziert die Reflexe-Verteidigung eines Charakters.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>Verdrehtes Knie</DefaultText>
+      <DefaultText>Verstauchtes Knie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Charaktere mit einem verdrehten Knie werden mit einem Malus auf Bewegung belegt.</DefaultText>
+      <DefaultText>Charaktere mit einem verstauchten Knie werden mit einem Malus auf Bewegung belegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Verdrehte Schulter</DefaultText>
+      <DefaultText>Verstauchte Schulter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Eine verdrehte Schulter führt zu einem Abzug auf Aktionsgeschwindigkeit und Macht.</DefaultText>
+      <DefaultText>Eine verstauchte Schulter führt zu einem Abzug auf Aktionsgeschwindigkeit und Macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -545,7 +545,7 @@ Einige Kreaturen können manchen Wirkungen gegenüber immun sein. In diesem Fall
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>Aktive Talente oder Fähigkeiten müssen vom Spieler aktiviert werden. Ein Kämpfer mit der Fähigkeit Niederschlag muss beispielsweise in der Aktionsleiste das Niederschlag-Symbol auswählen und dann ein Ziel für die Fähigkeit bestimmen.</DefaultText>
+      <DefaultText>Aktive Talente oder Fähigkeiten müssen vom Spieler aktiviert werden. Ein Kämpfer mit der Fähigkeit Niederstrecken muss beispielsweise in der Aktionsleiste das Niederstrecken-Symbol auswählen und dann ein Ziel für die Fähigkeit bestimmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -742,9 +742,9 @@ Die Dauer der Verzögerung hängt von der Unterbrechung-Stärke der Waffe oder d
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>In Pillars of Eternity gibt es acht Schadensarten: Hieb–, Stich–, Wucht–, Brand–, Schock–, Zersetzungs–, Frost– und reinen Schaden. Die Schadensarten werden dazu genutzt, zu bestimmten, wie leicht ein Ziel solchem Schaden widerstehen kann, basierend auf seinen Schadensreduktionen. Eine Kreatur oder Rüstung kann einer Schadensart gegenüber sehr resistent sein, einer anderen gegenüber aber sehr anfällig. 
+      <DefaultText>In Pillars of Eternity gibt es acht Schadensarten: Hieb-, Stich-, Wucht-, Brand-, Schock-, &lt;g&gt;Zersetzung&lt;/g&gt;s-, Frost- und direkter Schaden. Die Schadensarten werden dazu genutzt, zu bestimmten, wie leicht ein Ziel solchem Schaden widerstehen kann, basierend auf seinen Schadensreduktionen. Eine Kreatur oder Rüstung kann einer Schadensart gegenüber sehr resistent sein, einer anderen gegenüber aber sehr anfällig. 
 
-Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen zwischen ihren Schadensarten ein „oder“. Wenn ein „oder“ aufgeführt wird, verursacht der Angriff immer die Schadensart, gegen die das Ziel am anfälligsten ist. Reiner Schaden ist die einzige Schadensart, die alle Schadensreduktionen ignoriert – und meist mit Giften und ähnlichen Effekten in Verbindung steht.</DefaultText>
+Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen zwischen ihren Schadensarten ein „oder“. Wenn ein „oder“ aufgeführt wird, verursacht der Angriff immer die Schadensart, gegen die das Ziel am anfälligsten ist. Direkter Schaden ist die einzige Schadensart, die alle Schadensreduktionen ignoriert – und meist mit Giften und ähnlichen Effekten in Verbindung steht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -773,7 +773,7 @@ Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen 
 
 Die Angriffsbindung wird immer dann ausgelöst, wenn ein Charakter einen Gegner mit einer Nahkampfwaffe angreift. Sobald der Angreifer seinem Ziel nahe genug ist, tritt die Angriffsbindung in Kraft. Wird ein Charakter angegriffen und die Angriffsbindung ausgelöst, werden seine Bewegungen unterbrochen. Der Charakter kann sich dabei frei um den Angreifer bewegen, wenn er sich aber von ihm fortbewegt, riskiert er damit einen Absetzangriff. Wenn ein Charakter die Angriffsbindung bricht, muss eine gewisse Zeit vergehen, bis der Gegner ihn wieder angreifen kann.
 
-Manche Wirkungen machen es einem Charakter unmöglich, einen Gegner anzugreifen. Alle Machtwirkungen sowie Gelähmt, Versteinert oder Niedergeschlagen verhindern, dass das Ziel jemanden angreifen kann. Jeder dieser Effekte bricht die Angriffsbindung sofort und kann genutzt werden, um zu entkommen.
+Manche Wirkungen machen es einem Charakter unmöglich, einen Gegner anzugreifen. Alle Machtwirkungen sowie Gelähmt, Versteinert oder Niedergestreckt verhindern, dass das Ziel jemanden angreifen kann. Jeder dieser Effekte bricht die Angriffsbindung sofort und kann genutzt werden, um zu entkommen.
 
 Einige Kreaturen, besonders große Exemplare, können mehr als eine Kreatur gleichzeitig angreifen.</DefaultText>
       <FemaleText />
@@ -954,7 +954,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>Gott der Geheimnisse, der Enthüllen, der Illusionen, der Kryptographie, der Verschleierung, der Wahrnehmung, der Träume und der Visionen. Wael ist ein Mysterium ohne beständige Gestalt oder beständiges Geschlecht. Seine – oder ihre – Anhänger lieben es, Geheimnisse zu schaffen oder zu ergründen.</DefaultText>
+      <DefaultText>Gott der Geheimnisse, der Enthüllungen, der Illusionen, der Kryptographie, der Verschleierung, der Wahrnehmung, der Träume und der Visionen. Wael ist ein Mysterium ohne beständige Gestalt oder beständiges Geschlecht. Seine – oder ihre – Anhänger lieben es, Geheimnisse zu schaffen oder zu ergründen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1334,7 +1334,7 @@ Die Wappen der Weißmark sind noch heute auf edlen Bronze– und Stahlstücken z
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Wahrnehmungs-Wirkung. Ein Abgelenkter Charakter hat -5 Wahrnehmung und gilt als Flankiert.</DefaultText>
+      <DefaultText>Wahrnehmungswirkung: Ein Abgelenkter Charakter hat -5 Wahrnehmung und gilt als Flankiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1963,7 +1963,7 @@ Sie sind gerissene Jäger und den Legenden zufolge Ondras furchterregende Diener
       <ID>453</ID>
       <DefaultText>Wenn ein schadenverursachender Angriff ein Ziel trifft, wird die &lt;b&gt;Durchschlagskraft&lt;/b&gt; des Angriffs mit dem &lt;b&gt;Rüstungswert&lt;/b&gt; des Ziels verglichen, um den zugefügten Schaden zu bestimmen.
 
-Die Durchschlagskraft eines Angriffs hängt von der verwendeten Waffe oder dem zugrundeliegenden Zauber ab und kann durch Magie, Fähigkeiten, Talente oder Waffenverzauberungen erhöht werden. Die Durchschlagskraft wird mit dem Rüstungswert der Schadensart des Angriffs verglichen. Beispiel: Bei einem Feuerball wird stets die Durchschlagskraft mit dem Rüstungswert für Brennen verglichen. Reiner Schaden umgeht jegliche Rüstung und ist nicht von der Durchschlagskraft abhängig.
+Die Durchschlagskraft eines Angriffs hängt von der verwendeten Waffe oder dem zugrundeliegenden Zauber ab und kann durch Magie, Fähigkeiten, Talente oder Waffenverzauberungen erhöht werden. Die Durchschlagskraft wird mit dem Rüstungswert der Schadensart des Angriffs verglichen. Beispiel: Bei einem Feuerball wird stets die Durchschlagskraft mit dem Rüstungswert für Brennen verglichen. Direkter Schaden umgeht jegliche Rüstung und ist nicht von der Durchschlagskraft abhängig.
 
 &lt;b&gt;Vollständiger Durchschlag&lt;/b&gt; (+ 30 % Schaden) – Durchschlagskraft beträgt das Doppelte oder mehr des Rüstungswerts
 
@@ -2092,7 +2092,7 @@ Ihre Jagdmethoden sind etwas unorthodox. Sie nutzen keine Echoortung, sondern fl
     </Entry>
     <Entry>
       <ID>481</ID>
-      <DefaultText>Der Ort des Untergangs des Heiligen Waidwen, niedergerungen von einem Dutzend Kämpfern und magranitischen Priestern, die die Götterhammerbombe gezündet haben. An der Brücke von Evon Dewr fand Eothas‘ Einfall in den Dyrwald sein triumphales Ende.</DefaultText>
+      <DefaultText>Der Ort des Untergangs des Heiligen Waidwen, niedergerungen von einem Dutzend Kämpfern und magranitischen Priestern, die die Götterhammerbombe gezündet haben. An der Brücke von Evon Dewr fand Eothas’ Einfall in den Dyrwald sein triumphales Ende.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2244,7 +2244,7 @@ Es gibt unzählige Geschichten von Hunden, die so treu sind, dass sie noch bei i
     </Entry>
     <Entry>
       <ID>533</ID>
-      <DefaultText>Entschlossenheitswirkungen Ein erschütterter Charakter leidet unter -5 Entschlossenheit und -3 Kraftstufe.</DefaultText>
+      <DefaultText>Entschlossenheitswirkung: Ein erschütterter Charakter leidet unter -5 Entschlossenheit und -3 Kraftstufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2539,7 +2539,7 @@ Es gibt unzählige Geschichten von Hunden, die so treu sind, dass sie noch bei i
     </Entry>
     <Entry>
       <ID>594</ID>
-      <DefaultText>Verzauberer konzentrieren sich auf Magie, die Gegner blendet oder verwirrt, können aber keine Illusions- oder Transmutationszauber wirken.</DefaultText>
+      <DefaultText>Verzauberer konzentrieren sich auf Magie, die Gegner blendet oder Verwirrt, können aber keine Illusions- oder Transmutationszauber wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2584,7 +2584,7 @@ Es gibt unzählige Geschichten von Hunden, die so treu sind, dass sie noch bei i
     </Entry>
     <Entry>
       <ID>603</ID>
-      <DefaultText>Od Nua war ein mächtiger engwithanischer Tyrann. Nach dem Tod seines Sohnes Maros wurde er wahnsinnig, da er wusste, dass es keine Götter gab, die dessen Reinkarnation gewährleisten konnten. Er widmete sein Leben dem Bau einer gigantischen Statue seines Sohnes aus lebendigem Adra. Damit versuchte er, Maros' Seele dem Jenseits mit Gewalt zu entreißen.
+      <DefaultText>Od Nua war ein mächtiger engwithanischer Tyrann. Nach dem Tod seines Sohnes Maros wurde er wahnsinnig, da er wusste, dass es keine Götter gab, die dessen Reinkarnation gewährleisten konnten. Er widmete sein Leben dem Bau einer gigantischen Statue seines Sohnes aus lebendigem Adra. Damit versuchte er, Maros’ Seele dem Jenseits mit Gewalt zu entreißen.
 
 Od Nua wurde durch die Anstrengungen anderer engwithanischen Tyrannen besiegt und zusammen mit seinem Lebenswerk begraben. Jahrhunderte später errichteten Kolonisten ein Schloss über diesen Ruinen, das sie Caed Nua nannten. Wie die Ruinen selbst galt auch Caed Nua als verflucht.</DefaultText>
       <FemaleText />
@@ -2596,7 +2596,7 @@ Od Nua wurde durch die Anstrengungen anderer engwithanischen Tyrannen besiegt un
     </Entry>
     <Entry>
       <ID>605</ID>
-      <DefaultText>Maros Nua war der Sohn von Od Nua, einem engwithanischen Tyrannen. Es ist nicht viel über ihn bekannt, außer dass Od Nua davon besessen war, seinen Sohn ins Leben zurückzuholen. Er errichtete eine gigantische Statue aus lebendem Adra als Gefäß für Maros' Seele, doch seine Pläne wurden durch die konzertierten Bemühungen anderer engwithanischer Tyrannen verhindert, die ihn als Bedrohung ansahen.
+      <DefaultText>Maros Nua war der Sohn von Od Nua, einem engwithanischen Tyrannen. Es ist nicht viel über ihn bekannt, außer dass Od Nua davon besessen war, seinen Sohn ins Leben zurückzuholen. Er errichtete eine gigantische Statue aus lebendem Adra als Gefäß für Maros’ Seele, doch seine Pläne wurden durch die konzertierten Bemühungen anderer engwithanischer Tyrannen verhindert, die ihn als Bedrohung ansahen.
 
 Der Adra-Körper, der für Maros Nua vorgesehen war, blieb lange Zeit unter dem Schloss Caed Nua begraben, bis Eothas von ihm Besitz ergriff.</DefaultText>
       <FemaleText />
@@ -2890,7 +2890,7 @@ Das Schloss fiel dir quasi in den Schoß, nachdem du seinen vorherigen Besitzer,
     </Entry>
     <Entry>
       <ID>665</ID>
-      <DefaultText>Von allen Rassen der Gottähnlichen wird den Tod-Gottähnlichen am wenigsten getraut. Seltsame Wucherungen verdecken ihre Augen – oder in manchen Fällen, das komplette Gesicht – und verleihen ihnen eine unheimliche Erscheinung. Die Geschwüre sind für die Gottähnlichen transparent, doch von außen gesehen undurchsichtig und verbergen ihre Gesichtszüge. Die &lt;xg&gt;Tod&lt;/xg&gt;-Gottähnlichen werden bei der Geburt gewöhnlich getötet, weil viele Kulturen sie als Vorboten des Unheils betrachten.</DefaultText>
+      <DefaultText>Von allen Rassen der Gottähnlichen wird den Tod-Gottähnlichen am wenigsten getraut. Seltsame Wucherungen verdecken ihre Augen – oder in manchen Fällen, das komplette Gesicht – und verleihen ihnen eine unheimliche Erscheinung. Die Geschwüre sind für die Gottähnlichen transparent, doch von außen gesehen undurchsichtig und verbergen ihre Gesichtszüge. Die &lt;g&gt;Tod&lt;/g&gt;-Gottähnlichen werden bei der Geburt gewöhnlich getötet, weil viele Kulturen sie als Vorboten des Unheils betrachten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2960,7 +2960,7 @@ Das Schloss fiel dir quasi in den Schoß, nachdem du seinen vorherigen Besitzer,
     </Entry>
     <Entry>
       <ID>679</ID>
-      <DefaultText>Verfassungs-Wirkung. Entkräftete Charaktere erhalten -5 Verfassung, können nicht geheilt werden und jegliche gegnerischen Effekte wirken 50 % länger auf ihnen.</DefaultText>
+      <DefaultText>Verfassungswirkung: Entkräftete Charaktere erhalten -5 Verfassung, können nicht geheilt werden und jegliche gegnerischen Effekte wirken 50 % länger auf ihnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2970,7 +2970,7 @@ Das Schloss fiel dir quasi in den Schoß, nachdem du seinen vorherigen Besitzer,
     </Entry>
     <Entry>
       <ID>681</ID>
-      <DefaultText>Wahrnehmungs-Wirkung. Desorientierte Charaktere erhalten -5 Wahrnehmung, gelten als Flankiert und erhalten +50 % Erholung nach ihren Aktionen.</DefaultText>
+      <DefaultText>Wahrnehmungswirkung: Desorientierte Charaktere erhalten -5 Wahrnehmung, gelten als Flankiert und erhalten +50 % Erholung nach ihren Aktionen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2980,7 +2980,7 @@ Das Schloss fiel dir quasi in den Schoß, nachdem du seinen vorherigen Besitzer,
     </Entry>
     <Entry>
       <ID>683</ID>
-      <DefaultText>Macht-Wirkung. Taumelnde Charaktere erhalten -5 Macht und können Gegner nicht angreifen.</DefaultText>
+      <DefaultText>Machtwirkung: Taumelnde Charaktere erhalten -5 Macht und können Gegner nicht angreifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2995,12 +2995,12 @@ Das Schloss fiel dir quasi in den Schoß, nachdem du seinen vorherigen Besitzer,
     </Entry>
     <Entry>
       <ID>686</ID>
-      <DefaultText>Gewandtheits-Wirkungen</DefaultText>
+      <DefaultText>Gewandtheitswirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>687</ID>
-      <DefaultText>Die Wirkungen Humpelnd, Bewegungsunfähig und Gelähmt beeinflussen die Gewandtheit. Diesen Wirkungen kann mit einer Gewandtheitsinspiration entgegengewirkt werden (Schnell, Fingerfertig, Schwungvoll).</DefaultText>
+      <DefaultText>Die Wirkungen Humpelnd, Bewegungsunfähig und Gelähmt beeinflussen die Gewandtheit. Diesen Wirkungen kann mit einer Gewandtheitsinspiration entgegengewirkt werden (Schnell, Flink, Schwungvoll).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3017,7 +3017,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>690</ID>
-      <DefaultText>Macht-Wirkungen</DefaultText>
+      <DefaultText>Machtwirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3092,7 +3092,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>705</ID>
-      <DefaultText>Die Inspirationen Schnell, Fingerfertig und Schwungvoll beeinflussen Gewandtheit. Diesen Inspirationen kann mit einer Gewandtheitswirkung entgegengewirkt werden (Humpeln, Bewegungsunfähig, Gelähmt).</DefaultText>
+      <DefaultText>Die Inspirationen Schnell, Flink und Schwungvoll beeinflussen Gewandtheit. Diesen Inspirationen kann mit einer Gewandtheitswirkung entgegengewirkt werden (Humpeln, Bewegungsunfähig, Gelähmt).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3132,7 +3132,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>713</ID>
-      <DefaultText>Machtinspiration. Starke Charaktere verfügen über +5 Macht.</DefaultText>
+      <DefaultText>Machtinspiration: Starke Charaktere verfügen über +5 Macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3142,7 +3142,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>715</ID>
-      <DefaultText>Machtinspiration. Hartnäckige Charaktere verfügen über +5 Macht und erhalten +2 Durchschlagskraft.</DefaultText>
+      <DefaultText>Machtinspiration: Hartnäckige Charaktere verfügen über +5 Macht und erhalten +2 Durchschlagskraft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3152,7 +3152,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>717</ID>
-      <DefaultText>Machtinspiration. Muntere Charaktere verfügen über +5 Macht, erhalten +2 Durchschlagskraft und unterbrechen Gegner mit kritischen Treffern.</DefaultText>
+      <DefaultText>Machtinspiration: Muntere Charaktere verfügen über +5 Macht, erhalten +2 Durchschlagskraft und unterbrechen Gegner mit kritischen Treffern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3162,7 +3162,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>719</ID>
-      <DefaultText>Verfassungsinspiration. Fitte Charaktere verfügen über +5 Verfassung.</DefaultText>
+      <DefaultText>Verfassungsinspiration: Fitte Charaktere verfügen über +5 Verfassung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3172,7 +3172,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>721</ID>
-      <DefaultText>Verfassungsinspiration. Zähe Charaktere verfügen über +5 Verfassung und erhalten +2 Rüstungswert.</DefaultText>
+      <DefaultText>Verfassungsinspiration: Zähe Charaktere verfügen über +5 Verfassung und erhalten +2 Rüstungswert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3182,7 +3182,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>723</ID>
-      <DefaultText>Verfassungsinspiration. Robuste Charaktere verfügen über +5 Verfassung, erhalten +2 Rüstungswert und stellen regelmäßig Gesundheit wieder her.</DefaultText>
+      <DefaultText>Verfassungsinspiration: Robuste Charaktere verfügen über +5 Verfassung, erhalten +2 Rüstungswert und stellen regelmäßig Gesundheit wieder her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3192,17 +3192,17 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>725</ID>
-      <DefaultText>Gewandtheitsinspiration. Schnelle Charaktere verfügen über +5 Gewandtheit.</DefaultText>
+      <DefaultText>Gewandtheitsinspiration: Schnelle Charaktere verfügen über +5 Gewandtheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>726</ID>
-      <DefaultText>Fingerfertig</DefaultText>
+      <DefaultText>Flink</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>727</ID>
-      <DefaultText>Gewandtheitsinspiration. Fingerfertige Charaktere verfügen über +5 Gewandtheit und erhalten +100 % Vorwärtskommen.</DefaultText>
+      <DefaultText>Gewandtheitsinspiration: Flinke Charaktere verfügen über +5 Gewandtheit und erhalten +100 % Vorwärtskommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3212,7 +3212,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>729</ID>
-      <DefaultText>Gewandtheitsinspiration. Schwungvolle Charaktere verfügen über +5 Gewandtheit und können nicht von Gegnern angegriffen werden.</DefaultText>
+      <DefaultText>Gewandtheitsinspiration: Schwungvolle Charaktere verfügen über +5 Gewandtheit und können nicht von Gegnern angegriffen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3222,7 +3222,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>731</ID>
-      <DefaultText>Wahrnehmungsinspiration. Einsichtige Charaktere verfügen über +5 Wahrnehmung.</DefaultText>
+      <DefaultText>Wahrnehmungsinspiration: Einsichtige Charaktere verfügen über +5 Wahrnehmung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3232,7 +3232,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>733</ID>
-      <DefaultText>Wahrnehmungsinspiration. Aufmerksame Charaktere verfügen über +5 Wahrnehmung und 50 % ihrer Streiftreffer werden zu Treffern.</DefaultText>
+      <DefaultText>Wahrnehmungsinspiration: Aufmerksame Charaktere verfügen über +5 Wahrnehmung und 50 % ihrer leichten Treffer werden zu Treffern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3242,7 +3242,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>735</ID>
-      <DefaultText>Wahrnehmungsinspiration. Intuitive Charaktere verfügen über +5 Wahrnehmung, 50 % ihrer Streiftreffer werden zu Treffern und 25 % ihrer Treffer werden zu kritischen Treffern.</DefaultText>
+      <DefaultText>Wahrnehmungsinspiration: Intuitive Charaktere verfügen über +5 Wahrnehmung, 50 % ihrer leichten Treffer werden zu Treffern und 25 % ihrer Treffer werden zu kritischen Treffern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3252,7 +3252,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>737</ID>
-      <DefaultText>Intellektinspiration Kluge Charaktere verfügen über +5 Intellekt.</DefaultText>
+      <DefaultText>Intellektinspiration: Kluge Charaktere verfügen über +5 Intellekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3262,7 +3262,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>739</ID>
-      <DefaultText>Intellektinspiration. Scharfsinnige Charaktere verfügen über +5 Intellekt und ihre Fähigkeiten und Zauber über +1 Kraftstufe.</DefaultText>
+      <DefaultText>Intellektinspiration: Scharfsinnige Charaktere verfügen über +5 Intellekt und ihre Fähigkeiten und Zauber über +1 Kraftstufe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3272,17 +3272,17 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>741</ID>
-      <DefaultText>Intellektinspiration. Brillante Charaktere verfügen über +5 Intellekt, ihre Fähigkeiten und Zauber über +1 Kraftstufe und sie stellen regelmäßig Klassenressourcen wieder her.</DefaultText>
+      <DefaultText>Intellektinspiration: Brillante Charaktere verfügen über +5 Intellekt, ihre Fähigkeiten und Zauber über +1 Kraftstufe und sie stellen regelmäßig Klassenressourcen wieder her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>742</ID>
-      <DefaultText>Standfest</DefaultText>
+      <DefaultText>Standhaft</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>743</ID>
-      <DefaultText>Entschlossenheitsinspiration. Standfeste Charaktere verfügen über +5 Entschlossenheit.</DefaultText>
+      <DefaultText>Entschlossenheitsinspiration: Standhafte Charaktere verfügen über +5 Entschlossenheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3292,7 +3292,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>745</ID>
-      <DefaultText>Entschlossenheitsinspiration. Resolute Charaktere verfügen über +5 Entschlossenheit und erhalten regelmäßig Konzentration.</DefaultText>
+      <DefaultText>Entschlossenheitsinspiration: Resolute Charaktere verfügen über +5 Entschlossenheit und erhalten regelmäßig Konzentration.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3302,7 +3302,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>747</ID>
-      <DefaultText>Entschlossenheitsinspiration. Mutige Charaktere verfügen über +5 Entschlossenheit und sind immun gegenüber Unterbrechungen.</DefaultText>
+      <DefaultText>Entschlossenheitsinspiration: Mutige Charaktere verfügen über +5 Entschlossenheit und sind immun gegenüber Unterbrechungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3514,7 +3514,7 @@ Kämpfer bilden die erste Reihe disziplinierter Armeen im Östlichen Abschnitt. 
 
 Ressource: Arglist
 
-Schurken sind gemeine Killer, die für die Brutalität ihrer Angriffe gefürchtet sind. Man trifft auf sie ebenso oft in dunklen, abseits gelegenen Gassen wie auch mitten auf Schlachtfeldern. Auch wenn sie unberechenbar und undiszipliniert sind, werden Schurken üblicherweise als &lt;xg&gt;Schock&lt;/xg&gt;-Truppen oder als Teil eines Überraschungsangriffs eingesetzt, wobei ihre vernichtenden Angriffe die gegnerischen Reihen aufmischen und deren &lt;xg&gt;Moral&lt;/xg&gt; brechen. Schurken neigen dazu, sich in Städten in größeren Gruppen zusammenzurotten, wo sie ständig Arbeit als Söldner oder Schläger finden können.</DefaultText>
+Schurken sind gemeine Killer, die für die Brutalität ihrer Angriffe gefürchtet sind. Man trifft auf sie ebenso oft in dunklen, abseits gelegenen Gassen wie auch mitten auf Schlachtfeldern. Auch wenn sie unberechenbar und undiszipliniert sind, werden Schurken üblicherweise als &lt;g&gt;Schock&lt;/g&gt;-Truppen oder als Teil eines Überraschungsangriffs eingesetzt, wobei ihre vernichtenden Angriffe die gegnerischen Reihen aufmischen und deren &lt;g&gt;Moral&lt;/g&gt; brechen. Schurken neigen dazu, sich in Städten in größeren Gruppen zusammenzurotten, wo sie ständig Arbeit als Söldner oder Schläger finden können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3534,7 +3534,7 @@ Nebenrolle: Angreifer
 
 Ressource: Arkane Zaubersprüche
 
-Zauberer sind die Meister akademischer Magie und Schüler arkaner Traditionen, die bis in die Zeit vor dem Beginn der aufgezeichneten &lt;xg&gt;Geschichte&lt;/xg&gt; zurückreichen. Die Gruppe der Zauberer ist gut organisiert und sie bilden oft Akademien oder Gilden, die sich der Erforschung und Entwicklung magischer Studien widmen und bevorzugen für gewöhnlich Umgebungen, in denen Neugierde, Experimente, Debatten und die Verbreitung von Wissen gefördert und ermutigt werden. Viele versierte Zauberer werden schließlich für ihre Exzentrik, ihre individuellen Persönlichkeiten und ihr unstillbares Interesse an allen arkanen und okkulten Dingen bekannt.</DefaultText>
+Zauberer sind die Meister akademischer Magie und Schüler arkaner Traditionen, die bis in die Zeit vor dem Beginn der aufgezeichneten &lt;g&gt;Geschichte&lt;/g&gt; zurückreichen. Die Gruppe der Zauberer ist gut organisiert und sie bilden oft Akademien oder Gilden, die sich der Erforschung und Entwicklung magischer Studien widmen und bevorzugen für gewöhnlich Umgebungen, in denen Neugierde, Experimente, Debatten und die Verbreitung von Wissen gefördert und ermutigt werden. Viele versierte Zauberer werden schließlich für ihre Exzentrik, ihre individuellen Persönlichkeiten und ihr unstillbares Interesse an allen arkanen und okkulten Dingen bekannt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3713,12 +3713,12 @@ Manchmal fallen die Bären des Todesfeuer auch Tigern zum Opfer, wobei Bärenmü
     </Entry>
     <Entry>
       <ID>818</ID>
-      <DefaultText>Machtbecken</DefaultText>
+      <DefaultText>Energiequelle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>819</ID>
-      <DefaultText>Die meisten Fähigkeiten beziehen Macht von einer Ressource, die für jede Charakterklasse einzigartig ist. Fähigkeiten von Barbaren, Kämpfern, Mönchen, Paladinen, Waldläufern und Schurken beziehen aus einem Pool, der zu Beginn eines Kampfes gefüllt ist. Jede Fähigkeit entzieht eine gewisse Menge dieser Ressource, bis diese vollständig aufgebraucht ist.</DefaultText>
+      <DefaultText>Die meisten Fähigkeiten beziehen Macht von einer Ressource, die für jede Charakterklasse einzigartig ist. Fähigkeiten von Barbaren, Kämpfern, Mönchen, Paladinen, Waldläufern und Schurken beziehen aus einer Quelle, der zu Beginn eines Kampfes gefüllt ist. Jede Fähigkeit entzieht eine gewisse Menge dieser Ressource, bis diese vollständig aufgebraucht ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4397,12 +4397,12 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     </Entry>
     <Entry>
       <ID>964</ID>
-      <DefaultText>Fähigkeiten, aktiv</DefaultText>
+      <DefaultText>Fertigkeiten, aktiv</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>965</ID>
-      <DefaultText>Fähigkeiten, passiv</DefaultText>
+      <DefaultText>Fertigkeiten, passiv</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

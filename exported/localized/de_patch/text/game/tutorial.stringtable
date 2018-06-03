@@ -229,7 +229,7 @@ Einige Fähigkeiten richten sich auf einen Wirkungsbereich aus. Der gängigste W
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Die meisten Fähigkeiten beziehen Macht von einer Ressource, die für jede Charakterklasse einzigartig ist. Fähigkeiten von Barbaren, Kämpfern, Mönchen, Paladinen, Waldläufern und Schurken beziehen aus einem Pool, der zu Beginn eines Kampfes gefüllt ist. Jede Fähigkeit entzieht eine gewisse Menge dieser Ressource, bis diese vollständig aufgebraucht ist.</DefaultText>
+      <DefaultText>Die meisten Fähigkeiten beziehen Macht von einer Ressource, die für jede Charakterklasse einzigartig ist. Fähigkeiten von Barbaren, Kämpfern, Mönchen, Paladinen, Waldläufern und Schurken beziehen aus einer Quelle, der zu Beginn eines Kampfes gefüllt ist. Jede Fähigkeit entzieht eine gewisse Menge dieser Ressource, bis diese vollständig aufgebraucht ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,7 +263,7 @@ Wenn die Durchschlagskraft eines Angriffs gleich oder höher als der Rüstungswe
       <ID>47</ID>
       <DefaultText>Einer deiner Charaktere wurde im Nahkampf gebunden. Wenn sich ein gebundener Charakter von dem bindenden Charakter entfernt, dann provoziert er einen Absetzangriff.
 
-Eine Unterbrechung, wie der Niederschlag durch einen Kämpfer, kann die Angriffsbindung durchbrechen, um ein sicheres Entkommen zu ermöglichen. Einige Fähigkeiten, wie die Flucht des Schurken, ermöglichen es einem Charakter, sich zu entfernen, ohne einen Absetzangriff zu provozieren.</DefaultText>
+Eine Unterbrechung, wie Niederstrecken durch einen Kämpfer, kann die Angriffsbindung durchbrechen, um ein sicheres Entkommen zu ermöglichen. Einige Fähigkeiten, wie die Flucht des Schurken, ermöglichen es einem Charakter, sich zu entfernen, ohne einen Absetzangriff zu provozieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -285,7 +285,7 @@ Unterbrechungen können durch Konzentration blockiert werden. Wenn ein Charakter
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Durch Auslösen einer Falle oder einen Niederschlag während eines Kampfs wird dieser Charakter verletzt. Verletzungen bleiben bestehen, bis der Charakter während einer Ruhephase isst oder trinkt, oder wenn er in einem Gasthaus ruht. Drücke &lt;sprite="Inline" name="ico_rest" tint=1&gt;, um zu ruhen.</DefaultText>
+      <DefaultText>Durch Auslösen einer Falle oder Niederstrecken während eines Kampfs wird dieser Charakter verletzt. Verletzungen bleiben bestehen, bis der Charakter während einer Ruhephase isst oder trinkt, oder wenn er in einem Gasthaus ruht. Drücke &lt;sprite="Inline" name="ico_rest" tint=1&gt;, um zu ruhen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,9 +356,9 @@ Positive Reputation bei Fraktionen wird mit einem blauen Balken und negative Rep
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Für dein Schiff brauchst du Mannschaftsmitglieder. Du kannst Mannschaftsmitglieder in den meisten Gasthäusern in Hafenstädten anwerben. Klicke auf &lt;sprite="Inline" name="sqrmenu_hiresailor" tint=1&gt;, um dir die Mannschaftsmitglieder anzeigen zu lassen, die im Gasthaus verfügbar sind.
+      <DefaultText>Für dein Schiff brauchst du Besatzungsmitglieder. Du kannst Besatzungsmitglieder in den meisten Gasthäusern in Hafenstädten anwerben. Klicke auf &lt;sprite="Inline" name="sqrmenu_hiresailor" tint=1&gt;, um dir die Besatzungsmitglieder anzeigen zu lassen, die im Gasthaus verfügbar sind.
 
-Sobald du ein neues Mitglied für deine Mannschaft angeheuert hast, musst du der Person eine aktive Position auf deinem Schiff zuweisen. Mannschaftsmitglieder, die du nicht auf deinem Schiff platzierst, sind nicht aktiv. Sie kosten dich weder Nahrung noch Getränke oder Lohn.</DefaultText>
+Sobald du ein neues Mitglied für deine Besatzung angeheuert hast, musst du der Person eine aktive Position auf deinem Schiff zuweisen. Besatzungsmitglieder, die du nicht auf deinem Schiff platzierst, sind nicht aktiv. Sie kosten dich weder Nahrung noch Getränke oder Lohn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -450,7 +450,7 @@ Du kannst außerdem im Verhaltenseditor auch vorhandene Verhaltensweisen anpasse
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Der Wächter ist der Kapitän des Schiffs. Wie andere Mitglieder der Mannschaft erwerben Schiffskapitäne Seemannserfahrung. Doch die Seemannserfahrung eines Kapitäns steigert immer dessen Kapitänsrang.</DefaultText>
+      <DefaultText>Der Wächter ist der Kapitän des Schiffs. Wie andere Mitglieder der Besatzung erwerben Schiffskapitäne Seemannserfahrung. Doch die Seemannserfahrung eines Kapitäns steigert immer dessen Kapitänsrang.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -460,7 +460,7 @@ Du kannst außerdem im Verhaltenseditor auch vorhandene Verhaltensweisen anpasse
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Es gibt verschiedene Aufgaben auf einem Schiff, die die Mannschaft erledigen muss, während das Schiff unterwegs ist. Auf jedem Schiff braucht es Deckarbeiter, Kanoniere und einen Steuermann. Und für alle Schiffe ist es vorteilhaft, wenn es auch einen Koch, einen Schiffsarzt und einen Navigator an Bord gibt. Die größeren Schiffe benötigen sogar zusätzlich einen Bootsmann, der für Ordnung unter den Deckarbeitern sorgt.</DefaultText>
+      <DefaultText>Es gibt verschiedene Aufgaben auf einem Schiff, die die Besatzung erledigen muss, während das Schiff unterwegs ist. Auf jedem Schiff braucht es Deckarbeiter, Kanoniere und einen Steuermann. Und für alle Schiffe ist es vorteilhaft, wenn es auch einen Koch, einen Schiffsarzt und einen Navigator an Bord gibt. Die größeren Schiffe benötigen sogar zusätzlich einen Bootsmann, der für Ordnung unter den Deckarbeitern sorgt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -470,9 +470,9 @@ Du kannst außerdem im Verhaltenseditor auch vorhandene Verhaltensweisen anpasse
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Deine Mannschaft muss während des Abenteuers mit Nahrung und Getränken versorgt werden. Die Art von Nahrung und Getränken, die du bereitstellst, wirkt sich auf die Moral deiner Mannschaft aus. Teurerer Proviant macht sie glücklicher. Billige Nahrung und billige Getränke senken die Moral deiner Mannschaft im Laufe der Zeit.
+      <DefaultText>Deine Besatzung muss während des Abenteuers mit Nahrung und Getränken versorgt werden. Die Art von Nahrung und Getränken, die du bereitstellst, wirkt sich auf die Moral deiner Besatzung aus. Teurerer Proviant macht sie glücklicher. Billige Nahrung und billige Getränke senken die Moral deiner Besatzung im Laufe der Zeit.
 
-Und es gibt nichts, was die Moral deiner Mannschaft so sehr beeinträchtigt, wie wenn sie hungern muss. Eine Mannschaft mit niedriger Moral und knurrenden Mägen könnte durchaus eine Meuterei anzetteln. Wenn du deine Leute zu lange vernachlässigt, könnten sogar einige von ihnen sterben.</DefaultText>
+Und es gibt nichts, was die Moral deiner Besatzung so sehr beeinträchtigt, wie wenn sie hungern muss. Eine Besatzung mit niedriger Moral und knurrenden Mägen könnte durchaus eine Meuterei anzetteln. Wenn du deine Leute zu lange vernachlässigt, könnten sogar einige von ihnen sterben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -495,7 +495,7 @@ Der Bootsmann zählt als Deckarbeiter. Seine Bedeutung geht jedoch darüber hina
 
 Kanonen können nur abgefeuert werden, wenn ihnen Kanoniere zugewiesen wurden. Je erfahrener ein Kanonier ist, desto sicherer trifft er sein Ziel.
 
-Der Schiffsarzt erhöht die Heilungsrate verletzter Mannschaftsmitglieder in der Reserve, sowohl im Kampf als auch auf der Reise.</DefaultText>
+Der Schiffsarzt erhöht die Heilungsrate verletzter Besatzungsmitglieder in der Reserve, sowohl im Kampf als auch auf der Reise.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -522,7 +522,7 @@ Der Navigator erhöht die Geschwindigkeit auf der Weltkarte und der Koch verring
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Deine Mannschaft konsumiert jeden Tag Nahrung und Getränke. Du musst diese Ressourcen regelmäßig wieder auffüllen, indem du neue findest oder kaufst.
+      <DefaultText>Deine Besatzung konsumiert jeden Tag Nahrung und Getränke. Du musst diese Ressourcen regelmäßig wieder auffüllen, indem du neue findest oder kaufst.
 
 Klicke auf &lt;sprite="Inline" name="ico_strongholdship" tint=1&gt;, um dein Schiff zu verwalten. Fülle die Vorräte an Nahrung und Getränken auf, indem du neue Lebensmittel kaufst und in die entsprechende Reihe platzierst. Der Proviant wird immer von links nach rechts konsumiert.</DefaultText>
       <FemaleText />
@@ -534,7 +534,7 @@ Klicke auf &lt;sprite="Inline" name="ico_strongholdship" tint=1&gt;, um dein Sch
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Wenn du ohne Nahrung und Getränke unterwegs bist, wird deine Mannschaft hungern. Das senkt ihre Moral und irgendwann werden die Seeleute sterben oder meutern.</DefaultText>
+      <DefaultText>Wenn du ohne Nahrung und Getränke unterwegs bist, wird deine Besatzung hungern. Das senkt ihre Moral und irgendwann werden die Seeleute sterben oder meutern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -544,7 +544,7 @@ Klicke auf &lt;sprite="Inline" name="ico_strongholdship" tint=1&gt;, um dein Sch
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Wenn in deiner Mannschaft eine sehr geringe Moral herrscht, kann das irgendwann zu einer Meuterei führen. Du kannst die Moral deiner Mannschaft erhöhen, indem du den Seeleuten teureren Proviant verschaffst oder feindliche Schiffe besiegst und die Beute dieser Siege mit ihnen teilst.</DefaultText>
+      <DefaultText>Wenn in deiner Besatzung eine sehr geringe Moral herrscht, kann das irgendwann zu einer Meuterei führen. Du kannst die Moral deiner Besatzung erhöhen, indem du den Seeleuten teureren Proviant verschaffst oder feindliche Schiffe besiegst und die Beute dieser Siege mit ihnen teilst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -566,23 +566,23 @@ Segel und Rumpf jedes Schiffes müssen regelmäßig gewartet werden. Beschädigt
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Wenn zwei Schiffe sich nahe genug kommen, können sie sich gegenseitig rammen oder die Mannschaften können das andere Schiff entern. Beim Entern werden zwei Schiffe fest miteinander verbunden. Die Folge des Enterns sind immer Kämpfe an Deck zwischen den Mannschaften der beiden Schiffe. Ein Rammangriff beschädigt den Rumpf beider Schiffe. Wenn dabei nicht eines der Schiffe versenkt wird, beginnt anschließend der Kampf an Deck.
+      <DefaultText>Wenn zwei Schiffe sich nahe genug kommen, können sie sich gegenseitig rammen oder die Besatzungen können das andere Schiff entern. Beim Entern werden zwei Schiffe fest miteinander verbunden. Die Folge des Enterns sind immer Kämpfe an Deck zwischen den Besatzungen der beiden Schiffe. Ein Rammangriff beschädigt den Rumpf beider Schiffe. Wenn dabei nicht eines der Schiffe versenkt wird, beginnt anschließend der Kampf an Deck.
 
-Wenn du das andere Schiff versenkt oder seine Mannschaft beim Kampf an Deck besiegt hast, kannst du das Schiff plündern und alles mitnehmen, was sich darauf befindet. Beim Plündern werden die Ressourcen und Schätze des Schiffes mitgenommen und gelegentlich darf sich der Sieger auch an dem Triumph erfreuen, den gegnerischen Kapitän gefangenzunehmen. Die Münzen, die du beim Plündern eroberst, kannst du mit deiner Mannschaft teilen. Das hebt ihre Moral. Eine Flagge in der Takelage ist das sichtbare Zeichen deines Triumphs.</DefaultText>
+Wenn du das andere Schiff versenkt oder seine Besatzung beim Kampf an Deck besiegt hast, kannst du das Schiff plündern und alles mitnehmen, was sich darauf befindet. Beim Plündern werden die Ressourcen und Schätze des Schiffes mitgenommen und gelegentlich darf sich der Sieger auch an dem Triumph erfreuen, den gegnerischen Kapitän gefangenzunehmen. Die Münzen, die du beim Plündern eroberst, kannst du mit deiner Besatzung teilen. Das hebt ihre Moral. Eine Flagge in der Takelage ist das sichtbare Zeichen deines Triumphs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Verletzungen der Mannschaft</DefaultText>
+      <DefaultText>Verletzungen der Besatzung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Es kann bei Schiffskämpfen und während Begegnungen auf See zu Verletzungen kommen. Verletzungen schränken die Fähigkeiten der Mannschaftsmitglieder ein. Während eines Kampfes kannst du den Befehl „Bericht an …“ verwenden, um ein verletztes Mannschaftsmitglied der Reserve zuzuweisen, wo es vom Schiffsarzt geheilt werden kann. Solange sie verletzt sind, können Seeleute während eines Kampfes ihren Job nicht erledigen – es sei denn, der Schiffsarzt kümmert sich um sie.
+      <DefaultText>Es kann bei Schiffskämpfen und während Begegnungen auf See zu Verletzungen kommen. Verletzungen schränken die Fähigkeiten der Besatzungsmitglieder ein. Während eines Kampfes kannst du den Befehl „Bericht an …“ verwenden, um ein verletztes Besatzungsmitglied der Reserve zuzuweisen, wo es vom Schiffsarzt geheilt werden kann. Solange sie verletzt sind, können Seeleute während eines Kampfes ihren Job nicht erledigen – es sei denn, der Schiffsarzt kümmert sich um sie.
 
-Wenn du auf der Weltkarte ein verletztes Mannschaftsmitglied dazu zwingst, seinen Job dennoch weiter zu erledigen, hat das gravierende Auswirkungen auf die Moral der gesamten Mannschaft. Solange sie sich im Reserve-Slot befinden, können Mannschaftsmitglieder immer vom Schiffsarzt geheilt werden.
+Wenn du auf der Weltkarte ein verletztes Besatzungsmitglied dazu zwingst, seinen Job dennoch weiter zu erledigen, hat das gravierende Auswirkungen auf die Moral der gesamten Besatzung. Solange sie sich im Reserve-Slot befinden, können Besatzungsmitglieder immer vom Schiffsarzt geheilt werden.
 
-Ob auf der Weltkarte oder während eines Kampfes – wenn ein Mannschaftsmitglied insgesamt vier Verletzungen erlitten hat, bedeutet das den Tod. Daran kann auch der Schiffsarzt nichts ändern.</DefaultText>
+Ob auf der Weltkarte oder während eines Kampfes – wenn ein Besatzungsmitglied insgesamt vier Verletzungen erlitten hat, bedeutet das den Tod. Daran kann auch der Schiffsarzt nichts ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -592,7 +592,7 @@ Ob auf der Weltkarte oder während eines Kampfes – wenn ein Mannschaftsmitglie
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Begegnungen und Siege über gegnerische Kapitäne auf See bringen Mannschaft und Kapitän Seemannserfahrung ein. Der Erwerb von Seemannserfahrung steigert den Rang des derzeitigen Jobs eines Mannschaftsmitglieds. Mannschaftsmitglieder können ihren Rang &lt;i&gt;ausschließlich&lt;/i&gt; in Jobs verbessern, in denen sie bereits über mindestens einen Rang verfügen. Kapitäne steigern immer ihren Kapitänsrang.</DefaultText>
+      <DefaultText>Begegnungen und Siege über gegnerische Kapitäne auf See bringen Besatzung und Kapitän Seemannserfahrung ein. Der Erwerb von Seemannserfahrung steigert den Rang des derzeitigen Jobs eines Besatzungsmitglieds. Besatzungsmitglieder können ihren Rang &lt;i&gt;ausschließlich&lt;/i&gt; in Jobs verbessern, in denen sie bereits über mindestens einen Rang verfügen. Kapitäne steigern immer ihren Kapitänsrang.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -602,7 +602,7 @@ Ob auf der Weltkarte oder während eines Kampfes – wenn ein Mannschaftsmitglie
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Wenn die Mannschaftsmitglieder an Seemannserfahrung gewinnen, steigen sie ganz natürlich in den ihnen zugewiesenen Jobs auf. Mannschaftsmitglieder können lediglich in Jobs aufsteigen, in denen sie bereits über mindestens einen Rang verfügen. Für einfache Mannschaftsmitglieder existieren höchstens 4 Ränge. Der Wächter als Kapitän kann bis zu 5 Kapitänsränge erringen.</DefaultText>
+      <DefaultText>Wenn die Besatzungsmitglieder an Seemannserfahrung gewinnen, steigen sie ganz natürlich in den ihnen zugewiesenen Jobs auf. Besatzungsmitglieder können lediglich in Jobs aufsteigen, in denen sie bereits über mindestens einen Rang verfügen. Für einfache Besatzungsmitglieder existieren höchstens 4 Ränge. Der Wächter als Kapitän kann bis zu 5 Kapitänsränge erringen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -659,7 +659,7 @@ Das Reputationsrad einer Begleitperson zeigt deren Reputationen bei den anderen 
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Mannschaft anheuern</DefaultText>
+      <DefaultText>Besatzung anheuern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -669,7 +669,7 @@ Das Reputationsrad einer Begleitperson zeigt deren Reputationen bei den anderen 
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Manchmal kann ein Angriff auf dein Schiff ein Schiffsereignis auslösen. Dabei handelt es sich um ein anhaltendes Problem. Du musst Mannschaftsmitglieder abstellen, die sich darum kümmern. Verwende den Befehl „Bericht an …“, um einem Ereignis Mannschaftsmitglieder zuzuweisen. Je mehr Mannschaftsmitglieder du einem Ereignis zuweist, desto schneller kann das Ereignis gelöst werden.</DefaultText>
+      <DefaultText>Manchmal kann ein Angriff auf dein Schiff ein Schiffsereignis auslösen. Dabei handelt es sich um ein anhaltendes Problem. Du musst Besatzungsmitglieder abstellen, die sich darum kümmern. Verwende den Befehl „Bericht an …“, um einem Ereignis Besatzungsmitglieder zuzuweisen. Je mehr Besatzungsmitglieder du einem Ereignis zuweist, desto schneller kann das Ereignis gelöst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -708,9 +708,9 @@ Du kannst diese Ermächtigung pro Kampf einmal verwenden, und eine begrenzte Anz
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Wenn du auf der Weltkarte ein verletztes Mannschaftsmitglied dazu zwingst, seinen Job dennoch weiter zu erledigen, hat das gravierende Auswirkungen auf die Moral. Solange sie sich im Reserve-Slot befinden, können Mannschaftsmitglieder immer vom Schiffsarzt geheilt werden.
+      <DefaultText>Wenn du auf der Weltkarte ein verletztes Besatzungsmitglied dazu zwingst, seinen Job dennoch weiter zu erledigen, hat das gravierende Auswirkungen auf die Moral. Solange sie sich im Reserve-Slot befinden, können Besatzungsmitglieder immer vom Schiffsarzt geheilt werden.
 
-Ob auf der Weltkarte oder während eines Kampfes – wenn ein Mannschaftsmitglied insgesamt vier Verletzungen erlitten hat, bedeutet das den Tod. Daran kann auch der Schiffsarzt nichts ändern. =&gt; Verletzungen können bei Schiffskämpfen und Begegnungen auf See entstehen. Verletzungen schränken die Fähigkeiten der Mannschaftsmitglieder ein. Während eines Kampfes kannst du den Befehl „Bericht an …“ verwenden, um ein verletztes Mannschaftsmitglied der Reserve zuzuweisen, wo es vom Schiffsarzt geheilt werden kann. Solange sie verletzt sind, können Seeleute während eines Kampfes ihren Job nicht erledigen – es sei denn, der Schiffsarzt kümmert sich um sie.</DefaultText>
+Ob auf der Weltkarte oder während eines Kampfes – wenn ein Besatzungsmitglied insgesamt vier Verletzungen erlitten hat, bedeutet das den Tod. Daran kann auch der Schiffsarzt nichts ändern. =&gt; Verletzungen können bei Schiffskämpfen und Begegnungen auf See entstehen. Verletzungen schränken die Fähigkeiten der Besatzungsmitglieder ein. Während eines Kampfes kannst du den Befehl „Bericht an …“ verwenden, um ein verletztes Besatzungsmitglied der Reserve zuzuweisen, wo es vom Schiffsarzt geheilt werden kann. Solange sie verletzt sind, können Seeleute während eines Kampfes ihren Job nicht erledigen – es sei denn, der Schiffsarzt kümmert sich um sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

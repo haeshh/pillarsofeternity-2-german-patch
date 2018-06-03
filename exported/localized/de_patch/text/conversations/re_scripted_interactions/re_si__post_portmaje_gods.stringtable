@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Fürchtest du Eothas, Berath? Das solltest du auch. Magran hat Eothas' Einfluss schon einmal unterdrückt, und doch ist er zurückgekehrt.“</DefaultText>
+      <DefaultText>„Fürchtest du Eothas, Berath? Das solltest du auch. Magran hat Eothas’ Einfluss schon einmal unterdrückt, und doch ist er zurückgekehrt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Magran sieht dich an, wie man einen Klumpen Spucke ansieht, der sich auf den eigenen Schuh verirrt hat.</DefaultText>
+      <DefaultText>Magran sieht dich an, wie man einen Klumpen Rotz ansieht, der sich auf den eigenen Schuh verirrt hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Skaen schlurft nach vor. „Ja, ja, wir sollten Eothas' Rückkehr in den Schoß begrüßen. Seine Dankbarkeit können wir dazu nutzen, ihn dazu zu bringen, seinen Plan preiszugeben.“</DefaultText>
+      <DefaultText>Skaen schlurft nach vorn. „Ja, ja, wir sollten Eothas’ Rückkehr in den Schoß begrüßen. Seine Dankbarkeit können wir dazu nutzen, ihn dazu zu bringen, seinen Plan preiszugeben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -368,7 +368,7 @@ Sie wirft aus den Augenwinkeln einen gerissenen Blick auf die Bleiche Ritterin.<
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>Die Bleiche Ritterin tritt aus dem Halbkreis der versammelten Götter. Sie richtet sich auf eine enorme Höhe auf.</DefaultText>
+      <DefaultText>Die Bleiche Ritterin tritt aus dem Halbkreis der versammelten Götter. Sie richtet sich zu einer enormen Größe auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -468,7 +468,7 @@ Sie wirft aus den Augenwinkeln einen gerissenen Blick auf die Bleiche Ritterin.<
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>„Ich habe dir aufgetragen, mehr über Eothas' Absichten herauszufinden. Berichte mir, was du erfahren hast.“</DefaultText>
+      <DefaultText>„Ich habe dir aufgetragen, mehr über Eothas’ Absichten herauszufinden. Berichte mir, was du erfahren hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -518,7 +518,7 @@ Sie wirft aus den Augenwinkeln einen gerissenen Blick auf die Bleiche Ritterin.<
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>Die Gestalt neben dem Aspekt von Berath fließt in einer wirbelnden Aschewolke nach vor.</DefaultText>
+      <DefaultText>Die Gestalt neben dem Aspekt von Berath fließt in einer wirbelnden Aschewolke nach vorn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -528,7 +528,7 @@ Sie wirft aus den Augenwinkeln einen gerissenen Blick auf die Bleiche Ritterin.<
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>Die Gestalt neben dem Aspekt von Berath fließt in einer wirbelnden Aschewolke nach vor.</DefaultText>
+      <DefaultText>Die Gestalt neben dem Aspekt von Berath fließt in einer wirbelnden Aschewolke nach vorn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -700,28 +700,36 @@ Sie wirft aus den Augenwinkeln einen gerissenen Blick auf die Bleiche Ritterin.<
       <DefaultText>„Ah, und hier ist der Wächter, der die liebe, verzweifelte Aelys sterben ließ anstatt dem Mann ein Ende zu setzen, der sie gequält hat.“
 
 „Interessant.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ah, und hier ist die Wächterin, die die liebe, verzweifelte Aelys sterben ließ anstatt dem Mann ein Ende zu setzen, der sie gequält hat.“
+
+„Interessant.“</FemaleText>
     </Entry>
     <Entry>
       <ID>260</ID>
       <DefaultText>„Ah, und hier ist der Wächter, der die Erinnerung der lieben, verzweifelten Aelys gelöscht hat. Du hättest es meinen Anhängern erlauben können, ihr dabei zu helfen, den Mann umzubringen, der sie gequält hat, hast es aber nicht.“ 
 
 „Interessant.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ah, und hier ist die Wächterin, die die Erinnerung der lieben, verzweifelten Aelys gelöscht hat. Du hättest es meinen Anhängern erlauben können, ihr dabei zu helfen, den Mann umzubringen, der sie gequält hat, hast es aber nicht.“ 
+
+„Interessant.“</FemaleText>
     </Entry>
     <Entry>
       <ID>261</ID>
       <DefaultText>„Ah, und hier ist der Wächter, der die arme, gequälte Aelys wieder den Klauen ihres Onkels Lord Harond zugeführt hat.“
 
 „Interessant.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ah, und hier ist die Wächterin, die die arme, gequälte Aelys wieder den Klauen ihres Onkels Lord Harond zugeführt hat.“
+
+„Interessant.“</FemaleText>
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>„Ah, und hier ist der Wächter, der Lord Harond getötet hat, den Mann, der seine liebe Nicht Aelys gequält hat.“
+      <DefaultText>„Ah, und hier ist der Wächter, der Lord Harond getötet hat, den Mann, der seine liebe Nichte Aelys gequält hat.“
 
 „Interessant.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ah, und hier ist die Wächterin, die Lord Harond getötet hat, den Mann, der seine liebe Nichte Aelys gequält hat.“
+
+„Interessant.“</FemaleText>
     </Entry>
     <Entry>
       <ID>263</ID>

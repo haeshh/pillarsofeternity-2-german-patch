@@ -9,7 +9,9 @@
       <DefaultText>„Ado, Wächter von Caed Nua! Im Namen der Príncipi sen Patrena verlange ich eine Unterredung.“ 
 
 Der breitschultrige Kapitän hebt das Kinn als Begrüßung. Als er lächelt, zeigt sich ein kleines Grübchen auf seiner linken Wange.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ado, Wächterin von Caed Nua! Im Namen der Príncipi sen Patrena verlange ich eine Unterredung.“ 
+
+Der breitschultrige Kapitän hebt das Kinn als Begrüßung. Als er lächelt, zeigt sich ein kleines Grübchen auf seiner linken Wange.</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -68,7 +70,7 @@ Der breitschultrige Kapitän hebt das Kinn als Begrüßung. Als er lächelt, zei
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Warum erzählst du mir das?“ „Warum solltest du mir helfen wollen?“</DefaultText>
+      <DefaultText>„Warum erzählst du mir das? Warum solltest du mir helfen wollen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -83,8 +85,8 @@ Der breitschultrige Kapitän hebt das Kinn als Begrüßung. Als er lächelt, zei
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Du bist es, der von Benweth beleidigt wurde, Aimico. Gegen dich hat er Aggressionen eingeladen.“</DefaultText>
-      <FemaleText>„Du bist es, die von Benweth beleidigt wurde, Aimica. Gegen dich hat er Aggressionen eingeladen.“</FemaleText>
+      <DefaultText>„Du bist es, der von Benweth beleidigt wurde, Aimico. Gegen dich hat er zu Gewalt aufgerufen.“</DefaultText>
+      <FemaleText>„Du bist es, die von Benweth beleidigt wurde, Aimica. Gegen dich hat er zu Gewalt aufgerufen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -166,7 +168,7 @@ Der Kapitän lacht und reibt sich den Rüschenkragen an seiner Kehle.</DefaultTe
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>„Gellarde, aber ich bin – durch dich.“
+      <DefaultText>„Gellarde, aber das mache ich – durch dich.“
 
 Er lächelt noch breiter und sein Grübchen gräbt sich tiefer in seine Wange.</DefaultText>
       <FemaleText />

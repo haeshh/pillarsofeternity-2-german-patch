@@ -153,9 +153,9 @@ Darin duckt sich Scharf-Felsen, ihr fedrige Kopfbedeckung durcheinander. Sie mur
       <ID>34</ID>
       <DefaultText>Alle Augen richten sich auf deine gezogene Waffe. 
 
-[Specified 3] streckt dir offene Handflächen hin. „Ho, Käpt'n, kein Grund voreilig zu werden.“
+[Specified 3] streckt dir offene Handflächen hin. „Ho, Käpt’n, kein Grund voreilig zu werden.“
 
-„Du Idiot“, zischt [Specified 2]. „Der Käpt'n wird das hier klären, und zwar endgültig.“</DefaultText>
+„Du Idiot“, zischt [Specified 2]. „Der Käpt’n wird das hier klären, und zwar endgültig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -183,18 +183,18 @@ Darin duckt sich Scharf-Felsen, ihr fedrige Kopfbedeckung durcheinander. Sie mur
 
 &lt;ispeech&gt;Deine dumme Mannschaft möchte uns für dein Versagen als Anführer bestrafen. Sie wollen ihren Ärger an uns auslassen. Wir haben diesen hier nur genommen …&lt;/ispeech&gt; Er zeigt mit einer geschmeidigen Geste auf [Specified 4], &lt;ispeech&gt;… um das zu verhindern.&lt;/ispeech&gt;
 
-„Dieser pelzige Bastard macht irgendetwas mit dem Käpt'n!“ ruft [Specified 2].</DefaultText>
+„Dieser pelzige Bastard macht irgendetwas mit dem Käpt’n!“ ruft [Specified 2].</DefaultText>
       <FemaleText>Der Geist des Vithracks berührt deinen eigenen und seine Stimme hallt zwischen deinen Gedanken wider.
 
 &lt;ispeech&gt;Deine dumme Mannschaft möchte uns für dein Versagen als Anführerin bestrafen. Sie wollen ihren Ärger an uns auslassen. Wir haben diesen hier nur genommen …&lt;/ispeech&gt; Er zeigt mit einer geschmeidigen Geste auf [Specified 4], &lt;ispeech&gt;… um das zu verhindern.&lt;/ispeech&gt;
 
-„Dieser pelzige Bastard macht irgendetwas mit dem Käpt'n!“ ruft [Specified 2].</FemaleText>
+„Dieser pelzige Bastard macht irgendetwas mit dem Käpt’n!“ ruft [Specified 2].</FemaleText>
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>Mutter Scharf-Felsen fiepst und jammert und wedelt mit ihrer knochigen Klauenhand in Richtung Mannschaft, wie um sie zu vertreiben. 
 
-„Vorsicht, Käpt'n.“ [Specified 2] legt dir eine Hand auf die Schulter. „Xaurip-Hexen können Seeleute mit ihrer bösen Magie verzaubern.“</DefaultText>
+„Vorsicht, Käpt’n.“ [Specified 2] legt dir eine Hand auf die Schulter. „Xaurip-Hexen können Seeleute mit ihrer bösen Magie verzaubern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@ Darin duckt sich Scharf-Felsen, ihr fedrige Kopfbedeckung durcheinander. Sie mur
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>„Du kannst es dir selbst ansehen, Käpt'n!“ [Specified 2] macht einen Schritt nach vorn und zeigt auf den Vithrack und das Besatzungsmitglied, das ihn verteidigt. „Das Biest hat eine verdammte Marionette aus [Specified 4] gemacht! Wie lange noch, bis es anfängt, &lt;i&gt;unsere&lt;/i&gt; Gehirne zu essen?“
+      <DefaultText>„Du kannst es dir selbst ansehen, Käpt’n!“ [Specified 2] macht einen Schritt nach vorn und zeigt auf den Vithrack und das Besatzungsmitglied, das ihn verteidigt. „Das Biest hat eine verdammte Marionette aus [Specified 4] gemacht! Wie lange noch, bis es anfängt, &lt;i&gt;unsere&lt;/i&gt; Gehirne zu essen?“
 
 „Was, wenn es bereits in unseren Gehirnen war und unsere Gedanken gefressen hat?“ jammert [Specified 3].</DefaultText>
       <FemaleText />
@@ -299,19 +299,19 @@ Darin duckt sich Scharf-Felsen, ihr fedrige Kopfbedeckung durcheinander. Sie mur
       <ID>59</ID>
       <DefaultText>Die versammelten Matrosen nicken zu deinen Worten.
 
-„Ihr habt den Kapitän gehört,“ ruft [Specified 1]. „Geht auseinander und es gibt eine Ration Grog für alle!“
+„Ihr habt den Kapitän gehört“, ruft [Specified 1]. „Geht auseinander und es gibt eine Ration Grog für alle!“
 
 Ein halbherziger Jubel ertönt, als die Mannschaft auseinandergeht. Du hast die Krise abgewendet … fürs Erste.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>[Specified 2] blickt finster drein. „Tut mir leid, Käpt'n, darauf fallen wir nicht herein.“</DefaultText>
+      <DefaultText>[Specified 2] blickt finster drein. „Tut mir leid, Käpt’n, darauf fallen wir nicht herein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Die Matrosen weichen vor dir zurück, die Augen weit aufgerissen vor Furcht. „Haben uns nichts dabei gedacht, Käpt'n“, wimmert [Specified 3].
+      <DefaultText>Die Matrosen weichen vor dir zurück, die Augen weit aufgerissen vor Furcht. „Haben uns nichts dabei gedacht, Käpt’n“, wimmert [Specified 3].
 
 [Specified 1] schlägt mit einem Stock gegen den Mast. „Ihr habt den Kapitän gehört! Zurück auf eure Posten!“
 
@@ -320,16 +320,16 @@ Die Seeleute gehen auseinander und sehen sich gegenseitig an, meiden aber deinen
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Die Mannschaft sieht sich gegenseitig an. [Specified 2] spuckt über die Reling. „Ehrlich gesagt, Käpt'n, wir haben vor dieser Kreatur mehr Angst als vor dir.“</DefaultText>
+      <DefaultText>Die Mannschaft sieht sich gegenseitig an. [Specified 2] spuckt über die Reling. „Ehrlich gesagt, Käpt’n, wir haben vor dieser Kreatur mehr Angst als vor dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
       <DefaultText>Die Matrosen sehen einander an. Einige reiben sich den Hinterkopf, andere wringen ihre Hände.
 
-„Tut mir leid, Käpt'n …“ [Specified 3] blickt zwischen dir und [Specified 0] hin und her. „Habe nicht ganz klar gesehen.“
+„Tut mir leid, Käpt’n …“ [Specified 3] blickt zwischen dir und [Specified 0] hin und her. „Habe nicht ganz klar gesehen.“
 
-„Zurück an die Arbeit,“ ruft [Specified 1]. „Hier gibt es nichts mehr zu sehen.“
+„Zurück an die Arbeit“, ruft [Specified 1]. „Hier gibt es nichts mehr zu sehen.“
 
 Die Mannschaft geht auseinander und zurück an ihre Aufgaben. Du hast die Krise abgewendet … fürs Erste.</DefaultText>
       <FemaleText />
@@ -353,7 +353,7 @@ Die Mannschaft geht auseinander und zurück an ihre Aufgaben. Du hast die Krise 
       <ID>67</ID>
       <DefaultText>Alle Augen richten sich auf dich.
 
-„Aye, Käpt'n?“ fragt [Specified 2].</DefaultText>
+„Aye, Käpt’n?“ fragt [Specified 2].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -398,7 +398,7 @@ Die Mannschaft geht auseinander und zurück an ihre Aufgaben. Du hast die Krise 
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>„Wusste, wir können auf dich zählen, um die Dinge wieder in Ordnung zu bringen, Käpt'n.“ [Specified 2] grinst und führt dann den Rest der Mannschaft in einem Loblied auf deinen Mut und deine Weisheit an.
+      <DefaultText>„Wusste, wir können auf dich zählen, um die Dinge wieder in Ordnung zu bringen, Käpt’n.“ [Specified 2] grinst und führt dann den Rest der Mannschaft in einem Loblied auf deinen Mut und deine Weisheit an.
 
 Das Lied begleitet dich, während ihr eure Reise fortsetzt.</DefaultText>
       <FemaleText />
@@ -421,14 +421,14 @@ Die Matrosen zerstreuen sich langsam. Ihre Gesichter sind noch finsterer als son
       <ID>83</ID>
       <DefaultText>Die versammelten Matrosen nicken zu deinen Worten.
 
-„Ihr habt den Kapitän gehört,“ ruft [Specified 1]. „Geht auseinander und es gibt eine Ration Grog für alle!“
+„Ihr habt den Kapitän gehört“, ruft [Specified 1]. „Geht auseinander und es gibt eine Ration Grog für alle!“
 
 Ein halbherziger Jubel ertönt, als die Mannschaft auseinandergeht. Du hast die Krise abgewendet … fürs Erste.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Die Matrosen weichen vor dir zurück, die Augen weit aufgerissen vor Furcht. „Haben uns nichts dabei gedacht, Käpt'n“, wimmert [Specified 3].
+      <DefaultText>Die Matrosen weichen vor dir zurück, die Augen weit aufgerissen vor Furcht. „Haben uns nichts dabei gedacht, Käpt’n“, wimmert [Specified 3].
 
 [Specified 1] schlägt mit einem Stock gegen den Mast. „Ihr habt den Kapitän gehört! Zurück auf eure Posten!“
 
@@ -439,9 +439,9 @@ Die Seeleute gehen auseinander und sehen sich gegenseitig an, meiden aber deinen
       <ID>85</ID>
       <DefaultText>Die Matrosen sehen einander an. Einige reiben sich den Hinterkopf, andere wringen ihre Hände.
 
-„Tut mir leid, Käpt'n …“ [Specified 3] blickt zwischen dir und [Specified 0] hin und her. „Habe nicht ganz klar gesehen.“
+„Tut mir leid, Käpt’n …“ [Specified 3] blickt zwischen dir und [Specified 0] hin und her. „Habe nicht ganz klar gesehen.“
 
-„Zurück an die Arbeit,“ ruft [Specified 1]. „Hier gibt es nichts mehr zu sehen.“
+„Zurück an die Arbeit“, ruft [Specified 1]. „Hier gibt es nichts mehr zu sehen.“
 
 Die Mannschaft geht auseinander und zurück an ihre Aufgaben. Du hast die Krise abgewendet … fürs Erste.</DefaultText>
       <FemaleText />

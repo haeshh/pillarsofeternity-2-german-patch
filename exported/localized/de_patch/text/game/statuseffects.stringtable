@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>{0:value:percent} Chance, dass der Angriff bei einem Treffer abgeschüttelt wird</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass bei einem Treffer das Ziel Erschüttert wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{0:value} Fernkampfgenauigkeit Erhöht sich mit Arkana-Fähigkeiten</DefaultText>
+      <DefaultText>{0:value} Fernkampfgenauigkeit (Erhöht sich mit der Fertigkeit Arkana)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} benommen zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} Benommen zu machen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} benommen zu machen, wenn derjenige, der die Waffe führt, ein Zwerg ist</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} Benommen zu machen, wenn derjenige, der die Waffe führt, ein Zwerg ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Gefrierschaden-Angriff in Kegelformation bei einem kritischen Treffer</DefaultText>
+      <DefaultText>Frostschaden-Angriff in Kegelformation bei einem kritischen Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem kritischen Treffer durch Eis zu lähmen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem kritischen Treffer durch Eis für {0:extravalue:duration} zu lähmen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Der Angriff mit einem Zauberspruch hat eine {0:value:percent} Chance, dass der Zauberspruchangriff das Ziel trifft</DefaultText>
+      <DefaultText>Der Angriff mit einem Zauberspruch hat eine {0:value:percent} Chance, Ziele zu Bezaubern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,27 +51,27 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>{0:value:percent} Chance, einen siegreichen Gegenangriff zu starten, wenn beim Nahkampf verfehlt</DefaultText>
+      <DefaultText>{0:value:percent} Chance, einen siegreichen Gegenangriff mit Wuchtschaden zu starten, wenn beim Nahkampf verfehlt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Abschütteln des Angriffs auf Gestandene oder Wilde bei kritischem Treffer</DefaultText>
+      <DefaultText>Der Angriff Erschüttert Gestandene oder Wilde bei einem kritischem Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Verursacht reinen Schaden und greift schneller an als eine normale Klinge</DefaultText>
+      <DefaultText>Verursacht direkten Schaden und greift schneller an als eine normale Klinge</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>-2 % Aktionsgeschwindigkeit für 30,0 Sekunden für das Ziel bei einem Treffer Verzehnfachung</DefaultText>
+      <DefaultText>Bei einem Treffer erhält das Ziel 30,0 Sekunden lang -2 % Aktionsgeschwindigkeit. Effekt ist 10-fach stapelbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer krank zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass das Ziel bei einem Treffer Erkrankt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit (Erhöht sich mit den metaphysischen Fähigkeiten)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit (Erhöht sich mit der Fertigkeit Metaphysik)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,17 +106,17 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>{0:value:percent} Chance, beim Ziel einen Additions-Fluch anzubringen und dadurch den erlittenen Schaden zu erhöhen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, beim Ziel einen stapelbaren Fluch anzubringen und dadurch den erlittenen Schaden zu erhöhen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>{0:Value:PercentBonus} Schaden am Stab. (Erhöht sich mit den metaphysischen Fähigkeiten)</DefaultText>
+      <DefaultText>{0:Value:PercentBonus} Schaden am Stab. (Erhöht sich mit der Fertigkeit Metaphysik)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>{0:value:percent} Chance, sich selbst beim Angriff {0:extravalue} Brandschäden zuzuziehen.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, sich selbst beim Angriff {0:extravalue:straight} Brandschaden zuzuziehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,17 +126,17 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Treffer gegen dem Tode nahe Ziele schadet auch Gegnern in der Nähe</DefaultText>
+	  <DefaultText>Treffer auf Ziele, die dem Tode nahe sind, fügen auch Gegnern in der Nähe Schaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Ein kritischer Treffer verschafft {0:triggervalue} Genauigkeit und {0:extravalue:percent} Aktionsgeschwindigkeit (Stapelt {0:value:straight} Mal)</DefaultText>
+      <DefaultText>Ein kritischer Treffer verschafft {0:triggervalue} Genauigkeit und {0:extravalue:percent} Aktionsgeschwindigkeit ({0:value:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Erzürnen, verschafft Fingerfertigkeit und Hartnäckigkeit</DefaultText>
+      <DefaultText>Erzürnen, verschafft Flink und Hartnäckigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,17 +176,17 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>{0:value:percentbonus} Gefrierschaden für {0:extravalue:duration} bei einem Treffer (vervielfacht sich {0:triggercount}-mal)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Frostschaden für {0:extravalue:duration} bei einem Treffer ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Grundlegende Angriffe verursachen den höchsten Schaden durch Durchbohren und Aufschlitzen in einem kleinen Wirkungsradius Durch Reflexe verteidigt</DefaultText>
+      <DefaultText>Verursacht in einem kleinen Bereich Flächenschaden, als Stich- oder Hieb-Schaden; je nachdem, was besser ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>{0:value:percentbonus} Zersetzungsschaden für {0:extravalue:duration} bei einem Treffer (vervielfacht sich {0:triggercount}-mal)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Zersetzungsschaden für {0:extravalue:duration} bei einem Treffer ({0:triggercount}-fach stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer benommen zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer Benommen zu verursachen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,12 +216,12 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Heimliche Angriffe sorgen dafür, dass das Ziel bis zum Ende des Kampfes wegen dem eingetretenen reinen Schaden blutet.</DefaultText>
+      <DefaultText>Heimliche Angriffe sorgen dafür, dass das Ziel bis zum Ende des Kampfes wegen dem eingetretenen direkten Schaden blutet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Bei kritischem Treffer 9 Sek lang 5 roher Blutungsschaden pro 3 Sek.</DefaultText>
+      <DefaultText>Bei kritischem Treffer alle 3 Sekunden 5 direkter Blutungsschaden für die Dauer von 9 Sekunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,17 +236,17 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Bei Treffer auf flankiertem Ziel {0:extravalue:duration} lang {0:triggercount} Rohschaden pro {0:value:duration}</DefaultText>
+      <DefaultText>{0:triggercount} direkter Schaden alle {0:value:duration} für die Dauer von {0:extravalue:duration} bei einem Treffer auf flankiertes Ziel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Chance von {0:value:percent}, bei kritischem Treffer ein Ziel zu Boden zu werfen und seine Verteidigung um {0:triggercount} für {0:extravalue:duration} zu schwächen</DefaultText>
+      <DefaultText>Chance von {0:value:percent}, bei kritischem Treffer ein Ziel niederzustrecken und seine Verteidigung um {0:triggercount} für {0:extravalue:duration} zu schwächen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Chance, bei einem Treffer beim Ziel längere Zeit anhaltenden Zersetzungsschaden zu verursachen</DefaultText>
+      <DefaultText>{0:triggercount} Zersetzungsschaden alle {0:value:duration} für die Dauer von {0:extravalue:duration} bei einem Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,12 +261,12 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>{0:value:percent} Erholungszeit für eine Nahkampfwaffe bei einem Treffer Wirkung vervielfacht sich.</DefaultText>
+      <DefaultText>{0:value:percent} Erholungszeit für eine Nahkampfwaffe bei einem Treffer. Der Effekt ist stapelbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Chance, das Ziel bei einem kritischen Treffer benommen zu machen und zu Boden zu werfen.</DefaultText>
+      <DefaultText>Chance, das Ziel bei einem kritischen Treffer Benommen zu machen und niederzustrecken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,17 +276,17 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>{0:value:percentbonus} Schaden. (Erhöht sich mit Überlebensfähigkeiten)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Schaden (Erhöht sich mit der Fertigkeit Überleben)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>{0:value:percent} Schaden als über längere Zeit anhaltender Schaden verursacht bei einem Treffer</DefaultText>
+      <DefaultText>{0:value:percent} Schaden wird als Schaden über Zeit bei einem Treffer hinzugefügt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>{0:value:percent} Schaden bei flankierenden Zielen Schaden erhöht sich mit den Heimlichkeitsfähigkeiten.</DefaultText>
+      <DefaultText>{0:value:percent} Schaden bei flankierenden Zielen. Schaden erhöht sich mit der Fertigkeit Heimlichkeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,12 +301,12 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>{0:value} Abwehr vom Ziel bei einem kritischen Treffer für {0:triggervalue:duration}. (Wirkung vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>{0:value} Abwehr vom Ziel bei einem kritischen Treffer für {0:triggervalue:duration} ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>{0:value:percentbonus} Nahkampf-Schaden. Erhöht sich mit Überlebensfähigkeiten</DefaultText>
+      <DefaultText>{0:value:percentbonus} Nahkampf-Schaden. Erhöht sich mit der Fertigkeit Überleben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,12 +326,12 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Grundlegende Angriffe fügen weniger reinen Schaden zu</DefaultText>
+      <DefaultText>Grundlegende Angriffe fügen weniger direkten Schaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>15 % Chance, bei einem Treffer über das Ziel einen zufälligen Illusionszauber zu verhängen</DefaultText>
+      <DefaultText>{0:extravalue:percent} Chance, bei einem Treffer über das Ziel einen zufälligen Illusionszauber zu verhängen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -341,17 +341,17 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Feuert zwei Schüsse ab, bevor nachgeladen werden muss. Verringerte Reichweite</DefaultText>
+      <DefaultText>Feuert zwei Schüsse ab, bevor nachgeladen werden muss, hat aber verringerte Reichweite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>{0:value:percent} Schaden ausgeteilt und empfangen bei Tötung bis zur Ruhepause. (Wirkung vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>{0:value:percent} Schaden ausgeteilt und empfangen bei Tötung bis zur Ruhepause. ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>-3 Willen beim Ziel für 45,0 Sekunden bei einem Treffer Verfünffachung</DefaultText>
+      <DefaultText>{0:value} Willen beim Ziel für {0:extravalue:duration} bei einem Treffer ({0:triggercount}-mal stapelbar).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,7 +366,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Derjenige, der die Waffe führt, erhält {0:value:percent} Schaden, der als reiner Schaden zurückgezahlt wird</DefaultText>
+      <DefaultText>Derjenige, der die Waffe führt, erhält {0:value:percent} Schaden, der als direkter Schaden zurückgezahlt wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,17 +386,17 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Chance, bei einem kritischen Treffer beim Ziel über einen Zeitraum von 12,0 Sekunden Behinderung, einen K.O. oder reinen Schaden zu verursachen – oder eine Verringerung der Aktionsgeschwindigkeit um 25 %</DefaultText>
+      <DefaultText>Chance, bei einem kritischen Treffer beim Ziel über einen Zeitraum von 12,0 Sekunden Humpelnd, Niedergestreckt oder direkten Schaden zu verursachen – oder eine Verringerung der Aktionsgeschwindigkeit um 25 %</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>{0:value:percentbonus} Wirkungsradius für Wiederherstellung und Inspirationsfähigkeiten. Bonus erhöht sich mit den Religionsfähigkeiten.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Wirkungsradius für Wiederherstellung und Inspirationsfähigkeiten. Bonus erhöht sich mit der Fertigkeit Religion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>{0:value:percentbonus} Sichel-Schaden bis zum Ende des Kampfes bei Tötung. (vervielfacht sich {0:triggercount}-mal) (Erhöht sich mit den Religionsfähigkeiten) </DefaultText>
+      <DefaultText>{0:value:percentbonus} Sichel-Schaden bis zum Ende des Kampfes bei Tötung ({0:triggercount}-mal stapelbar) (Erhöht sich mit der Fertigkeit Religion)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>{0:value} Abwehr. Erhöht sich mit der Einschüchterungsfähigkeit</DefaultText>
+      <DefaultText>{0:value} Abwehr. Erhöht sich mit der Fertigkeit Einschüchtern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,7 +451,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Schockschadenangriff auf das Ziel bei einem kritischen Treffer</DefaultText>
+      <DefaultText>Schockschadenangriff auf das Ziel bei einem kritischen Treffer im Nahkampf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -461,7 +461,7 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Ein erhaltener Schockschaden gewährt den Angriffen des Trägers für kurze Zeit zusätzliche Schockschäden</DefaultText>
+      <DefaultText>Hat der Träger Schockschaden erlitten, teilt er mit seinen Angriffen für kurze Zeit zusätzlichen Schockschaden aus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,7 +471,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>{0:extravalue} für alle Verteidigungen, wenn angegriffen. (vervielfacht sich {0:triggercount}-mal)</DefaultText>
+      <DefaultText>{0:extravalue} für alle Verteidigungen, wenn angegriffen ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -481,7 +481,7 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>{0:value:percentbonus} Schaden durch kritischen Treffer und</DefaultText>
+      <DefaultText>{0:value:percentbonus} Schaden durch kritischen Treffer und </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,7 +496,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>5 % Chance, einen Gestandenen oder eine Bestie mit weniger als 100 Gesundheit beim Treffer sofort zu vernichten</DefaultText>
+      <DefaultText>{0:value:percent} Chance, einen Gestandenen oder eine Bestie mit weniger als 100 Gesundheit beim Treffer sofort zu vernichten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,7 +526,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Gewährt die Fähigkeit wenn man dem Tode nahe ist/</DefaultText>
+      <DefaultText>Gewährt die Fähigkeit, wenn man dem Tode nahe ist/</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -541,17 +541,17 @@
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Nahkampf-Angriff mit Heimlichkeit verursacht beim Ziel im Laufe der Zeit reinen Schaden </DefaultText>
+      <DefaultText>Nahkampf-Angriff mit Heimlichkeit verursacht beim Ziel direkten Schaden über Zeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer im Nahkampf den Wirkungskreis des Wuchtschadens zu unterbrechen.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem im Nahkampf erlittenem kritischen Treffer, einen unterbrechenden Flächenzauber mit Wuchtschaden auszulösen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Bei kritischem Treffer im Nahkampf Vergeltungsangriff, der reinen Schaden verursacht</DefaultText>
+      <DefaultText>Bei kritischem Treffer im Nahkampf Vergeltungsangriff, der direkten Schaden verursacht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,12 +581,12 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>{0:value:percent} von {0:damagetype} Schaden als reiner Schaden über längere Zeit</DefaultText>
+      <DefaultText>{0:value:percent} von {0:damagetype} Schaden als direkten Schaden über längere Zeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>{0:value:percentbonus} Vorwärtskommen (Bonus erhöht sich mit den Überlebensfähigkeiten).</DefaultText>
+      <DefaultText>{0:value:percentbonus} Vorwärtskommen (Bonus erhöht sich mit der Fertigkeit Überleben).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -596,7 +596,7 @@
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>{0:extravalue} Rüstungswert gegen Gefrierangriffe, die sich erhöht wenn Träger Gesundheit verliert (Max 5 RW)</DefaultText>
+      <DefaultText>{0:extravalue} Rüstungswert gegen Frostangriffe, die sich erhöht wenn Träger Gesundheit verliert (Max 5 RW)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -616,7 +616,7 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>{0:value} Alle Verteidigungen außer Abwehr (Bonus erhöht sich mit den geschichtlichen Fähigkeiten)</DefaultText>
+      <DefaultText>{0:value} Alle Verteidigungen außer Abwehr (Bonus erhöht sich der Fertigkeit Geschichte)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -626,12 +626,12 @@
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Verschafft dir bei Unbeweglichkeit einen der Vervielfachung unterliegenden Aktionsgeschwindigkeits-Bonus von {0:value:percent} für den Nahkampf bei einem Treffer. (Vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>Verschafft dir bei Unbeweglichkeit einen stapelbaren Aktionsgeschwindigkeits-Bonus von {0:value:percent} bei einem Treffer mit einer Nahkampfwaffe ({0:extravalue:straight}-mal stapelbar).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Verschafft dir bei Unbeweglichkeit einen der Vervielfachung unterliegenden Schaden im Nahkampf von (Stacks {0:extravalue:straight} times) bei Empfang eines Treffers im Nahkampf. (Vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>Verschafft dir bei Unbeweglichkeit {0:value:percent} Nahkampfschaden beim Erleiden eines Treffers im Nahkampf ({0:extravalue:straight}-mal stapelbar).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -646,7 +646,7 @@
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Die Fähigkeit wird ausgelöst, wenn der Träger {0:value:percent} Gesundheit verliert</DefaultText>
+      <DefaultText>Die Fähigkeit wird ausgelöst, wenn der Träger auf {0:value:percent} Gesundheit fällt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -666,12 +666,12 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem kritischen Treffer mit einer nekrotischen Lanze zu verwunden</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem kritischen Treffer mit einer &lt;link="gamedata://0fb344d6-f83f-41e7-9f86-1ab91974ef99"&gt;nekrotischen Lanze&lt;/link&gt; zu verwunden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Derjenige, der die Waffe führt, erleidet selbst {0:value:percent} des ausgeteilten Schadens als reinen Schaden</DefaultText>
+      <DefaultText>Derjenige, der die Waffe führt, erleidet selbst {0:value:percent} des ausgeteilten Schadens als direkten Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -681,7 +681,7 @@
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>{0:extravalue} Brand-Rüstwert, der sich erhöht, wenn der Träger an Gesundheit verliert (max {0:value} AR)</DefaultText>
+      <DefaultText>{0:extravalue} Brand-Rüstwert, der sich erhöht, wenn der Träger an Gesundheit verliert (max {0:value} RW)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,7 +701,7 @@
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Sobald die feindliche Wirkung endet, kannst du für kurze Zeit mit der Waffe doppelten Schaden anrichten</DefaultText>
+      <DefaultText>Sobald eine feindliche Wirkung endet, kannst du für kurze Zeit mit der Waffe doppelten Schaden anrichten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -716,7 +716,7 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Chance, das Ziel bei einem kritischen Treffer zu Boden zu werfen</DefaultText>
+      <DefaultText>Chance, das Ziel bei einem kritischen Treffer niederzustrecken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -731,7 +731,7 @@
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Derjenige, der die Waffe führt, muss nicht länger immer wieder erbrechen, wenn er sich unter Alkoholeinfluss befindet</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,17 +746,17 @@
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit für {0:extravalue:duration} bei einem Treffer (vervielfacht sich {0:triggercount}-mal)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit für {0:extravalue:duration} bei einem Treffer ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>{0:value:percentbonus} Abwehr für {0:extravalue:duration} bei einem Treffer (vervielfacht sich {0:triggercount}-mal)</DefaultText>
+      <DefaultText>{0:value} Abwehr für {0:extravalue:duration} bei einem Treffer ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Derjenige, der die Waffe führt, gewinnt bei einem kritischen Treffer an {0:value} Gesundheit</DefaultText>
+      <DefaultText>Derjenige, der die Waffe führt, gewinnt bei einem kritischen Treffer {0:value} Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>Erhöhung der Chance um {0:value:percentbonus} für einen kritischen Treffer bei einem Treffer. (vervielfacht sich {0:extravalue}-mal und Wirkung wird bei kritischem Treffer zurückgesetzt)</DefaultText>
+      <DefaultText>Erhöhung der Chance um {0:value:percentbonus} für einen kritischen Treffer bei einem Treffer. ({0:extravalue}-mal stapelbar und Wirkung wird bei kritischem Treffer zurückgesetzt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,17 +776,17 @@
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>Chance, bei einem kritischen Treffer das Ziel und alle Feinde in der Nähe benommen zu machen</DefaultText>
+      <DefaultText>Chance, bei einem kritischen Treffer das Ziel und alle Feinde in der Nähe Benommen zu machen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Versetzt höchsten Zerschmetterungs- oder Aufschlitz-Schaden</DefaultText>
+      <DefaultText>Teil höchsten Wucht- oder Hiebschaden aus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer eine zerschmetternde Schadens-Wasserwelle auf das Ziel zu richten</DefaultText>
+      <DefaultText>{0:value:percent} Chance bei einem Treffer eine Wasserwelle, die Wuchtschaden zufügt, auf das Ziel zu richten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -796,22 +796,22 @@
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer benommen zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer Benommen zu machen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer benommen zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer Benommen zu machen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>+10 Genauigkeit und +15 % Waffenschaden, wenn die Gesundheit unter 50 % liegt</DefaultText>
+      <DefaultText>{0:triggervalue} Genauigkeit und {0:extravalue:percentbonus} Waffenschaden, wenn die Gesundheit unter 50 % liegt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>{0:value:percent} Chance, einen Zerschmetterungs- oder Aufschlitz-Gegenangriff zu starten, wenn beim Nahkampf verfehlt</DefaultText>
+      <DefaultText>{0:value:percent} Chance, einen Gegenangriff mit Wucht- oder Hiebschaden zu starten, wenn beim Nahkampf verfehlt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -821,7 +821,7 @@
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>15 % Chance, bei Treffer das Ziel zu unterbrechen und zu Boden zu werfen</DefaultText>
+      <DefaultText>15 % Chance, bei Treffer das Ziel zu unterbrechen und niederzustrecken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -831,12 +831,12 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>{0:value:percent} Chance auf sofortige Erholung bei einem kritischen Treffer im Nahkampf</DefaultText>
+      <DefaultText>{0:value:percent} Chance bei einem kritischen Treffer im Nahkampf die Erholungsphase frühzeitig zu beenden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>K.O.-Angriff auf Ziel bei kritischem Treffer</DefaultText>
+      <DefaultText>Bei kritischem Treffer wird der Angriff Niederstrecken auf Ziel ausgeführt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -846,12 +846,12 @@
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer {0:extravalue:duration} krank zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer {0:extravalue:duration} lang krank zu machen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>{0:value:duration} lang zähe Inspiration für den Spieler selbst, wenn der Verbündete bewusstlos wird</DefaultText>
+      <DefaultText>{0:value:duration} lang die Inspiration Zäh für den Spieler selbst, wenn ein Verbündeter bewusstlos wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -871,17 +871,17 @@
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>Fügt bei einem Treffer -5 % Aktionsgeschwindigkeit hinzu, wenn das Ziel über mehr als 50 % Gesundheit verfügt. Maximal Verfünffachung</DefaultText>
+      <DefaultText>Fügt bei einem Treffer -5 % Aktionsgeschwindigkeit hinzu, wenn das Ziel über mehr als 50 % Gesundheit verfügt. Maximal fünfmal stapelbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>{0:triggervalue:duration} lang {0:value:percent} Schadensverringerung bei einem Treffer (Wirkung vervielfacht sich {0:extravalue:straight}.) (Erhöht sich mit den metaphysischen Fähigkeiten)</DefaultText>
+      <DefaultText>{0:triggervalue:duration} lang {0:value:percent} Schadensverringerung bei einem Treffer ({0:extravalue:straight}-mal stapelbar) (Erhöht sich mit der Fertigkeit Metaphysik)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Startet den Wirkungskreis reinen Schadens, wenn {0:value:straight} aufeinanderfolgende Treffer auf das Ziel erzielt werden</DefaultText>
+      <DefaultText>Startet den Wirkungskreis direkten Schadens, wenn {0:value:straight} aufeinanderfolgende Treffer auf das Ziel erzielt werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -891,12 +891,12 @@
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer die nächste Erholung zu negieren</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer die Erholungsphase frühzeitig zu beenden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>{0:value:percent} Chance, einen Angriff zu starten, der das Ziel benommen macht, wenn beim Nahkampf verfehlt</DefaultText>
+      <DefaultText>{0:value:percent} Chance, einen Angriff zu starten, der das Ziel Benommen macht, wenn beim Nahkampf verfehlt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -906,17 +906,17 @@
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Bei Tötung: +2 Macht Verwandelt 25 % Treffer in kritische Treffer gegen Ziele mit weniger als 25 % Gesundheit. +15 % Aktionsgeschwindigkeit für 45,0 Sekunden. Wirkungen vervielfachen sich. Unterdrückt den Seelenhunger</DefaultText>
+      <DefaultText>Bei Tötung: +2 Macht Verwandelt 25 % Treffer in kritische Treffer gegen Ziele mit weniger als 25 % Gesundheit. +15 % Aktionsgeschwindigkeit für 45,0 Sekunden. Effekt ist stapelbar. Unterdrückt den Seelenhunger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>Bei Tötung: +6 Macht Verwandelt 35 % Treffer in kritische Treffer gegen Ziele mit weniger als 50 % Gesundheit. +30 % Aktionsgeschwindigkeit für 45,0 Sekunden. Wirkungen vervielfachen sich. Unterdrückt den Seelenhunger</DefaultText>
+      <DefaultText>Bei Tötung: +6 Macht Verwandelt 35 % Treffer in kritische Treffer gegen Ziele mit weniger als 50 % Gesundheit. +30 % Aktionsgeschwindigkeit für 45,0 Sekunden. Effekt ist stapelbar. Unterdrückt den Seelenhunger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>Bei Tötung: +3 Macht. Verwandelt 25 % Treffer in kritische Treffer gegen Ziele mit weniger als 50 % Gesundheit. +20 % Aktionsgeschwindigkeit für 45,0 Sekunden. Wirkungen vervielfachen sich. Unterdrückt den Seelenhunger</DefaultText>
+      <DefaultText>Bei Tötung: +3 Macht. Verwandelt 25 % Treffer in kritische Treffer gegen Ziele mit weniger als 50 % Gesundheit. +20 % Aktionsgeschwindigkeit für 45,0 Sekunden. Effekt ist stapelbar. Unterdrückt den Seelenhunger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -941,17 +941,17 @@
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>Wirkungsradius auf Zielort für Gefrieren/Aufschlitzen bei kritischem Treffer</DefaultText>
+      <DefaultText>Beim Kritischer Treffer wird ein Flächenzauber mit Frost- und Hiebschaden am Zielort ausgelöst</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>Lähmt das Ziel bei einem kritischen Treffer, wenn die vereiste Klinge über eine vervielfachende Wirkung von {0:value} verfügt.</DefaultText>
+      <DefaultText>Lähmt das Ziel bei einem kritischen Treffer, wenn der Effekt vereiste Klinge {0:value} mal gestapelt wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>Verschafft dir +3 % Gefrierschaden bei einem Treffer Wirkung verzehnfacht</DefaultText>
+      <DefaultText>Verschafft dir +3 % Frostschaden bei einem Treffer. Der Effekt ist 20 mal stapelbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -976,27 +976,27 @@
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>Verschafft dir +3 % Zersetzungsschaden bei einem Treffer. Wirkung verzehnfacht</DefaultText>
+      <DefaultText>Verschafft dir +3 % Zersetzungsschaden bei einem Treffer. Der Effekt ist 20 mal stapelbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>Macht das Ziel bei einem Treffer krank, sobald die unreine Klinge über eine vervielfachende Wirkung von {0:value} verfügt.</DefaultText>
+      <DefaultText>Macht das Ziel bei einem Treffer krank, sobald der Effekt unreine Klinge {0:value} mal gestapelt wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>-10 % Aktionsgeschwindigkeit für 45,0 Sekunden für das Ziel bei einem Treffer Vervierfachung</DefaultText>
+      <DefaultText>-10 % Aktionsgeschwindigkeit für 45,0 Sekunden für das Ziel bei einem Treffer. Viermal stapelbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>{0:value:percentbonus} Nahkampf-Schaden bei angegriffenen Zielen.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Nahkampf-Schaden für jedes angegriffene Ziel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>{0:value} Nahkampf-Genauigkeit bei angegriffenen Zielen.</DefaultText>
+      <DefaultText>{0:value} Nahkampf-Genauigkeit für jedes angegriffene Ziel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1006,7 +1006,7 @@
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>{0:value:percentbonus} Nahkampf-Schaden bei angegriffenen Zielen.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Nahkampf-Schaden für jedes angegriffene Ziel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1016,7 +1016,7 @@
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>Verstärkt bei einer Tötung mit dem Schlüsselbrecher alle Verteidigungen von Verbündeten in der Nähe {0:extravalue:duration} lang um {0:value}</DefaultText>
+      <DefaultText>Verstärkt bei einer Tötung mit dem Schlüsselbrecher alle Verteidigungen von Verbündeten in der Nähe {0:extravalue:duration} lang um {0:value}. Nur die Abwehr ist davon ausgenommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1026,27 +1026,27 @@
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>Tötet mit &lt;xg&gt;Magrans&lt;/xg&gt; Gunst Gegner in der Nähe erleiden Brandschaden</DefaultText>
+      <DefaultText>Tötet mit &lt;g&gt;Magrans&lt;/g&gt; Gunst Gegner in der Nähe erleiden Brandschaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>{0:triggercount} Brandschaden pro {0:extravalue:duration} für eine Dauer von {0:value:duration} für das Ziel bei einem kritischen Treffer</DefaultText>
+      <DefaultText>{0:triggercount} Brandschaden alle {0:extravalue:duration} für eine Dauer von {0:value:duration} für das Ziel bei einem kritischen Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>{0:value:percent} des mit &lt;xg&gt;Magrans&lt;/xg&gt; Gunst zugefügten Brandschaden Heilt den Träger</DefaultText>
+      <DefaultText>{0:value:percent} des mit &lt;g&gt;Magrans&lt;/g&gt; Gunst zugefügten Brandschaden heilt den Träger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>Töten mit &lt;xg&gt;Magrans&lt;/xg&gt; Gunst gewährt {0:value:percent} Schaden als Verbrennung und {0:extravalue:percent} Aktionsgeschwindigkeit (Wirkung vervielfacht sich {0:triggervalue:straight} Mal.)</DefaultText>
+      <DefaultText>Töten mit &lt;g&gt;Magrans&lt;/g&gt; Gunst gewährt {0:value:percent} Schaden als Brandschaden und {0:extravalue:percent} Aktionsgeschwindigkeit ({0:triggervalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>{0:Value} Durchschlagskraft Erhöht sich mit Überlebensfähigkeiten</DefaultText>
+      <DefaultText>{0:Value} Durchschlagskraft. Erhöht sich mit der Fertigkeit Überleben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1071,12 +1071,12 @@
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>Mäßiger längere Zeit anhaltender reiner Schaden beim flankierten Ziel bei einem Treffer</DefaultText>
+      <DefaultText>Mäßiger längere Zeit anhaltender direkter Schaden beim flankierten Ziel bei einem Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>+8,5 % Aktionsgeschwindigkeit gegen flankiertes Ziel bei einem Treffer. Wirkung verzehnfacht</DefaultText>
+      <DefaultText>+8,5 % Aktionsgeschwindigkeit gegen flankiertes Ziel bei einem Treffer. Effekt ist fünffach stapelbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1086,22 +1086,22 @@
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>25 % Chance einer sofortigen Erholung, wenn bei einem Angriff mit Nahkampfwaffen verfehlt</DefaultText>
+      <DefaultText>20 % Chance einer sofortigen Erholung, wenn bei einem Angriff mit Nahkampfwaffen verfehlt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>Über längere Zeit anhaltender Blutungsschaden für das Ziel bei einem kritischen Treffer</DefaultText>
+      <DefaultText>{0:triggercount} direkter Blutungsschaden alle {0:value:duration} für die Dauer von {0:extravalue:duration} für das Ziel bei einem kritischen Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>Chance, bei einem Treffer beim Ziel längere Zeit anhaltenden Zersetzungsschaden zu verursachen Dem Tode nahe Ziele können durch Anklicken sofort getötet werden</DefaultText>
+      <DefaultText>{0:triggercount} Zersetzungsschaden alle {0:value:duration} für die Dauer von {0:triggervalue:duration} bei einem Treffer ({0:extravalue:percent} Chance Ziele, die Dem Tode nahe sind, bei jedem Schadenszyklus sofort zu töten)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>Chance, bei einem Treffer beim Ziel längere Zeit anhaltenden Zersetzungsschaden zu verursachen Chance, das Ziel beim Anklicken zu lähmen</DefaultText>
+      <DefaultText>{0:triggercount} Zersetzungsschaden alle {0:value:duration} für die Dauer von {0:triggervalue:duration} bei einem Treffer ({0:extravalue:percent} Chance das Ziel bei jedem Schadenszyklus zu lähmen)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1126,42 +1126,42 @@
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer die nächste Erholung zu negieren</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer die Erholungsphase frühzeitig zu beenden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>+2 % Genauigkeit für alle Fernkampfwaffen für 30,0 Sekunden bei einem erzielten Treffer. Wirkung vervielfacht sich.</DefaultText>
+      <DefaultText>{0:value} Genauigkeit für alle Fernkampfwaffen für {0:extravalue:duration} Sekunden bei einem erzielten Treffer. ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>+2 Genauigkeit für alle Waffen für 30,0 Sekunden bei einem Treffer. Wirkung vervielfacht sich.</DefaultText>
+      <DefaultText>+2 Genauigkeit für alle Waffen für 30,0 Sekunden bei einem Treffer. Effekt ist stapelbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>{0:value} Genauigkeit für alle Fernkampfwaffen. Wirkung vervielfacht sich.</DefaultText>
+      <DefaultText>{0:value} Genauigkeit für alle Fernkampfwaffen. Effekt ist stapelbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer die nächste Erholung zu negieren</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer die Erholungsphase frühzeitig zu beenden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer für 3,0 Sekunden die Erholung zu ignorieren</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer die Erholung für {0:extravalue:duration} zu ignorieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>Treffer mit einer Waffe gewährt eine sich vervielfachende {0:value:percentbonus} Erholungszeit mit Nahkampfwaffen für eine Dauer von {0:extravalue:duration}</DefaultText>
+      <DefaultText>Treffer mit dieser Waffe gewährt eine stapelbare {0:value:percentbonus} Erholungszeit mit Nahkampfwaffen für eine Dauer von {0:extravalue:duration}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>Treffer mit dieser Waffe gewähren eine sich vervielfachende {0:value:percentbonus} Erholungszeit für eine Dauer von {0:extravalue:duration}</DefaultText>
+      <DefaultText>Treffer mit dieser Waffe gewähren eine stapelbare {0:value:percentbonus} Erholungszeit für eine Dauer von {0:extravalue:duration}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1171,17 +1171,17 @@
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>Wirf 20 % des Brandschadens von einem Feuerangriff auf den Angreifer zurück</DefaultText>
+      <DefaultText>Wirft 20 % des Brandschadens von einem Feuerangriff auf den Angreifer zurück</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>50 % Chance, den Angreifer für 10,0 Sekunden zu blenden, wenn mit einem Anstarr-Angriff verfehlt </DefaultText>
+      <DefaultText>50 % Chance, den Angreifer für 10,0 Sekunden zu blenden, wenn mit einem Blick-Angriff verfehlt </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>Chance, das Ziel bei einem Treffer für 10,0 Sekunden benommen zu machen und zu Boden zu werfen</DefaultText>
+      <DefaultText>Chance, das Ziel bei einem Treffer für 10,0 Sekunden Benommen zu machen und niederzustrecken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1196,17 +1196,17 @@
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer zurückzuschlagen und benommen zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer zurückzuschlagen und Benommen zu machen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für 8,0 Sekunden benommen zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer Bewegungsunfähig zu machen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer Minolettas kleine Fluggeschosse auf das Ziel zu richten</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer &lt;link="gamedata://d8c72c57-398e-4d66-818e-11124fe01494"&gt;Minolettas kleine Fluggeschosse&lt;/link&gt; auf das Ziel zu richten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1221,32 +1221,32 @@
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>{0:value:percentbonus} Schaden. Erhöht sich mit Überlebensfähigkeiten</DefaultText>
+      <DefaultText>{0:value:percentbonus} Schaden. Erhöht sich mit der Fertigkeit Überleben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Stellt beim Erzielen einer Tötung bei allen Verbündeten in der Nähe {0:value} Gesundheit wieder her (Erhöht sich mit den Religionsfähigkeiten)</DefaultText>
+      <DefaultText>Stellt beim Erzielen einer Tötung bei allen Verbündeten in der Nähe {0:value} Gesundheit wieder her (Erhöht sich mit der Fertigkeit Religion)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer zu behindern</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer der Wirkung Humpelnd belegt wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>Treffer mit dieser Waffe verursachen {0:value:percent} Schaden als reinen Schaden über Zeit</DefaultText>
+      <DefaultText>Treffer mit dieser Waffe verursachen {0:value:percent} Schaden als direkten Schaden über Zeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>{0:value:percent} Chance auf sofortige Erholung bei einem kritischen Treffer</DefaultText>
+      <DefaultText>{0:value:percent} Chance bei einem kritischen Treffer die Erholungsphase frühzeitig zu beenden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>{0:value:percent} Schaden bei flankierten Zielen (Erhöht sich mit den Heimlichkeitsfähigkeiten)</DefaultText>
+      <DefaultText>{0:value:percent} Schaden bei flankierten Zielen (Erhöht sich mit der Fertigkeit Heimlichkeit)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1256,7 +1256,7 @@
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>Das Ziel wird, wenn es abgelenkt ist, bei einem kritischen Treffer zu Boden geworfen</DefaultText>
+      <DefaultText>Das Ziel wird, wenn es Abgelenkt ist, bei einem kritischen Treffer niedergestreckt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1266,7 +1266,7 @@
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>Gefrierschaden von Waffe reduziert {0:value:percent} von der maximalen Gesundheit des Ziels</DefaultText>
+      <DefaultText>Frostschaden von der Waffe reduziert die maximalen Gesundheit des Ziels um {0:value:percent} des ausgeteilten Schadens</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1276,18 +1276,17 @@
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>Modifiziert belegte Munition bei einem Treffer mit {0:value:percent}, um über Zeit Brandschaden hinzuzufügen 
-</DefaultText>
+      <DefaultText>Modifiziert belegte Munition bei einem Treffer mit {0:value:percent}, um über Zeit Brandschaden hinzuzufügen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>Modifiziert belegte Munition bei einem Treffer mit {0:value:percent}, Ziel zu versteinern</DefaultText>
+      <DefaultText>Modifiziert belegte Munition bei einem Treffer mit einer {0:value:percent} Chance, das Ziel zu versteinern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Modifiziert belegte Munition bei einem Treffer mit {0:value:percent}, Ziel zurückzustoßen und zu unterbrechen</DefaultText>
+      <DefaultText>Modifiziert belegte Munition mit einer {0:value:percent} Chance bei einem Treffer, das Ziel zurückzustoßen und zu unterbrechen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1297,12 +1296,12 @@
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>50 % Chance, beim Erzielen eines kritischen Treffers beim Ziel eine zufällige Wirkung auszulösen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, beim Erzielen eines kritischen Treffers beim Ziel eine zufällige Wirkung auszulösen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>Im Umkreis von 4 m wird das Ziel bei einem erzielten Treffer zurückgeschlagen</DefaultText>
+      <DefaultText>Im Umkreis von 4 m wird das Ziel bei einem erzielten Treffer zurückgestossen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1312,12 +1311,12 @@
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>+3 % Schaden ausgeteilt und empfangen bei Tötung bis zur Ruhepause. Verzwanzigfachung</DefaultText>
+      <DefaultText>+3 % Schaden ausgeteilt und empfangen bei Tötung bis zur Ruhepause. 20-mal stapelbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>{0:value:percent} Schaden ausgeteilt bei Tötung bis zur Ruhepause. (Wirkung vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>{0:value:percent} Schaden ausgeteilt bei Tötung bis zur Ruhepause. ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1327,12 +1326,12 @@
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>Füge bei einem kritischen Treffer für 12,0 Sekunden reinen Schaden über längere Zeit zu, wenn das Ziel über Wirkung auf die Entschlossenheit verfügt</DefaultText>
+      <DefaultText>Füge bei einem kritischen Treffer {0:triggercount} direkten Schaden alle {0:extravalue:duration} für die Dauer von {0:value:duration} zu, wenn das Ziel über Wirkung auf die Entschlossenheit verfügt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Längere Zeit anhaltender reiner Blutungsschaden für 12,0 Sekunden beim Ziel bei einem Treffer</DefaultText>
+      <DefaultText>Längere Zeit anhaltender direkter Blutungsschaden für 12,0 Sekunden beim Ziel bei einem Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1372,7 +1371,7 @@
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>25 % Chance, Primitive einer geringeren Stufe bei einem kritischen Treffer sofort zu vernichten</DefaultText>
+      <DefaultText>{0:value:percent} Chance, Primitive einer geringeren Stufe bei einem kritischen Treffer sofort zu vernichten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1387,7 +1386,7 @@
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer dem Wirkungskreis einer zerschmetternden Schadens-Wasserwelle auszusetzen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer eine Wasserwelle mit Flächenschaden (Wucht) auf das Ziel auszulösen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1397,27 +1396,27 @@
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>+10 % Nahkampf-Schaden und +5 % Abwehr wenn angegriffen Verdreifachung</DefaultText>
+      <DefaultText>+10 % Nahkampf-Schaden und +5 % Abwehr wenn angegriffen. Effekt ist dreimal stapelbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>{0:value:percentbonus} Heilung erledigt. Erhöht sich mit den Religionsfähigkeiten</DefaultText>
+      <DefaultText>{0:value:percentbonus} Heilung erledigt. Erhöht sich mit der Fertigkeit Religion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>{0:value:percent} Chance, eingehenden Zaubersprüchen zu widerstehen. Erhöht sich mit den Religionsfähigkeiten</DefaultText>
+      <DefaultText>{0:value:percent} Chance, eingehenden Zaubersprüchen zu widerstehen. Erhöht sich mit der Fertigkeit Religion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>Reiner Schaden über längere Zeit hinweg für 18,0 Sekunden bei einem Treffer, wenn das Ziel über weniger als 25 % Gesundheit verfügt</DefaultText>
+      <DefaultText>Direkter Schaden über längere Zeit hinweg für 18,0 Sekunden bei einem Treffer, wenn das Ziel über weniger als 25 % Gesundheit verfügt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit für {0:extravalue:duration} in der Nähe eines erschlagenen Feindes (erhöht sich mit den Religionsfähigkeiten).</DefaultText>
+      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit für {0:extravalue:duration} in der Nähe eines erschlagenen Feindes (erhöht sich mit der Fertigkeit Religion).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1427,12 +1426,12 @@
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>-20 % Nahkampf-Schaden empfangen und +8 % Abwehr für 2,0 Sekunden bei Start eines Angriffs</DefaultText>
+      <DefaultText>{0:value:percentbonus} Nahkampfschaden empfangen für {0:extravalue:duration} bei Start eines Angriffs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Gibt für {0:value:duration} nach dem Beginn des Angriffs {0:extravalue:percent} des empfangenen Nahkampf-Schadens an die Angreifer als reinen Schaden zurück.</DefaultText>
+      <DefaultText>Gibt für {0:value:duration} nach dem Beginn des Angriffs {0:extravalue:percent} des empfangenen Nahkampf-Schadens an die Angreifer als direkten Schaden zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1442,7 +1441,7 @@
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>+2 % Aktionsgeschwindigkeit bei einem Treffer im Nahkampf Verzehnfachung Hat eine Bewegung entfernt</DefaultText>
+      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit bei einem Treffer im Nahkampf ({0:triggercount}-mal stapelbar, wird bei Bewegung entfernt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1462,12 +1461,12 @@
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>{0:extravalue:percent} Chance, {0:value:percent} des Schadens von Gift-, Verfalls- oder Krankheitsangriffen in Gesundheit zu verwandeln</DefaultText>
+      <DefaultText>{0:extravalue:percent} Chance, {0:value:percent} des Schadens von Gift-, Verfalls- oder Krankheitsangriffen in Gesundheit zu verwandeln anstatt Schaden zu verursachen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer bei einem Angriff mit Aufschlitz-Schaden während eines Nahkampfs diesen Angriff zurückzuschlagen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem erlittenen Treffer mit Hiebschaden während eines Nahkampfs, diesen Angriff mit einem Hiebangriff auf den Gegner zu kontern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1487,12 +1486,12 @@
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Wirkungskreis eines reinen Schadens bei bewusstlosen Personen, allerdings nur feindlichen</DefaultText>
+      <DefaultText>Wirkungskreis eines direkten Schadens bei bewusstlosen Personen, allerdings nur feindlichen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>{0:value} Abwehr und {0:extravalue} Reflexe bis zum Kampfende beim Empfang eines Treffers, (vervielfacht sich {0:triggervalue:straight}-mal) </DefaultText>
+      <DefaultText>{0:value} Abwehr und {0:extravalue} Reflexe bis zum Kampfende beim Empfang eines Treffers, ({0:triggervalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1522,7 +1521,7 @@
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>{0:value:} Abwehr gegenüber Fernkampfwaffen (erhöht sich mit den Heimlichkeitsfähigkeiten)</DefaultText>
+      <DefaultText>{0:value:} Abwehr gegenüber Fernkampfwaffen (erhöht sich mit der Fertigkeit Heimlichkeit)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1537,22 +1536,22 @@
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>{0:value} Alle Verteidigungen (Erhöht sich, wenn der Träger an Gesundheit verliert)</DefaultText>
+      <DefaultText>{0:value} Alle Verteidigungen (Verringert sich, wenn der Träger an Gesundheit verliert)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText>3 Gesundheit pro 3,0 Sekunden für insgesamt 12,0 Sekunden bei kritischem Treffer Die Heilung erhöht sich, wenn der Träger an Gesundheit verliert.</DefaultText>
+      <DefaultText>3 Gesundheit alle 3,0 Sekunden für die Dauer von 12,0 Sekunden bei kritischem Treffer. Die Heilung erhöht sich, wenn der Träger an Gesundheit verliert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>317</ID>
-      <DefaultText>+3 Genauigkeit Erhöht sich, wenn der Träger an Gesundheit verliert</DefaultText>
+      <DefaultText>+3 Genauigkeit. Erhöht sich, wenn der Träger an Gesundheit verliert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>+1 Rüstungswert Erhöht sich, wenn der Träger an Gesundheit verliert. Maximal +3 Rüstungswert</DefaultText>
+      <DefaultText>+1 Rüstungswert. Erhöht sich, wenn der Träger an Gesundheit verliert. Maximal +3 Rüstungswert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1567,32 +1566,32 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Für einhändige Fortschritte {0:value:straight} {0:damagetype} Schaden pro {0:interval} für {0:extravalue:duration}</DefaultText>
+      <DefaultText>Einhändig bekommt {0:value:straight} {0:damagetype} Schaden alle {0:interval} für die Dauer von {0:extravalue:duration}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>Zweihändige Fortschritte geraten ins Taumeln für {0:extravalue:duration}</DefaultText>
+      <DefaultText>Zweihändig bekommt Taumeln für {0:extravalue:duration}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>Für Fernkampf-Fortschritte {0:value} Durchschlagskraft</DefaultText>
+      <DefaultText>Fernkampf bekommt {0:value} Durchschlagskraft</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>Zweihändige Fortschritte benommen gemacht für {0:extravalue:duration}</DefaultText>
+      <DefaultText>Zweihändig bekommt Benommen für {0:extravalue:duration}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>Für Fernkampf-Fortschritte {0:value} Durchschlagskraft und {0:extravalue:percentbonus} Bonus-Schaden</DefaultText>
+      <DefaultText>Fernkampf bekommt {0:value} Durchschlagskraft und {0:extravalue:percentbonus} Bonus-Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>{0:value} Gesundheit pro {0:interval}, wenn unter {0:extravalue:percent} Gesundheit</DefaultText>
+      <DefaultText>{0:value} Gesundheit alle {0:interval}, wenn unter {0:extravalue:percent} Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1607,7 +1606,7 @@
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>{0:value:percent} des verursachten Schadens wird pro {0:interval} für {0:extravalue:duration} zurückgeworfen</DefaultText>
+      <DefaultText>{0:value:percent} des verursachten Schadens wird alle {0:interval} für die Dauer von {0:extravalue:duration} zurückgeworfen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1617,7 +1616,7 @@
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>{0:value:percent} des verursachten Schadens wird beim Spieler selbst als reiner Schaden hervorgerufen</DefaultText>
+      <DefaultText>{0:value:percent} des verursachten Schadens wird beim Spieler selbst als direkter Schaden hervorgerufen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1647,7 +1646,7 @@
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>Gesundheit für denjenigen, der die Waffe führt, und reiner Schaden beim Ziel beim Empfang eines Treffers</DefaultText>
+      <DefaultText>Gesundheit für denjenigen, der die Waffe führt, und direkter Schaden beim Ziel beim Empfang eines Treffers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1657,7 +1656,7 @@
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>+10 % Schaden bei einem kritischen Treffer als Zersetzungsschaden bis zum Ende des Kampfes hinzugefügt Verzehnfachung</DefaultText>
+      <DefaultText>+10 % Schaden bei einem kritischen Treffer als Zersetzungsschaden bis zum Ende des Kampfes hinzugefügt. Der Effekt ist 10-mal stapelbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1687,17 +1686,17 @@
     </Entry>
     <Entry>
       <ID>346</ID>
-      <DefaultText>{0:value} Genauigkeit im Nahkampf für {0:interval} bis zum Ende des Kampfes. (Wirkung vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>{0:value} Genauigkeit im Nahkampf für {0:interval} bis zum Ende des Kampfes. ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>Weitere {0:value} Willen bis zum Ende des Kampfes bei kritischem Treffer. (Wirkung vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>Weitere {0:value} Willen bis zum Ende des Kampfes bei kritischem Treffer. ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>+1 Verfassung bei kritischem Treffer Verfünffachung</DefaultText>
+      <DefaultText>+1 Verfassung bei kritischem Treffer. Der Effekt ist fünfmal stapelbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1707,7 +1706,7 @@
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>{0:value:percentbonus} Erholungszeit (Wirkung vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Erholungszeit ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1717,7 +1716,7 @@
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>Gegenangriff auf Gegner starten, wenn dieser im Nahkampf einen Fehlschlag machte (macht das Ziel benommen)</DefaultText>
+      <DefaultText>Gegenangriff auf Gegner starten, wenn dieser im Nahkampf einen Fehlschlag machte (macht das Ziel Benommen)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1742,7 +1741,7 @@
     </Entry>
     <Entry>
       <ID>358</ID>
-      <DefaultText>{0:value} Feinde müssen flankiert werden</DefaultText>
+      <DefaultText>{0:value} Feinde für flankiert Effekt notwendig</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1792,12 +1791,12 @@
     </Entry>
     <Entry>
       <ID>377</ID>
-      <DefaultText>{0:value} Alle Verteidigungen gegen Pflanzenangriffe, solange die Gesundheit über 75 % liegt</DefaultText>
+      <DefaultText>{0:value} Alle Verteidigungen gegen Pflanzenangriffe, solange die Gesundheit über {0:extravalue:percent} liegt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>{0:value} alle Verteidigungen gegen Pflanzenangriffe, solange die Gesundheit über 50 % liegt</DefaultText>
+      <DefaultText>{0:value} alle Verteidigungen gegen Pflanzenangriffe, solange die Gesundheit über {0:extravalue:percent} liegt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1827,7 +1826,7 @@
     </Entry>
     <Entry>
       <ID>384</ID>
-      <DefaultText>{0:value:percent} des empfangenen Schadens wird als reiner Schaden zurückgegeben</DefaultText>
+      <DefaultText>{0:value:percent} des empfangenen Schadens wird als direkter Schaden zurückgegeben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1872,7 +1871,7 @@
     </Entry>
     <Entry>
       <ID>397</ID>
-      <DefaultText>{0:value:percent}</DefaultText>
+      <DefaultText>{0:value:percent} </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2107,7 +2106,7 @@
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>Kritische Treffer von Nahkampfwaffen lässt Angreifer verwirrt werden (verbessert sich bei kritischen Erfolgen zu Bezaubert)</DefaultText>
+      <DefaultText>Kritische Treffer von Nahkampfwaffen lässt Angreifer Verwirrt werden (verbessert sich bei kritischen Erfolgen zu Bezaubert)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2137,7 +2136,7 @@
     </Entry>
     <Entry>
       <ID>453</ID>
-      <DefaultText>Nach dem Töten eines Gegners mit der Waffe werden Gegner in der Nähe {0:value:duration} lang abgelenkt.</DefaultText>
+      <DefaultText>Nach dem Töten eines Gegners mit der Waffe werden Gegner in der Nähe {0:value:duration} lang Abgelenkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2147,7 +2146,7 @@
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>Fügt Feinden bei einem Treffer einen vervielfachenden Effekt zu. Bei einem kritischen Treffer verlieren alle Gegner im Wirkungsbereich sämtliche Vervielfältigungen und erleiden pro Vervielfältigung {0:extravalue} Schockschaden.</DefaultText>
+      <DefaultText>Fügt Feinden bei einem Treffer einen stapelbaren Effekt zu. Bei einem kritischen Treffer verlieren alle Gegner im Wirkungsbereich sämtliche Stapel und erleiden pro Stapel {0:extravalue} Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2162,7 +2161,7 @@
     </Entry>
     <Entry>
       <ID>458</ID>
-      <DefaultText>Gegner im Wirkungsradius werden für {0:extravalue:duration} desorientiert.</DefaultText>
+      <DefaultText>Gegner im Wirkungsradius werden für {0:extravalue:duration} Desorientiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2202,17 +2201,17 @@
     </Entry>
     <Entry>
       <ID>470</ID>
-      <DefaultText>{0:value} Abwehr für 45,0 Sekunden auf Ziel bei einem Treffer. Wirkung vervielfacht sich 5 Mal</DefaultText>
+      <DefaultText>{0:value} Abwehr für 45,0 Sekunden auf Ziel bei einem Treffer. Der Effekt ist fünfmal stapelbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>471</ID>
-      <DefaultText>{0:value:percentbonus} Erholungszeit auf Ziel bei einem Treffer. Wirkung vervielfacht sich 5 Mal</DefaultText>
+      <DefaultText>{0:value:percentbonus} Erholungszeit auf Ziel bei einem Treffer. Der Effekt ist fünfmal stapelbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit bei einem Treffer bis zum Ende des Kampfes. Wirkung vervielfacht sich bis zu 15 Mal</DefaultText>
+      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit bei einem Treffer bis zum Ende des Kampfes. Der Effekt ist bis 15-mal stapelbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2242,22 +2241,22 @@
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>{0:value} Abwehr. Erhöht sich mit der Athletik-Fertigkeit</DefaultText>
+      <DefaultText>{0:value} Abwehr (Erhöht sich mit der Fertigkeit Athletik)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>479</ID>
-      <DefaultText>{0:value} Alle Verteidigungen. Erhöht sich mit der Metaphysik-Fertigkeit</DefaultText>
+      <DefaultText>{0:value} Alle Verteidigungen. Erhöht sich mit der Fertigkeit Metaphysik</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>480</ID>
-      <DefaultText>{0:Value:PercentBonus} durch Zauber erlittener Schaden. Der Bonus erhöht sich mit der Metaphysik-Fertigkeit</DefaultText>
+      <DefaultText>{0:value:percentbonus} durch Zauber erlittener Schaden. Der Bonus erhöht sich mit der Fertigkeit Metaphysik</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>481</ID>
-      <DefaultText>{0:Value:PercentBonus} von allen Quellen erlittener Schaden. Der Bonus erhöht sich mit der Metaphysik-Fertigkeit</DefaultText>
+      <DefaultText>{0:value:percentbonus} von allen Quellen erlittener Schaden. Der Bonus erhöht sich mit der Fertigkeit Metaphysik</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2267,7 +2266,7 @@
     </Entry>
     <Entry>
       <ID>483</ID>
-      <DefaultText>{0:Value} Rüstungswert. Rüstung geht durch Treffer verloren, regeneriert sich jedoch wieder</DefaultText>
+      <DefaultText>{0:value} Rüstungswert. Rüstung geht durch Treffer verloren, regeneriert sich jedoch wieder</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2307,7 +2306,7 @@
     </Entry>
     <Entry>
       <ID>491</ID>
-      <DefaultText>{0:value:percentbonus} Erholungszeit auf Angreifer (Wirkung vervielfacht sich {0:extravalue:straight} Mal)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Erholungszeit auf Angreifer ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2327,7 +2326,7 @@
     </Entry>
     <Entry>
       <ID>497</ID>
-      <DefaultText>{0:value:percentbonus} Genauigkeit für den ersten Angriff im Kampf</DefaultText>
+      <DefaultText>{0:value} Genauigkeit für den ersten Angriff im Kampf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2352,12 +2351,12 @@
     </Entry>
     <Entry>
       <ID>502</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer auf ein weibliches Ziel Raserei auf sich selbst zu wirken</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer auf ein weibliches Ziel &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Raserei&lt;/link&gt; auf sich selbst zu wirken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>503</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer auf ein männliches Ziel Raserei auf sich selbst zu wirken</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer auf ein männliches Ziel &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Raserei&lt;/link&gt; auf sich selbst zu wirken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2387,7 +2386,7 @@
     </Entry>
     <Entry>
       <ID>509</ID>
-      <DefaultText>{0:value} Gesundheit (erhöht sich mit der Diplomatie-Fertigkeit)</DefaultText>
+      <DefaultText>{0:value} Gesundheit (erhöht sich mit der Fertigkeit Diplomatie)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2397,7 +2396,7 @@
     </Entry>
     <Entry>
       <ID>512</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer für {0:extravalue:duration} fit auf sich selbst zu wirken</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer für {0:extravalue:duration} Fit auf sich selbst zu wirken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2487,7 +2486,7 @@
     </Entry>
     <Entry>
       <ID>544</ID>
-      <DefaultText>{0:value} Abwehr wenn Verbündete in der Nähe sind</DefaultText>
+      <DefaultText>{0:value} Abwehr, wenn Verbündete in der Nähe sind</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2522,12 +2521,12 @@
     </Entry>
     <Entry>
       <ID>551</ID>
-      <DefaultText>20 % Chance auf einen zusätzlichen Brandschaden bei Treffer</DefaultText>
+      <DefaultText>20 % Chance auf zusätzlichen Brandschaden bei Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>552</ID>
-      <DefaultText>20 % Chance auf einen zusätzlichen Brandschaden im Wirkungsradius bei Treffer</DefaultText>
+      <DefaultText>20 % Chance auf zusätzlichen Brandschaden im Wirkungsradius bei Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
