@@ -824,7 +824,7 @@ class Entry {
 			"(Verwirrt)(e|\\b)", "(Bezaubert)(er|e|\\b)", "(Beherrscht)(e|\\b)",
 			// Macht
 			"(Stark(e)?)", "(Hartnäckig(e)?)", "(Munter(e)?)",
-			"(Taumelnd)(e|\\b)", "([^(]Benommen)(e|\\b)", "(Betäubt)(e|\\b)",
+			"(Taumeln)(de|d|\\b)", "([^(]Benommen)(e|\\b)", "(Betäubt)(e|\\b)",
 			// Wahrnehmung
 			"(Einsichtig(e)?)", "(Aufmerksam(e)?)", "(Intuitiv(e)?)",
 			"(Abgelenkt)(er|e|\\b)", "(Desorientiert)(e|\\b)", "(G?e?blende)(te|t|n[^d])"
