@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3269</EntryCount>
+  <EntryCount>3274</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -16736,6 +16736,31 @@ Keine.</DefaultText>
     <Entry>
       <ID>4714</ID>
       <DefaultText>Weißblatt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4752</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4753</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4754</ID>
+      <DefaultText>Gegengift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4755</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4756</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
