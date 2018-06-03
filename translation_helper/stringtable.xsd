@@ -24,7 +24,7 @@
     </xsd:complexType>
 	<xsd:unique name="ids_sind_unique">
 		<xsd:selector xpath="Entries/Entry"/>
-		<xsd:field xpath="@ID"/>
+		<xsd:field xpath="ID"/>
 	</xsd:unique>
   </xsd:element>
 </xsd:schema>
