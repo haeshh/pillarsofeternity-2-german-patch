@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} benommen zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} Benommen zu machen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} benommen zu machen, wenn derjenige, der die Waffe führt, ein Zwerg ist</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} Benommen zu machen, wenn derjenige, der die Waffe führt, ein Zwerg ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer benommen zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer Benommen zu verursachen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +266,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Chance, das Ziel bei einem kritischen Treffer benommen zu machen und niederzustrecken.</DefaultText>
+      <DefaultText>Chance, das Ziel bei einem kritischen Treffer Benommen zu machen und niederzustrecken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,7 +776,7 @@
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>Chance, bei einem kritischen Treffer das Ziel und alle Feinde in der Nähe benommen zu machen</DefaultText>
+      <DefaultText>Chance, bei einem kritischen Treffer das Ziel und alle Feinde in der Nähe Benommen zu machen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -796,12 +796,12 @@
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer benommen zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer Benommen zu machen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer benommen zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer Benommen zu machen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -896,7 +896,7 @@
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>{0:value:percent} Chance, einen Angriff zu starten, der das Ziel benommen macht, wenn beim Nahkampf verfehlt</DefaultText>
+      <DefaultText>{0:value:percent} Chance, einen Angriff zu starten, der das Ziel Benommen macht, wenn beim Nahkampf verfehlt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1181,7 +1181,7 @@
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>Chance, das Ziel bei einem Treffer für 10,0 Sekunden benommen zu machen und niederzustrecken</DefaultText>
+      <DefaultText>Chance, das Ziel bei einem Treffer für 10,0 Sekunden Benommen zu machen und niederzustrecken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1196,12 +1196,12 @@
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer zurückzuschlagen und benommen zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer zurückzuschlagen und Benommen zu machen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer bewegungsunfähig zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer Bewegungsunfähig zu machen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1256,7 +1256,7 @@
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>Das Ziel wird, wenn es abgelenkt ist, bei einem kritischen Treffer niedergestreckt</DefaultText>
+      <DefaultText>Das Ziel wird, wenn es Abgelenkt ist, bei einem kritischen Treffer niedergestreckt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1566,27 +1566,27 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Einhändig erwirbt {0:value:straight} {0:damagetype} Schaden alle {0:interval} für die Dauer von {0:extravalue:duration}</DefaultText>
+      <DefaultText>Einhändig bekommt {0:value:straight} {0:damagetype} Schaden alle {0:interval} für die Dauer von {0:extravalue:duration}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>Zweihändig erwibt Taumeln für {0:extravalue:duration}</DefaultText>
+      <DefaultText>Zweihändig bekommt Taumeln für {0:extravalue:duration}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>Fernkampf erwirbt {0:value} Durchschlagskraft</DefaultText>
+      <DefaultText>Fernkampf bekommt {0:value} Durchschlagskraft</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>Zweihändig erwirbt benommen für {0:extravalue:duration}</DefaultText>
+      <DefaultText>Zweihändig bekommt Benommen für {0:extravalue:duration}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>Fernkampf erwirbt {0:value} Durchschlagskraft und {0:extravalue:percentbonus} Bonus-Schaden</DefaultText>
+      <DefaultText>Fernkampf bekommt {0:value} Durchschlagskraft und {0:extravalue:percentbonus} Bonus-Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1716,7 +1716,7 @@
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>Gegenangriff auf Gegner starten, wenn dieser im Nahkampf einen Fehlschlag machte (macht das Ziel benommen)</DefaultText>
+      <DefaultText>Gegenangriff auf Gegner starten, wenn dieser im Nahkampf einen Fehlschlag machte (macht das Ziel Benommen)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2106,7 +2106,7 @@
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>Kritische Treffer von Nahkampfwaffen lässt Angreifer verwirrt werden (verbessert sich bei kritischen Erfolgen zu Bezaubert)</DefaultText>
+      <DefaultText>Kritische Treffer von Nahkampfwaffen lässt Angreifer Verwirrt werden (verbessert sich bei kritischen Erfolgen zu Bezaubert)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2136,7 +2136,7 @@
     </Entry>
     <Entry>
       <ID>453</ID>
-      <DefaultText>Nach dem Töten eines Gegners mit der Waffe werden Gegner in der Nähe {0:value:duration} lang abgelenkt.</DefaultText>
+      <DefaultText>Nach dem Töten eines Gegners mit der Waffe werden Gegner in der Nähe {0:value:duration} lang Abgelenkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2161,7 +2161,7 @@
     </Entry>
     <Entry>
       <ID>458</ID>
-      <DefaultText>Gegner im Wirkungsradius werden für {0:extravalue:duration} desorientiert.</DefaultText>
+      <DefaultText>Gegner im Wirkungsradius werden für {0:extravalue:duration} Desorientiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

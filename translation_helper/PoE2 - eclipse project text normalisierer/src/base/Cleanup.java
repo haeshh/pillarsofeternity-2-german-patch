@@ -1,15 +1,24 @@
 ﻿package base;
 
 
+import java.awt.GridLayout;
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.HashSet;
+import java.util.Iterator;
 import java.util.List;
+import java.util.ListIterator;
+import java.util.Map;
+import java.util.Set;
+import java.util.TreeMap;
+import java.util.TreeSet;
 import java.util.stream.Collectors;
 
+import javax.swing.JFrame;
 import javax.xml.XMLConstants;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
@@ -30,6 +39,8 @@ import org.xml.sax.SAXException;
 
 
 public class Cleanup {
+	
+	JFrame cleanupWindow;
 
 	public static void main(String[] args) throws JAXBException, SAXException, IOException {
 		File stringtableSchema = new File("C:\\Repositories\\pillarsofeternity-2-german-patch\\translation_helper\\stringtable.xsd");
@@ -40,10 +51,43 @@ public class Cleanup {
 		Unmarshaller jaxbUnmarshaller = jaxbContext.createUnmarshaller();
 		jaxbUnmarshaller.setSchema(schema);
 		
-	    Marshaller m = jaxbContext.createMarshaller();
-		m.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
+	    Marshaller marshaller = jaxbContext.createMarshaller();
+		marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
 		
 		List<Path> filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		filesInFolder.addAll(Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\laxa_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		
+		List<Path> compareFilesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		compareFilesInFolder.addAll(Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\laxa_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		
+		
+		List<Path> compareFilesENInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		compareFilesENInFolder.addAll(Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\laxa_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		
+		
+		//cleanupPart(jaxbUnmarshaller, marshaller, filesInFolder, compareFilesInFolder, compareFilesENInFolder);
+		
+		Cleanup cleanup = new Cleanup();
+		
+		List<Path> convertingBase = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\enhanced_ui_affliction_inspiration\\localized\\en\\text")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		
+		
+		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		cleanup.colorupdate(convertingBase, filesInFolder, "en2", jaxbUnmarshaller,marshaller);
+		
+		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		cleanup.colorupdate(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller,marshaller);
+		
+		//cleanup.cleanupWindow = new JFrame();
+	}
+	
+
+
+
+
+
+	private static void cleanupPart(Unmarshaller jaxbUnmarshaller, Marshaller m, List<Path> filesInFolder,
+			List<Path> compareFilesInFolder, List<Path> compareFilesENInFolder) throws JAXBException, IOException {
 		Pair<Long, Long> count = new Pair<>(0L,0L);
 		Pair<Long, Long> countPunkte = new Pair<>(0L,0L);
 		Pair<Long, Long> countLeerzeichen = new Pair<>(0L,0L);
@@ -53,8 +97,25 @@ public class Cleanup {
 		Pair<Long,Long> balance3 = new Pair<>(0L, 0L);
 		Pair<Long,Long> apostrophe = new Pair<>(0L, 0L);
 		Pair<Long,Long> bindestrich = new Pair<>(0L, 0L);
+		Pair<Long,Long> unwanted = new Pair<>(0L, 0L);
+		
+		Set<String> allTags = new TreeSet<>();
+		Set<Character> counter = new TreeSet<>();
+		Map<String, Integer> wordCount = new TreeMap<>();
+		ListIterator<Path> compareFilesIterator = compareFilesInFolder.listIterator();
+		ListIterator<Path> compareFilesENIterator = compareFilesENInFolder.listIterator();
 		for (Path path : filesInFolder) {
+			Path compareFile = compareFilesIterator.next();
+			Path compareENFile = compareFilesENIterator.next();
+			
 			StringTableFile stringtable = (StringTableFile) jaxbUnmarshaller.unmarshal( path.toFile() );
+	//		StringTableFile compareStringtable = (StringTableFile) jaxbUnmarshaller.unmarshal( compareFile.toFile() );
+	//		StringTableFile compareENStringtable = (StringTableFile) jaxbUnmarshaller.unmarshal( compareENFile.toFile() );
+	//		if(stringtable.getEntries().size() != compareStringtable.getEntries().size() || stringtable.getEntries().size() != compareENStringtable.getEntries().size()) {
+	//			System.out.println(compareFile.toString());
+	//			System.out.println(stringtable.getEntries().size() + " <-> " + compareStringtable.getEntries().size() + " <-> " + compareENStringtable.getEntries().size());
+	//		}
+			
 			
 			for(Entry entry : stringtable.getEntries())
 			{
@@ -93,9 +154,25 @@ public class Cleanup {
 				count2 = entry.cleanBindestrich();
 				bindestrich.a += count2.a;
 				
-		//		entry.DocuHelper();
-			}		
-		    
+				count2 = entry.unwanted();
+				unwanted.a += count2.a;
+				//		entry.DocuHelper();
+				
+				entry.compareTags2();
+				allTags.addAll(entry.tagViewHelper());
+				
+		//		counter.addAll(entry.counter());
+				
+		//		for (java.util.Map.Entry<String, Integer> elem : entry.wordCount().entrySet()) {
+				//	wordCount.merge(elem.getKey(), elem.getValue(), (x, y) -> x + y); 
+		//		}
+			}
+			
+/*			ListIterator<Entry> enIterator = compareENStringtable.getEntries().listIterator();
+			for(Entry entry : stringtable.getEntries())
+			{
+				entry.compareTags(enIterator.next());
+			}*/
 		    m.marshal(stringtable, path.toFile());
 			
 		    List<String> lines = Files.readAllLines(path, Charset.forName("UTF-8")); 
@@ -120,11 +197,65 @@ public class Cleanup {
 		System.out.println("< > 10 davon sind wirkliche größer als Zeichen, 38 Sprites, die keinen Endtag haben: " + balance2.b); 
 		System.out.println("„ “: " + balance3.a);
 		System.out.println("‚ ‘: " + balance3.b);
-		
+		System.out.println("Übrige ': " + unwanted.a);
 		System.out.println("Getauschte ': " + apostrophe.a);
 		System.out.println("Getauschte ‚‘ gegen „“: " + apostrophe.b);
 		System.out.println("Getauschte -: " + bindestrich.a);
+		
+		
+		System.out.println("Tags");
+		System.out.println(String.join("\n", allTags));
+		for (Character integer : counter) {
+			System.out.println(String.valueOf(integer));
+		}
+		
+		System.out.println("Wordcount ");
+		for (java.util.Map.Entry<String, Integer> word : wordCount.entrySet()) {
+			System.out.println(String.format("%05d %s", word.getValue(), word.getKey()));
+		}
 	}
 	
+	
+
+	private void colorupdate(List<Path> convertingBase, List<Path> orginalLanguage, String language, Unmarshaller jaxbUnmarshaller, Marshaller marshaller) throws JAXBException, IOException {
+		
+		
+		for (Path colorful : convertingBase) {
+			for (Path plain : orginalLanguage) {
+				if(colorful.getFileName().equals(plain.getFileName())) {
+					StringTableFile colorfulTexts = (StringTableFile) jaxbUnmarshaller.unmarshal( colorful.toFile() );
+					StringTableFile plainTexts = (StringTableFile) jaxbUnmarshaller.unmarshal( plain.toFile() );
+					StringTableFile outputFile = new StringTableFile();
+					outputFile.setName(plainTexts.getName());
+					outputFile.setNextEntryID(plainTexts.getNextEntryID());
+					outputFile.setEntryCount(plainTexts.getEntryCount());
+					
+					for(Entry colorfulEntry : colorfulTexts.getEntries())
+					{
+						for (Entry plainEntry : plainTexts.getEntries()) {
+							if(colorfulEntry.getID() == plainEntry.getID()) {
+								Entry coloredEntry = plainEntry.replaceAfflictionWithColor(language);
+								outputFile.getEntries().add(coloredEntry);
+							}
+						}
+					}
+					File file = new File("C:\\Repositories\\pillarsofeternity-2-german-patch\\enhanced_ui_affliction_inspiration\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
+					file.getParentFile().mkdirs();
+					file.createNewFile();
+					Path path = Paths.get(file.getPath());
+					marshaller.marshal(outputFile, file);
+					
+					List<String> lines = Files.readAllLines(path, Charset.forName("UTF-8")); 
+					lines.set(0, lines.get(0).replaceAll("encoding=\"UTF-8\" standalone=\\\"yes\\\"", "encoding=\"utf-8\""));
+					lines.set(1, lines.get(1).replaceAll("xmlns:xs=", "xmlns:xsd="));
+					List<String> modified = lines.stream().map(x -> {return x.replaceAll("    ", "  ").replaceFirst("<DefaultText></DefaultText>", "<DefaultText />").replaceFirst("<FemaleText></FemaleText>", "<FemaleText />");}).collect(Collectors.toList());
+					Files.write(path, modified);
+				}
+			}
+		}
+
+		
+		
+	}
 
 }

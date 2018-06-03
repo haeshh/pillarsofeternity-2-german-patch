@@ -244,7 +244,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Wahrnehmungs-Wirkung. Geblendete Charaktere leiden unter -5 Wahrnehmung, gelten als Flankiert, erhalten +50 % Erholung, -10 Genauigkeit und die Reichweite aller Fernkampfattacken wird halbiert. Geblendete Charaktere können keine Blick-Angriffe nutzen oder von ihnen beeinflusst werden.</DefaultText>
+      <DefaultText>Wahrnehmungswirkung: Geblendete Charaktere leiden unter -5 Wahrnehmung, gelten als Flankiert, erhalten +50 % Erholung, -10 Genauigkeit und die Reichweite aller Fernkampfattacken wird halbiert. Geblendete Charaktere können keine Blick-Angriffe nutzen oder von ihnen beeinflusst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -254,7 +254,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Intellekt-Wirkung. Ein Bezauberter Charakter kämpft für seine Gegner, verwendet dabei aber nur Standardangriffe und keine Fähigkeiten. -5 Intellekt</DefaultText>
+      <DefaultText>Intellektwirkung: Ein Bezauberter Charakter kämpft für seine Gegner, verwendet dabei aber nur Standardangriffe und keine Fähigkeiten. -5 Intellekt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -264,7 +264,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Intellekt-Wirkung. Verwirrte Charaktere erhalten -5 Intellekt und all ihre Angriffe und Fähigkeiten treffen sowohl Gegner als auch Verbündete.</DefaultText>
+      <DefaultText>Intellektwirkung: Verwirrte Charaktere erhalten -5 Intellekt und all ihre Angriffe und Fähigkeiten treffen sowohl Gegner als auch Verbündete.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -284,7 +284,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Intellekt-Wirkung. Beherrschte Charaktere unterliegen dem Willen des Gegners und werden alles tun, um gegen ihre einstigen Verbündeten zu kämpfen. -5 Intellekt.</DefaultText>
+      <DefaultText>Intellektwirkung: Beherrschte Charaktere unterliegen dem Willen des Gegners und werden alles tun, um gegen ihre einstigen Verbündeten zu kämpfen. -5 Intellekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -304,7 +304,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Entschlossenheits-Wirkungen Verängstigte Charaktere erhalten -5 Entschlossenheit, -3 Kraftstufe und können keine Zauber oder Fähigkeiten auf Gegner anwenden.</DefaultText>
+      <DefaultText>Entschlossenheitswirkung: Verängstigte Charaktere erhalten -5 Entschlossenheit, -3 Kraftstufe und können keine Zauber oder Fähigkeiten auf Gegner anwenden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -314,7 +314,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Gewandtheits-Wirkung. Humpelnde Charaktere erhalten -5 Gewandtheit und verringertes Vorwärtskommen.</DefaultText>
+      <DefaultText>Gewandtheitswirkung: Humpelnde Charaktere erhalten -5 Gewandtheit und verringertes Vorwärtskommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -324,7 +324,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Gewandtheits-Wirkung. Gelähmte Charaktere können keine Aktionen ausführen. Sie erhalten -5 Gewandtheit und 50 % aller Treffer gegen sie werden zu kritischen Treffern.</DefaultText>
+      <DefaultText>Gewandtheitswirkung: Gelähmte Charaktere können keine Aktionen ausführen. Sie erhalten -5 Gewandtheit und 50 % aller Treffer gegen sie werden zu kritischen Treffern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -354,7 +354,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Verfassungs-Wirkung Erkrankte Charaktere erhalten -5 Verfassung und jegliche erhaltene Heilung wird um 25 % verringert.</DefaultText>
+      <DefaultText>Verfassungswirkung: Erkrankte Charaktere erhalten -5 Verfassung und jegliche erhaltene Heilung wird um 25 % verringert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -364,7 +364,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Gewandtheits-Wirkung. Bewegungsunfähige Charaktere können sich nicht bewegen und erhalten -5 Gewandtheit.</DefaultText>
+      <DefaultText>Gewandtheitswirkung: Bewegungsunfähige Charaktere können sich nicht bewegen und erhalten -5 Gewandtheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -374,7 +374,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Macht-Wirkung. Betäubte Charaktere können keine Aktionen ausführen, nicht angreifen und erhalten einen Abzug auf jegliche Verteidigung, -4 Durchschlagskraft sowie -5 Macht.</DefaultText>
+      <DefaultText>Machtwirkung: Betäubte Charaktere können keine Aktionen ausführen, nicht angreifen und erhalten einen Abzug auf jegliche Verteidigung, -4 Durchschlagskraft sowie -5 Macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -384,7 +384,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Entschlossenheits-Wirkungen Geschockte Charaktere erhalten -5 Entschlossenheit, -3 Kraftstufe und können keine andere Aktion durchführen, als zu fliehen.</DefaultText>
+      <DefaultText>Entschlossenheitswirkung: Geschockte Charaktere erhalten -5 Entschlossenheit, -3 Kraftstufen und können keine andere Aktion durchführen, als zu fliehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -394,7 +394,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Verfassungs-Wirkung Geschwächte Charaktere erhalten -5 Verfassung und jegliche erhaltene Heilung wird halbiert.</DefaultText>
+      <DefaultText>Verfassungswirkung: Geschwächte Charaktere erhalten -5 Verfassung und jegliche erhaltene Heilung wird halbiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1333,7 +1333,7 @@ Die Wappen der Weißmark sind noch heute auf edlen Bronze– und Stahlstücken z
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Wahrnehmungs-Wirkung. Ein Abgelenkter Charakter hat -5 Wahrnehmung und gilt als Flankiert.</DefaultText>
+      <DefaultText>Wahrnehmungswirkung: Ein Abgelenkter Charakter hat -5 Wahrnehmung und gilt als Flankiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2243,7 +2243,7 @@ Es gibt unzählige Geschichten von Hunden, die so treu sind, dass sie noch bei i
     </Entry>
     <Entry>
       <ID>533</ID>
-      <DefaultText>Entschlossenheitswirkungen Ein erschütterter Charakter leidet unter -5 Entschlossenheit und -3 Kraftstufe.</DefaultText>
+      <DefaultText>Entschlossenheitswirkung: Ein erschütterter Charakter leidet unter -5 Entschlossenheit und -3 Kraftstufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2538,7 +2538,7 @@ Es gibt unzählige Geschichten von Hunden, die so treu sind, dass sie noch bei i
     </Entry>
     <Entry>
       <ID>594</ID>
-      <DefaultText>Verzauberer konzentrieren sich auf Magie, die Gegner blendet oder verwirrt, können aber keine Illusions- oder Transmutationszauber wirken.</DefaultText>
+      <DefaultText>Verzauberer konzentrieren sich auf Magie, die Gegner blendet oder Verwirrt, können aber keine Illusions- oder Transmutationszauber wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2959,7 +2959,7 @@ Das Schloss fiel dir quasi in den Schoß, nachdem du seinen vorherigen Besitzer,
     </Entry>
     <Entry>
       <ID>679</ID>
-      <DefaultText>Verfassungs-Wirkung. Entkräftete Charaktere erhalten -5 Verfassung, können nicht geheilt werden und jegliche gegnerischen Effekte wirken 50 % länger auf ihnen.</DefaultText>
+      <DefaultText>Verfassungswirkung: Entkräftete Charaktere erhalten -5 Verfassung, können nicht geheilt werden und jegliche gegnerischen Effekte wirken 50 % länger auf ihnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2969,7 +2969,7 @@ Das Schloss fiel dir quasi in den Schoß, nachdem du seinen vorherigen Besitzer,
     </Entry>
     <Entry>
       <ID>681</ID>
-      <DefaultText>Wahrnehmungs-Wirkung. Desorientierte Charaktere erhalten -5 Wahrnehmung, gelten als Flankiert und erhalten +50 % Erholung nach ihren Aktionen.</DefaultText>
+      <DefaultText>Wahrnehmungswirkung: Desorientierte Charaktere erhalten -5 Wahrnehmung, gelten als Flankiert und erhalten +50 % Erholung nach ihren Aktionen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2979,7 +2979,7 @@ Das Schloss fiel dir quasi in den Schoß, nachdem du seinen vorherigen Besitzer,
     </Entry>
     <Entry>
       <ID>683</ID>
-      <DefaultText>Macht-Wirkung. Taumelnde Charaktere erhalten -5 Macht und können Gegner nicht angreifen.</DefaultText>
+      <DefaultText>Machtwirkung: Taumelnde Charaktere erhalten -5 Macht und können Gegner nicht angreifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2994,7 +2994,7 @@ Das Schloss fiel dir quasi in den Schoß, nachdem du seinen vorherigen Besitzer,
     </Entry>
     <Entry>
       <ID>686</ID>
-      <DefaultText>Gewandtheits-Wirkungen</DefaultText>
+      <DefaultText>Gewandtheitswirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3016,7 +3016,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>690</ID>
-      <DefaultText>Macht-Wirkungen</DefaultText>
+      <DefaultText>Machtwirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3131,7 +3131,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>713</ID>
-      <DefaultText>Machtinspiration. Starke Charaktere verfügen über +5 Macht.</DefaultText>
+      <DefaultText>Machtinspiration: Starke Charaktere verfügen über +5 Macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3141,7 +3141,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>715</ID>
-      <DefaultText>Machtinspiration. Hartnäckige Charaktere verfügen über +5 Macht und erhalten +2 Durchschlagskraft.</DefaultText>
+      <DefaultText>Machtinspiration: Hartnäckige Charaktere verfügen über +5 Macht und erhalten +2 Durchschlagskraft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3151,7 +3151,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>717</ID>
-      <DefaultText>Machtinspiration. Muntere Charaktere verfügen über +5 Macht, erhalten +2 Durchschlagskraft und unterbrechen Gegner mit kritischen Treffern.</DefaultText>
+      <DefaultText>Machtinspiration: Muntere Charaktere verfügen über +5 Macht, erhalten +2 Durchschlagskraft und unterbrechen Gegner mit kritischen Treffern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3161,7 +3161,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>719</ID>
-      <DefaultText>Verfassungsinspiration. Fitte Charaktere verfügen über +5 Verfassung.</DefaultText>
+      <DefaultText>Verfassungsinspiration: Fitte Charaktere verfügen über +5 Verfassung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3171,7 +3171,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>721</ID>
-      <DefaultText>Verfassungsinspiration. Zähe Charaktere verfügen über +5 Verfassung und erhalten +2 Rüstungswert.</DefaultText>
+      <DefaultText>Verfassungsinspiration: Zähe Charaktere verfügen über +5 Verfassung und erhalten +2 Rüstungswert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3181,7 +3181,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>723</ID>
-      <DefaultText>Verfassungsinspiration. Robuste Charaktere verfügen über +5 Verfassung, erhalten +2 Rüstungswert und stellen regelmäßig Gesundheit wieder her.</DefaultText>
+      <DefaultText>Verfassungsinspiration: Robuste Charaktere verfügen über +5 Verfassung, erhalten +2 Rüstungswert und stellen regelmäßig Gesundheit wieder her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3191,7 +3191,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>725</ID>
-      <DefaultText>Gewandtheitsinspiration. Schnelle Charaktere verfügen über +5 Gewandtheit.</DefaultText>
+      <DefaultText>Gewandtheitsinspiration: Schnelle Charaktere verfügen über +5 Gewandtheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3201,7 +3201,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>727</ID>
-      <DefaultText>Gewandtheitsinspiration. Flinke Charaktere verfügen über +5 Gewandtheit und erhalten +100 % Vorwärtskommen.</DefaultText>
+      <DefaultText>Gewandtheitsinspiration: Flinke Charaktere verfügen über +5 Gewandtheit und erhalten +100 % Vorwärtskommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3211,7 +3211,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>729</ID>
-      <DefaultText>Gewandtheitsinspiration. Schwungvolle Charaktere verfügen über +5 Gewandtheit und können nicht von Gegnern angegriffen werden.</DefaultText>
+      <DefaultText>Gewandtheitsinspiration: Schwungvolle Charaktere verfügen über +5 Gewandtheit und können nicht von Gegnern angegriffen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3221,7 +3221,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>731</ID>
-      <DefaultText>Wahrnehmungsinspiration. Einsichtige Charaktere verfügen über +5 Wahrnehmung.</DefaultText>
+      <DefaultText>Wahrnehmungsinspiration: Einsichtige Charaktere verfügen über +5 Wahrnehmung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3231,7 +3231,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>733</ID>
-      <DefaultText>Wahrnehmungsinspiration. Aufmerksame Charaktere verfügen über +5 Wahrnehmung und 50 % ihrer Streiftreffer werden zu Treffern.</DefaultText>
+      <DefaultText>Wahrnehmungsinspiration: Aufmerksame Charaktere verfügen über +5 Wahrnehmung und 50 % ihrer leichten Treffer werden zu Treffern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3241,7 +3241,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>735</ID>
-      <DefaultText>Wahrnehmungsinspiration. Intuitive Charaktere verfügen über +5 Wahrnehmung, 50 % ihrer Streiftreffer werden zu Treffern und 25 % ihrer Treffer werden zu kritischen Treffern.</DefaultText>
+      <DefaultText>Wahrnehmungsinspiration: Intuitive Charaktere verfügen über +5 Wahrnehmung, 50 % ihrer leichten Treffer werden zu Treffern und 25 % ihrer Treffer werden zu kritischen Treffern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3251,7 +3251,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>737</ID>
-      <DefaultText>Intellektinspiration Kluge Charaktere verfügen über +5 Intellekt.</DefaultText>
+      <DefaultText>Intellektinspiration: Kluge Charaktere verfügen über +5 Intellekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3261,7 +3261,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>739</ID>
-      <DefaultText>Intellektinspiration. Scharfsinnige Charaktere verfügen über +5 Intellekt und ihre Fähigkeiten und Zauber über +1 Kraftstufe.</DefaultText>
+      <DefaultText>Intellektinspiration: Scharfsinnige Charaktere verfügen über +5 Intellekt und ihre Fähigkeiten und Zauber über +1 Kraftstufe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3271,17 +3271,17 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>741</ID>
-      <DefaultText>Intellektinspiration. Brillante Charaktere verfügen über +5 Intellekt, ihre Fähigkeiten und Zauber über +1 Kraftstufe und sie stellen regelmäßig Klassenressourcen wieder her.</DefaultText>
+      <DefaultText>Intellektinspiration: Brillante Charaktere verfügen über +5 Intellekt, ihre Fähigkeiten und Zauber über +1 Kraftstufe und sie stellen regelmäßig Klassenressourcen wieder her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>742</ID>
-      <DefaultText>Standfest</DefaultText>
+      <DefaultText>Standhaft</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>743</ID>
-      <DefaultText>Entschlossenheitsinspiration. Standfeste Charaktere verfügen über +5 Entschlossenheit.</DefaultText>
+      <DefaultText>Entschlossenheitsinspiration: Standhafte Charaktere verfügen über +5 Entschlossenheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3291,7 +3291,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>745</ID>
-      <DefaultText>Entschlossenheitsinspiration. Resolute Charaktere verfügen über +5 Entschlossenheit und erhalten regelmäßig Konzentration.</DefaultText>
+      <DefaultText>Entschlossenheitsinspiration: Resolute Charaktere verfügen über +5 Entschlossenheit und erhalten regelmäßig Konzentration.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3301,7 +3301,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>747</ID>
-      <DefaultText>Entschlossenheitsinspiration. Mutige Charaktere verfügen über +5 Entschlossenheit und sind immun gegenüber Unterbrechungen.</DefaultText>
+      <DefaultText>Entschlossenheitsinspiration: Mutige Charaktere verfügen über +5 Entschlossenheit und sind immun gegenüber Unterbrechungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
