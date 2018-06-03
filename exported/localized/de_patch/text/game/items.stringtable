@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2824</EntryCount>
+  <EntryCount>2827</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2409,9 +2409,9 @@ Von der Hüfte aufwärts ähnelt der Polpovir auf den ersten Blick einem Mensche
 
 Man stelle sich einen Seemann vor, der des Nachts an Deck seines Schiffes steht und über das schwarze Wasser blickt … als plötzlich unzählige Lichter unter der Wasseroberfläche erscheinen und zu ihm aufsteigen, als der Polpovir-Schwarm sich aus dem Wasser erhebt.
 
-Da der Polpovir mehr Oktopus als Mensch zu sein scheint, kann er sich einrollen, wodurch er an Orte gelangen kann, an die kein Mensch je gelangen könnte. Der kleinste Riss im Rumpf, der kleinste Spalt zwischen Bohlen bietet ihnen Zugang. Es ist nicht ungewöhnlich, dass sie eine ganze Besatzung vom Laderaum bis zum Deck hin abschlachten, indem sie das Schiff von unten infiltrieren. 
+Da der Polpovir mehr Oktopus als Mensch zu sein scheint, kann er sich einrollen, wodurch er an Orte gelangen kann, an die kein Mensch je gelangen könnte. Sie können durch den kleinsten Riss im Rumpf, den kleinsten Spalt zwischen den Planken eindringen und eine gesamte Besatzung vom Laderaum bis zum Deck dahinmetzeln. 
 
-Glücklicherweise scheinen sie sich nicht allzu weit außerhalb des Archipels ausgebreitet zu haben, aber es kann ein Tag kommen, an dem Polpovir-Angriffe alltäglich werden.</DefaultText>
+Glücklicherweise scheinen sie sich bislang nicht zu weit jenseits des Archipels verbreitet zu haben. Allerdings kann der Tag kommen, an dem Polpovir-Angriffe alltäglich werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2890,7 +2890,7 @@ Und werden es ewiglich sein.
 Nichts kann uns mehr trennen.
 Doch, sieh!
 Wie dunkel wird es nur? Wo ist die Sonne denn geblieben?
-Wo bist du? Ich sehe ich dich nicht.
+Wo bist du? Ich sehe dich nicht.
 Ich werde dich finden.
 Ich werde …
 
@@ -3384,7 +3384,7 @@ Retsim Namotatop</DefaultText>
       <ID>1711</ID>
       <DefaultText>Wie treffend, dass wir den Gott der Kreisläufe, Türen, Sterblichkeit und Unausweichlichkeit als Berath kennen, während die Vailianer eben jenen Gott als Cirono kennen. Denn Berath lehrt uns vor allem eins – das in allen Dingen Dualität besteht. Es liegt Leben im Tod, und Tod im Leben – erkenne und schätze diese Dualität und du ehrst Berath.
 
-In den Ruinen von Eir Glanfath wird Berath in Form von zwei halb skelettartigen Gestalten dargestellt – eine männlich, die andere weiblich: Bewnen i Ankew und Ankew i Bewnen, in der glanfathanischen Sprache wörtlich „Leben im Tod“ und ‚Tod im Leben‘. Männlich und weiblich, innen und außen, Leben und Tod – wenn wir an Berath denken, stellen wir ihn uns oft als die zwei Seiten einer Münzer vor, oder als die zwei Endpunkte einer Reise.
+In den Ruinen von Eir Glanfath wird Berath in Form von zwei halb skelettartigen Gestalten dargestellt – eine männlich, die andere weiblich: Bewnen i Ankew und Ankew i Bewnen, in der glanfathanischen Sprache wörtlich „Leben im Tod“ und ‚Tod im Leben‘. Männlich und weiblich, innen und außen, Leben und Tod – wenn wir an Berath denken, stellen wir ihn uns oft als die zwei Seiten einer Münze vor, oder als die zwei Endpunkte einer Reise.
 
 Es heißt, dass Berath von allen Göttern die meisten Bittsteller hat. Vermutlich ist es wahr, denn wer von uns hat noch nie darum gebetet, dass der Kreislauf stockt? Wer hat noch nie in einem Augenblick der Trauer Berath angeschrien, nur für einen geliebten Verstorbenen eine Ausnahme zu machen?
 
@@ -3849,7 +3849,7 @@ Mittwinter – Majivèrno“</DefaultText>
     </Entry>
     <Entry>
       <ID>2206</ID>
-      <DefaultText>Geißel der Natur</DefaultText>
+      <DefaultText>Gabe der Natur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6171,7 +6171,7 @@ Im Anschluss an diese Nachricht folgt eine detaillierte Beschreibung deines Schi
     </Entry>
     <Entry>
       <ID>3009</ID>
-      <DefaultText>Diese Weichtiere werden von Tauchern geerntet oder aus Salzwasserlagunen geholt. Sie werden gewöhnlich roh frisch aus der See gegessen, aber man kann sie auch backen oder braten. Gerüchten zufolge soll ihr Fleisch ein starkes Aphrodisiakum sein.</DefaultText>
+      <DefaultText>Diese Weichtiere werden von Tauchern geerntet oder aus Salzwasserlagunen geholt. Sie werden gewöhnlich roh und frisch aus der See gegessen, aber man kann sie auch backen oder braten. Gerüchten zufolge soll ihr Fleisch ein starkes Aphrodisiakum sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16930,6 +16930,21 @@ Wenn Sie Fragen oder Beschwerden zu meinem Dienst haben, wenden Sie sich bitte d
     <Entry>
       <ID>5384</ID>
       <DefaultText>Dieser Schlüssel fühlt sich besonders glatt an, die Kanten wurden präzise gearbeitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5445</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5446</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5447</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\recipes</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>583</EntryCount>
+  <EntryCount>584</EntryCount>
   <Entries>
     <Entry>
       <ID>6</ID>
@@ -1861,7 +1861,7 @@
     </Entry>
     <Entry>
       <ID>555</ID>
-      <DefaultText>Thermale Spiegelung</DefaultText>
+      <DefaultText>Thermale Reflexion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2917,6 +2917,11 @@
     <Entry>
       <ID>795</ID>
       <DefaultText>Fell und Zahn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>798</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

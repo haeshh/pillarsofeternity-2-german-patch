@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\tutorial</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>128</EntryCount>
+  <EntryCount>134</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -95,7 +95,7 @@ Da dein Wächter aber ein Priester oder Paladin ist, musst du trotzdem darauf ac
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Klicke auf die Auswahlkreise von freundlich gesinnten und neutralen Charakteren in der Welt, um einen Dialog mit ihnen zu beginnen. &lt;sprite="Inline" name="ico_talk" tint=1&gt;</DefaultText>
+      <DefaultText>Klicke auf die Auswahlkreise von freundlich gesinnten und neutralen Charakteren in der Welt, um einen Dialog mit ihnen zu beginnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -285,7 +285,7 @@ Unterbrechungen können durch Konzentration blockiert werden. Wenn ein Charakter
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Durch Auslösen einer Falle oder Niederstrecken während eines Kampfs wird dieser Charakter verletzt. Verletzungen bleiben bestehen, bis der Charakter während einer Ruhephase isst oder trinkt, oder wenn er in einem Gasthaus ruht. Drücke &lt;sprite="Inline" name="ico_rest" tint=1&gt;, um zu ruhen.</DefaultText>
+      <DefaultText>Durch Auslösen einer Falle oder Niederstrecken während eines Kampfs wird dieser Charakter verletzt. Verletzungen bleiben bestehen, bis der Charakter während einer Ruhephase isst oder trinkt oder in einer Schenke rastet. Klicke auf die &lt;sprite="Inline" name="ico_rest" tint=1&gt;-Schaltfläche in der unteren Bildschirmmitte oder drücke die [R]-Taste, um zu rasten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -349,7 +349,7 @@ Ein aktiver Gesang spielt automatisch jede einzelne Phrase in der vorgegebenen R
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Klicke auf &lt;sprite="Inline" name="ico_charsheet" tint=1&gt; oder die [C]-Taste, um den Charakterbogen anzuzeigen. Wähle den Reiter „Reputation“, um die Reputation anzuzeigen, die der Charakter in der Fraktion und der Gemeinschaft erworben hat.
+      <DefaultText>Klicke auf die &lt;sprite="Inline" name="ico_charsheet" tint=1&gt; -Schaltfläche in der unteren Bildschirmmitte oder drücke die [C]-Taste, um den Charakterbogen anzuzeigen. Wähle den Reiter „Reputation“, um die Reputation anzuzeigen, die der Charakter in der Fraktion und der Gemeinschaft erworben hat.
 
 Positive Reputation bei Fraktionen wird mit einem blauen Balken und negative Reputation mit einem roten Balken angezeigt.</DefaultText>
       <FemaleText />
@@ -718,6 +718,36 @@ Ob auf der Weltkarte oder während eines Kampfes – wenn ein Besatzungsmitglied
       <DefaultText>Bestimmte Angriffe und Fähigkeiten machen Geräusche, auf die NPCs reagieren können. Wachen werden dem Geräusch nachgehen und aktiv den Bereich patrouillieren, den sie bewachen sollen.
 
 Die explosiven Böller, die gefertigt werden können, bringen jeden NPC in Reichweite dazu, dem Geräusch nachzugehen. Dadurch kann sich für deine Charaktere die Chance ergeben, sich an Feinden vorbeizuschleichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

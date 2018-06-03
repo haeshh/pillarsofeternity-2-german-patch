@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1024</EntryCount>
+  <EntryCount>1028</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -851,7 +851,7 @@
     </Entry>
     <Entry>
       <ID>562</ID>
-      <DefaultText>Thermale Spiegelung</DefaultText>
+      <DefaultText>Thermale Reflexion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5122,6 +5122,26 @@
     <Entry>
       <ID>1583</ID>
       <DefaultText>Stille des Todes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1605</ID>
+      <DefaultText>Schleierdurchdringend</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1606</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1607</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1608</ID>
+      <DefaultText>Bugschott</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

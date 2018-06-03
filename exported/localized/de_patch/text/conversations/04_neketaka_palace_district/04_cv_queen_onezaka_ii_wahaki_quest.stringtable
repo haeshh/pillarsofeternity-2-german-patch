@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\04_neketaka_palace_district\04_cv_queen_onezaka_ii_wahaki_quest</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>75</EntryCount>
+  <EntryCount>76</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -411,6 +411,11 @@ Sie deutet auf die Treppe und nickt. Du bist entlassen.</DefaultText>
     <Entry>
       <ID>175</ID>
       <DefaultText>„Dann schreibe es halt auf, wenn es unbedingt sein muss. Hauptsache, du erinnerst dich daran, wenn der richtige Zeitpunkt gekommen ist. Die Wahaki sind nicht gerade vertrauensselig.“ Onekaza nickt und entlässt dich mit einer Handbewegung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

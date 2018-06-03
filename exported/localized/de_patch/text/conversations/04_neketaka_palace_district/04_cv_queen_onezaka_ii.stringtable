@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\04_neketaka_palace_district\04_cv_queen_onezaka_ii</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>372</EntryCount>
+  <EntryCount>377</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -2061,6 +2061,31 @@ Sie schüttelt den Kopf und hebt langsam den Blick, sieht dich an.</DefaultText>
       <ID>662</ID>
       <DefaultText>„Ich hätte dein Schiff versenken sollen, bevor du in unserem Hafen anlegen konntest.“ Onekaza atmet scharf durch die Nase aus.</DefaultText>
       <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>„Du legst Zeugnis über das Werk der Götter ab. Anscheinend sind sie mit dir noch lange nicht fertig.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>„Verliere keine Zeit, Wächter. Mairus Schweigen beunruhigt mich.“</DefaultText>
+      <FemaleText>„Verliere keine Zeit, Wächterin. Mairus Schweigen beunruhigt mich.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>„Ekera, ekera.“ Sie seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>„Verliere keine Zeit, Wächter. Mairus Schweigen beunruhigt mich.“</DefaultText>
+      <FemaleText>„Verliere keine Zeit, Wächterin. Mairus Schweigen beunruhigt mich.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

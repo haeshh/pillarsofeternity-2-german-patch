@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\04_neketaka_palace_district\04_cv_backer_npc_granis</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>34</EntryCount>
+  <EntryCount>36</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -192,6 +192,16 @@ Er räuspert sich laut und vernehmlich.</DefaultText>
     <Entry>
       <ID>46</ID>
       <DefaultText>[Überleben und Athletik verbessern] „Bitte schön.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>„Ich habe es mir anders überlegt. Ich komme später wieder.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
