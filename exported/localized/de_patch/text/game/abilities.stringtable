@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3269</EntryCount>
+  <EntryCount>3274</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -2451,7 +2451,7 @@
     </Entry>
     <Entry>
       <ID>729</ID>
-      <DefaultText>Zerstörerischer Schlag</DefaultText>
+      <DefaultText>Verheerender Schlag</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2481,7 +2481,7 @@
     </Entry>
     <Entry>
       <ID>791</ID>
-      <DefaultText>Steigert die Schadensreduktion aller Verbündeten im Wirkungsbereich gegen Hieb- und Elektroschockschaden.</DefaultText>
+      <DefaultText>Steigert den Rüstungswert aller Verbündeten im Wirkungsbereich gegen Hieb- und Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2496,7 +2496,7 @@
     </Entry>
     <Entry>
       <ID>794</ID>
-      <DefaultText>Entzieht der Umgebung elektrostatische Energie, um drei Blitze zu erzeugen, die allen in ihrem Weg Elektroschockschaden zufügen.</DefaultText>
+      <DefaultText>Entzieht der Umgebung elektrostatische Energie, um drei Blitze zu erzeugen, die allen in ihrem Weg Schockschaden zufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2516,7 +2516,7 @@
     </Entry>
     <Entry>
       <ID>800</ID>
-      <DefaultText>Verringert die Dauer von und die Verteidigung gegen Verängstigt- und Verschreckt-Effekten bei allen Verbündeten im Wirkungsbereich.</DefaultText>
+      <DefaultText>Gewährt Widerstand gegen Entschlossenheits- und Verfassungswirkungen für alle Verbündete im Wirkungsbereich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2541,7 +2541,7 @@
     </Entry>
     <Entry>
       <ID>805</ID>
-      <DefaultText>Häuft verstreute Seelenfragmente an, um zwei &lt;g&gt;Irrlichter&lt;/g&gt; zu schaffen, die für die Gruppe kämpfen.</DefaultText>
+      <DefaultText>Häuft verstreute Seelenfragmente an, um zwei &lt;g&gt;Irrlichter&lt;/g&gt; zu formen, die für die Gruppe kämpfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2586,7 +2586,7 @@
     </Entry>
     <Entry>
       <ID>814</ID>
-      <DefaultText>Belebt Verbündete im Wirkungsbereich mit einem geringen Teil ihrer Ausdauer wieder.</DefaultText>
+      <DefaultText>Belebt Verbündete im Wirkungsbereich mit einem geringen Teil ihrer Gesundheit wieder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2626,7 +2626,7 @@
     </Entry>
     <Entry>
       <ID>822</ID>
-      <DefaultText>Erzeugt schnell einen explosiven Flammenblitz, der jedem im Wirkungsbereich Brandschaden zufügt. Kurze Zauberdauer.</DefaultText>
+      <DefaultText>Erzeugt schnell einen explosiven Flammenblitz, der jedem im Wirkungsbereich Brandschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2646,12 +2646,12 @@
     </Entry>
     <Entry>
       <ID>826</ID>
-      <DefaultText>Die Nahkampfwaffe des Zauberwirkers wird zu einem idealen Jagdinstrument, durch das seine Angriffe kontinuierlichen Wundschaden verursachen und die Ausdauer des Zauberwirkers mit jedem Schlag wiederhergestellt wird.</DefaultText>
+      <DefaultText>Die Nahkampfwaffe des Zauberwirkers wird zu einem idealen Jagdinstrument, durch das seine Angriffe kontinuierlichen direkten Schaden verursachen und die Gesundheit des Zauberwirkers mit jedem Schlag wiederhergestellt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>827</ID>
-      <DefaultText>Erzeugt eine dicke Rindenschicht über Verbündeten im Wirkungsbereich, wodurch diese einen Bonus auf ihre Schadensreduktion gegen Stich-, Brand- und Elektroschockschaden erhalten.</DefaultText>
+      <DefaultText>Erzeugt eine dicke Rindenschicht über Verbündeten im Wirkungsbereich, wodurch diese einen Bonus auf ihren Rüstungswert gegen Stich-, Brand- und Schockschaden erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2666,7 +2666,7 @@
     </Entry>
     <Entry>
       <ID>830</ID>
-      <DefaultText>Erzeugt einen mächtigen Sturm, der einen einzelnen Feind im Wirkungsbereich regelmäßig mit Blitzen trifft, ihn damit Betäubt und Schockschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen mächtigen Sturm, der einen einzelnen Feind im Wirkungsbereich regelmäßig mit Blitzen trifft, wodurch er Betäubt wird und Schockschaden erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3321,7 +3321,7 @@
     </Entry>
     <Entry>
       <ID>1041</ID>
-      <DefaultText>Der Charakter greift aus einer Verteidigungshaltung heraus an und achtet darauf, niemals seine Schwachstellen ungedeckt zu lassen. Er wird mit einem Geschwindigkeitsmalus belegt, erhöht jedoch seine Abwehr.</DefaultText>
+      <DefaultText>Kämpfe im „Mann gegen Mann“-Stil und benutze deine Klinge, um die Rüstung auf Kosten einer geringeren Abwehr effektiver zu durchdringen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3361,17 +3361,17 @@
     </Entry>
     <Entry>
       <ID>1052</ID>
-      <DefaultText>Wenn der Barbar nicht mehr als Verletzt ist, wird er widerstandsfähig gegenüber Körper-Wirkung.</DefaultText>
+      <DefaultText>Im Status Verletzt oder besser erhält der Barbar Widerstand gegen Wirkungen auf den Körper.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1053</ID>
-      <DefaultText>Brutales Umreißen</DefaultText>
+      <DefaultText>Brutales Umstoßen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1054</ID>
-      <DefaultText>(Brutales Umreißen) – Gewährt dem Angriff einen großen Bonus auf Durchschlagskraft.</DefaultText>
+      <DefaultText>(Brutales Umstoßen) – Verleiht dem Angriff deutlich höhere Durchschlagskraft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3566,7 +3566,7 @@
     </Entry>
     <Entry>
       <ID>1143</ID>
-      <DefaultText>Opfert Fernkampf-Angriffsgeschwindigkeit gegen eine erhöhte Schadensreduktion.</DefaultText>
+      <DefaultText>Opfert Fernkampf-Angriffsgeschwindigkeit zugunsten erhöhter Rüstungsdurchdringung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3931,7 +3931,7 @@
     </Entry>
     <Entry>
       <ID>1408</ID>
-      <DefaultText>Geißel der Natur</DefaultText>
+      <DefaultText>Gabe der Natur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4126,7 +4126,7 @@
     </Entry>
     <Entry>
       <ID>1477</ID>
-      <DefaultText>Dieser Zauber beschwört einen mächtigen Kampfstab, der Abwehr hinzufügt und Feinde bei jedem erfolgreichen Angriff mit einem Humpelnd-Effekt fortschubst. Die Beschwörung selbst schubst ebenfalls jeden (auch Verbündete) aus der Nähe des Zauberwirkers fort.</DefaultText>
+      <DefaultText>Dieser Zauber beschwört einen mächtigen Kampfstab, der Abwehr hinzufügt und Feinde bei jedem erfolgreichen Angriff mit einem Humpelnd-Effekt wegstößt. Die Beschwörung selbst stößt ebenfalls jeden (auch Verbündete) aus der Nähe des Zauberwirkers fort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4711,12 +4711,12 @@
     </Entry>
     <Entry>
       <ID>1801</ID>
-      <DefaultText>Vorbereitungskombination</DefaultText>
+      <DefaultText>Umreißen-Kombination</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1802</ID>
-      <DefaultText>(Vorbereitungskombination) – Der nächste Angriff auf das Ziel wirkt stark erhöhten Schaden.</DefaultText>
+      <DefaultText>(Umreißen-Kombination) – Der nächste Angriff auf das Ziel wirkt stark erhöhten Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6708,12 +6708,12 @@ Erhält nur einen einzigen Schwerpunkt und keine neuen beim Stufenaufstieg.</Def
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Alle Drogeneffekte haben eine verlängerte Wirkungsdauer.
 
-Erzeugt Wunden solange man den Bonus von Drogen erhält.
+Erzeugt Wunden, solange man den Bonus von Drogen erhält.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Abzüge, die durch den Absturz von Drogen entstehen, machen es dem Mönch unmöglich, geheilt zu werden.
 
-Wunden gehen verloren, wenn man keine Vorteile von Drogen erhält.</DefaultText>
+Wunden zersetzen sich, wenn man keine Vorteile von Drogen erhält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6736,7 +6736,7 @@ Wunden gehen verloren, wenn man keine Vorteile von Drogen erhält.</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Beginne den Kampf mit mehr Wunden.
 
-Höllenläufer-Mönche erwerben mit jeder Wunde, die ihnen zugefügt wird, mehr Macht.
+Höllenläufer-Mönche erhalten mit jeder Wunde, die ihnen zugefügt wird, Macht.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Höllenläufer-Mönche erleiden mehr Schaden mit jeder Wunde, die ihnen zugefügt wird.</DefaultText>
@@ -7922,7 +7922,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2507</ID>
-      <DefaultText>Von oben fällt eine Explosion göttlichen Lichtes um den Paladin herum herab. Das Licht heilt alle Verbündeten in der Nähe und verbrennt die Gefäße des und Geister Feindes, mit enormem Schaden.</DefaultText>
+      <DefaultText>Von oben fällt eine Explosion göttlichen Lichtes um den Paladin herum herab. Das Licht heilt alle Verbündeten in der Nähe und verbrennt die Gefäße und Geister des Feindes, mit enormem Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9573,7 +9573,7 @@ Max. Wundlimit ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2850</ID>
-      <DefaultText>Llengraths Spiegelung</DefaultText>
+      <DefaultText>Llengraths Reflexion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15528,7 +15528,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4386</ID>
-      <DefaultText>Während Grog dir folgt, erhältst du einen Bonus auf Entschlossenheit. Außerdem kann die Gruppe nicht angreifen und ist Angriffen gegenüber immun. Außerdem stirbt jedes Gruppenmitglied, das bewusstlos wird.</DefaultText>
+      <DefaultText>Während Grog dir folgt, erhältst du einen Bonus auf Entschlossenheit. Zusätzlich kann die Gruppe keine Angriffsbindungen eingehen und ist Angriffsbindungen gegenüber immun. Außerdem stirbt jedes Gruppenmitglied, das bewusstlos wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16736,6 +16736,31 @@ Keine.</DefaultText>
     <Entry>
       <ID>4714</ID>
       <DefaultText>Weißblatt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4752</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4753</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4754</ID>
+      <DefaultText>Gegengift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4755</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4756</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

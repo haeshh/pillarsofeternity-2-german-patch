@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\achievements</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>122</EntryCount>
+  <EntryCount>123</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Besetze jeden Platz auf einem einzigen Schiff mit einem Mitglied deiner Mannschaft.</DefaultText>
+      <DefaultText>Weise jedem Platz auf einem einzigen Schiff ein Mannschaftsmitglied zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -611,6 +611,11 @@
     </Entry>
     <Entry>
       <ID>121</ID>
+      <DefaultText>Herz des Todesfeuer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
       <DefaultText>Herz des Todesfeuer</DefaultText>
       <FemaleText />
     </Entry>
