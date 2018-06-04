@@ -78,6 +78,28 @@ public class Cleanup {
 		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		cleanup.colorupdate(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller,marshaller);
 		
+		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\fr\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		cleanup.colorupdate(convertingBase, filesInFolder, "fr", jaxbUnmarshaller,marshaller);
+		
+		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\it\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		cleanup.colorupdate(convertingBase, filesInFolder, "it", jaxbUnmarshaller,marshaller);
+		
+		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\es\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		cleanup.colorupdate(convertingBase, filesInFolder, "es", jaxbUnmarshaller,marshaller);
+		
+		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\pt\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		cleanup.colorupdate(convertingBase, filesInFolder, "pt", jaxbUnmarshaller,marshaller);
+		
+		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\pl\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		cleanup.colorupdate(convertingBase, filesInFolder, "pl", jaxbUnmarshaller,marshaller);
+		
+		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\ru\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		cleanup.colorupdate(convertingBase, filesInFolder, "ru", jaxbUnmarshaller,marshaller);
+		
+		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\zh\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		cleanup.colorupdate(convertingBase, filesInFolder, "zh", jaxbUnmarshaller,marshaller);
+		
+		
 		//cleanup.cleanupWindow = new JFrame();
 	}
 	

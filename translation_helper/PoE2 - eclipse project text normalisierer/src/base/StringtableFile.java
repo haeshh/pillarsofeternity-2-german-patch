@@ -790,46 +790,229 @@ class Entry {
 	// 12 * 3 = 36 per language
 	final static String[] replacementWords = new String[] { 
 			// EN
-			//Verfassung
+			// constitution
 			"(Fit)", "(Hardy)", "(Robust)",
 			"(Sicken)(\\b|ed|ing)", "(Weaken)(\\b|s|ed|ing)", "(Enfeebl)(\\b|ed)",
-			// Entschlossenheit
+			// resolve
 			"(Steadfast)", "(Resolute)", "(Courageous)",
 			"(Shaken)(\\b|s|ed|ing)", "(Frighten)(\\b|s|ed|ing)", "(Terrif)(\\b|ies|ied|ying|y)",
-			// Gewandheit
+			// dexterity
 			"(Quick)", "(Nimble)", "(Swift)",
 			"(Hobbl)(\\b|ed|es|e|ing)", "(Immobiliz)(\\b|ed|e|ing)", "(Paralyz)(\\b|ed|es|e|ing|ation)",
-			// Intellekt
+			// intellect
 			"(Smart)", "(Acute)", "(Brilliant)",
 			"(Confus)(\\b|ed|es|e|ing)", "(Charm)(\\b|ed|ing)", "(Dominat)(\\b|ed|es|e|ing)",
-			// Macht
+			// might
 			"(Strong)", "(Tenacious)", "(Energized)",
 			"(Stagger)(\\b|ed|ing)", "(Daz)(\\b|ed|es|e|ing)", "(Stun)(\\b|s|ned|ning)",
-			// Wahrnehmung
+			// perception
 			"(Insightful)", "(Aware)", "(Intuitive)",
 			"(Distract)(\\b|ed|s|ing)", "(Disorient)(\\b|ed)", "(Blind)(\\b|ed|s|ing|ness)",
 			
+			
 			// DE_patch
-			//Verfassung
+			// Verfassung
 			"(Fit(te)?)", "(Zäh(e)?)", "(Robust(e)?)",
 			"([Ee]rkrank)(te|t|en)", "(\\b|Ge)(schwächt(e)?)", "(Entkräftet)(e|\\b)",
 			// Entschlossenheit
 			"(Standhaft(e)?)", "(Resolut(e)?)", "(Mutig(e)?)",
 			"(Geschockt)(e|\\b)", "(Verängstig)(te|t|en)", "([Ee]rschütter)(ter|t|n)",
 			// Gewandheit
-			"(Schnell(e)?)", "(Flink(e)?)", "(Schwungvoll(e)?)",
-			"(Humpeln)(\\b|d\\b|de)", "(Bewegungsunfähig)(e|\\b)", "(Gelähmt)(e|\\b)",
+			"(Schnelle?n?)", "(Flink(e)?)", "(Schwungvoll(e)?)",
+			"(Humpeln)(\\b|d\\b|de)", "(Bewegungsunfähig)(e|\\b)", "(G?e?lähmt)(e|\\b)",
 			// Intellekt
 			"(Klug(e)?)", "(Scharfsinnig(e)?)", "(Brillant(e)?)",
 			"(Verwirrt)(e|\\b)", "(Bezaubert)(er|e|\\b)", "(Beherrscht)(e|\\b)",
 			// Macht
 			"(Stark(e)?)", "(Hartnäckig(e)?)", "(Munter(e)?)",
-			"(Taumeln)(de|d|\\b)", "([^(]Benommen)(e|\\b)", "(Betäubt)(e|\\b)",
+			"(Taumeln)(de|d|\\b)", "([^(]Benommen)(e|heit|\\b)", "(Betäub)(en|te|t)",
 			// Wahrnehmung
 			"(Einsichtig(e)?)", "(Aufmerksam(e)?)", "(Intuitiv(e)?)",
-			"(Abgelenkt)(er|e|\\b)", "(Desorientiert)(e|\\b)", "(G?e?blende)(te|t|n[^d])"
+			"(Abgelenkt)(er|e|\\b)", "(Desorientiert)(e|\\b)", "(G?e?blende|[Ee]rblinde)(te|t|n[^d])",
+			
+			
+			// FR
+			// constitution
+			"(Dynamisme)", "(Vigueur)", "(Robustesse)",
+			"(Intoxication)(\\b)", "(Affaiblissement)(\\b)", "(Diminution)(\\b)",
+			
+			// Résolution
+			"(Détermination)", "(Opiniâtreté)", "(Courage)",
+			"(Frisson)(\\b)", "(Effroi)(\\b)", "(Terreur)(\\b)",
+						
+			// Dextérité
+			"(Célérité)", "(Agilité)", "(Vélocité)",
+			"(Entrave)(\\b)", "(Immobilisation)(\\b)", "(Paralysie)(\\b)",
+			
+			// Intelligence
+			"(Sagacité)", "(Astuce)", "(Perspicacité)",
+			"(Confusion)(\\b)", "(Charme)(\\b)", "(Domination)(\\b)",
+			
+			// Puissance
+			"(Force)", "(Ténacité)", "(Tonus)",
+			"(Stupéfaction)(\\b)", "(Étourdissement)(\\b)", "(Assommement)(\\b)",
+			
+			//Perception
+			"(Subtilité)", "(Conscience)", "(Intuition)",
+			"(Distraction)(\\b)", "(Désorientation)(\\b)", "(Aveuglement)(\\b)",
+			
+			
+			// IT
+			// Costituzione
+			"(In forma)", "(Poderoso)", "(Robusto)",
+			"(Nauseato)(\\b)", "(Indebolito)(\\b)", "(Debilitato)(\\b)",
+			
+			//Risolutezza
+			"(Nerbo)", "(Risoluto)", "(Coraggioso)",
+			"(Scosso)(\\b)", "(Spaventato)(\\b)", "(Terrorizzato)(\\b)",
+			
+			// Destrezza
+			"(Veloce)", "(Lesto)", "(Rapido)",
+			"(Azzoppato)(\\b)", "(Immobilizzato)(\\b)", "(Paralizzato)(\\b)",
+			
+			// Acume
+			"(Arguto)", "(Perspicace)", "(Brillante)",
+			"(Confuso)(\\b)", "(Incantato)(\\b)", "(Dominato)(\\b)",
+			
+			// Vigore
+			"(Forte)", "(Tenace)", "(Energico)",
+			"(Sorpreso)(\\b)", "(Disorientato)(\\b)", "(Stordito)(\\b)",
+			
+			// Percezione
+			"(Profondo)", "(Consapevole)", "(Intuitivo)",
+			"(Distratto)(\\b)", "(Spaesato)(\\b)", "(Accecato)(\\b)",
+			
+			
+			// ES
+			// Constitución
+			"(En forma)", "(Resistente)", "(Robusto)",
+			"(Enfermo)(\\b)", "(Debilitado)(\\b)", "(Desalentado)(\\b)",
+			
+			// Determinación
+			"(Resuelto)", "(Firme)", "(Valiente)",
+			"(Alterado)(\\b)", "(Asustado)(\\b)", "(Aterrorizado)(\\b)",
+			
+			// Destreza
+			"(Rápido)", "(Sagaz)", "(Veloz)",
+			"(Atrapado)(\\b)", "(Inmovilizado)(\\b)", "(Paralizado)(\\b)",
+			
+			// Intelecto
+			"(Inteligente)", "(Agudo)", "(Brillante)",
+			"(Confuso)(\\b)", "(Encantado)(\\b)", "(Dominado)(\\b)",
+			
+			// Fuerza
+			"(Fuerte)", "(Tenaz)", "(Enérgico)",
+			"(Tambaleante)(\\b)", "(Desorientado)(\\b)", "(Aturdido)(\\b)",
+			
+			// Percepción
+			"(Perspicaz)", "(Consciente)", "(Intuitivo)",
+			"(Distraído)(\\b)", "(Desorientado)(\\b)", "(Cegado)(\\b)",
+			
+			
+			// PT
+			// Constituição
+			"(Em Forma)", "(Resistente)", "(Robusto)",
+			"(Adoecido)(\\b)", "(Enfraquecido)(\\b)", "(Debilitado)(\\b)",
+			
+			// Determinação
+			"(Firme)", "(Resoluto)", "(Corajoso)",
+			"(Abalado)(\\b)", "(Amedrontado)(\\b)", "(Aterrorizado)(\\b)",
+			
+			// Destreza
+			"(Rápido)", "(Ágil)", "(Veloz)",
+			"(Mancando)(\\b)", "(Imobilizado)(\\b)", "(Paralisado)(\\b)",
+			
+			// Intelecto
+			"(Esperto)", "(Sagaz)", "(Brilhante)",
+			"(Confuso)(\\b)", "(Encantado)(\\b)", "(Dominado)(\\b)",
+			
+			// Força
+			"(Forte)", "(Tenaz)", "(Energizado)",
+			"(Desconcertado)(\\b)", "(Ofuscado)(\\b)", "(Atordoad)(\\b)",
+			
+			// Percepção
+			"(Perspicaz)", "(Ciente)", "(Intuitivo)",
+			"(Distraído)(\\b)", "(Desorientado)(\\b)", "(Cego)(\\b)",
+			
+			
+			// PL
+			// kondycji
+			"(sprawność)", "(dzielność)", "(krzepkość)",
+			"(mdłości)(\\b)", "(osłabienie)(\\b)", "(wycieńczenie)(\\b)",
+			
+			// stanowczości
+			"(wytrwałość)", "(niezłomność)", "(odwaga)",
+			"(roztrzęsienie)(\\b)", "(przestraszenie)(\\b)", "(przerażenie)(\\b)",
+			
+			// zręczności
+			"(szybkość)", "(lotność)", "(zwinność)",
+			"(okulawienie)(\\b)", "(unieruchomienie)(\\b)", "(paraliż)(\\b)",
+			
+			// intelektu
+			"(mądrość)", "(bystrość)", "(geniusz)",
+			"(zamęt)(\\b)", "(zauroczenie)(\\b)", "(zdominowanie)(\\b)",
+			
+			// mocy
+			"(siła)", "(zawziętość)", "(pobudzenie)",
+			"(wytrącenie z równowagi)(\\b)", "(oszołomienie)(\\b)", "(ogłuszenie)(\\b)",
+			
+			// percepcji
+			"(wnikliwość)", "(świadomość)", "(intuicja)",
+			"(rozkojarzenie)(\\b)", "(dezorientacja)(\\b)", "(oślepienie)(\\b)",
+			
+			
+			// Ru Fixed 
+			// Телосложение
+			"(подготовка)", "(крепость)", "(непоколебимость)",
+			"(недомогание)(\\b)", "(ослабление)(\\b)", "(немощь)(\\b)",
+			
+			// Решительность
+			"(устремленность)", "(решительность)", "(отвага)",
+			"(встряска)(\\b)", "(испуг)(\\b)", "(ужас)(\\b)",
+			
+			// Ловкость
+			"(быстрота)", "(проворство)", "(стремительность)",
+			"(хромота)(\\b)", "(обездвиженность)(\\b)", "(паралич)(\\b)",
+			
+			// Интеллект
+			"(ум)", "(сообразительность)", "(мудрость)",
+			"(путаница)(\\b)", "(заворожение)(\\b)", "(доминирование)(\\b)",
+			
+			// Сила
+			"(сила)", "(цепкость)", "(энергия)",
+			"(потрясение)(\\b)", "(ошеломление)(\\b)", "(оглушение)(\\b)",
+			
+			// Восприятие
+			"(проницательность)", "(осведомленность)", "(интуиция)",
+			"(отвлечение)(\\b)", "(дезориентация)(\\b)", "(ослепление)(\\b)",
+			
+			
+			// ZH, Gott versteh ich nicht.
+			// 体质
+			"(健康)", "(健壮)", "(身强体壮)",
+			"(恶心)(\\b)", "(虚弱)(\\b)", "(无力)(\\b)",
+			
+			// 决心
+			"(坚定)", "(坚决)", "(勇往直前)",
+			"(动摇)(\\b)", "(惊慌)(\\b)", "(恐惧)(\\b)",
+			
+			// 敏捷
+			"(快速)", "(灵巧)", "(身轻如燕)",
+			"(蹒跚)(\\b)", "(定身)(\\b)", "(麻痹)(\\b)",
+			
+			// 智力
+			"(聪慧)", "(聪慧)", "(才智过人)",
+			"(困惑)(\\b)", "(魅惑)(\\b)", "(受控)(\\b)",
+			
+			// 力量
+			"(强力)", "(强硬)", "(力大无穷)",
+			"(踉跄)(\\b)", "(晕眩)(\\b)", "(震慑)(\\b)",
+			
+			// 感知
+			"(敏锐)", "(机敏)", "(直觉超群)",
+			"(烦乱)(\\b)", "(迷离)(\\b)", "(目盲)(\\b)"
 	}; 
-	
+	 
 	final static String[] targetWords = new String[] {
 		"<link=\"gamedata://2370256c-67fe-4481-bfae-9081b2dc10d3\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>¹</color></link>",
 		"<link=\"gamedata://fd4d0c5c-f525-4010-99dc-f30a59b2f729\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>²</color></link>",
@@ -890,10 +1073,31 @@ class Entry {
 		int i = 0;
 		switch (targetLanguage) {
 			case "en":
-				i = 0;
+				i = 36 * 0;
 				break;
 			case "de_patch":
-				i = 36;
+				i = 36 * 1;
+				break;
+			case "fr":
+				i = 36 * 2;
+				break;
+			case "it":
+				i = 36 * 3;
+				break;
+			case "es":
+				i = 36 * 4;
+				break;
+			case "pt":
+				i = 36 * 5;
+				break;
+			case "pl":
+				i = 36 * 6;
+				break;
+			case "ru":
+				i = 36 * 7;
+				break;
+			case "zh":
+				i = 36 * 8;
 				break;
 		}
 		
