@@ -708,9 +708,9 @@ Du kannst diese Ermächtigung pro Kampf einmal verwenden, und eine begrenzte Anz
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Wenn du auf der Weltkarte ein verletztes Besatzungsmitglied dazu zwingst, seinen Job dennoch weiter zu erledigen, hat das gravierende Auswirkungen auf die Moral. Solange sie sich im Reserve-Slot befinden, können Besatzungsmitglieder immer vom Schiffsarzt geheilt werden.
+      <DefaultText>Wenn du auf der Weltkarte ein Besatzungsmitglied zwingst, trotz einer Verletzung zu arbeiten, hat das gravierende Auswirkungen auf die Moral. Solange sie sich im Reserve-Slot befinden, können Besatzungsmitglieder immer vom Schiffsarzt geheilt werden.
 
-Ob auf der Weltkarte oder während eines Kampfes – wenn ein Besatzungsmitglied insgesamt vier Verletzungen erlitten hat, bedeutet das den Tod. Daran kann auch der Schiffsarzt nichts ändern. =&gt; Verletzungen können bei Schiffskämpfen und Begegnungen auf See entstehen. Verletzungen schränken die Fähigkeiten der Besatzungsmitglieder ein. Während eines Kampfes kannst du den Befehl „Bericht an …“ verwenden, um ein verletztes Besatzungsmitglied der Reserve zuzuweisen, wo es vom Schiffsarzt geheilt werden kann. Solange sie verletzt sind, können Seeleute während eines Kampfes ihren Job nicht erledigen – es sei denn, der Schiffsarzt kümmert sich um sie.</DefaultText>
+Wenn ein Besatzungsmitglied auf der Weltkarte oder im Kampf vier Verletzungen erleidet, stirbt es (selbst bei Behandlung durch den Schiffsarzt).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -722,17 +722,19 @@ Die explosiven Böller, die gefertigt werden können, bringen jeden NPC in Reich
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText />
+      <DefaultText>Im Verhaltenseditor kannst du neue Verhaltensweisen für die Mitglieder deiner Gruppe erstellen.  Jedes Verhalten besteht aus Aktionssets, die bestimmen, wie sich das Gruppenmitglied im Kampf verhält.
+
+Aktionssets sind Listen von Aktionen mit Bedingungen, Zielen und Abklingzeiten.  Für jede Klasse gibt es mehrere Beispiel-Aktionssets. Du kannst eines davon kopieren und als Ausgangspunkt für dein eigenes Aktionsset verwenden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText />
+      <DefaultText>Jede Rüstung hat einen Basis-Rüstungswert, der ihre allgemeine Widerstandskraft gegen alle Schadensarten anzeigt.  „Versus Schadensart“ zeigt die speziellen Schadensarten an, gegen die die Rüstung gut oder schlecht schützt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText />
+      <DefaultText>Gasthäuser</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -742,12 +744,16 @@ Die explosiven Böller, die gefertigt werden können, bringen jeden NPC in Reich
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText />
+      <DefaultText>Gasthäuser dienen im Todesfeuer verschiedenen Zwecken. In Gasthäusern kannst du handeln, ein Zimmer mieten, Abenteurer anheuern, Charaktere neu ausbilden und deine Gruppe verwalten.
+
+Manche Zimmer verleihen einen Rastbonus, der für die ganze Gruppe gilt und wirksam bleibt, bis die Gruppe erneut rastet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText />
+      <DefaultText>Wenn du einen Abenteurer rekrutierst, führst du eine vollständige Charaktererstellung durch, wie für deinen Hauptcharakter. Abenteurer sind umso teurer, je höher die Stufe ist, auf der du sie rekrutierst.
+
+Wenn du einen Charakter neu ausbildest, wird er auf Stufe 1 zurückgesetzt und du kannst alle bisherigen Stufenaufstiege neu durchführen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
