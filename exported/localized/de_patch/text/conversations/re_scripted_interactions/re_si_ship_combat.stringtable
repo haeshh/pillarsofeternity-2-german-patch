@@ -919,7 +919,9 @@ Ein raues Gejohle ertönt aus den Kehlen von [ShipDuel_Opponent]s Mannschaft. �
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText />
+      <DefaultText>Das nervöse Murmeln der Besatzung hallt durch das Schiff, als du den Befehl gibst, vorzudringen. Die „[ShipDuel_PlayerShip]“ wird so leichtes Ziel für Harkendes Feuer, was das Risiko auf Verletzungen erhöht:
+
+[ShipDuel_CloseToBoardCost]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
