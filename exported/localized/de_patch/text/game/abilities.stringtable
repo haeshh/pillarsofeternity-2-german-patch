@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3274</EntryCount>
+  <EntryCount>3276</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -16740,12 +16740,12 @@ Keine.</DefaultText>
     </Entry>
     <Entry>
       <ID>4752</ID>
-      <DefaultText />
+      <DefaultText>Ongitok Angunisag</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4753</ID>
-      <DefaultText />
+      <DefaultText>Ongitok Angunisag (Zwerg)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16755,11 +16755,21 @@ Keine.</DefaultText>
     </Entry>
     <Entry>
       <ID>4755</ID>
-      <DefaultText />
+      <DefaultText>Gewährt einen Bonus auf Genauigkeit und Schaden für den ersten Waffenangriff nach Kampfbeginn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4756</ID>
+      <DefaultText>Siegel des Todes Schutzstein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4768</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4769</ID>
       <DefaultText />
       <FemaleText />
     </Entry>
