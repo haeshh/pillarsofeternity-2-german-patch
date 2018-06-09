@@ -13376,14 +13376,14 @@ Wunden zersetzen sich, wenn man keine Vorteile von Drogen erhält.</DefaultText>
     <Entry>
       <ID>2836</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Erhalte Wunden durch mit Nahkampfwaffen verursachten Schaden.
+Erzeugt Wunden durch mit Nahkampfwaffen verursachten Schaden.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Kann keine Wunden durch erlittenen Schaden erhalten.
+Erlittener Schaden erzeugt keine Wunden.
 
-Die erforderliche Schwelle für den Erhalt von Wunden ist erhöht.
+Die erforderliche Schwelle für das Erzeugen von Wunden wird erhöht.
 
-Max. Wundlimit ist verringert.</DefaultText>
+Das maximale Limit an Wunden wird verringert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
