@@ -603,12 +603,14 @@ Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadens
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>Ausdauer</DefaultText>
+      <DefaultText>Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Die Ausdauer steht für die kurzfristige Überlebensfähigkeit eines Charakters. Schaden, der nicht durch die Schadensreduktion eines Charakters absorbiert wird, trifft direkt seine Ausdauer und Gesundheit. Tränke und Heilmagie (zum Beispiel von einem Paladin, Priester oder Druiden) können die Ausdauer im Kampf regenerieren. Wenn die Ausdauer eines Charakters auf 0 sinkt, wird er bewusstlos. Ein bewusstloser Charakter kann durch eine Beleben-Fähigkeit wieder zurück in den Kampf geholt werden. Andernfalls erhält der Charakter am Ende des Kampfes seine gesamte Ausdauer zurück (wenn er zur siegreichen Partei gehört).</DefaultText>
+      <DefaultText>Die Gesundheit steht für die kurzfristige Überlebensfähigkeit eines Charakters.
+
+Schaden, der nicht durch den Rüstungswert eines Charakters absorbiert wird, trifft direkt seine Gesundheit. Tränke und Heilmagie (zum Beispiel von einem Paladin, Priester oder Druiden) können die Gesundheit im Kampf regenerieren. Wenn die Gesundheit eines Charakters auf 0 sinkt, wird er bewusstlos. Ein bewusstloser Charakter kann durch eine Wiederbeleben-Fähigkeit wieder zurück in den Kampf geholt werden. Andernfalls erhält der Charakter am Ende des Kampfes seine gesamte Gesundheit zurück (wenn er zur siegreichen Partei gehört).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
