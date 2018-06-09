@@ -648,10 +648,11 @@ Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadens
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Die Unterbrechung bestimmt, mit welcher Wahrscheinlichkeit ein schadensbewirkender Angriff die aktuelle oder nächste Aktion des Gegners verzögert.
-Der Wurf nutzt einen Unterbrechung–Wert des Angreifers (basierend auf der Wahrnehmung), der dann mit der Konzentration des Ziels (basierend auf der Entschlossenheit) verglichen wird. Es wird eine Zahl von 1 – 100 gewürfelt, dann wird die Unterbrechung addiert. Ist das Ergebnis höher als die Konzentration, spielt das Ziel eine Trefferreaktion ab und seine aktuelle Aktion wird verzögert.
+      <DefaultText>Einige Angriffe können ihr Ziel unterbrechen. Eine Unterbrechung bewirkt, dass die derzeitige Aktion des Ziels fehlschlägt und seine Erholungszeit erhöht wird.
 
-Die Dauer der Verzögerung hängt von der Unterbrechung-Stärke der Waffe oder des Angriffs ab. Eine Unterbrechung, die auf einen Charakter angewendet wird, der bereits mit einer Unterbrechung von längerer Dauer belegt ist, bleibt wirkungslos.</DefaultText>
+Unterbrechungen können durch Konzentration verhindert werden, verringern so aber die Konzentrationspunkte des Ziels um eins.
+
+Bestimmte Zaubersprüche, Fähigkeiten oder Gegenstände erlauben es einem Charakter, mit Angriffen zu unterbrechen, die dies normalerweise nicht tun.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
