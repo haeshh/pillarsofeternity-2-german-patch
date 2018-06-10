@@ -598,7 +598,9 @@ Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadens
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>Die Konzentration eines Charakters legt fest, wie wahrscheinlich es ist, dass seine Zauber oder Angriffe im Kampf unterbrochen werden. Jeder Entschlossenheit–Punkt erhöht die Konzentration eines Charakters – und steht dem Unterbrechung-Wert des Angriffs gegenüber. Wie bei Angriffswürfen wird für Unterbrechungen ein zufälliger Wurf verwendet, um zu bestimmten, ob die Unterbrechung erfolgreich ist. Wenn die Konzentration größer ist als der Unterbrechung-Wert, ist die Wahrscheinlichkeit einer Unterbrechung niedriger.</DefaultText>
+      <DefaultText>Konzentration kann durch Zauber, Fähigkeiten, Talente oder Gegenstände erworben werden, um einen Charakter vor Unterbrechungen zu schützen.
+
+Jeder Punkt an Konzentration, den ein Charakter besitzt, verhindert, dass ein einzelner Unterbrechungseffekt auf ihn angewendet wird, danach wird dieser Konzentrationseffekt entfernt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
