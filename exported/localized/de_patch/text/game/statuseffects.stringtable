@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Bei einem Treffer erhält das Ziel {0:extravalue:duration} Sekunden lang {0:value:percentbonus} Aktionsgeschwindigkeit. Effekt ist {0:triggercount}-fach stapelbar</DefaultText>
+      <DefaultText>Bei einem Treffer erhält das Ziel {0:extravalue:duration} lang {0:value:percentbonus} Aktionsgeschwindigkeit. Effekt ist {0:triggercount}-fach stapelbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
