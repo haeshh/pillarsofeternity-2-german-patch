@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem kritischen Treffer durch Eis für {0:extravalue:duration} zu lähmen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass das Ziel bei einem kritischen Treffer durch Eis für {0:extravalue:duration} gelähmt wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Der Angriff mit einem Zauberspruch hat eine {0:value:percent} Chance, Ziele zu Bezaubern</DefaultText>
+      <DefaultText>Der Angriff mit einem Zauberspruch hat eine {0:value:percent} Chance, dass die Ziele Bezaubert werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Bei einem Treffer erhält das Ziel 30,0 Sekunden lang -2 % Aktionsgeschwindigkeit. Effekt ist 10-fach stapelbar</DefaultText>
+      <DefaultText>Bei einem Treffer erhält das Ziel {0:extravalue:duration} Sekunden lang {0:value:percentbonus} Aktionsgeschwindigkeit. Effekt ist {0:triggercount}-fach stapelbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Kritischer Treffer verängstigt Gestandene</DefaultText>
+      <DefaultText>Kritischer Treffer Verängstigt Gestandene</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Chance, das Ziel bei einem Treffer abzulenken.</DefaultText>
+      <DefaultText>Chance, dass das Ziel bei einem Treffer Abgelenkt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,12 +316,12 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>25 % Chance, das Ziel bei einem Treffer abzulenken.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass das Ziel bei einem Treffer Abgelenkt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Trifft zweimal, aber mit verringertem Schaden. (Sonne fügt 50 % Brandschaden hinzu.) (Mond fügt 50 % Frostschaden hinzu.)</DefaultText>
+      <DefaultText>Trifft zweimal, aber mit verringertem Schaden. (Sonne fügt {0:value:percent} Brandschaden hinzu.) (Mond fügt {0:value:percent} Frostschaden hinzu.)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,7 +416,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>{0:value:percent} Chance, den Angreifer beim Treffer mit einer Nahkampfwaffe {0:extravalue:duration} lang zu betäuben.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, den Angreifer beim Treffer mit einer Nahkampfwaffe {0:extravalue:duration} lang zu Betäuben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,12 +426,12 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Bei mehr als 50 % Gesundheit besteht bei Fernkampfwaffen eine Chance von 50 %, 50 % Schaden anzurichten.</DefaultText>
+      <DefaultText>Bei mehr als {0:triggervalue:percent} Gesundheit besteht bei Fernkampfwaffen eine Chance von {0:extravalue:percent}, {0:value:percent} Schaden anzurichten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Angriffe unter Einsatz von Heimlichkeit betäuben das Ziel.</DefaultText>
+      <DefaultText>Angriffe unter Einsatz von Heimlichkeit Betäuben das Ziel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,7 +816,7 @@
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>Verängstigungs-Angriff auf Gestandene oder Wilde bei kritischem Treffer</DefaultText>
+      <DefaultText>Angriff auf Gestandene oder Wilde, mit Verängstigt Wirkung, bei kritischem Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -846,7 +846,7 @@
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer {0:extravalue:duration} lang krank zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass das Ziel bei einem Treffer {0:extravalue:duration} lang erkrankt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -946,7 +946,7 @@
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>Lähmt das Ziel bei einem kritischen Treffer, wenn der Effekt vereiste Klinge {0:value} mal gestapelt wurde.</DefaultText>
+      <DefaultText>Das Ziel wird bei einem kritischen Treffer für {0:extravalue:duration} Gelähmt, wenn der Vereiste Klinge {0:value:straight} Stapel besitzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -981,12 +981,12 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>Macht das Ziel bei einem Treffer krank, sobald der Effekt unreine Klinge {0:value} mal gestapelt wurde.</DefaultText>
+      <DefaultText>Das Ziel erkrankt bei einem krittischen Treffer, sobald Unreine Klinge {0:triggercount} Stapel hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>-10 % Aktionsgeschwindigkeit für 45,0 Sekunden für das Ziel bei einem Treffer. Viermal stapelbar</DefaultText>
+      <DefaultText>{0:value:percent} Aktionsgeschwindigkeit für {0:extravalue:duration} Sekunden für das Ziel bei einem Treffer. {0:triggervalue:straight}-mal stapelbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1101,7 +1101,7 @@
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>{0:triggercount} Zersetzungsschaden alle {0:value:duration} für die Dauer von {0:triggervalue:duration} bei einem Treffer ({0:extravalue:percent} Chance das Ziel bei jedem Schadenszyklus zu lähmen)</DefaultText>
+      <DefaultText>{0:triggercount} Zersetzungsschaden alle {0:value:duration} für die Dauer von {0:triggervalue:duration} bei einem Treffer ({0:extravalue:percent} Chance, dass das Ziel bei jedem Schadenszyklus gelähmt wird)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1136,7 +1136,7 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>+2 Genauigkeit für alle Waffen für 30,0 Sekunden bei einem Treffer. Effekt ist stapelbar.</DefaultText>
+      <DefaultText>{0:value} Genauigkeit für alle Waffen für {0:extravalue:duration} Sekunden bei einem Treffer. ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1251,7 +1251,7 @@
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>33 % Chance, das Ziel bei einem Treffer für 30,0 Sekunden zu verwirren</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass das Ziel bei einem Treffer für {0:extravalue:duration} Verwirrt wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1321,7 +1321,7 @@
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>50 % Chance, ein mit Entschlossenheitswirkung belegtes Ziel bei Treffer zu unterbrechen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, ein mit Entschlossenheitswirkung belegtes Ziel bei Treffer zu unterbrechen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1331,7 +1331,7 @@
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Längere Zeit anhaltender direkter Blutungsschaden für 12,0 Sekunden beim Ziel bei einem Treffer</DefaultText>
+      <DefaultText>Direkter Blutungsschaden für 12,0 Sekunden, beim Ziel, bei einem kritischen Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1381,7 +1381,7 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Chance, das Ziel bei einem kritischen Treffer für 12,0 Sekunden krank zu machen. Tapferkeit wirkt dem entgegen.</DefaultText>
+      <DefaultText>Chance, dass das Ziel bei einem kritischen Treffer für 12,0 Sekunden erkrankt. Tapferkeit wirkt dem entgegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1451,12 +1451,12 @@
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Wahrnehmungs-Inspiration</DefaultText>
+      <DefaultText>Wahrnehmungsinspiration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Geistige Inspiration</DefaultText>
+      <DefaultText>Geistesinspiration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1541,7 +1541,7 @@
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText>3 Gesundheit alle 3,0 Sekunden für die Dauer von 12,0 Sekunden bei kritischem Treffer. Die Heilung erhöht sich, wenn der Träger an Gesundheit verliert.</DefaultText>
+      <DefaultText>{0:value} Gesundheit alle {0:triggervalue:duration} für die Dauer von {0:extravalue:duration} bei kritischem Treffer. Die Heilung erhöht sich, wenn der Träger an Gesundheit verliert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1551,7 +1551,7 @@
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>+1 Rüstungswert. Erhöht sich, wenn der Träger an Gesundheit verliert. Maximal +3 Rüstungswert</DefaultText>
+      <DefaultText>Rüstungswert erhöht sich, wenn der Träger an Gesundheit verliert. Maximal {0:extravalue} Rüstungswert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1801,17 +1801,17 @@
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} zu betäuben</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} zu Betäuben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>380</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} zu betäuben, wenn derjenige, der die Waffe führt, ein Zwerg ist</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} zu Betäuben, wenn derjenige, der die Waffe führt, ein Zwerg ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>{0:value:percent} zufällige Wirkung auf den Geist beim Ziel für 12,0 Sekunden beim Erzielen eines kritischen Treffers</DefaultText>
+      <DefaultText>{0:value:percent} zufällige Wirkung auf den Geist beim Ziel für {0:extravalue:duration} Sekunden beim Erzielen eines kritischen Treffers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2151,7 +2151,7 @@
     </Entry>
     <Entry>
       <ID>456</ID>
-      <DefaultText>{0:value:percent} Chance, den Angreifer beim Treffer mit einer Nahkampfwaffe für 8,0 Sekunden zu betäuben.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, den Angreifer beim Treffer mit einer Nahkampfwaffe für 8,0 Sekunden zu Betäuben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
