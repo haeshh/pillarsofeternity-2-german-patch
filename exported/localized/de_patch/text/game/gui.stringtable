@@ -4384,7 +4384,7 @@ Legenden der Huana erzählen von einer verheerenden Überschwemmung vor Tausende
     </Entry>
     <Entry>
       <ID>983</ID>
-      <DefaultText>Farbenblinder Modus</DefaultText>
+      <DefaultText>Farbenblind-Modus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8255,7 +8255,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1817</ID>
-      <DefaultText>Vollbildschirm</DefaultText>
+      <DefaultText>Exklusiver Vollbildmodus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10436,12 +10436,12 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2262</ID>
-      <DefaultText>Undurchsichtigkeit, wenn verdeckt</DefaultText>
+      <DefaultText>Figurentransparenz, wenn verdeckt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2263</ID>
-      <DefaultText>Hier kannst du anpassen, wie undurchsichtig Charaktere sind, wenn sie von der Umgebung verdeckt werden.</DefaultText>
+      <DefaultText>Hier kannst du anpassen, wie transparent Charaktere sind, wenn sie von der Umgebung verdeckt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21087,7 +21087,7 @@ Modwyr kann nicht länger an die Seele des Wächters gebunden werden und wurde i
     </Entry>
     <Entry>
       <ID>4562</ID>
-      <DefaultText>VFX Pausen-Opakheit</DefaultText>
+      <DefaultText>VFX Pausen-Transparenz</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21184,7 +21184,7 @@ Keine.</DefaultText>
     </Entry>
     <Entry>
       <ID>4579</ID>
-      <DefaultText>Fenster-Modus</DefaultText>
+      <DefaultText>Darstellungsmodus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21289,17 +21289,17 @@ Keine.</DefaultText>
     </Entry>
     <Entry>
       <ID>4601</ID>
-      <DefaultText>Steuert die Menge der Mehrfachproben, die für das Anti-Aliasing verwendet werden. Stelle diese Option auf 1 ein, um die beste Leistung zu erhalten.</DefaultText>
+      <DefaultText>Steuert die Menge Komplexität des Multisampling Anti Alising (MSAA), das für die Kantenglättung von 3D Objekten verwendet wird. Stelle diese Option auf 1 ein, um die beste Leistung zu erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4602</ID>
-      <DefaultText>Steuert, in wie weit visuelle Effekte ausgeblendet werden, wenn das Spiel pausiert. Wird verwendet, um visuelle Geräusche im Kampf zu entfernen.</DefaultText>
+      <DefaultText>Steuert, in wie weit visuelle Effekte abgeblendet werden, wenn das Spiel pausiert. Je stärker die Effekte abgeblendet werden umso einfacher kann man den Überblick über die eingene Gruppe behalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4603</ID>
-      <DefaultText>Kontrolliert die Größe der Fonts auf dem UI.</DefaultText>
+      <DefaultText>Regler für die Skalierung alle Texte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21339,12 +21339,12 @@ Keine.</DefaultText>
     </Entry>
     <Entry>
       <ID>4611</ID>
-      <DefaultText>Fensternmodus</DefaultText>
+      <DefaultText>Fenstermodus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4612</ID>
-      <DefaultText>Randloser Vollbildschirm</DefaultText>
+      <DefaultText>Randloses Vollbild</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
