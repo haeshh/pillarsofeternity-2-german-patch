@@ -4536,7 +4536,7 @@
     </Entry>
     <Entry>
       <ID>1740</ID>
-      <DefaultText>Der Kämpfer stürmt blitzartig über das Schlachtfeld und unterbricht jegliche Ziele, die ihm im Weg stehen.</DefaultText>
+      <DefaultText>Der Kämpfer stürmt blitzartig über das Schlachtfeld und Betäubt jegliche Ziele, die ihm im Weg stehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5353,7 +5353,7 @@ Wenn der Aufstieg nachlässt, wird der Fokus auf null verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>1975</ID>
-      <DefaultText>(Schwungvolle Schlagserie) – Während sie aktiv ist, besteht bei mit einer Waffe ausgeführten kritischen Treffern die Chance, sofort einen weiteren Angriff auszulösen.</DefaultText>
+      <DefaultText>(Schwungvolle Schlagserie) – Während sie aktiv ist, besteht bei mit einer Nahkampfwaffe ausgeführten kritischen Treffern die Chance, sofort einen weiteren Angriff auszulösen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6502,12 +6502,10 @@ Passiver Zauber-&lt;g&gt;Widerstand&lt;/g&gt; beeinflusst freundliche und feindl
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Beschwörungen rufen die doppelte Anzahl an Kreaturen herbei.
 
-Kreaturen, die durch Beschwörungen herbeigerufen wurden, sind Immun gegen die Abschwörungs-Fähigkeit des Paladins.
-
 &lt;b&gt;Abzug&lt;/b&gt;
-Diejenigen, die der Sänger herbeiruft, sind kleiner und verfügen nur über verringerte Gesundheit und Dauer.
+Die beschworenen Kreaturen des Sängers sind kleiner und verfügen nur über verringerte Gesundheit und Dauer.
 
-Herbeirufungs-Beschwörungen kosten -1 Satz.</DefaultText>
+Herbeirufungsbeschwörungen kosten +1 Satz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6804,7 +6802,7 @@ Die Flammen der Hingabe heilen nahe Verbündete (Weiße Flammen).</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Gewährt Handauflegen.
 
-Das Handauflegen verhindert für kurze Zeit, dass das Ziel getötet wird.
+Handauflegen verhindert für kurze Zeit, dass Verbündete getötet werden.
 
 Gewährt bei Ausrüstung mit einem Schild +1 Angriffsbindung.</DefaultText>
       <FemaleText />
@@ -8106,7 +8104,7 @@ Der Erzfeind wird erweitert zum Zorn der fünf Sonnen.</DefaultText>
     <Entry>
       <ID>2545</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Erhalte Wunden durch mit Nahkampfwaffen verursachten Schaden.
+Erzeugt Wunden durch mit Nahkampfwaffen verursachten Schaden. (Fähigkeiten ausgeschlossen)
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Erlittener Schaden erzeugt keine Wunden.
@@ -8758,7 +8756,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2682</ID>
-      <DefaultText>(Auf ihr Ziel eingeschworen kannten alle ihre Aufgaben) – Verbündete erhalten nun auch die Inspiration Brillant.</DefaultText>
+      <DefaultText>(Auf ihr Ziel eingeschworen kannten alle ihre Aufgaben) – Verbündete erhalten nun auch die Inspiration Klug.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12185,7 +12183,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3531</ID>
-      <DefaultText>Diese Aura reduziert die Heilung der Feinde in der Nähe um die Hälfte, wenn der Träger schwer verletzt ist.</DefaultText>
+      <DefaultText>Diese Aura reduziert die Heilung der Feinde in der Nähe, wenn der Träger schwer verletzt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12785,7 +12783,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3675</ID>
-      <DefaultText>Beschwört bei Beginn eines Kampfes bis zu 3 zufällige Tränke in leere Schnell-Slots. Die Tränke verschwinden, wenn der Kampf endet.</DefaultText>
+      <DefaultText>Beschwört bei Beginn eines Kampfes einen zufälligen Zaubertrank in einen leeren Schnell-Slot. Dieser Trank verschwindet, wenn der Kampf endet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14508,7 +14506,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4088</ID>
-      <DefaultText>Erzeugt eine Aura, die langsam die Gesundheit naher Verbündeter wiederherstellt.</DefaultText>
+      <DefaultText>Erzeugt eine Aura, die langsam die Gesundheit naher Verbündeter in Abhängigkeit von ihrer verbleibenden Gesundheit wiederherstellt. (Vollständige Wiederherstellung für Ziele, die dem Tode am nächsten sind)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14778,7 +14776,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4155</ID>
-      <DefaultText>Aura, die direkten Schaden über Zeit an nahen Feinden verursacht.</DefaultText>
+      <DefaultText>Eine Aura, die direkten Schaden über Zeit an nahen Gegnern in Abhängigkeit von ihrer verbleibenden Gesundheit verursacht und ihren Rüstungswert senkt. (Vollständiger Schadenswert für die Ziele, die dem Tod am nächsten sind)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14998,7 +14996,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4274</ID>
-      <DefaultText>Gewährt einen Bonus auf Genauigkeit, wenn sich in 4 m Umkreis mindestens 4 Verbündete befinden.</DefaultText>
+      <DefaultText>Gewährt einen Bonus auf Genauigkeit, wenn sich in einem Umkreis von 2 m mindestens 3 Verbündete befinden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15423,7 +15421,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4361</ID>
-      <DefaultText>Aura, die direkten Schaden über Zeit an nahen Gegnern verursacht und ihren Rüstungswert senkt. Schaden erhöht sich, wenn das Ziel Gesundheit verliert.</DefaultText>
+      <DefaultText>Aura, die direkten Schaden über Zeit an nahen Gegnern verursacht und ihren Rüstungswert senkt. (Vollständiger Schadenswert für die Ziele, die dem Tod am nächsten sind)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

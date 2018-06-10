@@ -5479,7 +5479,7 @@ Legenden der Huana erzählen von einer verheerenden Überschwemmung vor Tausende
     </Entry>
     <Entry>
       <ID>1231</ID>
-      <DefaultText>Dupplizieren</DefaultText>
+      <DefaultText>Duplizieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6341,17 +6341,17 @@ In Dialogen und geskripteten Interaktionen wird die Athletik für körperliche A
     </Entry>
     <Entry>
       <ID>1422</ID>
-      <DefaultText>Klein</DefaultText>
+      <DefaultText>Kleiner</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1423</ID>
-      <DefaultText>Mittel</DefaultText>
+      <DefaultText>Mittlerer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1424</ID>
-      <DefaultText>Groß</DefaultText>
+      <DefaultText>Großer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13176,12 +13176,10 @@ Während der Raserei erleidest du fortwährend direkten Schaden.</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Beschwörungen rufen die doppelte Anzahl an Kreaturen herbei.
 
-Kreaturen, die durch Beschwörungen herbeigerufen wurden, sind Immun gegen die Abschwörungs-Fähigkeit des Paladins.
-
 &lt;b&gt;Abzug&lt;/b&gt;
 Die beschworenen Kreaturen des Sängers sind kleiner und verfügen nur über verringerte Gesundheit und Dauer.
 
-Herbeirufungs-Beschwörungen kosten -1 Satz.</DefaultText>
+Herbeirufungsbeschwörungen kosten +1 Satz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13376,7 +13374,7 @@ Wunden zersetzen sich, wenn man keine Vorteile von Drogen erhält.</DefaultText>
     <Entry>
       <ID>2836</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Erzeugt Wunden durch mit Nahkampfwaffen verursachten Schaden.
+Erzeugt Wunden durch mit Nahkampfwaffen verursachten Schaden. (Fähigkeiten ausgeschlossen)
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Erlittener Schaden erzeugt keine Wunden.
@@ -17919,7 +17917,7 @@ Willst du wirklich fortfahren?</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Gewährt Handauflegen.
 
-Das Handauflegen verhindert für kurze Zeit, dass das Ziel getötet wird.
+Handauflegen verhindert für kurze Zeit, dass Verbündete getötet werden.
 
 Gewährt bei Ausrüstung mit einem Schild +1 Angriffsbindung.</DefaultText>
       <FemaleText />
