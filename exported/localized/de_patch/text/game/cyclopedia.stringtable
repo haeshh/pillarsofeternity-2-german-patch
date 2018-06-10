@@ -516,15 +516,13 @@ Tapferkeit, Reflexe und Wille basieren alle auf Attributspaaren. Macht und Verfa
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Wirkungen sind explizit gebündelte Gruppen von Statuseffekten, die auf einen Charakter angewandt werden können – und auch vorübergehend ausgesetzt oder vollständig entfernt. Einige Wirkungen können von stärkeren oder Wirkungen aufgehoben werden, die meisten Wirkungen können jedoch auch neben anderen Wirkungen bestehen bleiben.
+      <DefaultText>Wirkungen sind Gruppen von negativen Auswirkungen, die auf einen Charakter angewendet werden können. Die meisten Wirkungen sind nach Attributen gruppiert. Z.B. Humpelnd und Bewegungsunfähig sind beide Geschicklichkeitswirkungen.
 
-Wenn ein Zauber gegen ein Ziel gewirkt wird, werden der Zauber und seine untergeordenten Effekte und Wirkungen alle in einem prozedural-gebündelten Container zusammengefasst, der durch den Zauber generiert wird.
+Wirkungen auf Attribute können leicht durch eine entsprechende Attribut-Inspiration entgegengewirkt werden, die ebemfalls Immunität gegen Wirkungen dieser Kategorie gewährt. Z.B. kann jedes Geschicklichkeitswirkung durch die Inspirationen Schnell, Flink oder Schwungvoll entfernt werden.
 
-Wenn diese prozedural-gebündelten Container angewandt werden, während eine identische Version bereits aktiv ist (z.B. Segen auf ein Ziel gewirkt, das bereits unter dem Einfluss von Segen steht), wird die alte Version durch die neue ersetzt.
+Einige Charaktere sind völlig immun gegen ein oder mehrere Wirkungen. Wenn ein Charakter resistent gegen eine Kategorie von Wirkungen ist, werden eingehende Wirkungen dieses Typs abgeschwächt. Resistenz gewährt vollständige Immunität gegen die schwächsten Wirkungen dieses Attributs.
 
-Unabhängig davon, mit wie vielen Effekten das Ziel belegt ist, werden grundsätzlich nur die besten Boni und nur die schlimmsten Mali angewandt.
-
-Einige Kreaturen können manchen Wirkungen gegenüber immun sein. In diesem Fall können diese Wirkungen nicht auf diese Kreaturen angewandt werden.</DefaultText>
+Z.B. sind  Waldelfen resistent gegen Geschicklichkeitswirkungen. Ein Waldelf, der von Effekt Bewegungsunfähig getroffen wird, wird stattdessen nur mit dem Effekt Humpelnd belegt. Wenn dieser Elf von Effekt Humpelnd getroffen würde, hätte das gar keine Auswirkung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
