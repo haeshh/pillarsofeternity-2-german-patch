@@ -4887,10 +4887,10 @@
     <Entry>
       <ID>1849</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Verschafft das „Abendmahl des Fleisches“ – Suche dir einen feindlichen toten Gestandenen, Wilder oder eine Bestie und verschlingen deren Leiche, um den Barbar zu heilen und ihm Zorn zu verschaffen.
+Verschafft das „Abendmahl des Fleisches“ – Suche dir einen feindlichen toten Gestandenen, Wilder oder eine Bestie und verschlingen deren Leiche, um den Barbar zu heilen und ihm Wut zu verschaffen.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Alle Zorn-Fähigkeiten kosten 1 mehr.</DefaultText>
+Alle Wut-Fähigkeiten kosten 1 mehr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5801,7 +5801,7 @@ Einhändig: Reiner Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2067</ID>
-      <DefaultText>(Barbarisches Schmettern) – Wenn der Treffer das Ziel tötet, werden seine Zornkosten erstattet.</DefaultText>
+      <DefaultText>(Barbarisches Schmettern) – Wenn der Treffer das Ziel tötet, werden seine Wutkosten erstattet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7410,7 +7410,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2403</ID>
-      <DefaultText>(Unentwegter Trotz) – Zornkosten sind gesenkt.</DefaultText>
+      <DefaultText>(Unentwegter Trotz) – Wutkosten sind gesenkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7490,7 +7490,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2419</ID>
-      <DefaultText>Jedes Mal, wenn ein Barbar einen Feind tötet, trägt ihm das die Chance ein, an Zorn zu gewinnen.</DefaultText>
+      <DefaultText>Jedes Mal, wenn ein Barbar einen Feind tötet, trägt ihm das die Chance ein, an Wut zu gewinnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9616,7 +9616,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2859</ID>
-      <DefaultText>Greife einen feindlichen verstorbenen Gestandenen oder Wilder oder eine Bestie an und verschlinge ihre Leiche. Dadurch heilst du den Barbaren und verschaffst ihm Zorn.</DefaultText>
+      <DefaultText>Greife einen feindlichen verstorbenen Gestandenen oder Wilder oder eine Bestie an und verschlinge ihre Leiche. Dadurch heilst du den Barbaren und verschaffst ihm Wut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
