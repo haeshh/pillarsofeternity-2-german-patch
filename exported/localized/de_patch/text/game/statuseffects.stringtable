@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Treffer auf Ziele, die dem Tode nahe sind, fügen auch Gegnern in der Nähe Schaden zu.</DefaultText>
+      <DefaultText>Treffer auf Ziele, die Dem Tode nahe sind, fügen auch Gegnern in der Nähe Schaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Wirft den Zauber der Holzhaut, sobald derjenige, der die Waffe führt, so sehr verletzt wurde, dass Blut fließt.</DefaultText>
+      <DefaultText>Wirft den Zauber der Holzhaut, sobald derjenige, der die Waffe führt, Schwer verletzt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,7 +516,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Startet die Fähigkeit bei der ersten blutigen Verwundung.</DefaultText>
+      <DefaultText>Startet die Fähigkeit wenn man Schwer verletzt ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,7 +526,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Gewährt die Fähigkeit, wenn man dem Tode nahe ist</DefaultText>
+      <DefaultText>Gewährt die Fähigkeit, wenn man Dem Tode nahe ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -606,7 +606,7 @@
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Die Fähigkeit wird gewährt, wenn der Träger dem Tode nahe ist</DefaultText>
+      <DefaultText>Die Fähigkeit wird gewährt, wenn der Träger Dem Tode nahe ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,12 +636,12 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Die Fähigkeit wird ausgelöst, wenn der Träger dem Tode nahe ist</DefaultText>
+      <DefaultText>Die Fähigkeit wird ausgelöst, wenn der Träger Dem Tode nahe ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Die Fähigkeit wird ausgelöst, wenn der Träger so sehr verletzt wurde, dass Blut fließt</DefaultText>
+      <DefaultText>Die Fähigkeit wird ausgelöst, wenn der Träger Schwer verletzt ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -661,7 +661,7 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Der Träger ist immun gegen Zersetzungsschaden, wenn er so sehr verletzt wurde, dass Blut fließt, oder dem Tode nahe ist</DefaultText>
+      <DefaultText>Der Träger ist immun gegen Zersetzungsschaden, wenn er Schwer verletzt oder Dem Tode nahe ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -676,7 +676,7 @@
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Die Fähigkeit wird aktiviert, wenn der Träger so sehr verletzt wurde, dass Blut fließt</DefaultText>
+      <DefaultText>Die Fähigkeit wird aktiviert, wenn der Träger Schwer verletzt ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

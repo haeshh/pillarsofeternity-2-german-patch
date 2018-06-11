@@ -746,7 +746,7 @@
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>Segnet Verbündete mithilfe einer mitfühlenden Seele, was eine Heilwirkung erzeugt, wenn diese dem Tode Nahe sind.</DefaultText>
+      <DefaultText>Segnet Verbündete mithilfe einer mitfühlenden Seele, was eine Heilwirkung erzeugt, wenn diese Dem Tode nahe sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2116,7 +2116,7 @@
     </Entry>
     <Entry>
       <ID>595</ID>
-      <DefaultText>Zersplittert die Seele des Ziels mit reiner Kraft und fügt ihm dabei direkten Schaden zu – Ziele, die dem Tode Nahe sind, explodieren, wodurch alle im Wirkungsbereich Wuchtschaden erleiden.</DefaultText>
+      <DefaultText>Zersplittert die Seele des Ziels mit reiner Kraft und fügt ihm dabei direkten Schaden zu – Ziele, die Dem Tode nahe sind, explodieren, wodurch alle im Wirkungsbereich Wuchtschaden erleiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2771,7 +2771,7 @@
     </Entry>
     <Entry>
       <ID>856</ID>
-      <DefaultText>Es wird eine heimtückische magische Kontingenz ausgelöst, wenn die Ausdauer des Zauberwirkers 50 % erreicht. Er streckt umgehend alle umstehenden Feinde nieder, während er kurzzeitig einen Bonus auf Schadensreduktion und Verteidigung genießt.</DefaultText>
+      <DefaultText>Es wird eine heimtückische magische Kontingenz ausgelöst, wenn der Zauberwirker Schwer verletzt oder Dem Tode nahe ist. Alle umstehenden Feinde werden zurückgestossen und niedergestreckt, während er kurzzeitig einen Bonus auf Rüstungswert und Verteidigung genießt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2791,7 +2791,7 @@
     </Entry>
     <Entry>
       <ID>860</ID>
-      <DefaultText>Beschwört einen schwarzen Ring nekrotischer Energie herauf, der sich in alle Richtungen ausbreitet und Feinden, die er berührt, Zersetzungsschaden zufügt. Jene, die dem Tode Nahe sind, könnten dabei vernichtet werden.</DefaultText>
+      <DefaultText>Beschwört einen schwarzen Ring nekrotischer Energie herauf, der sich in alle Richtungen ausbreitet und Feinden, die er berührt, Zersetzungsschaden zufügt. Jene, die Dem Tode nahe sind, könnten dabei vernichtet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2821,7 +2821,7 @@
     </Entry>
     <Entry>
       <ID>867</ID>
-      <DefaultText>Führt dazu, dass der Barbar vor Schmerz ausschlägt, wodurch er einen Bonus auf Schaden erhält, solange er Schwer verletzt oder dem Tode Nahe ist.</DefaultText>
+      <DefaultText>Führt dazu, dass der Barbar vor Schmerz ausschlägt, wodurch er einen Bonus auf Schaden erhält, solange er Schwer verletzt oder Dem Tode nahe ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2876,7 +2876,7 @@
     </Entry>
     <Entry>
       <ID>884</ID>
-      <DefaultText>Der Kämpfer widmet all seine Energie der Verteidigung von Verbündeten. Verringert die Genauigkeit, steigert jedoch die Abwehr Verbündeter in der Nähe.</DefaultText>
+      <DefaultText>(Erobererhaltung) – Wenn der Kämpfer nicht mehr als verletzt ist, erhöht sich sein Genauigkeitsbonus. Ist er Schwer verletzt oder noch schlimmer, dann erhöht sich sein Abwehrbonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3746,7 +3746,7 @@
     </Entry>
     <Entry>
       <ID>1307</ID>
-      <DefaultText>Wenn die Ausdauer eines Feuer-Gottähnlichen auf einen niedrigen Stand sinkt, härtet sich sein Körper, was ihm zusätzliche Schadensreduktion verleiht. Seine Seele wehrt sich außerdem gegen Angreifer und fügt jedem, der ihn im Nahkampf trifft, Brandschaden zu.</DefaultText>
+      <DefaultText>Wenn ein Feuer-Gottähnlichen Schwer verletzt oder Dem Tode nahe ist, härtet sich sein Körper, was ihm zusätzlichen Rüstungswert verleiht. Seine Seele wehrt sich außerdem gegen Angreifer und fügt jedem, der ihn im Nahkampf trifft, Brandschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3836,7 +3836,7 @@
     </Entry>
     <Entry>
       <ID>1337</ID>
-      <DefaultText>Alle Menschen besitzen einen unbezwingbaren Geist, der umso stärker wird, je aussichtsloser die Lage ist. Wenn die Ausdauer eines Menschen auf unter 50% fällt, erhält er einen Bonus auf Genauigkeit und Schaden.</DefaultText>
+      <DefaultText>Alle Menschen besitzen einen unbezwingbaren Geist, der umso stärker wird, je aussichtsloser die Lage ist. Wenn ein Mensch Schwer verletzt oder Dem Tode nahe ist, erhält er einen Bonus auf Genauigkeit und Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3851,7 +3851,7 @@
     </Entry>
     <Entry>
       <ID>1340</ID>
-      <DefaultText>Die Seelen aller Mond-Gottähnlichen sind mit Reservoiren heilender Energie verbunden. Wenn ein Mond-Gottähnlicher im Kampf das erste Mal unter 75%, 50% und 25% Ausdauer fällt, generiert er automatisch eine Heilwelle um sich herum.</DefaultText>
+      <DefaultText>Die Seelen aller Mond-Gottähnlichen sind mit Reservoiren heilender Energie verbunden. Wenn ein Mond-Gottähnlicher im Kampf das erste Mal Verletzt, Schwer verletzt oder Dem Tode nahe ist, generiert er automatisch eine Heilwelle um sich herum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6997,12 +6997,12 @@ Jeder erhaltene Schaden wird erhöht.</DefaultText>
     <Entry>
       <ID>2309</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Wenn der Straßenkämpfer Flankiert oder Blutig Geschlagen ist, sind Schleichangriffe tödlicher und Erholungszeit vermindert.
+Wenn der Straßenkämpfer Flankiert oder Schwer verletzt ist, sind Schleichangriffe tödlicher und Erholungszeit vermindert.
 
-Wenn der Straßenkämpfer Flankiert und Blutig Geschlagen ist, erhöht sich der Kritische Schaden. 
+Wenn der Straßenkämpfer Flankiert und Schwer verletzt ist, erhöht sich der Kritische Schaden. 
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Wenn der Straßenkämpfer weder Flankiert noch Blutig Geschlagen ist, ist Erholung langsamer.</DefaultText>
+Wenn der Straßenkämpfer weder Flankiert noch Schwer verletzt ist, ist Erholung langsamer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8621,7 +8621,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2654</ID>
-      <DefaultText>Schurken, die verletzt oder dem Tode nahe sind, erhalten Immunität gegen Wirkungen auf den Geist (Wahrnehmung, Intellekt und Entschlossenheit).</DefaultText>
+      <DefaultText>Schurken, die Schwer verletzt oder Dem Tode nahe sind, erhalten Immunität gegen Wirkungen auf den Geist (Wahrnehmung, Intellekt und Entschlossenheit).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8771,7 +8771,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2685</ID>
-      <DefaultText>Im Status Verwundet oder besser erhalten der Waldläufer und sein tierischer Gefährte einen Genauigkeitsbonus gegen Gegner, deren Status Verletzt oder niedriger ist.</DefaultText>
+      <DefaultText>Im Status Verletzt oder besser erhalten der Waldläufer und sein tierischer Gefährte einen Genauigkeitsbonus gegen Gegner, deren Status Schwer verletzt oder niedriger ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8841,7 +8841,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2699</ID>
-      <DefaultText>Löst einen Effekt aus, der Gegnern im Bereich direkten Schaden zufügt. Diejenigen, die dem Tode nahe sind, können explodieren und verursachen Zersetzungsschaden an Gegnern in der Nähe.</DefaultText>
+      <DefaultText>Löst einen Effekt aus, der Gegnern im Bereich direkten Schaden zufügt. Diejenigen, die Dem Tode nahe sind, können explodieren und verursachen Zersetzungsschaden an Gegnern in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9281,7 +9281,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2789</ID>
-      <DefaultText>Verfallsmagie umgibt das Ziel und erstickt seine Lebensessenz. Wenn der Überlebenswille des Ziels nicht stark genug ist, wird es sofort getötet. (Dieser Zauberspruch kann nur bei denjenigen eingesetzt werden, die dem Tode nahe sind)</DefaultText>
+      <DefaultText>Verfallsmagie umgibt das Ziel und erstickt seine Lebensessenz. Wenn der Überlebenswille des Ziels nicht stark genug ist, wird es sofort getötet. (Dieser Zauberspruch kann nur bei denjenigen eingesetzt werden, die Dem Tode nahe sind)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9496,7 +9496,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2835</ID>
-      <DefaultText>Ermächtigte Angriffe gegen Feinde, die bluten oder dem Tode nahe sind, sind bei einem Treffer garantiert ein kritischer Treffer und erhalten einen erheblichen Bonus für den Schaden durch den kritischen Treffer.</DefaultText>
+      <DefaultText>Ermächtigte Angriffe gegen Feinde, die Schwer verletzt oder Dem Tode nahe sind, sind bei einem Treffer garantiert ein kritischer Treffer und erhalten einen erheblichen Bonus für den Schaden durch den kritischen Treffer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9506,7 +9506,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2837</ID>
-      <DefaultText>Der Körper des Ziels verwandelt sich in Stein. Wenn das Ziel zum Zeitpunkt, in dem der Zauberspruch gewoben wird, dem Tode nahe ist, stehen die Chancen auf eine dauerhafte Versteinerung gut.</DefaultText>
+      <DefaultText>Der Körper des Ziels verwandelt sich in Stein. Wenn das Ziel zum Zeitpunkt, in dem der Zauberspruch gewoben wird, Dem Tode nahe ist, stehen die Chancen auf eine dauerhafte Versteinerung gut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11307,7 +11307,7 @@ Die Priester von Berath lernen die folgenden Zaubersprüche automatisch auf der 
     </Entry>
     <Entry>
       <ID>3315</ID>
-      <DefaultText>Ernte im Namen Gauns einen Feind. Wenn der Feind blutet oder dem Tode nahe ist, verursacht die gesegnete Ernte bei ihm einen beträchtlich größeren Schaden.</DefaultText>
+      <DefaultText>Ernte im Namen Gauns einen Feind. Wenn der Feind Schwer verletzt oder Dem Tode nahe ist, verursacht die gesegnete Ernte bei ihm einen beträchtlich größeren Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11408,7 +11408,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3339</ID>
-      <DefaultText>Tod-Gottähnliche erhalten eine höhere Kraftstufe, wenn sie dem Tode nahe sind.</DefaultText>
+      <DefaultText>Tod-Gottähnliche erhalten eine höhere Kraftstufe, wenn sie Dem Tode nahe sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11783,7 +11783,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3429</ID>
-      <DefaultText>Der Träger ist immun gegen Zersetzungsschaden, wenn er so sehr verletzt wurde, dass Blut fließt, oder dem Tode nahe ist.</DefaultText>
+      <DefaultText>Der Träger ist immun gegen Zersetzungsschaden, wenn er Schwer verletzt oder Dem Tode nahe ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12048,7 +12048,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3497</ID>
-      <DefaultText>Wenn der Träger Blut vergießt, wird sämtlicher Schaden verringert, den er erleidet.</DefaultText>
+      <DefaultText>Wenn der Träger Schwer verletzt ist, wird sämtlicher Schaden verringert, den er erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12183,7 +12183,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3531</ID>
-      <DefaultText>Diese Aura reduziert die Heilung der Feinde in der Nähe, wenn der Träger schwer verletzt ist.</DefaultText>
+      <DefaultText>Diese Aura reduziert die Heilung der Feinde in der Nähe, wenn der Träger Schwer verletzt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12293,7 +12293,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3555</ID>
-      <DefaultText>Gewährt Gesundheit über längere Zeit hinweg und verringert den empfangenen Schaden, wenn der Träger sich dem Tode nahe befindet.</DefaultText>
+      <DefaultText>Gewährt Gesundheit über längere Zeit hinweg und verringert den empfangenen Schaden, wenn der Träger sich Dem Tode nahe befindet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12358,7 +12358,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3570</ID>
-      <DefaultText>Straßenkämpfer wachsen über sich selbst hinaus, wenn die Umstände gegen sie sind und werden besonders tödlich, wenn sie in der Unterzahl und verletzt sind.</DefaultText>
+      <DefaultText>Straßenkämpfer wachsen über sich selbst hinaus, wenn die Umstände gegen sie sind und werden besonders tödlich, wenn sie in der Unterzahl und Schwer verletzt sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12378,17 +12378,17 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3574</ID>
-      <DefaultText>Kritischer Waffenschaden und Schaden durch Schleichangriffe erhöhen sich und die Erholung ist schneller, wenn der Straßenkämpfer sowohl flankiert als auch verletzt ist.</DefaultText>
+      <DefaultText>Kritischer Waffenschaden und Schaden durch Schleichangriffe erhöhen sich und die Erholung ist schneller, wenn der Straßenkämpfer sowohl flankiert als auch Schwer verletzt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3575</ID>
-      <DefaultText>Schaden durch Schleichangriffe erhöht sich und die Erholung ist schneller, wenn der Straßenkämpfer flankiert oder verletzt ist.</DefaultText>
+      <DefaultText>Schaden durch Schleichangriffe erhöht sich und die Erholung ist schneller, wenn der Straßenkämpfer flankiert oder Schwer verletzt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3576</ID>
-      <DefaultText>Wenn der Straßenkämpfer weder flankiert noch verletzt ist, ist die Erholung langsamer.</DefaultText>
+      <DefaultText>Wenn der Straßenkämpfer weder flankiert noch Schwer verletzt ist, ist die Erholung langsamer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12558,7 +12558,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3610</ID>
-      <DefaultText>Wirft einen zufälligen, der Verteidigung dienenden Illusions-Zauberspruch, wenn derjenige, der den Spruch verwendet, Blut vergießt.</DefaultText>
+      <DefaultText>Wirft einen zufälligen, der Verteidigung dienenden Illusions-Zauberspruch, wenn der Zauberwirker Schwer verletzt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12663,7 +12663,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3643</ID>
-      <DefaultText>Tötet befreundete Charaktere oder Gegner, die dem Tode Nahe sind. Wenn die Klinge tötet, erhält der Träger etwas von seiner Klassenressource zurück.</DefaultText>
+      <DefaultText>Tötet befreundete Charaktere oder Gegner, die Dem Tode nahe sind. Wenn die Klinge tötet, erhält der Träger etwas von seiner Klassenressource zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14516,7 +14516,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4092</ID>
-      <DefaultText>Wenn der Träger so sehr verletzt wurde, dass Blut fließt, erhält er über eine lange Dauer eine zufällige Geistesinspiration.</DefaultText>
+      <DefaultText>Wenn der Träger Schwer verletzt ist, erhält er über eine lange Dauer eine zufällige Geistesinspiration.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14636,7 +14636,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4122</ID>
-      <DefaultText>Von Blut durchtränkt pulsiert und kräuselt sich die Rüstung offenbar unter ihrer eigenen Macht. Gewährt einen Bonus auf jegliche Verteidigung, wenn der Träger so sehr verletzt wurde, dass Blut fließt.</DefaultText>
+      <DefaultText>Von Blut durchtränkt pulsiert und kräuselt sich die Rüstung offenbar unter ihrer eigenen Macht. Gewährt einen Bonus auf jegliche Verteidigung, wenn der Träger Schwer verletzt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14646,7 +14646,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4124</ID>
-      <DefaultText>Das Blut füllt die Lücken zwischen den Verbindungsstücken und fängt so Stöße ab. Gewährt einen Bonus auf Rüstungswert, wenn der Träger so sehr verletzt wurde, dass Blut fließt.</DefaultText>
+      <DefaultText>Das Blut füllt die Lücken zwischen den Verbindungsstücken und fängt so Stöße ab. Gewährt einen Bonus auf Rüstungswert, wenn der Träger Schwer verletzt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14656,7 +14656,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4126</ID>
-      <DefaultText>Die Rüstung dürstet nach flüssiger Lebenskraft und hilft daher gerne dabei, sie zu erlangen. Gewährt einen Bonus auf Angriffsgeschwindigkeit, wenn der Träger so sehr verletzt wurde, dass Blut fließt.</DefaultText>
+      <DefaultText>Die Rüstung dürstet nach flüssiger Lebenskraft und hilft daher gerne dabei, sie zu erlangen. Gewährt einen Bonus auf Angriffsgeschwindigkeit, wenn der Träger Schwer verletzt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15271,7 +15271,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4329</ID>
-      <DefaultText>Wenn der Träger dem Tode nahe ist, erhält er einen geringen Heileffekt über Zeit.</DefaultText>
+      <DefaultText>Wenn der Träger Dem Tode nahe ist, erhält er einen geringen Heileffekt über Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15916,7 +15916,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4476</ID>
-      <DefaultText>Tötet befreundete Charaktere oder Gegner, die dem Tode Nahe sind.</DefaultText>
+      <DefaultText>Tötet befreundete Charaktere oder Gegner, die Dem Tode nahe sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15936,7 +15936,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4483</ID>
-      <DefaultText>Der Geist von Griffin erhöht den Mut der Gruppe. Gewährt dem Träger und allen nahen Verbündeten Standhaft, wenn der Träger so sehr verletzt wurde, dass Blut fließt.</DefaultText>
+      <DefaultText>Der Geist von Griffin erhöht den Mut der Gruppe. Gewährt dem Träger und allen nahen Verbündeten Standhaft, wenn der Träger Schwer verletzt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15961,7 +15961,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4493</ID>
-      <DefaultText>Diese Bronzeplatten haben noch etwas Leben in sich. Erhöht den Rüstungswert gegen Waffen, wenn der Träger so sehr verletzt wurde, dass Blut fließt.</DefaultText>
+      <DefaultText>Diese Bronzeplatten haben noch etwas Leben in sich. Erhöht den Rüstungswert gegen Waffen, wenn der Träger Schwer verletzt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16396,7 +16396,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4606</ID>
-      <DefaultText>Wenn blutig oder dem Tode nahe kann der herrliche Fluchtumhang verwendet werden, um sich schnell in Sicherheit zu bringen, die Angriffsbindung zu brechen und meisterhaft den nächsten Angriff zu vermeiden.</DefaultText>
+      <DefaultText>Wenn Schwer verletzt oder Dem Tode nahe kann der herrliche Fluchtumhang verwendet werden, um sich schnell in Sicherheit zu bringen, die Angriffsbindung zu brechen und meisterhaft den nächsten Angriff zu vermeiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16563,7 +16563,7 @@ Keine.</DefaultText>
     </Entry>
     <Entry>
       <ID>4636</ID>
-      <DefaultText>Du sollst dich nicht beugen. Stellt Gesundheit konstant her, während der Träger blutig oder Dem Tode nahe ist.</DefaultText>
+      <DefaultText>Du sollst dich nicht beugen. Stellt Gesundheit konstant her, während der Träger Schwer verletzt oder Dem Tode nahe ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
