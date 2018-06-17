@@ -3241,7 +3241,7 @@
     </Entry>
     <Entry>
       <ID>1019</ID>
-      <DefaultText>Verwundeter Bär-Schadensbonus</DefaultText>
+      <DefaultText>Keiler Regeneration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3391,7 +3391,7 @@
     </Entry>
     <Entry>
       <ID>1060</ID>
-      <DefaultText>Der tierische Gefährte des Waldläufers erhält verbesserte Schadensreduktionen gegen alle Schadensarten.</DefaultText>
+      <DefaultText>Der tierische Gefährte des Waldläufers erhält verbesserten Rüstungswert gegen alle Schadensarten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3471,7 +3471,7 @@
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>Der Barbar führt einen gewaltigen Hieb aus, der zusätzliche Kritische Treffer verursacht und den Schaden von Kritischen Treffern erhöht. Blutbad wird nicht beeinflusst.</DefaultText>
+      <DefaultText>Der Barbar führt einen gewaltigen Hieb aus, der die Wahrscheinlichkeit und den Schaden von Kritischen Treffern erhöht und Blutbad in einem größeren Bereich hinzufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3501,7 +3501,7 @@
     </Entry>
     <Entry>
       <ID>1113</ID>
-      <DefaultText>Erhöht den geteilten Bonus, der durch Verteidigungsbündnis verliehen wird.</DefaultText>
+      <DefaultText>(Gestärktes Bündnis) – Gewährt einen größeren Bonus auf Verteidigung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3616,37 +3616,37 @@
     </Entry>
     <Entry>
       <ID>1196</ID>
-      <DefaultText>Groll des Bildnisses Aloth</DefaultText>
+      <DefaultText>Groll des Bildnisses: Aloth</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1197</ID>
-      <DefaultText>Groll des Bildnisses Durance</DefaultText>
+      <DefaultText>Groll des Bildnisses: Durance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1198</ID>
-      <DefaultText>Groll des Bildnisses Trauernde Mutter</DefaultText>
+      <DefaultText>Groll des Bildnisses: Trauernde Mutter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1199</ID>
-      <DefaultText>Groll des Bildnisses Hiravias</DefaultText>
+      <DefaultText>Groll des Bildnisses: Hiravias</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1200</ID>
-      <DefaultText>Groll des Bildnisses Kana</DefaultText>
+      <DefaultText>Groll des Bildnisses: Kana</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1201</ID>
-      <DefaultText>Groll des Bildnisses Pallegina</DefaultText>
+      <DefaultText>Groll des Bildnisses: Pallegina</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1202</ID>
-      <DefaultText>Groll des Bildnisses Sagani</DefaultText>
+      <DefaultText>Groll des Bildnisses: Sagani</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3656,7 +3656,7 @@
     </Entry>
     <Entry>
       <ID>1208</ID>
-      <DefaultText>Bei allen Angriffen gegen Feinde mit niedriger Ausdauer werden einige Treffer in Kritische Treffer umgewandelt und alle Kritischen Treffer richten zusätzlichen Schaden an.</DefaultText>
+      <DefaultText>Bei allen Angriffen gegen Feinde, die Dem Tode nahe sind, werden einige Treffer in Kritische Treffer umgewandelt und alle Kritischen Treffer richten zusätzlichen Schaden an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3666,7 +3666,7 @@
     </Entry>
     <Entry>
       <ID>1210</ID>
-      <DefaultText>Verringert die Regenerationszeit beim Wechseln von Waffen oder von Zaubern in Zauberbüchern.</DefaultText>
+      <DefaultText>Verringert die Regenerationszeit beim Wechseln von Waffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3681,7 +3681,7 @@
     </Entry>
     <Entry>
       <ID>1238</ID>
-      <DefaultText>Der maximale Fokus des Mediums steigt an.</DefaultText>
+      <DefaultText>Das Medium startet mit einem höheren Fokus und der maximale Fokus ist ebenfall erhöht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3741,7 +3741,7 @@
     </Entry>
     <Entry>
       <ID>1306</ID>
-      <DefaultText>Nachdem sie einem Willensangriff ausgesetzt waren, erhalten wilde Orlaner vorübergehend einen Bonus auf alle Verteidigungen.</DefaultText>
+      <DefaultText>Wilde Orlans sind von Natur aus geistig gesund und erwerben eine Resistenz gegen Entschlossenheitswirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3756,7 +3756,7 @@
     </Entry>
     <Entry>
       <ID>1315</ID>
-      <DefaultText>Bis an die Zähne bewaffnet</DefaultText>
+      <DefaultText>Zwischen den Wellen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3786,7 +3786,7 @@
     </Entry>
     <Entry>
       <ID>1324</ID>
-      <DefaultText>Schießt einen magischen Magieblitz aus dem Zauberbuch, das Zielen im Wirkungsbereich direkten Schaden zufügt und zu Benommenheit führt.</DefaultText>
+      <DefaultText>Schießt einen magischen Magieblitz aus dem Zauberbuch, das Zielen im Wirkungsbereich direkten Schaden zufügt und sie Benommen macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3806,7 +3806,7 @@
     </Entry>
     <Entry>
       <ID>1328</ID>
-      <DefaultText>Bezieht stärkende Kraft der Natur und bewirkt einen Bereich, der die Inspiration Fit gewährt. Womit erhöhte maximale Ausdauer verbunden ist.</DefaultText>
+      <DefaultText>Bezieht stärkende Kraft der Natur und bewirkt einen Bereich, der die Inspiration Fit gewährt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3816,7 +3816,7 @@
     </Entry>
     <Entry>
       <ID>1330</ID>
-      <DefaultText>Der Kämpfer konzentriert sich intensiv auf seine Ausbildung, wodurch er die Inspiration Aufmerksam erhält und seine Genauigkeit für eine kurze Zeit deutlich erhöht wird.</DefaultText>
+      <DefaultText>Der Kämpfer konzentriert sich intensiv auf seine Ausbildung, wodurch er die Inspiration Aufmerksam erhält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3826,12 +3826,12 @@
     </Entry>
     <Entry>
       <ID>1334</ID>
-      <DefaultText>Vogel–Gottähnliche sind mit Fernwaffen schwer zu treffen. Sie erhalten einen Abwehr–Bonus gegen solche Angriffe. Wenn seine Ausdauer unter 50% fällt, steigern sich die Sinne und die Bewegungsfähigkeit eines Vogel–Gottähnlichen – er erhält einen Bonus auf Wahrnehmung und Verteidigung gegen Absetzangriffe.</DefaultText>
+      <DefaultText>Vogel–Gottähnliche sind scharfsinnig und präzise. Sie besitzen eine Resistenz gegen die Wirkungen Intellekt und  Wahrnehmung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1336</ID>
-      <DefaultText>Tod-Gottähnliche scheinen ein angeborenes Gespür dafür zu haben, wann ihre Feinde kurz vor dem Tod stehen und daher besonders verwundbar sind. Gegen alle Ziele mit niedriger Ausdauer erhalten Tod-Gottähnliche einen Schadensbonus.</DefaultText>
+      <DefaultText>Tod-Gottähnliche scheinen ein angeborenes Gespür dafür zu haben, wann ihre Feinde kurz vor dem Tod stehen und daher besonders verwundbar sind. Gegen alle Ziele, die Dem Tode nahe sind, richten Tod-Gottähnliche mehr Schaden aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3871,7 +3871,7 @@
     </Entry>
     <Entry>
       <ID>1345</ID>
-      <DefaultText>Der Mönch erhält zwei modale Fähigkeiten, durch die er zwischen einem Bonus auf seine Abwehr und einem Bonus auf alle anderen Verteidigungen wechseln kann.</DefaultText>
+      <DefaultText>Der Mönch erhält zwei modale Fähigkeiten, die es ihm erlauben, zwischen dem Verbinden seiner eingehenden Wunden mit seinem Körper (Konstitutionsbonus) oder seinem Geist (Intellektbonus) zu wechseln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3896,7 +3896,7 @@
     </Entry>
     <Entry>
       <ID>1391</ID>
-      <DefaultText>Ein Trio von Steinklauen bricht aus dem Boden hervor. Jeder, der im Wirkungsbereich gefangen ist, wird versteinert und mit Hiebschaden belegt.</DefaultText>
+      <DefaultText>Ein Trio von Steinklauen bricht aus dem Boden hervor. Jeder, der im Wirkungsbereich gefangen ist, wird versteinert, gelähmt und mit Hiebschaden belegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3996,7 +3996,7 @@
     </Entry>
     <Entry>
       <ID>1421</ID>
-      <DefaultText>Der Schmerz seiner Wunden ermöglicht es dem Mönch, Schadensreduktion gegen erlittene Angriffe aufzubauen.</DefaultText>
+      <DefaultText>(Eisenrad) – Der Schmerz seiner Wunden ermöglicht es dem Mönch, Rüstungswert gegen erlittene Angriffe aufzubauen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4061,7 +4061,7 @@
     </Entry>
     <Entry>
       <ID>1463</ID>
-      <DefaultText>Der Druide zieht die rohe spirituelle Energie der Natur zusammen und manifestiert sie in Form von 2 oder 3 zufälligen Schleimen.</DefaultText>
+      <DefaultText>Der Druide zieht die rohe spirituelle Energie der Natur zusammen und manifestiert sie in Form von einer zufälligen Anzahl an Schlämmen und Schleimen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4071,7 +4071,7 @@
     </Entry>
     <Entry>
       <ID>1465</ID>
-      <DefaultText>Der Druide belegt seine Verbündeten mit einer mächtigen Aegis gegen die Mächte der Natur. Die Aegis verleiht einen starken Widerstand gegen Brand-, Zersetzungs-, Frost- und Elektroschockschaden.</DefaultText>
+      <DefaultText>Der Druide belegt seine Verbündeten mit einer mächtigen Ägis gegen die Mächte der Natur. Die Ägis verleiht einen Rüstungswert gegen Brand-, Zersetzungs-, Frost- und Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4081,12 +4081,12 @@
     </Entry>
     <Entry>
       <ID>1467</ID>
-      <DefaultText>Der Kämpfer führt einen Primärangriff aus, der zusätzlichen Schaden verursacht und die grundlegende Schadensreduktion des Ziels verringert.</DefaultText>
+      <DefaultText>Der Kämpfer führt einen Primärangriff aus, der einen Bonus auf Durchdringung erhält und den Rüstungswert des Ziels verringert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1468</ID>
-      <DefaultText>Der Paladin konzentriert seinen Glauben und geht in blauen Flammen auf. Jedes Mal, wenn die Fähigkeit pulsiert, erleidet der Paladin eine geringe Menge an rohem Schaden – Feinde im Wirkungsbereich aber erleiden Brandschaden. Verbündete erhalten eine geringe Menge an Ausdauer.</DefaultText>
+      <DefaultText>Der Paladin konzentriert seinen Glauben und geht in blauen Flammen auf. Jedes Mal, wenn die Fähigkeit pulsiert, erleidet der Gegner in der unmittelbaren Umgebung Brandschaden, während dem Paladin ein Teil seiner gesamten Gesundheit als direkter Schaden zugefügt wird. (Dieser Schaden kann den Paladin töten)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4096,7 +4096,7 @@
     </Entry>
     <Entry>
       <ID>1470</ID>
-      <DefaultText>Der Priester wird von einer göttlichen Macht erfüllt und beginnt, auf übernatürliche Weise zu strahlen. Als niederer Avatar seiner Gottheit erhält er Boni auf alle Attribute, auf die Ausdauer, die Gesundheit und den Waffenschaden.</DefaultText>
+      <DefaultText>Der Priester wird von einer göttlichen Macht erfüllt und beginnt, auf übernatürliche Weise zu strahlen. Als niederer Avatar seiner Gottheit erhält er Boni auf alle Attribute, auf die Gesundheit und den Waffenschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4111,7 +4111,7 @@
     </Entry>
     <Entry>
       <ID>1474</ID>
-      <DefaultText>Der tierische Gefährte des Waldläufers fällt zu Boden und spielt für eine begrenze Zeit tot (das heißt, er kann nicht als Ziel ausgewählt werden). Während er tot spielt, regeneriert der Gefährte Ausdauer.</DefaultText>
+      <DefaultText>Der tierische Gefährte des Waldläufers fällt zu Boden und spielt für eine begrenze Zeit tot. Wenn der Gefährte wieder aufsteht, regeneriert er Gesundheit für die Zeitdauer, in der er sich tot stellte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4131,7 +4131,7 @@
     </Entry>
     <Entry>
       <ID>1478</ID>
-      <DefaultText>Dieser Zauber fügt dem Ziel eine große Menge an reinem Schaden zu. Jeder Nicht-Geist, der durch den Angriff fällt, beschwört einen Geist, der unter der Kontrolle des Zauberwirkers steht.</DefaultText>
+      <DefaultText>Dieser Zauber fügt dem Ziel eine große Menge an direktem Schaden zu. Jeder Nicht-Geist, der durch den Angriff fällt, beschwört einen Geist, der unter der Kontrolle des Zauberwirkers steht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4141,7 +4141,7 @@
     </Entry>
     <Entry>
       <ID>1480</ID>
-      <DefaultText>Die Chaoskugel ist nach dem exzentrischen aedyranischen Zauberer Tayn benannt. Sie springt zwischen mehreren Feinden hin und her. Dabei fügt sie den Zielen Schaden zu und belegt sie mit einer Reihe von negativen Wirkungen, beispielsweise Versteinert, Gelähmt, Geschwächt, Erkrankt, Betäubt und Geblendet.</DefaultText>
+      <DefaultText>Die Chaoskugel ist nach dem exzentrischen aedyrischen Zauberer Tayn benannt. Sie springt zwischen mehreren Feinden hin und her. Dabei fügt sie den Zielen Schaden zu und belegt sie mit einer Reihe von negativen Wirkungen, beispielsweise Versteinert, Gelähmt, Geschwächt, Erkrankt, Betäubt und Geblendet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4156,7 +4156,7 @@
     </Entry>
     <Entry>
       <ID>1543</ID>
-      <DefaultText>Der Zauberwirker beschwört einen gewaltigen elektrischen Bliz, der direkt auf ein einzelnes Ziel springt und anschließend auf bis zu sechs Feinde in der Nähe weiterspringt. Andere im Wirkungsbereich erleiden keinen Schaden durch den arkanen Blitz.</DefaultText>
+      <DefaultText>Der Zauberwirker beschwört einen gewaltigen elektrischen Bliz, der direkt auf ein einzelnes Ziel springt und anschließend auf weitere Feinde in der Nähe überspringt. Andere im Wirkungsbereich erleiden keinen Schaden durch den arkanen Blitz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4191,7 +4191,7 @@
     </Entry>
     <Entry>
       <ID>1569</ID>
-      <DefaultText>Der Dieb führt einen Primärangriff aus, der das Ziel Verwirrt und zum Humpeln bringt.</DefaultText>
+      <DefaultText>Der Dieb führt einen Primärangriff aus, der dem Ziel mit den Effekt Verwirrt und Humpelnd zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4206,7 +4206,7 @@
     </Entry>
     <Entry>
       <ID>1572</ID>
-      <DefaultText>Concelhauts Variante von Minolettas kleinen Fluggeschossen verursacht direkten Schaden, greift die Tapferkeit des Ziels an und verleiht dem Wirker vom Ziel entzogene Ausdauer.</DefaultText>
+      <DefaultText>Concelhauts Variante von Minolettas kleinen Fluggeschossen verursacht direkten Schaden, greift die Tapferkeit des Ziels an und verleiht dem Wirker vom Ziel entzogene Gesundheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4216,12 +4216,12 @@
     </Entry>
     <Entry>
       <ID>1577</ID>
-      <DefaultText>Vernichtet Feinde mit einem mächtigen Wind kalter Luft, der die Bewegung verlangsamt und Frostschaden anrichtet (wobei er eine große Menge SR ignoriert).</DefaultText>
+      <DefaultText>Vernichtet Feinde mit einem mächtigen Wind kalter Luft, der die Bewegung verlangsamt sowie Frost- und Wuchtschaden anrichtet (mit hoher Durchdringung).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1578</ID>
-      <DefaultText>Der Sänger füllt sich mit wilder Energie, wodurch er die Inspiration Munter erhält und seine Angriffsgeschwindigkeit deutlich erhöht.</DefaultText>
+      <DefaultText>Der Sänger füllt sich mit wilder Energie, wodurch er die Inspiration Munter erhält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4491,7 +4491,7 @@
     </Entry>
     <Entry>
       <ID>1721</ID>
-      <DefaultText>Ermöglicht es dem Schurken, jeglichen Angriff zu durchbrechen und dem nächsten Angriff gekonnt auszuweichen – er springt einfach an einen anderen Ort, außer Reichweite. Anschließend Lähmt der nächste Angriff des Schurken mit seiner Hauptwaffe das Ziel.</DefaultText>
+      <DefaultText>Ermöglicht es dem Schurken, jeglichen Angriff zu durchbrechen und dem nächsten Angriff gekonnt auszuweichen – er springt einfach an einen anderen Ort, außer Reichweite. Anschließend wird das Ziel beim nächsten Angriff des Schurken mit seiner Hauptwaffe Gelähmt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4511,7 +4511,7 @@
     </Entry>
     <Entry>
       <ID>1730</ID>
-      <DefaultText>Der Sänger erschafft zwei reflektierende Strahlen aus purem Licht. Verbündete, die von ihnen berührt werden, regenerieren Leben und erhalten Immunität gegen negative Willenswirkungen.</DefaultText>
+      <DefaultText>Der Sänger erschafft zwei reflektierende Strahlen aus purem Licht. Verbündete, die von ihnen berührt werden, regenerieren Gesundheit und erhalten Immunität gegen Entschlossenheitswirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4541,7 +4541,7 @@
     </Entry>
     <Entry>
       <ID>1742</ID>
-      <DefaultText>Der Mönch schleudert ein Ziel in die Luft, schmettert es wieder zu Boden und lässt es niedergestreckt zurück.</DefaultText>
+      <DefaultText>Der Mönch schleudert ein Ziel in die Luft, schmettert es wieder zu Boden und lässt es Niedergestreckt zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4586,7 +4586,7 @@
     </Entry>
     <Entry>
       <ID>1754</ID>
-      <DefaultText>Zeichnet das Symbol von Wael auf den Boden, das Gegnern in regelmäßigen Abständen Frostschaden zufügt und Verbündeten Resistenz gegen die Wirkungen Bezaubert, Verwirrt oder Beherrscht verleiht.</DefaultText>
+      <DefaultText>Zeichnet das Symbol von Wael auf den Boden, das Gegnern in regelmäßigen Abständen Frostschaden zufügt und Verbündeten Konzentration verleiht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4596,12 +4596,12 @@
     </Entry>
     <Entry>
       <ID>1760</ID>
-      <DefaultText>Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verlieren, erleidet der Partner die normalen Auswirkungen von Verbundene Trauer. Zusätzlich wird er aber für kurze Zeit von konzentriertem Zorn erfüllt und erhält die Inspirationen Flink und Hartnäckig. Während dieser Zeit erhöhen sich seine Geschwindigkeit, seine Bewegung und sein Schaden.</DefaultText>
+      <DefaultText>Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verlieren, erleidet der Partner die normalen Auswirkungen von Verbundene Trauer. Zusätzlich wird er aber für kurze Zeit von konzentriertem Zorn erfüllt und erhält die Inspirationen Flink und Hartnäckig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1761</ID>
-      <DefaultText>Der Waldläufer kann seinen tierischen Gefährten wiederbeleben und eine geringe Menge an Leben wiederherstellen.</DefaultText>
+      <DefaultText>Der Waldläufer kann seinen tierischen Gefährten wiederbeleben und eine geringe Menge an Gesundheit wiederherstellen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
