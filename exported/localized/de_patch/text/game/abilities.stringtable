@@ -711,7 +711,7 @@
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>Befiehlt einem einzelnen Feind, stehenzubleiben, wodurch all seine Bewegungen vorübergehend eingestellt werden.</DefaultText>
+      <DefaultText>Befiehlt einem einzelnen Feind, stehenzubleiben, wodurch es Bewegunsunfähig wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -771,7 +771,7 @@
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>Belegt das Ziel mit einer ansteckenden und hemmenden Krankheit, die es behindert und schwächt, bevor sie auf andere Feinde überspringt.</DefaultText>
+      <DefaultText>Belegt das Ziel mit einer ansteckenden und hemmenden Krankheit, die es Humpeln lässti und schwächt, bevor sie auf andere Feinde überspringt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -871,7 +871,7 @@
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>Der Zauberwirker nutzt seine Lebenskraft, um die Inspiration Schnell zu erwerben auf Kosten seiner eigenen Gesundheit, die stetig abnimmt.</DefaultText>
+      <DefaultText>Der Zauberwirker nutzt seine Lebenskraft, um die Inspiration Schwungvoll zu erwerben auf Kosten seiner eigenen Gesundheit, die stetig abnimmt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1406,7 +1406,7 @@
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>Die Hand des Zauberwirkers wird zu einem giftigen Parasiten, der dem Ziel Zersetzungsschaden zufügt, es schwächt, und seine Lebenskraft in Gesundheit für den Zauberwirker umwandelt.</DefaultText>
+      <DefaultText>Die Hand des Zauberwirkers wird zu einem giftigen Parasiten, der dem Ziel Zersetzungsschaden zufügt, es entkräftet, und seine Lebenskraft in Gesundheit für den Zauberwirker umwandelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2881,7 +2881,7 @@
     </Entry>
     <Entry>
       <ID>885</ID>
-      <DefaultText>Ein Schlag auf den Kopf, der die Reaktionsfähigkeit der Feinde beeinträchtigen soll. Feinde, die von einem erfolgreichen Angriff betroffen sind, werden Benommen.</DefaultText>
+      <DefaultText>Ein Schlag auf den Kopf, der die Reaktionsfähigkeit der Feinde beeinträchtigen soll. Feinde, die von einem erfolgreichen Angriff betroffen sind, werden Betäubt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4096,7 +4096,7 @@
     </Entry>
     <Entry>
       <ID>1470</ID>
-      <DefaultText>Der Priester wird von einer göttlichen Macht erfüllt und beginnt, auf übernatürliche Weise zu strahlen. Als niederer Avatar seiner Gottheit erhält er Boni auf alle Attribute, auf die Gesundheit und den Waffenschaden.</DefaultText>
+      <DefaultText>Der Priester wird von einer göttlichen Macht erfüllt und beginnt, auf übernatürliche Weise zu strahlen. Als niederer Avatar seiner Gottheit erhält er alle Inspirationen der Stufe 1: Stark, Schnell, Fit, Einsichtig, Standhaft, Klug sowie einen Bonus auf die Gesundheit und den Waffenschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5751,7 +5751,7 @@ Einhändig: Reiner Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2057</ID>
-      <DefaultText>(Auslöschender Hieb) – Gegner in der Nähe des Ziels werden durch den Angriff Verängstigt.</DefaultText>
+      <DefaultText>(Auslöschender Hieb) – Gegner in der Nähe des Ziels werden durch den Angriff Erschüttert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8851,7 +8851,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2701</ID>
-      <DefaultText>Löst ein lautes Stimmengewirr aus, das Gegner nach hinten wirft und Betäubt.</DefaultText>
+      <DefaultText>Löst ein lautes Stimmengewirr aus, das Gegner nach hinten wirft und Benommen macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9136,7 +9136,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2760</ID>
-      <DefaultText>(Beständige Schatten) – Die Unsichtbarkeit hält wesentlich länger an und gewährt die Inspiration Schnell.</DefaultText>
+      <DefaultText>(Beständige Schatten) – Die Unsichtbarkeit hält wesentlich länger an und gewährt die Inspiration Schwungvoll.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9566,7 +9566,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2849</ID>
-      <DefaultText>Ruft einen Mantel schwarzer Energie hervor, der um den Zauberer herum wirbelt. Der Mantel vernichtet die Nahkampf-Angreifer des Zauberers und nimmt sie für kurze Zeit in Dunkelheit gefangen. Während dieser Zeit sind sie aller Aktionen unfähig. Außerdem erhalten sie raschen direkten Schaden über längere Zeit.</DefaultText>
+      <DefaultText>Ruft einen Mantel schwarzer Energie hervor, der um den Zauberer herum wirbelt. Der Mantel vernichtet die Nahkampf-Angreifer des Zauberers und Betäubt sie für kurze Zeit in Dunkelheit. Während dieser Zeit sind sie aller Aktionen unfähig. Außerdem erhalten sie raschen direkten Schaden über längere Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
