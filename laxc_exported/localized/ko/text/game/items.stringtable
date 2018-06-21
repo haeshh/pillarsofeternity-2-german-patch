@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5454</ID>
+      <DefaultText>살아있는 강철 닻</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5455</ID>
+      <DefaultText>바다의 일반적인 추세는 여전히 평범한 강철 닻이다. 하지만 살아있는 강철로 된 닻을 능히 부담할 수 있는 자에겐, 영혼의 정수가 주입된 원자재 사용 역시 어렵지 않을 것이다. 이렇게 살아있는 강철로 구성된 선박은 기능을 온전히 보존함과 동시에 더 높은 수준의 기동성을 확보하는 장점이 있다.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5456</ID>
+      <DefaultText>마그란의 화염방사기</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5457</ID>
+      <DefaultText>공학의 상아탑과도 같은 이 병기는, 적 선박에 점화한 기름을 마구 내뿜는다. 즉, 접근해온 공격자에게 궤멸적인 공격을 즉시 가할 수 있는 것이다. 초기 실험적인 화염 방사기는 여러모로 모호한 결과가 나오기도 했다. 사용자가 실수를 범하거나 기계가 오작동하는 바람에 통제할 수 없는 대화재가 일어나, 기껏 화염 방사기를 탑재한 선박을 태워버리는 일이 발생하곤 했던 것이다. 하지만 최근 고안된 설계는 그러한 위험성을 줄였으며, 절실했던 안전 기능을 탑재한 형태로 완성되었다.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5458</ID>
+      <DefaultText>블라이트 등불</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5459</ID>
+      <DefaultText>내부에 난폭한 불꽃이 날뛰고 있는 등불이다. 대부분의 선박은 일반적으로 기름과 심지를 활용한 등불을 사용하지만, 이 등불은 사실 화염 블라이트를 붙잡아 두고 있는 작은 감옥이다. 고통과 좌절에 휩싸인 블라이트는 눈에 띄는 유일한 구멍, 즉 창을 통해 탈출하고자 사력을 쏟는다. 다시 말해서 최대한 효율적으로 앞길을 비출 수 있는 것이다.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5460</ID>
+      <DefaultText>야자수 돛</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5461</ID>
+      <DefaultText>야자수 돛은 후아나 전쟁 카누에 자주 사용되는 유연하고 가벼운 야자수 잎으로 제작되었다. 적의 포화를 잘 견딜 수 있는 내구성은 갖추고 있지 않지만, 바람을 잘 받는 성질로 인해 위험으로부터 재빨리 달아날 수 있게 해준다.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5462</ID>
+      <DefaultText>럴커 키와 방향타</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5463</ID>
+      <DefaultText>조선 공학에서는 평범한 목재를 사용하는 게 일반적이다. 하지만 덩굴 럴커의 껍질을 최대한 활용하는데 익숙해진 조선공들도 일부 존재하는 것이 사실이다. 덩굴 럴커의 껍질은 유연하고, 튼튼하며, 자연적으로 방수가 되는 성질이 있다. 거기에 윤활유 역할까지 해줌으로써 조종의 용이성을 높여주는 수액을 배출하기까지 한다. 유일한 문제점이 있다면 소재 확보의 어려움을 들 수 있겠다.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

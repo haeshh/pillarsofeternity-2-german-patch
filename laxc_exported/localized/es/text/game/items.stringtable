@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5454</ID>
+      <DefaultText>Ancla de acero viviente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5455</ID>
+      <DefaultText>Aunque las anclas de acero mundanas son el estándar marítimo, aquellos que pueden permitirse las anclas de acero viviente están menos presionados por tener que usar materiales infundidos con esencia de alma. Los buques que incorporan acero vivo son más maniobrables sin sacrificar la funcionalidad.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5456</ID>
+      <DefaultText>Lanzallamas magranite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5457</ID>
+      <DefaultText>Esta maravilla de la ingeniería escupe una corriente de petróleo encendido contra los barcos enemigos, lo que constituye una sorpresa devastadora para cualquier atacante de corto alcance en el mar. Los primeros experimentos con lanzallamas dieron resultados mixtos, ya que los errores humanos o mecánicos a menudo daban lugar a conflagraciones incontrolables que consumían a cualquier nave lo bastante valiente como para manejar el arma volátil. Los diseños más recientes han reducido el elemento de riesgo e incorporado funciones de seguridad muy necesarias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5458</ID>
+      <DefaultText>Farol de plaga</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5459</ID>
+      <DefaultText>Un fuego errático salta violentamente contra el cristal de esta linterna. Dispensado con el aceite tradicional y la mecha de la mayoría de las luces navales, este buque es en realidad una pequeña prisión que contiene una sola plaga de llamas. Angustiada y frustrada, la plaga concentra sus intentos de escape contra la única abertura visible: la ventana, que hace que el rayo más efectivo ilumine el camino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5460</ID>
+      <DefaultText>Velas de palma</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5461</ID>
+      <DefaultText>Estas velas están hechas de hojas de palma flexibles y ligeras que se usan a menudo en canoas de guerra huana. Puede que no soporten los ataques de fuego enemigos, pero atrapan el viento con un poderoso golpe que promete alejar a los barcos del peligro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5462</ID>
+      <DefaultText>Casco y timón de acechador</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5463</ID>
+      <DefaultText>La madera tradicional es un elemento básico de la ingeniería marítima, pero algunos constructores de barcos han comenzado a usar la corteza de los acechadores de vid siempre que sea posible. El material es flexible, robusto, resistente a las condiciones naturales y emana una savia única que lubrica para facilitar la dirección. El único problema es obtener la materia prima.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

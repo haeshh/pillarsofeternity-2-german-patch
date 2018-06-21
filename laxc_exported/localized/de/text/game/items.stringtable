@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5454</ID>
+      <DefaultText>Lebender Stahlanker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5455</ID>
+      <DefaultText>Normale Stahlanker gehören zum maritimen Standard. Wer sich aber Anker aus lebendem Stahl leisten kann, hat aufgrund der mit Seelenessenz getränkten Materialien weniger Ballast. Schiffe mit lebendem Stahl sind manövrierfähiger, ohne Funktionalität einzubüßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5456</ID>
+      <DefaultText>Magranit-Flammenwerfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5457</ID>
+      <DefaultText>Dieses technische Wunder spuckt Ströme brennenden Öls auf feindliche Schiffe. Eine schreckliche Überraschung für alle Nahkampfangreifer auf See. Anfängliche Experimente mit den Flammenwerfern waren nicht immer erfolgreich. Menschliche und mechanische Fehler führten häufig zu unkontrollierbaren Brände, denen jedes Schiff zum Opfer fiel, auf dem man es wagte, die unberechenbare Waffe einzusetzen. Neuere Entwürfe haben das Risiko gemindert und dringend nötige Sicherheitsvorkehrungen eingeführt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5458</ID>
+      <DefaultText>Fäulelaterne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5459</ID>
+      <DefaultText>Ein erratisches Feuer lodert wild gegen das Glas dieser Laterne. Diese Lampe verzichtet auf Öl und Docht, wie sie in dem meisten Marineleuchten vorkommen. Dieses Gefäß ist tatsächlich ein kleines Gefängnis, in der eine einzelne Flammenfäule sitzt. Die verzweifelte und frustrierte Fäule konzentriert ihre Fluchtversuche auf die einzig sichtbare Öffnung, das Fenster. Und so entsteht ein sehr wirkungsvoller Lichtstrahl, der den Weg weist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5460</ID>
+      <DefaultText>Palmensegel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5461</ID>
+      <DefaultText>Diese Segel bestehen aus den flexiblen, leichten Palmenwedeln, aus denen häufig die Kriegskanus der Huana hergestellt werden. Sie halten vielleicht keinem feindlichen Beschuss stand, aber sie fangen den Wind mit einem kräftigen Schnappen ein, das verspricht, das Boot schnell außer Gefahr zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5462</ID>
+      <DefaultText>Lauerer-Steuer und -Ruder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5463</ID>
+      <DefaultText>Traditionelles Holz ist aus dem Schiffsbau nicht wegzudenken. Aber manche Schiffbauer verwenden lieber die Rinde der Rebenlauerer, wo dies möglich ist. Das Material ist flexibel, zäh, natürlich wasserfest und gibt ein einzigartiges Harz ab, das schmiert und das Steuern erleichtert. Nur die Rohmaterialien abholzen ist ein Problem.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

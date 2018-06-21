@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5454</ID>
+      <DefaultText>Kotwica z żywej stali</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5455</ID>
+      <DefaultText>Choć kotwice z pospolitego rodzaju tego materiału to standard wśród żeglarzy, ci, których stać na sprzęt z żywej stali, materiału przesyconego esencją dusz, mogą się pochwalić mniej obciążoną jednostką. Statki wykorzystujące taką stal są bardziej zwrotne, nie tracąc przy tym na funkcjonalności.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5456</ID>
+      <DefaultText>Magrański ogniomiotacz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5457</ID>
+      <DefaultText>Ten cud techniki pluje we wrogie statki strumieniem podpalonego oleju, urządzając wszystkim agresorom, którzy podpłyną zbyt blisko, śmiercionośną niespodziankę. Wczesne eksperymenty z ogniomiotaczami przynosiły różne rezultaty – błędy ludzkie i mechaniczne powodowały wybuchy pożarów niszczące jednostki, które ośmieliły się wykorzystać tę niestabilną broń. Nowsze projekty szczęśliwie charakteryzują się mniejszym ryzykiem pożaru i posiadają jakże potrzebne zabezpieczenia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5458</ID>
+      <DefaultText>Latarnia zguby</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5459</ID>
+      <DefaultText>O szybkę tej latarni uderza gwałtownie dziwaczny ogień. Nie wykorzystuje ona typowych dla większości morskich świateł oleju i knota, lecz stanowi małe więzienie, w którym tkwi zguba ognia. Zdenerwowana i sfrustrowana istota skupia się w próbach ucieczki na jedynym widocznym otworze – okienku – tworząc w ten sposób oświetlający drogę strumień światła.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5460</ID>
+      <DefaultText>Palmowe żagle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5461</ID>
+      <DefaultText>Żagle te uszyto z elastycznych i lekkich liści palmowych, które często wykorzystuje się w łodziach bojowych Huana. Nie wytrzymają wrogiego ostrzału, lecz łapią wiatr z łopotem, który pozwala wierzyć, że łódź szybko umknie wszelkiemu niebezpieczeństwu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5462</ID>
+      <DefaultText>Rumpel i ster z czatownika</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5463</ID>
+      <DefaultText>Najpopularniejszym materiałem w inżynierii morskiej jest tradycyjne drewno, niektórzy szkutnicy nauczyli się jednak wykorzystywać, kiedy to tylko możliwe, korę czatowników. Materiał ten jest elastyczny, wytrzymały, naturalnie odporny na złe warunki pogodowe, a także wytwarza wyjątkową żywicę, która nawilża mechanizm i ułatwia sterowanie. Jedyna trudność tkwi w jego zdobyciu.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

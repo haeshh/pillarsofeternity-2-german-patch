@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5454</ID>
+      <DefaultText>Living Steel Anchor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5455</ID>
+      <DefaultText>Though mundane steel anchors are the maritime standard, those who can afford anchors of living steel are less burdened for using materials infused with soul essence. Ships incorporating living steel are more maneuverable without sacrificing functionality.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5456</ID>
+      <DefaultText>Magranite Firethrower</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5457</ID>
+      <DefaultText>This marvel of engineering spits a stream of ignited oil at enemy ships, which makes for a devastating surprise to any close-range attacker at sea. Early experiments with firethrowers yielded mixed results, as human or mechanical error often resulted in uncontrollable conflagrations consuming any ship brave enough to wield the volatile weapon. More recent designs have reduced the element of risk and incorporated much-needed safety features. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5458</ID>
+      <DefaultText>Blight Lantern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5459</ID>
+      <DefaultText>An erratic fire leaps violently against the glass of this lantern. Dispensing with the traditional oil and wick of most naval lights, this vessel is actually a small prison containing a single flame blight. Distressed and frustrated, the blight concentrates its escape attempts against the only visible aperture: the window, which makes for a most effective beam to light the way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5460</ID>
+      <DefaultText>Palm Sails</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5461</ID>
+      <DefaultText>These sails are made of flexible, lightweight palm leaves often used on Huana war canoes. They might not endure a beating from enemy fire, but they catch the wind with a mighty snap that promises to speed a boat away from danger. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5462</ID>
+      <DefaultText>Lurker Helm and Rudder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5463</ID>
+      <DefaultText>Traditional wood is a staple of maritime engineering, but some shipwrights have taken to using the bark of vine lurkers whenever possible. The material is flexible, hardy, naturally weatherproofed, and oozes a unique sap that lubricates for easy steering. The only problem is harvesting the raw materials. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

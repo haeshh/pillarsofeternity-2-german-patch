@@ -2597,6 +2597,21 @@
     <Entry>
       <ID>581</ID>
       <DefaultText>{0:value:percent} Chance, bei kritischem Treffer mit Waffe {0:extravalue} Phrasen zu erhalten</DefaultText>
+	  <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

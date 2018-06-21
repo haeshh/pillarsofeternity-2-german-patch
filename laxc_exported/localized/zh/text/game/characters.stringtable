@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\characters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1617</ID>
+      <DefaultText>克雷托</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1618</ID>
+      <DefaultText>希玛</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1619</ID>
+      <DefaultText>鸟厌者波纳姆</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
