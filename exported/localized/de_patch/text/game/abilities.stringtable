@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3276</EntryCount>
+  <EntryCount>3285</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -711,7 +711,7 @@
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>Befiehlt einem einzelnen Feind, stehenzubleiben, wodurch es Bewegunsunfähig wird.</DefaultText>
+      <DefaultText>Befiehlt einem einzelnen Feind, stehenzubleiben, wodurch es Bewegungsunfähig wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -771,7 +771,7 @@
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>Belegt das Ziel mit einer ansteckenden und hemmenden Krankheit, die es Humpeln lässti und schwächt, bevor sie auf andere Feinde überspringt.</DefaultText>
+      <DefaultText>Belegt das Ziel mit einer ansteckenden und hemmenden Krankheit, die es Humpeln lässt und schwächt, bevor sie auf andere Feinde überspringt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9566,7 +9566,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2849</ID>
-      <DefaultText>Ruft einen Mantel schwarzer Energie hervor, der um den Zauberer herum wirbelt. Der Mantel vernichtet die Nahkampf-Angreifer des Zauberers und Betäubt sie für kurze Zeit in Dunkelheit. Während dieser Zeit sind sie aller Aktionen unfähig. Außerdem erhalten sie raschen direkten Schaden über längere Zeit.</DefaultText>
+      <DefaultText>Ruft einen Mantel schwarzer Energie hervor, der um den Zauberer herum wirbelt. Der Mantel verbannt die Nahkampf-Angreifer des Zauberers und Betäubt sie für kurze Zeit in Dunkelheit. Während dieser Zeit sind sie aller Aktionen unfähig. Außerdem erhalten sie raschen direkten Schaden über längere Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
