@@ -3111,7 +3111,7 @@
     </Entry>
     <Entry>
       <ID>963</ID>
-      <DefaultText>(Verheerender Schlag) – Erweitert das Wissen des Schurken über wichtige Anatomie, wodurch er mehr Bonus-Schaden erhält.</DefaultText>
+      <DefaultText>(Verheerender Schlag) – Erweitert das Wissen des Schurken über wichtige Anatomie, wodurch er mehr Bonusschaden erhält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3491,7 +3491,7 @@
     </Entry>
     <Entry>
       <ID>1111</ID>
-      <DefaultText>Tierische Gefährten fügen geeigneten Zielen kleine Mengen an Schleichangriff-Schaden zu.</DefaultText>
+      <DefaultText>Tierische Gefährten fügen geeigneten Zielen kleine Mengen an Schleichangriffschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5176,7 +5176,7 @@ Alle Täuschungszauber des Mediums verfügen über eine erhöhte Reichweite.
 Alle Täuschungszauber des Mediums stellen den Fokus wieder her, wenn sie erfolgreich bei einem Gegner eingesetzt werden, der anfällig für Schleichangriffe ist.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Die Seelenpeitsche gewährt weniger Bonus-Schaden und weniger Fokus gegen Ziele, die nicht anfällig für Schleichangriffe sind.</DefaultText>
+Die Seelenpeitsche gewährt weniger Bonusschaden und weniger Fokus gegen Ziele, die nicht anfällig für Schleichangriffe sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5221,7 +5221,7 @@ Maximaler Fokus ist erhöht.
 
 Das Erreichen des maximalen Fokus gewährt vorübergehend die „Aufstiegs“-Wirkung und verringert die Kosten des Kraft-Fokus auf null.
 
-Bei diesem Aufstieg schaltet sich die Seelenpeitsche nicht ab, sondern gewährt, solange der Aufstieg anhält, sogar mehr Bonus-Schaden.
+Bei diesem Aufstieg schaltet sich die Seelenpeitsche nicht ab, sondern gewährt, solange der Aufstieg anhält, sogar mehr Bonusschaden.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Wenn du dich nicht im Aufstiegs-Modus befindest, versetzt dich das auf die Mediums-Kraftstufe.
@@ -7500,7 +7500,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2421</ID>
-      <DefaultText>(Antreibendes Gebrüll) – Die Feinde werden auch zurückgeworfen und erleiden Wucht-Schaden.</DefaultText>
+      <DefaultText>(Antreibendes Gebrüll) – Die Feinde werden auch zurückgeworfen und erleiden Wuchtschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7510,7 +7510,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2423</ID>
-      <DefaultText>(Benommen machender Schrei) – Den Feinden wird Wucht-Schaden zugefügt und sie werden Benommen gemacht.</DefaultText>
+      <DefaultText>(Benommen machender Schrei) – Den Feinden wird Wuchtschaden zugefügt und sie werden Benommen gemacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9286,7 +9286,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2791</ID>
-      <DefaultText>Beschwört einen zerstörerischen Wirbelwind herauf, der die Opfer hoch in die Luft wirft und bei allen Wucht-Schaden hervorruft, die er berührt.</DefaultText>
+      <DefaultText>Beschwört einen zerstörerischen Wirbelwind herauf, der die Opfer hoch in die Luft wirft und bei allen Wuchtschaden hervorruft, die er berührt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9436,7 +9436,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2821</ID>
-      <DefaultText>Der Priester ruft Magran an, das Ziel durch Flammen zu reinigen. Daraufhin wird das Ziel bombardiert mit Flammensäulen, bis seine Sünden getilgt sind. Jede Flammensäule verursacht Brand-/Wucht-Schaden und verringert die Dauer der feindlichen und vorteilhaften Wirkungen auf das Ziel.</DefaultText>
+      <DefaultText>Der Priester ruft Magran an, das Ziel durch Flammen zu reinigen. Daraufhin wird das Ziel bombardiert mit Flammensäulen, bis seine Sünden getilgt sind. Jede Flammensäule verursacht Brand- / Wuchtschaden und verringert die Dauer der feindlichen und vorteilhaften Wirkungen auf das Ziel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9686,7 +9686,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2873</ID>
-      <DefaultText>Beschwört einen mächtigen Blitz vom Himmel auf das Ziel herab, der Schock-Schaden austeilet und es Benommen macht.</DefaultText>
+      <DefaultText>Beschwört einen mächtigen Blitz vom Himmel auf das Ziel herab, der Schockschaden austeilet und es Benommen macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10157,7 +10157,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2980</ID>
-      <DefaultText>Elektrische Blitze springen von Ziel zu Ziel, verursachen Schock-Schaden und lassen jedes Ziel in ihrer Bahn Bewegungsunfähig erstarren.</DefaultText>
+      <DefaultText>Elektrische Blitze springen von Ziel zu Ziel, verursachen Schockschaden und lassen jedes Ziel in ihrer Bahn Bewegungsunfähig erstarren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10667,7 +10667,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>3186</ID>
-      <DefaultText>Solange das Bärenjunge dir folgt, verschafft dir das einen Bonus für Tapferkeit und deiner Gruppe einen Bonus für den Nahkampf-Schaden.</DefaultText>
+      <DefaultText>Solange das Bärenjunge dir folgt, verschafft dir das einen Bonus für Tapferkeit und deiner Gruppe einen Bonus für den Nahkampfschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11543,7 +11543,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3368</ID>
-      <DefaultText>Eine reichhaltige Pulverladung sorgt für eine Explosion, die alle Ziele in Form eines Kegels erwischt, Brand-/ Wucht-Schaden zufügt, sie zurückschlägt und Benommen macht.</DefaultText>
+      <DefaultText>Eine reichhaltige Pulverladung sorgt für eine Explosion, die alle Ziele in Form eines Kegels erwischt, Brand- / Wuchtschaden zufügt, sie zurückschlägt und Benommen macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12488,7 +12488,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3596</ID>
-      <DefaultText>Lady Kaul singt durch die Klinge. Dies gewährt nach dem Zufallsprinzip Rüstungswert, Nahkampf-Schaden oder Abwehr zu Beginn eines Kampfes.</DefaultText>
+      <DefaultText>Lady Kaul singt durch die Klinge. Dies gewährt nach dem Zufallsprinzip Rüstungswert, Nahkampfschaden oder Abwehr zu Beginn eines Kampfes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14956,7 +14956,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4262</ID>
-      <DefaultText>Kotzestecher schürt das Feuer im Bauch des Trägers und füllt dessen Körper und Verstand mit volltrunkener Wut. Erhöht Nahkampf-Angriffsgeschwindigkeit und -schaden unter dem Einfluss von Alkohol.</DefaultText>
+      <DefaultText>Kotzestecher schürt das Feuer im Bauch des Trägers und füllt dessen Körper und Verstand mit volltrunkener Wut. Erhöht Nahkampfangriffsgeschwindigkeit und -schaden unter dem Einfluss von Alkohol.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

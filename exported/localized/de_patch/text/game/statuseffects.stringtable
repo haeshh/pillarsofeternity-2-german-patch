@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>{0:value:percentbonus} Nahkampf-Schaden, wenn zusammen mit einem Schild geführt</DefaultText>
+      <DefaultText>{0:value:percentbonus} Nahkampfschaden, wenn zusammen mit einem Schild geführt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Verursacht in einem kleinen Bereich Flächenschaden, als Stich- oder Hieb-Schaden; je nachdem, was besser ist</DefaultText>
+      <DefaultText>Verursacht in einem kleinen Bereich Flächenschaden, als Stich- oder Hiebschaden; je nachdem, was besser ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,7 +191,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>{0:value:percentbonus} Nahkampf-Schaden bei angegriffenen Zielen.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Nahkampfschaden bei angegriffenen Zielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,7 +306,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>{0:value:percentbonus} Nahkampf-Schaden (Erhöht sich mit der Fertigkeit Überleben)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Nahkampfschaden (Erhöht sich mit der Fertigkeit Überleben)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -991,7 +991,7 @@
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>{0:value:percentbonus} Nahkampf-Schaden für jedes angegriffene Ziel.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Nahkampfschaden für jedes angegriffene Ziel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1006,7 +1006,7 @@
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>{0:value:percentbonus} Nahkampf-Schaden für jedes angegriffene Ziel.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Nahkampfschaden für jedes angegriffene Ziel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1101,7 +1101,7 @@
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>{0:triggercount} Zersetzungsschaden alle {0:value:duration} für die Dauer von {0:triggervalue:duration} bei einem Treffer ({0:extravalue:percent} Chance, dass das Ziel bei jedem Schadenszyklus gelähmt wird)</DefaultText>
+      <DefaultText>{0:triggercount} Zersetzungsschaden alle {0:value:duration} für die Dauer von {0:triggervalue:duration} bei einem Treffer ({0:extravalue:percent} Chance, dass das Ziel bei jedem Schadenszyklus Gelähmt wird)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1356,7 +1356,7 @@
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>{0:value:percentbonus} Nahkampf-Schaden bei pflanzlichen Zielen und Zielen mit Pflanzenstatus-Wirkungen</DefaultText>
+      <DefaultText>{0:value:percentbonus} Nahkampfschaden bei pflanzlichen Zielen und Zielen mit Pflanzenstatus-Wirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1396,7 +1396,7 @@
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>+10 % Nahkampf-Schaden und +5 % Abwehr wenn angegriffen. Effekt ist dreimal stapelbar</DefaultText>
+      <DefaultText>+10 % Nahkampfschaden und +5 % Abwehr wenn angegriffen. Effekt ist dreimal stapelbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1431,7 +1431,7 @@
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Gibt für {0:value:duration} nach dem Beginn des Angriffs {0:extravalue:percent} des empfangenen Nahkampf-Schadens an die Angreifer als direkten Schaden zurück.</DefaultText>
+      <DefaultText>Gibt für {0:value:duration} nach dem Beginn des Angriffs {0:extravalue:percent} des empfangenen Nahkampfschadens an die Angreifer als direkten Schaden zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1561,7 +1561,7 @@
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>{0:value:percentbonus} empfangener Nahkampf-Schaden während der Flankierung</DefaultText>
+      <DefaultText>{0:value:percentbonus} empfangener Nahkampfschaden während der Flankierung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1586,7 +1586,7 @@
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>Fernkampf bekommt {0:value} Durchschlagskraft und {0:extravalue:percentbonus} Bonus-Schaden</DefaultText>
+      <DefaultText>Fernkampf bekommt {0:value} Durchschlagskraft und {0:extravalue:percentbonus} Bonusschaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
