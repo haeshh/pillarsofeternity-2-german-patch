@@ -56,20 +56,26 @@ public class Cleanup {
 		
 		List<Path> filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		filesInFolder.addAll(Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\laxa_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		filesInFolder.addAll(Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\laxb_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		filesInFolder.addAll(Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\laxc_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		
 		List<Path> compareFilesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		compareFilesInFolder.addAll(Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\laxa_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		compareFilesInFolder.addAll(Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\laxb_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		compareFilesInFolder.addAll(Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\laxc_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		
 		
 		List<Path> compareFilesENInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		compareFilesENInFolder.addAll(Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\laxa_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		compareFilesENInFolder.addAll(Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\laxb_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		compareFilesENInFolder.addAll(Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\laxc_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		
 		
 		//cleanupPart(jaxbUnmarshaller, marshaller, filesInFolder, compareFilesInFolder, compareFilesENInFolder);
 		
 		Cleanup cleanup = new Cleanup();
 		
-		List<Path> convertingBase = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\enhanced_ui_affliction_inspiration\\localized\\en\\text")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		List<Path> convertingBase = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\enhanced_ui_affliction_inspiration\\localized\\en\\text")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		
 		
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
@@ -81,8 +87,9 @@ public class Cleanup {
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\fr\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		cleanup.colorupdate(convertingBase, filesInFolder, "fr", jaxbUnmarshaller,marshaller);
 		
+		// It hat da auch viele Fixes mit unter gebracht
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\it\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.colorupdate(convertingBase, filesInFolder, "it", jaxbUnmarshaller,marshaller);
+		cleanup.colorupdate(convertingBase, filesInFolder, "it2", jaxbUnmarshaller,marshaller);
 		
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\es\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		cleanup.colorupdate(convertingBase, filesInFolder, "es", jaxbUnmarshaller,marshaller);
@@ -132,11 +139,13 @@ public class Cleanup {
 			
 			StringTableFile stringtable = (StringTableFile) jaxbUnmarshaller.unmarshal( path.toFile() );
 	//		StringTableFile compareStringtable = (StringTableFile) jaxbUnmarshaller.unmarshal( compareFile.toFile() );
-	//		StringTableFile compareENStringtable = (StringTableFile) jaxbUnmarshaller.unmarshal( compareENFile.toFile() );
+			StringTableFile compareENStringtable = (StringTableFile) jaxbUnmarshaller.unmarshal( compareENFile.toFile() );
 	//		if(stringtable.getEntries().size() != compareStringtable.getEntries().size() || stringtable.getEntries().size() != compareENStringtable.getEntries().size()) {
 	//			System.out.println(compareFile.toString());
 	//			System.out.println(stringtable.getEntries().size() + " <-> " + compareStringtable.getEntries().size() + " <-> " + compareENStringtable.getEntries().size());
 	//		}
+			
+			
 			
 			
 			for(Entry entry : stringtable.getEntries())
@@ -180,21 +189,25 @@ public class Cleanup {
 				unwanted.a += count2.a;
 				//		entry.DocuHelper();
 				
-				entry.compareTags2();
-				allTags.addAll(entry.tagViewHelper());
+		//		entry.compareTags2();
+		//		allTags.addAll(entry.tagViewHelper());
 				
 		//		counter.addAll(entry.counter());
 				
 		//		for (java.util.Map.Entry<String, Integer> elem : entry.wordCount().entrySet()) {
 				//	wordCount.merge(elem.getKey(), elem.getValue(), (x, y) -> x + y); 
 		//		}
+				
+				
 			}
 			
-/*			ListIterator<Entry> enIterator = compareENStringtable.getEntries().listIterator();
+			ListIterator<Entry> enIterator = compareENStringtable.getEntries().listIterator();
 			for(Entry entry : stringtable.getEntries())
 			{
-				entry.compareTags(enIterator.next());
-			}*/
+//				entry.compareTags(enIterator.next());
+				if(entry.getID() > 80000) continue; // die für den Enzyclopädie fix
+				entry.compareIsTranslated(enIterator.next());
+			}
 		    m.marshal(stringtable, path.toFile());
 			
 		    List<String> lines = Files.readAllLines(path, Charset.forName("UTF-8")); 
@@ -240,8 +253,6 @@ public class Cleanup {
 	
 
 	private void colorupdate(List<Path> convertingBase, List<Path> orginalLanguage, String language, Unmarshaller jaxbUnmarshaller, Marshaller marshaller) throws JAXBException, IOException {
-		
-		
 		for (Path colorful : convertingBase) {
 			for (Path plain : orginalLanguage) {
 				if(colorful.getFileName().equals(plain.getFileName())) {
@@ -251,17 +262,38 @@ public class Cleanup {
 					outputFile.setName(plainTexts.getName());
 					outputFile.setNextEntryID(plainTexts.getNextEntryID());
 					outputFile.setEntryCount(plainTexts.getEntryCount());
+					StringTableFile outputFileDamage = new StringTableFile();
+					outputFileDamage.setName(plainTexts.getName());
+					outputFileDamage.setNextEntryID(plainTexts.getNextEntryID());
+					outputFileDamage.setEntryCount(plainTexts.getEntryCount());
+					StringTableFile outputFileCombined = new StringTableFile();
+					outputFileCombined.setName(plainTexts.getName());
+					outputFileCombined.setNextEntryID(plainTexts.getNextEntryID());
+					outputFileCombined.setEntryCount(plainTexts.getEntryCount());
 					
 					for(Entry colorfulEntry : colorfulTexts.getEntries())
 					{
 						for (Entry plainEntry : plainTexts.getEntries()) {
 							if(colorfulEntry.getID() == plainEntry.getID()) {
 								Entry coloredEntry = plainEntry.replaceAfflictionWithColor(language);
-								outputFile.getEntries().add(coloredEntry);
+								if(coloredEntry != null)
+									outputFile.getEntries().add(coloredEntry);
+								
+								Entry damageIconEntry = plainEntry.replaceDamageTypeWithIcon(language);
+								if(damageIconEntry != null)
+									outputFileDamage.getEntries().add(damageIconEntry);
+								
+								if(coloredEntry != null && damageIconEntry != null) {
+									Entry booth = coloredEntry.replaceDamageTypeWithIcon(language);
+									outputFileCombined.getEntries().add(booth);
+									System.out.println("Clash \n" + coloredEntry.getDefaultText() + "\n" + damageIconEntry.getDefaultText() + "\n"+ booth.getDefaultText());
+								}
 							}
 						}
 					}
-					File file = new File("C:\\Repositories\\pillarsofeternity-2-german-patch\\enhanced_ui_affliction_inspiration\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
+					
+					// Affliction
+					File file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\enhanced_ui_affliction_inspiration\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
 					file.getParentFile().mkdirs();
 					file.createNewFile();
 					Path path = Paths.get(file.getPath());
@@ -271,6 +303,33 @@ public class Cleanup {
 					lines.set(0, lines.get(0).replaceAll("encoding=\"UTF-8\" standalone=\\\"yes\\\"", "encoding=\"utf-8\""));
 					lines.set(1, lines.get(1).replaceAll("xmlns:xs=", "xmlns:xsd="));
 					List<String> modified = lines.stream().map(x -> {return x.replaceAll("    ", "  ").replaceFirst("<DefaultText></DefaultText>", "<DefaultText />").replaceFirst("<FemaleText></FemaleText>", "<FemaleText />");}).collect(Collectors.toList());
+					Files.write(path, modified);
+					
+					
+					// Damage
+					file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\enhanced_ui_damagetypes_defenses\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
+					file.getParentFile().mkdirs();
+					file.createNewFile();
+					path = Paths.get(file.getPath());
+					marshaller.marshal(outputFileDamage, file);
+					
+					lines = Files.readAllLines(path, Charset.forName("UTF-8")); 
+					lines.set(0, lines.get(0).replaceAll("encoding=\"UTF-8\" standalone=\\\"yes\\\"", "encoding=\"utf-8\""));
+					lines.set(1, lines.get(1).replaceAll("xmlns:xs=", "xmlns:xsd="));
+					modified = lines.stream().map(x -> {return x.replaceAll("    ", "  ").replaceFirst("<DefaultText></DefaultText>", "<DefaultText />").replaceFirst("<FemaleText></FemaleText>", "<FemaleText />");}).collect(Collectors.toList());
+					Files.write(path, modified);
+					
+					// Combined, only clashes
+					file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\enhanced_ui_zzz_multiple\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
+					file.getParentFile().mkdirs();
+					file.createNewFile();
+					path = Paths.get(file.getPath());
+					marshaller.marshal(outputFileCombined, file);
+					
+					lines = Files.readAllLines(path, Charset.forName("UTF-8")); 
+					lines.set(0, lines.get(0).replaceAll("encoding=\"UTF-8\" standalone=\\\"yes\\\"", "encoding=\"utf-8\""));
+					lines.set(1, lines.get(1).replaceAll("xmlns:xs=", "xmlns:xsd="));
+					modified = lines.stream().map(x -> {return x.replaceAll("    ", "  ").replaceFirst("<DefaultText></DefaultText>", "<DefaultText />").replaceFirst("<FemaleText></FemaleText>", "<FemaleText />");}).collect(Collectors.toList());
 					Files.write(path, modified);
 				}
 			}

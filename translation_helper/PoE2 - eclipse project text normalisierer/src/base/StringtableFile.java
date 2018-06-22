@@ -71,6 +71,10 @@ class Entry {
 	public int getID() {
 		return ID;
 	}
+	
+	public String getDefaultText() {
+		return DefaultText;
+	}
 
 	public Pair<Long, Long> cleanAnführungszeichen() {
 		long unbalanciert = 0, tausch = 0;
@@ -389,7 +393,7 @@ class Entry {
 			eckige++;
 		}
 
-		return new Pair<Long, Long>(eckige, runde);
+		return new Pair<Long, Long>(runde, eckige);
 	}
 
 	public Pair<Long, Long> tagBalanceCheck2() {
@@ -760,6 +764,15 @@ class Entry {
 		return 1;
 	}
 
+	public void compareIsTranslated(Entry other) {
+		if(DefaultText == null && other.DefaultText != null) {
+			System.out.println(other.DefaultText);
+		}
+		if(FemaleText == null && other.FemaleText != null) {
+			System.out.println(other.FemaleText);
+		}
+	}
+	
 	public Set<Character> counter() {
 		Set<Character> target = new TreeSet<>();
 		char[] chars = DefaultText.toCharArray();
@@ -812,14 +825,14 @@ class Entry {
 			
 			// DE_patch
 			// Verfassung
-			"(Fit(te)?)", "(Zäh(e)?)", "(Robust(e)?)",
+			"(Fit(te)?)", "([^(]Zäh(e)?\\b)", "(Robust(e)?)",
 			"([Ee]rkrank)(te|t|en)", "(\\b|Ge)(schwächt(e)?)", "(Entkräftet)(e|\\b)",
 			// Entschlossenheit
 			"(Standhaft(e)?)", "(Resolut(e)?)", "(Mutig(e)?)",
 			"(Geschockt)(e|\\b)", "(Verängstig)(te|t|en)", "([Ee]rschütter)(ter|t|n)",
 			// Gewandheit
 			"(Schnelle?n?)", "(Flink(e)?)", "(Schwungvoll(e)?)",
-			"(Humpeln)(\\b|d\\b|de)", "(Bewegungsunfähig)(e|\\b)", "(G?e?lähmt)(e|\\b)",
+			"(Humpeln)(\\b|d\\b|de)", "(Bewegungsunfähig)(e|\\b)", "(G?e?lähmt)(er|e|\\b)",
 			// Intellekt
 			"(Klug(e)?)", "(Scharfsinnig(e)?)", "(Brillant(e)?)",
 			"(Verwirrt)(e|\\b)", "(Bezaubert)(er|e|\\b)", "(Beherrscht)(e|\\b)",
@@ -860,27 +873,27 @@ class Entry {
 			// IT
 			// Costituzione
 			"(In forma)", "(Poderoso)", "(Robusto)",
-			"(Nauseato)(\\b)", "(Indebolito)(\\b)", "(Debilitato)(\\b)",
+			"(Nausea)(ndo|to)", "(Indebolit)(i|o)", "(Debilitato)(\\b)",
 			
 			//Risolutezza
 			"(Nerbo)", "(Risoluto)", "(Coraggioso)",
-			"(Scosso)(\\b)", "(Spaventato)(\\b)", "(Terrorizzato)(\\b)",
+			"(Scoss)(o|i)", "(Spaventa)(ndo|to)", "(Terrorizza)(ndo|to)",
 			
 			// Destrezza
 			"(Veloce)", "(Lesto)", "(Rapido)",
-			"(Azzoppato)(\\b)", "(Immobilizzato)(\\b)", "(Paralizzato)(\\b)",
+			"(Azzoppato)(\\b)", "(Immobilizza)(ndo|to)", "(Paralizza)(ndo|to)",
 			
 			// Acume
 			"(Arguto)", "(Perspicace)", "(Brillante)",
-			"(Confuso)(\\b)", "(Incantato)(\\b)", "(Dominato)(\\b)",
+			"(Confus)(ione|o)", "(Charme|Incantato)(\\b)", "(Dominato)(\\b)",
 			
 			// Vigore
 			"(Forte)", "(Tenace)", "(Energico)",
-			"(Sorpreso)(\\b)", "(Disorientato)(\\b)", "(Stordito)(\\b)",
+			"(Sorpreso)(\\b)", "(Disorienta)(mento|to)", "(Stord)(endo|ito|imento)",
 			
 			// Percezione
 			"(Profondo)", "(Consapevole)", "(Intuitivo)",
-			"(Distratto)(\\b)", "(Spaesato)(\\b)", "(Accecato)(\\b)",
+			"(Distratto)(\\b)", "(Spaesa)(to|ti)", "(Cecità|Accecato)(\\b)",
 			
 			
 			// ES
@@ -1105,11 +1118,105 @@ class Entry {
 			result.DefaultText = result.DefaultText.replaceAll(replacementWords[i + j], targetWords[j]);
 			result.FemaleText = result.FemaleText.replaceAll(replacementWords[i + j], targetWords[j]);
 		}
-
-		return result;
+		if(result.DefaultText.equals(DefaultText) && result.FemaleText.equals(FemaleText)) {
+			return null;
+		} else {
+			return result;
+		}
 	}
 
 	// Next tagscount und art? vs englisch
+	
+	final static String[] damageReplacementWords = new String[] {
+			// EN 
+			"([bB]urn)(\\b|ed|ing|s)\\b", 
+			"([cC]orro)(\\b|des|de|sive)\\b", 
+			"([cC]rush)(\\b|es|ing)\\b",
+			"([fF]reez)(\\b|es|ed|e|ing)\\b",
+			"([pP]ierc)(\\b|es|e|ing)\\b",
+			"([rR]aw)(\\b)",
+			"([sS]lash)(\\b|ing)\\b",
+			"([sS]hock)(\\b|ed|s|ing)\\b",
+			
+			// DE
+			"(Brand-?)(schaden|\\b)",
+			"(Zersetzung-?)(sschaden|\\b)",
+			"(Wucht-?)(schaden|\\b)",
+			"(Frost-?)(schaden|\\b)",
+			"(Stich-?)(schaden|\\b)",
+			"(Direkt-?|direkte[rn] )([sS]chaden)",
+			"(Hieb-?)(schaden|\\b)",
+			"(Schock-?)(schaden|\\b)",
+	};
+	
+	final static String[] defenseReplacementWords = new String[] {
+			// EN 
+			"(Fortitude)\\b", 
+			"(Deflection)\\b)", 
+			"(Reflex)(\\b|es)\\b",
+			"(Will)(\\b|power)\\b",
+			"(Penetrate|Penetration)\\b",
+			"(AR|Armor Rating)\\b"
+	};
+	
+	public Entry replaceDamageTypeWithIcon(String targetLanguage) {
+		Entry result = new Entry();
+		result.ID = this.ID;
+		result.DefaultText = DefaultText;
+		result.FemaleText = FemaleText;
+		
+		String[] targetWords = new String[] {
+			"<sprite=\"Inline\" name=\"cs_burn\" tint=1> $1$2",
+			"<sprite=\"Inline\" name=\"cs_corrosive\" tint=1> $1$2",
+			"<sprite=\"Inline\" name=\"cs_blunt\" tint=1> $1$2",
+			"<sprite=\"Inline\" name=\"cs_freeze\" tint=1> $1$2",
+			"<sprite=\"Inline\" name=\"cs_pierce\" tint=1> $1$2",
+			"<sprite=\"Inline\" name=\"cs_raw\" tint=1> $1$2",
+			"<sprite=\"Inline\" name=\"cs_slash\" tint=1> $1$2",
+			"<sprite=\"Inline\" name=\"cs_shock\" tint=1> $1$2",
+		};
+		
+		int i = 0;
+		switch (targetLanguage) {
+			case "en":
+				i = 8 * 0;
+				break;
+			case "de_patch":
+				i = 8 * 1;
+				break;
+			case "fr":
+		//		i = 8 * 2;
+				break;
+			case "it":
+		//		i = 8 * 3;
+				break;
+			case "es":
+		//		i = 8 * 4;
+				break;
+			case "pt":
+		//		i = 8 * 5;
+				break;
+			case "pl":
+		//		i = 8 * 6;
+				break;
+			case "ru":
+		//		i = 8 * 7;
+				break;
+			case "zh":
+		//		i = 8 * 8;
+				break;
+		}
+		
+		for(int j = 0; j < 8; j++) {
+			result.DefaultText = result.DefaultText.replaceAll(damageReplacementWords[i + j], targetWords[j]);
+			result.FemaleText = result.FemaleText.replaceAll(damageReplacementWords[i + j], targetWords[j]);
+		}
+		if(result.DefaultText.equals(DefaultText) && result.FemaleText.equals(FemaleText)) {
+			return null;
+		} else {
+			return result;
+		}
+	}
 }
 
 class Pair<A, B> {
