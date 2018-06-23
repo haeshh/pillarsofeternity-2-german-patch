@@ -2601,17 +2601,17 @@
     </Entry>
     <Entry>
       <ID>587</ID>
-      <DefaultText />
+      <DefaultText>{0:value:percent} Chance to reduce enemy beneficial effects by {0:extravalue:duration} when Hit in Melee</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>588</ID>
-      <DefaultText />
+      <DefaultText>Gain the Aware Inspiration for {0:value:duration} whenever a nearby Ally scores a killing blow</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText />
+      <DefaultText>{0:value:percent} chance to interrupt with attacks from Magran's Blessing on Hit</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
