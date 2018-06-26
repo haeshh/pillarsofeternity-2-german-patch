@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Verteidiger</DefaultText>
+      <DefaultText>Haltung: Verteidiger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2411,7 +2411,7 @@
     </Entry>
     <Entry>
       <ID>698</ID>
-      <DefaultText>Kriegerischer Verteidiger</DefaultText>
+      <DefaultText>Haltung: Beschützer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2876,7 +2876,7 @@
     </Entry>
     <Entry>
       <ID>884</ID>
-      <DefaultText>(Erobererhaltung) – Wenn der Kämpfer nicht mehr als verletzt ist, erhöht sich sein Genauigkeitsbonus. Ist er Schwer verletzt oder noch schlimmer, dann erhöht sich sein Abwehrbonus.</DefaultText>
+      <DefaultText>(Haltung: Eroberer) – Wenn der Kämpfer nicht mehr als verletzt ist, erhöht sich sein Genauigkeitsbonus. Ist er Schwer verletzt oder noch schlimmer, dann erhöht sich sein Abwehrbonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3086,7 +3086,7 @@
     </Entry>
     <Entry>
       <ID>951</ID>
-      <DefaultText>(Kriegerischer Verteidiger) – Feinde, die sich vom Kämpfer absetzen, werden sofort angegriffen und Niedergesteckt, sofern der Angriff erfolgreich war.</DefaultText>
+      <DefaultText>(Haltung: Beschützer) – Feinde, die sich vom Kämpfer absetzen, werden sofort angegriffen und Niedergesteckt, sofern der Angriff erfolgreich war.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4721,7 +4721,7 @@
     </Entry>
     <Entry>
       <ID>1803</ID>
-      <DefaultText>Erobererhaltung</DefaultText>
+      <DefaultText>Haltung: Eroberer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5986,7 +5986,7 @@ Einhändig: Direkter Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2116</ID>
-      <DefaultText>Wegbahnende Haltung</DefaultText>
+      <DefaultText>Haltung: Niedermähen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6021,12 +6021,12 @@ Einhändig: Direkter Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2125</ID>
-      <DefaultText>(Mobhaltung) – Jeder Gegner in der Nähe des Kriegers verkürzt seine Erholungszeit zwischen Angriffen.</DefaultText>
+      <DefaultText>(Haltung: Mob) – Jeder Gegner in der Nähe des Kriegers verkürzt seine Erholungszeit zwischen Angriffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2126</ID>
-      <DefaultText>Mobhaltung</DefaultText>
+      <DefaultText>Haltung: Mob</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8236,7 +8236,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2573</ID>
-      <DefaultText>Kriegerhaltung</DefaultText>
+      <DefaultText>Haltung: Krieger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8251,7 +8251,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2576</ID>
-      <DefaultText>Der Kämpfer übt sich in der Fähigkeit, spezielle Kampfhaltungen einzunehmen. Jede Haltung ist hervorragend für einen anderen Aspekt des Kampfes geeignet. Die &lt;g&gt;Verteidigungshaltung&lt;/g&gt; ist geeignet, um sich gegen Gruppen von Gegnern zu behaupten, die Niedermähen-Haltung ist effektiv, wenn man mehrere Gegner auf einmal angreift und die Kriegerhaltung ist am besten, wenn man mit einem einzelnen Gegner Mann gegen Mann kämpft.</DefaultText>
+      <DefaultText>Der Kämpfer übt sich in der Fähigkeit, spezielle Kampfhaltungen einzunehmen. Jede Haltung ist hervorragend für einen anderen Aspekt des Kampfes geeignet. Die Haltung: &lt;xg&gt;Verteidiger&lt;/xg&gt; ist geeignet, um sich gegen Gruppen von Gegnern zu behaupten, die Haltung: Niedermähen ist effektiv, wenn man mehrere Gegner auf einmal angreift und die Haltung: Krieger ist am besten, wenn man mit einem einzelnen Gegner Mann gegen Mann kämpft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
