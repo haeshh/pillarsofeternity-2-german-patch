@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Verteidiger</DefaultText>
+      <DefaultText>Haltung: Verteidiger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1346,7 +1346,7 @@
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>Verschleiert die Sicht des Ziels mit vollkommener Dunkelheit, wodurch es Erblindet.</DefaultText>
+      <DefaultText>Verschleiert die Sicht des Ziels mit vollkommener Dunkelheit, wodurch es Geblendet wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2411,7 +2411,7 @@
     </Entry>
     <Entry>
       <ID>698</ID>
-      <DefaultText>Kriegerischer Verteidiger</DefaultText>
+      <DefaultText>Haltung: Beschützer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2541,7 +2541,7 @@
     </Entry>
     <Entry>
       <ID>805</ID>
-      <DefaultText>Häuft verstreute Seelenfragmente an, um zwei &lt;g&gt;Irrlichter&lt;/g&gt; zu formen, die für die Gruppe kämpfen.</DefaultText>
+      <DefaultText>Häuft verstreute Seelenfragmente an, um zwei Irrlichter zu formen, die für die Gruppe kämpfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2876,7 +2876,7 @@
     </Entry>
     <Entry>
       <ID>884</ID>
-      <DefaultText>(Erobererhaltung) – Wenn der Kämpfer nicht mehr als verletzt ist, erhöht sich sein Genauigkeitsbonus. Ist er Schwer verletzt oder noch schlimmer, dann erhöht sich sein Abwehrbonus.</DefaultText>
+      <DefaultText>(Haltung: Eroberer) – Wenn der Kämpfer nicht mehr als verletzt ist, erhöht sich sein Genauigkeitsbonus. Ist er Schwer verletzt oder noch schlimmer, dann erhöht sich sein Abwehrbonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3086,7 +3086,7 @@
     </Entry>
     <Entry>
       <ID>951</ID>
-      <DefaultText>(Kriegerischer Verteidiger) – Feinde, die sich vom Kämpfer absetzen, werden sofort angegriffen und Niedergesteckt, sofern der Angriff erfolgreich war.</DefaultText>
+      <DefaultText>(Haltung: Beschützer) – Feinde, die sich vom Kämpfer absetzen, werden sofort angegriffen und Niedergesteckt, sofern der Angriff erfolgreich war.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4721,7 +4721,7 @@
     </Entry>
     <Entry>
       <ID>1803</ID>
-      <DefaultText>Erobererhaltung</DefaultText>
+      <DefaultText>Haltung: Eroberer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5293,7 +5293,7 @@ Wenn der Aufstieg nachlässt, wird der Fokus auf null verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>1962</ID>
-      <DefaultText>(Größerer Wildschlag: Brand) – Durch das umfassendere Wissen über die Naturgewalten wird während des Geisterwandelns mehr Brandschaden verursacht.</DefaultText>
+      <DefaultText>(Größerer Wildschlag: &lt;xg&gt;Brand&lt;/xg&gt;) – Durch das umfassendere Wissen über die Naturgewalten wird während des Geisterwandelns mehr Brandschaden verursacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5303,7 +5303,7 @@ Wenn der Aufstieg nachlässt, wird der Fokus auf null verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>1964</ID>
-      <DefaultText>(Größerer Wildschlag: Zersetzung) – Durch das umfassendere Wissen über die Naturgewalten wird während des Geisterwandelns mehr Zersetzungsschaden verursacht.</DefaultText>
+      <DefaultText>(Größerer Wildschlag: &lt;xg&gt;Zersetzung&lt;/xg&gt;) – Durch das umfassendere Wissen über die Naturgewalten wird während des Geisterwandelns mehr Zersetzungsschaden verursacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5318,12 +5318,12 @@ Wenn der Aufstieg nachlässt, wird der Fokus auf null verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>1967</ID>
-      <DefaultText>(Größerer Wildschlag: Frost) – Durch das umfassendere Wissen über die Naturgewalten wird während des Geisterwandelns mehr Frostschaden verursacht.</DefaultText>
+      <DefaultText>(Größerer Wildschlag: &lt;xg&gt;Frost&lt;/xg&gt;) – Durch das umfassendere Wissen über die Naturgewalten wird während des Geisterwandelns mehr Frostschaden verursacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1968</ID>
-      <DefaultText>(Größerer Wildschlag: Schock) – Durch das umfassendere Wissen über die Naturgewalten wird während des Geisterwandelns mehr Schockschaden verursacht.</DefaultText>
+      <DefaultText>(Größerer Wildschlag: &lt;xg&gt;Schock&lt;/xg&gt;) – Durch das umfassendere Wissen über die Naturgewalten wird während des Geisterwandelns mehr Schockschaden verursacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5986,7 +5986,7 @@ Einhändig: Direkter Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2116</ID>
-      <DefaultText>Wegbahnende Haltung</DefaultText>
+      <DefaultText>Haltung: Niedermähen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6016,17 +6016,17 @@ Einhändig: Direkter Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2124</ID>
-      <DefaultText>Der Krieger wird resistent gegen Entschlossenheitswirkungen (Erschüttert, Verängstigt und Geschockt).</DefaultText>
+      <DefaultText>Der Kämpfer wird resistent gegen Entschlossenheitswirkungen (Erschüttert, Verängstigt und Geschockt).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2125</ID>
-      <DefaultText>(Mobhaltung) – Jeder Gegner in der Nähe des Kriegers verkürzt seine Erholungszeit zwischen Angriffen.</DefaultText>
+      <DefaultText>(Haltung: Mob) – Jeder Gegner in der Nähe des Kriegers verkürzt seine Erholungszeit zwischen Angriffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2126</ID>
-      <DefaultText>Mobhaltung</DefaultText>
+      <DefaultText>Haltung: Mob</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6036,7 +6036,7 @@ Einhändig: Direkter Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2129</ID>
-      <DefaultText>Der Krieger wird resistent gegen Gewandtheitswirkungen (Humpelnd, Bewegungsunfähig und Gelähmt).</DefaultText>
+      <DefaultText>Der Kämpfer wird resistent gegen Gewandtheitswirkungen (Humpelnd, Bewegungsunfähig und Gelähmt).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6046,7 +6046,7 @@ Einhändig: Direkter Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2134</ID>
-      <DefaultText>Der Krieger erhält einen Bonus auf Verteidigung gegen Intellekt-, Wahrnehmungs- und Verfassungswirkungen.</DefaultText>
+      <DefaultText>Der Kämpfer erhält einen Bonus auf Verteidigung gegen Intellekt-, Wahrnehmungs- und Verfassungswirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8236,7 +8236,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2573</ID>
-      <DefaultText>Kriegerhaltung</DefaultText>
+      <DefaultText>Haltung: Krieger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8246,12 +8246,12 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2575</ID>
-      <DefaultText>Kämpferhaltungen</DefaultText>
+      <DefaultText>Kampfhaltungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2576</ID>
-      <DefaultText>Der Kämpfer übt sich in der Fähigkeit, spezielle Kampfhaltungen einzunehmen. Jede Haltung ist hervorragend für einen anderen Aspekt des Kampfes geeignet. Die &lt;g&gt;Verteidigungshaltung&lt;/g&gt; ist geeignet, um sich gegen Gruppen von Gegnern zu behaupten, die Niedermähen-Haltung ist effektiv, wenn man mehrere Gegner auf einmal angreift und die Kriegerhaltung ist am besten, wenn man mit einem einzelnen Gegner Mann gegen Mann kämpft.</DefaultText>
+      <DefaultText>Der Kämpfer übt sich in der Fähigkeit, spezielle Kampfhaltungen einzunehmen. Jede Haltung ist hervorragend für einen anderen Aspekt des Kampfes geeignet. Die Haltung: &lt;xg&gt;Verteidiger&lt;/xg&gt; ist geeignet, um sich gegen Gruppen von Gegnern zu behaupten, die Haltung: Niedermähen ist effektiv, wenn man mehrere Gegner auf einmal angreift und die Haltung: Krieger ist am besten, wenn man mit einem einzelnen Gegner Mann gegen Mann kämpft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9396,7 +9396,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2813</ID>
-      <DefaultText>Erschafft einen Bereich göttlicher Dunkelheit, die bei allen, die sich innerhalb des Bereichs befinden oder diesen betreten, die Wirkung Erblindet hervorruft.</DefaultText>
+      <DefaultText>Erschafft einen Bereich göttlicher Dunkelheit, die bei allen, die sich innerhalb des Bereichs befinden oder diesen betreten, den Effekt Geblendet hervorruft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9446,7 +9446,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2825</ID>
-      <DefaultText>Die Waffenangriffe des Waldläufers sorgen für die Unterbrechung kritischer Treffer.</DefaultText>
+      <DefaultText>Die Waffenangriffe des Waldläufers lösen Unterbrechung bei einem Kritischen Treffer aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9576,7 +9576,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2851</ID>
-      <DefaultText>Erzeugt ein Feld arkaner Energie um den Zauberer herum, das feindliche Zaubersprüche bis zu Stufe 5 auf den anderen Zauberer zurückwirft, der sie verhängt hat (für insgesamt 50 Zauberspruchstufen).</DefaultText>
+      <DefaultText>Erzeugt ein Feld arkaner Energie um den Zauberer herum, das feindliche Zaubersprüche auf den anderen Zauberer zurückwirft, der sie verhängt hat (für insgesamt 50 Zauberspruchstufen).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9716,8 +9716,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2880</ID>
-      <DefaultText>Wirbel der Klauen
-</DefaultText>
+      <DefaultText>Wirbel der Klauen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11265,7 +11264,7 @@ Keiner</DefaultText>
     </Entry>
     <Entry>
       <ID>3309</ID>
-      <DefaultText>Ein mächtiger Angriff, der die Feinde zuerst in die Luft schleudert und dann zu Boden wirft. Anschließend sind sie Desorientiert.</DefaultText>
+      <DefaultText>>Ein mächtiger Angriff, der die Feinde zuerst in die Luft schleudert und sie dann Niedergestreckt zu Boden wirft. Anschließend sind sie Desorientiert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11307,7 +11306,7 @@ Die Priester von Berath lernen die folgenden Zaubersprüche automatisch auf der 
     </Entry>
     <Entry>
       <ID>3315</ID>
-      <DefaultText>Ernte im Namen Gauns einen Feind. Wenn der Feind Schwer verletzt oder Dem Tode nahe ist, verursacht die gesegnete Ernte bei ihm einen beträchtlich größeren Schaden.</DefaultText>
+      <DefaultText>Ernte im Namen Gauns einen Feind. Wenn der Feind Schwer verletzt oder Dem Tode nahe ist, verursacht die Gesegnete Ernte bei ihm einen beträchtlich größeren Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11333,7 +11332,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3319</ID>
-      <DefaultText>Dreht sich einem weiten, wirbelnden Bogen, der allen Zielen im Bereich Hieb- und Stichschaden zufügt, sie zurückwirft und sie zum Humpeln bringt.</DefaultText>
+      <DefaultText>Dreh dich in einem weiten, wirbelnden Bogen, der allen Zielen im Bereich Hieb- und Stichschaden zufügt, sie zurückwirft und den Effekt Humpelnd zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11398,7 +11397,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3337</ID>
-      <DefaultText>Die Haut der Feuer-Gottähnlichen ist auf natürliche Weise widerstandsfähig gegen Brennschaden.</DefaultText>
+      <DefaultText>Die Haut der Feuer-Gottähnlichen ist auf natürliche Weise widerstandsfähig gegen Brandschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11793,7 +11792,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3435</ID>
-      <DefaultText>Lässt ein Echo von Aamiinas Warnung an den Blauwasserstamm erschallen. Gewährt den Verbündeten in der Nähe die Inspiration Robust und verursacht bei nahen Feinde die Wirkung Geschockt.</DefaultText>
+      <DefaultText>Lässt ein Echo von Aamiinas Warnung an den Blauwasserstamm erschallen. Gewährt den Verbündeten in der Nähe die Inspiration Resolut und verursacht bei nahen Feinde die Wirkung Geschockt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12143,7 +12142,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3523</ID>
-      <DefaultText>Bedient sich der Macht des Grabes, Bezaubert alle Gefäße und erschreckt alle Gestandenen im betroffenen Bereich.</DefaultText>
+      <DefaultText>Bedient sich der Macht des Grabes, Bezaubert alle Gefäße und Verängstigt alle Gestandenen im betroffenen Bereich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12223,7 +12222,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3541</ID>
-      <DefaultText>Brennende Erde</DefaultText>
+      <DefaultText>Brennende Bodenfalle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12323,7 +12322,9 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3561</ID>
-      <DefaultText>Schwerpunkt in einer Waffe oder einem Schild gewährt Zugang zu einer modalen Fähigkeit in Verbindung mit dem jeweiligen Objekttyp. Diese Fähigkeiten sind situationsgebunden und können je nach den taktischen Anforderungen des Kampfes aktiviert oder deaktiviert werden.&lt;b&gt;Es gibt keinen Abzug beim Einsatz einer Waffe, über deren Waffenschwerpunkt der Charakter nicht verfügt.&lt;/b&gt; Ein Charakter, der nicht über den Waffenschwerpunkt verfügt, verliert nur Zugang zur verbundenen Modalen Fähigkeit.</DefaultText>
+      <DefaultText>Schwerpunkt in einer Waffe oder einem Schild gewährt Zugang zu einer modalen Fähigkeit in Verbindung mit dem jeweiligen Objekttyp. Diese Fähigkeiten sind situationsgebunden und können je nach den taktischen Anforderungen des Kampfes aktiviert oder deaktiviert werden.
+	  
+&lt;b&gt;Es gibt keinen Abzug beim Einsatz einer Waffe, über deren Waffenschwerpunkt der Charakter nicht verfügt.&lt;/b&gt; Ein Charakter, der nicht über den Waffenschwerpunkt verfügt, verliert nur Zugang zur verbundenen Modalen Fähigkeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12568,12 +12569,12 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3612</ID>
-      <DefaultText>Wael beobachtet mit unzähligen Augen. Wirft einen Blick-Zauberspruch über einen Bereich, der Feinde versteinert oder zu Tode Erschüttert.</DefaultText>
+      <DefaultText>Wael beobachtet mit unzähligen Augen. Wirft einen Blick-Zauberspruch über einen Bereich, der Feinde versteinert oder Geschockt zurücklässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3613</ID>
-      <DefaultText>(… man konnte sich ihm nicht entziehen) – Erhält einen Genauigkeitsbonus und kann nun Leichte Treffer verursachen.</DefaultText>
+      <DefaultText>(… man konnte sich ihm nicht entziehen) – Erhält einen Genauigkeitsbonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13193,12 +13194,12 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3761</ID>
-      <DefaultText>Frisch geformter Wisp</DefaultText>
+      <DefaultText>Frisch geformtes Irrlicht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3762</ID>
-      <DefaultText>Während der Wisp dir folgt, haben Intellektwirkungen auf dich eine kürzere Dauer und alle Gruppenmitglieder haben erhöhte Genauigkeit bei ihren Angriffen gegen Geister.</DefaultText>
+      <DefaultText>Während das Irrlicht dir folgt, haben Intellektwirkungen auf dich eine kürzere Dauer und alle Gruppenmitglieder haben erhöhte Genauigkeit bei ihren Angriffen gegen Geister.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13433,7 +13434,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3810</ID>
-      <DefaultText>(… weder Flamme noch gestoßene Klinge) – gewährt außerdem Brennen und Stichrüstung.</DefaultText>
+      <DefaultText>(… weder Flamme noch gestoßene Klinge) – gewährt außerdem Brand- und Stichrüstung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
