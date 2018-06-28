@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\16_wahaki_island\16_qst_wahaki</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>29</EntryCount>
+  <EntryCount>30</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -144,6 +144,11 @@ Ruāsare wird davon erfahren wollen.</DefaultText>
     <Entry>
       <ID>30001</ID>
       <DefaultText>Ich habe mich dazu entschlossen, die Anführer der Wahaki umzubringen, anstelle ihnen zu helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe die Wahaki verärgert und es wird keinen Kompromiss zwischen uns geben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>519</EntryCount>
+  <EntryCount>523</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2612,6 +2612,11 @@
     <Entry>
       <ID>589</ID>
       <DefaultText>{0:value:percent} chance to interrupt with attacks from Magran's Blessing on Hit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>{0:value:percent} chance to gain {0:extravalue} Zeal on scoring kill</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

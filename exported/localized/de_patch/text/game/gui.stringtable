@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4385</EntryCount>
+  <EntryCount>4397</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -22408,6 +22408,66 @@ Die Visionen suchen dich endlich nicht mehr heim und du ziehst dich zurück ins 
     <Entry>
       <ID>4906</ID>
       <DefaultText>Versionsfehler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4907</ID>
+      <DefaultText>Mod Manager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4908</ID>
+      <DefaultText>Version: {0} • unterstützt PoEII Versionen: {1} - {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4909</ID>
+      <DefaultText>{0} by {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4910</ID>
+      <DefaultText>Refresh</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4911</ID>
+      <DefaultText>Sets load priority</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4912</ID>
+      <DefaultText>{0} löschen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4913</ID>
+      <DefaultText>Mod Page</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4914</ID>
+      <DefaultText>Spielversion: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4915</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4916</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4918</ID>
+      <DefaultText>Show PoE 1 Reactivity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4927</ID>
+      <DefaultText>Displays when a response relates to a decision made in PoE 1.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
