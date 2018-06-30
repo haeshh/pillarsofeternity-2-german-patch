@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3285</EntryCount>
+  <EntryCount>3288</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1346,7 +1346,7 @@
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>Verschleiert die Sicht des Ziels mit vollkommener Dunkelheit, wodurch es Geblendet wird.</DefaultText>
+      <DefaultText>Verschleiert die Sicht des Ziels mit vollkommener Dunkelheit, wodurch es Erblindet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9396,7 +9396,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2813</ID>
-      <DefaultText>Erschafft einen Bereich göttlicher Dunkelheit, die bei allen, die sich innerhalb des Bereichs befinden oder diesen betreten, den Effekt Geblendet hervorruft.</DefaultText>
+      <DefaultText>Erschafft einen Bereich göttlicher Dunkelheit, die bei allen, die sich innerhalb des Bereichs befinden oder diesen betreten, die Wirkung Erblindet hervorruft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13244,7 +13244,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3771</ID>
-      <DefaultText>Beschwört ein zufälliges Gefäß, das für den Träger kämpft. Enthält 10 Aufladungen.</DefaultText>
+      <DefaultText>Beschwört ein zufälliges Gefäß, das für den Träger kämpft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13529,7 +13529,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3833</ID>
-      <DefaultText>Während der Grabhund-Welpe dir folgt, erteilst du zusätzlichen Schaden gegen Gefäße und alle Gruppenmitglieder erleiden verringerten Korrodierungsschaden.</DefaultText>
+      <DefaultText>Während der Grabhund-Welpe dir folgt, erteilst du zusätzlichen Schaden gegen Gefäße und alle Gruppenmitglieder erleiden verringerten Zersetzungsschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13539,7 +13539,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3835</ID>
-      <DefaultText>Bereite ein Ziel auf deine Klinge vor. Senkt Nahkampfabwehr und Rüstungswert des Ziels.</DefaultText>
+      <DefaultText>Bereite ein Ziel auf deine Klinge vor. Senkt Nahkampfabwehr des Ziels und seinen Rüstungswert gegen Hiebschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13691,7 +13691,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>3866</ID>
-      <DefaultText>Während Xopn’aua dir folgt, erhältst du einen Bonus auf Einsicht und Metaphysik. Darüber hinaus erhält deine Gruppe einen Bonus auf Wille.</DefaultText>
+      <DefaultText>Während Xopn’aua dir folgt, erhältst du einen Bonus auf Tiefblick und Metaphysik. Darüber hinaus erhält deine Gruppe einen Bonus auf Wille.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13816,8 +13816,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>3891</ID>
-      <DefaultText>Während Peter dir folgt, verursachen deine Wirkungsradiusangriffe mehr Schaden und alle Gruppenmitglieder erhalten einen Bonus auf den Wirkungsradius ihrer Wirkungsradiusangriffe.
-</DefaultText>
+      <DefaultText>Während Peter dir folgt, verursachen deine Wirkungsradiusangriffe mehr Schaden und alle Gruppenmitglieder erhalten einen Bonus auf den Wirkungsradius ihrer Wirkungsradiusangriffe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16815,6 +16814,21 @@ Keine.</DefaultText>
     <Entry>
       <ID>4781</ID>
       <DefaultText>(Greater Fire Shield) - The wielder gains increased Freeze Damage Reduction and the retaliation attack deals additional damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4797</ID>
+      <DefaultText>Merge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4800</ID>
+      <DefaultText>Covalent Bond</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4801</ID>
+      <DefaultText>Corrosive Solvent</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

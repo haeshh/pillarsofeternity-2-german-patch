@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\17_dunnage\17_cv_principi_boss_main</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>234</EntryCount>
+  <EntryCount>235</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1238,6 +1238,11 @@ Der Kapitän runzelt die Stirn.</DefaultText>
     <Entry>
       <ID>250</ID>
       <DefaultText>„Muss ich dich daran erinnern, dass wir uns nur mit dem Abschaum in Krumsporn befasst haben, um mit … &lt;i&gt;meinem besonderen Mitarbeiter&lt;/i&gt; Fortschritte zu machen?“ Er zerrt gereizt an seinen Manschetten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>„Ich würde gerne wissen, weshalb du Benweth bisher noch nicht losgeworden bist. Meinst du, es ist klug, in diesem Hafen Treue zu schmieden?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

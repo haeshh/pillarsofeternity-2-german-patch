@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1503</EntryCount>
+  <EntryCount>1508</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -7518,6 +7518,31 @@
     <Entry>
       <ID>1594</ID>
       <DefaultText>Gundruk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1627</ID>
+      <DefaultText>Gefrorene Seele</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1638</ID>
+      <DefaultText>Riesiger Schwarzer Schlamm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1640</ID>
+      <DefaultText>Gigantischer Schwarzer Schlamm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1641</ID>
+      <DefaultText>Massiver Schwarzer Schlamm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1642</ID>
+      <DefaultText>Damaged Rime Construct</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
