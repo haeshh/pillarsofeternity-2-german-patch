@@ -1,15 +1,12 @@
 ﻿package base;
 
 
-import java.awt.GridLayout;
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.HashSet;
-import java.util.Iterator;
 import java.util.List;
 import java.util.ListIterator;
 import java.util.Map;
@@ -75,7 +72,7 @@ public class Cleanup {
 		
 		Cleanup cleanup = new Cleanup();
 		
-		List<Path> convertingBase = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\enhanced_ui_affliction_inspiration\\localized\\en\\text")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		List<Path> convertingBase = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\en\\text")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		
 		
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
@@ -100,8 +97,8 @@ public class Cleanup {
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\pl\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		cleanup.colorupdate(convertingBase, filesInFolder, "pl", jaxbUnmarshaller,marshaller);
 		
-		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\ru\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.colorupdate(convertingBase, filesInFolder, "ru", jaxbUnmarshaller,marshaller);
+		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\ru\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		cleanup.colorupdate(convertingBase, filesInFolder, "rufix", jaxbUnmarshaller,marshaller);
 		
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\zh\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		cleanup.colorupdate(convertingBase, filesInFolder, "zh", jaxbUnmarshaller,marshaller);
@@ -280,20 +277,45 @@ public class Cleanup {
 									outputFile.getEntries().add(coloredEntry);
 								
 								Entry damageIconEntry = plainEntry.replaceDamageTypeWithIcon(language);
-								if(damageIconEntry != null)
-									outputFileDamage.getEntries().add(damageIconEntry);
+								Entry damageDefenseIconEntry;
+								if(damageIconEntry != null) {
+									damageDefenseIconEntry = damageIconEntry.replaceDefenseWithIcon(language);
+									if(damageDefenseIconEntry  != null) {
+										outputFileDamage.getEntries().add(damageDefenseIconEntry);
+									} else {
+										outputFileDamage.getEntries().add(damageIconEntry);
+									}
+								} else {
+									damageDefenseIconEntry = plainEntry.replaceDefenseWithIcon(language);
+									if(damageDefenseIconEntry != null)
+										outputFileDamage.getEntries().add(damageDefenseIconEntry);
+								}
 								
-								if(coloredEntry != null && damageIconEntry != null) {
+								if(coloredEntry != null && (damageIconEntry != null || damageDefenseIconEntry != null)) {
 									Entry booth = coloredEntry.replaceDamageTypeWithIcon(language);
+									if(damageDefenseIconEntry != null) {
+										if(booth != null)
+											booth = booth.replaceDefenseWithIcon(language);
+										else
+											booth = coloredEntry.replaceDefenseWithIcon(language);
+									}
 									outputFileCombined.getEntries().add(booth);
-									System.out.println("Clash \n" + coloredEntry.getDefaultText() + "\n" + damageIconEntry.getDefaultText() + "\n"+ booth.getDefaultText());
+									if(damageIconEntry != null) {
+										System.out.println("Clash \n" + coloredEntry.getDefaultText() + "\n" + damageIconEntry.getDefaultText() + "\n"+ booth.getDefaultText());
+									}
+									if(damageDefenseIconEntry != null) {
+										System.out.println("Clash \n" + coloredEntry.getDefaultText() + "\n" + damageDefenseIconEntry.getDefaultText() + "\n"+ booth.getDefaultText());
+									}
+									if(damageIconEntry != null && damageDefenseIconEntry != null) {
+										System.out.println("Clash \n" + coloredEntry.getDefaultText() + "\n" + damageIconEntry.getDefaultText() + "\n" + damageDefenseIconEntry.getDefaultText() + "\n"+ booth.getDefaultText());
+									}
 								}
 							}
 						}
 					}
 					
 					// Affliction
-					File file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\enhanced_ui_affliction_inspiration\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
+					File file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface_inspiration\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
 					file.getParentFile().mkdirs();
 					file.createNewFile();
 					Path path = Paths.get(file.getPath());
@@ -306,8 +328,8 @@ public class Cleanup {
 					Files.write(path, modified);
 					
 					
-					// Damage
-					file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\enhanced_ui_damagetypes_defenses\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
+					// Damage und Defense
+					file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface_defenses\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
 					file.getParentFile().mkdirs();
 					file.createNewFile();
 					path = Paths.get(file.getPath());
@@ -319,8 +341,9 @@ public class Cleanup {
 					modified = lines.stream().map(x -> {return x.replaceAll("    ", "  ").replaceFirst("<DefaultText></DefaultText>", "<DefaultText />").replaceFirst("<FemaleText></FemaleText>", "<FemaleText />");}).collect(Collectors.toList());
 					Files.write(path, modified);
 					
+					
 					// Combined, only clashes
-					file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\enhanced_ui_zzz_multiple\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
+					file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface_zzz_multiple\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
 					file.getParentFile().mkdirs();
 					file.createNewFile();
 					path = Paths.get(file.getPath());

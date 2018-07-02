@@ -804,257 +804,257 @@ class Entry {
 	final static String[] replacementWords = new String[] { 
 			// EN
 			// constitution
-			"(Fit)", "(Hardy)", "(Robust)",
-			"(Sicken)(\\b|ed|ing)", "(Weaken)(\\b|s|ed|ing)", "(Enfeebl)(\\b|ed)",
+			"(?<!xg>)(Fit)", "(?<!xg>)(Hardy)", "(?<!xg>)(Robust)",
+			"(?<!xg>)(Sicken)(\\b|ed|ing)", "(?<!xg>)(Weaken)(\\b|s|ed|ing)", "(?<!xg>)(Enfeebl)(\\b|ed)",
 			// resolve
-			"(Steadfast)", "(Resolute)", "(Courageous)",
-			"(Shaken)(\\b|s|ed|ing)", "(Frighten)(\\b|s|ed|ing)", "(Terrif)(\\b|ies|ied|ying|y)",
+			"(?<!xg>)(Steadfast)", "(?<!xg>)(Resolute)", "(?<!xg>)(Courageous)",
+			"(?<!xg>)(Shaken)(\\b|s|ed|ing)", "(?<!xg>)(Frighten)(\\b|s|ed|ing)", "(?<!xg>)(Terrif)(\\b|ies|ied|ying|y)",
 			// dexterity
-			"(Quick)", "(Nimble)", "(Swift)",
-			"(Hobbl)(\\b|ed|es|e|ing)", "(Immobiliz)(\\b|ed|e|ing)", "(Paralyz)(\\b|ed|es|e|ing|ation)",
+			"(?<!xg>)(Quick\\b)", "(?<!xg>)(Nimble)", "(?<!xg>)(Swift)",
+			"(?<!xg>)(Hobbl)(\\b|ed|es|e|ing)", "(?<!xg>)(Immobiliz)(\\b|ed|e|ing)", "(?<!xg>)(Paralyz)(\\b|ed|es|e|ing|ation)",
 			// intellect
-			"(Smart)", "(Acute)", "(Brilliant)",
-			"(Confus)(\\b|ed|es|e|ing)", "(Charm)(\\b|ed|ing)", "(Dominat)(\\b|ed|es|e|ing)",
+			"(?<!xg>)(Smart)", "(?<!xg>)(Acute)", "(?<!xg>)(Brilliant)",
+			"(?<!xg>)(Confus)(\\b|ed|es|e|ing)", "(?<!xg>)(Charm)(\\b|ed|ing)", "(?<!xg>)(Dominat)(\\b|ed|es|e|ing)",
 			// might
-			"(Strong)", "(Tenacious)", "(Energized)",
-			"(Stagger)(\\b|ed|ing)", "(Daz)(\\b|ed|es|e|ing)", "(Stun)(\\b|s|ned|ning)",
+			"(?<!xg>)(Strong)", "(?<!xg>)(Tenacious)", "(?<!xg>)(Energized)",
+			"(?<!xg>)(Stagger)(\\b|ed|ing)", "(?<!xg>)(Daz)(\\b|ed|es|e|ing)", "(?<!xg>)(Stun)(\\b|s|ned|ning)",
 			// perception
-			"(Insightful)", "(Aware)", "(Intuitive)",
-			"(Distract)(\\b|ed|s|ing)", "(Disorient)(\\b|ed)", "(Blind)(\\b|ed|s|ing|ness)",
+			"(?<!xg>)(Insightful)", "(?<!xg>)(Aware)", "(?<!xg>)(Intuitive)",
+			"(?<!xg>)(Distract)(\\b|ed|s|ing)", "(?<!xg>)(Disorient)(\\b|ed)", "(?<!xg>)(Blind[^)])(\\b|ed|s|ing|ness)",
 			
 			
 			// DE_patch
 			// Verfassung
-			"(Fit(te)?)", "([^(]Zäh(e)?\\b)", "(Robust(e)?)",
-			"([Ee]rkrank)(te|t|en)", "(\\b|Ge)(schwächt(e)?)", "(Entkräftet)(e|\\b)",
-			// Entschlossenheit
-			"(Standhaft(e)?)", "(Resolut(e)?)", "(Mutig(e)?)",
-			"(Geschockt)(e|\\b)", "(Verängstig)(te|t|en)", "([Ee]rschütter)(ter|t|n)",
-			// Gewandheit
-			"(Schnelle?n?)", "(Flink(e)?)", "(Schwungvoll(e)?)",
-			"(Humpeln)(\\b|d\\b|de)", "(Bewegungsunfähig)(e|\\b)", "(G?e?lähmt)(er|e|\\b)",
+			"(?<!xg>)(Fit(te)?)", "(?<!xg>)(Zäh(e)?\\b)", "(?<!xg>)(Robust(e)?)",
+			"(?<!xg>)([Ee]rkrank)(te|t|en)", "(?<!xg>)(\\b|Ge)(schwächt(e)?)", "(?<!xg>)(Entkräftet)(e|\\b)",
+			// En(schlossenheit
+			"(?<!xg>)(Standhaft(e)?)", "(?<!xg>)(Resolut(e)?)", "(?<!xg>)(Mutig(e)?)",
+			"(?<!xg>)(Geschockt)(e|\\b)", "(?<!xg>)(Verängstig)(te|t|en)", "(?<!xg>)([Ee]rschütter)(ter|t|n)",
+			// Ge(andheit
+			"(?<!xg>)(Schnelle?n?)", "(?<!xg>)(Flink(e)?)", "(?<!xg>)(Schwungvoll(e)?)",
+			"(?<!xg>)(Humpeln)(\\b|d\\b|de)", "(?<!xg>)(Bewegungsunfähig)(e|\\b)", "(?<!xg>)(G?e?lähmt)(er|e|\\b)",
 			// Intellekt
-			"(Klug(e)?)", "(Scharfsinnig(e)?)", "(Brillant(e)?)",
-			"(Verwirrt)(e|\\b)", "(Bezaubert)(er|e|\\b)", "(Beherrscht)(e|\\b)",
+			"(?<!xg>)(Klug(e)?)", "(?<!xg>)(Scharfsinnig(e)?)", "(?<!xg>)(Brillant(e)?)",
+			"(?<!xg>)(Verwirrt)(e|\\b)", "(?<!xg>)(Bezaubert)(er|e|\\b)", "(?<!xg>)(Beherrscht)(e|\\b)",
 			// Macht
-			"(Stark(e)?)", "(Hartnäckig(e)?)", "(Munter(e)?)",
-			"(Taumeln)(de|d|\\b)", "([^(]Benommen)(e|heit|\\b)", "(Betäub)(en|te|t)",
+			"(?<!xg>)(Stark(e)?)\\b", "(?<!xg>)(Hartnäckig(e)?)", "(?<!xg>)(Munter(e)?)",
+			"(?<!xg>)(Taumeln)(de|d|\\b)", "(?<!xg>)(Benommen)(e|heit|\\b)", "(?<!xg>)(Betäub)(en|te|t)",
 			// Wahrnehmung
-			"(Einsichtig(e)?)", "(Aufmerksam(e)?)", "(Intuitiv(e)?)",
-			"(Abgelenkt)(er|e|\\b)", "(Desorientiert)(e|\\b)", "(G?e?blende|[Ee]rblinde)(te|t|n[^d])",
+			"(?<!xg>)(Einsichtig(e)?)", "(?<!xg>)(Aufmerksam(e)?)", "(?<!xg>)(Intuitiv(e)?)",
+			"(?<!xg>)(Abgelenkt)(er|e|\\b)", "(?<!xg>)(Desorientiert)(e|\\b)", "(?<!xg>)(G?e?blende|[Ee]rblinde)(te|t|n[^d])",
 			
 			
 			// FR
 			// constitution
-			"(Dynamisme)", "(Vigueur)", "(Robustesse)",
-			"(Intoxication)(\\b)", "(Affaiblissement)(\\b)", "(Diminution)(\\b)",
+			"(?<!xg>)(Dynamisme)", "(?<!xg>)(Vigueur)", "(?<!xg>)(Robustesse)",
+			"(?<!xg>)(Intoxication)(\\b)", "(?<!xg>)(Affaiblissement)(\\b)", "(?<!xg>)(Diminution)(\\b)",
 			
 			// Résolution
-			"(Détermination)", "(Opiniâtreté)", "(Courage)",
-			"(Frisson)(\\b)", "(Effroi)(\\b)", "(Terreur)(\\b)",
+			"(?<!xg>)(Détermination)", "(?<!xg>)(Opiniâtreté)", "(?<!xg>)(Courage)",
+			"(?<!xg>)(Frisson)(\\b)", "(?<!xg>)(Effroi)(\\b)", "(?<!xg>)(Terreur)(\\b)",
 						
 			// Dextérité
-			"(Célérité)", "(Agilité)", "(Vélocité)",
-			"(Entrave)(\\b)", "(Immobilisation)(\\b)", "(Paralysie)(\\b)",
+			"(?<!xg>)(Célérité)", "(?<!xg>)(Agilité)", "(?<!xg>)(Vélocité)",
+			"(?<!xg>)(Entrave)(\\b)", "(?<!xg>)(Immobilisation)(\\b)", "(?<!xg>)(Paralysie)(\\b)",
 			
 			// Intelligence
-			"(Sagacité)", "(Astuce)", "(Perspicacité)",
-			"(Confusion)(\\b)", "(Charme)(\\b)", "(Domination)(\\b)",
+			"(?<!xg>)(Sagacité)", "(?<!xg>)(Astuce)", "(?<!xg>)(Perspicacité)",
+			"(?<!xg>)(Confusion)(\\b)", "(?<!xg>)(Charme)(\\b)", "(?<!xg>)(Domination)(\\b)",
 			
 			// Puissance
-			"(Force)", "(Ténacité)", "(Tonus)",
-			"(Stupéfaction)(\\b)", "(Étourdissement)(\\b)", "(Assommement)(\\b)",
+			"(?<!xg>)(Force)", "(?<!xg>)(Ténacité)", "(?<!xg>)(Tonus)",
+			"(?<!xg>)(Stupéfaction)(\\b)", "(?<!xg>)(Étourdissement)(\\b)", "(?<!xg>)(Assommement)(\\b)",
 			
 			//Perception
-			"(Subtilité)", "(Conscience)", "(Intuition)",
-			"(Distraction)(\\b)", "(Désorientation)(\\b)", "(Aveuglement)(\\b)",
+			"(?<!xg>)(Subtilité)", "(?<!xg>)(Conscience)", "(?<!xg>)(Intuition)",
+			"(?<!xg>)(Distraction)(\\b)", "(?<!xg>)(Désorientation)(\\b)", "(?<!xg>)(Aveuglement)(\\b)",
 			
 			
 			// IT
 			// Costituzione
-			"(In forma)", "(Poderoso)", "(Robusto)",
-			"(Nausea)(ndo|to)", "(Indebolit)(i|o)", "(Debilitato)(\\b)",
+			"(?<!xg>)(In forma)", "(?<!xg>)(Poderoso)", "(?<!xg>)(Robusto)",
+			"(?<!xg>)(Nausea)(ndo|to)", "(?<!xg>)(Indebolit)(i|o)", "(?<!xg>)(Debilitato)(\\b)",
 			
 			//Risolutezza
-			"(Nerbo)", "(Risoluto)", "(Coraggioso)",
-			"(Scoss)(o|i)", "(Spaventa)(ndo|to)", "(Terrorizza)(ndo|to)",
+			"(?<!xg>)(Nerbo)", "(?<!xg>)(Risoluto)", "(?<!xg>)(Coraggioso)",
+			"(?<!xg>)(Scoss)(o|i)", "(?<!xg>)(Spaventa)(ndo|to)", "(?<!xg>)(Terrorizza)(ndo|to)",
 			
 			// Destrezza
-			"(Veloce)", "(Lesto)", "(Rapido)",
-			"(Azzoppato)(\\b)", "(Immobilizza)(ndo|to)", "(Paralizza)(ndo|to)",
+			"(?<!xg>)(Veloce)", "(?<!xg>)(Lesto)", "(?<!xg>)(Rapido)",
+			"(?<!xg>)(Azzoppato)(\\b)", "(?<!xg>)(Immobilizza)(ndo|to)", "(?<!xg>)(Paralizza)(ndo|to)",
 			
 			// Acume
-			"(Arguto)", "(Perspicace)", "(Brillante)",
-			"(Confus)(ione|o)", "(Charme|Incantato)(\\b)", "(Dominato)(\\b)",
+			"(?<!xg>)(Arguto)", "(?<!xg>)(Perspicace)", "(?<!xg>)(Brillante)",
+			"(?<!xg>)(Confus)(ione|o)", "(?<!xg>)(Charme|Incantato)(\\b)", "(?<!xg>)(Dominato)(\\b)",
 			
 			// Vigore
-			"(Forte)", "(Tenace)", "(Energico)",
-			"(Sorpreso)(\\b)", "(Disorienta)(mento|to)", "(Stord)(endo|ito|imento)",
+			"(?<!xg>)(Forte)", "(?<!xg>)(Tenace)", "(?<!xg>)(Energico)",
+			"(?<!xg>)(Sorpreso)(\\b)", "(?<!xg>)(Disorienta)(mento|to)", "(?<!xg>)(Stord)(endo|ito|imento)",
 			
 			// Percezione
-			"(Profondo)", "(Consapevole)", "(Intuitivo)",
-			"(Distratto)(\\b)", "(Spaesa)(to|ti)", "(Cecità|Accecato)(\\b)",
+			"(?<!xg>)(Profondo)", "(?<!xg>)(Consapevole)", "(?<!xg>)(Intuitivo)",
+			"(?<!xg>)(Distratto)(\\b)", "(?<!xg>)(Spaesa)(to|ti)", "(?<!xg>)(Cecità|Accecato)(\\b)",
 			
 			
 			// ES
 			// Constitución
-			"(En forma)", "(Resistente)", "(Robusto)",
-			"(Enfermo)(\\b)", "(Debilitado)(\\b)", "(Desalentado)(\\b)",
+			"(?<!xg>)(En forma)", "(?<!xg>)(Resistente)", "(?<!xg>)(Robusto)",
+			"(?<!xg>)(Enfermo)(\\b)", "(?<!xg>)(Debilitado)(\\b)", "(?<!xg>)(Desalentado)(\\b)",
 			
 			// Determinación
-			"(Resuelto)", "(Firme)", "(Valiente)",
-			"(Alterado)(\\b)", "(Asustado)(\\b)", "(Aterrorizado)(\\b)",
+			"(?<!xg>)(Resuelto)", "(?<!xg>)(Firme)", "(?<!xg>)(Valiente)",
+			"(?<!xg>)(Alterado)(\\b)", "(?<!xg>)(Asustado)(\\b)", "(?<!xg>)(Aterrorizado)(\\b)",
 			
 			// Destreza
-			"(Rápido)", "(Sagaz)", "(Veloz)",
-			"(Atrapado)(\\b)", "(Inmovilizado)(\\b)", "(Paralizado)(\\b)",
+			"(?<!xg>)(Rápido)", "(?<!xg>)(Sagaz)", "(?<!xg>)(Veloz)",
+			"(?<!xg>)(Atrapado)(\\b)", "(?<!xg>)(Inmovilizado)(\\b)", "(?<!xg>)(Paralizado)(\\b)",
 			
 			// Intelecto
-			"(Inteligente)", "(Agudo)", "(Brillante)",
-			"(Confuso)(\\b)", "(Encantado)(\\b)", "(Dominado)(\\b)",
+			"(?<!xg>)(Inteligente)", "(?<!xg>)(Agudo)", "(?<!xg>)(Brillante)",
+			"(?<!xg>)(Confuso)(\\b)", "(?<!xg>)(Encantado)(\\b)", "(?<!xg>)(Dominado)(\\b)",
 			
 			// Fuerza
-			"(Fuerte)", "(Tenaz)", "(Enérgico)",
-			"(Tambaleante)(\\b)", "(Desorientado)(\\b)", "(Aturdido)(\\b)",
+			"(?<!xg>)(Fuerte)", "(?<!xg>)(Tenaz)", "(?<!xg>)(Enérgico)",
+			"(?<!xg>)(Tambaleante)(\\b)", "(?<!xg>)(Desorientado)(\\b)", "(?<!xg>)(Aturdido)(\\b)",
 			
 			// Percepción
-			"(Perspicaz)", "(Consciente)", "(Intuitivo)",
-			"(Distraído)(\\b)", "(Desorientado)(\\b)", "(Cegado)(\\b)",
+			"(?<!xg>)(Perspicaz)", "(?<!xg>)(Consciente)", "(?<!xg>)(Intuitivo)",
+			"(?<!xg>)(Distraído)(\\b)", "(?<!xg>)(Desorientado)(\\b)", "(?<!xg>)(Cegado)(\\b)",
 			
 			
 			// PT
 			// Constituição
-			"(Em Forma)", "(Resistente)", "(Robusto)",
-			"(Adoecido)(\\b)", "(Enfraquecido)(\\b)", "(Debilitado)(\\b)",
+			"(?<!xg>)(Em Forma)", "(?<!xg>)(Resistente)", "(?<!xg>)(Robusto)",
+			"(?<!xg>)(Adoecido)(\\b)", "(?<!xg>)(Enfraquecido)(\\b)", "(?<!xg>)(Debilitado)(\\b)",
 			
 			// Determinação
-			"(Firme)", "(Resoluto)", "(Corajoso)",
-			"(Abalado)(\\b)", "(Amedrontado)(\\b)", "(Aterrorizado)(\\b)",
+			"(?<!xg>)(Firme)", "(?<!xg>)(Resoluto)", "(?<!xg>)(Corajoso)",
+			"(?<!xg>)(Abalado)(\\b)", "(?<!xg>)(Amedrontado)(\\b)", "(?<!xg>)(Aterrorizado)(\\b)",
 			
 			// Destreza
-			"(Rápido)", "(Ágil)", "(Veloz)",
-			"(Mancando)(\\b)", "(Imobilizado)(\\b)", "(Paralisado)(\\b)",
+			"(?<!xg>)(Rápido)", "(?<!xg>)(Ágil)", "(?<!xg>)(Veloz)",
+			"(?<!xg>)(Mancando)(\\b)", "(?<!xg>)(Imobilizado)(\\b)", "(?<!xg>)(Paralisado)(\\b)",
 			
 			// Intelecto
-			"(Esperto)", "(Sagaz)", "(Brilhante)",
-			"(Confuso)(\\b)", "(Encantado)(\\b)", "(Dominado)(\\b)",
+			"(?<!xg>)(Esperto)", "(?<!xg>)(Sagaz)", "(?<!xg>)(Brilhante)",
+			"(?<!xg>)(Confuso)(\\b)", "(?<!xg>)(Encantado)(\\b)", "(?<!xg>)(Dominado)(\\b)",
 			
 			// Força
-			"(Forte)", "(Tenaz)", "(Energizado)",
-			"(Desconcertado)(\\b)", "(Ofuscado)(\\b)", "(Atordoad)(\\b)",
+			"(?<!xg>)(Forte)", "(?<!xg>)(Tenaz)", "(?<!xg>)(Energizado)",
+			"(?<!xg>)(Desconcertado)(\\b)", "(?<!xg>)(Ofuscado)(\\b)", "(?<!xg>)(Atordoad)(\\b)",
 			
 			// Percepção
-			"(Perspicaz)", "(Ciente)", "(Intuitivo)",
-			"(Distraído)(\\b)", "(Desorientado)(\\b)", "(Cego)(\\b)",
+			"(?<!xg>)(Perspicaz)", "(?<!xg>)(Ciente)", "(?<!xg>)(Intuitivo)",
+			"(?<!xg>)(Distraído)(\\b)", "(?<!xg>)(Desorientado)(\\b)", "(?<!xg>)(Cego)(\\b)",
 			
 			
 			// PL
 			// kondycji
-			"(sprawność)", "(dzielność)", "(krzepkość)",
-			"(mdłości)(\\b)", "(osłabienie)(\\b)", "(wycieńczenie)(\\b)",
+			"(?<!xg>)(sprawność)", "(?<!xg>)(dzielność)", "(?<!xg>)(krzepkość)",
+			"(?<!xg>)(mdłości)(\\b)", "(?<!xg>)(osłabienie)(\\b)", "(?<!xg>)(wycieńczenie)(\\b)",
 			
 			// stanowczości
-			"(wytrwałość)", "(niezłomność)", "(odwaga)",
-			"(roztrzęsienie)(\\b)", "(przestraszenie)(\\b)", "(przerażenie)(\\b)",
+			"(?<!xg>)(wytrwałość)", "(?<!xg>)(niezłomność)", "(?<!xg>)(odwaga)",
+			"(?<!xg>)(roztrzęsienie)(\\b)", "(?<!xg>)(przestraszenie)(\\b)", "(?<!xg>)(przerażenie)(\\b)",
 			
 			// zręczności
-			"(szybkość)", "(lotność)", "(zwinność)",
-			"(okulawienie)(\\b)", "(unieruchomienie)(\\b)", "(paraliż)(\\b)",
+			"(?<!xg>)(szybkość)", "(?<!xg>)(lotność)", "(?<!xg>)(zwinność)",
+			"(?<!xg>)(okulawienie)(\\b)", "(?<!xg>)(unieruchomienie)(\\b)", "(?<!xg>)(paraliż)(\\b)",
 			
 			// intelektu
-			"(mądrość)", "(bystrość)", "(geniusz)",
-			"(zamęt)(\\b)", "(zauroczenie)(\\b)", "(zdominowanie)(\\b)",
+			"(?<!xg>)(mądrość)", "(?<!xg>)(bystrość)", "(?<!xg>)(geniusz)",
+			"(?<!xg>)(zamęt)(\\b)", "(?<!xg>)(zauroczenie)(\\b)", "(?<!xg>)(zdominowanie)(\\b)",
 			
 			// mocy
-			"(siła)", "(zawziętość)", "(pobudzenie)",
-			"(wytrącenie z równowagi)(\\b)", "(oszołomienie)(\\b)", "(ogłuszenie)(\\b)",
+			"(?<!xg>)(siła)", "(?<!xg>)(zawziętość)", "(?<!xg>)(pobudzenie)",
+			"(?<!xg>)(wytrącenie z równowagi)(\\b)", "(?<!xg>)(oszołomienie)(\\b)", "(?<!xg>)(ogłuszenie)(\\b)",
 			
 			// percepcji
-			"(wnikliwość)", "(świadomość)", "(intuicja)",
-			"(rozkojarzenie)(\\b)", "(dezorientacja)(\\b)", "(oślepienie)(\\b)",
+			"(?<!xg>)(wnikliwość)", "(?<!xg>)(świadomość)", "(?<!xg>)(intuicja)",
+			"(?<!xg>)(rozkojarzenie)(\\b)", "(?<!xg>)(dezorientacja)(\\b)", "(?<!xg>)(oślepienie)(\\b)",
 			
 			
-			// Ru Fixed 
+			// Ru Fix
 			// Телосложение
-			"(подготовка)", "(крепость)", "(непоколебимость)",
-			"(недомогание)(\\b)", "(ослабление)(\\b)", "(немощь)(\\b)",
+			"(?<!xg>)(подготовка)", "(?<!xg>)(крепость)", "(?<!xg>)(непоколебимость)",
+			"(?<!xg>)(недомогание)(\\b)", "(?<!xg>)(ослабление)(\\b)", "(?<!xg>)(немощь)(\\b)",
 			
 			// Решительность
-			"(устремленность)", "(решительность)", "(отвага)",
-			"(встряска)(\\b)", "(испуг)(\\b)", "(ужас)(\\b)",
+			"(?<!xg>)(устремленность)", "(?<!xg>)(решительность)", "(?<!xg>)(Отвага)",
+			"(?<!xg>)(встряска)(\\b)", "(?<!xg>)(испуг)(\\b)", "(?<!xg>)(ужас)(\\b)",
 			
 			// Ловкость
-			"(быстрота)", "(проворство)", "(стремительность)",
-			"(хромота)(\\b)", "(обездвиженность)(\\b)", "(паралич)(\\b)",
+			"(?<!xg>)(быстрота)", "(?<!xg>)(проворство)", "(?<!xg>)(стремительность)",
+			"(?<!xg>)(хромота)(\\b)", "(?<!xg>)(обездвиженность)(\\b)", "(?<!xg>)(паралич)(\\b)",
 			
 			// Интеллект
-			"(ум)", "(сообразительность)", "(мудрость)",
-			"(путаница)(\\b)", "(заворожение)(\\b)", "(доминирование)(\\b)",
-			
+			"(?<!xg>)(ум)", "(?<!xg>)(сообразительность)", "(?<!xg>)(мудрость)",
+			"(?<!xg>)(путаница)(\\b)", "(?<!xg>)(заворожен)(ие|ые)", "(?<!xg>)(доминирование)(\\b)",
+
 			// Сила
-			"(сила)", "(цепкость)", "(энергия)",
-			"(потрясение)(\\b)", "(ошеломление)(\\b)", "(оглушение)(\\b)",
-			
+			"(?<!xg>)(сила)", "(?<!xg>)(цепкость)", "(?<!xg>)(энергия)",
+			"(?<!xg>)(потрясение)(\\b)", "(?<!xg>)(Ошеломлен)(ные|ие)", "(?<!xg>)(Оглушение)(\\b)",
+
 			// Восприятие
-			"(проницательность)", "(осведомленность)", "(интуиция)",
-			"(отвлечение)(\\b)", "(дезориентация)(\\b)", "(ослепление)(\\b)",
-			
+			"(?<!xg>)(проницательность)", "(?<!xg>)(Осведомленность)", "(?<!xg>)(интуиция)",
+			"(?<!xg>)(Отвлечение)(\\b)", "(?<!xg>)(Дезориентированные)(\\b)", "(?<!xg>)([Оо]слеплен)(ие|ых|ые)",
+
 			
 			// ZH, Gott versteh ich nicht.
 			// 体质
-			"(健康)", "(健壮)", "(身强体壮)",
-			"(恶心)(\\b)", "(虚弱)(\\b)", "(无力)(\\b)",
+			"(?<!xg>)(健康)", "(?<!xg>)(健壮)", "(?<!xg>)(身强体壮)",
+			"(?<!xg>)(恶心)(\\b)", "(?<!xg>)(虚弱)(\\b)", "(?<!xg>)(无力)(\\b)",
 			
 			// 决心
-			"(坚定)", "(坚决)", "(勇往直前)",
-			"(动摇)(\\b)", "(惊慌)(\\b)", "(恐惧)(\\b)",
+			"(?<!xg>)(坚定)", "(?<!xg>)(坚决)", "(?<!xg>)(勇往直前)",
+			"(?<!xg>)(动摇)(\\b)", "(?<!xg>)(惊慌)(\\b)", "(?<!xg>)(恐惧)(\\b)",
 			
 			// 敏捷
-			"(快速)", "(灵巧)", "(身轻如燕)",
-			"(蹒跚)(\\b)", "(定身)(\\b)", "(麻痹)(\\b)",
+			"(?<!xg>)(快速)", "(?<!xg>)(灵巧)", "(?<!xg>)(身轻如燕)",
+			"(?<!xg>)(蹒跚)(\\b)", "(?<!xg>)(定身)(\\b)", "(?<!xg>)(麻痹)(\\b)",
 			
 			// 智力
-			"(聪慧)", "(聪慧)", "(才智过人)",
-			"(困惑)(\\b)", "(魅惑)(\\b)", "(受控)(\\b)",
+			"(?<!xg>)(聪慧)", "(?<!xg>)(聪慧)", "(?<!xg>)(才智过人)",
+			"(?<!xg>)(困惑)(\\b)", "(?<!xg>)(魅惑)(\\b)", "(?<!xg>)(受控)(\\b)",
 			
 			// 力量
-			"(强力)", "(强硬)", "(力大无穷)",
-			"(踉跄)(\\b)", "(晕眩)(\\b)", "(震慑)(\\b)",
+			"(?<!xg>)(强力)", "(?<!xg>)(强硬)", "(?<!xg>)(力大无穷)",
+			"(?<!xg>)(踉跄)(\\b)", "(?<!xg>)(晕眩)(\\b)", "(?<!xg>)(震慑)(\\b)",
 			
 			// 感知
-			"(敏锐)", "(机敏)", "(直觉超群)",
-			"(烦乱)(\\b)", "(迷离)(\\b)", "(目盲)(\\b)"
+			"(?<!xg>)(敏锐)", "(?<!xg>)(机敏)", "(?<!xg>)(直觉超群)",
+			"(?<!xg>)(烦乱)(\\b)", "(?<!xg>)(迷离)(\\b)", "(?<!xg>)(目盲)(\\b)"
 	}; 
 	 
 	final static String[] targetWords = new String[] {
 		"<link=\"gamedata://2370256c-67fe-4481-bfae-9081b2dc10d3\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>¹</color></link>",
 		"<link=\"gamedata://fd4d0c5c-f525-4010-99dc-f30a59b2f729\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>²</color></link>",
 		"<link=\"gamedata://86f9c246-c37c-46a6-8838-7dc36c18e08d\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>³</color></link>",
-		                                                                                                                                                                                                                                                                                                                            
+		                                                                                                                                                                                                                                                                                                                           
 		"<link=\"gamedata://1e99c141-5288-4bf0-abc2-65cc78638745\"><#f7b733>$1$2 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>₁</color></link>",
 		"<link=\"gamedata://a6368675-47ed-460d-be4f-2593f24ad126\"><#f7b733>$1$2 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>₂</color></link>",
 		"<link=\"gamedata://fe0997e7-422f-4d1d-b9f6-241946fbd1f1\"><#f7b733>$1$2 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>₃</color></link>",
-		                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+		                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 		"<link=\"gamedata://92d1a280-2f8e-4a6d-87a9-6599d41d65e4\"><#30d3d5>$1 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1>¹</color></link>",
 		"<link=\"gamedata://51e1cbfc-506b-4e7c-880e-b89312a4b4c3\"><#30d3d5>$1 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1>²</color></link>",     
 		"<link=\"gamedata://dc62af47-239f-4ee4-8d91-a5e8b3b97564\"><#30d3d5>$1 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1>³</color></link>",     
-		                                                                                                                                                                                                                                                                                                                                       
+		                                                                                                                                                                                                                                                                                                                                      
 		"<link=\"gamedata://8f4832b6-49ef-4f40-9d64-20eb50fd9bb6\"><#30d3d5>$1$2 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1>₁</color></link>",   
 		"<link=\"gamedata://d9e00789-14d3-46f1-be3e-4c1379148d24\"><#30d3d5>$1$2 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1>₂</color></link>",  
 		"<link=\"gamedata://0d89a32d-c883-4a18-9fbd-4ff58f1fd0de\"><#30d3d5>$1$2 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1>₃</color></link>",  
-	                                                                                                                                                                     
+	                                                                                                                                                                    
 		"<link=\"gamedata://a0b4a490-2c99-456e-b6fb-131353133fba\"><#72da26>$1 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1>¹</color></link>",  
 		"<link=\"gamedata://0451672b-af45-4b44-96b4-ff2c1b6aa1d3\"><#72da26>$1 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1>²</color></link>",  
 		"<link=\"gamedata://1418c0ae-790d-4aef-9ca6-00238012c84e\"><#72da26>$1 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1>³</color></link>",  
-		                                                                                                                                                                                                                                                                                                                                                 
+		                                                                                                                                                                                                                                                                                                                                                
 		"<link=\"gamedata://c1d82f88-4f54-4279-8e72-43104bf754a2\"><#72da26>$1$2 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1>₁</color></link>",
 		"<link=\"gamedata://a31fdd6c-5f4f-404d-92f5-5d7d8c166f2c\"><#72da26>$1$2 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1>₂</color></link>",
 		"<link=\"gamedata://72de641d-d2f1-47ca-85f2-6ec3e41140bd\"><#72da26>$1$2 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1>₃</color></link>",
-		                                                                                                                                                                                                                                                                                                                                                                       
+		                                                                                                                                                                                                                                                                                                                                                                      
 		"<link=\"gamedata://0435c12c-8049-4f50-b234-ed3cca340696\"><#00a4ff>$1 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1>¹</color></link>", 
 		"<link=\"gamedata://c4ada862-ee17-4c10-8967-734e08daa4aa\"><#00a4ff>$1 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1>²</color></link>",  
 		"<link=\"gamedata://dee61b5a-6313-4406-ab83-4fb72b37cea2\"><#00a4ff>$1 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1>³</color></link>",  
-		                                                                                                                                                                                                                                                                                                                                                          
+		                                                                                                                                                                                                                                                                                                                                                         
 		"<link=\"gamedata://917ea7e5-133c-4163-93c6-55c7d55420a4\"><#00a4ff>$1$2 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1>₁</color></link>",
 		"<link=\"gamedata://f4a09726-a62d-49a2-8cc6-c3713676c833\"><#00a4ff>$1$2 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1>₂</color></link>",
 		"<link=\"gamedata://9e773415-4d95-4be6-ab87-325d9815e0d7\"><#00a4ff>$1$2 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1>₃</color></link>",
@@ -1129,35 +1129,26 @@ class Entry {
 	
 	final static String[] damageReplacementWords = new String[] {
 			// EN 
-			"([bB]urn)(\\b|ed|ing|s)\\b", 
-			"([cC]orro)(\\b|des|de|sive)\\b", 
-			"([cC]rush)(\\b|es|ing)\\b",
-			"([fF]reez)(\\b|es|ed|e|ing)\\b",
-			"([pP]ierc)(\\b|es|e|ing)\\b",
-			"([rR]aw)(\\b)",
-			"([sS]lash)(\\b|ing)\\b",
-			"([sS]hock)(\\b|ed|s|ing)\\b",
+			"(?<!xg>)([bB]urn)(\\b|ed|ing|s)\\b", 
+			"(?<!xg>)([cC]orro)(\\b|des|de|sive)\\b", 
+			"(?<!xg>)([cC]rush)(\\b|es|ing)\\b",
+			"(?<!xg>)([fF]reez)(\\b|es|ed|e|ing)\\b",
+			"(?<!xg>)([pP]ierc)(\\b|es|e|ing)\\b",
+			"(?<!xg>)([rR]aw)(\\b)",
+			"(?<!xg>)([sS]lash)(\\b|ing)\\b",
+			"(?<!xg>)([sS]hock)(\\b|ed|ing)\\b",
 			
 			// DE
-			"(Brand-?)(schaden|\\b)",
-			"(Zersetzung-?)(sschaden|\\b)",
-			"(Wucht-?)(schaden|\\b)",
-			"(Frost-?)(schaden|\\b)",
-			"(Stich-?)(schaden|\\b)",
-			"(Direkt-?|direkte[rn] )([sS]chaden)",
-			"(Hieb-?)(schaden|\\b)",
-			"(Schock-?)(schaden|\\b)",
+			"(?<!xg>)(Brand-?)(schaden|\\b)",
+			"(?<!xg>)(Zersetzung-?)(sschaden|\\b)",
+			"(?<!xg>)(Wucht-?)(schaden|\\b)",
+			"(?<!xg>)(Frost-?)(schaden|\\b)",
+			"(?<!xg>)(Stich-?)(schaden|\\b)",
+			"(?<!xg>)(Direkt-?|direkte[rn] )([sS]chaden)",
+			"(?<!xg>)(Hieb-?)(schaden|\\b)",
+			"(?<!xg>)(Schock-?)(schaden|\\b)",
 	};
 	
-	final static String[] defenseReplacementWords = new String[] {
-			// EN 
-			"(Fortitude)\\b", 
-			"(Deflection)\\b)", 
-			"(Reflex)(\\b|es)\\b",
-			"(Will)(\\b|power)\\b",
-			"(Penetrate|Penetration)\\b",
-			"(AR|Armor Rating)\\b"
-	};
 	
 	public Entry replaceDamageTypeWithIcon(String targetLanguage) {
 		Entry result = new Entry();
@@ -1210,6 +1201,82 @@ class Entry {
 		for(int j = 0; j < 8; j++) {
 			result.DefaultText = result.DefaultText.replaceAll(damageReplacementWords[i + j], targetWords[j]);
 			result.FemaleText = result.FemaleText.replaceAll(damageReplacementWords[i + j], targetWords[j]);
+		}
+		if(result.DefaultText.equals(DefaultText) && result.FemaleText.equals(FemaleText)) {
+			return null;
+		} else {
+			return result;
+		}
+	}
+	
+	
+	final static String[] defenseReplacementWords = new String[] {
+			// EN 
+			"(?<!xg>)(Fortitude)", 
+			"(?<!xg>)(Deflection)", 
+			"(?<!xg>)(?<!xg>)(Reflex|Reflexes)",
+			"(?<!xg>)(Will|Willpower)",
+			"(?<!xg>)(Penetrate|Penetration)",
+			"(?<!xg>)(AR|Armor Rating)",
+			
+			// DE 
+			"(?<!xg>)(Tapferkeit)", 
+			"(?<!xg>)(Abwehr)", 
+			"(?<!xg>)(Reflexe)",
+			"(?<!xg>)(Willen?)\\b",
+			"(?<!xg>)(Durchschlag|Durchschlagskraft)",
+			"(?<!xg>)(RW|Rüstungswert)",
+	};
+	
+	public Entry replaceDefenseWithIcon(String targetLanguage) {
+		Entry result = new Entry();
+		result.ID = this.ID;
+		result.DefaultText = DefaultText;
+		result.FemaleText = FemaleText;
+		
+		String[] targetWords = new String[] {
+			"<#f9d968><sprite=\"Inline\" name=\"cs_fortitude\" tint=1> $1</color>",
+			"<#b0cffd><sprite=\"Inline\" name=\"cs_deflection\" tint=1> $1</color>",
+			"<#8bf7c3><sprite=\"Inline\" name=\"cs_reflex\" tint=1> $1</color>",
+			"<#d591f8><sprite=\"Inline\" name=\"cs_will\" tint=1> $1</color>",
+			"<sprite=\"Inline\" name=\"cs_penetration\" tint=1> $1",
+			"<sprite=\"Inline\" name=\"cs_ar\" tint=1> $1",
+		};
+		
+		int i = 0;
+		switch (targetLanguage) {
+			case "en":
+				i = 6 * 0;
+				break;
+			case "de_patch":
+				i = 6 * 1;
+				break;
+			case "fr":
+		//		i = 6 * 2;
+				break;
+			case "it":
+		//		i = 6 * 3;
+				break;
+			case "es":
+		//		i = 6 * 4;
+				break;
+			case "pt":
+		//		i = 6 * 5;
+				break;
+			case "pl":
+		//		i = 6 * 6;
+				break;
+			case "ru":
+		//		i = 6 * 7;
+				break;
+			case "zh":
+		//		i = 6 * 8;
+				break;
+		}
+		
+		for(int j = 0; j < 6; j++) {
+			result.DefaultText = result.DefaultText.replaceAll(defenseReplacementWords[i + j], targetWords[j]);
+			result.FemaleText = result.FemaleText.replaceAll(defenseReplacementWords[i + j], targetWords[j]);
 		}
 		if(result.DefaultText.equals(DefaultText) && result.FemaleText.equals(FemaleText)) {
 			return null;
