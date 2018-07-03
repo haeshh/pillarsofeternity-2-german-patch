@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\03_neketaka_vailian_district\03_cv_tawenu</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>126</EntryCount>
+  <EntryCount>127</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -652,6 +652,11 @@ Tawenu deutet auf die Stelle, wo er steht.</DefaultText>
     <Entry>
       <ID>199</ID>
       <DefaultText>„Mich kannst du da raushalten, hörst du?“ Tekēhu wendet seinen Blick ab und beißt dabei auf die Innenseite seiner Wange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
