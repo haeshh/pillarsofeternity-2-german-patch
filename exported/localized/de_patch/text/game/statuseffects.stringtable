@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Erlittener Waffenschaden um {0:extravalue:percent} reduziert (erhöht sich bei Gesundheitsverlust um max {0:value:percentbonus} Schadensreduktion)</DefaultText>
+      <DefaultText>Erlittener Waffenschaden wird reduziert, wenn Gesundheit verloren wird. (Max. {0:value:percentbonus} Schadensverringerung)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
