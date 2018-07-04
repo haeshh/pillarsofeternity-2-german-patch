@@ -1076,7 +1076,7 @@
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>+8,5 % Aktionsgeschwindigkeit gegen flankiertes Ziel bei einem Treffer. Effekt ist fünffach stapelbar</DefaultText>
+      <DefaultText>{0:value:percent} Aktionsgeschwindigkeit gegen flankiertes Ziel bei einem Treffer. Kann {0:triggervalue:straight}-mal gestapelt werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
