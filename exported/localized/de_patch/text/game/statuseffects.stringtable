@@ -1086,7 +1086,7 @@
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>20 % Chance einer sofortigen Erholung, wenn bei einem Angriff mit Nahkampfwaffen verfehlt</DefaultText>
+      <DefaultText>{0:value:percent} Chance einer sofortigen Erholung, wenn bei einem Angriff mit Nahkampfwaffen verfehlt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
