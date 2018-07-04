@@ -1091,7 +1091,7 @@
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>Bei kritischem Treffer {0:triggercount} direkter Blutungsschaden alle {0:value:duration} für die Dauer von {0:extravalue:duration} beim Ziel</DefaultText>
+      <DefaultText>Fügt dem Ziel bei einem kritischen Treffer für {0:extravalue:duration} alle {0:value:duration} {0:triggercount} direkten Blutungschaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
