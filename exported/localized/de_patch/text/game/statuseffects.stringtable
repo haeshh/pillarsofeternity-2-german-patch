@@ -1131,12 +1131,12 @@
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>{0:value} Genauigkeit mit Fernkampfwaffen für {0:extravalue:duration} bei Treffer ({0:triggercount}-mal stapelbar)</DefaultText>
+      <DefaultText>{0:value} Genauigkeit mit Fernkampfwaffen für {0:extravalue:duration} bei einem erzielten Treffer (Kann {0:triggercount}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>{0:value} Genauigkeit für alle Waffen für {0:extravalue:duration} Sekunden bei einem Treffer. ({0:triggercount}-mal stapelbar)</DefaultText>
+      <DefaultText>{0:value} Genauigkeit für alle Waffen für {0:extravalue:duration} Sekunden bei einem erzielten Treffer. (Kann {0:triggercount}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
