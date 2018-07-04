@@ -621,7 +621,7 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Negiert die nächste Erholung des Trägers bei einem kritischen Treffer im Nahkampf</DefaultText>
+      <DefaultText>{0:value:percent} Chance, die nächste Erholung des Trägers zu negieren, wenn dieser einen kritischen Treffer im Nahkampf erleidet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
