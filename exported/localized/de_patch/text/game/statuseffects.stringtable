@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>523</EntryCount>
+  <EntryCount>524</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -501,7 +501,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Verwandelt {0:value:percent} des Schadens von einem Angriff mit einem Feuer-Schlüsselwort in Gesundheit</DefaultText>
+      <DefaultText>{0:extravalue:percent} Chance, {0:value:percent} des Schadens von Angriffen mit dem Schlüsselwort Feuer in Gesundheit umzuwandeln</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2617,6 +2617,11 @@
     <Entry>
       <ID>596</ID>
       <DefaultText>{0:value:percent} chance to gain {0:extravalue} Zeal on scoring kill</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>Spawn Black Oozes when moving</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
