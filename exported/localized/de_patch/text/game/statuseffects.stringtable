@@ -841,7 +841,7 @@
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>Bei kritischem Treffer Angriff auf das Ziel mit zufälliger physischer Wirkung</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer das Ziel für {0:extravalue:duration} mit einer zufälligen körperlichen Wirkung zu belegen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
