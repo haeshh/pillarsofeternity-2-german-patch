@@ -1326,7 +1326,7 @@
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>{0:triggercount} direkter Schaden alle {0:extravalue:duration} für die Dauer von {0:value:duration} bei kritischem Treffer, wenn Ziel mit Entschlossenheitswirkung belegt ist</DefaultText>
+      <DefaultText>Wenn das Ziel mit einer Entschlossenheitswirkung belegt ist, füge bei einem erzielten kritischen Treffer alle {0:extravalue:duration} für die Dauer von {0:value:duration} direkten Schaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
