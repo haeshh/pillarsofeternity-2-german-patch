@@ -1541,7 +1541,7 @@
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText>{0:value} Gesundheit alle {0:triggervalue:duration} für die Dauer von {0:extravalue:duration} bei kritischem Treffer. Die Heilung erhöht sich, wenn der Träger an Gesundheit verliert.</DefaultText>
+      <DefaultText>{0:value} Gesundheit alle {0:triggervalue:duration} für die Dauer von {0:extravalue:duration} bei einem erlittenen kritischen Treffer. Die Heilung erhöht sich, wenn der Träger an Gesundheit verliert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
