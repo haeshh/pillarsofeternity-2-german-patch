@@ -1511,7 +1511,7 @@
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText>-35 % empfangener Schaden von absetzenden und flankierenden Angriffen</DefaultText>
+      <DefaultText>{0:value:percentbonus} erlittener Schaden von absetzenden und flankierenden Angriffen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
