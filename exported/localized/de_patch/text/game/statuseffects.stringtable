@@ -2421,7 +2421,7 @@
     </Entry>
     <Entry>
       <ID>521</ID>
-      <DefaultText>{0:extravalue} Rüstungswert gegen Wasserangriffe, der sich erhöht, wenn der Träger Gesundheit verliert (Max 7 RW)</DefaultText>
+      <DefaultText>Verleiht Rüstungswert gegen Wasserangriffe, der sich erhöht, wenn der Träger Gesundheit verliert (Max. {0:value} RW)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
