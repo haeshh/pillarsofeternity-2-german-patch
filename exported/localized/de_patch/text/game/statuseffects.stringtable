@@ -2106,7 +2106,7 @@
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>Erlittene kritische Treffer von Nahkampfwaffen lässt Angreifer Verwirrt werden (verbessert sich bei kritischem Treffer zu Bezaubert)</DefaultText>
+      <DefaultText>Erlittene kritische Treffer durch Nahkampfangriffe haben eine {0:value:percent} Chance, dass sie beim Angreifer den Effekt Verwirrt auslösen (Verbessert sich bei kritischem Erfolg zu Bezaubert)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
