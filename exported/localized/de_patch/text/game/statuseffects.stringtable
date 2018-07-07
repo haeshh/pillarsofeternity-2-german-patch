@@ -2416,7 +2416,7 @@
     </Entry>
     <Entry>
       <ID>520</ID>
-      <DefaultText>{0:extravalue} Rüstungswert gegen Schockangriffe, der sich erhöht, wenn der Träger Gesundheit verliert (Max 5 RW)</DefaultText>
+      <DefaultText>Verleiht Rüstungswert gegen Schockangriffe, der sich erhöht, wenn der Träger Gesundheit verliert (Max. {0:value} RW)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
