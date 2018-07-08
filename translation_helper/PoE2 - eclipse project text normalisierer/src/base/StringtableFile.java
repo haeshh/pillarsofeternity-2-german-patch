@@ -948,30 +948,32 @@ class Entry {
 			"(?<!xg>)(Distraído)(\\b)", "(?<!xg>)(Desorientado)(\\b)", "(?<!xg>)(Cego)(\\b)",
 			
 			
-			// PL
-			// kondycji
-			"(?<!xg>)(sprawność)", "(?<!xg>)(dzielność)", "(?<!xg>)(krzepkość)",
-			"(?<!xg>)(mdłości)(\\b)", "(?<!xg>)(osłabienie)(\\b)", "(?<!xg>)(wycieńczenie)(\\b)",
+		
+			// PL inspiracje/przypadlosci
+            // kondycji
+            "(?<!xg>)([sS]prawnoś(ć|ci))", "(?<!xg>)([dD]zielnoś(ć|ci))", "(?<!xg>)([kK]rzepkoś(ć|ci))",
+            "(?<!xg>)([mM]dłości)(ami)", "(?<!xg>)([oO]słabi)(eni(a|em|e)|ając go|ającej)", "(?<!xg>)([wW]ycieńcz)(enia|enie|ona)",
+           
+            // stanowczości
+            "(?<!xg>)(wytrwałoś(ć|ci))", "(?<!xg>)(niezłomnoś(ć|ci))", "(?<!xg>)(odwagi)",
+            "(?<!xg>)(roztrzęsieni)(e|a)", "(?<!xg>)(przestraszeni)(a|e)", "(?<!xg>)(przerażeni)(e|a)",
+           
+            // zręczności
+            "(?<!xg>)(szybkoś(ć|ci))", "(?<!xg>)(lotnoś(c|ci))", "(?<!xg>)(zwinnoś(ć|ci))",
+            "(?<!xg>)(okulawieni)(e|a)", "(?<!xg>)(unieruch)(omieni(\\b|e|a)|omion(e|y)|amiając|amia(\\b|ją))", "(?<!xg>)([sS]parali)(ż|żowany|żując|żuje|żują|żowanie)",
+           
+            // intelektu
+            "(?<!xg>)(mądroś(ć|ci))", "(?<!xg>)(bystroś(ć|ci))", "(?<!xg>)(geniusz(u))",
+            "(?<!xg>)(zamęt)(u|em)", "(?<!xg>)(zaurocz)(enie|yć|eni|enia|ona)", "(?<!xg>)(z?domin)(owan(ie|ia|i|y)|acji|uje|any|acja)",
+           
+            // siły
+            "(?!=inspiracj|przypadłość|przypadłości) (?<!xg>)(moc)\\b", "(?<!xg>)(zawziętoś(ci|ć))", "(?<!xg>)(pobudzeni(e|a))",
+            "(?<!xg>)(wytrącen[aei])( z równowagi)", "(?<!xg>)(oszołomienie)(\\b)", "(?<!xg>)(ogłuszenie)(\\b)",
+           
+            // percepcji
+            "(?<!xg>)(wnikliwość)", "(?<!xg>)(świadomość)", "(?<!xg>)(intuicja)",
+            "(?<!xg>)(rozkojarzenie)(\\b)", "(?<!xg>)(dezorientacja)(\\b)", "(?<!xg>)(oślepienie)(\\b)",
 			
-			// stanowczości
-			"(?<!xg>)(wytrwałość)", "(?<!xg>)(niezłomność)", "(?<!xg>)(odwaga)",
-			"(?<!xg>)(roztrzęsienie)(\\b)", "(?<!xg>)(przestraszenie)(\\b)", "(?<!xg>)(przerażenie)(\\b)",
-			
-			// zręczności
-			"(?<!xg>)(szybkość)", "(?<!xg>)(lotność)", "(?<!xg>)(zwinność)",
-			"(?<!xg>)(okulawienie)(\\b)", "(?<!xg>)(unieruchomienie)(\\b)", "(?<!xg>)(paraliż)(\\b)",
-			
-			// intelektu
-			"(?<!xg>)(mądrość)", "(?<!xg>)(bystrość)", "(?<!xg>)(geniusz)",
-			"(?<!xg>)(zamęt)(\\b)", "(?<!xg>)(zauroczenie)(\\b)", "(?<!xg>)(zdominowanie)(\\b)",
-			
-			// mocy
-			"(?<!xg>)(siła)", "(?<!xg>)(zawziętość)", "(?<!xg>)(pobudzenie)",
-			"(?<!xg>)(wytrącenie z równowagi)(\\b)", "(?<!xg>)(oszołomienie)(\\b)", "(?<!xg>)(ogłuszenie)(\\b)",
-			
-			// percepcji
-			"(?<!xg>)(wnikliwość)", "(?<!xg>)(świadomość)", "(?<!xg>)(intuicja)",
-			"(?<!xg>)(rozkojarzenie)(\\b)", "(?<!xg>)(dezorientacja)(\\b)", "(?<!xg>)(oślepienie)(\\b)",
 			
 			
 			// Ru Fix
@@ -1138,6 +1140,7 @@ class Entry {
 			"(?<!xg>)([sS]lash)(\\b|ing)\\b",
 			"(?<!xg>)([sS]hock)(\\b|ed|ing)\\b",
 			
+			
 			// DE
 			"(?<!xg>)(Brand-?)(schaden|\\b)",
 			"(?<!xg>)(Zersetzung-?)(sschaden|\\b)",
@@ -1147,6 +1150,55 @@ class Entry {
 			"(?<!xg>)(Direkt-?|direkte[rn] )([sS]chaden)",
 			"(?<!xg>)(Hieb-?)(schaden|\\b)",
 			"(?<!xg>)(Schock-?)(schaden|\\b)",
+			
+			//fr
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			//it
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			//es
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			//pt
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			
+			
+			// PL rodzaje obrazen
+            "(?<!xg>)([pP]oparzony|[pP]ali się)(\\b)",
+            "(?<!xg>)(\\b[kK]was|[kK]oro)(\\b|zyjny|zyjna|duje)",
+            "(?<!xg>)([mM]iażdży)(\\b)",
+            "(?<!xg>)([zZ]imn)(a|o)|([zZ]amr)(aża|ożony|ożenie)",
+            "(?<!xg>)([kK]łuj)(e|ące)",
+            "(?<!xg>)([bB]azowe)(\\b)",
+            "(?<!xg>)([cC]ięte|[tT]nące)(\\b)",
+            "(?<!xg>)([eE]lektryczn)(ość|ości|y|e)",
+            
 	};
 	
 	
@@ -1188,7 +1240,7 @@ class Entry {
 		//		i = 8 * 5;
 				break;
 			case "pl":
-		//		i = 8 * 6;
+				i = 8 * 6;
 				break;
 			case "ru":
 		//		i = 8 * 7;
@@ -1214,7 +1266,7 @@ class Entry {
 			// EN 
 			"(?<!xg>)(Fortitude)", 
 			"(?<!xg>)(Deflection)", 
-			"(?<!xg>)(?<!xg>)(Reflex|Reflexes)",
+			"(?<!xg>)(Reflex|Reflexes)",
 			"(?<!xg>)(Will|Willpower)",
 			"(?<!xg>)(Penetrate|Penetration)",
 			"(?<!xg>)(AR|Armor Rating)",
@@ -1226,6 +1278,44 @@ class Entry {
 			"(?<!xg>)(Willen?)\\b",
 			"(?<!xg>)(Durchschlag|Durchschlagskraft)",
 			"(?<!xg>)(RW|Rüstungswert)",
+			
+			//fr
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			//it
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			//es
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			//pt
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			
+			// PL defensywa
+            "(?<!xg>)(Hart|Hartu|Hartem)",
+            "(?<!xg>)(Odbicie|Odbicia)",
+            "(?<!xg>)(Refleks|Refleksu|Refleksem)",
+            "(?<!xg>)(Wola|Wolą|Siła woli)",
+            "(?<!xg>)(Penetruje|Penetracja)",
+            "(?<!xg>)(SP|Skuteczność pancerza)",
+ 
 	};
 	
 	public Entry replaceDefenseWithIcon(String targetLanguage) {
@@ -1264,7 +1354,7 @@ class Entry {
 		//		i = 6 * 5;
 				break;
 			case "pl":
-		//		i = 6 * 6;
+				i = 6 * 6;
 				break;
 			case "ru":
 		//		i = 6 * 7;
