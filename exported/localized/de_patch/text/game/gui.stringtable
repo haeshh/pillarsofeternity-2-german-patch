@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4397</EntryCount>
+  <EntryCount>4398</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -22467,7 +22467,12 @@ Die Visionen suchen dich endlich nicht mehr heim und du ziehst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4927</ID>
-      <DefaultText>Displays when a response relates to a decision made in PoE 1.</DefaultText>
+      <DefaultText>Zeigt an, wenn eine Antwort sich auf eine Entscheidung in PoE 1 bezieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4931</ID>
+      <DefaultText>Vatnirs Raum</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
