@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1037</EntryCount>
+  <EntryCount>1042</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -5187,6 +5187,31 @@
     <Entry>
       <ID>1622</ID>
       <DefaultText>Righteous Bash</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1626</ID>
+      <DefaultText>Guilt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1627</ID>
+      <DefaultText>Colossal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1628</ID>
+      <DefaultText>Atonement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1629</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1630</ID>
+      <DefaultText>Grieving</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
