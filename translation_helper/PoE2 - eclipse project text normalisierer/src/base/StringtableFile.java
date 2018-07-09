@@ -952,22 +952,22 @@ class Entry {
 			// PL inspiracje/przypadlosci
             // kondycji
             "(?<!xg>)([sS]prawnoś(ć|ci))", "(?<!xg>)([dD]zielnoś(ć|ci))", "(?<!xg>)([kK]rzepkoś(ć|ci))",
-            "(?<!xg>)([mM]dłości)(ami)", "(?<!xg>)([oO]słabi)(eni(a|em|e)|ając go|ającej)", "(?<!xg>)([wW]ycieńcz)(enia|enie|ona)",
+            "(?<!xg>)([mM]dłości)(ami|\\b)", "(?<!xg>)([oO]słabi)(eni(a|em|e)|ając go|ającej)", "(?<!xg>)([wW]ycieńcz)(enia|enie|ona)",
            
             // stanowczości
             "(?<!xg>)(wytrwałoś(ć|ci))", "(?<!xg>)(niezłomnoś(ć|ci))", "(?<!xg>)(odwagi)",
             "(?<!xg>)(roztrzęsieni)(e|a)", "(?<!xg>)(przestraszeni)(a|e)", "(?<!xg>)(przerażeni)(e|a)",
            
             // zręczności
-            "(?<!xg>)(szybkoś(ć|ci))", "(?<!xg>)(lotnoś(c|ci))", "(?<!xg>)(zwinnoś(ć|ci))",
-            "(?<!xg>)(okulawieni)(e|a)", "(?<!xg>)(unieruch)(omieni(\\b|e|a)|omion(e|y)|amiając|amia(\\b|ją))", "(?<!xg>)([sS]parali)(ż|żowany|żując|żuje|żują|żowanie)",
+            "(?<!xg>)(szybkoś(ć|ci))(?! ataku)", "(?<!xg>)(lotnoś(c|ci))", "(?<!xg>)(zwinnoś(ć|ci))",
+            "(?<!xg>)(okulawieni)(e|a)", "(?<!xg>)(unieruch)(omieni(\\b|e|a)|omion(e|y)|amiając|amia(\\b|ją))", "(?<!xg>)([sS]?parali)(ż|żowany|żując|żuje|żują|żowanie)",
            
             // intelektu
             "(?<!xg>)(mądroś(ć|ci))", "(?<!xg>)(bystroś(ć|ci))", "(?<!xg>)(geniusz(u))",
             "(?<!xg>)(zamęt)(u|em)", "(?<!xg>)(zaurocz)(enie|yć|eni|enia|ona)", "(?<!xg>)(z?domin)(owan(ie|ia|i|y)|acji|uje|any|acja)",
            
             // siły
-            "(?!=inspiracj|przypadłość|przypadłości) (?<!xg>)(moc)\\b", "(?<!xg>)(zawziętoś(ci|ć))", "(?<!xg>)(pobudzeni(e|a))",
+            "(?!=inspiracj|przypadłość|przypadłości) (?<!xg>)(moc\\b)", "(?<!xg>)(zawziętoś(ci|ć))", "(?<!xg>)(pobudzeni(e|a))",
             "(?<!xg>)(wytrącen[aei])( z równowagi)", "(?<!xg>)(oszołomienie)(\\b)", "(?<!xg>)(ogłuszenie)(\\b)",
            
             // percepcji
@@ -1190,12 +1190,12 @@ class Entry {
 			
 			
 			// PL rodzaje obrazen
-            "(?<!xg>)([pP]oparzony|[pP]ali się)(\\b)",
+            "(?<!xg>)([pP]oparzony|[pP]ali się|ognia)(\\b)",
             "(?<!xg>)(\\b[kK]was|[kK]oro)(\\b|zyjny|zyjna|duje)",
-            "(?<!xg>)([mM]iażdży)(\\b)",
+            "(?<!xg>)([mM]iażdż)(y|one)",
             "(?<!xg>)([zZ]imn)(a|o)|([zZ]amr)(aża|ożony|ożenie)",
-            "(?<!xg>)([kK]łuj)(e|ące)",
-            "(?<!xg>)([bB]azowe)(\\b)",
+            "(?<!xg>)([kK]łu[tj])(e|ące)",
+            "(?<!xg>)([bB]azowe|kwasu)(\\b)",
             "(?<!xg>)([cC]ięte|[tT]nące)(\\b)",
             "(?<!xg>)([eE]lektryczn)(ość|ości|y|e)",
             
@@ -1309,10 +1309,10 @@ class Entry {
 			"",
 			
 			// PL defensywa
-            "(?<!xg>)(Hart|Hartu|Hartem)",
-            "(?<!xg>)(Odbicie|Odbicia)",
-            "(?<!xg>)(Refleks|Refleksu|Refleksem)",
-            "(?<!xg>)(Wola|Wolą|Siła woli)",
+            "(?<!xg>)(Hart|[hH]artu|[hH]artem)",
+            "(?<!xg>)([oO]dbici[ae]m)",
+            "(?<!xg>)(Refleks|[rR]efleksu|[rR]efleksem)",
+            "(?<!xg>)([wW]ol[ai]|[wW]olą|Siła woli)",
             "(?<!xg>)(Penetruje|Penetracja)",
             "(?<!xg>)(SP|Skuteczność pancerza)",
  
