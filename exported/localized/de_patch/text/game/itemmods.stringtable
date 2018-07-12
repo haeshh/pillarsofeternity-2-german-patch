@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1042</EntryCount>
+  <EntryCount>1044</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -5212,6 +5212,16 @@
     <Entry>
       <ID>1630</ID>
       <DefaultText>Grieving</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1631</ID>
+      <DefaultText>Märtyrer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1633</ID>
+      <DefaultText>Schleierspaltung</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
