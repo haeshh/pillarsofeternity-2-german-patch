@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3288</EntryCount>
+  <EntryCount>3313</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -16829,6 +16829,131 @@ Keiner.</DefaultText>
     <Entry>
       <ID>4801</ID>
       <DefaultText>Corrosive Solvent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4802</ID>
+      <DefaultText>Helfire Barrage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4803</ID>
+      <DefaultText>Magnetic Overdrive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4804</ID>
+      <DefaultText>Helfire Iron</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4805</ID>
+      <DefaultText>Immunity: Interrupts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4806</ID>
+      <DefaultText>Symbiote</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4807</ID>
+      <DefaultText>Colossal Strength</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4808</ID>
+      <DefaultText>Encumbered</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4809</ID>
+      <DefaultText>Atonement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4818</ID>
+      <DefaultText>Grieving</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4819</ID>
+      <DefaultText>Magma Emerge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4820</ID>
+      <DefaultText>Guilt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4821</ID>
+      <DefaultText>Charge Helstorm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4822</ID>
+      <DefaultText>Brutal Cleave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4823</ID>
+      <DefaultText>Veil Cleave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4824</ID>
+      <DefaultText>Martyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4826</ID>
+      <DefaultText>Immunity: Body Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4827</ID>
+      <DefaultText>Immunity: Mind Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4828</ID>
+      <DefaultText>Resistance: Mind Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4829</ID>
+      <DefaultText>Resistance: Body Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4830</ID>
+      <DefaultText>Minor Veil-Touched</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4833</ID>
+      <DefaultText>Berath's Challenge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4836</ID>
+      <DefaultText>Shattering Screech</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4837</ID>
+      <DefaultText>Consume</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4838</ID>
+      <DefaultText>Catalyzing Venom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4839</ID>
+      <DefaultText>Call Hatchlings</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
