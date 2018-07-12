@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>524</EntryCount>
+  <EntryCount>527</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2622,6 +2622,21 @@
     <Entry>
       <ID>597</ID>
       <DefaultText>Spawn Black Oozes when moving</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>Afflicts wielder and foe with {0:value} Resolve on Hit (max 5 stacks)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>Grants {0:value} Might whenever a Party Member is KO'd</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
