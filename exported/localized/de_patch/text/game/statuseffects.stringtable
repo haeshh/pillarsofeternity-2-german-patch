@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>Erhöhung der Chance um {0:value:percentbonus} für einen kritischen Treffer bei einem Treffer. ({0:extravalue}-mal stapelbar und Wirkung wird bei kritischem Treffer zurückgesetzt)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Chance für einen kritischen Treffer bei einem Treffer. (Kann {0:triggercount}-mal gestapelt werden und wird bei kritischem Treffer zurückgesetzt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
