@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2831</EntryCount>
+  <EntryCount>2833</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -16985,6 +16985,18 @@ Wenn Sie Fragen oder Beschwerden zu meinem Dienst haben, wenden Sie sich bitte d
     <Entry>
       <ID>5485</ID>
       <DefaultText>This fragment of a much larger shield has been re-worked to fit a bearer's arm comfortably. The surface of the mysterious metal is warm to the touch and grows hotter when tensions rise, though its searing energy is a comfort to anyone wielding it. In the heat of battle, driving the shield into an enemy's face would leave a memorable scar. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5494</ID>
+      <DefaultText>The origin of the Watcher's Blade is a mystery. No smith has ever claimed responsibility for its forging. Its metal is as smoky and indistinct as the In-Between, with no marking to suggest it has ever felt the kiss of a hammer - leaving many to believe that it assumed this form naturally.
+
+Artfully enfused with soul essence, the blade glows in a kinship response to those on familiar terms with death. Its uncanny balance is linked to its ethereal nature, as the blade never seems wholly present in tangible reality. At times it feels like less of a sword than an ideal expression of one, which is why many have mistaken its true nature. Compounding its mystery, ancient war epics have described mauls or daggers with the elusive properties of the Watcher's Blade. This has led some mystics to conclude that the sword is merely a sword in its current and unknowably long "lifetime," and that it could be something else entirely on the next turning of the Wheel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5497</ID>
+      <DefaultText>Burden</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
