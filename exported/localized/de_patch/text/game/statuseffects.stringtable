@@ -1691,7 +1691,7 @@
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>Weitere {0:value} Willen bis zum Ende des Kampfes bei kritischem Treffer. ({0:extravalue:straight}-mal stapelbar)</DefaultText>
+	  <DefaultText>Weitere {0:value} Willen bis zum Ende des Kampfes beim Erleiden von kritischen Treffern (Kann {0:extravalue:straight}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
