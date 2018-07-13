@@ -2551,7 +2551,7 @@
     </Entry>
     <Entry>
       <ID>572</ID>
-      <DefaultText>{0:value:percent} Chance, Schaden durch Nahkampfwaffen zu erleiden, um {0:extravalue:straight} Wunde zu erhalten</DefaultText>
+	  <DefaultText>{0:value:percent} Chance, beim Erleiden von Schaden durch Nahkampfwaffen, {0:extravalue:straight} Wunde zu erhalten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
