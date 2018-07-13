@@ -1106,22 +1106,22 @@
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Die Ermächtigung zu einer Beschwörung ergibt {0:value:straight} Sängersätze</DefaultText>
+      <DefaultText>Die Ermächtigung einer Beschwörung erstattet {0:value:straight} Sänger-Phrasen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>Die Ermächtigung zu einer Beschwörung füllt die Satzzahl des Sängers zum Maximum</DefaultText>
+      <DefaultText>Die Ermächtigung einer Beschwörung füllt die Phrasen-Zahl des Sängers aufs Maximum</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>Die Ermächtigung zu einer Beschwörung ergibt {0:value:straight} Sängersätze und eine {0:extravalue:percent} Chance, zum Ermächtigungspunkt zurückzukehren</DefaultText>
+      <DefaultText>Die Ermächtigung einer Beschwörung erstattet {0:value:straight} Sänger-Phrasen und verleiht eine Chance von {0:extravalue:percent}, einen Ermächtigungspunkt zurückzuerhalten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>{0:extravalue:percent} Schaden als Schock für jeden gehaltenen Sängersatz</DefaultText>
+      <DefaultText>{0:extravalue:percent} Schaden als Schock für jede gehaltene Sänger-Phrase</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
