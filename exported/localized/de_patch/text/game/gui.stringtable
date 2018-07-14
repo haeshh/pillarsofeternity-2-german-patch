@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4398</EntryCount>
+  <EntryCount>4412</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -22469,8 +22469,78 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>4931</ID>
-      <DefaultText>Vatnirs Raum</DefaultText>
+      <ID>4934</ID>
+      <DefaultText>Optional Triple Crown</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4935</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4936</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4937</ID>
+      <DefaultText>Selected</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4939</ID>
+      <DefaultText>Triple Crown</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4940</ID>
+      <DefaultText>Triple Crown Solo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4941</ID>
+      <DefaultText>Magran's Challenge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4942</ID>
+      <DefaultText>Berath's Challenge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4943</ID>
+      <DefaultText>Cannot add party members in {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4949</ID>
+      <DefaultText>The game cannot be paused</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4950</ID>
+      <DefaultText>The game time cannot be slowed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4951</ID>
+      <DefaultText>Cannot recruit companions, sidekicks, or adventurers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4952</ID>
+      <DefaultText>Any party member Knocked Out for 6 seconds is Killed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4953</ID>
+      <DefaultText>Cannot flee from combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4955</ID>
+      <DefaultText>Solo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
