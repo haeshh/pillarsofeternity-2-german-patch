@@ -2,8 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>884</EntryCount>
-  <Entries>
+  <EntryCount>886</EntryCount>  <Entries>
     <Entry>
       <ID>43</ID>
       <DefaultText>Käfer sind nicht ganz so groß wie ein Mann, aber aufgrund ihres einschüchternden Äußeren verscheuchen sie die meisten Reisenden. Besucher werden von diesen beängstigend großen Insekten stets beeindruckt und erschreckt, was das Bild des Dyrwalds als kaum zivilisiertes, rückständiges Nest bekräftigt. Die weite Wildnis in und um den Dyrwald (und Eir Glanfath) herum gibt den Käfern genügend Platz, sich zu vermehren. Die erfolgreichste große Käferart kann sich nicht nur in ihrer Umgebung tarnen, sondern sich auch Rückenpanzer aus gewöhnlichen und widerstandsfähigen Materialien wie Holz, Stein und Adra wachsen lassen. Von glanfathanischen Stämmen ist bekannt, dass sie aus den Rückenpanzern und Beinen dieser Käfer grobe Schilde und sogar Waffen fertigen. 
@@ -4699,11 +4698,6 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1041</ID>
-      <DefaultText>Gótvadhjur</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1042</ID>
       <DefaultText>Aptapo</DefaultText>
       <FemaleText />
@@ -4734,13 +4728,28 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1048</ID>
-      <DefaultText>Nae</DefaultText>
+      <ID>1050</ID>
+      <DefaultText>Glamfellen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1049</ID>
-      <DefaultText>The Ordhjóma word for "no."</DefaultText>
+      <ID>1051</ID>
+      <DefaultText>Hailing from the large island of Naasitaq in the far southern Deadfire, the boreal dwarves hunt and scavenge rocky shores and snowy forests. Like their cousins the mountain dwarves, they have an instinctive love of exploration that borders on wanderlust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1052</ID>
+      <DefaultText>Elves who migrated to the White that Wends millennia ago. They travel that frozen continent in clans that come into conflict with one another and the Enutanik for resources. Infamous for their devotion to the death god Rymrgand, they are thought by some to be his children.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1053</ID>
+      <DefaultText>The formal name for pale elves. An Ordhjóma term meaning "twilight dwellers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1054</ID>
+      <DefaultText>The language of the Glamfellen has diverged greatly from the original tongue of their ancestors who originally settled the White that Wends. Though it may share common roots with Aedyran, Ordhjóma is incomprehensible to those who haven't studied it.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
