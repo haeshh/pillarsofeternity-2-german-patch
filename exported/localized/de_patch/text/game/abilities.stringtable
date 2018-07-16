@@ -5219,12 +5219,12 @@ Die Seelenpeitsche gewährt weniger Bonusschaden und weniger Fokus gegen Ziele, 
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Maximaler Fokus ist erhöht.
 
-Das Erreichen des maximalen Fokus gewährt vorübergehend die „Aufstiegs“-Wirkung und verringert die Kosten des Kraft-Fokus auf null.
+Das Erreichen des maximalen Fokus gewährt vorübergehend die „Aufstiegs“-Wirkung, erhöht die Kraftstufe und verringert die Fokus-Kosten von Kräften auf null.
 
-Bei diesem Aufstieg schaltet sich die Seelenpeitsche nicht ab, sondern gewährt, solange der Aufstieg anhält, sogar mehr Bonusschaden.
+Während des Aufstiegs schaltet sich die Seelenpeitsche nicht ab, sondern gewährt, solange der Aufstieg anhält, sogar mehr Bonusschaden.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Wenn du dich nicht im Aufstiegs-Modus befindest, versetzt dich das auf die Mediums-Kraftstufe.
+Wenn du dich nicht im Aufstiegs-Modus befindest, wird die Kraftstufe des Mediums gesenkt.
 
 Wenn du dich nicht im Aufstiegs-Modus befindest, verursacht die Seelenpeitsche zwar deutlich weniger Schaden, erzeugt dafür aber mehr Fokus.
 
