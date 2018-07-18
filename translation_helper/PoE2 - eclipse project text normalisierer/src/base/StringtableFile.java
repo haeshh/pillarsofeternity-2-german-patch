@@ -820,17 +820,17 @@ class Entry {
 			"(?<!xg>)(Stagger)(\\b|ed|ing)", "(?<!xg>)(Daz)(\\b|ed|es|e|ing)", "(?<!xg>)(Stun)(\\b|s|ned|ning)",
 			// perception
 			"(?<!xg>)(Insightful)", "(?<!xg>)(Aware)", "(?<!xg>)(Intuitive)",
-			"(?<!xg>)(Distract)(\\b|ed|s|ing)", "(?<!xg>)(Disorient)(\\b|ed)", "(?<!xg>)(Blind[^)])(\\b|ed|s|ing|ness)",
+			"(?<!xg>)(Distract)(\\b|ed|s|ing)", "(?<!xg>)(Disorient)(\\b|ed|ing)", "(?<!xg>)(Blind(?!\\)))(\\b|ed|s|ing|ness)",
 			
 			
 			// DE_patch
 			// Verfassung
 			"(?<!xg>)(Fit(te)?)", "(?<!xg>)(Zäh(e)?\\b)", "(?<!xg>)(Robust(e)?)",
 			"(?<!xg>)([Ee]rkrank)(te|t|en)", "(?<!xg>)(\\b|Ge)(schwächt(e)?)", "(?<!xg>)(Entkräftet)(e|\\b)",
-			// En(schlossenheit
+			// Entschlossenheit
 			"(?<!xg>)(Standhaft(e)?)", "(?<!xg>)(Resolut(e)?)", "(?<!xg>)(Mutig(e)?)",
 			"(?<!xg>)(Geschockt)(e|\\b)", "(?<!xg>)(Verängstig)(te|t|en)", "(?<!xg>)([Ee]rschütter)(ter|t|n)",
-			// Ge(andheit
+			// Gewandheit
 			"(?<!xg>)(Schnelle?n?)", "(?<!xg>)(Flink(e)?)", "(?<!xg>)(Schwungvoll(e)?)",
 			"(?<!xg>)(Humpeln)(\\b|d\\b|de)", "(?<!xg>)(Bewegungsunfähig)(e|\\b)", "(?<!xg>)(G?e?lähmt)(er|e|\\b)",
 			// Intellekt
@@ -841,7 +841,7 @@ class Entry {
 			"(?<!xg>)(Taumeln)(de|d|\\b)", "(?<!xg>)(Benommen)(e|heit|\\b)", "(?<!xg>)(Betäub)(en|te|t)",
 			// Wahrnehmung
 			"(?<!xg>)(Einsichtig(e)?)", "(?<!xg>)(Aufmerksam(e)?)", "(?<!xg>)(Intuitiv(e)?)",
-			"(?<!xg>)(Abgelenkt)(er|e|\\b)", "(?<!xg>)(Desorientiert)(e|\\b)", "(?<!xg>)(G?e?blende|[Ee]rblinde)(te|t|n[^d])",
+			"(?<!xg>)(Abgelenkt)(er|e|\\b)", "(?<!xg>)(Desorientiert)(e|\\b)", "(?<!xg>)(G?e?blende|[Ee]rblinde)(te|t|n(?!d))",
 			
 			
 			// FR
@@ -1029,7 +1029,7 @@ class Entry {
 	}; 
 	 
 	final static String[] targetWords = new String[] {
-		"<link=\"gamedata://2370256c-67fe-4481-bfae-9081b2dc10d3\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>¹</color></link>",
+	"<link=\"gamedata://2370256c-67fe-4481-bfae-9081b2dc10d3\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>¹</color></link>",
 		"<link=\"gamedata://fd4d0c5c-f525-4010-99dc-f30a59b2f729\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>²</color></link>",
 		"<link=\"gamedata://86f9c246-c37c-46a6-8838-7dc36c18e08d\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>³</color></link>",
 		                                                                                                                                                                                                                                                                                                                           
@@ -1127,29 +1127,123 @@ class Entry {
 		}
 	}
 
+	final static String[] afflictionsReplacementWords = new String[] {
+			// EN
+			"(Constitution Inspirations?)",
+			"(Constitution Afflictions?)",
+			"(Resolve Inspirations?)",
+			"(Resolve Afflictions?)",
+			"(Dexterity Inspirations?)",
+			"(Dexterity Afflictions?)",
+			"(Intellect Inspirations?)",
+			"(Intellect Afflictions?)",
+			"(Might Inspirations?)",
+			"(Might Afflictions?)",
+			"(Perception Inspirations?)",
+			"(Perception Afflictions?)",
+			
+			// de_patch
+			"(Verfassungsinspirationen\\s)",
+			"(Verfassungswirkungen\\s)",
+			"(Entschlossenheitsinspirationen\\s)",
+			"(Entschlossenheitswirkungen\\s)",
+			"(Gewandtheitsinspirationen\\s)",
+			"(Gewandtheitswirkungen\\s)",
+			"(Intellektsinspirationen\\s)",
+			"(Intellektswirkungen\\s)",
+			"(Machtinspirationen\\s)",
+			"(Machtwirkungen\\s)",
+			"(Wahrnehmungsinspirationen\\s)",
+			"(Wahrnehmungswirkungen\\s)"
+	};
+            
+            
+	public Entry replaceGenericAfflictionsWithIcon(String targetLanguage) {
+		Entry result = new Entry();
+		result.ID = this.ID;
+		result.DefaultText = DefaultText;
+		result.FemaleText = FemaleText;
+		
+		String[] targetWords = new String[] {
+				"<link=\"glossary://GlossaryEntry_Inspirations_Constitution\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1></color></link>",
+	            "<link=\"glossary://GlossaryEntry_Afflictions_Constitution\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1></color></link>",
+	            "<link=\"glossary://GlossaryEntry_Inspirations_Resolve\"><#30d3d5>$1 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1></color></link>",
+	            "<link=\"glossary://GlossaryEntry_Afflictions_Resolve\"><#30d3d5>$1 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1></color></link>",
+	            "<link=\"glossary://GlossaryEntry_Inspirations_Dexterity\"><#72da26>$1 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1></color></link>",            
+	            "<link=\"glossary://GlossaryEntry_Afflictions_Dexterity\"><#72da26>$1 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1></color></link>",
+	            "<link=\"glossary://GlossaryEntry_Inspirations_Intellect\"><#00a4ff>$1 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1></color></link>",
+	            "<link=\"glossary://GlossaryEntry_Afflictions_Intellect\"><#00a4ff>$1 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1></color></link>",
+	            "<link=\"glossary://GlossaryEntry_Inspirations_Might\"><#ff4800>$1 <sprite=\"Inline\" name=\"attribute_might\" tint=1></color></link>",
+	            "<link=\"glossary://GlossaryEntry_Afflictions_Might\"><#ff4800>$1 <sprite=\"Inline\" name=\"attribute_might\" tint=1></color></link>",
+	            "<link=\"glossary://GlossaryEntry_Inspirations_Perception\"><#ca58ff>$1 <sprite=\"Inline\" name=\"attribute_perception\" tint=1></color></link>",
+	            "<link=\"glossary://GlossaryEntry_Afflictions_Perception\"><#ca58ff>$1 <sprite=\"Inline\" name=\"attribute_perception\" tint=1></color></link>"
+		};
+		
+		int i = 0;
+		switch (targetLanguage) {
+			case "en":
+				i = 12 * 0;
+				break;
+			case "de_patch":
+				i = 12 * 1;
+				break;
+			case "fr":
+		//		i = 12 * 2;
+				break;
+			case "it":
+		//		i = 12 * 3;
+				break;
+			case "es":
+		//		i = 12 * 4;
+				break;
+			case "pt":
+		//		i = 12 * 5;
+				break;
+			case "pl":
+		//		i = 12 * 6;
+				break;
+			case "ru":
+		//		i = 12 * 7;
+				break;
+			case "zh":
+		//		i = 12 * 8;
+				break;
+		}
+		
+		for(int j = 0; j < 12; j++) {
+			result.DefaultText = result.DefaultText.replaceAll(afflictionsReplacementWords[i + j], targetWords[j]);
+			result.FemaleText = result.FemaleText.replaceAll(afflictionsReplacementWords[i + j], targetWords[j]);
+		}
+		if(result.DefaultText.equals(DefaultText) && result.FemaleText.equals(FemaleText)) {
+			return null;
+		} else {
+			return result;
+		}
+	}       
+	
 	// Next tagscount und art? vs englisch
 	
 	final static String[] damageReplacementWords = new String[] {
 			// EN 
-			"(?<!xg>)([bB]urn)(\\b|ed|ing|s)\\b", 
-			"(?<!xg>)([cC]orro)(\\b|des|de|sive)\\b", 
-			"(?<!xg>)([cC]rush)(\\b|es|ing)\\b",
-			"(?<!xg>)([fF]reez)(\\b|es|ed|e|ing)\\b",
-			"(?<!xg>)([pP]ierc)(\\b|es|e|ing)\\b",
+			"(?<!xg>)([bB]urn)(\\b|ed|ing|s)", 
+			"(?<!xg>)([cC]orro)(\\b|des|de|sive)", 
+			"(?<!xg>)([cC]rush)(\\b|es|ing)",
+			"(?<!xg>)([fF]reez)(\\b|es|ed|e|ing)",
+			"(?<!xg>)([pP]ierc)(\\b|es|e|ing)",
 			"(?<!xg>)([rR]aw)(\\b)",
-			"(?<!xg>)([sS]lash)(\\b|ing)\\b",
-			"(?<!xg>)([sS]hock)(\\b|ed|ing)\\b",
+			"(?<!xg>)([sS]lash)(\\b|ing)",
+			"(?<!xg>)([sS]hock)(\\b|ed|ing|s)",
 			
 			
 			// DE
-			"(?<!xg>)(Brand-?)(schaden|\\b)",
-			"(?<!xg>)(Zersetzung-?)(sschaden|\\b)",
-			"(?<!xg>)(Wucht-?)(schaden|\\b)",
-			"(?<!xg>)(Frost-?)(schaden|\\b)",
-			"(?<!xg>)(Stich-?)(schaden|\\b)",
-			"(?<!xg>)(Direkt-?|direkte[rn] )([sS]chaden)",
-			"(?<!xg>)(Hieb-?)(schaden|\\b)",
-			"(?<!xg>)(Schock-?)(schaden|\\b)",
+			"(?<!xg>)(Brand-?)(sch[aä]den|\\b)",
+			"(?<!xg>)(Zersetzung-?)(ssch[aä]den|\\b)",
+			"(?<!xg>)(Wucht-?)(sch[aä]den|\\b)",
+			"(?<!xg>)(Frost-?)(sch[aä]den|\\b)",
+			"(?<!xg>)(Stich-?)(sch[aä]den|\\b)",
+			"(?<!xg>)(Direkt-?|direkte[rnm] )([sS]chaden)",
+			"(?<!xg>)(Hieb-?)(sch[aä]den|\\b)",
+			"(?<!xg>)(Schock-?)(sch[aä]den|\\b)",
 			
 			//fr
 			"",
@@ -1373,6 +1467,18 @@ class Entry {
 		} else {
 			return result;
 		}
+	}
+
+	public Entry stripMarkup() {
+		this.DefaultText = this.DefaultText.replaceAll("<size=80%>.*?</size>", "");
+		this.DefaultText = this.DefaultText.replaceAll("<(?!\\/?xg).*?>", "");
+		this.DefaultText = this.DefaultText.replaceAll(" ", " "); // NB Space gegen normales
+		this.DefaultText = this.DefaultText.replaceAll("  ", " "); // 2 space gegen 1
+		this.FemaleText = this.FemaleText.replaceAll("<size=80%>[123]</size>", "");
+		this.FemaleText = this.FemaleText.replaceAll("<(?!\\/?xg).*?>", "");
+		this.FemaleText = this.FemaleText.replaceAll(" ", " ");
+		this.FemaleText = this.FemaleText.replaceAll("  ", " ");
+		return this;
 	}
 }
 

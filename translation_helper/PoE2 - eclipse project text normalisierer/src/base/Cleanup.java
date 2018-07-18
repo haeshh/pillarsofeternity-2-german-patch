@@ -72,10 +72,13 @@ public class Cleanup {
 		
 		Cleanup cleanup = new Cleanup();
 		
+		// Base files, the handpicket stuff from Spherikal
 		List<Path> convertingBase = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\en\\text")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		
+		cleanup.stripMarkup(convertingBase, jaxbUnmarshaller,marshaller);
 		
-		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		// Trying to get the same via the regex from the english base
+		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\en_fixed\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		cleanup.colorupdate(convertingBase, filesInFolder, "en2", jaxbUnmarshaller,marshaller);
 		
 		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
@@ -108,6 +111,7 @@ public class Cleanup {
 		//cleanup.cleanupWindow = new JFrame();
 	}
 	
+
 
 
 
@@ -250,6 +254,35 @@ public class Cleanup {
 	
 	
 
+	private void stripMarkup(List<Path> convertingBase, Unmarshaller jaxbUnmarshaller, Marshaller marshaller) throws JAXBException, IOException {
+		for (Path colorful : convertingBase) {
+			StringTableFile colorfulTexts = (StringTableFile) jaxbUnmarshaller.unmarshal( colorful.toFile() );
+			StringTableFile outputFile = new StringTableFile();
+			outputFile.setName(colorfulTexts.getName());
+			outputFile.setNextEntryID(colorfulTexts.getNextEntryID());
+			outputFile.setEntryCount(colorfulTexts.getEntryCount());
+			
+			for(Entry colorfulEntry : colorfulTexts.getEntries())
+			{
+				Entry cleanEntry = colorfulEntry.stripMarkup();
+				outputFile.getEntries().add(cleanEntry);
+			}
+			
+			// Clean
+			File file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\en_fixed\\text\\game\\" + colorful.getFileName());
+			file.getParentFile().mkdirs();
+			file.createNewFile();
+			Path path = Paths.get(file.getPath());
+			marshaller.marshal(outputFile, file);
+			
+			List<String> lines = Files.readAllLines(path, Charset.forName("UTF-8")); 
+			lines.set(0, lines.get(0).replaceAll("encoding=\"UTF-8\" standalone=\\\"yes\\\"", "encoding=\"utf-8\""));
+			lines.set(1, lines.get(1).replaceAll("xmlns:xs=", "xmlns:xsd="));
+			List<String> modified = lines.stream().map(x -> {return x.replaceAll("    ", "  ").replaceFirst("<DefaultText></DefaultText>", "<DefaultText />").replaceFirst("<FemaleText></FemaleText>", "<FemaleText />");}).collect(Collectors.toList());
+			Files.write(path, modified);
+		}
+	}
+
 	private void colorupdate(List<Path> convertingBase, List<Path> orginalLanguage, String language, Unmarshaller jaxbUnmarshaller, Marshaller marshaller) throws JAXBException, IOException {
 		for (Path colorful : convertingBase) {
 			for (Path plain : orginalLanguage) {
@@ -274,9 +307,18 @@ public class Cleanup {
 						for (Entry plainEntry : plainTexts.getEntries()) {
 							if(colorfulEntry.getID() == plainEntry.getID()) {
 								Entry coloredEntry = plainEntry.replaceAfflictionWithColor(language);
-								if(coloredEntry != null)
-									outputFile.getEntries().add(coloredEntry);
-								
+								if(coloredEntry != null) {
+									Entry genericColored = coloredEntry.replaceGenericAfflictionsWithIcon(language);
+									if(genericColored != null)
+										outputFile.getEntries().add(genericColored);
+									else
+										outputFile.getEntries().add(coloredEntry);
+								} else {
+									coloredEntry = plainEntry.replaceGenericAfflictionsWithIcon(language);
+									if(coloredEntry != null)
+										outputFile.getEntries().add(coloredEntry);
+								}
+									
 								Entry damageIconEntry = plainEntry.replaceDamageTypeWithIcon(language);
 								Entry damageDefenseIconEntry;
 								if(damageIconEntry != null) {
