@@ -1386,7 +1386,7 @@
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>Erzeugt eine Lanze aus reiner nekrotischer Energie, die sofortigen und Zersetzungszeitschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt eine Lanze aus reiner nekrotischer Energie, die Zersetzungsschaden über Zeit sowie sofort zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2236,7 +2236,7 @@
     </Entry>
     <Entry>
       <ID>641</ID>
-      <DefaultText>Steigert die Bewegungsrate und den Reflex aller Verbündeten im Wirkungsbereich.</DefaultText>
+      <DefaultText>Steigert die Bewegungsrate und die Reflexe aller Verbündeten im Wirkungsbereich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2486,7 +2486,7 @@
     </Entry>
     <Entry>
       <ID>792</ID>
-      <DefaultText>Führt dazu, dass ein in der Nähe bezwungener Feind explodiert, wobei drei weiße Larven ausgestoßen werden, die umstehende Feinde zerschmettern.</DefaultText>
+      <DefaultText>Führt dazu, dass ein in der Nähe bezwungener Feind explodiert, wobei drei weiße Larven ausgestoßen werden, die umstehenden Feinden Wuchtschaden zufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3826,7 +3826,7 @@
     </Entry>
     <Entry>
       <ID>1334</ID>
-      <DefaultText>Vogel–Gottähnliche sind scharfsinnig und präzise. Sie besitzen eine Resistenz gegen die Wirkungen Intellekt und Wahrnehmung.</DefaultText>
+      <DefaultText>Vogel–Gottähnliche sind scharfsinnig und präzise. Sie besitzen eine Resistenz gegen Intellekt- und Wahrnehmungswirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4096,7 +4096,7 @@
     </Entry>
     <Entry>
       <ID>1470</ID>
-      <DefaultText>Der Priester wird von einer göttlichen Macht erfüllt und beginnt, auf übernatürliche Weise zu strahlen. Als niederer Avatar seiner Gottheit erhält er alle Inspirationen der Stufe 1: Stark, Schnell, Fit, Einsichtig, Standhaft, Klug sowie einen Bonus auf die Gesundheit und den Waffenschaden.</DefaultText>
+      <DefaultText>Der Priester wird von einer göttlichen &lt;xg&gt;Macht&lt;/xg&gt; erfüllt und beginnt, auf übernatürliche Weise zu strahlen. Als niederer Avatar seiner Gottheit erhält er alle Inspirationen der Stufe 1: Stark, Schnell, Fit, Einsichtig, Standhaft, Klug sowie einen Bonus auf die Gesundheit und den Waffenschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6136,7 +6136,7 @@ Einhändig: Direkter Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2157</ID>
-      <DefaultText>Feinde in der Nähe des Sängers werden Geschwächt. Ihre Macht wird verringert.</DefaultText>
+      <DefaultText>Feinde in der Nähe des Sängers werden Geschwächt. Ihre &lt;xg&gt;Macht&lt;/xg&gt; wird verringert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7047,7 +7047,7 @@ Erhöhte Erholungszeit für Zaubersprüche, die nicht der Beschwörungsschule zu
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Erhält erhöhte Kraftstufe bei Verzauberungszaubern.
 
-Erhält die passive Fähigkeit „Freie Handlung“: Wenn der Zauberer von einer Gewandtheits-Wirkung betroffen ist, macht er sich ein Mal pro Begegnung von diesem Effekt frei und wird vorübergehend immun gegen Gewandtheitswirkungen.
+Erhält die passive Fähigkeit „Freie Handlung“: Wenn der Zauberer von einer Gewandtheitswirkung betroffen ist, macht er sich ein Mal pro Begegnung von diesem Effekt frei und wird vorübergehend immun gegen Gewandtheitswirkungen.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Verliert Zugang zu Zaubern der Illusions- und Transmutationsschulen.
@@ -8088,12 +8088,12 @@ Der Erzfeind wird erweitert zum Zorn der fünf Sonnen.</DefaultText>
     </Entry>
     <Entry>
       <ID>2542</ID>
-      <DefaultText>Immunität: Wirkungen auf Intellekt</DefaultText>
+      <DefaultText>Immunität: Intellektwirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2543</ID>
-      <DefaultText>Resistenz: Wirkungen auf Intellekt</DefaultText>
+      <DefaultText>Resistenz: Intellektwirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8116,7 +8116,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2546</ID>
-      <DefaultText>Immunität: Wirkungen auf Gewandtheit</DefaultText>
+      <DefaultText>Immunität: Gewandtheitswirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8131,7 +8131,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2549</ID>
-      <DefaultText>Resistenz: Wirkungen auf Verfassung</DefaultText>
+      <DefaultText>Resistenz: Verfassungswirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8531,7 +8531,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2635</ID>
-      <DefaultText>Verleiht Verbündeten Resistenz gegen Wirkungen auf Wahrnehmung und Intellekt.</DefaultText>
+      <DefaultText>Verleiht Verbündeten Resistenz gegen Wahrnehmungs- und Intellektwirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8886,12 +8886,12 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2708</ID>
-      <DefaultText>Resistenz: Wirkungen auf Wahrnehmung</DefaultText>
+      <DefaultText>Resistenz: Wahrnehmungswirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2709</ID>
-      <DefaultText>Schwäche: Wirkungen auf Gewandtheit</DefaultText>
+      <DefaultText>Schwäche: Gewandtheitswirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10691,7 +10691,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>3192</ID>
-      <DefaultText>Immunität: Wirkungen auf Wahrnehmung</DefaultText>
+      <DefaultText>Immunität: Wahrnehmungswirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
