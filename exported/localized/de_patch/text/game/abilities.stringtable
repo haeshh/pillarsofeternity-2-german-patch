@@ -3581,7 +3581,7 @@
     </Entry>
     <Entry>
       <ID>1151</ID>
-      <DefaultText>Ausgiebige Erfahrungen beim verstohlenen Transport von verschiedenen Gütern und Waffen haben den Schurken optimale Verstaumethoden für unterschiedliche Gegenstände gelehrt. Der Schurke erhält zwei zusätzliche Schnell-Slots für Gegenstände.</DefaultText>
+      <DefaultText>Ausgiebige Erfahrungen beim verstohlenen Transport von verschiedenen Gütern und Waffen haben den Schurken optimale Verstaumethoden für unterschiedliche Gegenstände gelehrt. Der Schurke erhält zwei zusätzliche Schnellauswahl-Slots für Gegenstände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5130,7 +5130,7 @@ Kosten aller Wut-Fähigkeiten um 1 erhöht</DefaultText>
     </Entry>
     <Entry>
       <ID>1922</ID>
-      <DefaultText>… man konnte sich ihm nicht entziehen</DefaultText>
+      <DefaultText>… man konnte sich dessen Aufpralls nicht entziehen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7555,7 +7555,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2432</ID>
-      <DefaultText>Streitflegel – &lt;link="gamedata://f5d40ec7-6dfb-414c-a12d-e2b1aecc80c8"&gt;Aus dem Gleichgewicht bringende Hiebe&lt;/link&gt;</DefaultText>
+      <DefaultText>Streitflegel – &lt;link="gamedata://f5d40ec7-6dfb-414c-a12d-e2b1aecc80c8"&gt;Gleichgewicht störende Hiebe&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7971,9 +7971,9 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     <Entry>
       <ID>2517</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Verschaffe dir einen Erzfeind.
+Gewährt Erzfeind.
 
-Der Erzfeind wird erweitert zum Zorn der fünf Sonnen.</DefaultText>
+Erzfeind wird erweitert zum Zorn der fünf Sonnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8104,14 +8104,14 @@ Der Erzfeind wird erweitert zum Zorn der fünf Sonnen.</DefaultText>
     <Entry>
       <ID>2545</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Erzeugt Wunden durch mit Nahkampfwaffen verursachten Schaden. (Fähigkeiten ausgeschlossen)
+Erhalte Wunden durch mit Nahkampfwaffen verursachten Schaden. (Fähigkeiten ausgeschlossen)
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Erlittener Schaden erzeugt keine Wunden.
 
-Die erforderliche Schwelle für das Erzeugen von Wunden wird erhöht.
+Die erforderliche Schwelle für den Erhalt von Wunden ist erhöht.
 
-Das maximale Limit an Wunden wird verringert.</DefaultText>
+Das maximale Limit an Wunden ist verringert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8301,7 +8301,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2587</ID>
-      <DefaultText>Aus dem Gleichgewicht</DefaultText>
+      <DefaultText>Gleichgewicht störende Hiebe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8341,7 +8341,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2595</ID>
-      <DefaultText>Schläge auf den Körper</DefaultText>
+      <DefaultText>Körpertreffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8661,12 +8661,12 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2662</ID>
-      <DefaultText>Ehre des Ahnen</DefaultText>
+      <DefaultText>Erinnerung des Ahnen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2663</ID>
-      <DefaultText>Ein Verbündeter schöpft aus seinem versteckten geistigem und selischem Potenzial, wodurch er für eine kurze Zeit die Inspiration Brillant erhält.</DefaultText>
+      <DefaultText>Legt das verborgene Potenzial in Geist und Seele eines Verbündeten frei und verleiht diesem für kurze Zeit die Inspiration Brillant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8721,7 +8721,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2674</ID>
-      <DefaultText>Greift Gegner mit einem starken Nahkampfangriff an, fügt hohen Schaden zu und Betäubt ihn. Feinde hinter dem Gegner werden Taumelnd und erhalten direkten Schaden.</DefaultText>
+      <DefaultText>Greift einen Gegner mit einem starken Nahkampfangriff an, fügt hohen Schaden zu und Betäubt ihn. Feinde hinter dem Gegner werden Taumelnd und erhalten direkten Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9436,7 +9436,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2821</ID>
-      <DefaultText>Der Priester ruft Magran an, das Ziel durch Flammen zu reinigen. Daraufhin wird das Ziel bombardiert mit Flammensäulen, bis seine Sünden getilgt sind. Jede Flammensäule verursacht Brand- / Wuchtschaden und verringert die Dauer der feindlichen und vorteilhaften Wirkungen auf das Ziel.</DefaultText>
+      <DefaultText>Der Priester ruft Magran an, das Ziel durch Flammen zu reinigen. Daraufhin wird das Ziel bombardiert mit Flammensäulen, bis seine Sünden getilgt sind. Jede Flammensäule verursacht Brand- / Wuchtschaden und verringert die Dauer der schädlichen und vorteilhaften Wirkungen auf das Ziel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9591,7 +9591,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2854</ID>
-      <DefaultText>Der Waldläufer startet einen gewalttätigen Wirbel tödlicher Angriffe, die auf jeden Feind innerhalb seiner Reichweite einen vollen Angriff darstellen und ihm direkten Schaden über längere Zeit zufügen. (Erfordert eine Nahkampfwaffe)</DefaultText>
+      <DefaultText>Der Waldläufer startet einen gewalttätigen Wirbel tödlicher Angriffe, die auf jeden Feind innerhalb seiner Reichweite einen vollen Angriff darstellen und ihm direkten Schaden über Zeit zufügen. (Erfordert eine Nahkampfwaffe)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10046,7 +10046,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2954</ID>
-      <DefaultText>Räucherrippchen am Rost</DefaultText>
+      <DefaultText>Räucherrippchen vom Rost</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10176,7 +10176,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2984</ID>
-      <DefaultText>Zieht alles im Umkreis zu dem Gerät hin und verursacht Wuchtschaden, bevor es nach explodiert und die Opfer durch die Luft schleudert. Dieser Prozess wiederholt sich, bis die alchemistische Reaktion verbraucht ist.</DefaultText>
+      <DefaultText>Zieht alles im Umkreis zu dem Gerät hin und verursacht Wuchtschaden, bevor es nach außen hin explodiert und die Opfer durch die Luft schleudert. Dieser Prozess wiederholt sich, bis die alchemistische Reaktion verbraucht ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10726,12 +10726,12 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>3201</ID>
-      <DefaultText>Beraths Segnung – Bonus-Fähigkeiten</DefaultText>
+      <DefaultText>Beraths Segnung – Bonus-Fertigkeiten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3202</ID>
-      <DefaultText>Jeder in deiner Gruppe erhält den doppelten normalen Fähigkeiten-Bonus ihrer Klasse und ihres Hintergrundes.</DefaultText>
+      <DefaultText>Jeder in deiner Gruppe erhält den doppelten normalen Fertigkeiten-Bonus ihrer Klasse und ihres Hintergrundes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11116,7 +11116,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>3283</ID>
-      <DefaultText>Motiviert und belebt die Gesellschaft. Heilt Verbündete in der Nähe, nicht jedoch denjenigen, der die Waffe schwingt. Die Heilung erhöht sich mit den diplomatischen Fähigkeiten des Waffenträgers.</DefaultText>
+      <DefaultText>Motiviert und belebt die Gesellschaft. Heilt Verbündete in der Nähe, nicht jedoch denjenigen, der die Waffe schwingt. Die Heilung erhöht sich mit der Fertigkeit Diplomatie des Waffenträgers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11275,14 +11275,14 @@ Keiner.</DefaultText>
     <Entry>
       <ID>3311</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Verschafft Fertigkeit mit dem Kriegsbeil.
+Gewährt Waffenschwerpunkt mit dem Kriegsbeil.
 
-Die Priester von Berath lernen die folgenden Zaubersprüche automatisch auf der jeweiligen Kraftstufe:
+Die Priester von Gaun lernen die folgenden Zaubersprüche automatisch auf der jeweiligen Kraftstufe:
 1. Gesegnete Ernte
 2. Zurückziehen
 3. Widerwärtige Dornen
 4. Schutzkreis
-5. Gefährliche Dornensträucher
+5. Gefährliche Dornsträucher
 6. Geringe Fürbitte
 7. Dornenwand
 8. Symbol von Eothas
@@ -12197,22 +12197,22 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3534</ID>
-      <DefaultText>Sprengstofffähigkeiten</DefaultText>
+      <DefaultText>Sprengstofffertigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3535</ID>
-      <DefaultText>Die Sprengstofffähigkeiten erhöhen die Kraftstufe geworfener Bomben.</DefaultText>
+      <DefaultText>Die Fertigkeit Sprengstofffe  erhöht die Kraftstufe geworfener Bomben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3536</ID>
-      <DefaultText>Arkane Fähigkeit</DefaultText>
+      <DefaultText>Arkanafertigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3537</ID>
-      <DefaultText>Die Arcana-Fähigkeit eines Charakters bestimmt, welche Stufenrollen ein Charakter verwenden kann und erhöht ihre relative Kraftstufe.</DefaultText>
+      <DefaultText>Die Fertigkeit Arkana eines Charakters bestimmt, welche Stufenrollen ein Charakter verwenden kann und erhöht ihre relative Kraftstufe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12574,7 +12574,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3613</ID>
-      <DefaultText>(… man konnte sich ihm nicht entziehen) – Erhält einen Genauigkeitsbonus.</DefaultText>
+      <DefaultText>(… man konnte sich dessen Aufpralls nicht entziehen) – Gewährt einen Genauigkeitsbonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12629,7 +12629,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3634</ID>
-      <DefaultText>Nachts gewährt diese Aura allen Verbündeten (abgesehen vom Träger) in der Nähe einen Bonus auf Heimlichkeitsfähigkeiten und Entschlossenheit.</DefaultText>
+      <DefaultText>Nachts gewährt diese Aura allen Verbündeten (abgesehen vom Träger) in der Nähe einen Bonus auf die Fertigkeit Heimlichkeit und auf Entschlossenheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12719,7 +12719,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3658</ID>
-      <DefaultText>Beschwört bei Beginn eines Kampfes eine zufällige Schriftrolle in einen leeren Schnell-Slot. Die Schriftrolle verschwindet, wenn der Kampf endet.</DefaultText>
+      <DefaultText>Beschwört bei Beginn eines Kampfes eine zufällige Schriftrolle in einen leeren Schnellauswahl-Slot. Die Schriftrolle verschwindet, wenn der Kampf endet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12784,7 +12784,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3675</ID>
-      <DefaultText>Beschwört bei Beginn eines Kampfes einen zufälligen Zaubertrank in einen leeren Schnell-Slot. Dieser Trank verschwindet, wenn der Kampf endet.</DefaultText>
+      <DefaultText>Beschwört bei Beginn eines Kampfes einen zufälligen Zaubertrank in einen leeren Schnellauswahl-Slot. Dieser Trank verschwindet, wenn der Kampf endet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12964,7 +12964,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3715</ID>
-      <DefaultText>Berserker, die sich vollständig ihrer Wut ergeben, verlieren sich in ihrer Raserei. Sie achten dann nicht mehr auf ihr eigenes Wohlergehen und erwischen in ihrem Blutrausch Freund und Feind gleichermaßen. Auch wenn sie von ihren Gemeinschaften sehr geschätzt werden, leben Berserker oft ein einsames Leben. Viele werden von ihrer eigenen Wut und dem Schaden, dem sie denjenigen in ihrer Umgebung zufügt, verfolgt.</DefaultText>
+      <DefaultText>Berserker, die sich vollständig ihrer Wut ergeben, verlieren sich in ihrer Raserei. Sie achten dann nicht mehr auf ihr eigenes Wohlergehen und erwischen in ihrem Blutrausch Freund und Feind gleichermaßen. Auch wenn sie von ihren Gemeinschaften sehr geschätzt werden, leben Berserker oft ein einsames Leben. Viele werden von ihrer eigenen Wut und dem Schaden, den sie denjenigen in ihrer Umgebung zufügen, verfolgt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12974,7 +12974,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3717</ID>
-      <DefaultText>Zaubererschlächter stammen typischerweise aus abgelegenen Gemeinschaften, die wenig mit Akademikern jeglicher Art zu tun haben und den magischen Künsten allgemein misstrauisch gegenüberstehen. Wenn sie Zauberern begegnen, dann gewöhnlich in Feindseligkeit, und Zaubererschlächter werden trainiert, um auf bestmögliche Art und Weise mit magiebegabten Gegnern fertig zu werden. Zaubererschlächter haben der Nutzung zahlreicher magischer Geräte abgeschworen und härten sich selbst gegen magische Effekte ab, um Zauberer besser bekämpfen zu können.</DefaultText>
+      <DefaultText>Zaubererschlächter stammen typischerweise aus abgelegenen Gemeinschaften, die wenig mit Akademikern jeglicher Art zu tun haben und den magischen Künsten allgemein misstrauisch gegenüberstehen. Wenn sie Zauberern begegnen, dann gewöhnlich in Feindseligkeit, deswegen werden Zaubererschlächter trainiert, auf bestmögliche Art und Weise mit magiebegabten Gegnern fertig zu werden. Zaubererschlächter haben der Nutzung zahlreicher magischer Geräte abgeschworen und härten sich selbst gegen magische Effekte ab, um Zauberer besser bekämpfen zu können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13039,7 +13039,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3730</ID>
-      <DefaultText>Die Gewidmeten widmen sich der Suche nach einer einzigen Waffe, die alle anderen ersetzen soll. Sie sind in der Handhabung ihrer ausgewählten Waffen so gut geübt, dass andere Waffen ihnen grotesk und fremd erscheinen. Wegen ihrer extremen Spezialisierung bestehen die Akademien der Gewidmeten oft aus einem einzigen Meister oder einem Stab aus gleichgesinnten Jüngern.</DefaultText>
+      <DefaultText>Die Gewidmeten widmen sich dem Meistern einer einzigen Waffe, die alle anderen ersetzen soll. Sie sind in der Handhabung ihrer ausgewählten Waffen so gut geübt, dass andere Waffen ihnen grotesk und fremd erscheinen. Wegen ihrer extremen Spezialisierung bestehen die Akademien der Gewidmeten oft aus einem einzigen Meister oder einem Stab aus gleichgesinnten Jüngern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13049,7 +13049,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3732</ID>
-      <DefaultText>Die Nalpazca sind ein Mönchsorden, der durch bewusstseinsverändernde Stoffe über die Unterschiede der materiellen Welt und der wahrgenommenen Welt meditieren. Die Nalpazca kommen ursprünglich aus Ixamitl und sind in ihren Heimatländern respektiert, werden aber oft als Narren betrachtet, wenn sie außer Landes reisen. Ihre weitgehende Befassung mit den Grenzen der Realität kann anderen oft den Eindruck geben, sie seien benebelt oder einfach nur irrsinnig.</DefaultText>
+      <DefaultText>Die Nalpazca sind einOrden für Mönche, die durch bewusstseinsverändernde Stoffe über die Unterschiede der materiellen Welt und der wahrgenommenen Welt meditieren. Die Nalpazca kommen ursprünglich aus Ixamitl und sind in ihren Heimatländern respektiert, werden aber oft als Narren betrachtet, wenn sie außer Landes reisen. Ihre weitgehende Befassung mit den Grenzen der Realität kann anderen oft den Eindruck geben, sie seien benebelt oder einfach nur irrsinnig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13089,17 +13089,17 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3740</ID>
-      <DefaultText>Ein Paladinorden aus aedranischen Kriegern, die Ehrlichkeit und Diplomatie vor Grausamkeit und Aggression setzen. Die Schildknappen wurden zu Ehren eines adeligen Elfen gegründet, der geholfen hat, nach einem langen Krieg die Aedyr- und Kulklin-Königreiche zu vereinen.</DefaultText>
+      <DefaultText>Ein Paladinorden von aedyrischen Kriegern, die Ehrlichkeit und Diplomatie vor Grausamkeit und Aggression setzen. Die Schildknappen wurden zu Ehren einer adeligen Elfe gegründet, die geholfen hat, nach einem langen Krieg die Aedyr- und Kulklin-Königreiche zu vereinen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3741</ID>
-      <DefaultText>Berath ist der Gott des Todes, der Türen und des Rades der Reinkarnation selbst. Entweder als geschlechtslose Gottheit dargestellt oder als Zwillinge aus männlichen und weiblichen Verkörperungen. Berath spricht selten mit seinen Nachfolgern. Seine Priester sollen vernünftig und emotionslos sein und den Tod mit einer objektiven Würde betrachten.</DefaultText>
+      <DefaultText>Berath ist der Gott des Todes, der Türen und des Rades der Reinkarnation selbst. Entweder als geschlechtslose Gottheit dargestellt oder als Zwillinge aus männlichen und weiblichen Verkörperungen. Berath spricht selten mit seinen Anhängern. Seine Priester sollen vernünftig und emotionslos sein und den Tod mit einer objektiven Würde betrachten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3742</ID>
-      <DefaultText>Eothas ist der Gott des Lichts, der Erlösung, der Hoffnung und der Neugeburt. Einige glaubten, dass der Gott am Ende des Krieges des Heiligen zerstört wurde, aber viele Priester und Nachfolger beteten ihn weiterhin an. Seine Rückkehr nach Eora bei Caed Nua ist den meisten Sterblichen immer noch nicht bekannt. Priester des Eothas sind in ihren Beziehungen ehrlich und nett und sie verurteilen jegliche Formen von Grausamkeit und Lüge.</DefaultText>
+      <DefaultText>Eothas ist der Gott des Lichts, der &lt;xg&gt;Erlösung&lt;/xg&gt;, der Hoffnung und der Neugeburt. Einige glaubten, dass der Gott am Ende des Krieges des Heiligen zerstört wurde, aber viele Priester und Anhänger beteten ihn weiterhin an. Seine Rückkehr nach Eora bei Caed Nua ist den meisten Sterblichen immer noch nicht bekannt. Priester des Eothas sind in ihren Beziehungen ehrlich und nett und sie verurteilen jegliche Formen von Grausamkeit und Lüge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13114,7 +13114,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3745</ID>
-      <DefaultText>Skaen, auch als Stiller Sklave bekannt, ist der Gott des heimlichen Hasses, der Feindseligkeit und des gewaltsamen Aufstandes. Er wird normalerweise als kleiner, glatzköpfiger Mann mit zahlreichen Narben von Peitschenhieben dargestellt, dessen Ohren und Nase abgetrennt wurden. Er erscheint nach außen hin unterwürfig mit niedergeschlagenen Augen. Jedoch funkeln seine Augen schwarz mit verschwiegenem Hass und seine Faust ist geballt. Er ist bekannt, sich denen Nachfolgern, die verzweifelt genug sind, bestimmte unaussprechliche Rituale auszuführen, als schreckliche Inkarnation zu offenbaren, die als das Bildnis bekannt ist. In Dyrwood dienen Getreuen des Skaen auch als Folterknechte und als Henker, die an den Fall hochrangiger Gefangener Vergnügung finden.</DefaultText>
+      <DefaultText>Skaen, auch als Stiller Sklave bekannt, ist der Gott des heimlichen Hasses, der Feindseligkeit und des gewaltsamen Aufstandes. Er wird normalerweise als kleiner, glatzköpfiger Mann mit zahlreichen Narben von Peitschenhieben dargestellt, dessen Ohren und Nase abgetrennt wurden. Er erscheint nach außen hin unterwürfig mit niedergeschlagenen Augen. Jedoch funkeln seine Augen schwarz mit verschwiegenem Hass und seine Faust ist geballt. Er ist bekannt, sich jenen Anhängern, die verzweifelt genug sind, bestimmte unaussprechliche Rituale auszuführen, als schreckliche Inkarnation zu offenbaren, die als das Bildnis bekannt ist. In Dyrwood dienen Getreuen des Skaen auch als Folterknechte und als Henker, die an den Fall hochrangiger Gefangener Vergnügung finden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13129,7 +13129,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3748</ID>
-      <DefaultText>Gewehrfalken sind eine Art Waldläufer, die den Rauatai einzigartig sind. Sie benützen ihre Falkengefährten, um ihre Scharfschützenfähigkeiten zu ergänzen.</DefaultText>
+      <DefaultText>Gewehrfalken sind eine Art Waldläufer, die den Rauatai einzigartig sind. Sie benutzen ihre Falkengefährten, um ihre Scharfschützenfertigkeiten zu ergänzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13399,7 +13399,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3802</ID>
-      <DefaultText>Nadelhieb</DefaultText>
+      <DefaultText>Nadelstich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13499,7 +13499,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3827</ID>
-      <DefaultText>Erhöht tagsüber Bluff- und Einschüchternfähigkeiten.</DefaultText>
+      <DefaultText>Erhöht tagsüber die Fertigkeiten Bluff und Einschüchtern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13696,7 +13696,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>3867</ID>
-      <DefaultText>Durch extreme körperliche Konditionierung kann der Nutzer sein Bemühen verstärken und einen Anstieg an Gesundheit hervorrufen, um länger im Kampf zu blieben. Diese Fähigkeit benötigt Athletik und stellt Gesundheit je nach Athletikwert des Nutzers wieder her.</DefaultText>
+      <DefaultText>Durch extreme körperliche Konditionierung kann der Nutzer sein Bemühen verstärken und einen Anstieg an Gesundheit hervorrufen, um länger im Kampf zu bleiben. Diese Fähigkeit benötigt Athletik und stellt Gesundheit basierend auf der Fertigkeit Athletik des Nutzers wieder her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14296,7 +14296,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>3993</ID>
-      <DefaultText>Aura, die gegnerische Tapferkeit, Reflexe und Wille um einen gewissen Wert senkt. Dieser Wert wird durch die Überlebenskompetenz des Trägers erhöht.</DefaultText>
+      <DefaultText>Aura, die gegnerische Tapferkeit, Reflexe und Wille um einen gewissen Wert senkt. Dieser Wert wird durch die Fertigkeit Überleben des Trägers erhöht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14506,7 +14506,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4088</ID>
-      <DefaultText>Erzeugt eine Aura, die langsam die Gesundheit naher Verbündeter in Abhängigkeit von ihrer verbleibenden Gesundheit wiederherstellt. (Vollständige Wiederherstellung für Ziele, die dem Tode am nächsten sind)</DefaultText>
+      <DefaultText>Erzeugt eine Aura, die langsam die Gesundheit naher Verbündeter in Abhängigkeit von ihrer verbleibenden Gesundheit wiederherstellt. (Maximale Heilung an Zielen, die Dem Tode nahe sind.)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
