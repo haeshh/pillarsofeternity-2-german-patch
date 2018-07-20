@@ -832,7 +832,7 @@ class Entry {
 			"(?<!xg>)(Geschockt)(e|\\b)", "(?<!xg>)(Verängstig)(te|t|en)", "(?<!xg>)([Ee]rschütter)(ter|t|n)",
 			// Gewandheit
 			"(?<!xg>)(Schnelle?n?)", "(?<!xg>)(Flink(e)?)", "(?<!xg>)(Schwungvoll(e)?)",
-			"(?<!xg>)(Humpeln)(\\b|d\\b|de)", "(?<!xg>)(Bewegungsunfähig)(e|\\b)", "(?<!xg>)(G?e?lähmt)(er|e|\\b)",
+			"(?<!xg>)(Humpeln)(\\b|d\\b|de)", "(?<!xg>)(Bewegungsunfähig)(e|\\b)", "(?<!xg>)(G?e?[Ll]ähmt)(er|e|\\b)",
 			// Intellekt
 			"(?<!xg>)(Klug(e)?)", "(?<!xg>)(Scharfsinnig(e)?)", "(?<!xg>)(Brillant(e)?)",
 			"(?<!xg>)(Verwirrt)(e|\\b)", "(?<!xg>)(Bezaubert)(er|e|\\b)", "(?<!xg>)(Beherrscht)(e|\\b)",
@@ -841,7 +841,7 @@ class Entry {
 			"(?<!xg>)(Taumeln)(de|d|\\b)", "(?<!xg>)(Benommen)(e|heit|\\b)", "(?<!xg>)(Betäub)(en|te|t)",
 			// Wahrnehmung
 			"(?<!xg>)(Einsichtig(e)?)", "(?<!xg>)(Aufmerksam(e)?)", "(?<!xg>)(Intuitiv(e)?)",
-			"(?<!xg>)(Abgelenkt)(er|e|\\b)", "(?<!xg>)(Desorientiert)(e|\\b)", "(?<!xg>)(G?e?blende|[Ee]rblinde)(te|t|n(?!d))",
+			"(?<!xg>)(Abgelenkt)(er|e|\\b)", "(?<!xg>)(Desorientier)(te|t|render|\\b)", "(?<!xg>)(G?e?blende|[Ee]rblinde)(te|t|n(?!d))",
 			
 			
 			// FR
@@ -1142,19 +1142,19 @@ class Entry {
 			"(Perception Inspirations?)",
 			"(Perception Afflictions?)",
 			
-			// de_patch
-			"(Verfassungsinspirationen\\s)",
-			"(Verfassungswirkungen\\s)",
-			"(Entschlossenheitsinspirationen\\s)",
-			"(Entschlossenheitswirkungen\\s)",
-			"(Gewandtheitsinspirationen\\s)",
-			"(Gewandtheitswirkungen\\s)",
-			"(Intellektsinspirationen\\s)",
-			"(Intellektswirkungen\\s)",
-			"(Machtinspirationen\\s)",
-			"(Machtwirkungen\\s)",
-			"(Wahrnehmungsinspirationen\\s)",
-			"(Wahrnehmungswirkungen\\s)"
+			// de_patch    // Watch out for false positive  Meta: Geisteswirkungen, Körperwirkungen, Geistesinspiration
+			"(Verfassungsinspiration(en)?)",
+			"(Verfassungs-|Verfassungswirkung(en)?)",
+			"(Entschlossenheitsinspiration(en)?)",
+			"(Entschlossenheits-|Entschlossenheitswirkung(en)?)",
+			"(Gewandtheitsinspiration(en)?)",
+			"(Gewandtheits-|Gewandtheitswirkung(en)?)",
+			"(Intellektinspiration(en)?)",
+			"(Intellekt-|Intellektwirkung(en)?)",
+			"(Machtinspiration(en)?)",
+			"(Macht-|Machtwirkung(en)?)", 
+			"(Wahrnehmungsinspiration(en)?)",
+			"(Wahrnehmungs-|Wahrnehmungswirkung(en)?)"
 	};
             
             
@@ -1236,12 +1236,12 @@ class Entry {
 			
 			
 			// DE
-			"(?<!xg>)(Brand-?)(sch[aä]den|\\b)",
+			"(?<!xg>)(Brand-?|Brandzeit|Brandflächen|[Vv]erbrennt)(sch[aä]den|effekt|\\b)",
 			"(?<!xg>)(Zersetzung-?)(ssch[aä]den|\\b)",
 			"(?<!xg>)(Wucht-?)(sch[aä]den|\\b)",
 			"(?<!xg>)(Frost-?)(sch[aä]den|\\b)",
 			"(?<!xg>)(Stich-?)(sch[aä]den|\\b)",
-			"(?<!xg>)(Direkt-?|direkte[rnm] )([sS]chaden)",
+			"(?<!xg>)(Direkt-?|[Dd]irekte[rnm] )((Gift|Blutungs)?[sS]chaden)",
 			"(?<!xg>)(Hieb-?)(sch[aä]den|\\b)",
 			"(?<!xg>)(Schock-?)(sch[aä]den|\\b)",
 			
@@ -1366,10 +1366,10 @@ class Entry {
 			"(?<!xg>)(AR|Armor Rating)",
 			
 			// DE 
-			"(?<!xg>)(Tapferkeit)", 
+			"(?<!xg>)(Tapferkeitsverteidigung|Tapferkeit)", 
 			"(?<!xg>)(Abwehr)", 
-			"(?<!xg>)(Reflexe)",
-			"(?<!xg>)(Willen?)\\b",
+			"(?<!xg>)(Reflexe|Reflexverteidigung)",
+			"(?<!xg>)(Willen?\\b|Willensverteidigung)",
 			"(?<!xg>)(Durchschlag|Durchschlagskraft)",
 			"(?<!xg>)(RW|Rüstungswert)",
 			

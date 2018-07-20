@@ -72,40 +72,40 @@ public class Cleanup {
 		
 		Cleanup cleanup = new Cleanup();
 		
-		// Base files, the handpicket stuff from Spherikal
+		// Base files, the handpicked stuff from Spherikal
 		List<Path> convertingBase = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\en\\text")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		
 		cleanup.stripMarkup(convertingBase, jaxbUnmarshaller,marshaller);
 		
 		// Trying to get the same via the regex from the english base
 		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\en_fixed\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.colorupdate(convertingBase, filesInFolder, "en2", jaxbUnmarshaller,marshaller);
+		//cleanup.colorupdate(convertingBase, filesInFolder, "en2", jaxbUnmarshaller,marshaller);
 		
 		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		cleanup.colorupdate(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller,marshaller);
 		
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\fr\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.colorupdate(convertingBase, filesInFolder, "fr", jaxbUnmarshaller,marshaller);
+		//cleanup.colorupdate(convertingBase, filesInFolder, "fr", jaxbUnmarshaller,marshaller);
 		
 		// It fix von Kilay
 		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\it\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.colorupdate(convertingBase, filesInFolder, "it2", jaxbUnmarshaller,marshaller);
+		//cleanup.colorupdate(convertingBase, filesInFolder, "it2", jaxbUnmarshaller,marshaller);
 		
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\es\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.colorupdate(convertingBase, filesInFolder, "es", jaxbUnmarshaller,marshaller);
+		//cleanup.colorupdate(convertingBase, filesInFolder, "es", jaxbUnmarshaller,marshaller);
 		
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\pt\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.colorupdate(convertingBase, filesInFolder, "pt", jaxbUnmarshaller,marshaller);
+		//cleanup.colorupdate(convertingBase, filesInFolder, "pt", jaxbUnmarshaller,marshaller);
 		
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\pl\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
- 		cleanup.colorupdate(convertingBase, filesInFolder, "pl", jaxbUnmarshaller,marshaller);
+ 		//cleanup.colorupdate(convertingBase, filesInFolder, "pl", jaxbUnmarshaller,marshaller);
 		
 		// Ru fix von Phenomenum
 		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\ru\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.colorupdate(convertingBase, filesInFolder, "ru2", jaxbUnmarshaller,marshaller);
+		//cleanup.colorupdate(convertingBase, filesInFolder, "ru2", jaxbUnmarshaller,marshaller);
 		
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\zh\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.colorupdate(convertingBase, filesInFolder, "zh", jaxbUnmarshaller,marshaller);
+		//cleanup.colorupdate(convertingBase, filesInFolder, "zh", jaxbUnmarshaller,marshaller);
 		
 		
 		//cleanup.cleanupWindow = new JFrame();
@@ -344,14 +344,18 @@ public class Cleanup {
 									}
 									outputFileCombined.getEntries().add(booth);
 									if(damageIconEntry != null) {
-										System.out.println("Clash \n" + coloredEntry.getDefaultText() + "\n" + damageIconEntry.getDefaultText() + "\n"+ booth.getDefaultText());
+									//	System.out.println("Clash \n" + coloredEntry.getDefaultText() + "\n" + damageIconEntry.getDefaultText() + "\n"+ booth.getDefaultText());
 									}
 									if(damageDefenseIconEntry != null) {
-										System.out.println("Clash \n" + coloredEntry.getDefaultText() + "\n" + damageDefenseIconEntry.getDefaultText() + "\n"+ booth.getDefaultText());
+									//	System.out.println("Clash \n" + coloredEntry.getDefaultText() + "\n" + damageDefenseIconEntry.getDefaultText() + "\n"+ booth.getDefaultText());
 									}
 									if(damageIconEntry != null && damageDefenseIconEntry != null) {
-										System.out.println("Clash \n" + coloredEntry.getDefaultText() + "\n" + damageIconEntry.getDefaultText() + "\n" + damageDefenseIconEntry.getDefaultText() + "\n"+ booth.getDefaultText());
+									//	System.out.println("Clash \n" + coloredEntry.getDefaultText() + "\n" + damageIconEntry.getDefaultText() + "\n" + damageDefenseIconEntry.getDefaultText() + "\n"+ booth.getDefaultText());
 									}
+								}
+								
+								if(coloredEntry == null && damageIconEntry == null && damageDefenseIconEntry == null) {
+									System.out.println("Not changed " + colorfulEntry.getID() + "\n" + colorfulEntry.getDefaultText() + "\n" + plainEntry.getDefaultText());
 								}
 							}
 						}
