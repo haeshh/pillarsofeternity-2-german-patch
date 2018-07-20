@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>{0:value} Durchdringung beim Angriff desselben Ziel als Verbündeter.</DefaultText>
+      <DefaultText>{0:value} Durchschlagskraft beim Angriff des gleichen Ziels wie ein Verbündeter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -506,7 +506,7 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Bei Flankierung oder dem Erleiden von Wirkungen auf den Körper setzen sich lediglich {0:value:percent} des Schadens um</DefaultText>
+      <DefaultText>Verringert den Schaden auf {0:value:percent} wenn Flankiert oder von Körperwirkungen betroffen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1341,7 +1341,7 @@
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>Lähmungsangriff auf das Ziel für {0:value:duration} bei einem kritischen Treffer</DefaultText>
+      <DefaultText>Lähmt das Ziel für {0:value:duration} bei einem kritischen Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1641,7 +1641,7 @@
     </Entry>
     <Entry>
       <ID>337</ID>
-      <DefaultText>Die Waffendurchschlagskraft erhöht sich mit der Stufe, die der Spieler erreicht, der sie einsetzt</DefaultText>
+      <DefaultText>Die Waffendurchschlagskraft erhöht sich mit der Stufe des Trägers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1811,7 +1811,7 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>{0:value:percent} Chance auf zufällige Wirkung auf den Geist beim Ziel für {0:extravalue:duration} beim Erzielen eines kritischen Treffers</DefaultText>
+      <DefaultText>{0:value:percent} Chance auf zufällige Geisteswirkung beim Ziel für {0:extravalue:duration} beim Erzielen eines kritischen Treffers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2376,12 +2376,12 @@
     </Entry>
     <Entry>
       <ID>507</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} zu betäuben</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} zu Betäuben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>508</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} zu betäuben, wenn derjenige, der die Waffe führt, ein Zwerg ist</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer für {0:extravalue:duration} zu Betäuben, wenn derjenige, der die Waffe führt, ein Zwerg ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2571,7 +2571,7 @@
     </Entry>
     <Entry>
       <ID>576</ID>
-      <DefaultText>{0:value:percent} Chance, bei erlittenem kritischen Treffer {0:extravalue} Disziplin zu erhalten</DefaultText>
+      <DefaultText>Brandflächenschaden alle {0:interval}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2606,7 +2606,7 @@
     </Entry>
     <Entry>
       <ID>588</ID>
-      <DefaultText>Gain the Aware Inspiration for {0:value:duration} whenever a nearby Ally scores a killing blow</DefaultText>
+      <DefaultText>Gewährt die Inspiration Aufmerksam für {0:value:duration}, wenn ein naher Verbündeter einen Feind tötet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2636,7 +2636,7 @@
     </Entry>
     <Entry>
       <ID>609</ID>
-      <DefaultText>Grants {0:value} Might whenever a Party Member is KO'd</DefaultText>
+      <DefaultText>Gewährt {0:value} Macht, wenn ein Gruppenmitglied niedergestreckt wird.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

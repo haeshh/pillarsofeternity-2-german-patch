@@ -2156,7 +2156,7 @@
     </Entry>
     <Entry>
       <ID>603</ID>
-      <DefaultText>Verbrennt alle ätherische Kräfte, die Verstand, Körper und Seele des feindlichen Ziels zusammenhalten, wodurch es schnell direkten Schaden erleidet. Zielen, deren Gesundheit auf 0 fällt, wird jegliche Existenz entzogen.</DefaultText>
+      <DefaultText>&lt;xg&gt;Verbrennt&lt;/xg&gt; alle ätherische Kräfte, die Verstand, Körper und Seele des feindlichen Ziels zusammenhalten, wodurch es schnell direkten Schaden erleidet. Zielen, deren Gesundheit auf 0 fällt, wird jegliche Existenz entzogen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8666,7 +8666,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2663</ID>
-      <DefaultText>Ein Verbündeter schöpft aus seinem versteckten geistigem und selischem Potenzial, wodurch er für eine kurze Zeit die Inspiration Brilliant erhält.</DefaultText>
+      <DefaultText>Ein Verbündeter schöpft aus seinem versteckten geistigem und selischem Potenzial, wodurch er für eine kurze Zeit die Inspiration Brillant erhält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9621,7 +9621,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2860</ID>
-      <DefaultText>Schwäche: Wirkungen auf Verfassung</DefaultText>
+      <DefaultText>Schwäche: Verfassungswirkung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9711,7 +9711,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2879</ID>
-      <DefaultText>Schwäche: Wirkungen auf Gewandtheit</DefaultText>
+      <DefaultText>Schwäche: Gewandtheitswirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9761,7 +9761,7 @@ Das maximale Limit an Wunden wird verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2889</ID>
-      <DefaultText>Schwäche: Wirkungen auf Intellekt</DefaultText>
+      <DefaultText>Schwäche: Intellektwirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12107,7 +12107,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3512</ID>
-      <DefaultText>Die Aura gewährt allen Verbündeten in der Nähe einen Willensbonus gegen Auswirkungen auf den Geist.</DefaultText>
+      <DefaultText>Die Aura gewährt allen Verbündeten in der Nähe einen Willensbonus gegen Geisteswirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12549,7 +12549,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3608</ID>
-      <DefaultText>Gewährt dem Nutzer zu Beginn des Kampfes für kurze Zeit Widerstand gegen Wirkungen auf die Gewandtheit.</DefaultText>
+      <DefaultText>Gewährt dem Nutzer zu Beginn des Kampfes für kurze Zeit Widerstand gegen Gewandtheitswirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14186,7 +14186,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>3965</ID>
-      <DefaultText>Bissangriff verursachte direkten Giftschaden über Zeit.</DefaultText>
+      <DefaultText>Bissangriffe verursachten direkten Giftschaden über Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16778,42 +16778,42 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4774</ID>
-      <DefaultText>Gain the Aware Inspiration whenever a nearby ally scores a killing blow.</DefaultText>
+      <DefaultText>Erhält die Inspiration Aufmerksam, sobald ein naher Verbündeter einen Feind tötet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4775</ID>
-      <DefaultText>At the beginning of combat, the wielder is engulfed in fire, increasing their Freeze Damage Reduction and causing Burn damage to anyone who damages them with a melee attack.</DefaultText>
+      <DefaultText>Zu beginn des Kampfes wird der Träger in Feuer gehüllt und verbrennt jeden der ihm Nahkampfschaden zufügt. Das Feuer erhöht außerdem den Frost Rüstungswert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4776</ID>
-      <DefaultText>Fire Shield</DefaultText>
+      <DefaultText>Flammenschild</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4777</ID>
-      <DefaultText>Greater Fire Shield</DefaultText>
+      <DefaultText>Großes Flammenschild</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4778</ID>
-      <DefaultText>Purifying Fire Shield</DefaultText>
+      <DefaultText>Reinigendes Flammenschild</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4779</ID>
-      <DefaultText>At the beginning of combat, the wielder is engulfed in fire, increasing their Freeze Damage Reduction and causing Burn damage to anyone who damages them with a melee attack.</DefaultText>
+      <DefaultText>Zu beginn des Kampfes wird der Träger in Feuer gehüllt und verbrennt jeden der ihm Nahkampfschaden zufügt. Das Feuer erhöht außerdem den Frost Rüstungswert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4780</ID>
-      <DefaultText>(Purifying Fire Shield) - Enemies damaged by the retaliation attack have the duration of their beneficial effects reduced.</DefaultText>
+      <DefaultText>(Reinigendes Flammenschild) - Der Gegenschlag reduziert zusätzlich die Dauer von positiven Effekten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4781</ID>
-      <DefaultText>(Greater Fire Shield) - The wielder gains increased Freeze Damage Reduction and the retaliation attack deals additional damage.</DefaultText>
+      <DefaultText>(Großes Flammenschild) - Der Frost Rüstungswert erhöht sich weiter. Ebenso vergrößert sich der Brandschaden des Gegenschlags.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16828,7 +16828,7 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4801</ID>
-      <DefaultText>Corrosive Solvent</DefaultText>
+      <DefaultText>Ätzende Lösung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16843,12 +16843,12 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4804</ID>
-      <DefaultText>Helfire Iron</DefaultText>
+      <DefaultText>Höllenfeuereisen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4805</ID>
-      <DefaultText>Immunity: Interrupts</DefaultText>
+      <DefaultText>Imunität: Unterbrechung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16858,12 +16858,12 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4807</ID>
-      <DefaultText>Colossal Strength</DefaultText>
+      <DefaultText>Kolossale Stärke</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4808</ID>
-      <DefaultText>Encumbered</DefaultText>
+      <DefaultText>Überlastet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16873,7 +16873,7 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4818</ID>
-      <DefaultText>Grieving</DefaultText>
+      <DefaultText>Trauernd</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16883,7 +16883,7 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4820</ID>
-      <DefaultText>Guilt</DefaultText>
+      <DefaultText>Schlud</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16903,27 +16903,27 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4824</ID>
-      <DefaultText>Martyr</DefaultText>
+      <DefaultText>Märtyrer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4826</ID>
-      <DefaultText>Immunity: Body Afflictions</DefaultText>
+      <DefaultText>Immunität: Körperwirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4827</ID>
-      <DefaultText>Immunity: Mind Afflictions</DefaultText>
+      <DefaultText>Immunität: Geisteswirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4828</ID>
-      <DefaultText>Resistance: Mind Afflictions</DefaultText>
+      <DefaultText>Resistenz: Geisteswirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4829</ID>
-      <DefaultText>Resistance: Body Afflictions</DefaultText>
+      <DefaultText>Resistenz: Körperwirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
