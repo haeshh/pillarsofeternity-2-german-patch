@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3313</EntryCount>
+  <EntryCount>3320</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -16954,6 +16954,41 @@ Keiner.</DefaultText>
     <Entry>
       <ID>4839</ID>
       <DefaultText>Call Hatchlings</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4840</ID>
+      <DefaultText>Stand Ground</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4841</ID>
+      <DefaultText>Sigil Assault</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4842</ID>
+      <DefaultText>Concerted Assault</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4843</ID>
+      <DefaultText>Endless Assault</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4844</ID>
+      <DefaultText>Globe of Invulnerability</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4845</ID>
+      <DefaultText>Last Trick</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4846</ID>
+      <DefaultText>Charged With Soul Energy</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
