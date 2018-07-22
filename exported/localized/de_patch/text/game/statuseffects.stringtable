@@ -1481,7 +1481,7 @@
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>50 % Chance auf einen Angriff des Feindes mit zufälliger Wirkung für 12,0 Sekunden bei einem kritischen Treffer im Nahkampf</DefaultText>
+	  <DefaultText>{0:value:percent} Chance, bei erlittenem kritischen Treffer im Nahkampf Gegner mit zufälliger Wirkung für {0:extravalue:duration} anzugreifen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
