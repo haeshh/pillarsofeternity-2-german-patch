@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2833</EntryCount>
+  <EntryCount>2825</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -16940,6 +16940,18 @@ Artfully enfused with soul essence, the blade glows in a kinship response to tho
     <Entry>
       <ID>5497</ID>
       <DefaultText>Burden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5508</ID>
+      <DefaultText>Essence Interrupter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5509</ID>
+      <DefaultText>Critics of soul manipulation disparage animancy as a reckless perversion of the natural order. While these arguments are often steeped in political animus, every once in a while they hit the mark. 
+Such is the case with the Essence Interrupter, the product of an ambitious but unorthodox outcast of the Brackenbury Sanitarium. The inventor hypothesized a surefire method to Awaken kith souls by applying an instant jolt of spiritual stimulus to the cranium. Once he modified a hunting bow to unleash projectiles of charged adra and copper, he set up a market stall in Spirento where he promised compensation to anyone who participated in his study. 
+After calmly shooting arrows between the eyes of two test subjects, the animancer was taken into custody. Authorities never recovered his bow, which to this day reflects something of its inventor's unethical eccentricity.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
