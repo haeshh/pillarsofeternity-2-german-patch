@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4412</EntryCount>
+  <EntryCount>4415</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -22543,6 +22543,21 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
     <Entry>
       <ID>4955</ID>
       <DefaultText>Solo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4956</ID>
+      <DefaultText>Magran's Fires</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4957</ID>
+      <DefaultText>Beast of Winter - Installiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4958</ID>
+      <DefaultText>Beast of Winter - Nicht Installiert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
