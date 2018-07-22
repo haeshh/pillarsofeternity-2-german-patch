@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>527</EntryCount>
+  <EntryCount>532</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2637,6 +2637,31 @@
     <Entry>
       <ID>609</ID>
       <DefaultText>Gewährt {0:value} Macht, wenn ein Gruppenmitglied niedergestreckt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>Deals Best of Pierce/Shock</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>{0:value:bonuspercentbonus} Schaden als {0:damagetype} (Erhöht sich mit der Fertigkeit Metaphysik)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>Critical Hits with this weapon transfer experimental soul energy into the target, morphing them into a sentient creature when the target dies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>Critical Hits with this weapon transfer experimental soul energy into the target, morphing them into a sentient creature when the target dies (Creatures are now always allies)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>Critical Hits with this weapon transfer experimental soul energy into the target, morphing them into a sentient creature when the target dies (Creatures now live twice as long)</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
