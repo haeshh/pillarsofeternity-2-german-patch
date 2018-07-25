@@ -22585,5 +22585,34 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
       <DefaultText>Hiebschaden wird von stumpfen Klingenwaffen wie Schwertern und Zweihändern verursacht. Fähigkeiten mit Hiebschaden haben meistens einen Zeitschadenseffekt.</DefaultText>
       <FemaleText />
     </Entry>
+	    <Entry>
+      <ID>88009</ID>
+      <DefaultText>Verteidiger besitzen eine unübertroffene Konstitution und können sehr viele Angriffe einsteken.
+
+Verteidiger sind die Klassen: Babar, Kämpfer, Mönch, Paladin und Waldläufer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88010</ID>
+      <DefaultText>Angreifer verstehen es vorzüglich mit ihren Waffen große Wunden zu reißen oder den Gegner mit ihern Fähigkeiten zu überwältigen.
+
+Angreifer sind die Klassen: Medium, Druide, Kämpfer, Mönch, Waldläufer, Dieb und Zauberer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88011</ID>
+      <DefaultText>Unterstützer helfen sich, und ihren Verbündeten mit kräftigenden Auren oder Verteidigungszauber. Ebenso können sie Heilen.
+
+Support classes include: Chanter, Paladin, and Priest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88012</ID>
+      <DefaultText>Massenkontrolle Classes that focus on crowd control can inflict heavy damage and negative effects on groups of enemies.
+
+Crowd Control classes include: Barbarian, Chanter, Cipher, Druid, and Wizard.</DefaultText>
+      <FemaleText />
+    </Entry>
+
   </Entries>
 </StringTableFile>
