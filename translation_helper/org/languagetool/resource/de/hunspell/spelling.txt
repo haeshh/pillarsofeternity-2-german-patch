@@ -3,7 +3,7 @@ of
 Eternity
 # Namen
 Adra/S
-Aedyr
+Aedyr/S
 Aedyrer
 Aedyrern
 aedyrisch
@@ -14,6 +14,7 @@ Beseeler
 Concelhaut/S
 Doemenel/S
 Durance/S
+Düsterbeeren
 Dyrwald/S
 Dyrwälder/S
 dyrwälderisch/A
@@ -33,6 +34,7 @@ Glanfathanerin
 glanfathanisch
 Hazanui/S
 Hylea/S
+Junvik
 Llengrath/S
 Magran/S
 Ondra/S
@@ -63,8 +65,8 @@ vailianische/N
 Vailianische/N
 Vithrack
 Wael/S
-Xaurip-Stamm/S
 Xaurip/S
+Xaurip-Stamm/S
 # Personen
 Adaryc/S
 Aeldy/S
@@ -78,8 +80,10 @@ Arkemyr/S
 Aruihi/S
 Atello/S
 Avetta/S
+Baltia
 Barati
 Bardatto/S
+Bearn/S
 Bekarna/S
 Benessa
 Benny/S
@@ -114,14 +118,17 @@ Fyrna
 Galian/S
 Giacolo/S
 Harker
+Hasongo/S
 Ikawha/S
 Irrena/S
 Iselmyr/S
 Ishi
-Ishiza
+Ishiza/S
+Ixamitl
 Kaali/S
 Kalakoth/S
 Kana/S
+Kinnuq/S
 Kipeha
 Kolsc
 Lamond
@@ -130,6 +137,7 @@ Maia/S
 Mairu/S
 Marihi/S
 Martino/S
+Meryel/S
 Minolette
 Mirke/S
 Modwyr/S
@@ -139,6 +147,7 @@ Nairi/S
 Nemnok/S
 Netehe/S
 Ngati/S
+Oderisi/S
 Okauro/S
 Onekaza/S
 Orron/S
@@ -148,6 +157,7 @@ Pekeho
 Perikis/S
 Pitli/S
 Raedric/S
+Rehstin
 Remaro/S
 Remasi
 Riggere/S
@@ -185,8 +195,10 @@ Ymir/S
 Yngfrith/S
 Yseyr/S
 # Ort
+Caed Nua
 Dunrydstraße
 Graberstraße
+Ixamitl-Ebenen
 Krummsporn/S
 Neketaka
 Port Maje
@@ -195,13 +207,16 @@ Stauholz
 Ukaizo
 # Wirkungen und Inspirationen
 Entschlossenheitswirkung
+Entschlossenheitswirkungen
 Gewandtheits-Wirkung
+Gewandtheitswirkungen
 Gewandtheitsinspiration
 Intellekt-Wirkung
 Intellektinspiration
 Intellektwirkung
 Körper-Wirkung
 Wahrnehmungs-Wirkung
+Verfassungs-Wirkung
 # Diverses
 Berath/S
 Defiant
@@ -218,10 +233,13 @@ Woedica/S
 Aimica
 Aimico
 Bazzo
+Belfetto
 Ekera
-Rekke
 Madiccho
+Merla
+Parfitto
 Postenago
+Rekke
 # Notwendige Besonderheiten in der Übersetzung, Ausnahmen von Groß- und Kleinschreibung und solche Sachen, Wortteile die Trennzeichen haben, die beim Extrahieren mit Saxon aber normale Leerzeichen werden.
 # Nicht übersetztes Englisch (z.B. Ersetzungstoken)
 AfflictionType
@@ -233,7 +251,12 @@ percentbonus
 PercentBonus
 Player Ship
 ShipDuel_OpponentShip
+ShipDuel
+OpponentShip
+OrlansHeadGame
+PlayerLastResult
 ShipDuel_PlayerShip
+PlayerShip
 SkillCheck
 Specified
 sprite
