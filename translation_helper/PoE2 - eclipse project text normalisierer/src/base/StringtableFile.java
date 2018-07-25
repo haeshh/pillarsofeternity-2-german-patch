@@ -8,6 +8,8 @@ import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
+import java.util.function.BiFunction;
+import java.util.function.Function;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -872,28 +874,28 @@ class Entry {
 			
 			// IT
 			// Costituzione
-			"(?<!xg>)(In forma)", "(?<!xg>)(Poderoso)", "(?<!xg>)(Robusto)",
-			"(?<!xg>)(Nausea)(ndo|to)", "(?<!xg>)(Indebolit)(i|o)", "(?<!xg>)(Debilitato)(\\b)",
-			
+			"(?<!xg>)(In [Ff]orma)", "(?<!xg>)(Poderoso)", "(?<!xg>)(Robusto)",
+			"(?<!xg>)(Nausea)(ndo|no|to|ti|re|\\b)", "(?<!xg>)(Indebol)(endolo|iti|ito|ire|imento|iscono|isce)", "(?<!xg>)(Debilita)(to|ti|\\b)",
+
 			//Risolutezza
-			"(?<!xg>)(Nerbo)", "(?<!xg>)(Risoluto)", "(?<!xg>)(Coraggioso)",
-			"(?<!xg>)(Scoss)(o|i)", "(?<!xg>)(Spaventa)(ndo|to)", "(?<!xg>)(Terrorizza)(ndo|to)",
+			"(?<!xg>)(Nerbo)", "(?<!xg>)(Risolut[io])", "(?<!xg>)(Coraggios[io])",
+			"(?<!xg>)(Scoss)(o|i)", "(?<!xg>)(Spaventa)(ndo|re|to|\\b)", "(?<!xg>)(Terrorizza)(ndo|no|to|ti)",
 			
 			// Destrezza
-			"(?<!xg>)(Veloce)", "(?<!xg>)(Lesto)", "(?<!xg>)(Rapido)",
-			"(?<!xg>)(Azzoppato)(\\b)", "(?<!xg>)(Immobilizza)(ndo|to)", "(?<!xg>)(Paralizza)(ndo|to)",
+			"(?<!xg>)(Veloc[ei])", "(?<!xg>)(Lest[io])", "(?<!xg>)(Rapid[io])",
+			"(?<!xg>)(Azzoppa)(ndo|to|re|ti|no|\\b)", "(?<!xg>)(Immobilizza)(ndo|no|to|re)", "(?<!xg>)(Parali)(zzando|zzato|si|zza)",
 			
 			// Acume
-			"(?<!xg>)(Arguto)", "(?<!xg>)(Perspicace)", "(?<!xg>)(Brillante)",
-			"(?<!xg>)(Confus)(ione|o)", "(?<!xg>)(Charme|Incantato)(\\b)", "(?<!xg>)(Dominato)(\\b)",
+			"(?<!xg>)(Argut[io])", "(?<!xg>)(Perspicac[ie])", "(?<!xg>)(Brillant[ie])",
+			"(?<!xg>)(Conf)(usione|usi|uso|onde)", "(?<!xg>)(Charme|Incantat[io]|Incantare)(\\b)", "(?<!xg>)(Domina)(zione|to|\\b)",
 			
 			// Vigore
-			"(?<!xg>)(Forte)", "(?<!xg>)(Tenace)", "(?<!xg>)(Energico)",
-			"(?<!xg>)(Sorpreso)(\\b)", "(?<!xg>)(Disorienta)(mento|to)", "(?<!xg>)(Stord)(endo|ito|imento)",
+			"(?<!xg>)(Fort[ei])", "(?<!xg>)(Tenace)", "(?<!xg>)(Energico)",
+			"(?<!xg>)(Sorpre)(si|so|ndeno|ndendo)", "(?<!xg>)(Disorienta)(ndol[oi]|ndo|nte|mento|to|ti|re|\\b)", "(?<!xg>)(Stord)(endo|isce|ito|iti|imento|ire|iscono|irai)",
 			
 			// Percezione
-			"(?<!xg>)(Profondo)", "(?<!xg>)(Consapevole)", "(?<!xg>)(Intuitivo)",
-			"(?<!xg>)(Distratto)(\\b)", "(?<!xg>)(Spaesa)(to|ti)", "(?<!xg>)(Cecità|Accecato)(\\b)",
+			"(?<!xg>)(Profond[io])", "(?<!xg>)(Consapevol[ie])", "(?<!xg>)(Intuitiv[ioa])",
+			"(?<!xg>)(Distra)(ggono|tti|tto|rre|e)", "(?<!xg>)(Spaesa)(to|ti)", "(?<!xg>)(Cecità|Accecan?[dt]?[io]?|Accecare)(\\b)",
 			
 			
 			// ES
@@ -968,8 +970,8 @@ class Entry {
            
             // siły
             "(?!=inspiracj|przypadłość|przypadłości) (?<!xg>)(moc\\b)", "(?<!xg>)(zawziętoś(ci|ć))", "(?<!xg>)(pobudzeni(e|a))",
-            "(?<!xg>)(wytrącen[aei])( z równowagi)", "(?<!xg>)(oszołomienie)(\\b)", "(?<!xg>)(ogłuszenie)(\\b)",
-           
+            "(?<!xg>)(wytrącen[aei])( z równowagi)", "(?<!xg>)(oszołomieni[ea]?|oszałamia)(jącej|jąc|\\b)", "(?<!xg>)(ogłuszenie)(\\b)",
+
             // percepcji
             "(?<!xg>)(wnikliwość)", "(?<!xg>)(świadomość)", "(?<!xg>)(intuicja)",
             "(?<!xg>)(rozkojarzenie)(\\b)", "(?<!xg>)(dezorientacja)(\\b)", "(?<!xg>)(oślepienie)(\\b)",
@@ -1141,8 +1143,12 @@ class Entry {
 			"(Might Afflictions?)",
 			"(Perception Inspirations?)",
 			"(Perception Afflictions?)",
+			"(Mind Inspirations?)",
+			"(Mind Afflictions?)",
+			"(Body Inspirations?)",
+			"(Body Afflictions?)",
 			
-			// de_patch    // Watch out for false positive  Meta: Geisteswirkungen, Körperwirkungen, Geistesinspiration
+			// de_patch
 			"(Verfassungsinspiration(en)?)",
 			"(Verfassungs-|Verfassungswirkung(en)?)",
 			"(Entschlossenheitsinspiration(en)?)",
@@ -1154,7 +1160,47 @@ class Entry {
 			"(Machtinspiration(en)?)",
 			"(Macht-|Machtwirkung(en)?)", 
 			"(Wahrnehmungsinspiration(en)?)",
-			"(Wahrnehmungs-|Wahrnehmungswirkung(en)?)"
+			"(Wahrnehmungs-|Wahrnehmungswirkung(en)?)",
+			"(Geistesinspiration(en)?)",
+			"(Geisteswirkung(en)?)",
+			"(Körperinspiration(en)?)",
+			"(Körperwirkung(en)?)",
+
+			// fr
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			
+			// it
+			"(Ispirazioni della Costituzione)",
+            "(Alterazion[ei] della Costituzione)",
+            "(Ispirazioni della Risolutezza)",
+            "(Alterazion[ei] della Risolutezza)",
+            "(Ispirazioni della Destrezza)",
+            "(Alterazion[ei] della Destrezza)",
+            "(Ispirazion[ei] dell'Acume)",
+            "(Alterazioni dell'Acume)",
+            "(Ispirazion[ei] d(el|i)? Vigore)",
+            "(Alterazioni del Vigore)",
+            "(Ispirazion[ei] della Percezione)",
+            "(Alterazioni della Percezione)",
+            "(Ispirazion[ei] della Mente)",
+            "(Alterazioni della Mente)",
+            "(Ispirazioni del Corpo)",
+            "(Alterazioni del Corpo)",
 	};
             
             
@@ -1176,41 +1222,45 @@ class Entry {
 	            "<link=\"glossary://GlossaryEntry_Inspirations_Might\"><#ff4800>$1 <sprite=\"Inline\" name=\"attribute_might\" tint=1></color></link>",
 	            "<link=\"glossary://GlossaryEntry_Afflictions_Might\"><#ff4800>$1 <sprite=\"Inline\" name=\"attribute_might\" tint=1></color></link>",
 	            "<link=\"glossary://GlossaryEntry_Inspirations_Perception\"><#ca58ff>$1 <sprite=\"Inline\" name=\"attribute_perception\" tint=1></color></link>",
-	            "<link=\"glossary://GlossaryEntry_Afflictions_Perception\"><#ca58ff>$1 <sprite=\"Inline\" name=\"attribute_perception\" tint=1></color></link>"
+	            "<link=\"glossary://GlossaryEntry_Afflictions_Perception\"><#ca58ff>$1 <sprite=\"Inline\" name=\"attribute_perception\" tint=1></color></link>",
+	            "<link=\"glossary://GlossaryEntry_Mind_Inspiration\">$1</link>",
+	            "<link=\"glossary://GlossaryEntry_Mind_Affliction\">$1</link>",
+	            "<link=\"glossary://GlossaryEntry_Body_Inspiration\">;$1</link>",
+	            "<link=\"glossary://GlossaryEntry_Body_Affliction\">$1</link>"
 		};
 		
 		int i = 0;
 		switch (targetLanguage) {
 			case "en":
-				i = 12 * 0;
+				i = targetWords.length * 0;
 				break;
 			case "de_patch":
-				i = 12 * 1;
+				i = targetWords.length * 1;
 				break;
 			case "fr":
-		//		i = 12 * 2;
+		//		i = targetWords.length * 2;
 				break;
 			case "it":
-		//		i = 12 * 3;
+				i = targetWords.length * 3;
 				break;
 			case "es":
-		//		i = 12 * 4;
+		//		i = targetWords.length * 4;
 				break;
 			case "pt":
-		//		i = 12 * 5;
+		//		i = targetWords.length * 5;
 				break;
 			case "pl":
-		//		i = 12 * 6;
+		//		i = targetWords.length * 6;
 				break;
 			case "ru":
-		//		i = 12 * 7;
+		//		i = targetWords.length * 7;
 				break;
 			case "zh":
-		//		i = 12 * 8;
+		//		i = targetWords.length * 8;
 				break;
 		}
 		
-		for(int j = 0; j < 12; j++) {
+		for(int j = 0; j < targetWords.length; j++) {
 			result.DefaultText = result.DefaultText.replaceAll(afflictionsReplacementWords[i + j], targetWords[j]);
 			result.FemaleText = result.FemaleText.replaceAll(afflictionsReplacementWords[i + j], targetWords[j]);
 		}
@@ -1255,14 +1305,14 @@ class Entry {
 			"",
 			"",
 			//it
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
+			"(?<!xg>)(Ustione)(\\b)",
+			"(?<!xg>)(Corrosione)(\\b)",
+			"(?<!xg>)(Impatto)(\\b)",
+			"(?<!xg>)(Congelamento)(\\b)",
+			"(?<!xg>)(Perforazione)(\\b)",
+			"(?<!xg>)(Puro)(\\b)",
+			"(?<!xg>)(Lacerazione)(\\b)",
+			"(?<!xg>)(Folgorazione)(\\b)",
 			//es
 			"",
 			"",
@@ -1294,8 +1344,7 @@ class Entry {
             "(?<!xg>)([eE]lektryczn)(ość|ości|y|e)",
             
 	};
-	
-	
+		
 	public Entry replaceDamageTypeWithIcon(String targetLanguage) {
 		Entry result = new Entry();
 		result.ID = this.ID;
@@ -1316,31 +1365,31 @@ class Entry {
 		int i = 0;
 		switch (targetLanguage) {
 			case "en":
-				i = 8 * 0;
+				i = targetWords.length * 0;
 				break;
 			case "de_patch":
-				i = 8 * 1;
+				i = targetWords.length * 1;
 				break;
 			case "fr":
-		//		i = 8 * 2;
+		//		i = targetWords.length * 2;
 				break;
 			case "it":
-		//		i = 8 * 3;
+				i = targetWords.length * 3;
 				break;
 			case "es":
-		//		i = 8 * 4;
+		//		i = targetWords.length * 4;
 				break;
 			case "pt":
-		//		i = 8 * 5;
+		//		i = targetWords.length * 5;
 				break;
 			case "pl":
-				i = 8 * 6;
+				i = targetWords.length * 6;
 				break;
 			case "ru":
-		//		i = 8 * 7;
+		//		i = targetWords.length * 7;
 				break;
 			case "zh":
-		//		i = 8 * 8;
+		//		i = targetWords.length * 8;
 				break;
 		}
 		
@@ -1364,6 +1413,8 @@ class Entry {
 			"(?<!xg>)(Will|Willpower)",
 			"(?<!xg>)(Penetrate|Penetration)",
 			"(?<!xg>)(AR|Armor Rating)",
+			"(?<!xg>)(Accuracy)",
+			"(?<!xg>)(Health)",
 			
 			// DE 
 			"(?<!xg>)(Tapferkeitsverteidigung|Tapferkeit)", 
@@ -1372,6 +1423,8 @@ class Entry {
 			"(?<!xg>)(Willen?\\b|Willensverteidigung)",
 			"(?<!xg>)(Durchschlag|Durchschlagskraft)",
 			"(?<!xg>)(RW|Rüstungswert)",
+			"(?<!xg>)(Genauigkeit)",
+			"(?<!xg>)(Gesundheit)",
 			
 			//fr
 			"",
@@ -1380,13 +1433,17 @@ class Entry {
 			"",
 			"",
 			"",
+			"",
+			"",
 			//it
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
+			"(?<!xg>)(Tempra)",
+			"(?<!xg>)(Deflessione)",
+			"(?<!xg>)(Riflessi)",
+			"(?<!xg>)(Volontà)",
+			"(?<!xg>)(Penetrazione)",
+			"(?<!xg>)(Soglia di Danno)",
+			"(?<!xg>)(Precisione)",
+			"(?<!xg>)(_____________)",
 			//es
 			"",
 			"",
@@ -1394,7 +1451,11 @@ class Entry {
 			"",
 			"",
 			"",
+			"",
+			"",
 			//pt
+			"",
+			"",
 			"",
 			"",
 			"",
@@ -1409,7 +1470,10 @@ class Entry {
             "(?<!xg>)([wW]ol[ai]|[wW]olą|Siła woli)",
             "(?<!xg>)(Penetruje|Penetracja)",
             "(?<!xg>)(SP|Skuteczność pancerza)",
- 
+            "(?<!xg>)(Celność)",
+			"(?<!xg>)(Zdrowie)",
+
+
 	};
 	
 	public Entry replaceDefenseWithIcon(String targetLanguage) {
@@ -1425,40 +1489,42 @@ class Entry {
 			"<#d591f8><sprite=\"Inline\" name=\"cs_will\" tint=1> $1</color>",
 			"<sprite=\"Inline\" name=\"cs_penetration\" tint=1> $1",
 			"<sprite=\"Inline\" name=\"cs_ar\" tint=1> $1",
+			"<sprite=\"Inline\" name=\"cs_accuracy\" tint=1> $1",
+			"<sprite=\"Inline\" name=\"cs_health\" tint=1> $1",
 		};
 		
 		int i = 0;
 		switch (targetLanguage) {
 			case "en":
-				i = 6 * 0;
+				i = targetWords.length * 0;
 				break;
 			case "de_patch":
-				i = 6 * 1;
+				i = targetWords.length * 1;
 				break;
 			case "fr":
-		//		i = 6 * 2;
+		//		i = targetWords.length * 2;
 				break;
 			case "it":
-		//		i = 6 * 3;
+				i = targetWords.length * 3;
 				break;
 			case "es":
-		//		i = 6 * 4;
+		//		i = targetWords.length * 4;
 				break;
 			case "pt":
-		//		i = 6 * 5;
+		//		i = targetWords.length * 5;
 				break;
 			case "pl":
-				i = 6 * 6;
+				i = targetWords.length * 6;
 				break;
 			case "ru":
-		//		i = 6 * 7;
+		//		i = targetWords.length * 7;
 				break;
 			case "zh":
-		//		i = 6 * 8;
+		//		i = targetWords.length * 8;
 				break;
 		}
 		
-		for(int j = 0; j < 6; j++) {
+		for(int j = 0; j < targetWords.length; j++) {
 			result.DefaultText = result.DefaultText.replaceAll(defenseReplacementWords[i + j], targetWords[j]);
 			result.FemaleText = result.FemaleText.replaceAll(defenseReplacementWords[i + j], targetWords[j]);
 		}
@@ -1468,16 +1534,48 @@ class Entry {
 			return result;
 		}
 	}
+	
+	
+	final static String[] recepiesGroupMarkers = new String[] {
+		// All
+		"gender_male_l",
+		"gender_female_l"
+	};
+	
+	public Entry addRecepieGroups(String englishBase) {
+		Entry result = new Entry();
+		result.ID = this.ID;
+		result.DefaultText = DefaultText;
+		result.FemaleText = FemaleText;
+		
+		String[] targetWords = new String[] {
+			"<space=0.5em><#00bcd4><sprite=\"Inline\" name=\"gender_male_l\" tint=1></color>",
+			"<space=0.5em><#FF9800><sprite=\"Inline\" name=\"gender_female_l\" tint=1></color>",
+		};
+		
+		if(englishBase.contains(recepiesGroupMarkers[0])) {
+			result.DefaultText = result.DefaultText.concat(targetWords[0]);
+		}
+		
+		if(englishBase.contains(recepiesGroupMarkers[1])) {
+			result.DefaultText = result.DefaultText.concat(targetWords[1]);
+		}	
+		
+		return result;
+	}
 
 	public Entry stripMarkup() {
 		this.DefaultText = this.DefaultText.replaceAll("<size=80%>.*?</size>", "");
 		this.DefaultText = this.DefaultText.replaceAll("<(?!\\/?xg).*?>", "");
+		this.DefaultText = this.DefaultText.replaceAll("[¹²³₁₂₃]", "");
 		this.DefaultText = this.DefaultText.replaceAll(" ", " "); // NB Space gegen normales
 		this.DefaultText = this.DefaultText.replaceAll("  ", " "); // 2 space gegen 1
 		this.FemaleText = this.FemaleText.replaceAll("<size=80%>[123]</size>", "");
 		this.FemaleText = this.FemaleText.replaceAll("<(?!\\/?xg).*?>", "");
+		this.DefaultText = this.DefaultText.replaceAll("[¹²³₁₂₃]", "");
 		this.FemaleText = this.FemaleText.replaceAll(" ", " ");
 		this.FemaleText = this.FemaleText.replaceAll("  ", " ");
+		
 		return this;
 	}
 }

@@ -13,6 +13,8 @@ import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
+import java.util.function.BiFunction;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 import javax.swing.JFrame;
@@ -75,21 +77,25 @@ public class Cleanup {
 		// Base files, the handpicked stuff from Spherikal
 		List<Path> convertingBase = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\en\\text")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		
-		cleanup.stripMarkup(convertingBase, jaxbUnmarshaller,marshaller);
+		cleanup.stripMarkup(convertingBase, jaxbUnmarshaller,marshaller, "en_fixed");
 		
 		// Trying to get the same via the regex from the english base
 		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\en_fixed\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		//cleanup.colorupdate(convertingBase, filesInFolder, "en2", jaxbUnmarshaller,marshaller);
+		cleanup.formatText(convertingBase, filesInFolder, "en", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.colorupdate(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller,marshaller);
+		//cleanup.formatText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
+		//cleanup.splitupText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\fr\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		//cleanup.colorupdate(convertingBase, filesInFolder, "fr", jaxbUnmarshaller,marshaller);
 		
 		// It fix von Kilay
 		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\it\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		//cleanup.colorupdate(convertingBase, filesInFolder, "it2", jaxbUnmarshaller,marshaller);
+		//cleanup.stripMarkup(filesInFolder, jaxbUnmarshaller,marshaller, "it_fixed");
+		
+		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\it_fixed\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		//cleanup.formatText(convertingBase, filesInFolder, "it", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\es\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		//cleanup.colorupdate(convertingBase, filesInFolder, "es", jaxbUnmarshaller,marshaller);
@@ -254,7 +260,7 @@ public class Cleanup {
 	
 	
 
-	private void stripMarkup(List<Path> convertingBase, Unmarshaller jaxbUnmarshaller, Marshaller marshaller) throws JAXBException, IOException {
+	private void stripMarkup(List<Path> convertingBase, Unmarshaller jaxbUnmarshaller, Marshaller marshaller, String languageFolder) throws JAXBException, IOException {
 		for (Path colorful : convertingBase) {
 			StringTableFile colorfulTexts = (StringTableFile) jaxbUnmarshaller.unmarshal( colorful.toFile() );
 			StringTableFile outputFile = new StringTableFile();
@@ -269,144 +275,136 @@ public class Cleanup {
 			}
 			
 			// Clean
-			File file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\en_fixed\\text\\game\\" + colorful.getFileName());
-			file.getParentFile().mkdirs();
-			file.createNewFile();
-			Path path = Paths.get(file.getPath());
-			marshaller.marshal(outputFile, file);
-			
-			List<String> lines = Files.readAllLines(path, Charset.forName("UTF-8")); 
-			lines.set(0, lines.get(0).replaceAll("encoding=\"UTF-8\" standalone=\\\"yes\\\"", "encoding=\"utf-8\""));
-			lines.set(1, lines.get(1).replaceAll("xmlns:xs=", "xmlns:xsd="));
-			List<String> modified = lines.stream().map(x -> {return x.replaceAll("    ", "  ").replaceFirst("<DefaultText></DefaultText>", "<DefaultText />").replaceFirst("<FemaleText></FemaleText>", "<FemaleText />");}).collect(Collectors.toList());
-			Files.write(path, modified);
+			File file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\" + languageFolder + "\\text\\game\\" + colorful.getFileName());
+			Path path;
+			List<String> lines;
+			List<String> modified;
+			saveFile(marshaller, outputFile, file);
 		}
 	}
 
-	private void colorupdate(List<Path> convertingBase, List<Path> orginalLanguage, String language, Unmarshaller jaxbUnmarshaller, Marshaller marshaller) throws JAXBException, IOException {
-		for (Path colorful : convertingBase) {
-			for (Path plain : orginalLanguage) {
-				if(colorful.getFileName().equals(plain.getFileName())) {
-					StringTableFile colorfulTexts = (StringTableFile) jaxbUnmarshaller.unmarshal( colorful.toFile() );
-					StringTableFile plainTexts = (StringTableFile) jaxbUnmarshaller.unmarshal( plain.toFile() );
-					StringTableFile outputFile = new StringTableFile();
-					outputFile.setName(plainTexts.getName());
-					outputFile.setNextEntryID(plainTexts.getNextEntryID());
-					outputFile.setEntryCount(plainTexts.getEntryCount());
-					StringTableFile outputFileDamage = new StringTableFile();
-					outputFileDamage.setName(plainTexts.getName());
-					outputFileDamage.setNextEntryID(plainTexts.getNextEntryID());
-					outputFileDamage.setEntryCount(plainTexts.getEntryCount());
-					StringTableFile outputFileCombined = new StringTableFile();
-					outputFileCombined.setName(plainTexts.getName());
-					outputFileCombined.setNextEntryID(plainTexts.getNextEntryID());
-					outputFileCombined.setEntryCount(plainTexts.getEntryCount());
-					
-					for(Entry colorfulEntry : colorfulTexts.getEntries())
-					{
-						for (Entry plainEntry : plainTexts.getEntries()) {
-							if(colorfulEntry.getID() == plainEntry.getID()) {
-								Entry coloredEntry = plainEntry.replaceAfflictionWithColor(language);
-								if(coloredEntry != null) {
-									Entry genericColored = coloredEntry.replaceGenericAfflictionsWithIcon(language);
-									if(genericColored != null)
-										outputFile.getEntries().add(genericColored);
-									else
-										outputFile.getEntries().add(coloredEntry);
-								} else {
-									coloredEntry = plainEntry.replaceGenericAfflictionsWithIcon(language);
-									if(coloredEntry != null)
-										outputFile.getEntries().add(coloredEntry);
-								}
+	
+	public void formatText(List<Path> convertingBase, List<Path> orginalLanguage, String language, Unmarshaller jaxbUnmarshaller, Marshaller marshaller) throws JAXBException, IOException {
+		for(int i = 1; i <= 4; i++) {
+			for (Path colorful : convertingBase) {
+				for (Path plain : orginalLanguage) {
+					if(colorful.getFileName().equals(plain.getFileName())) {
+						StringTableFile colorfulTexts = (StringTableFile) jaxbUnmarshaller.unmarshal( colorful.toFile() );
+						StringTableFile plainTexts = (StringTableFile) jaxbUnmarshaller.unmarshal( plain.toFile() );
+						StringTableFile changedStrings = new StringTableFile();
+						changedStrings.setName(plainTexts.getName());
+						changedStrings.setNextEntryID(plainTexts.getNextEntryID());
+						changedStrings.setEntryCount(plainTexts.getEntryCount());
+						for(Entry colorfulEntry : colorfulTexts.getEntries()) {
+							for (Entry plainEntry : plainTexts.getEntries()) {
+								if(colorfulEntry.getID() == plainEntry.getID()) {
+									Entry formattedEntry = null;
+									if(i == 1 || i == 2 || i == 3) {
+										formattedEntry = formatLevel(language, plainEntry, (x) -> plainEntry.replaceAfflictionWithColor(x), (x,y) -> x.replaceGenericAfflictionsWithIcon(y)); // 1, 2, 3 
+									}
+									if(i == 1 || i == 2 || i == 4) {
+										formattedEntry = formatLevel(language, plainEntry, (x) -> plainEntry.replaceDamageTypeWithIcon(x), (x,y) -> x.replaceDefenseWithIcon(y)); // 1, 2, 4
+									}
+									final Entry formattedEntry2 = formattedEntry;	
+									if(i == 1 || i == 2 || i == 3) {
+										formattedEntry = formatLevel(language, formattedEntry2, (x) -> formattedEntry2.replaceAfflictionWithColor(x), (x,y) -> x.replaceGenericAfflictionsWithIcon(y)); // 1, 2, 3 
+									}
+									if(i == 1) {
+										formattedEntry = formattedEntry.addRecepieGroups(colorfulEntry.getDefaultText()); // 1
+										//formattedEntry = formattedEntry.addReputation(colorfulEntry.getDefaultText()); // 1
+									}
 									
-								Entry damageIconEntry = plainEntry.replaceDamageTypeWithIcon(language);
-								Entry damageDefenseIconEntry;
-								if(damageIconEntry != null) {
-									damageDefenseIconEntry = damageIconEntry.replaceDefenseWithIcon(language);
-									if(damageDefenseIconEntry  != null) {
-										outputFileDamage.getEntries().add(damageDefenseIconEntry);
-									} else {
-										outputFileDamage.getEntries().add(damageIconEntry);
+									if(formattedEntry != null && !formattedEntry.getDefaultText().equals(plainEntry.getDefaultText())) {
+										changedStrings.getEntries().add(formattedEntry);
+									} else if(i == 1) {
+										System.out.println("Unchanged ID: " + plainEntry.getID() + "\n" + plainEntry.getDefaultText());
 									}
-								} else {
-									damageDefenseIconEntry = plainEntry.replaceDefenseWithIcon(language);
-									if(damageDefenseIconEntry != null)
-										outputFileDamage.getEntries().add(damageDefenseIconEntry);
-								}
-								
-								if(coloredEntry != null && (damageIconEntry != null || damageDefenseIconEntry != null)) {
-									Entry booth = coloredEntry.replaceDamageTypeWithIcon(language);
-									if(damageDefenseIconEntry != null) {
-										if(booth != null)
-											booth = booth.replaceDefenseWithIcon(language);
-										else
-											booth = coloredEntry.replaceDefenseWithIcon(language);
-									}
-									outputFileCombined.getEntries().add(booth);
-									if(damageIconEntry != null) {
-									//	System.out.println("Clash \n" + coloredEntry.getDefaultText() + "\n" + damageIconEntry.getDefaultText() + "\n"+ booth.getDefaultText());
-									}
-									if(damageDefenseIconEntry != null) {
-									//	System.out.println("Clash \n" + coloredEntry.getDefaultText() + "\n" + damageDefenseIconEntry.getDefaultText() + "\n"+ booth.getDefaultText());
-									}
-									if(damageIconEntry != null && damageDefenseIconEntry != null) {
-									//	System.out.println("Clash \n" + coloredEntry.getDefaultText() + "\n" + damageIconEntry.getDefaultText() + "\n" + damageDefenseIconEntry.getDefaultText() + "\n"+ booth.getDefaultText());
-									}
-								}
-								
-								if(coloredEntry == null && damageIconEntry == null && damageDefenseIconEntry == null) {
-									System.out.println("Not changed " + colorfulEntry.getID() + "\n" + colorfulEntry.getDefaultText() + "\n" + plainEntry.getDefaultText());
+									
 								}
 							}
 						}
+						File file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface_" + i + "\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
+						saveFile(marshaller, changedStrings, file);				
 					}
-					
-					// Affliction
-					File file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface_inspiration\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
-					file.getParentFile().mkdirs();
-					file.createNewFile();
-					Path path = Paths.get(file.getPath());
-					marshaller.marshal(outputFile, file);
-					
-					List<String> lines = Files.readAllLines(path, Charset.forName("UTF-8")); 
-					lines.set(0, lines.get(0).replaceAll("encoding=\"UTF-8\" standalone=\\\"yes\\\"", "encoding=\"utf-8\""));
-					lines.set(1, lines.get(1).replaceAll("xmlns:xs=", "xmlns:xsd="));
-					List<String> modified = lines.stream().map(x -> {return x.replaceAll("    ", "  ").replaceFirst("<DefaultText></DefaultText>", "<DefaultText />").replaceFirst("<FemaleText></FemaleText>", "<FemaleText />");}).collect(Collectors.toList());
-					Files.write(path, modified);
-					
-					
-					// Damage und Defense
-					file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface_defenses\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
-					file.getParentFile().mkdirs();
-					file.createNewFile();
-					path = Paths.get(file.getPath());
-					marshaller.marshal(outputFileDamage, file);
-					
-					lines = Files.readAllLines(path, Charset.forName("UTF-8")); 
-					lines.set(0, lines.get(0).replaceAll("encoding=\"UTF-8\" standalone=\\\"yes\\\"", "encoding=\"utf-8\""));
-					lines.set(1, lines.get(1).replaceAll("xmlns:xs=", "xmlns:xsd="));
-					modified = lines.stream().map(x -> {return x.replaceAll("    ", "  ").replaceFirst("<DefaultText></DefaultText>", "<DefaultText />").replaceFirst("<FemaleText></FemaleText>", "<FemaleText />");}).collect(Collectors.toList());
-					Files.write(path, modified);
-					
-					
-					// Combined, only clashes
-					file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface_zzz_multiple\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
-					file.getParentFile().mkdirs();
-					file.createNewFile();
-					path = Paths.get(file.getPath());
-					marshaller.marshal(outputFileCombined, file);
-					
-					lines = Files.readAllLines(path, Charset.forName("UTF-8")); 
-					lines.set(0, lines.get(0).replaceAll("encoding=\"UTF-8\" standalone=\\\"yes\\\"", "encoding=\"utf-8\""));
-					lines.set(1, lines.get(1).replaceAll("xmlns:xs=", "xmlns:xsd="));
-					modified = lines.stream().map(x -> {return x.replaceAll("    ", "  ").replaceFirst("<DefaultText></DefaultText>", "<DefaultText />").replaceFirst("<FemaleText></FemaleText>", "<FemaleText />");}).collect(Collectors.toList());
-					Files.write(path, modified);
 				}
 			}
 		}
+	}
+	
+	public void splitupText(List<Path> convertingBase, List<Path> orginalLanguage, String language, Unmarshaller jaxbUnmarshaller, Marshaller marshaller) throws JAXBException, IOException {
+		for(int i = 1; i <= 4; i++) {
+			for (Path colorful : convertingBase) {
+				for (Path plain : orginalLanguage) {
+					if(colorful.getFileName().equals(plain.getFileName())) {
+						StringTableFile colorfulTexts = (StringTableFile) jaxbUnmarshaller.unmarshal( colorful.toFile() );
+						StringTableFile plainTexts = (StringTableFile) jaxbUnmarshaller.unmarshal( plain.toFile() );
+						StringTableFile changedStrings = new StringTableFile();
+						changedStrings.setName(plainTexts.getName());
+						changedStrings.setNextEntryID(plainTexts.getNextEntryID());
+						changedStrings.setEntryCount(plainTexts.getEntryCount());
+						for(Entry colorfulEntry : colorfulTexts.getEntries()) {
+							for (Entry plainEntry : plainTexts.getEntries()) {
+								if(colorfulEntry.getID() == plainEntry.getID()) {
+									Entry formattedEntry = null;
+									if(i == 1 || i == 2 || i == 3) {
+										formattedEntry = plainEntry; // 1, 2, 3 
+									}
+									if(i == 1 || i == 2 || i == 4) {
+										formattedEntry = plainEntry; // 1, 2, 4
+									}
+									final Entry formattedEntry2 = formattedEntry;	
+									if(i == 1 || i == 2 || i == 3) {
+										formattedEntry = plainEntry; // 1, 2, 3 
+									}
+									if(i == 1) {
+										formattedEntry = plainEntry; // 1
+										//formattedEntry = plainEntry // 1
+									}
+									
+									if(formattedEntry != null) {
+										changedStrings.getEntries().add(formattedEntry);
+									}
+									
+								}
+							}
+						}
+						File file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface_" + i + "\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
+						saveFile(marshaller, changedStrings, file);				
+					}
+				}
+			}
+		}
+	}
 
+
+	private Entry formatLevel(String language, Entry plainEntry, Function<String, Entry> firstFunction, BiFunction<Entry, String, Entry> secondFunction) {
+		Entry firstChange = firstFunction.apply(language);
+		Entry secondChange;
+		if(firstChange != null) {
+			secondChange = secondFunction.apply(firstChange, language);
+			return secondChange  != null ? secondChange : firstChange;
+		} else {
+			secondChange = secondFunction.apply(plainEntry, language);
+			if(secondChange != null)
+				return secondChange;
+		}
+		return plainEntry;
+	}
+	
+
+
+	private void saveFile(Marshaller marshaller, StringTableFile outputFile, File file)
+			throws IOException, JAXBException {
+		file.getParentFile().mkdirs();
+		file.createNewFile();
+		Path path = Paths.get(file.getPath());
+		marshaller.marshal(outputFile, file);
 		
-		
+		List<String> lines = Files.readAllLines(path, Charset.forName("UTF-8")); 
+		lines.set(0, lines.get(0).replaceAll("encoding=\"UTF-8\" standalone=\\\"yes\\\"", "encoding=\"utf-8\""));
+		lines.set(1, lines.get(1).replaceAll("xmlns:xs=", "xmlns:xsd="));
+		List<String> modified = lines.stream().map(x -> {return x.replaceAll("    ", "  ").replaceFirst("<DefaultText></DefaultText>", "<DefaultText />").replaceFirst("<FemaleText></FemaleText>", "<FemaleText />");}).collect(Collectors.toList());
+		Files.write(path, modified);
 	}
 
 }
