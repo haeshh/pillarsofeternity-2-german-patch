@@ -515,13 +515,13 @@ Tapferkeit, Reflexe und Wille basieren alle auf Attributspaaren. Macht und Verfa
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Wirkungen sind Gruppen von negativen Auswirkungen, die auf einen Charakter angewendet werden können. Die meisten Wirkungen sind nach Attributen gruppiert. Z.B. Humpelnd und Bewegungsunfähig sind beide Geschicklichkeitswirkungen.
+      <DefaultText>Wirkungen sind Gruppen von negativen Auswirkungen, die auf einen Charakter angewendet werden können. Die meisten Wirkungen sind nach Attributen gruppiert. Z.B. Humpelnd und Bewegungsunfähig sind beide Gewandtheitswirkungen.
 
 Wirkungen auf Attribute können leicht durch eine entsprechende Attribut-Inspiration entgegengewirkt werden, die ebemfalls Immunität gegen Wirkungen dieser Kategorie gewährt. Z.B. kann jedes Geschicklichkeitswirkung durch die Inspirationen Schnell, Flink oder Schwungvoll entfernt werden.
 
 Einige Charaktere sind völlig immun gegen ein oder mehrere Wirkungen. Wenn ein Charakter resistent gegen eine Kategorie von Wirkungen ist, werden eingehende Wirkungen dieses Typs abgeschwächt. Resistenz gewährt vollständige Immunität gegen die schwächsten Wirkungen dieses Attributs.
 
-Z.B. sind Waldelfen resistent gegen Geschicklichkeitswirkungen. Ein Waldelf, der von Effekt Bewegungsunfähig getroffen wird, wird stattdessen nur mit dem Effekt Humpelnd belegt. Wenn dieser Elf von Effekt Humpelnd getroffen würde, hätte das gar keine Auswirkung.</DefaultText>
+Z.B. sind Waldelfen resistent gegen Gewandtheitswirkungen. Ein Waldelf, der von Effekt Bewegungsunfähig getroffen wird, wird stattdessen nur mit dem Effekt Humpelnd belegt. Wenn dieser Elf von Effekt Humpelnd getroffen würde, hätte das gar keine Auswirkung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -555,7 +555,7 @@ Z.B. sind Waldelfen resistent gegen Geschicklichkeitswirkungen. Ein Waldelf, der
 
 Es wird eine Zahl zwischen 1 und 100 generiert und zu der Differenz zwischen Genauigkeit und Verteidigung addiert, um das Ergebnis des Angriffs zu berechnen. Bis 15 = Fehlschlag, 16 – 50 = leichter Treffer, 51-100 = Treffer, ab 100 = Kritischer Treffer. 
 
-In einem ausgeglichenen Angriff-/Verteidigung-Szenario werden die meisten Angriffe Treffer oder leichte Treffer sein. Wenn die Genauigkeit über der Verteidigung liegt, ist die Wahrscheinlichkeit von Kritischen Treffern höher. Wenn die Verteidigung über der Genauigkeit liegt, ist die Wahrscheinlichkeit von Fehlschlägen höher.</DefaultText>
+In einem ausgeglichenen Angriff-/Verteidigung-Szenario werden die meisten Angriffe Treffer oder Leichte Treffer sein. Wenn die Genauigkeit über der Verteidigung liegt, ist die Wahrscheinlichkeit von Kritischen Treffern höher. Wenn die Verteidigung über der Genauigkeit liegt, ist die Wahrscheinlichkeit von Fehlschlägen höher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -976,7 +976,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>Aedyranisches Reich</DefaultText>
+      <DefaultText>Aedyrisches Reich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -991,7 +991,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>Eine koloniale Nation, die von Siedlern aus dem aedyranischen Reich gegründet wurde. Nach einer Reihe von Konflikten mit Aedyr erlangte das Gebiet im Jahr 2672 AI seine Unabhängigkeit. Heute herrscht ein Duc über das Land, der von sieben Grafen gewählt wird, welche seine Grafschaften überwachen.</DefaultText>
+      <DefaultText>Eine koloniale Nation, die von Siedlern aus dem aedyrischen Reich gegründet wurde. Nach einer Reihe von Konflikten mit Aedyr erlangte das Gebiet im Jahr 2672 AI seine Unabhängigkeit. Heute herrscht ein Duc über das Land, der von sieben Grafen gewählt wird, welche seine Grafschaften überwachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1757,7 +1757,7 @@ In der Folklore der Huana wurden Kohopa und Tangaloa schon vor Anbeginn der Zeit
     </Entry>
     <Entry>
       <ID>412</ID>
-      <DefaultText>Groß-Vailia war einst ein weit verbreitetes Imperium mit einer reichen Kultur, dessen Kolonien sich weit südlich und nördlich von Eir Glanfath erstreckten. Aufgrund von Problemen bei den Aedyranischen Expansionsbestrebungen des Imperiums, verbunden mit einem rasanten wirtschaftlichen Niedergang, spalteten sich die Vailianischen Kolonien 2641 AI als Vailianische Republiken, eine Föderation verbündeter Stadtstaaten, vom Imperium ab. 
+      <DefaultText>Groß-Vailia war einst ein weit verbreitetes Imperium mit einer reichen Kultur, dessen Kolonien sich weit südlich und nördlich von Eir Glanfath erstreckten. Aufgrund von Problemen bei den Aedyrischen Expansionsbestrebungen des Imperiums, verbunden mit einem rasanten wirtschaftlichen Niedergang, spalteten sich die Vailianischen Kolonien 2641 AI als Vailianische Republiken, eine Föderation verbündeter Stadtstaaten, vom Imperium ab. 
 
 Im Verlauf des nächsten Jahrhunderts erfolgte der Niedergang von Groß-Vailia zu Alt-Vailia, als mehr und mehr Adlige samt ihrem Gefolge aus dem Imperium flohen. Etliche von ihnen wanderten in das Todesfeuer aus. Ursprünglich versuchten sie, ihren Lebensunterhalt mit Handelsschiffen zu verdienen. Bald jedoch wurden diese Einwanderer zu Piraten, da ihre Handelsrouten zum Erliegen kamen oder von aufstrebenden vailianischen und rauataianischen Kolonien übernommen wurden.</DefaultText>
       <FemaleText />
@@ -2859,7 +2859,7 @@ Legenden zufolge verliesen die Rauatai, aufgrund einer schrecklichen Katastrophe
     </Entry>
     <Entry>
       <ID>655</ID>
-      <DefaultText>Die Bußregentschaft von Readceras ist eine theokratische Nation im Östlichen Abschnitt. Readceras wurde ursprünglich als eine landwirtschaftliche Kolonie von Aedyr gegründet und müht sich seitdem ab, sich selbst als auch seine imperialen Herrin zu versorgen. Während einer Zeit großer Unruhe im Land erschien der Gott Eothas den Menschen dort in Gestalt eines Bauern namens Waidwen. Waidwen, der durch die tief religiöse Bevölkerung zu einem lebenden Heiligen verklärt wurde, führte das Land in einen Krieg mit ihren südlichen Nachbarn im Dyrwald. Der so genannte Krieg des Heiligen war ein brutaler Konflikt, der mit der Zerstörung des Heiligen Waidwen durch eine einzigartige Gerätschaft, die als die Gotteshammer-Bombe bekannt war, endete. Seit dem Ende des Kriegs des Heiligen müht sich Readceras weiterhin ab. In den letzten Jahren haben viele Bauern das Land verlassen und sind ins Todesfeuer-Archipel gezogen, wo sie als Bauern und Arbeiter in den Kolonien der Vailianer und Rauataianer arbeiten.</DefaultText>
+      <DefaultText>Die Bußregentschaft von Readceras ist eine theokratische Nation im Östlichen Abschnitt. Readceras wurde ursprünglich als eine landwirtschaftliche Kolonie von Aedyr gegründet und müht sich seitdem ab, sich selbst als auch seine imperialen Herrin zu versorgen. Während einer Zeit großer Unruhe im Land erschien der Gott Eothas den Menschen dort in Gestalt eines Bauern namens Waidwen. Waidwen, der durch die tief religiöse Bevölkerung zu einem lebenden Heiligen verklärt wurde, führte das Land in einen Krieg mit ihren südlichen Nachbarn im Dyrwald. Der sogenannte Krieg des Heiligen war ein brutaler Konflikt, der mit der Zerstörung des Heiligen Waidwen durch eine einzigartige Gerätschaft, die als die Gotteshammer-Bombe bekannt war, endete. Seit dem Ende des Kriegs des Heiligen müht sich Readceras weiterhin ab. In den letzten Jahren haben viele Bauern das Land verlassen und sind ins Todesfeuer-Archipel gezogen, wo sie als Bauern und Arbeiter in den Kolonien der Vailianer und Rauataianer arbeiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2889,7 +2889,7 @@ Legenden zufolge verliesen die Rauatai, aufgrund einer schrecklichen Katastrophe
     </Entry>
     <Entry>
       <ID>661</ID>
-      <DefaultText>Waldelfen verfolgen ihre Anfänge bis weit in den Norden des heutigen Aedyr und sind durch die Wälder des Kontinents in Richtung Süden gewandert. Ein Großteil ihrer Geschichte ist mit dem Weidevolk verbunden und sie werden oft in denselben Gegenden gefunden. Einige Historiker glauben, Waldelfen seien irgendwann nach Eir Glanfath ausgewandert, obwohl aedyranische und glanfathanische Elfen kulturell völlig unterschiedliche Gruppen sind. Man begegnet ihnen nur selten außerhalb von Aedyr und dem Östlichen Abschnitt.</DefaultText>
+      <DefaultText>Waldelfen verfolgen ihre Anfänge bis weit in den Norden des heutigen Aedyr und sind durch die Wälder des Kontinents in Richtung Süden gewandert. Ein Großteil ihrer Geschichte ist mit dem Weidevolk verbunden und sie werden oft in denselben Gegenden gefunden. Einige Historiker glauben, Waldelfen seien irgendwann nach Eir Glanfath ausgewandert, obwohl aedyrische und glanfathanische Elfen kulturell völlig unterschiedliche Gruppen sind. Man begegnet ihnen nur selten außerhalb von Aedyr und dem Östlichen Abschnitt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2959,7 +2959,7 @@ Legenden zufolge verliesen die Rauatai, aufgrund einer schrecklichen Katastrophe
     </Entry>
     <Entry>
       <ID>675</ID>
-      <DefaultText>Xotis Mutter stammt vom Savannenvolk aus den Ixamitl-Ebenen ab und ihr Vater zählt zum Weidevolk, das von aedyranischen Kolonisten in Readceras abstammt.</DefaultText>
+      <DefaultText>Xotis Mutter stammt vom Savannenvolk aus den Ixamitl-Ebenen ab und ihr Vater zählt zum Weidevolk, das von aedyrischen Kolonisten in Readceras abstammt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3406,7 +3406,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>764</ID>
-      <DefaultText>Haemnegs sind zeremonielle Hochzeiten zwischen Menschen und Elfen im Aedyranischen Reich. Die meisten von ihnen gelten der Festigung von Reichtum, Macht oder Allianzen, doch einige sind das Ergebnis von romantischer Liebe oder Sehnsucht.
+      <DefaultText>Haemnegs sind zeremonielle Hochzeiten zwischen Menschen und Elfen im Aedyrischen Reich. Die meisten von ihnen gelten der Festigung von Reichtum, Macht oder Allianzen, doch einige sind das Ergebnis von romantischer Liebe oder Sehnsucht.
 
 Die bekannteste Haemneg ist die traditionelle Vereinigung des menschlichen Ferscönyng und der elfischen Mecwyn.</DefaultText>
       <FemaleText />
@@ -4234,7 +4234,7 @@ Gaun ist ein Beantworter allen Unrechts und aller Ungleichheiten. Dies hat nicht
     </Entry>
     <Entry>
       <ID>927</ID>
-      <DefaultText>Ein Thayn oder Thaynu ist ein niederer Adliger, der im Allgemeinen unter einem Erl oder Erlu dient. Der Titel ist aedyranischen Ursprungs.</DefaultText>
+      <DefaultText>Ein Thayn oder Thaynu ist ein niederer Adliger, der im Allgemeinen unter einem Erl oder Erlu dient. Der Titel ist aedyrischen Ursprungs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4501,7 +4501,7 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     </Entry>
     <Entry>
       <ID>981</ID>
-      <DefaultText>Aedyraner</DefaultText>
+      <DefaultText>Aedyrer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

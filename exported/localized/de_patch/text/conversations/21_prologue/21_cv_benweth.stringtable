@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\21_prologue\21_cv_benweth</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>33</EntryCount>
+  <EntryCount>34</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -175,6 +175,11 @@ Dann hört er abrupt auf und sein Gesicht wird zu einer Maske des Zorns.</Defaul
     <Entry>
       <ID>46</ID>
       <DefaultText>„Wer sagt, dass ich gewöhnlich bin? Du hast die Ehre, vom vierthöchstrangigen Piraten der Príncipi geentert zu werden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

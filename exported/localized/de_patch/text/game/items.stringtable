@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2833</EntryCount>
+  <EntryCount>2825</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -201,12 +201,12 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Kettenrüstungen sind aufgrund ihrer Schutzwirkung vor allem gegen Hiebe ziemlich beliebt. Sie bestehen aus Tausenden kleiner Stahlringe, die zusammen ein flexibles Geflecht bilden. Kettenrüstungen, die normalerweise über Gambesonen getragen werden,. schützen ihren Träger im Kampf gut, schränken aber seine Bewegungen ein.</DefaultText>
+      <DefaultText>Kettenrüstungen sind aufgrund ihrer Schutzwirkung vor allem gegen Hiebe ziemlich beliebt. Sie bestehen aus Tausenden kleiner Stahlringe, die zusammen ein flexibles Geflecht bilden. Kettenrüstungen, die normalerweise über einem Gambeson getragen werden, schützen ihren Träger im Kampf gut, schränken aber seine Bewegungen ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Trotz ihres unscheinbaren Aussehens bietet die Brigandine ihrem Träger beeindruckenden Schutz, was im Kampf allerdings auf Kosten der Bewegungsgeschwindigkeit geht. Sie besteht aus Dutzenden von Stahlplättchen, die zwischen Leinen oder Leder zusammengepresst sind. Diese Plättchen werden von den charakteristischen Nieten auf der Außenseite der Brigantine auf Position gehalten.</DefaultText>
+      <DefaultText>Trotz ihres unscheinbaren Aussehens bietet die Brigandine ihrem Träger beeindruckenden Schutz, was im Kampf allerdings auf Kosten der Bewegungsgeschwindigkeit geht. Sie besteht aus Dutzenden von Stahlplättchen, die zwischen Leinen oder Leder zusammengepresst sind. Diese Plättchen werden von den charakteristischen Nieten auf der Außenseite der Brigantine in Position gehalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -578,7 +578,7 @@ Aloths hübsche, sorgfältige Schönschrift bildet auf den Seiten einen ordentli
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>Zepter sind die am autoritärsten aussehenden magischen Werkzeuge und werden aus diesem Grund oft von aedyranischen Zauberern bevorzugt. Wie Zauberstäbe und Kampfstäbe bieten sie flexible Schadenstypen.</DefaultText>
+      <DefaultText>Zepter sind die am autoritärsten aussehenden magischen Werkzeuge und werden aus diesem Grund oft von aedyrischen Zauberern bevorzugt. Wie Zauberstäbe und Kampfstäbe bieten sie flexible Schadenstypen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1567,7 +1567,7 @@ Da sie besonders unter den Kriegern der Vailianischen Republiken weit verbreitet
     </Entry>
     <Entry>
       <ID>1176</ID>
-      <DefaultText>Ein Zauberbuch ist das Lebensblut des magischen Repertoires eines jeden Zauberers. Diese Bücher werden aus seltenen Materialien sorgfältig und aufwändig gefertigt. Sie können vorübergehend Fragmente freier Seelenessenz lagern, die durch das Buch kanalisiert und in Form eines Zaubers entladen wird.
+      <DefaultText>Ein Zauberbuch ist das Lebensblut des magischen Repertoires eines jeden Zauberers. Diese Bücher werden aus seltenen Materialien sorgfältig und aufwendig gefertigt. Sie können vorübergehend Fragmente freier Seelenessenz lagern, die durch das Buch kanalisiert und in Form eines Zaubers entladen wird.
 
 Unter Laien herrscht der Irrglaube, dass Zauberer die magischen Energien formen, die sie einsetzen. In Wahrheit formen die Seiten des Zauberbuchs die Magie. Die Kunst der Zauberei liegt in der disziplinierten Kontrolle und Manipulation des Zauberbuchs. Die fähigsten Zauberer können ihren Büchern Zauber von höchster Wirksamkeit und Stärke entlocken.
 
@@ -1841,7 +1841,7 @@ Da sie besonders unter den Kriegern der Vailianischen Republiken weit verbreitet
       <ID>1504</ID>
       <DefaultText>Niemand konnte wissen, dass der Mann, der einst einen Teil seines eigenen Landes durch Feuer zerstörte, einmal zum beliebtesten Anführer des Dyrwalds werden würde. Admeth starb als Märtyrer in dem Krieg, den er begonnen hatte, um sein Volk von der Unterdrückung zu befreien. Jeder Dyrwälder kennt und verehrt ihn für seine Taten.
 
-Obwohl es Aufzeichnungen über die Kindheit seines Vaters Edrang gibt – und obwohl er vom Adel des Dyrwalds (als dieser noch zu aedyranischem Gebiet gehörte) großgezogen wurde, sind über Admeths frühe Jahre kaum Informationen zu finden. Aber Admeth ist nicht für seine Kindheit bekannt. Er ist dafür bekannt, den Dyrwald gerettet und mit seinem Erzfeind vereint zu haben – den Glanfathanern.
+Obwohl es Aufzeichnungen über die Kindheit seines Vaters Edrang gibt – und obwohl er vom Adel des Dyrwalds (als dieser noch zu aedyrischem Gebiet gehörte) großgezogen wurde, sind über Admeths frühe Jahre kaum Informationen zu finden. Aber Admeth ist nicht für seine Kindheit bekannt. Er ist dafür bekannt, den Dyrwald gerettet und mit seinem Erzfeind vereint zu haben – den Glanfathanern.
 
 Im Jahr 2652 AI hatten die Schwierigkeiten des Dyrwalds mit seinem Fercönyng ihren Höhepunkt erreicht. Mehrere der Grafen unter Edrangs Herrschaft – angestachelt vom kaiserlichen Hof in Aedyr – plünderten die Ruinen im gesamten Dyrwald, die den Glanfathanern heilig waren. Als die Glanfathaner schließlich Vergeltung übten, taten sie dies mit gewaltiger Brutalität und es kam zu einem Sklavenaufstand. Galven Regd, den Edrang schon einmal bekämpft hatte, übernahm die Führung über die glanfathanischen Truppen. Regd konnte auch einige Delemgan überzeugen, sich dem Kampf anzuschließen.
 
@@ -1854,7 +1854,7 @@ Nach Edrangs Tod im Jahr 2654 wurde Admeth zum Gréf des Dyrwalds, zum Entsetzen
     </Entry>
     <Entry>
       <ID>1506</ID>
-      <DefaultText>Aedyranische Bräuche</DefaultText>
+      <DefaultText>Aedyrische Bräuche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2024,13 +2024,13 @@ Nach Edrangs Tod im Jahr 2654 wurde Admeth zum Gréf des Dyrwalds, zum Entsetzen
     </Entry>
     <Entry>
       <ID>1543</ID>
-      <DefaultText>„Aedyr ist ein Land, das reich an Tradition und Brauchtum ist. Die strikte Einhaltung dieser Traditionen ist einer der Grundpfeiler der aedyranischen Gesellschaft. Das Spektrum der Bräuche reicht dabei von großen Feiern – wie dem Festmahl der Festmahle – bis zu trivialem Aberglauben – wie den Möglichkeiten, eine Svef–Sucht zu vermeiden. Dieser Band beschäftigt sich primär mit größeren Feierlichkeiten, denn niemand weiß rauschende Feste auszurichten wie ein Aedyraner.
+      <DefaultText>„Aedyr ist ein Land, das reich an Tradition und Brauchtum ist. Die strikte Einhaltung dieser Traditionen ist einer der Grundpfeiler der aedyrischen Gesellschaft. Das Spektrum der Bräuche reicht dabei von großen Feiern – wie dem Festmahl der Festmahle – bis zu trivialem Aberglauben – wie den Möglichkeiten, eine Svef–Sucht zu vermeiden. Dieser Band beschäftigt sich primär mit größeren Feierlichkeiten, denn niemand weiß rauschende Feste auszurichten wie ein Aedyrer.
 
 Das Festmahl der Festmahle
 
-Die größte und wichtigste aller aedyranischen Traditionen ist das Festmahl der Festmahle. Dieses Fest wird während der gesamten ersten Woche des Fonestu (Tiefsommers) gefeiert und ist dem Leben des Ersten Fercönyngs gewidmet. Jeder Tag der Woche beschäftigt sich mit einem anderen Aspekt des Lebens des Fercönyngs, und bei jeder Mahlzeit werden spezielle Gerichte serviert.
+Die größte und wichtigste aller aedyrischen Traditionen ist das Festmahl der Festmahle. Dieses Fest wird während der gesamten ersten Woche des Fonestu (Tiefsommers) gefeiert und ist dem Leben des Ersten Fercönyngs gewidmet. Jeder Tag der Woche beschäftigt sich mit einem anderen Aspekt des Lebens des Fercönyngs, und bei jeder Mahlzeit werden spezielle Gerichte serviert.
 
-Das Festmahl der Festmahle hat seinen Ursprung in einer Feier zur Geburt des ersten Sohnes des Fercönyngs und wurde schnell zu einer jährlichen Tradition in der Woche seines Geburtstages. Heute nutzen die Aedyraner es schlicht als Ausrede für ein rauschendes Fest, bei dem sie sich stets bemühen, das Fest des Vorjahres noch zu übertreffen.
+Das Festmahl der Festmahle hat seinen Ursprung in einer Feier zur Geburt des ersten Sohnes des Fercönyngs und wurde schnell zu einer jährlichen Tradition in der Woche seines Geburtstages. Heute nutzen die Aedyrer es schlicht als Ausrede für ein rauschendes Fest, bei dem sie sich stets bemühen, das Fest des Vorjahres noch zu übertreffen.
 
 Und sollte der geneigte Leser sich fragen (wie ich es tat), welcher Fercönyng während des Festmahls der Festmahle geehrt wird – es ist stets der momentan herrschende Fercönyng. Denn jeder Fercönyng ist der Erste und Einzige Fercönyng.
 
@@ -2040,7 +2040,7 @@ Der Brauch des Naschzeugs kam im Laufe der Jahre während des Festmahls der Fest
 
 Karneval der Masken
 
-Als die ersten aedyranischen Kolonisten in das neue Land reisten, um den Dyrwald im Namen des Fercönyngs von Aedyr zu gründen, trafen sie auf das glanfathanische Volk. Der Karneval der Masken wird zu Ehren dieser Begegnung gefeiert. Ursprünglich war er schlicht eine formelle historische Nachstellung – in Form eines Theaterstücks – der Spannungen zwischen den Glanfathanern und den aedyranischen Siedlern. Inzwischen aber hat er sich zu sehr viel mehr entwickelt. Die Teilnehmer wählen eine“ Seite „und verkleiden sich in aufwändigen Kostümen, die deutlich machen, welcher Gruppe sie angehören – den Aedyranern oder den Glanfathanern. Alle nehmen an einem Maskenball teil, der heute das eigentliche Theaterstück längst verdrängt hat. Nur noch das Fest zählt.
+Als die ersten aedyrischen Kolonisten in das neue Land reisten, um den Dyrwald im Namen des Fercönyngs von Aedyr zu gründen, trafen sie auf das glanfathanische Volk. Der Karneval der Masken wird zu Ehren dieser Begegnung gefeiert. Ursprünglich war er schlicht eine formelle historische Nachstellung – in Form eines Theaterstücks – der Spannungen zwischen den Glanfathanern und den aedyrischen Siedlern. Inzwischen aber hat er sich zu sehr viel mehr entwickelt. Die Teilnehmer wählen eine“ Seite „und verkleiden sich in aufwendigen Kostümen, die deutlich machen, welcher Gruppe sie angehören – den Aedyrern oder den Glanfathanern. Alle nehmen an einem Maskenball teil, der heute das eigentliche Theaterstück längst verdrängt hat. Nur noch das Fest zählt.
 
 Wintersend
 
@@ -2051,7 +2051,7 @@ Wintersend war nie etwas anderes als eine willkommene Gelegenheit für ein Fest.
       <ID>1544</ID>
       <DefaultText>„Die Beseelung ist eine ebenso angesehene wie verteufelte Wissenschaft, oft von ein und derselben Person. Trotz all der Forschungen, die auf dem Gebiet angestellt werden und wurden, wissen wir noch sehr wenig. Das Leben selbst kontrollieren! Auf dieses Ziel arbeiten Beseeler seit Jahrhunderten hin. Es gibt keine echten Aufzeichnungen darüber, wie die Beseelung entdeckt wurde, doch nachdem der Funke des Wissens einmal entzündet war, ließen sich die unvermeidlichen Entdeckungen nicht mehr aufhalten.
 
-Im Jahr 2260 AI konnten Beseeler als Ergebnis ihrer aufwändigen Forschungen eine Seele erfolgreich bannen und übertragen. Die Versuchsperson des Experiments war ein unbekannter junger Mann, der zwar wohlhabend war, aber schwer krank. Seine Seele sollte aus seinem sterbenden Körper in den eines kürzlich bei einem Unfall ums Leben gekommenen Mannes übertragen werden. Der neue Körper, der nur geringfügigen Verfall aufwies, sollte der Seele ein Zuhause bieten und dem jungen Mann ein sehr viel besseres Leben bescheren. Das Ergebnis des Experiments führte zur Schmähung und zum Verbot der Beseelung im aedyranischen Reich.
+Im Jahr 2260 AI konnten Beseeler als Ergebnis ihrer aufwendigen Forschungen eine Seele erfolgreich bannen und übertragen. Die Versuchsperson des Experiments war ein unbekannter junger Mann, der zwar wohlhabend war, aber schwer krank. Seine Seele sollte aus seinem sterbenden Körper in den eines kürzlich bei einem Unfall ums Leben gekommenen Mannes übertragen werden. Der neue Körper, der nur geringfügigen Verfall aufwies, sollte der Seele ein Zuhause bieten und dem jungen Mann ein sehr viel besseres Leben bescheren. Das Ergebnis des Experiments führte zur Schmähung und zum Verbot der Beseelung im aedyrischen Reich.
 
 Wir besitzen keine echten Aufzeichnungen darüber, was geschehen ist (sie wurden nach dem Verbot der Beseelung allesamt vernichtet). Es wurde jedoch ein Tagebuch entdeckt, eine Art Geständnis eines Teilnehmers. Es folgen Auszüge aus diesem Tagebuch:
 
@@ -2178,18 +2178,18 @@ Davon ließ Galven Regd sich jedoch nicht aufhalten. Er begann einen Feldzug des
 
 Es dauerte nicht lang, bevor Edrangs Männer Regds Schritte vorhersehen und wieder und wieder vereiteln konnten. Als er gefragt wurde, wie er einen Feind besiegen konnte, der jeden Schritt voraussah, antwortete Edrang: ‚Genau so stand er kurz davor, uns zu überlisten. Unsere Schritte waren vorhersehbar. Jeder konnte die gewöhnlichen Taktiken durchschauen. Wenn man etwas dünn genug ausbreitet, kann man ein Loch hineinstechen. Ich habe einen unvorhersehbaren Feind durch Unvorhersehbarkeit besiegt.
 
-Da Edrang die Pläne von Regd vereiteln konnte, verlief sich der Konflikt schließlich im Sande. Regd sandte eine Botschaft an Edrang, in der er ihm seinen Respekt für seine Taktiken und sein militärisches Geschick aussprach. Dieses politische und militärische Patt führte dazu, dass erstmals zwischen den Glanfathanern und den aedyranischen Kolonisten, die einmal zu den Dyrwäldern werden sollten, Verträge unterzeichnet wurden.</DefaultText>
+Da Edrang die Pläne von Regd vereiteln konnte, verlief sich der Konflikt schließlich im Sande. Regd sandte eine Botschaft an Edrang, in der er ihm seinen Respekt für seine Taktiken und sein militärisches Geschick aussprach. Dieses politische und militärische Patt führte dazu, dass erstmals zwischen den Glanfathanern und den aedyrischen Kolonisten, die einmal zu den Dyrwäldern werden sollten, Verträge unterzeichnet wurden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1550</ID>
-      <DefaultText>„Die Geschichte von Eir Glanfath vor der Entdeckung durch die Aedyraner ist schlecht dokumentiert. Die mündlichen Überlieferungen widersprechen sich häufig. Manche berichten von einer fortschrittlichen Zivilisation, die einfach verschwand, ihr gesamtes Wissen mitnahm und nur ihre Ruinen zurückließ. Andere sagen, die Glanfathaner selbst hätten solche Macht und Technologie entwickelt, dass sie sich beinahe selbst zerstört hätten, weshalb sie niemandem Zugang zu den Ruinen auf ihrem Land gewähren. Wie dem auch sei, verlässliche Informationen über das Gebiet Eir Glanfath gibt es erst, seit aedyranische Entdecker es im Jahr 2602 AI entdeckten.
+      <DefaultText>„Die Geschichte von Eir Glanfath vor der Entdeckung durch die Aedyrer ist schlecht dokumentiert. Die mündlichen Überlieferungen widersprechen sich häufig. Manche berichten von einer fortschrittlichen Zivilisation, die einfach verschwand, ihr gesamtes Wissen mitnahm und nur ihre Ruinen zurückließ. Andere sagen, die Glanfathaner selbst hätten solche Macht und Technologie entwickelt, dass sie sich beinahe selbst zerstört hätten, weshalb sie niemandem Zugang zu den Ruinen auf ihrem Land gewähren. Wie dem auch sei, verlässliche Informationen über das Gebiet Eir Glanfath gibt es erst, seit aedyrische Entdecker es im Jahr 2602 AI entdeckten.
 
-Die Glanfathaner waren zuvor nicht an Begegnungen mit Fremden gewöhnt, und betrachteten das Eindringen in ihr Land daher als eine Art Prüfung. Die Ruinen, die das Land bedeckten, galten als heilig, und diese Fremden plünderten sie trotz zahlreicher Warnungen und stahlen Artefakte. Glanfathaner, die sich zur Wehr setzten, wurden gefangen genommen und versklavt, sie wurden zum Eigentum der neuen Kolonisten. Ihr Volk, ihr Vermächtnis und ihr Land standen auf dem Spiel. Die Glanfathaner schlugen zurück, in der Hoffnung, die Eindringlinge dauerhaft aus ihrem Land zu vertreiben. Doch trotz ihrer Bemühungen kamen immer mehr aedyranische Invasoren. Als das Jahr 2623 AI heranbrach, hatten die Aedyraner Städte gegründet, die Glanfathaner aus einigen Gebieten verdrängt und jeden versklavt, der sich widersetzte. Die Glanfathaner versuchten, in Frieden zu leben und die Aedyraner im Auge zu behalten. Bis auf einige Einzelfälle schien das auch zu funktionieren. Im Jahr 2626 AI kam dieser brüchige Frieden jedoch zu einem blutigen Ende. Eine Gruppe von Bauern wollte Ackerland schaffen, inmitten eines Gebiets, auf dem zahlreiche heilige Ruinen standen. Dabei stießen sie einen der uralten Hinkelsteine um. Ob es ein Versehen war oder absichtlich geschah, ist nicht bekannt. Doch der Vorfall löste einen Konflikt aus, der als Krieg des Zerbrochenen Steins in die Geschichte einging. Der Krieg war kurz, er dauerte weniger als ein Jahr, aber er war blutig und brutal. Mehrere tausend aedyranische Kolonisten starben, genau wie hunderte von Glanfathanern.
+Die Glanfathaner waren zuvor nicht an Begegnungen mit Fremden gewöhnt, und betrachteten das Eindringen in ihr Land daher als eine Art Prüfung. Die Ruinen, die das Land bedeckten, galten als heilig, und diese Fremden plünderten sie trotz zahlreicher Warnungen und stahlen Artefakte. Glanfathaner, die sich zur Wehr setzten, wurden gefangen genommen und versklavt, sie wurden zum Eigentum der neuen Kolonisten. Ihr Volk, ihr Vermächtnis und ihr Land standen auf dem Spiel. Die Glanfathaner schlugen zurück, in der Hoffnung, die Eindringlinge dauerhaft aus ihrem Land zu vertreiben. Doch trotz ihrer Bemühungen kamen immer mehr aedyrische Invasoren. Als das Jahr 2623 AI heranbrach, hatten die Aedyrer Städte gegründet, die Glanfathaner aus einigen Gebieten verdrängt und jeden versklavt, der sich widersetzte. Die Glanfathaner versuchten, in Frieden zu leben und die Aedyrer im Auge zu behalten. Bis auf einige Einzelfälle schien das auch zu funktionieren. Im Jahr 2626 AI kam dieser brüchige Frieden jedoch zu einem blutigen Ende. Eine Gruppe von Bauern wollte Ackerland schaffen, inmitten eines Gebiets, auf dem zahlreiche heilige Ruinen standen. Dabei stießen sie einen der uralten Hinkelsteine um. Ob es ein Versehen war oder absichtlich geschah, ist nicht bekannt. Doch der Vorfall löste einen Konflikt aus, der als Krieg des Zerbrochenen Steins in die Geschichte einging. Der Krieg war kurz, er dauerte weniger als ein Jahr, aber er war blutig und brutal. Mehrere tausend aedyrische Kolonisten starben, genau wie hunderte von Glanfathanern.
 
-Auch, nachdem der Krieg endete, nahmen die Angriffe auf die Aedyraner kein Ende. Ein Orlaner namens Regd wurde als Galven der Glanfathaner auserwählt. Er schwor, jeden Fremden für die Ungerechtigkeiten bezahlen zu lassen, die dem Land seines Volkes angetan worden waren. Er organisierte die glanfathanischen Reißzähne und führte im Verlauf der nächsten zwei Jahre eine Reihe von Angriffen aus. Es schien, als würden Regds Taktiken Erfolg zeigen und die Aedyraner aus Eir Glanfath vertreiben, doch dann begannen sie, sich zu wehren. Sie wurden deutlich organisierter, ihre Taktiken weniger vorhersehbar. Immer weniger von Regds Angriffen waren erfolgreich. Er fand heraus, dass ein neuer Gréf ernannt worden war, Edrang Hadret – jemand, der ähnliches taktisches Geschick besaß wie er selbst. Es entwickelte sich eine Pattsituation, keiner der beiden Anführer konnte mehr einen Vorteil über den anderen erlangen.
+Auch, nachdem der Krieg endete, nahmen die Angriffe auf die Aedyrer kein Ende. Ein Orlaner namens Regd wurde als Galven der Glanfathaner auserwählt. Er schwor, jeden Fremden für die Ungerechtigkeiten bezahlen zu lassen, die dem Land seines Volkes angetan worden waren. Er organisierte die glanfathanischen Reißzähne und führte im Verlauf der nächsten zwei Jahre eine Reihe von Angriffen aus. Es schien, als würden Regds Taktiken Erfolg zeigen und die Aedyrer aus Eir Glanfath vertreiben, doch dann begannen sie, sich zu wehren. Sie wurden deutlich organisierter, ihre Taktiken weniger vorhersehbar. Immer weniger von Regds Angriffen waren erfolgreich. Er fand heraus, dass ein neuer Gréf ernannt worden war, Edrang Hadret – jemand, der ähnliches taktisches Geschick besaß wie er selbst. Es entwickelte sich eine Pattsituation, keiner der beiden Anführer konnte mehr einen Vorteil über den anderen erlangen.
 
-Als Ergebnis des Patts fanden die Feindseligkeiten zwischen den beiden Gruppen ein Ende. Die Feinde unterzeichneten Verträge, um die Gewalt und die Anspannungen beizulegen. Regd trat als Galven zurück und kehrte zu seinem einfachen Leben zurück. Hadret stellte das Plündern der Ruinen von Eir Glanfath unter Strafe. Als Zeichen des guten Willens versuchte Hadret außerdem, die Sklaverei zu verbieten, was jedoch von den anderen Grafen und dem Fercönyng von Aedyr abgelehnt wurde. Es kam daher weiterhin gelegentlich zu gewalttätigen Auseinandersetzungen. Hadrets Verträge führten zu 20 Jahren des relativen Friedens für die Glanfathaner, die den Aedyranern zwar weiterhin misstrauisch gegenüberstanden, aber bereit waren, ihre Anwesenheit zu dulden, wenn es nicht anders ging.“</DefaultText>
+Als Ergebnis des Patts fanden die Feindseligkeiten zwischen den beiden Gruppen ein Ende. Die Feinde unterzeichneten Verträge, um die Gewalt und die Anspannungen beizulegen. Regd trat als Galven zurück und kehrte zu seinem einfachen Leben zurück. Hadret stellte das Plündern der Ruinen von Eir Glanfath unter Strafe. Als Zeichen des guten Willens versuchte Hadret außerdem, die Sklaverei zu verbieten, was jedoch von den anderen Grafen und dem Fercönyng von Aedyr abgelehnt wurde. Es kam daher weiterhin gelegentlich zu gewalttätigen Auseinandersetzungen. Hadrets Verträge führten zu 20 Jahren des relativen Friedens für die Glanfathaner, die den Aedyrern zwar weiterhin misstrauisch gegenüberstanden, aber bereit waren, ihre Anwesenheit zu dulden, wenn es nicht anders ging.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2242,11 +2242,11 @@ Eine weitere gute Frage, die von vielen gestellt wird, bezieht sich auf die Glan
       <ID>1553</ID>
       <DefaultText>„Wenn man in Eir Glanfath den Namen Regd erwähnt, so werden einem Geschichten erzählt von einem glorreichen Freiheitskämpfer – einem Orlaner, der sein taktisches Geschick und seine militärische Ausbildung nutzte, um die Glanfathaner vor den Gräueltaten der Invasoren im Dyrwald zu beschützen. Fragt man im Dyrwald nach ihm, so hört man wütende Berichte über die schändlichen Taten eines hinterhältigen, unehrenhaften Orlaners, der die Bürger des Dyrwalds terrorisiert hat. Aus solchen Konflikten entstehen Legenden, und Galven Regd ist eine solche Legende.
 
-Der Krieg des Zerbrochenen Steins begann durch ein Missverständnis zwischen den Glanfathanern, die im Dyrwald lebten, und den aedyranischen Kolonisten, die sich dort niederließen. Es gab bereits Spannungen zwischen den beiden Gruppen, da die Aedyraner Land für sich beanspruchten, von dem die Glanfathaner sagten, es befände sich bereits in ihrem Besitz. Da zudem noch Glanfathaner von Aedyranern gefangen genommen und versklavt wurden, war es nur eine Frage der Zeit, bis etwas das Fass zum Überlaufen brachte und die zwei Völker gegeneinander Krieg führten. Es gab zwar gelegentliche Scharmützel und Kämpfe zwischen isolierten Gruppen, aber keinen echten Konflikt … bis zum Krieg des Zerbrochenen Steins.
+Der Krieg des Zerbrochenen Steins begann durch ein Missverständnis zwischen den Glanfathanern, die im Dyrwald lebten, und den aedyrischen Kolonisten, die sich dort niederließen. Es gab bereits Spannungen zwischen den beiden Gruppen, da die Aedyrer Land für sich beanspruchten, von dem die Glanfathaner sagten, es befände sich bereits in ihrem Besitz. Da zudem noch Glanfathaner von Aedyrern gefangen genommen und versklavt wurden, war es nur eine Frage der Zeit, bis etwas das Fass zum Überlaufen brachte und die zwei Völker gegeneinander Krieg führten. Es gab zwar gelegentliche Scharmützel und Kämpfe zwischen isolierten Gruppen, aber keinen echten Konflikt … bis zum Krieg des Zerbrochenen Steins.
 
-Ob beabsichtigt oder nicht, aedyranische Bauern, die Ackerland für ihre Feldfrüchte schaffen wollten, warfen einen der uralten Hinkelsteine um, die überall auf dem Land zu finden sind – und er zerbrach. Die Glanfathaner, welche die alten Ruinen im Dyrwald als heilig ansahen, reagierten schnell und gewalttätig, angeführt von einem besonders fanatischen Reißzahn namens Regd. Der Krieg war zwar nur von kurzer Dauer und die Glanfathaner gingen letztlich nicht als Sieger aus ihm hervor, doch Regd und seine Truppen konnten eine beträchtliche Zahl von Kolonisten eliminieren.
+Ob beabsichtigt oder nicht, aedyrische Bauern, die Ackerland für ihre Feldfrüchte schaffen wollten, warfen einen der uralten Hinkelsteine um, die überall auf dem Land zu finden sind – und er zerbrach. Die Glanfathaner, welche die alten Ruinen im Dyrwald als heilig ansahen, reagierten schnell und gewalttätig, angeführt von einem besonders fanatischen Reißzahn namens Regd. Der Krieg war zwar nur von kurzer Dauer und die Glanfathaner gingen letztlich nicht als Sieger aus ihm hervor, doch Regd und seine Truppen konnten eine beträchtliche Zahl von Kolonisten eliminieren.
 
-Nach dem Ende des Krieges wurde Regd zum Galven – oder Anführer – der glanfathanischen Stimme gewählt. Seine Eignung als Anführer und seine Stärke im Kampf hatten ihm den Respekt aller Stämme von Eir Glanfath eingebracht. Da alle Stämme vereint hinter ihm standen, konnte er die Krieger derart organisiert befehligen und koordinieren, dass sie zu einer effektiven Armee wurden, vor deren nächstem Angriff die aedyranischen Kolonisten sich täglich fürchteten. Sein Name und sein Ruf verbreiteten sich unter beiden Völkern. In den zwei Jahren nach dem Krieg des Zerbrochenen Steins tötete Regd mit seinen Truppen durch Täuschung, Fehlinformation und Guerillataktiken Hunderte von Aedyranern. Die verbleibenden Grafen drängten den Fercönyng, etwas zu unternehmen, ehe noch mehr Adlige getötet wurden, doch Regd terrorisierte die Kolonisten weiter – und es schien, als würde sein Feldzug niemals ein Ende nehmen.
+Nach dem Ende des Krieges wurde Regd zum Galven – oder Anführer – der glanfathanischen Stimme gewählt. Seine Eignung als Anführer und seine Stärke im Kampf hatten ihm den Respekt aller Stämme von Eir Glanfath eingebracht. Da alle Stämme vereint hinter ihm standen, konnte er die Krieger derart organisiert befehligen und koordinieren, dass sie zu einer effektiven Armee wurden, vor deren nächstem Angriff die aedyrischen Kolonisten sich täglich fürchteten. Sein Name und sein Ruf verbreiteten sich unter beiden Völkern. In den zwei Jahren nach dem Krieg des Zerbrochenen Steins tötete Regd mit seinen Truppen durch Täuschung, Fehlinformation und Guerillataktiken Hunderte von Aedyrern. Die verbleibenden Grafen drängten den Fercönyng, etwas zu unternehmen, ehe noch mehr Adlige getötet wurden, doch Regd terrorisierte die Kolonisten weiter – und es schien, als würde sein Feldzug niemals ein Ende nehmen.
 
 Bis er auf Edrang Hadret traf.“</DefaultText>
       <FemaleText />
@@ -2261,11 +2261,11 @@ Das Fest der Ahnen findet während des Frühlingserwachens statt und wird zu Ehr
 
 Die Säuberung
 
-Die Säuberung begann als Protest, der das Leid nachstellte, das den Glanfathanern von den aedyranischen Kolonisten zugefügt wurde, als diese begannen, sich im Dyrwald niederzulassen. Mit den Jahren hat die Säuberung sich gewandelt, so dass sie heute eher einem Spiel gleicht, das auch dazu dient, die Glanfathaner die Geschichte ihres Volkes zu lehren. Die Säuberung findet an Neujahr und Mittjahr statt und ist nur mehr eine Metapher für reale Ereignisse, keine Nachstellung der Ereignisse selbst mehr. Xaurip–Bildnisse werden im Wald aufgestellt, hohle Tonhüllen, die mit Süßigkeiten und Geschenken gefüllt sind. Die Kinder suchen im Wald nach den Bildnissen und zerstören sie – sie“ säubern „den Wald, damit die Glanfathaner ihn besetzen können. Nachdem das Gebiet gesäubert wurde, versammelt man sich zu einer Feier und einem Festmahl, bei dem die Ältesten den jüngeren Mitgliedern der Gesellschaft von der wahren Geschichte des Volkes berichten.
+Die Säuberung begann als Protest, der das Leid nachstellte, das den Glanfathanern von den aedyrischen Kolonisten zugefügt wurde, als diese begannen, sich im Dyrwald niederzulassen. Mit den Jahren hat die Säuberung sich gewandelt, so dass sie heute eher einem Spiel gleicht, das auch dazu dient, die Glanfathaner die Geschichte ihres Volkes zu lehren. Die Säuberung findet an Neujahr und Mittjahr statt und ist nur mehr eine Metapher für reale Ereignisse, keine Nachstellung der Ereignisse selbst mehr. Xaurip–Bildnisse werden im Wald aufgestellt, hohle Tonhüllen, die mit Süßigkeiten und Geschenken gefüllt sind. Die Kinder suchen im Wald nach den Bildnissen und zerstören sie – sie“ säubern „den Wald, damit die Glanfathaner ihn besetzen können. Nachdem das Gebiet gesäubert wurde, versammelt man sich zu einer Feier und einem Festmahl, bei dem die Ältesten den jüngeren Mitgliedern der Gesellschaft von der wahren Geschichte des Volkes berichten.
 
 Festtag des Schwarzen Baums
 
-Der Festtag des Schwarzen Baums ist zugleich ein Gedenktag und ein Festmahl. Er findet am zweiten Tag des Herbsteinbruchs statt, wenn die Bäume noch bunt sind, ihre Blätter aber bereits verlieren und das Land kalt und dunkel wird. Die Glanfathaner erzählen an diesem Tag die Geschichte vom Krieg der Schwarzen Bäume und gedenken der Gefallenen. An Morgen hängen die Erwachsenen aufwändige Girlanden an den Ästen der Bäume auf. Die Girlanden bestehen aus roten, orangefarbenen und gelben Blumen. Sie stehen für die Flammen, die durch die Wälder von Eir Glanfath loderten und alles in ihrem Weg zerstörten. Nach einem Morgen des Fastens und der Besinnung dürfen die Kinder durch die Bäume rennen, die Girlanden abreißen und sie zurück zum Festmahl bringen, wo die Tische mit den Wildblumen dekoriert werden, um den Schrecken des Krieges in etwas Schönes zu verwandeln. Dann wird gegessen und es wird der Frieden gefeiert, der nun mit den Dyrwäldern herrscht – und es wird darauf angestoßen, dass er noch viele Jahre halten möge.
+Der Festtag des Schwarzen Baums ist zugleich ein Gedenktag und ein Festmahl. Er findet am zweiten Tag des Herbsteinbruchs statt, wenn die Bäume noch bunt sind, ihre Blätter aber bereits verlieren und das Land kalt und dunkel wird. Die Glanfathaner erzählen an diesem Tag die Geschichte vom Krieg der Schwarzen Bäume und gedenken der Gefallenen. An Morgen hängen die Erwachsenen aufwendige Girlanden an den Ästen der Bäume auf. Die Girlanden bestehen aus roten, orangefarbenen und gelben Blumen. Sie stehen für die Flammen, die durch die Wälder von Eir Glanfath loderten und alles in ihrem Weg zerstörten. Nach einem Morgen des Fastens und der Besinnung dürfen die Kinder durch die Bäume rennen, die Girlanden abreißen und sie zurück zum Festmahl bringen, wo die Tische mit den Wildblumen dekoriert werden, um den Schrecken des Krieges in etwas Schönes zu verwandeln. Dann wird gegessen und es wird der Frieden gefeiert, der nun mit den Dyrwäldern herrscht – und es wird darauf angestoßen, dass er noch viele Jahre halten möge.
 
 Bemerkenswert an der glanfathanischen Kultur ist auch die Vielzahl der Reisebräuche. Als halbnomadisches Volk besitzen die Glanfathaner eine Reihe von Traditionen, die ihre Sicherheit während der Reise gewährleisten sollen.
 
@@ -2326,7 +2326,7 @@ Das ist mein Versprechen. Das ist mein Schwur. Das ist mein Eid.“</DefaultText
       <ID>1556</ID>
       <DefaultText>„Was lässt sich über das Haus Doemenel sagen, was nicht in einem Hinterzimmer im fahlen Schein eines langsam erlöschenden Feuers geflüstert wird, angsterfüllt, die falschen Ohren könnten es hören? Die Geschichte der Doemenels ist farbenfroh und gewalttätig, aufregend und mehr als nur ein klein wenig blutig.
 
-Die Doemenels waren eine kleine aedyranische Familie, die fast ausschließlich mit Textilien handelte. Sie erhielten dadurch ein bescheidenes Einkommen und erarbeiteten sich langsam den Ruf, hochwertige Ware anzubieten. Dieser Ruf brachte ihnen Verbindungen ein – geschäftliche, gesellschaftliche, manchmal eheliche. Durch diese Verbindungen wurden sie zur wichtigsten Familie der Region. Wollte man jemandem vorgestellt werden, so fragte man die Doemenels.
+Die Doemenels waren eine kleine aedyrische Familie, die fast ausschließlich mit Textilien handelte. Sie erhielten dadurch ein bescheidenes Einkommen und erarbeiteten sich langsam den Ruf, hochwertige Ware anzubieten. Dieser Ruf brachte ihnen Verbindungen ein – geschäftliche, gesellschaftliche, manchmal eheliche. Durch diese Verbindungen wurden sie zur wichtigsten Familie der Region. Wollte man jemandem vorgestellt werden, so fragte man die Doemenels.
 
 Bald gab es in jeder Stadt ein Geschäft, das zumindest teilweise den Doemenels gehörte. Ihre Macht und ihr Einfluss wuchsen, bis viele sagten, die Familie habe mehr Macht als der Fercönyng von Aedyr selbst.
 
@@ -2554,22 +2554,22 @@ Ein plötzlicher Frieden überkam mich, spülte meine Furcht fort, ließ meine a
 
 „Fürchte dich nicht“, sprach es zu mir, „denn du bist auserwählt. Du wirst das Licht sein, welches die Wiedergeburt eines Reichs einleitet.“ Das Wesen streckte seine Hand aus und beschenkte mich mit einer Vision von solcher Macht, dass ich sie kaum aufnehmen konnte.
 
-Am nächsten Morgen stolperte Waidwen zerzaust und schmutzig in sein Dorf und berichtete allen, die bereit waren, ihm zuzuhören, von dem Wunder, das sich auf seinen Feldern zugetragen hatte. Eothas selbst sei ihm erschienen! Er habe ihm aufgetragen, den aedyranischen Gouverneur dafür zu bestrafen, dass er sein Volk in das Verderben geführt habe. Es werde ihm ein Weg aufgezeigt werden und die Gläubigen, die ihm halfen, würden gesegnet werden, wenn „die Gottheit sich manifestierte“. Die Dorfbewohner ignorierten ihn. Sie glaubten, der Verlust seiner Eltern habe ihn in den Wahnsinn getrieben.
+Am nächsten Morgen stolperte Waidwen zerzaust und schmutzig in sein Dorf und berichtete allen, die bereit waren, ihm zuzuhören, von dem Wunder, das sich auf seinen Feldern zugetragen hatte. Eothas selbst sei ihm erschienen! Er habe ihm aufgetragen, den aedyrischen Gouverneur dafür zu bestrafen, dass er sein Volk in das Verderben geführt habe. Es werde ihm ein Weg aufgezeigt werden und die Gläubigen, die ihm halfen, würden gesegnet werden, wenn „die Gottheit sich manifestierte“. Die Dorfbewohner ignorierten ihn. Sie glaubten, der Verlust seiner Eltern habe ihn in den Wahnsinn getrieben.
 
 Doch Waidwen predigte weiter von der Macht von Eothas und der Fäulnis des Gouverneurs, was ihm schließlich den Zorn der Dorfbewohner einbrachte. Der Konflikt eskalierte eines Tages im Mittherbst. Eine Menge hatte sich um Waidwen versammelt. Sie verspotteten ihn und sagten ihm, er solle das Dorf verlassen. Die Vorlas–Ernte war schlecht ausgefallen und die Dorfbewohner gaben Waidwen die Schuld daran. Sie sagten, er habe mit seiner Blasphemie die Götter erzürnt, insbesondere Eothas. Sie trieben ihn in eines der welken Felder und schrien, er solle verschwinden. Es gibt unterschiedliche Berichte darüber, was der Auslöser für das war, was nun geschah. Manche sagen, ein Stein sei geworfen worden. Andere, er sei geschubst worden. Wieder andere, er sei schlicht über eine Wurzel gestolpert. Was auch der Auslöser war, Waidwen landete mit dem Gesicht nach unten auf dem Boden. Die Dorfbewohner standen über ihm und lachten.
 
 „Genug!“ donnerte eine Stimme – nicht Waidwens – über das Feld. Waidwen blickte auf die Menge hinauf. In seinen Augen leuchtete ein blendend weißes Licht. Er erhob sich, aber er stand nicht auf. Eben lag er noch auf dem Boden, jetzt stand er plötzlich vor der Menge, die vor ihm kauerte.
 
-„Ihr wagt es, mich zu verleugnen?“, sprach die stimme durch Weidwens Mund. „Ihr wagt es meinen Diener zu lästern?“ Weidwens Arme erhoben sich, begannen zu leuchten. „Ihr fordert einen Beweis?“ Seine Arme streckten sich seitlich aus. „Begehrt nie wieder, dass ihr nicht verbrennt durch das Licht des neuen Tages!“ Lichtblitze sprangen aus Weidwens Augen und Händen, und das gesamte Feld wurde lebendig. Die eben noch verdörrten und brüchigen Pflanzen wurden voll, saftig, und grün.
+„Ihr wagt es, mich zu verleugnen?“, sprach die Stimme durch Waidwens Mund. „Ihr wagt es meinen Diener zu lästern?“ Waidwens Arme erhoben sich, begannen zu leuchten. „Ihr fordert einen Beweis?“ Seine Arme streckten sich seitlich aus. „Begehrt nie wieder, dass ihr nicht verbrennt durch das Licht des neuen Tages!“ Lichtblitze sprangen aus Waidwens Augen und Händen, und das gesamte Feld wurde lebendig. Die eben noch verdörrten und brüchigen Pflanzen wurden voll, saftig, und grün.
 
-Die Menge schwieg. Irgendwo hinten rief jemand „Heil Eothas!“, dann fielen sie alle auf die Knie – vor Weidwen, dem Gott gewordenem Farmer.</DefaultText>
+Die Menge schwieg. Irgendwo hinten rief jemand „Heil Eothas!“, dann fielen sie alle auf die Knie – vor Waidwen, dem Gott gewordenem Farmer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1564</ID>
-      <DefaultText>„Etwa um das Jahr 2200 AI herum vereinigte sich eine Gruppe von Stämmen, genannt das Hirschvolk, zu einer neuen Zivilisation, dem Königreich von Aedyr. Die Stämme waren klein und über das gesamte Land verstreut. Sie wussten, für ihre anhaltende Existenz wäre es besser, sich zusammenzuschließen. Die Anführer jedes Stammes wurden zu Beratern des Königs, der von der Gruppe gewählt wurde. Jeder Berater war weiterhin Fürst seines Volkes, doch jeder Fürst unterstand dem Fercönyng (FER–kö–ning, ‚erster König‘). Diese Entscheidung erwies sich als goldrichtig. Das aedyranische Königreich blühte auf, breitete sich über das Land aus, begründete starke Handelsrouten und war bald als Reich der gerechten – aber klugen – Geschäftsmänner bekannt. Während das Land florierte und es im Inneren kaum Zwietracht gab, gab es aber doch gelegentlich Scharmützel mit dem benachbarten Elfenkönigreich Kulklin.
+      <DefaultText>„Etwa um das Jahr 2200 AI herum vereinigte sich eine Gruppe von Stämmen, genannt das Hirschvolk, zu einer neuen Zivilisation, dem Königreich von Aedyr. Die Stämme waren klein und über das gesamte Land verstreut. Sie wussten, für ihre anhaltende Existenz wäre es besser, sich zusammenzuschließen. Die Anführer jedes Stammes wurden zu Beratern des Königs, der von der Gruppe gewählt wurde. Jeder Berater war weiterhin Fürst seines Volkes, doch jeder Fürst unterstand dem Fercönyng (FER–kö–ning, ‚erster König‘). Diese Entscheidung erwies sich als goldrichtig. Das aedyrische Königreich blühte auf, breitete sich über das Land aus, begründete starke Handelsrouten und war bald als Reich der gerechten – aber klugen – Geschäftsmänner bekannt. Während das Land florierte und es im Inneren kaum Zwietracht gab, gab es aber doch gelegentlich Scharmützel mit dem benachbarten Elfenkönigreich Kulklin.
 
-Nicht lang, nachdem das Königreich gegründet worden war, begann das aedyranische Volk mit dem Studium der Beseelung. Diese Wissenschaft war damals noch weitgehend unbekannt. Sie war eine aufregende, aber auch beängstigende neue Welt, in der die aedyranischen Gelehrten großes Potenzial sahen. Dieses Potenzial trug im Jahr 2260 AI Früchte, als eine Gruppe von Beseelern die Seele eines kürzlich verstorbenen Mannes in einen anderen Körper übertrug – und damit die erste der Kreaturen schuf, die man später“ Untote „nennen sollte. Die Reaktion auf diese Entdeckung war rasch und entschlossen. Sowohl der König von Aedyr als auch die Kirche von Woedica verurteilten dieses Ereignis und das Studium und die Praxis der Beseelung wurden verboten. Sie wurde auf aedyranischem Boden nie wieder offen praktiziert.
+Nicht lang, nachdem das Königreich gegründet worden war, begann das aedyrische Volk mit dem Studium der Beseelung. Diese Wissenschaft war damals noch weitgehend unbekannt. Sie war eine aufregende, aber auch beängstigende neue Welt, in der die aedyrischen Gelehrten großes Potenzial sahen. Dieses Potenzial trug im Jahr 2260 AI Früchte, als eine Gruppe von Beseelern die Seele eines kürzlich verstorbenen Mannes in einen anderen Körper übertrug – und damit die erste der Kreaturen schuf, die man später“ Untote „nennen sollte. Die Reaktion auf diese Entdeckung war rasch und entschlossen. Sowohl der König von Aedyr als auch die Kirche von Woedica verurteilten dieses Ereignis und das Studium und die Praxis der Beseelung wurden verboten. Sie wurde auf aedyrischem Boden nie wieder offen praktiziert.
 
 Die Konflikte mit Kulklin setzten sich fort und gipfelten im Jahr 2398 AI in einem kleinen Krieg. Nach dem Krieg wurde ein Vertrag unterzeichnet und das Königreich Aedyr verschmolz mit Kulklin zum Kaiserreich Aedyr. Da die politische und militärische Zwietracht beendet war, wurde das Reich Aedyr zu einer wirtschaftlichen Macht. Das Reich konnte Ressourcen beschaffen, die in anderen Teilen der Welt schwer zu bekommen waren. Seine Handelsrouten wurden zu den lukrativsten der Welt.“</DefaultText>
       <FemaleText />
@@ -2599,9 +2599,9 @@ In jüngsten Jahren ist der Aspekt des „Schmelztiegels“ etwas in den Hinterg
       <ID>1566</ID>
       <DefaultText>Anni Iroccio: Neujahr
 
-Der iroccianische Kalender ist zwar erst 150 Jahre alt (und noch dazu vailianischen Ursprungs), wird aber dennoch fast im gesamten Dyrwald und in den umliegenden Gegenden verwendet. Der Dyrwald verwendete bis vor kurzem den aedyranischen Kalender, gab ihn jedoch zugunsten des iroccianischen Kalenders auf. Der Wechsel verlief reibungslos und es gab kaum Widerstände, da der aedyranische Kalender hoffnungslos ungenau war.
+Der iroccianische Kalender ist zwar erst 150 Jahre alt (und noch dazu vailianischen Ursprungs), wird aber dennoch fast im gesamten Dyrwald und in den umliegenden Gegenden verwendet. Der Dyrwald verwendete bis vor kurzem den aedyrischen Kalender, gab ihn jedoch zugunsten des iroccianischen Kalenders auf. Der Wechsel verlief reibungslos und es gab kaum Widerstände, da der aedyrische Kalender hoffnungslos ungenau war.
 
-Iroccio berechnete, dass der Planet etwa 334 Tage benötigt, um die Sonne zu umkreisen. Er nahm daher die neun Monate des aedyranischen Kalenders und teilte sie in sechzehn Monate von je zwanzig Tagen auf. Jede Jahreszeit besteht aus vier Monaten. Die Länge der Monate spiegelt wider, wie lange Belafa (einer unserer Monde) benötigt, um den Planeten zu umkreisen. Auf jede Jahreszeit folgen drei Tage, die keiner Jahreszeit zugehörig sind, und in denen der Übergang gefeiert wird. Die übrigen zwei Tage des Jahres – Neujahr und Mittjahr – dienen dazu, den Anfang und den Mittelpunkt des Jahres zu feiern.
+Iroccio berechnete, dass der Planet etwa 334 Tage benötigt, um die Sonne zu umkreisen. Er nahm daher die neun Monate des aedyrischen Kalenders und teilte sie in sechzehn Monate von je zwanzig Tagen auf. Jede Jahreszeit besteht aus vier Monaten. Die Länge der Monate spiegelt wider, wie lange Belafa (einer unserer Monde) benötigt, um den Planeten zu umkreisen. Auf jede Jahreszeit folgen drei Tage, die keiner Jahreszeit zugehörig sind, und in denen der Übergang gefeiert wird. Die übrigen zwei Tage des Jahres – Neujahr und Mittjahr – dienen dazu, den Anfang und den Mittelpunkt des Jahres zu feiern.
 
 Um beim Übergang vom alten auf den neuen Kalender Verwirrung zu vermeiden, behielt Iroccio das Jahr bei. Obwohl der Kalender also erst seit 150 Jahren besteht, schreiben wir bereits das Jahr 2823 AI (Anni Iroccio).
 
@@ -2671,9 +2671,9 @@ Die Dutzenden sind keine große Gruppe, doch das machen sie mit ihrer unbedingte
       <ID>1568</ID>
       <DefaultText>„Kein anderes Land hat eine solch wilde und blutige jüngere Geschichte. Von der Kolonie zum Palatinat zur freien Republik – der Dyrwald ist aus einer Feuertaufe als eine mächtige Kraft im Östlichen Abschnitt hervorgegangen.
 
-Die Geschichte des Dyrwalds beginnt im Jahr 2602 AI in Aedyr. Aedyranische Entdecker kehrten von einer Reise über den Ozean zurück und berichteten von den Schätzen, die sie dort gefunden hatten. Sie hatten in den Wäldern und auf den Ebenen nördlich der Bäume, die ideal als Vorlas–Ackerland geeignet wären, unzählige Ruinen entdeckt. Es gab jedoch ein Problem – die Einheimischen waren feindselig, es würde wohl Konflikte geben. Der Fercönyng von Aedyr (FER–kö–ning, ‚erster König‘) wusste, dass diese Gelegenheit genutzt werden musste. Er sandte weitere Entdecker aus, um das Gebiet zu erkunden und zu kartographieren.
+Die Geschichte des Dyrwalds beginnt im Jahr 2602 AI in Aedyr. Aedyrische Entdecker kehrten von einer Reise über den Ozean zurück und berichteten von den Schätzen, die sie dort gefunden hatten. Sie hatten in den Wäldern und auf den Ebenen nördlich der Bäume, die ideal als Vorlas–Ackerland geeignet wären, unzählige Ruinen entdeckt. Es gab jedoch ein Problem – die Einheimischen waren feindselig, es würde wohl Konflikte geben. Der Fercönyng von Aedyr (FER–kö–ning, ‚erster König‘) wusste, dass diese Gelegenheit genutzt werden musste. Er sandte weitere Entdecker aus, um das Gebiet zu erkunden und zu kartographieren.
 
-Die Erkundung dauerte zwanzig Jahre. Kleine Gruppen von Entdeckern reisten zwischen Aedyr und dieser neuen Welt hin und her. Eine Handvoll Kolonisten errichtete kleine Lager, um eine Basis für die Expeditionen zu schaffen. Konflikte mit den Einheimischen – den Glanfathanern, wie die Aedyraner inzwischen erfahren hatten – waren rar, aber dennoch häufig genug, dass der Fercönyng einen kleinen Wachtrupp schickte, um seine Bürger zu beschützen. Diese Wachen errichteten eine zentrale Basis an einem Fluss im westlichen Teil des Waldes. Aus dieser Siedlung entstand schließlich die Stadt Dyrfurt (auf deren Ruinen die heutige Stadt desselben Namens errichtet wurde). Nachdem diese Basis errichtet war, entstanden die ersten dauerhaften aedyranischen Siedlungen nördlich und westlich des Flusses Bael. In den nächsten drei Jahren übersiedelten tausende von Aedyranern in dieses neue Land. Die Glanfathaner, welche die im Wald verteilten Ruinen zu verehren schienen, machten den Siedlungen einige Probleme – insbesondere jenen, die in der Nähe der Ruinen gegründet wurden. Die Kolonisten konnten diese Probleme mit Hilfe der kaiserlichen Wache jedoch mühelos beseitigen. Um ihren Einfluss in dem Gebiet zu festigen und die glanfathanische Bevölkerung unter Kontrolle zu halten, begannen die Aedyraner, alle Glanfathaner zu versklaven, die während der Aufstände gefangen genommen wurden. Das führte zu einem deutlichen Anstieg der Spannungen zwischen den beiden Gruppen.
+Die Erkundung dauerte zwanzig Jahre. Kleine Gruppen von Entdeckern reisten zwischen Aedyr und dieser neuen Welt hin und her. Eine Handvoll Kolonisten errichtete kleine Lager, um eine Basis für die Expeditionen zu schaffen. Konflikte mit den Einheimischen – den Glanfathanern, wie die Aedyrer inzwischen erfahren hatten – waren rar, aber dennoch häufig genug, dass der Fercönyng einen kleinen Wachtrupp schickte, um seine Bürger zu beschützen. Diese Wachen errichteten eine zentrale Basis an einem Fluss im westlichen Teil des Waldes. Aus dieser Siedlung entstand schließlich die Stadt Dyrfurt (auf deren Ruinen die heutige Stadt desselben Namens errichtet wurde). Nachdem diese Basis errichtet war, entstanden die ersten dauerhaften aedyrischen Siedlungen nördlich und westlich des Flusses Bael. In den nächsten drei Jahren übersiedelten tausende von Aedyrern in dieses neue Land. Die Glanfathaner, welche die im Wald verteilten Ruinen zu verehren schienen, machten den Siedlungen einige Probleme – insbesondere jenen, die in der Nähe der Ruinen gegründet wurden. Die Kolonisten konnten diese Probleme mit Hilfe der kaiserlichen Wache jedoch mühelos beseitigen. Um ihren Einfluss in dem Gebiet zu festigen und die glanfathanische Bevölkerung unter Kontrolle zu halten, begannen die Aedyrer, alle Glanfathaner zu versklaven, die während der Aufstände gefangen genommen wurden. Das führte zu einem deutlichen Anstieg der Spannungen zwischen den beiden Gruppen.
 
 Als die Bevölkerung in der Gegend immer größer wird, etabliert der Fercönyng eine offizielle Regierungsstruktur. Er ernennt mehrere Grafen, die über das Land herrschen sollen, unterstützt von Thayns. Sie nennen das neue Gréfram den Dyrwald. Dyrfurt bleibt zwar das Zentrum der kaiserlichen Wache, doch die Siedlung im Perlholzgolf, Neu-Dunryd, ist der wahre Machtsitz der Gegend. Das Land liegt am Rand des Ozeans, besitzt Wälder, fruchtbaren Ackerboden und einen Fluss, der von der Küste bis in die Weißmark verläuft. Die Siedler kamen in Scharen, in der Hoffnung, sich einen Namen zu machen. Aedyr begann, sich in dem neuen Land auszubreiten.“</DefaultText>
       <FemaleText />
@@ -2682,7 +2682,7 @@ Als die Bevölkerung in der Gegend immer größer wird, etabliert der Fercönyng
       <ID>1569</ID>
       <DefaultText>Wie ich bereits sagte, weiß die Welt im Allgemeinen nur wenig über diese Gruppe, da diese keine Außenseiter aufnimmt. Viele halten sie für fremdenfeindlich und offen feindselig gegenüber allen, die nach Eir Glanfath kommen. Doch die Wahrheit ist nicht so allumfassend und tödlich – und gewiss nicht so einfach.
 
-Es gibt viele Orte in Eir Glanfath, die für die Glanfathaner „magisch“ oder „heilig“ sind. Einer Legende nach verließen die Engwithaner urplötzlich ihr Königreich und brachen zu einem unbekannten Ort auf – nicht aber, ohne vorher die uralten glanfathanischen Stämme in das nun unbewohnte Land zu führen. Die Glanfathaner erhielten das fruchtbare Land als neue Heimat, doch im Gegenzug mussten sie einen Eid leisten. Die Glanfathaner erhielten den Auftrag, die engwithanischen Ruinen zu beschützen, bis die Engwithaner zurückkehren konnten. Sie mussten schwören, dass keine lebende Person, auch die Glanfathaner selbst nicht, Zugang zu den Ruinen erhalten würde. Anderen Berichten zufolge wurde den Glanfathanern mehr versprochen als nur eine Heimat – die Engwithaner sollen demnach die Gunst der Götter genossen haben und den Glanfathanern würde diese Ehre schließlich auch zuteil werden, wenn sie ihren Eid ehrten.
+Es gibt viele Orte in Eir Glanfath, die für die Glanfathaner „magisch“ oder „heilig“ sind. Einer Legende nach verließen die Engwithaner urplötzlich ihr Königreich und brachen zu einem unbekannten Ort auf – nicht aber, ohne vorher die uralten glanfathanischen Stämme in das nun unbewohnte Land zu führen. Die Glanfathaner erhielten das fruchtbare Land als neue Heimat, doch im Gegenzug mussten sie einen Eid leisten. Die Glanfathaner erhielten den Auftrag, die engwithanischen Ruinen zu beschützen, bis die Engwithaner zurückkehren konnten. Sie mussten schwören, dass keine lebende Person, auch die Glanfathaner selbst nicht, Zugang zu den Ruinen erhalten würde. Anderen Berichten zufolge wurde den Glanfathanern mehr versprochen als nur eine Heimat – die Engwithaner sollen demnach die Gunst der Götter genossen haben und den Glanfathanern würde diese Ehre schließlich auch zuteilwerden, wenn sie ihren Eid ehrten.
 
 Seltsamerweise scheinen die Regeln innerhalb der Grenzen von Zwillingsulmen nicht so streng zu gelten, einer Siedlung, die auf einer großen Konzentration engwithanischer Gebäude errichtet wurde. Dies scheint aber wohl kein selektives Versehen der Glanfathaner zu sein, sondern Teil der ursprünglichen Abmachung.
 
@@ -2794,7 +2794,7 @@ Sie verblasst, an ihrer statt erscheint das Gesicht des Teufels, der mich verfol
 
 Ich schließe die Augen.
 
-„Ich komme“</DefaultText>
+„Ich komme.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3054,7 +3054,7 @@ Schließlich hatte Admeth genug. Er überzeugte sieben der neun Grafen, sich ihm
     </Entry>
     <Entry>
       <ID>1593</ID>
-      <DefaultText>„Im Jahr 2602 AI kehrten aedyranische Entdecker von jenseits des Ozeans zurück. Sie berichteten, dass sie dort Ruinen und Schätze vorgefunden hätten – und weitläufige Felder, die wie geschaffen für den Vorlas–Anbau waren. Die Entdecker warnten den Fercönyng, dass die Einheimischen Fremden gegenüber nicht freundlich gesinnt seien. Doch der Fercönyng sah nur die Gelegenheit, sein Reich zu vergrößern und Handel mit einem neuen Kontinent zu etablieren. Er sandte weitere Entdecker aus. In den nächsten zwanzig Jahren wurde das Gebiet, das später der Dyrwald wurde, erforscht, kartographiert und besiedelt. Im Jahr 2623 AI wurden die ersten dauerhaften aedyranischen Kolonialsiedlungen gegründet.
+      <DefaultText>„Im Jahr 2602 AI kehrten aedyrische Entdecker von jenseits des Ozeans zurück. Sie berichteten, dass sie dort Ruinen und Schätze vorgefunden hätten – und weitläufige Felder, die wie geschaffen für den Vorlas–Anbau waren. Die Entdecker warnten den Fercönyng, dass die Einheimischen Fremden gegenüber nicht freundlich gesinnt seien. Doch der Fercönyng sah nur die Gelegenheit, sein Reich zu vergrößern und Handel mit einem neuen Kontinent zu etablieren. Er sandte weitere Entdecker aus. In den nächsten zwanzig Jahren wurde das Gebiet, das später der Dyrwald wurde, erforscht, kartographiert und besiedelt. Im Jahr 2623 AI wurden die ersten dauerhaften aedyrischen Kolonialsiedlungen gegründet.
 
 Vorlas–Felder wurden nördlich der Wälder des Dyrwalds angelegt, doch durch die Konflikte mit den Glanfathanern und den Krieg des Zerbrochenen Steins konnte die Kolonie nicht aufblühen. Erst 2643 AI bot sich eine neue Gelegenheit. Einige eothasianische Pilger, die der Verfolgung entgehen wollten, gründeten Siedlungen und Vorlas–Höfe im Gebiet von Readceras. Da Groß–Vailia vor dem Zusammenbruch stand, wollte der Fercönyng die Kontrolle über den Handel mit violetten Färbemitteln an sich reißen. Er förderte die Besiedlung und bezahlte sogar dafür, dass die Pilger sich in der neuen Welt niederlassen konnten.
 
@@ -3074,11 +3074,11 @@ Der Gréf aber nutzte Mittel, die ihm seine glanfathanischen Verbündeten bereit
     </Entry>
     <Entry>
       <ID>1595</ID>
-      <DefaultText>„Im Jahr 2652 AI begann alles zu zerfallen. Es wurde entdeckt, dass mehrere Ruinen geplündert worden waren. Alle Zeichen deuteten darauf hin, dass die Aedyraner den Vertrag gebrochen hatten. Die Glanfathaner hielten sich so lange sie nur konnten mit einem Urteil zurück, doch als die Beweise schließlich erdrückend wurden, schlugen sie mit all ihrer Macht zurück. Regd nahm wieder die Rolle des Anführers an und führte sein Volk in den Kampf gegen die Aedyraner. Anstatt wieder mit Edrang Hadret zu ringen, kreuzte Regd diesmal aber die Schwerter mit Edrangs Sohn Admeth Hadret. Admeth erwies sich also ebenso fähig – oder fähiger – wie sein Vater und setzte eine Taktik ein, mit der kein Glanfathaner gerechnet hatte. Um das Schlachtfeld zu räumen und dafür zu sorgen, dass der Feind sich nirgendwo verstecken konnte, ließ Admeth den gesamten Wald beim Fluss Isce Uar in Brand setzen und versperrte allen fliehenden Truppen mit seiner Armee den Weg. Einige überlebten das Gemetzel zwar, doch der Großteil der glanfathanischen Truppen kam um. Regd wurde in dem Chaos gefangen genommen und nach Neu–Heomar gebracht. Es kam zwar zu vielen weiteren Schlachten (in denen Admeth teilweise dieselbe Taktik einsetzte), doch die glanfathanischen Truppen hatten ihre Führung und ihre Entschlossenheit verloren. Sie wurden mühelos zerschlagen und noch vor Ende desselben Jahres war der Krieg der Schwarzen Bäume (wie er heute genannt wird) beendet.“
+      <DefaultText>„Im Jahr 2652 AI begann alles zu zerfallen. Es wurde entdeckt, dass mehrere Ruinen geplündert worden waren. Alle Zeichen deuteten darauf hin, dass die Aedyrer den Vertrag gebrochen hatten. Die Glanfathaner hielten sich so lange sie nur konnten mit einem Urteil zurück, doch als die Beweise schließlich erdrückend wurden, schlugen sie mit all ihrer Macht zurück. Regd nahm wieder die Rolle des Anführers an und führte sein Volk in den Kampf gegen die Aedyrer. Anstatt wieder mit Edrang Hadret zu ringen, kreuzte Regd diesmal aber die Schwerter mit Edrangs Sohn Admeth Hadret. Admeth erwies sich also ebenso fähig – oder fähiger – wie sein Vater und setzte eine Taktik ein, mit der kein Glanfathaner gerechnet hatte. Um das Schlachtfeld zu räumen und dafür zu sorgen, dass der Feind sich nirgendwo verstecken konnte, ließ Admeth den gesamten Wald beim Fluss Isce Uar in Brand setzen und versperrte allen fliehenden Truppen mit seiner Armee den Weg. Einige überlebten das Gemetzel zwar, doch der Großteil der glanfathanischen Truppen kam um. Regd wurde in dem Chaos gefangen genommen und nach Neu–Heomar gebracht. Es kam zwar zu vielen weiteren Schlachten (in denen Admeth teilweise dieselbe Taktik einsetzte), doch die glanfathanischen Truppen hatten ihre Führung und ihre Entschlossenheit verloren. Sie wurden mühelos zerschlagen und noch vor Ende desselben Jahres war der Krieg der Schwarzen Bäume (wie er heute genannt wird) beendet.“
 
 Um das Verhältnis zwischen den beiden Gruppen zu verbessern, führte Admeth neue Gesetze ein, die das Rauben neuer Sklaven aus Eir Glanfath einschränkten. Die Gesetze gaben Glanfathanern außerdem die Möglichkeit, ihre Verwandten aus der Gefangenschaft freizukaufen. Die Glanfathaner waren zwar nicht vollständig glücklich darüber, ihre Landsleute – die bereits frei gewesen waren – kaufen zu müssen, doch sie betrachteten diese Geste des guten Willens als ebensolche und stellten die Feindseligkeiten wieder ein. Sieben Jahre vergingen, in denen der Dyrwald unter Admeths Herrschaft stand. Die Glanfathaner hatten zum ersten Mal das Gefühl, dass wieder wahrer Frieden in ihr Land zurückkehren könnte. Dieser Frieden führte zu den vermutlich bedeutendsten Friedensverhandlungen, die es zwischen Eir Glanfath und dem Dyrwald je gab. Admeth schuf die Zehnjahresverträge, deren Name sich dadurch erklärt, dass sie zehn Jahre nach dem Ende des Kriegs der Schwarzem Bäume entstanden. Es wurde ein Zeitplan für die Freilassung aller glanfathanischen Sklaven festgelegt. Die Bürger von Eir Glanfath betrachteten den Dyrwald mit einer vorsichtigen Hoffnung. Durch den erweiterten Frieden zwischen den zwei Völkern und durch die neuen Verträge hofften sie, dass der Konflikt tatsächlich überwunden war.
 
-Im Jahr 2665 brachte Galven Medhra, eine Elfenfrau, die das Amt von Regd übernommen hatte, Kunde zu Admeth. Einige Dyrwälder waren ertappt worden, wie sie Artefakte aus einem Grab geraubt hatten. Während der Ermittlungen wurde festgestellt, dass auch weitere Stätten geplündert worden waren. Da es sich um Einzelfälle handelte, die frühzeitig aufgehalten werden konnten, wollte Medhra keinen neuen Krieg beginnen, nachdem so lange Frieden geherrscht hatte. Admeth war dankbar für diese Geste der Höflichkeit und ließ die Verantwortlichen sofort aufspüren. Medhra stellte Admeth ihre Brîshalgwin (‚Verstandsjäger‘) zur Seite, mit deren Hilfe Beweise gefunden wurden, die direkt zum Fercönyng führten. Admeth und Medhra waren nun Verbündete gegen den aedyranischen Fercönyng. Sie nutzten alle Mittel, die ihnen zur Verfügung standen, um zu verhindern, dass die Agenten des Fercönyngs in die Ruinen gelangten.
+Im Jahr 2665 brachte Galven Medhra, eine Elfenfrau, die das Amt von Regd übernommen hatte, Kunde zu Admeth. Einige Dyrwälder waren ertappt worden, wie sie Artefakte aus einem Grab geraubt hatten. Während der Ermittlungen wurde festgestellt, dass auch weitere Stätten geplündert worden waren. Da es sich um Einzelfälle handelte, die frühzeitig aufgehalten werden konnten, wollte Medhra keinen neuen Krieg beginnen, nachdem so lange Frieden geherrscht hatte. Admeth war dankbar für diese Geste der Höflichkeit und ließ die Verantwortlichen sofort aufspüren. Medhra stellte Admeth ihre Brîshalgwin (‚Verstandsjäger‘) zur Seite, mit deren Hilfe Beweise gefunden wurden, die direkt zum Fercönyng führten. Admeth und Medhra waren nun Verbündete gegen den aedyrischen Fercönyng. Sie nutzten alle Mittel, die ihnen zur Verfügung standen, um zu verhindern, dass die Agenten des Fercönyngs in die Ruinen gelangten.
 
 Im Jahr 2668 AI, als Admeth die Unabhängigkeit vom Reich Aedyr verkündete und damit das freie Palatinat des Dyrwalds schuf, standen die Glanfathaner hinter ihm und boten ihm ihre Unterstützung und Truppen an. Der Krieg wirkte sich zwar nicht unmittelbar auf das glanfathanische Volk aus, es gab aber doch Todesopfer. Letztlich erlangten die Dyrwälder ihre Freiheit und die Verbindung zwischen den beiden Völkern wurde durch ihr geteiltes Leid gestärkt. </DefaultText>
       <FemaleText />
@@ -3120,7 +3120,7 @@ Im Jahr 2662 AI, als sich der Krieg der Schwarzen Bäume zum zehnten Mal jährte
 
 Der Fercönyng erkannte, dass er die Kontrolle über sein eigenes Palatinat verloren hatte. Er ersann einen Plan, um den Handel mit antiken Artefakten wieder zu beleben. Er sprach die Grafen an, die unter Admeths Herrschaft litten, und überzeugte sie, Agenten anzuheuern, um die Ruinen zu plündern. Anfänglich taten sie das im Geheimen, doch sie wurden schnell fahrlässig und wurden schließlich geschnappt. Dieser Verstoß gegen die Verträge provozierte die Glanfathaner wieder zu Gewaltakten, während Admeth Nachforschungen anstellte, wer dahinter steckte.
 
-Mit Hilfe der glanfathanischen Anführer fand Admeth Beweise, die zum Fercönyng als Drahtzieher der Plünderungen führten. Das war der Anfang vom Ende der aedyranischen Herrschaft im Dyrwald. In den nächsten sieben Jahren versuchten Admeth und der Fercönyng, durch politische, wirtschaftliche und militärische Manöver einen Vorteil über einander zu erlangen. Im Jahr 2668 AI erklärte Admeth, dass der Dyrwald genug hatte. Er verkündete, dass der Dyrwald die Autorität des Fercönyngs nicht mehr anerkannte, sondern nun ein freies Land sei, das sich selbst regieren würde. Das löste den Widerstandskrieg aus, der fünf Jahre andauerte.
+Mit Hilfe der glanfathanischen Anführer fand Admeth Beweise, die zum Fercönyng als Drahtzieher der Plünderungen führten. Das war der Anfang vom Ende der aedyrischen Herrschaft im Dyrwald. In den nächsten sieben Jahren versuchten Admeth und der Fercönyng, durch politische, wirtschaftliche und militärische Manöver einen Vorteil über einander zu erlangen. Im Jahr 2668 AI erklärte Admeth, dass der Dyrwald genug hatte. Er verkündete, dass der Dyrwald die Autorität des Fercönyngs nicht mehr anerkannte, sondern nun ein freies Land sei, das sich selbst regieren würde. Das löste den Widerstandskrieg aus, der fünf Jahre andauerte.
 
 Das Ergebnis des Kriegs war die Freiheit des Dyrwalds, und auch wenn Duc Hadret vor Kriegsende starb, so gilt er für die Dyrwälder doch als Gründer ihres Landes.“</DefaultText>
       <FemaleText />
@@ -3279,7 +3279,7 @@ MÄNNLICH: Das Urteil ist endgültig. Die Entscheidung ist gefallen. (Er wendet 
     </Entry>
     <Entry>
       <ID>1656</ID>
-      <DefaultText>„Ich hätte nie erwartet, in meinem Leben einmal ein Massaker von solchen Ausmaßen zu sehen. Ich war in meinem Schreibzimmer, um wichtige Dokumente für die Evakuierung einpacken. Ich ahnte nicht, dass die Aedyraner so drastisch vorgehen würden. Es war meine Frau, Ne’iloc, die zuerst hörte, wie die Dämme brachen. Wir stiegen auf das Dach, als das Wasser den Treppenabsatz erreichte. Meine drei Kinder Nathe, Leibelsa und Kyrre hielten wir in den Armen. Das Wasser erreichte unsere Brust. Wir klammerten uns an den gerade erst reparierten Schornstein. So konnten wir verhindern, dass die Fluten uns wegrissen. Andere Familien hatten weniger Glück.
+      <DefaultText>„Ich hätte nie erwartet, in meinem Leben einmal ein Massaker von solchen Ausmaßen zu sehen. Ich war in meinem Schreibzimmer, um wichtige Dokumente für die Evakuierung einpacken. Ich ahnte nicht, dass die Aedyrer so drastisch vorgehen würden. Es war meine Frau, Ne’iloc, die zuerst hörte, wie die Dämme brachen. Wir stiegen auf das Dach, als das Wasser den Treppenabsatz erreichte. Meine drei Kinder Nathe, Leibelsa und Kyrre hielten wir in den Armen. Das Wasser erreichte unsere Brust. Wir klammerten uns an den gerade erst reparierten Schornstein. So konnten wir verhindern, dass die Fluten uns wegrissen. Andere Familien hatten weniger Glück.
 
 Als das Wasser schließlich zurückging, waren die Straßen voller Schutt, Schlamm und stinkender Fische. Der halbe Bezirk war vom Meer verschluckt worden. Leichen schwammen im Wasser, zusammen mit allem, was bei der Evakuierung zurückgelassen worden war. Wir verbrannten die Bürger, die wir fanden. Die armen Seelen haben sonst niemanden, der sich an sie erinnert, daher dokumentiere ich sie hier. Ich weiß nicht, ob sie Angehörige hatten, welche die Flut überlebt haben, aber es ist besser, ihre Namen niederzuschreiben, damit diese grauenhafte Flut sie nicht einfach wegspült … wie so vieles andere.“
 
@@ -3372,7 +3372,7 @@ Retsim Namotatop</DefaultText>
     </Entry>
     <Entry>
       <ID>1700</ID>
-      <DefaultText>Feiner aedyranischer Met</DefaultText>
+      <DefaultText>Feiner aedyrischer Met</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3571,7 +3571,7 @@ Was ist eine Antwort ohne Frage? Letzte Woche glaubte ich, die Lösung sei „Ig
       <ID>1733</ID>
       <DefaultText>Deine Soldaten sind nicht voll bewaffnet, nicht einmal anständig gekleidet, wenn sie nicht zumindest die Grundlagen der glanfathanischen Sprache beherrschen. Wenn deine Späher nicht lauschen können, wenn deine gefangenen Soldaten die Worte ihrer Wachen nicht erkennen, wenn unsere Offiziere nicht auf Friedensangebote antworten können – scheitern wir. Selbst wenige Wörter der Gesichtsbemalten zu kennen kann den Unterschied zwischen Sieg oder Niederlage bedeuten.
 
-Die glanfathanische Schrift ist – wie die aedyranische – eine Abwandlung des alten vailianischen Alphabets, das vor langer Zeit von den Aedyranern über das Meer getragen wurde. Die Glanfathaner veränderten dieses Alphabet etwas, so dass es einige auffällige Unterschiede gibt, welche für Uninformierte verwirrend sein können.
+Die glanfathanische Schrift ist – wie die aedyrische – eine Abwandlung des alten vailianischen Alphabets, das vor langer Zeit von den Aedyrern über das Meer getragen wurde. Die Glanfathaner veränderten dieses Alphabet etwas, so dass es einige auffällige Unterschiede gibt, welche für Uninformierte verwirrend sein können.
 
 A und â ist der Unterschied zwischen „Ball“ und „fahl“.
 E und ê ist der Unterschied zwischen „wenn“ und „wen“.
@@ -3614,22 +3614,22 @@ Weretha – die Gesamtheit unserer Welt (Aussprache „u-retha“ mit stimmlosem
     </Entry>
     <Entry>
       <ID>1734</ID>
-      <DefaultText>Aedyranische Dialekte</DefaultText>
+      <DefaultText>Aedyrische Dialekte</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1735</ID>
-      <DefaultText>Die Sonne über der aedyranischen Sprache geht niemals unter. Wir, die wir diese stolze Sprache oder eine Abwandlung davon sprechen, bevölkern jeden Winkel von Eora.
+      <DefaultText>Die Sonne über der aedyrischen Sprache geht niemals unter. Wir, die wir diese stolze Sprache oder eine Abwandlung davon sprechen, bevölkern jeden Winkel von Eora.
 
-Die meisten von uns, die diese wunderbare Sprache sprechen, kennen sie als Aedyranisch. Gelehrte und penibel auf Korrektheit bedachte Personen aber qualifizieren sie oft als ‚modernes‘ oder ‚zeitgenössisches‘ Aedyranisch. Dies dient als Abgrenzung zum Alt–Aedyranischen – der alten Elfensprache, die im aedyranischen Reich gesprochen wurde, bevor die ersten Siedler des Dyrwalds ihre Langschiffe bauten.
+Die meisten von uns, die diese wunderbare Sprache sprechen, kennen sie als Aedyrisch. Gelehrte und penibel auf Korrektheit bedachte Personen aber qualifizieren sie oft als ‚modernes‘ oder ‚zeitgenössisches‘ Aedyrisch. Dies dient als Abgrenzung zum Alt–Aedyrischen – der alten Elfensprache, die im aedyrischen Reich gesprochen wurde, bevor die ersten Siedler des Dyrwalds ihre Langschiffe bauten.
 
-Wenn Alt–Aedyranisch als die Mutter des lebendigen Aedyranisch gelten könnte, so könnte man die Sprache Hylisch als den Vetter des Aedyranischen betrachten. Hylisch ist immer weniger verbreitet, doch viele Elfen (besonders ältere) im aedyranischen Landesinneren sprechen diesen Dialekt noch.
+Wenn Alt–Aedyrisch als die Mutter des lebendigen Aedyrisch gelten könnte, so könnte man die Sprache Hylisch als den Vetter des Aedyrischen betrachten. Hylisch ist immer weniger verbreitet, doch viele Elfen (besonders ältere) im aedyrischen Landesinneren sprechen diesen Dialekt noch.
 
-Ob es dem Leser bewusst ist oder nicht – wer diese Worte lesen kann, der versteht auch Hylisch. Es ist nahezu identisch mit dem Aedyranischen, besitzt jedoch ein großes Vokabular an archaischen Wörtern, die im heutigen Aedyranisch sehr selten geworden sind. Wenn man Barden lauscht, die alte aedyranische Gedichte vortragen, hört man oft Refrains, die wie melodischer Unsinn klingen – meist sind dies Wörter, die in unserer gemeinsamen Sprache ausgestorben sind, im Hylischen aber noch verwendet werden.
+Ob es dem Leser bewusst ist oder nicht – wer diese Worte lesen kann, der versteht auch Hylisch. Es ist nahezu identisch mit dem Aedyrischen, besitzt jedoch ein großes Vokabular an archaischen Wörtern, die im heutigen Aedyrisch sehr selten geworden sind. Wenn man Barden lauscht, die alte aedyrische Gedichte vortragen, hört man oft Refrains, die wie melodischer Unsinn klingen – meist sind dies Wörter, die in unserer gemeinsamen Sprache ausgestorben sind, im Hylischen aber noch verwendet werden.
 
-Während Hylisch jenen, die das so genannte ‚moderne‘ Aedyranisch sprechen, vertraut ist, gilt das nicht für den Vorläufer unserer Sprache. Alt–Aedyranisch ist eine tote Sprache, von Akademikern gesprochen, aber in keiner größeren Gemeinschaft noch aktiv verwendet. Alt–Aedyranische Wörter sind Aedyranischsprechenden oft vertraut, doch die Wörter verwenden eine veraltete Rechtschreibung voller unbekannter Akzentzeichen.
+Während Hylisch jenen, die das sogenannte ‚moderne‘ Aedyrisch sprechen, vertraut ist, gilt das nicht für den Vorläufer unserer Sprache. Alt–Aedyrisch ist eine tote Sprache, von Akademikern gesprochen, aber in keiner größeren Gemeinschaft noch aktiv verwendet. Alt–Aedyrische Wörter sind Aedyrischsprechenden oft vertraut, doch die Wörter verwenden eine veraltete Rechtschreibung voller unbekannter Akzentzeichen.
 
-Das Alt–Aedyranische verwendet beispielsweise einige Doppellaute, die im modernen Aedyranisch nicht existieren, sowie einige knifflige Konsonantenhäufungen:
+Das Alt–Aedyrische verwendet beispielsweise einige Doppellaute, die im modernen Aedyrisch nicht existieren, sowie einige knifflige Konsonantenhäufungen:
 
 Ea erzeugt einen „eh–ja“–Klang, ähnlich dem Kinderreim „Eia–popeia“.
 Eo klingt wie „eh–jo“ – dieser Klang wird im modernen Wort „Eora“ noch verwendet.
@@ -3640,7 +3640,7 @@ Gj klingt wie „j“ in „Jugend“.
 Sc klingt wie „sch“ – Sciff spricht sich also „Schiff“.
 Cg klingt wie „dsch“ in „Dschungel“.
 
-Die Vornamen von Aedyranern, Dyrwäldern und Readceranern stammen oft aus dem Alt-Aedyranischen. Einige Beispiele:
+Die Vornamen von Aedyrern, Dyrwäldern und Readceranern stammen oft aus dem Alt-Aedyrischen. Einige Beispiele:
 
 Aldwyn wird „ALD-wihn“ gesprochen, wegen des langen Vokalklangs des „y“.
 Durnisc wird „DUR-nisch“ gesprochen, da das „sc“ am Ende wie „sch“ klingt.
@@ -3792,9 +3792,9 @@ Yngmar wird „IING-mar“ gesprochen, mit einem langen Vokallaut zu Beginn.</De
 
 „Anni Iroccio: Neujahr
 
-Der iroccianische Kalender ist zwar erst 150 Jahre alt (und noch dazu vailianischen Ursprungs), wird aber dennoch fast im gesamten Dyrwald und in den umliegenden Gegenden verwendet. Der Dyrwald verwendete bis vor kurzem den aedyranischen Kalender, gab ihn jedoch zugunsten des iroccianischen Kalenders auf. Der Wechsel verlief reibungslos und es gab kaum Widerstände, da der aedyranische Kalender hoffnungslos ungenau war.
+Der iroccianische Kalender ist zwar erst 150 Jahre alt (und noch dazu vailianischen Ursprungs), wird aber dennoch fast im gesamten Dyrwald und in den umliegenden Gegenden verwendet. Der Dyrwald verwendete bis vor kurzem den aedyrischen Kalender, gab ihn jedoch zugunsten des iroccianischen Kalenders auf. Der Wechsel verlief reibungslos und es gab kaum Widerstände, da der aedyrische Kalender hoffnungslos ungenau war.
 
-Iroccio berechnete, dass der Planet etwa 334 Tage benötigt, um die Sonne zu umkreisen. Er nahm daher die neun Monate des aedyranischen Kalenders und teilte sie in sechzehn Monate von je zwanzig Tagen auf. Jede Jahreszeit besteht aus vier Monaten. Die Länge der Monate spiegelt wider, wie lange Belafa (einer unserer Monde) benötigt, um den Planeten zu umkreisen. Auf jede Jahreszeit folgen drei Tage, die keiner Jahreszeit zugehörig sind, und in denen der Übergang gefeiert wird. Die übrigen zwei Tage des Jahres – Neujahr und Mittjahr – dienen dazu, den Anfang und den Mittelpunkt des Jahres zu feiern.
+Iroccio berechnete, dass der Planet etwa 334 Tage benötigt, um die Sonne zu umkreisen. Er nahm daher die neun Monate des aedyrischen Kalenders und teilte sie in sechzehn Monate von je zwanzig Tagen auf. Jede Jahreszeit besteht aus vier Monaten. Die Länge der Monate spiegelt wider, wie lange Belafa (einer unserer Monde) benötigt, um den Planeten zu umkreisen. Auf jede Jahreszeit folgen drei Tage, die keiner Jahreszeit zugehörig sind, und in denen der Übergang gefeiert wird. Die übrigen zwei Tage des Jahres – Neujahr und Mittjahr – dienen dazu, den Anfang und den Mittelpunkt des Jahres zu feiern.
 
 Um beim Übergang vom alten auf den neuen Kalender Verwirrung zu vermeiden, behielt Iroccio das Jahr bei. Obwohl der Kalender also erst seit 150 Jahren besteht, schreiben wir bereits das Jahr 2823 AI (Anni Iroccio).
 
@@ -4251,7 +4251,7 @@ Angehängt an das Papier ist jedoch eine Ergänzung, die den Duape diese Rechte 
     </Entry>
     <Entry>
       <ID>2489</ID>
-      <DefaultText>Erfrierung des Akolyts</DefaultText>
+      <DefaultText>Erfrierung des Akolyths</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6111,7 +6111,7 @@ Im Anschluss an diese Nachricht folgt eine detaillierte Beschreibung deines Schi
     </Entry>
     <Entry>
       <ID>2997</ID>
-      <DefaultText>Wenn man diese dicken Blätter kaut, erzeugen sie ein berauschendes kitzelndes Gefühl und ein leichtes Gefühl von Wohlbefinden. Helfen gegen Hunger und Erschöpfung und können roh oder eingeweicht als Khapatee genossen werden.</DefaultText>
+      <DefaultText>Wenn man diese dicken Blätter kaut, erzeugen sie ein berauschendes kitzelndes Gefühl und ein leichtes Gefühl von Wohlbefinden. Helfen gegen Hunger und &lt;xg&gt;Erschöpfung&lt;/xg&gt; und können roh oder eingeweicht als Khapatee genossen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6131,7 +6131,7 @@ Im Anschluss an diese Nachricht folgt eine detaillierte Beschreibung deines Schi
     </Entry>
     <Entry>
       <ID>3001</ID>
-      <DefaultText>Der Schwertfisch ist ein schnelles, kräftiges Tier und wird eher gejagt als angelockt. Eines dieser großen, wilden Tiere an Bord zu hieven ist ein Zeugnis der Ausdauer und des Geschicks eines Anglers.</DefaultText>
+      <DefaultText>Der Schwertfisch ist ein schnelles, kräftiges Tier und wird eher gejagt als angelockt. Eines dieser großen, wilden Tiere an Bord zu hieven ist ein Zeugnis der &lt;xg&gt;Ausdauer&lt;/xg&gt; und des Geschicks eines Anglers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6141,7 +6141,7 @@ Im Anschluss an diese Nachricht folgt eine detaillierte Beschreibung deines Schi
     </Entry>
     <Entry>
       <ID>3003</ID>
-      <DefaultText>Diese Krustentiere leben auf dem Meeresgrund und fressen die Überreste anderer Kreaturen. Von den Einheimischen werden sie größtenteils ignoriert, doch bei den Fremden steht ihr Fleisch hoch im Kurs und die lokalen Speerfischer und Fallensteller müssen die wachsende Nachfrage stillen. Die begehrtesten Exemplare, wie dieses hier, sind durch ihre Nähe zu leuchtendem Adra größer angewachsen und haben einen süßeren Geschmack. Ihr Fleisch beruhigt die Nerven und steigert den Fokus.</DefaultText>
+      <DefaultText>Diese Krustentiere leben auf dem Meeresgrund und fressen die Überreste anderer Kreaturen. Von den Einheimischen werden sie größtenteils ignoriert, doch bei den Fremden steht ihr Fleisch hoch im Kurs und die lokalen Speerfischer und Fallensteller müssen die wachsende Nachfrage stillen. Die begehrtesten Exemplare, wie dieses hier, sind durch ihre Nähe zu leuchtendem Adra größer angewachsen und haben einen süßeren Geschmack. Ihr Fleisch beruhigt die Nerven und steigert den &lt;xg&gt;Fokus&lt;/xg&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6945,9 +6945,9 @@ Alt, mit Narben übersät und des Kämpfens müde, hat sich Taeral schließlich 
     </Entry>
     <Entry>
       <ID>3181</ID>
-      <DefaultText>Als ein Tempelakolyt aus Dyrfort sich entschloss, sein Leben aus Beten und Meditation gegen eines voller Abenteuer einzutauschen, marschierte er mit einem einfachen Beil bewaffnet nach Stalwart los. Leider hat das Klosterleben den Akolyt nur unzureichend auf das Überleben in der Wildnis vorbereitet. Auf halbem Wege nach Stalwart geriet er in einen für die Jahreszeit ungewöhnlich heftigen Schneesturm. Als die Nacht hereinbrach, wurde der Sturm zum kältesten Blizzard, den die Region je verzeichnet hat.
+      <DefaultText>Als ein Tempelakolyth aus Dyrfort sich entschloss, sein Leben aus Beten und Meditation gegen eines voller Abenteuer einzutauschen, marschierte er mit einem einfachen Beil bewaffnet nach Stalwart los. Leider hat das Klosterleben den Akolyth nur unzureichend auf das Überleben in der Wildnis vorbereitet. Auf halbem Wege nach Stalwart geriet er in einen für die Jahreszeit ungewöhnlich heftigen Schneesturm. Als die Nacht hereinbrach, wurde der Sturm zum kältesten Blizzard, den die Region je verzeichnet hat.
 
-Am nächsten Morgen fand man die gefrorene Leiche des Akolyts. Er stand mit dem Beil in einer Hand da und hielt mit der anderen seinen Kragen hoch, als wollte er sein Gesicht vor dem eisigen Wind schützen. Das Beil, das jetzt mit einer dauerhaften Eisschicht überzogen ist, beherbergt nun einen Teil seiner eigenwilligen Seele.</DefaultText>
+Am nächsten Morgen fand man die gefrorene Leiche des Akolyths. Er stand mit dem Beil in einer Hand da und hielt mit der anderen seinen Kragen hoch, als wollte er sein Gesicht vor dem eisigen Wind schützen. Das Beil, das jetzt mit einer dauerhaften Eisschicht überzogen ist, beherbergt nun einen Teil seiner eigenwilligen Seele.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7033,7 +7033,7 @@ Kaliwi verwendete diesen Zauberstab nicht nur zur Verteidigung gegen die überal
     </Entry>
     <Entry>
       <ID>3197</ID>
-      <DefaultText>Gewährt treffsichere Genauigkeit und verschafft eine wesentliche Chance, Fehlschläge zu Leichten Treffern, leichte Treffer zu Treffern, und Treffer zu kritischen Treffern zu ändern.</DefaultText>
+      <DefaultText>Gewährt treffsichere Genauigkeit und verschafft eine wesentliche Chance, Fehlschläge zu Leichten Treffern, Leichte Treffer zu Treffern, und Treffer zu kritischen Treffern zu ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7593,7 +7593,7 @@ Kaliwi verwendete diesen Zauberstab nicht nur zur Verteidigung gegen die überal
     </Entry>
     <Entry>
       <ID>3329</ID>
-      <DefaultText>Diese Halskette ist aus Silber gefertigt und mit einem Blutstein eingelegt. Sie ist mit einer Inschrift versehen, die in aedyranischer Schrift den Besitzer kennzeichnet, den ehemaligen Ersten Offizier der Hochstaplers Wehklage. Im Fach befindet sich eine Locke hellbraunes Haar. Der Anhänger ist mit spiritueller Essenz getränkt, sodass sowohl er als auch der Träger eine jenseitige Atmosphäre ausstrahlen.</DefaultText>
+      <DefaultText>Diese Halskette ist aus Silber gefertigt und mit einem Blutstein eingelegt. Sie ist mit einer Inschrift versehen, die in aedyrischer Schrift den Besitzer kennzeichnet, den ehemaligen Ersten Offizier der Hochstaplers Wehklage. Im Fach befindet sich eine Locke hellbraunes Haar. Der Anhänger ist mit spiritueller Essenz getränkt, sodass sowohl er als auch der Träger eine jenseitige Atmosphäre ausstrahlen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7859,7 +7859,7 @@ Dies ist ein sicherer Ort. Hier kann uns nichts passieren.</DefaultText>
     </Entry>
     <Entry>
       <ID>3371</ID>
-      <DefaultText>Dieses Schwert ist aus gutem Stahl geschmiedet und mit vergoldeten alt-aedyranischen Runen graviert, die „MODWYR“ bedeuten. Es war vor 20 Jahren ein gefragtes Accessoire für Adelige aus dem Dyrwald. Allerdings hat es die Zeit mit ihm nicht sehr gut gemeint. Das filigrane Relief am Knauf wurde durch Unachtsamkeit und Gewalt verkratzt und die Lederummantelung am Griff ist blutverschmiert. Dennoch ist die Klinge selbst scharf, fühlt sich eigenartig warm an und die Zunge der Seele darin ist noch schärfer.
+      <DefaultText>Dieses Schwert ist aus gutem Stahl geschmiedet und mit vergoldeten alt-aedyrischen Runen graviert, die „MODWYR“ bedeuten. Es war vor 20 Jahren ein gefragtes Accessoire für Adelige aus dem Dyrwald. Allerdings hat es die Zeit mit ihm nicht sehr gut gemeint. Das filigrane Relief am Knauf wurde durch Unachtsamkeit und Gewalt verkratzt und die Lederummantelung am Griff ist blutverschmiert. Dennoch ist die Klinge selbst scharf, fühlt sich eigenartig warm an und die Zunge der Seele darin ist noch schärfer.
 
 Wo es herkommt und wer es geschmiedet hat, sind Geheimnisse, die das Schwert ungern preisgeben will. Es spricht jedoch mit der näselnden Aussprache des Dyrwalds – ein Umstand, der mehr über seine Herkunft verrät, als es selbst preisgeben möchte.</DefaultText>
       <FemaleText />
@@ -8796,7 +8796,7 @@ Er war ein erfahrener Meuterer. Er sammelte eine kleine Gruppe enttäuschter Kol
     </Entry>
     <Entry>
       <ID>3577</ID>
-      <DefaultText>In einer Periode aedyranischer Übergriffe auf Eír Glanfath hat eine Gruppe unabhängiger Räuber diese Waffe in einer engwithanischen Ruine geplündert. Der Hof von Fercönyng soll angeblich viel für solche Artefakte bezahlt haben und die Briganten hofften, einen guten Preis für den Morgenstern zu erhalten, als sie ins Reich zurückkehrten. Zu ihrem Pech begegneten sie einem Spähtrupp der glanfathanischen Reißzähne und wurden wegen ihrer Plünderung der heiligen Stätte angeklagt. Die Beweise gegen die Räuber waren erdrückend und sie wurden allesamt zum Tode verurteilt. Die Reißzähne vollstreckten das Urteil an der Schwelle zu den Ruinen und dieser Morgenstern diente ihnen als Hinrichtungswerkzeug. Die Leichen der Aedyraner haben sie als Warnung für andere Plünderer zurückgelassen.</DefaultText>
+      <DefaultText>In einer Periode aedyrischer Übergriffe auf Eír Glanfath hat eine Gruppe unabhängiger Räuber diese Waffe in einer engwithanischen Ruine geplündert. Der Hof von Fercönyng soll angeblich viel für solche Artefakte bezahlt haben und die Briganten hofften, einen guten Preis für den Morgenstern zu erhalten, als sie ins Reich zurückkehrten. Zu ihrem Pech begegneten sie einem Spähtrupp der glanfathanischen Reißzähne und wurden wegen ihrer Plünderung der heiligen Stätte angeklagt. Die Beweise gegen die Räuber waren erdrückend und sie wurden allesamt zum Tode verurteilt. Die Reißzähne vollstreckten das Urteil an der Schwelle zu den Ruinen und dieser Morgenstern diente ihnen als Hinrichtungswerkzeug. Die Leichen der Aedyrer haben sie als Warnung für andere Plünderer zurückgelassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9258,7 +9258,7 @@ Des Weiteren solltet ihr nicht vergessen, dass wir NICHT als Plünderer hier sin
     </Entry>
     <Entry>
       <ID>3673</ID>
-      <DefaultText>Diese Halskette ist eine vielseitige Sammlung aus Müll, Schmuckstücken und Reststücken, die der Brutmutter ins Auge gefallen sind. Diese glitzernden Schätze dienen als Banner und Leuchtfeuer für kleinere Lagufaeth und inspiriert sie zu unwahrscheinlicher Tapferkeit. Obwohl es wahrscheinlich keine Magie in diesem bescheidenen Gerät gibt, scheint es bei der Habgier und Dominanz der Brutmutter Widerhall zu finden.</DefaultText>
+      <DefaultText>Diese Halskette ist eine vielseitige Sammlung aus Müll, Schmuckstücken und Reststücken, die der Brutmutter ins Auge gefallen sind. Diese glitzernden Schätze dienen als Banner und Leuchtfeuer für kleinere Lagufaeth und inspiriert sie zu unwahrscheinlicher &lt;xg&gt;Tapferkeit&lt;/xg&gt;. Obwohl es wahrscheinlich keine Magie in diesem bescheidenen Gerät gibt, scheint es bei der Habgier und Dominanz der Brutmutter Widerhall zu finden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9273,7 +9273,7 @@ Des Weiteren solltet ihr nicht vergessen, dass wir NICHT als Plünderer hier sin
     </Entry>
     <Entry>
       <ID>3676</ID>
-      <DefaultText>In diesen Ring ist ein Brocken Buntglas aus Halgots Zitadelle, auch bekannt als Götterhammerzitadelle, eingelassen. Das Glas fühlt sich warm an. Die eothasianische Priesterin Pitli hat ihn dir aus Dank für deine Hilfe bei ihrer Mission zur Unterstützung der Geplagten gegeben. Er symbolisiert Erneuerung sowie Mitgefühl für die Unterdrückten.</DefaultText>
+      <DefaultText>In diesen Ring ist ein Brocken Buntglas aus Halgots Zitadelle, auch bekannt als Götterhammerzitadelle, eingelassen. Das Glas fühlt sich warm an. Die eothasianische Priesterin Pitli hat ihn dir aus Dank für deine Hilfe bei ihrer Mission zur &lt;xg&gt;Unterstützung&lt;/xg&gt; der Geplagten gegeben. Er symbolisiert Erneuerung sowie Mitgefühl für die Unterdrückten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9673,12 +9673,12 @@ Die Reichweite der Schnauze ist begrenzt, aber das leichtere Gewicht ist vorteil
     </Entry>
     <Entry>
       <ID>3765</ID>
-      <DefaultText>Aedyranische Rumpfbehandlung</DefaultText>
+      <DefaultText>Aedyrische Rumpfbehandlung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3766</ID>
-      <DefaultText>Diese Rumpfbehandlung ist eine Mischung aus praktischer Anwendbarkeit und Extravaganz. Er ist der Standard bei der Aedyranischen imperialen Marine. Dieser Rumpf wurde mit Öl aus den inneren Drüsen der Lagufaeth poliert und mit Kupfernieten verstärkt. Er wurde entworfen, um die Gefahren längerer Reisen standzuhalten, während er aedyranische Qualität ausstrahlt.</DefaultText>
+      <DefaultText>Diese Rumpfbehandlung ist eine Mischung aus praktischer Anwendbarkeit und Extravaganz. Er ist der Standard bei der Aedyrischen imperialen Marine. Dieser Rumpf wurde mit Öl aus den inneren Drüsen der Lagufaeth poliert und mit Kupfernieten verstärkt. Er wurde entworfen, um die Gefahren längerer Reisen standzuhalten, während er aedyrische Qualität ausstrahlt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9727,7 +9727,7 @@ Außerdem gibt es Gerüchte, dass ein Piratenkapitän auf einem Schiff namens �
     </Entry>
     <Entry>
       <ID>3775</ID>
-      <DefaultText>Die normale Artillerie in der Aedyranischen imperialen Marine. Die imperiale Langwaffe hat sich als sehr effektiv, wenn auch sehr spezialisiert erwiesen. Aufgrund des langen Laufs und der geneigten Lafette hat die Kanone eine beeindruckende Reichweite, kann aber nicht auf Nahziele feuern. Dies entspricht der aedyranischen Marinedoktrin, feindliche Schiffe präzise aus der Ferne zu befeuern.</DefaultText>
+      <DefaultText>Die normale Artillerie in der Aedyrischen imperialen Marine. Die imperiale Langwaffe hat sich als sehr effektiv, wenn auch sehr spezialisiert erwiesen. Aufgrund des langen Laufs und der geneigten Lafette hat die Kanone eine beeindruckende Reichweite, kann aber nicht auf Nahziele feuern. Dies entspricht der aedyrischen Marinedoktrin, feindliche Schiffe präzise aus der Ferne zu befeuern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9962,7 +9962,7 @@ Serafen behauptet, er habe seinen von einem Zwergen-Büchsenmacher namens Cassil
       <ID>3823</ID>
       <DefaultText>Dieser Umhang gehörte einst einer Huana-Barbarin, die im ganzen Archipel unter dem Namen Rekvu, Geißel der Eindringlinge, bekannt war.
 
-Hiesige Legenden besagen, dass Rekvu nur in Erscheinung trat, wenn die Lage ihrer Truppen äußerst kritisch war. Im Kampf erlitt Rekvu häufig Verletzungen, die für jeden anderen Krieger tödlich gewesen wären – und doch starb sie nie.
+Hiesige Legenden besagen, dass Rekvu nur in Erscheinung trat, wenn die Lage ihrer Truppen äußerst kritisch war. Im Kampf erlitt Rekvu häufig &lt;xg&gt;Verletzungen&lt;/xg&gt;, die für jeden anderen Krieger tödlich gewesen wären – und doch starb sie nie.
 
 In einem frühen Gefecht wurde Rekvu von einem verschlagenen Zauberer in Brand gesteckt. Mit lichterloh brennender Rüstung kämpfte sie sich weiterhin durch die Reihen der Feinde, bis sie einem Erzfeind die Kehle durchschnitt und dessen Blut schließlich die Flammen des Zauberers löschte. Rekvu erlitt schlimme Verbrennungen, wodurch sie mehrere Wochen bewusstlos blieb, bis ihr Körper heilte.
 
@@ -9978,7 +9978,7 @@ Rekvus versengter Umhang ging abhanden, als ihr bewusstloser Körper vom Schlach
       <ID>3825</ID>
       <DefaultText>Dieser Helm gehörte einst einer Huana-Barbarin, die im ganzen Archipel unter dem Namen Rekvu, Geißel der Eindringlinge, bekannt war.
 
-Hiesige Legenden besagen, dass Rekvu nur in Erscheinung trat, wenn die Lage ihrer Truppen äußerst kritisch war. Im Kampf erlitt Rekvu häufig Verletzungen, die für jeden anderen Krieger tödlich gewesen wären – und doch starb sie nie.
+Hiesige Legenden besagen, dass Rekvu nur in Erscheinung trat, wenn die Lage ihrer Truppen äußerst kritisch war. Im Kampf erlitt Rekvu häufig &lt;xg&gt;Verletzungen&lt;/xg&gt;, die für jeden anderen Krieger tödlich gewesen wären – und doch starb sie nie.
 
 Gegen Ende ihres Lebens wurde Rekvu erneut in einen Kampf verwickelt; dieses Mal gegen eine Horde Eoten, die von einem opportunistischem Adligen aus einer fernen Nation gegen ein ruhiges Bergbaudorf entsandt worden waren. Ein Eoten, der ein monströses Großschwert schwang, konnte in der Hitze des Gefechts Rekvu in einem unvorbereiteten Moment überraschen und rammte seine Klinge in Rekvus Kopf. Rekvu wischte sich das Blut aus den Augen und sprang auf den Eoten, der dadurch zu Boden geworfen wurde. Mit einem weiten Axtschwung trennte Rekvu beide Köpfe des Eoten ab.
 
@@ -9994,11 +9994,11 @@ Nachdem die übrigen Eoten besiegt sowie der Körper des eindringenden Adligen g
       <ID>3827</ID>
       <DefaultText>Diese Handschuhe gehörten einst einer Huana-Barbarin, die im ganzen Archipel unter dem Namen Rekvu, Geißel der Eindringlinge, bekannt war.
 
-Hiesige Legenden besagen, dass Rekvu nur in Erscheinung trat, wenn die Lage ihrer Truppen äußerst kritisch war. Im Kampf erlitt Rekvu häufig Verletzungen, die für jeden anderen Krieger tödlich gewesen wären – und doch starb sie nie.
+Hiesige Legenden besagen, dass Rekvu nur in Erscheinung trat, wenn die Lage ihrer Truppen äußerst kritisch war. Im Kampf erlitt Rekvu häufig &lt;xg&gt;Verletzungen&lt;/xg&gt;, die für jeden anderen Krieger tödlich gewesen wären – und doch starb sie nie.
 
-Mitten in einem dieser Gefechte stürmte Rekvu das Schlachtfeld alleine gegen eine Truppe Düsterer Wanderer – denn alle, die zuvor an ihrer Seite gekämpft hatten, lagen nun erschlagen zu ihrer Seite. Sie besiegte einen Paladin nach dem Anderen, bis sie endlich deren Anführer gegenübertrat. Der Anführer der Paladine war schnell, sogar schneller als Rekvu, und schlug ihre Hand mit seinem Breitschwert ab. Aber Rekvu war schlau, und sie stellte dem Paladinanführer ein Bein. Als er in den Schlamm fiel, schlitzte sie ihn von Bart bis Bauchnabel auf.
+Mitten in einem dieser Gefechte stürmte Rekvu auf das Schlachtfeld alleine gegen eine Truppe Düsterer Wanderer – denn alle, die zuvor an ihrer Seite gekämpft hatten, lagen nun erschlagen zu ihrer Seite. Sie besiegte einen Paladin nach dem Anderen, bis sie endlich deren Anführer gegenübertrat. Der Anführer der Paladine war schnell, sogar schneller als Rekvu, und schlug ihre Hand mit seinem Breitschwert ab. Aber Rekvu war schlau, und sie stellte dem Paladinanführer ein Bein. Als er in den Schlamm fiel, schlitzte sie ihn von Bart bis Bauchnabel auf.
 
-Nachdem sie sich des Todes ihres Feindes sicher wähnte, riss sie ihren anderen Panzerhandschuh ab und nutzte dessen Innenhandschuh als provisorische Abbindeschnur. Nachdem die Schlacht geschlagen und ihre Wunden versorgt waren, ließ Rekvu ihre befleckten Handschuhe zurück.</DefaultText>
+Nachdem sie sich des Todes ihres Feindes sicher wähnte, riss sie ihren anderen Panzerhandschuh ab und nutzte dessen Innenhandschuh als provisorische Abbindeschnur. Nachdem die Schlacht geschlagen und ihre &lt;xg&gt;Wunden&lt;/xg&gt; versorgt waren, ließ Rekvu ihre befleckten Handschuhe zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10116,12 +10116,12 @@ Lange bevor die Bewohner des Todesfeuers Zugang zu fortgeschrittener Metallbearb
     </Entry>
     <Entry>
       <ID>3872</ID>
-      <DefaultText>Hülse des Bildnisses</DefaultText>
+      <DefaultText>Hülse der Marionette</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3873</ID>
-      <DefaultText>Eine Skaen-Marionette wird nur von jenen geschaffen, die so sehr unterdrückt werden, dass sie bereit sind, unsagbar schreckliche Taten auszuführen, um ihre Unterdrücker loszuwerden. Das Ritual erfordert einen willigen Gläubigen, der bereit ist, Entstellung, Verstümmelung und den sicheren Tod auf sich zu nehmen. Wenn das Opfer angenommen wird, manifestiert sich Skaen in dem Bittsteller und verwandelt ihn in einen unaufhaltsamen Avatar des Willens des Gottes, der loszieht, um die Unterdrücker der Gläubigen zu töten. Wenn die Blutgier des Monsters gesättigt ist, zerfällt die Marionette förmlich – sie hat ihre Aufgabe erfüllt.
+      <DefaultText>Eine Skaen-Marionette wird nur von jenen geschaffen, die so sehr &lt;xg&gt;unterdrückt&lt;/xg&gt; werden, dass sie bereit sind, unsagbar schreckliche Taten auszuführen, um ihre Unterdrücker loszuwerden. Das Ritual erfordert einen willigen Gläubigen, der bereit ist, Entstellung, Verstümmelung und den sicheren &lt;xg&gt;Tod&lt;/xg&gt; auf sich zu nehmen. Wenn das Opfer angenommen wird, manifestiert sich Skaen in dem Bittsteller und verwandelt ihn in einen unaufhaltsamen Avatar des Willens des Gottes, der loszieht, um die Unterdrücker der Gläubigen zu töten. Wenn die Blutgier des Monsters gesättigt ist, zerfällt die Marionette förmlich – sie hat ihre Aufgabe erfüllt.
 
 Die Überreste der Kreatur werden verständlicherweise gemieden. Sie verwesen langsam, da selbst Aasfresser und Ungeziefer sich von so einem Kadaver fernhalten. Aber scheinbar war ein tollkühner oder geistesgestörter Schneider nicht so zaghaft. Dieses Kleidungsstück ist grob, aber brauchbar genäht und verschiedenen Fleischstücke wurden mit Ölen haltbar gemacht. Die makabre Robe hat den unverkennbaren Gestank frisch gegerbter Haut.</DefaultText>
       <FemaleText />
@@ -10207,7 +10207,7 @@ Das ist eine Erklärung unter mehreren. Eine beliebte Theorie besagt, dass jeder
     </Entry>
     <Entry>
       <ID>3889</ID>
-      <DefaultText>Seit ihrer Gründung hat die vailianische Duellgesellschaft Colligia me Definsia Mutio die Mitgliedschaft generell nur Bürgern der Republiken erlaubt. Eine Ausnahme wurde erstmals gemacht, als der legendäre aedyranische Duellant Rännig Daecia eintreten wollte. Er wurde in die Ränge der vailianischen Elite eingeführt und beeindruckte Zuschauer und Gegner gleichermaßen mit atemberaubenden Darbietungen der Schwertkunst. Seine Zeitgenossen bemerkten, dass es ihm beim Kampf nicht auf einen Schönheitspreis oder besondere Eleganz ankam. Stattdessen demonstrierte er eine fehlerfreie Meisterschaft der fundamentalen Techniken.
+      <DefaultText>Seit ihrer Gründung hat die vailianische Duellgesellschaft Colligia me Definsia Mutio die Mitgliedschaft generell nur Bürgern der Republiken erlaubt. Eine Ausnahme wurde erstmals gemacht, als der legendäre aedyrische Duellant Rännig Daecia eintreten wollte. Er wurde in die Ränge der vailianischen Elite eingeführt und beeindruckte Zuschauer und Gegner gleichermaßen mit atemberaubenden Darbietungen der Schwertkunst. Seine Zeitgenossen bemerkten, dass es ihm beim Kampf nicht auf einen Schönheitspreis oder besondere Eleganz ankam. Stattdessen demonstrierte er eine fehlerfreie Meisterschaft der fundamentalen Techniken.
 
 Rännig war gnädig beim Sieg und demütig bei einer Niederlage, wobei Letzteres reine Spekulation ist, denn laut den Aufzeichnungen der Gesellschaft hat er nicht einen Kampf verloren. Selbst sein Stoßdegen war einfach gehalten. Ihm fehlten Prunk und Glanz der meisten vailianischen Waffen, was ihm seine Kameraden aber nicht vorhielten. Er pflegte die Waffe akribisch und sie war immer spiegelblank poliert.</DefaultText>
       <FemaleText />
@@ -10747,7 +10747,7 @@ Ignato Castol</DefaultText>
     </Entry>
     <Entry>
       <ID>3984</ID>
-      <DefaultText>Sobald sich das Zepter in deiner Hand befindet, ertönt ein Chor aus Stimmen. Sie singen in Engwithanisch, Alt-Aedyranisch, Vailianisch und Huana. Jedes Wort hallt in Sprachen, die du nicht kennst.
+      <DefaultText>Sobald sich das Zepter in deiner Hand befindet, ertönt ein Chor aus Stimmen. Sie singen in Engwithanisch, Alt-Aedyrisch, Vailianisch und Huana. Jedes Wort hallt in Sprachen, die du nicht kennst.
 
 &lt;i&gt;Wir lesen die Bücher, die noch nicht geschrieben wurden
 Wir sehen hinter den Schleier des Todes
@@ -11039,7 +11039,7 @@ Kapitän Henqua“</DefaultText>
 
 Der Rand ist mit einer Notiz versehen:
 
-„Ich vertraue dir dieses Fragment an, mein brillianter Freund, und bin mir sicher, dass du weißt, wie du es zu beschützen hast. Genieße deinen Reichtum, wenn es soweit ist.
+„Ich vertraue dir dieses Fragment an, mein brillanter Freund, und bin mir sicher, dass du weißt, wie du es zu beschützen hast. Genieße deinen Reichtum, wenn es soweit ist.
 
 ~ Zuneigungsvoll,
 
@@ -11175,7 +11175,7 @@ Alleine das Pergament nur in Händen zu halten, erfüllt dich bereits mit einem 
     </Entry>
     <Entry>
       <ID>4067</ID>
-      <DefaultText>Dieser schäbige Umhang gehörte einst einem von Nemnoks bedauernswerten Gästen. Dieser ungewöhnliche Zwerg war kein bußfertiger Verehrer. Vielmehr behauptete er von sich, ein großer Krieger zu sein, der gekommen war, um Nemnok zu töten und seinen Stamm von der Herrschaft des Monsters zu befreien. Er prahlte mit seinem magischen Umhang, der Verletzungen und Tod abhalten konnte. Dann forderte der Krieger mit einem mächtigen Schrei Nemnok zum Kampf heraus.
+      <DefaultText>Dieser schäbige Umhang gehörte einst einem von Nemnoks bedauernswerten Gästen. Dieser ungewöhnliche Zwerg war kein bußfertiger Verehrer. Vielmehr behauptete er von sich, ein großer Krieger zu sein, der gekommen war, um Nemnok zu töten und seinen Stamm von der Herrschaft des Monsters zu befreien. Er prahlte mit seinem magischen Umhang, der &lt;xg&gt;Verletzungen&lt;/xg&gt; und &lt;xg&gt;Tod&lt;/xg&gt; abhalten konnte. Dann forderte der Krieger mit einem mächtigen Schrei Nemnok zum Kampf heraus.
 
 Nach einem kurzen und sehr einseitigen Kampf hatte Nemnok den Möchtegern-Thronräuber überwältigt und machte sich daran, ihn zu Tode zu quälen. Bemerkenswerterweise wurde der Umhang seinem Ruf gerecht und der Zwerg blieb lange Zeit verbissen am Leben.</DefaultText>
       <FemaleText />
@@ -11494,7 +11494,7 @@ Mit der Niederlage der Glanfathaner und dem Ende des Krieges begaben sich Badrwn
     </Entry>
     <Entry>
       <ID>4131</ID>
-      <DefaultText>Der Dyrwald-Kommandant Maxeyl Hescen trug diesen Gürtel bei der Schlacht um die Mittemärzstraße, eine der ersten großen Auseinandersetzungen im Trutzkrieg. Die Dyrwälder kämpften tapfer, aber ihre unorganisierte leichte Infanterie hatte gegen das schwere aedyranische Regiment keine Chance. Die überforderten Rebellen wurden fast bis auf den letzten Mann getötet. Mehreren aedyranischen Soldaten zufolge fiel Maxeyl als Letzter. Umzingelt und schwer verwundet verweigerte er dennoch die vom aedyranischen Kommandeur angebotene Gnade. Er wurde mit einem Dutzend Speere niedergestochen, doch selbst dann kämpfte er noch weiter, bis er schließlich enthauptet wurde.</DefaultText>
+      <DefaultText>Der Dyrwald-Kommandant Maxeyl Hescen trug diesen Gürtel bei der Schlacht um die Mittemärzstraße, eine der ersten großen Auseinandersetzungen im Trutzkrieg. Die Dyrwälder kämpften tapfer, aber ihre unorganisierte leichte Infanterie hatte gegen das schwere aedyrische Regiment keine Chance. Die überforderten Rebellen wurden fast bis auf den letzten Mann getötet. Mehreren aedyrischen Soldaten zufolge fiel Maxeyl als Letzter. Umzingelt und schwer verwundet verweigerte er dennoch die vom aedyrischen Kommandeur angebotene Gnade. Er wurde mit einem Dutzend Speere niedergestochen, doch selbst dann kämpfte er noch weiter, bis er schließlich enthauptet wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11648,7 +11648,7 @@ Als der gierige Zirkusdirektor sah, wie die Menge Mewnan liebte, wurde er eifers
     </Entry>
     <Entry>
       <ID>4165</ID>
-      <DefaultText>Der Príncipi-Kapitän, der einst diesen Gürtel trug, war nicht aufgrund seiner Ethik und Moral als „aufrecht“ bekannt. Im Gegenteil, er war in jeder Hinsicht ein rücksichtsloser Zeitgenosse. Seine Mannschaft bewunderte jedoch den Willen ihres Kapitäns, keiner einzigen Herausforderung aus dem Weg zu gehen. Auch in Unterzahl und waffentechnisch klar unterlagen nahm er es dennoch mit jedem Schiff auf, egal wie viel größer als das eigene es war. Er segelte durch Sturmböen und Orkane und stand unbeirrt am Steuer. Immer stand er aufrecht da. Es gab keine Macht auf ganz Eora, die ihn zur Umkehr oder auf die Knie zwingen konnte.
+      <DefaultText>Der Príncipi-Kapitän, der einst diesen Gürtel trug, war nicht aufgrund seiner Ethik und &lt;xg&gt;Moral&lt;/xg&gt; als „aufrecht“ bekannt. Im Gegenteil, er war in jeder Hinsicht ein rücksichtsloser Zeitgenosse. Seine Mannschaft bewunderte jedoch den Willen ihres Kapitäns, keiner einzigen Herausforderung aus dem Weg zu gehen. Auch in Unterzahl und waffentechnisch klar unterlagen nahm er es dennoch mit jedem Schiff auf, egal wie viel größer als das eigene es war. Er segelte durch Sturmböen und Orkane und stand unbeirrt am Steuer. Immer stand er aufrecht da. Es gab keine &lt;xg&gt;Macht&lt;/xg&gt; auf ganz Eora, die ihn zur Umkehr oder auf die Knie zwingen konnte.
 
 Natürlich führte die Sturheit des Kapitäns unvermeidlich schließlich zur Vernichtung seines Schiffs in einem Mahlstrom. Allerdings wird man sich immer an seine Standhaftigkeit erinnern, auch wenn sie letztlich sein Untergang war.</DefaultText>
       <FemaleText />
@@ -11880,7 +11880,7 @@ Die impulsive Acina schloss bald darauf einem Schiff an, das von den Vailianisch
     </Entry>
     <Entry>
       <ID>4215</ID>
-      <DefaultText>Diese Maske, auf der die üble Visage von Woedica prangt, gehörte einst der großen aedyranischen Rechtstheoretikerin Aefra Sordefal, die von ihren Zeitgenossen unter dem Namen Philosoph Eisenfaust bekannt war. Sie wurde aus Erz, das von Schuldnern und Strafgefangenen in den riesigen Straftagebaugruben des Aedyranischen Reiches abgebaut wurde, geschmiedet.</DefaultText>
+      <DefaultText>Diese Maske, auf der die üble Visage von Woedica prangt, gehörte einst der großen aedyrischen Rechtstheoretikerin Aefra Sordefal, die von ihren Zeitgenossen unter dem Namen Philosoph Eisenfaust bekannt war. Sie wurde aus Erz, das von Schuldnern und Strafgefangenen in den riesigen Straftagebaugruben des Aedyrischen Reiches abgebaut wurde, geschmiedet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12581,7 +12581,7 @@ Ironischerweise stellte Edér fest, dass sein Glaube in Eothas stärker wurde, n
     </Entry>
     <Entry>
       <ID>4376</ID>
-      <DefaultText>Das als die Teufelin von Caroc bekannte Konstrukt begegnete am Ende ihrem Schicksal aus den Händen der Dörfler der Jungfrauen-Wasserfälle, die sie komplett in Stücke rissen. Anscheinend erkannte wenigstens ein fleißiger Schmied, dass man ihre Überreste einem guten Nutzen zuführen konnte. Dieser Brustpanzer aus Bronze wurde aus dem Bruststück der Teufelin, den Messingschnallen und den Nieten ihrer verschiedenen Uhrwerkmechanismen geschmiedet. Ihre Seele ist zweifellos dahingeschieden. Die Überreste sind jedoch nicht vollständig leblos. Das Metall, jetzt nicht länger ein Gefängnis ihrer Seele, scheint dennoch mit Lebenskraft durchsetzt zu sein und besitzt einige Macht.</DefaultText>
+      <DefaultText>Das als die Teufelin von Caroc bekannte Konstrukt begegnete am Ende ihrem Schicksal aus den Händen der Dörfler der Jungfrauen-Wasserfälle, die sie komplett in Stücke rissen. Anscheinend erkannte wenigstens ein fleißiger Schmied, dass man ihre Überreste einem guten Nutzen zuführen konnte. Dieser Brustpanzer aus Bronze wurde aus dem Bruststück der Teufelin, den Messingschnallen und den Nieten ihrer verschiedenen Uhrwerkmechanismen geschmiedet. Ihre Seele ist zweifellos dahingeschieden. Die Überreste sind jedoch nicht vollständig leblos. Das Metall, jetzt nicht länger ein Gefängnis ihrer Seele, scheint dennoch mit Lebenskraft durchsetzt zu sein und besitzt einige &lt;xg&gt;Macht&lt;/xg&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12667,7 +12667,7 @@ Sie brachte ihn zum Kunsthandwerker des Dorfes. Dies war ein Kuaru, der gelegent
     </Entry>
     <Entry>
       <ID>4392</ID>
-      <DefaultText>Diese ärmlichen Sandalen gehörten einst Ahu Taka, einem Priester der Rauatai. Er besaß kein Heim und hatte keine Familie. Er entschloss sich zu einem Leben im selbstauferlegten Exil und durchwanderte die Länder von Eora, um die Kranken zu heilen. Er half jedem, der seiner Hilfe bedurfte, ganz gleich, welcher weltlichen Macht er folgte und welche Taten er begangen hatte. Die Adeligen und die Eliten mieden Ahu Taka, aber er übte seine Kunst in den Slums und Bordellen aus. Er richtete über niemanden und bot nichts als Frieden und Akzeptanz. Nach Schlachten konnte man ihn oft beobachten, wie er sich um die Verwundeten kümmerte und die Sterbenden tröstete – und zwar von beiden Seiten.
+      <DefaultText>Diese ärmlichen Sandalen gehörten einst Ahu Taka, einem Priester der Rauatai. Er besaß kein Heim und hatte keine Familie. Er entschloss sich zu einem Leben im selbstauferlegten Exil und durchwanderte die Länder von Eora, um die Kranken zu heilen. Er half jedem, der seiner Hilfe bedurfte, ganz gleich, welcher weltlichen &lt;xg&gt;Macht&lt;/xg&gt; er folgte und welche Taten er begangen hatte. Die Adeligen und die Eliten mieden Ahu Taka, aber er übte seine Kunst in den Slums und Bordellen aus. Er richtete über niemanden und bot nichts als Frieden und Akzeptanz. Nach Schlachten konnte man ihn oft beobachten, wie er sich um die Verwundeten kümmerte und die Sterbenden tröstete – und zwar von beiden Seiten.
 
 Am Ende zog er damit den Zorn eines siegreichen Kommandanten auf sich. Solange dieser Vagabund von einem Priester den Huren und Verkommenen predigen wollte, war das ja völlig in Ordnung. Aber die Feinde des Kommandanten zu heilen – das ging diesem einen Schritt zu weit. Der Kommandant befahl seinen Truppen, den Priester, der sich in alles einmischte, auf der Stelle hinzurichten. Doch keiner seiner Männer war bereit, diesen Befehl auszuführen. Schließlich zog der Kommandant selbst sein Schwert und tötete Ahu Taka. Der Legende zufolge nutzte Ahu Taka seinen letzten Atemzug, um seinem Mörder zu vergeben.</DefaultText>
       <FemaleText />
@@ -12689,7 +12689,7 @@ Am Ende zog er damit den Zorn eines siegreichen Kommandanten auf sich. Solange d
     </Entry>
     <Entry>
       <ID>4396</ID>
-      <DefaultText>Diese Reitstiefel bestehen aus feinem, besticktem Leder. Sie gehörten einst dem Dyrwälder Erl Fenan Cört. Dieser Mann war als stolzer militärischer Kommandant, geschickter Jäger und leidenschaftlicher Tänzer bekannt. Die Stiefel sind robust und praktisch, allerdings auch ausgesprochen bequem. Der gefederte Zehenbereich ermöglicht leichte, abgerundete Schritte und der Fersenbereich bietet eine gute Unterstützung. Schuhnägel aus Messing sorgen für eine solide Bodenhaftung und erlauben athletischere Anstrengungen, als der luxuriöse Anblick der Schuhe es vermuten lässt.</DefaultText>
+      <DefaultText>Diese Reitstiefel bestehen aus feinem, besticktem Leder. Sie gehörten einst dem Dyrwälder Erl Fenan Cört. Dieser Mann war als stolzer militärischer Kommandant, geschickter Jäger und leidenschaftlicher Tänzer bekannt. Die Stiefel sind robust und praktisch, allerdings auch ausgesprochen bequem. Der gefederte Zehenbereich ermöglicht leichte, abgerundete Schritte und der Fersenbereich bietet eine gute &lt;xg&gt;Unterstützung&lt;/xg&gt;. Schuhnägel aus Messing sorgen für eine solide Bodenhaftung und erlauben athletischere Anstrengungen, als der luxuriöse Anblick der Schuhe es vermuten lässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12815,20 +12815,6 @@ Solltest du die Mühe des Anstiegs nicht scheuen, könnte der Palast über Schla
 
 Mit freundlichen Grüßen
 Königin Onekaza II</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>4422</ID>
-      <DefaultText>Sheas Kampfstab</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4423</ID>
-      <DefaultText>Obwohl sie vor über einem Jahrhundert verschwunden ist, bleibt die arkane Ritterin Shea ein abschreckendes Beispiel in ihrer Heimat Aedyr. Shea, die einem mächtigen Adelshaus des Reichs verpflichtet war, verlor niemals ihre Faszination für Beseelungen, die sie seit ihrer Zeit an der Akademie hatte. Sie verfolgte ihr unerlaubtes Interesse geduldig und baute langsam ein Labor in ihrem Quartier im Anwesen ihres Grafen auf. Als er ihre Aktivitäten entdeckte, versprach er ihr, sie aufgrund ihrer langjährigen treuen Dienste nicht zu melden, solange sie die illegalen Instrumente entsorgte. Sie willigte ein und beseitigte Bechergläser und Bücher aus ihrer Kammer.
-
-Leider brachte sie diese Utensilien in den angemieteten Keller eines Ladens im nahegelegenen Dorf und wurde kurz darauf von einem örtlichen Woedica-Priester entlarvt. Als die Nachsicht des Grafen ans Licht kam, musste er große Summen an Geldstrafen zahlen und einen noch größeren Gesichtsverlust verkraften.
-
-Shea floh aus dem Reich und über das Meer in das Todesfeuer. Nach einer kurzen Auszeit in Neketaka buchte sie eine Überfahrt auf einem Schiff zurück nach Westen zur Festlandnation Abet. Die Schaluppe hat ihr Ziel nie erreicht und ihr Schicksal inspirierte zahlreiche zweifelhafte Erzählungen (sowie zwei beliebte Bühnenstücke) über die schrecklichen Ergebnisse von Sheas Experimenten auf See.</DefaultText>
-      <FemaleText />
     </Entry>
     <Entry>
       <ID>4424</ID>
@@ -13063,7 +13049,7 @@ Aufra</DefaultText>
 
 Er trennte einen winzigen Teil seines Geistes praktisch ab und wandte sich damit an das zahlreiche Ungeziefer auf dem Riff. In den vielen Spinnen, die in seinem Gefängnis herumkrabbelten, fand er verwandte Seelen. Sie waren wie er – endlos woben sie ihre Netze und bemühten sich um den Erhalt ihrer winzigen Königreiche. Und auch in einer anderen Sache waren sie ihm ähnlich, nämlich was ihre fantastische Arbeitsmoral betraf.
 
-Deshalb ließ er sie für sich arbeiten. Mit einem kleinen Teil seiner Macht brachte er die Spinnen dazu, etwas Hübsches für ihn zu weben. Es bereitete Menzzago großes Vergnügen zu beobachten, wie die Spinnen an ihren hauchzarten Fäden tanzten, ähnlich Marionetten. Am Ende hatten die Spinnen einen Ballen wunderschöner, dauerhafter Seide gewoben. Den Stoff verwandte Menzzago dazu, diese Robe anzufertigen.</DefaultText>
+Deshalb ließ er sie für sich arbeiten. Mit einem kleinen Teil seiner &lt;xg&gt;Macht&lt;/xg&gt; brachte er die Spinnen dazu, etwas Hübsches für ihn zu weben. Es bereitete Menzzago großes Vergnügen zu beobachten, wie die Spinnen an ihren hauchzarten Fäden tanzten, ähnlich Marionetten. Am Ende hatten die Spinnen einen Ballen wunderschöner, dauerhafter Seide gewoben. Den Stoff verwandte Menzzago dazu, diese Robe anzufertigen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13159,52 +13145,6 @@ Deshalb ließ er sie für sich arbeiten. Mit einem kleinen Teil seiner Macht bra
     <Entry>
       <ID>4489</ID>
       <DefaultText>Huana-Stämme verwenden das harte Kaora-Schilf, um Körbe und Matten zu fertigen. Das Material ist biegsam und fest. Es riecht leicht nach Salzwasser.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4490</ID>
-      <DefaultText>Zeremonieller Helm</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4491</ID>
-      <DefaultText>Diese ungewöhnliche Galea erinnert an die Gesichtszüge eines Steinkolosses, der auf die Arena des Schmelztiegels herabblickt. Nur die erfolgreichsten Meister tragen Helme dieser Art, allesamt verdient durch in der Arena vergossenes Blut und Dutzende beinahe tödliche Schläge in den brutalsten Kämpfen, die das Todesfeuer jemals gesehen hat.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4492</ID>
-      <DefaultText>Schreckensklaue</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4493</ID>
-      <DefaultText>Vor 700 Jahren beauftragte der vailianische Duc Alfan med Roca eine Gruppe von Goldpakt-Rittern damit, einen Drachen in den an seine Lande angrenzenden Bergen zu erschlagen. Die Anführerin der Gruppe, Pietra Vives, kehrte drei Wochen später als einzige Überlebende zurück.
-
-Obwohl der Drache schlimme Wunden davongetragen hatte, wurde er doch nicht erschlagen, behauptete sie, und somit konnte sie ihre Aufgabe nicht als erledigt betrachten. Sie stellte eine neue Gruppe von Jägern zusammen, jeder einzelne ebenso berühmt im Umgang mit Schwert oder Bogen wie sie, bezahlte sie aus ihrer eigenen Tasche und machte sich erneut auf.
-
-Diesmal kehrte sie mit dem Kopf des Drachen zurück und schleifte ihn hinter ihrem Ross her.
-
-Laut der Legende führte Pietra einen Meisterschmied in die Berge, um den Drachenkörper zu finden. Er fertigte aus jeder der massiven Klauen einen Säbel an und Pietra übergab die Waffen den Familien ihrer gefallenen Männer zusammen mit ihrem Anteil an der Belohnung. Diese besondere Klinge wurde in der Familie Segreto weitergegeben und folgte schließlich ihrer Flucht aus dem zusammenbrechenden Vailia zum Todesfeuer und in die Reihen der aufstrebenden Príncipi.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4496</ID>
-      <DefaultText>Leichtes zeremonielles Gewand</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4497</ID>
-      <DefaultText>Ein verziertes Ledergeschirr hält einen gebogenen Galerus aus dick geschichtetem Leder an einer Schulter. Brust und Rücken sind jedoch vollkommen ungeschützt. Obwohl dieses Design beispiellose Beweglichkeit für eine Rüstung dieser Größe gewährt, erfordert es doch profundes Können, um effektiv eingesetzt zu werden.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4498</ID>
-      <DefaultText>Ngatis Stoßzahn</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4499</ID>
-      <DefaultText>In den Jahren vor der Ankunft der Königlichen Todesfeuer-Gesellschaft führte der Wahaki-Jäger Metani unzählige sagenumwobene Jagden auf der Insel an. Metani, der angeblich von Ngati mit unnatürlicher Gerissenheit gesegnet worden war, bevorzugte Hinterlist bei seinen Jagden und lockte riesige Seemonster in seine sorgfältig ausgelegten Fallen. Mit einer solchen List erlangte er diese Trophäe, eine aus dem langen Stoßzahn eines Leviathans geschnitzte Harpune. Im Laufe der Zeit ritzte er auf seiner ganzen Länge Bilder der Kreaturen ein, die damit besiegt wurden. Als die Rauataianer in das Todesfeuer strömten, setzte Metani Ngatis Stoßzahn gegen sie ein, begierig darauf, seine Tapferkeit gegen die Eindringlinge auf die Probe zu stellen. Er war jedoch in keiner Weise auf die eiserne Armada vorbereitet und sein kleines Boot verschwand in der Explosion einer Wasserbombe. Der Stoßzahn war verloren – die See hatte ihn sich zurückgeholt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13323,7 +13263,7 @@ Diesen Dolch hast du in den Tiefen von Poko Kahara gefunden, wo die Wandgemälde
     </Entry>
     <Entry>
       <ID>4521</ID>
-      <DefaultText>Caima akzeptiert, was als nächstes kommt. Das tun sie natürlich alle – zu einem gewissen Grad. Caima, jedoch, sie glaubt wahrhaftig. Abertausende Schrecken füllen diese Welt, wunderschön und furchtbar. Nur Engwith bleibt standhaft gegen den Sturm. Nur Engwith bringt dem Wahnsinn Vernunft entgegen.
+      <DefaultText>Caima akzeptiert, was als Nächstes kommt. Das tun sie natürlich alle – zu einem gewissen Grad. Caima, jedoch, sie glaubt wahrhaftig. Abertausende Schrecken füllen diese Welt, wunderschön und furchtbar. Nur Engwith bleibt standhaft gegen den Sturm. Nur Engwith bringt dem Wahnsinn Vernunft entgegen.
 
 Nur Engwith, flüstert Caima, als das Messer fällt.</DefaultText>
       <FemaleText />
@@ -13954,7 +13894,7 @@ Jetzt gehört er dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>4677</ID>
-      <DefaultText>Diese gepolsterte Rüstung, bekannt als „Kluger Waffenrock“, wurde einst von einem vailianischen Volkshelden namens Antin Covardo getragen. Anders als die meisten anderen Helden aus den Geschichten für Kinder war der verwegene Covardo dafür berühmt, Gefahren zu entkommen und durch Klugheit und Voraussicht Katastrophen zu vermeiden. In den Geschichten über ihn geht es nicht darum, wie er Abenteuer erlebte, einer Gefangennahme nur knapp entging oder Kämpfe nur gerade so noch gewinnen konnte. Stattdessen konzentriert sich die Moral in diesen Geschichten auf den Wert von Klugheit, guter Planung und dem Mut zu erkennen, wann es besser ist, den eigenen Stolz zu begraben und zu fliehen.</DefaultText>
+      <DefaultText>Diese gepolsterte Rüstung, bekannt als „Kluger Waffenrock“, wurde einst von einem vailianischen Volkshelden namens Antin Covardo getragen. Anders als die meisten anderen Helden aus den Geschichten für Kinder war der verwegene Covardo dafür berühmt, Gefahren zu entkommen und durch Klugheit und Voraussicht Katastrophen zu vermeiden. In den Geschichten über ihn geht es nicht darum, wie er Abenteuer erlebte, einer Gefangennahme nur knapp entging oder Kämpfe nur gerade so noch gewinnen konnte. Stattdessen konzentriert sich die &lt;xg&gt;Moral&lt;/xg&gt; in diesen Geschichten auf den Wert von Klugheit, guter Planung und dem Mut zu erkennen, wann es besser ist, den eigenen Stolz zu begraben und zu fliehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13979,7 +13919,7 @@ Jetzt gehört er dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>4682</ID>
-      <DefaultText>Diese wuchtige Rüstung wurde von den alten Aedyranern gefertigt. Sie besteht aus mehreren Schichten Bronze und ist extrem schwer und unhandlich. Allerdings bietet sie einen Schutz, der mit dem einer eisernen Rüstung vergleichbar ist. Wenn ein Hieb die Rüstung trifft, vibriert sie wie eine Glocke, und diese Vibrationen übertragen sich auf den Angreifer.</DefaultText>
+      <DefaultText>Diese wuchtige Rüstung wurde von den alten Aedyrern gefertigt. Sie besteht aus mehreren Schichten Bronze und ist extrem schwer und unhandlich. Allerdings bietet sie einen Schutz, der mit dem einer eisernen Rüstung vergleichbar ist. Wenn ein Hieb die Rüstung trifft, vibriert sie wie eine Glocke, und diese Vibrationen übertragen sich auf den &lt;xg&gt;Angreifer&lt;/xg&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14294,19 +14234,19 @@ An einem Abend trug ein völlig dem Wahnsinn verfallener Cafed das Schwert trotz
     </Entry>
     <Entry>
       <ID>4788</ID>
-      <DefaultText>Ein aedyranischer Entdecker vernahm einmal die Legende über ein engwithanisches Grab gefüllt mit den größten Schätzen des Imperiums. Eisern entschlossen, sich selbst einen Namen zu machen und sich ein Vermögen zu verschaffen, beauftragte er einen der besten Schmiede des Dyrwaldes mit dem Schmieden einer Klinge, die dieser Ziele würdig war.
+      <DefaultText>Ein aedyrischer Entdecker vernahm einmal die Legende über ein engwithanisches Grab gefüllt mit den größten Schätzen des Imperiums. Eisern entschlossen, sich selbst einen Namen zu machen und sich ein Vermögen zu verschaffen, beauftragte er einen der besten Schmiede des Dyrwaldes mit dem Schmieden einer Klinge, die dieser Ziele würdig war.
 
 Er stieg zu einem Ort hinab, der als die Endlosen Pfade von Od Nua bekannt ist. Man hat nie wieder etwas von ihm gehört. Seine Besitztümer wurden durch die merkwürdigen bösen Mächte in alle Winde zerstreut, die in dieser über alle Maßen wertvollen Klinge wohnten, und die Klinge selbst zerbrach. Am Ende gelang es dem Wächter von Caed Nua, die Splitter einzusammeln und die Waffe neu zu schmieden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4789</ID>
-      <DefaultText>Whaki Tua</DefaultText>
+      <DefaultText>Wahaki Tua</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4790</ID>
-      <DefaultText>Dieses Amulett dient der Auszeichnung der Wahaki-Krieger, die außergewöhnliche Tapferkeit und Fähigkeiten an den Tag gelegt haben.</DefaultText>
+      <DefaultText>Dieses Amulett dient der Auszeichnung der Wahaki-Krieger, die außergewöhnliche &lt;xg&gt;Tapferkeit&lt;/xg&gt; und Fähigkeiten an den Tag gelegt haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14390,19 +14330,19 @@ Eines Tages blickte die Kunsthandwerkerin von ihrer Arbeit auf – und entdeckte
     </Entry>
     <Entry>
       <ID>4813</ID>
-      <DefaultText>In den frühen Tagen, als die Vailianer die Meere erkundeten, wurde jedes Schiff, das sich in unbekannte Gewässer begab, von zahllosen Gefahren bedroht. Selbst geringe Verletzungen oder leichte Krankheiten konnten die Mannschaft eines Schiffes stark mitnehmen; schließlich war man fern jeder medizinischen Hilfe. Oft wurde Expeditionen dadurch lange vor ihrem Abschluss ein Ende gesetzt. Solche Wagnisse wurden oft von vailianischen Interessen finanziert und stellten einen beträchtlichen Wert dar. Deshalb nahm die Admiralität die Dienste von Gregori Felizze me Fontina in Anspruch, eines angesehenen Arztes.
+      <DefaultText>In den frühen Tagen, als die Vailianer die Meere erkundeten, wurde jedes Schiff, das sich in unbekannte Gewässer begab, von zahllosen Gefahren bedroht. Selbst geringe &lt;xg&gt;Verletzungen&lt;/xg&gt; oder leichte Krankheiten konnten die Mannschaft eines Schiffes stark mitnehmen; schließlich war man fern jeder medizinischen Hilfe. Oft wurde Expeditionen dadurch lange vor ihrem Abschluss ein Ende gesetzt. Solche Wagnisse wurden oft von vailianischen Interessen finanziert und stellten einen beträchtlichen Wert dar. Deshalb nahm die Admiralität die Dienste von Gregori Felizze me Fontina in Anspruch, eines angesehenen Arztes.
 
 Fontina arbeitete mit Verzauberern und Erfindern zusammen und entwickelte eine Methode zur Übertragung grundlegenden medizinischen Wissens auf Halsreife, die leicht hergestellt, verschifft und gelagert werden konnten – und die erschwinglich waren. Diese Geräte wurden an alle Quartiermeister und Schiffsärzte verteilt. Das ermöglichte es ihnen, die Schiffsmannschaft effektiver zu behandeln. Nach der Einführung dieses Amuletts stellte die Admiralität fest, dass die Überlebensrate ihrer Mannschaften zwar nur wenig, aber doch merkbar anstieg – und entsprechend auch die Erfolgsrate der Expeditionen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4814</ID>
-      <DefaultText>Anspruch und Ablehnung</DefaultText>
+      <DefaultText>Beanspruchung und Ablehnung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4815</ID>
-      <DefaultText>Dieser Anhänger trägt das Wahrzeichen eines Patrizierhauses der Aedyraner, dem ein ungewolltes Kind geboren wurde. Das Elfenmädchen wurde die meiste Zeit ihres jungen Lebens in ihrer Kammer eingesperrt. Sie litt schrecklich unter Anfällen und Fieber, das Halluzinationen auslöste. Ihre Eltern jedoch ignorierten das bewusst und vernachlässigten sie sträflich. Durch einen &lt;i&gt;Haemneg&lt;/i&gt; hatten sie dem Mädchen eine menschliche Stiefmutter beschafft. Diese hatte Mitleid mit dem Kind und betreute sie liebevoll. Sie war die Einzige, der das Mädchen am Herzen lag.
+      <DefaultText>Dieser Anhänger trägt das Wahrzeichen eines Patrizierhauses der Aedyrer, dem ein ungewolltes Kind geboren wurde. Das Elfenmädchen wurde die meiste Zeit ihres jungen Lebens in ihrer Kammer eingesperrt. Sie litt schrecklich unter Anfällen und Fieber, das Halluzinationen auslöste. Ihre Eltern jedoch ignorierten das bewusst und vernachlässigten sie sträflich. Durch einen &lt;i&gt;Haemneg&lt;/i&gt; hatten sie dem Mädchen eine menschliche Stiefmutter beschafft. Diese hatte Mitleid mit dem Kind und betreute sie liebevoll. Sie war die Einzige, der das Mädchen am Herzen lag.
 
 Als das Mädchen ein ausreichend reifes Alter erreicht hatte, begab sie sich auf Reisen durch das Land. Sie behauptete, ihre Visionen, die sie während der Fieberanfälle erlebte, seien immer klarer geworden und würden ihr einen Blick in Vergangenheit, Gegenwart und Zukunft verschaffen. Sie begann, den Leuten die Zukunft vorauszusagen, und nachdem sie dabei bemerkenswert oft und gut ins Schwarze traf, wurde die Zahl ihrer Anhänger rasch immer größer. Ihre Eltern waren vollkommen entsetzt, dass ihre Tochter ihre privilegierte Stellung hinter sich gelassen hatte und nun das Leben einer mystischen Vagabundin führte.
 
@@ -14413,7 +14353,7 @@ Als die Stiefmutter im Lager der Prophetin eintraf, wichen die dort versammelten
     </Entry>
     <Entry>
       <ID>4816</ID>
-      <DefaultText>Sisyphosstein</DefaultText>
+      <DefaultText>Sisyfosstein</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14478,7 +14418,7 @@ Schiffsberger fanden die Rotwein später im Wasser treibend. Die kopflosen Leich
     </Entry>
     <Entry>
       <ID>4832</ID>
-      <DefaultText>Die Ursprünge dieses Säbels sind unbekannt. Die Zusammensetzung des verwendeten Stahls deutet allerdings darauf hin, dass er möglicherweise in der Weißmark geschmiedet wurde. Ein aedyranischer Freibeuter mit dem Namen Tarn Baeris, der sich bereits zur Ruhe gesetzt hatte, entdeckte die Klinge zufällig in der Ruine eines Wachturms auf seinem Anwesen im östlichen Abschnitt. Als der Kaiser während des Trutzkrieges Tarn zurückrief und von ihm verlangte, dass er ihm erneut diente, nahm er die Waffe mit.
+      <DefaultText>Die Ursprünge dieses Säbels sind unbekannt. Die Zusammensetzung des verwendeten Stahls deutet allerdings darauf hin, dass er möglicherweise in der Weißmark geschmiedet wurde. Ein aedyrischer Freibeuter mit dem Namen Tarn Baeris, der sich bereits zur Ruhe gesetzt hatte, entdeckte die Klinge zufällig in der Ruine eines Wachturms auf seinem Anwesen im östlichen Abschnitt. Als der Kaiser während des Trutzkrieges Tarn zurückrief und von ihm verlangte, dass er ihm erneut diente, nahm er die Waffe mit.
 
 Tarn war kein junger Mann mehr und überhaupt nicht begierig darauf, zur See zurückzukehren, doch er diente dem Imperium voller Entschlossenheit. Man beauftragte ihn damit, die vailianischen Korsaren zurückzuschlagen, die den Rebellen im Dyrwald Vorräte brachten. Tarn war ein Mann der Ehre. Deshalb entschloss er sich dazu, Schiffe und Mannschaften zu verschonen, die er besiegt hatte. Deshalb bot sich ihm nur selten ein Grund, seine Klinge zu ziehen.
 
@@ -14616,7 +14556,7 @@ Maoalahua machte bei einem Kampf keinerlei Unterschiede – er tötete alle, die
     </Entry>
     <Entry>
       <ID>4892</ID>
-      <DefaultText>Dieses aufwändige Rüstungsstück trägt als Herstellerzeichen die Insignien der kaiserlichen Schmiede von Aedyr. Wahrscheinlich wurde es einmal von der Fercönyng-Elite der Palastwachen getragen, den Raektänki. Diese furchtlosen Krieger haben die Mitglieder des königlichen Palastes schon lange vor den Zeiten des Imperiums geschützt. In ihrer frühesten Form trugen die Raektänki Speere und Schilde. Heute allerdings sind schimmernde große Schwerter ihre Ausrüstung. Man kann sie an ihren berühmten mit Wappen versehenen Halbumhängen und den glänzenden Flügelhelmen erkennen.</DefaultText>
+      <DefaultText>Dieses aufwendige Rüstungsstück trägt als Herstellerzeichen die Insignien der kaiserlichen Schmiede von Aedyr. Wahrscheinlich wurde es einmal von der Fercönyng-Elite der Palastwachen getragen, den Raektänki. Diese furchtlosen Krieger haben die Mitglieder des königlichen Palastes schon lange vor den Zeiten des Imperiums geschützt. In ihrer frühesten Form trugen die Raektänki Speere und Schilde. Heute allerdings sind schimmernde große Schwerter ihre Ausrüstung. Man kann sie an ihren berühmten mit Wappen versehenen Halbumhängen und den glänzenden Flügelhelmen erkennen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14651,7 +14591,7 @@ Maoalahua machte bei einem Kampf keinerlei Unterschiede – er tötete alle, die
     </Entry>
     <Entry>
       <ID>4904</ID>
-      <DefaultText>Dieser Ring wurde heimlich angefertigt von einem Rivalen des Beseelers, der das große Schwert Rad der Leere geschmiedet hat. Dieser Rivale plante, beim unvermeidlichen Tod des Beseelers die Waffe zu stehlen. Dieser Ring sollte ihn vor der furchtbaren Macht des Schwertes beschützen.</DefaultText>
+      <DefaultText>Dieser Ring wurde heimlich angefertigt von einem Rivalen des Beseelers, der das große Schwert Rad der Leere geschmiedet hat. Dieser Rivale plante, beim unvermeidlichen &lt;xg&gt;Tod&lt;/xg&gt; des Beseelers die Waffe zu stehlen. Dieser Ring sollte ihn vor der furchtbaren &lt;xg&gt;Macht&lt;/xg&gt; des Schwertes beschützen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14706,7 +14646,7 @@ Giacolo</DefaultText>
     </Entry>
     <Entry>
       <ID>4913</ID>
-      <DefaultText>Edér hat diese Rüstung während seiner Zeit im Krieg des Heiligen getragen. Ihre dunkle Farbe ist ebenso ungewöhnlich wie ihre große Macht. Edér gibt offen zu, dass diese Rüstung ihn schon mehrfach vom Rand des Todes geholt hat. Er behauptet allerdings auch, sie habe sich niemals in der Hand eines anderen befunden. Es ist ihm ein Rätsel, wie es zur Verzauberung dieser Rüstung kommen konnte.</DefaultText>
+      <DefaultText>Edér hat diese Rüstung während seiner Zeit im Krieg des Heiligen getragen. Ihre dunkle Farbe ist ebenso ungewöhnlich wie ihre große &lt;xg&gt;Macht&lt;/xg&gt;. Edér gibt offen zu, dass diese Rüstung ihn schon mehrfach vom Rand des Todes geholt hat. Er behauptet allerdings auch, sie habe sich niemals in der Hand eines anderen befunden. Es ist ihm ein Rätsel, wie es zur Verzauberung dieser Rüstung kommen konnte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14763,7 +14703,7 @@ Giacolo</DefaultText>
       <ID>4927</ID>
       <DefaultText>Casità Samelia trug diesen Brustpanzer bei der Verteidigung eines Schiffes voller Würdenträger der Darcozzi-Familie gegen eine Bande von mörderischen Piraten. Die Piraten verfügten nicht nur über ein mächtiges Kriegsschiff und eine blutrünstige Mannschaft, sondern auch über einen furchterregenden Seedrachen. Sie waren es seit langem gewohnt, dass alle angesichts dieser überwältigenden Vorteile auf Seiten der Piraten sofort kapitulierten. Als die Schaluppe der Darcozzi sich dann in Angriffsposition begab und auf das Piratenschiff zustürmte, statt dass der Kapitän sich ergab, waren die Piraten höchst verblüfft.
 
-Mit dem Schwert in der Hand gab Samelia den Befehl zur Kollisionsgeschwindigkeit und zum Entern. Ihre Mannschaft und die kleine Gruppe der Paladine waren zahlenmäßig unterlegen – aber nicht kräftemäßig. Mutig trugen sie den Kampf auf das Schiff ihrer Angreifer. Doch Verzweiflung erfasste sie, als der Drache der Piraten auftauchte. Samelia allein stellte sich der Bestie entgegen.
+Mit dem Schwert in der Hand gab Samelia den Befehl zur Kollisionsgeschwindigkeit und zum Entern. Ihre Mannschaft und die kleine Gruppe der Paladine waren zahlenmäßig unterlegen – aber nicht kräftemäßig. &lt;xg&gt;Mutig&lt;/xg&gt; trugen sie den Kampf auf das Schiff ihrer &lt;xg&gt;Angreifer&lt;/xg&gt;. Doch Verzweiflung erfasste sie, als der Drache der Piraten auftauchte. Samelia allein stellte sich der Bestie entgegen.
 
 Der wütende Drache schlug mit den Klauen nach ihr. Dabei entriss er ihr die Brustplatte und zerfetzte Stahl wie Fleisch gleichermaßen. Bereits tödlich verwundet, gelang es Samelia, ihre Klinge im Drachen zu versenken. Stück für Stück zwang sie ihn dann zum Rückzug, bis er von Bord fiel – und sie mit ihm. Ihre triumphale Mannschaft konnte nur hilflos zusehen, als ihre Kapitänin in den Tiefen des Meeres versank, ihre Klinge noch immer tief vergraben in der Brust der besiegten Bestie. Die halb zerstörte Brustplatte war an Deck zurückgeblieben – das Einzige, das von der Paladin noch übrig war.</DefaultText>
       <FemaleText />
@@ -14884,7 +14824,7 @@ Bruno wurde im eigenen Bett ermordet. Als Warnung hinterließen seine Mörder di
     </Entry>
     <Entry>
       <ID>4950</ID>
-      <DefaultText>Dieses elegante Großschwert ist von aedyranischer Machart. Gesandte des Aedyr-Reichs übergaben ihn zusammen mit sieben ähnlichen Waffen nach Ende des Trutzkrieges dem ersten Duc des Freien Palatinats von Dyrwald. Als Symbol für das Ende der Feindseligkeiten gedacht, repräsentierte dieses Geschenk zudem die de facto Anerkennung des Freien Palatinats. Der Duc, erfreut über diese Anerkennung seiner Herrschaft, nahm es an.
+      <DefaultText>Dieses elegante Großschwert ist von aedyrischer Machart. Gesandte des Aedyr-Reichs übergaben ihn zusammen mit sieben ähnlichen Waffen nach Ende des Trutzkrieges dem ersten Duc des Freien Palatinats von Dyrwald. Als Symbol für das Ende der Feindseligkeiten gedacht, repräsentierte dieses Geschenk zudem die de facto Anerkennung des Freien Palatinats. Der Duc, erfreut über diese Anerkennung seiner Herrschaft, nahm es an.
 
 Als Geste der Solidarität mit jenen, die für die Unabhängigkeit des Dyrwalds gekämpft hatten, verteilte der Duc sechs der Waffen an seine Grafen. Nach Helstor und Kaltwasser gingen die beiden Kavalier-Klingen. Der Griff und Norwaech erhielten die Turm-Hämmer. Die Grafen von Aschfall und Tenferths nahmen die Abtstäbe entgegen.
 
@@ -14913,7 +14853,7 @@ Die beiden verbleibenden Großschwerter, die Herrschaft der Königin und der Zor
     </Entry>
     <Entry>
       <ID>4955</ID>
-      <DefaultText>In dieser kleinen Glocke aus ymyranischem Stahl fehlt der Klöppel. Sie verursacht jedoch einen misstönenden Klang, wenn man sie schwingt. Diese Gabe von Berath trägt die Macht über Leben, Tod und Untod in sich.</DefaultText>
+      <DefaultText>In dieser kleinen Glocke aus ymyranischem Stahl fehlt der Klöppel. Sie verursacht dennoch einen misstönenden Klang, wenn man sie schwingt. Diese Gabe von Berath trägt die &lt;xg&gt;Macht&lt;/xg&gt; über Leben, Tod und Untod in sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14957,7 +14897,7 @@ Flaune Elette“</FemaleText>
     <Entry>
       <ID>4960</ID>
       <DefaultText>Lasst dies als allgemeine Erinnerung dienen, dass die Flammennāga &lt;i&gt;empfindlich auf Störungen&lt;/i&gt; reagieren. Wenn ihr nach unten müsst, dann macht einen großen Bogen um Schmiedemeisterin Tythus, wenn sie bei der Arbeit ist. Viele ihrer Leuten hatten in der Vergangenheit keine guten Begegnungen mit Gestandenen und nutzen die Schmiede als eine Art kreatives Ventil. Lasst uns also alle dazu beitragen, dass sie sich hier wohlfühlen, in Ordnung?
-Akolyt Kinnuq</DefaultText>
+Akolyth Kinnuq</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14992,7 +14932,7 @@ Eine Seite scheint der Reiseplan eines Schiffs zu sein, mit einer Liste von Häf
 
 Die zweite Seite ist eine Liste von Namen. „Bearn“ erscheint darauf ungefähr in der Mitte. Ein Nachname wird nicht genannt.
 
-Es gibt auch eine Frachtliste, in der erfasst wurde, welche Fracht in jedem Hafen zu laden ist. Die meisten Waren, die in Neketaka geladen werden, sind Nahrungsmittel und Getränke, doch ein Artikel fällt aus dem Rahmen: „Gift, Aedyranische Baumviper.“ Die Menge ist in „Fläschchen“ angegeben und zählt mehrere Dutzend.
+Es gibt auch eine Frachtliste, in der erfasst wurde, welche Fracht in jedem Hafen zu laden ist. Die meisten Waren, die in Neketaka geladen werden, sind Nahrungsmittel und Getränke, doch ein Artikel fällt aus dem Rahmen: „Gift, Aedyrische Baumviper.“ Die Menge ist in „Fläschchen“ angegeben und zählt mehrere Dutzend.
 
 Letztlich gibt es noch eine Karte, die Orte zu markieren scheint, an denen Eothas auf den Inseln gesichtet wurde. Es wurde eine Linie gezogen, die diese Punkte miteinander verbindet. Sie führt auf einen Kurs nach Norden, über den Ort seiner jüngsten Sichtung hinaus und ein Punkt entlang dieser Linie wurde mit einem „X“ markiert.</DefaultText>
       <FemaleText />
@@ -15006,7 +14946,7 @@ Letztlich gibt es noch eine Karte, die Orte zu markieren scheint, an denen Eotha
       <ID>4967</ID>
       <DefaultText>In diesen Umhang sind Kupferfäden gewoben. Ein exzentrischer Zauberer hat ihn gefertigt. Er sollte ihn vor Elektrizität schützen. Die ersten Experimente des Zauberers verliefen sehr vielversprechend. Das Kleidungsstück schien die Wirkung der mächtigsten Blitz-Zaubersprüche des Zauberers aufzunehmen und in eine neue Richtung zu lenken. Nachdem er sich selbst unzählige Elektroschocks verpasst hatte, ging es ihm deswegen kein bisschen schlechter. Nun gut, er erlitt ein paar Verbrennungen, und außerdem blieb ein hartnäckiges nervöses Zucken zurück, das sich umso mehr intensivierte, je näher er Gegenständen aus Metall kam.
 
-Die nur begrenzten Daten, die seine Experimente lieferten, stellten den perfektionistischen Zauberer jedoch nicht zufrieden. Simple Zaubersprüche reichten einfach nicht aus. Er musste die Wirkung seines Umhangs mitten im rasenden Zorn eines echten Gewitters testen. Als ein solches Gewitter nahte, schlang sich der Zauberer den Umhang um die Schultern und kletterte auf die Spitze des Turms über seinem Labor. Dann lenkte er den Blitz auf sich. Gleich sieben Blitzschläge gleichzeitig trafen den Zauberer und warfen ihn vom Turm hinab in den Sandgarten. Als er unten auftraf, blitzte es grell auf. Der Sand wurde in Glas verwandelt, und alle Bäume des Gartens standen auf einmal in Flammen. Der Zauberer hatte sich mehrere Knochen gebrochen und eine Gehirnerschütterung erlitten, aber er war am Leben, und er erklärte sein Experiment zu einem durchschlagenden Erfolg.</DefaultText>
+Die nur begrenzten Daten, die seine Experimente lieferten, stellten den perfektionistischen Zauberer jedoch nicht zufrieden. Simple Zaubersprüche reichten einfach nicht aus. Er musste die Wirkung seines Umhangs mitten im rasenden Zorn eines echten Gewitters testen. Als ein solches Gewitter nahte, schlang sich der Zauberer den Umhang um die Schultern und kletterte auf die Spitze des Turms über seinem Labor. Dann lenkte er den Blitz auf sich. Gleich sieben Blitzschläge gleichzeitig trafen den Zauberer und warfen ihn vom Turm hinab in den Sandgarten. Als er unten auftraf, blitzte es grell auf. Der Sand wurde in Glas verwandelt, und alle Bäume des Gartens standen auf einmal in Flammen. Der Zauberer hatte sich mehrere Knochen gebrochen und eine &lt;xg&gt;Gehirnerschütterung&lt;/xg&gt; erlitten, aber er war am Leben, und er erklärte sein Experiment zu einem durchschlagenden Erfolg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15397,7 +15337,7 @@ Dann haben meine Diener mir berichtet, dass dein Wachturm zerstört wurde. Ich z
 
 Doch Berath hat dich von dieser fernen Küste geholt. Gibt es ein besseres Zeichen dafür, dass wir beide dafür bestimmt sind, gegeneinander zu kämpfen?“
 
-Das Schreiben setzt sich auf diese Art noch eine Weile fort. Es ist unterschrieben mit: „Fürst Raedric VII., Thayn von Goldtal, Meister von Berath“</DefaultText>
+Das Schreiben setzt sich auf diese Art noch eine Weile fort. Es ist unterschrieben mit: „Fürst Raedric VII., Thayn von Goldtal, Meister von Berath.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15426,7 +15366,7 @@ Zwischen den beiden fand ein grimmiger Säbelkampf statt. Der Oberaufseher, so g
       <ID>5077</ID>
       <DefaultText>Diese schon reichlich ausgefranste Robe ist die Soutane eines wegen seines übergroßen Stolzes in Ungnade gefallenen Priesters. Inzwischen erinnert die Soutane eher an die Kleidung eines Bettlers. Das teilweise zerrissene Sackleinen starrt vor Schmutz und Schweiß. Der dünne Stoff bietet nur wenig Schutz gegen schlechtes Wetter.
 
-Allerdings wurde dieses Kleidungsstück einstmals gesegnet, und ein wenig der göttlichen Macht ist darin verblieben.</DefaultText>
+Allerdings wurde dieses Kleidungsstück einstmals gesegnet, und ein wenig der göttlichen &lt;xg&gt;Macht&lt;/xg&gt; ist darin verblieben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15436,7 +15376,7 @@ Allerdings wurde dieses Kleidungsstück einstmals gesegnet, und ein wenig der g�
     </Entry>
     <Entry>
       <ID>5079</ID>
-      <DefaultText>Diese Rüstung besteht aus teurem gegerbtem Leder einer ganz merkwürdigen Art. Eine Waldläuferin zog dem Kadaver eines Bocks die Haut ab. Sie hatte den Kadaver entdeckt, als sie in den Wäldern des Anwesens des Fürsten wilderte. Das Tier war zwar eindeutig tot, zeigte jedoch keinerlei Anzeichen einer Verletzung oder Krankheit. Die Waldläuferin war dankbar für die gute Gelegenheit, die sich ihr hier bot. Sie machte sich daran, den Bock zu häuten und wollte anschließend die abgezogene Tierhaut gerben und behandeln.
+      <DefaultText>Diese Rüstung besteht aus teurem gegerbtem Leder einer ganz merkwürdigen Art. Eine Waldläuferin zog dem Kadaver eines Bocks die Haut ab. Sie hatte den Kadaver entdeckt, als sie in den Wäldern des Anwesens des Fürsten wilderte. Das Tier war zwar eindeutig tot, zeigte jedoch keinerlei Anzeichen einer &lt;xg&gt;Verletzung&lt;/xg&gt; oder Krankheit. Die Waldläuferin war dankbar für die gute Gelegenheit, die sich ihr hier bot. Sie machte sich daran, den Bock zu häuten und wollte anschließend die abgezogene Tierhaut gerben und behandeln.
 
 Doch dies erwies sich als unmöglich. Noch während die Waldläuferin die Haut von den Sehnen trennte, bemerkte sie, dass die Haut des Hirsches vor ihren Augen wieder nachwuchs. Die Waldläuferin schnitt und schnitt, bis sie genügend Material beisammen hatte, um ein halbes Dutzend Tiere damit zu bedecken, aber noch immer wies der Kadaver eine völlig unversehrte Haut auf.
 
@@ -15492,7 +15432,7 @@ Fass hier bloß nichts an!</DefaultText>
     </Entry>
     <Entry>
       <ID>5087</ID>
-      <DefaultText>Dieser ungewöhnliche Degen war einst das Markenzeichen eines weithin gefürchteten Kapitäns der Príncipi. Er war dafür bekannt, die Leute, die er jagte, bis ans Ende der Inselgruppe zu verfolgen – und für seine Fähigkeit, selbst den entschlossensten Piratenjägern der Königlichen Todesfeuer-Gesellschaft immer zu entschlüpfen. Azio Calmo war ein Mann, der sich durch einen grausamen Humor und eine zähe Entschlossenheit auszeichnete. Er war der Kapitän der mit roten Segeln versehenen Schaluppe Cironos Gnade. Die Leute seiner eigenen Mannschaft fürchteten ihn ebenso sehr wie seine Feinde. Er liebte es, über seine Untergebenen sadistische Strafen zu verhängen, wenn sie seinen Erwartungen nicht entsprachen – ebenso wie er gerne die Opfer seiner Piraterie quälte. Er überstand insgesamt vier Versuche seiner Mannschaft zu meutern. Jedes Mal gelang es ihm auf wundersame Weise, einem Hinterhalt zu entkommen und den Spieß umzudrehen. Überall verbreiteten sich die Legenden des verruchten Piratenkapitäns mit Augen im Hinterkopf, phänomenal guten Reflexen und einem Degen in der Farbe schwarzer Tinte, vollständig bestehend aus ymyranischem Stahl.</DefaultText>
+      <DefaultText>Dieser ungewöhnliche Degen war einst das Markenzeichen eines weithin gefürchteten Kapitäns der Príncipi. Er war dafür bekannt, die Leute, die er jagte, bis ans Ende der Inselgruppe zu verfolgen – und für seine Fähigkeit, selbst den entschlossensten Piratenjägern der Königlichen Todesfeuer-Gesellschaft immer zu entschlüpfen. Azio Calmo war ein Mann, der sich durch einen grausamen Humor und eine zähe &lt;xg&gt;Entschlossenheit&lt;/xg&gt; auszeichnete. Er war der Kapitän der mit roten Segeln versehenen Schaluppe Cironos Gnade. Die Leute seiner eigenen Mannschaft fürchteten ihn ebenso sehr wie seine Feinde. Er liebte es, über seine Untergebenen sadistische Strafen zu verhängen, wenn sie seinen Erwartungen nicht entsprachen – ebenso wie er gerne die Opfer seiner Piraterie quälte. Er überstand insgesamt vier Versuche seiner Mannschaft zu meutern. Jedes Mal gelang es ihm auf wundersame Weise, einem Hinterhalt zu entkommen und den Spieß umzudrehen. Überall verbreiteten sich die Legenden des verruchten Piratenkapitäns mit Augen im Hinterkopf, phänomenal guten Reflexen und einem Degen in der Farbe schwarzer Tinte, vollständig bestehend aus ymyranischem Stahl.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15502,11 +15442,11 @@ Fass hier bloß nichts an!</DefaultText>
     </Entry>
     <Entry>
       <ID>5089</ID>
-      <DefaultText>Die Frau, die diese Fesseln zuletzt getragen hat, kam von einem rätselhaften Stamm bleicher Elfen. Über ihr Volk ist nur wenig bekannt. Man weiß lediglich, dass ihr Dorf irgendwann von marodierenden Sklavenhändlern überfallen und sie ins Todesfeuer gebracht wurde. An Bord des Sklavenschiffes verhielt sie sich nachgiebig, und sie sagte kein Wort. Zu ihrem Entsetzen fanden die Sklavenhändler heraus, dass man der Frau den Mund mit Draht verschlossen hatte; wahrscheinlich, als sie noch ein Kind war. Dann gelang es ihr, sich in die Gedanken der Sklavenhändler einzuschleichen.
+      <DefaultText>Die Frau, die diese Fesseln zuletzt getragen hat, kam von einem rätselhaften Stamm Bleichelfen. Über ihr Volk ist nur wenig bekannt. Man weiß lediglich, dass ihr Dorf irgendwann von marodierenden Sklavenhändlern überfallen und sie ins Todesfeuer gebracht wurde. An Bord des Sklavenschiffes verhielt sie sich nachgiebig, und sie sagte kein Wort. Zu ihrem Entsetzen fanden die Sklavenhändler heraus, dass man der Frau den Mund mit Draht verschlossen hatte; wahrscheinlich, als sie noch ein Kind war. Dann gelang es ihr, sich in die Gedanken der Sklavenhändler einzuschleichen.
 
 &lt;i&gt;Er reist in Richtung Süden. Beobachte den Himmel.&lt;/i&gt;
 
-Das löste größtes Unbehagen bei den Sklavenhändlern aus. Sie schlossen den Hals der Frau in eine aus Eisen und Adra bestehende Fessel ein, wie sie normalerweise nur bei Medien verwendet wurde, die man gefangen genommen hatte. Ansonsten bemühte man sich sehr darum, sie zu ignorieren. Als das Schiff im Todesfeuer eintraf, warfen die Sklavenhändler ihren Anker aus, neben mehreren illegalen Handelsschiffen. Sie machten sich daran, ihre Ladung aus Gestandenen zu löschen. Als man während der Auktion die Frau aufrief, sprach sie zu den Gedanken derjenigen, die sie gefangen hielten – und zwar trotz ihres Fesselkragens.
+Das löste größtes Unbehagen bei den Sklavenhändlern aus. Sie schlossen den Hals der Frau in eine aus Eisen und Adra bestehende Fessel ein, wie sie normalerweise nur bei Medien verwendet wurde, die man gefangen genommen hatte. Ansonsten bemühte man sich sehr darum, sie zu ignorieren. Als das Schiff im Todesfeuer eintraf, warfen die Sklavenhändler ihren Anker aus, neben mehreren illegalen Handelsschiffen. Sie machten sich daran, ihre Ladung aus Gestandenen abzuladen. Als man während der Auktion die Frau aufrief, sprach sie zu den Gedanken derjenigen, die sie gefangen hielten – und zwar trotz ihres Fesselkragens.
 
 &lt;i&gt;Eothas nähert sich. Er wird dem allem ein Ende bereiten.&lt;/i&gt;
 
@@ -15515,7 +15455,7 @@ Dann verschwand sie plötzlich. Alles, das zurückblieb, war diese Fessel.</Defa
     </Entry>
     <Entry>
       <ID>5090</ID>
-      <DefaultText>Dieser Drachenanhänger ist in Wirklichkeit nichts anderes als eine sehr aufwändig geschnitzte Pfeife der Art, wie sie traditionellerweise verwendet wird, um Weißblatt zu rauchen. Das Material, aus dem sie besteht, kann nichts anderes sein als eine Schuppe des großen Adra-Drachens. Es wurde besondere Sorgfalt darauf verwendet, den breiten Mund voller Zähne zu schnitzen, der als Höhlung der Pfeife dient. Der kleine Drache scheint gleichzeitig zu brüllen und zu lächeln, begierig darauf, voll mit Weißblatt gestopft zu werden, das man entzündet.
+      <DefaultText>Dieser Drachenanhänger ist in Wirklichkeit nichts anderes als eine sehr aufwendig geschnitzte Pfeife der Art, wie sie traditionellerweise verwendet wird, um Weißblatt zu rauchen. Das Material, aus dem sie besteht, kann nichts anderes sein als eine Schuppe des großen Adra-Drachens. Es wurde besondere Sorgfalt darauf verwendet, den breiten Mund voller Zähne zu schnitzen, der als Höhlung der Pfeife dient. Der kleine Drache scheint gleichzeitig zu brüllen und zu lächeln, begierig darauf, voll mit Weißblatt gestopft zu werden, das man entzündet.
 
 Die Pfeife gehörte zur persönlichen Habe von Jehrelv dem Verwirrten. Dies war ein Zauberer und Beseeler, der nicht nur für seine Liebe zum Weißblatt bekannt war, sondern auch für seine Besessenheit mit den Auswirkungen des Weißblatts auf die Seele. Seine distanzierte und grausame Natur brachte ihn dazu, in seinem Bestreben, die höheren Stadien des Bewusstseins verstehen zu lernen, viele fragwürdige Handlungen zu begehen. Er neigte dazu, die Seelen seiner Kollegen und Bekannten zu stellen. Meistens geschah dies, indem er sie dazu einlud, Weißblatt zu rauchen – und zwar sehr starkes, vergiftetes Weißblatt. Seine Opfer starben prompt, und ihre desorientierten Seelen verharrten eine Weile. Das verschaffte Jehrelv die Gelegenheit, sie in seiner Lieblingspfeife einzufangen. Er hatte ständig Pläne, mit den Seelen der in einem solchen Zustand Verstorbenen Experimente durchzuführen. Allerdings wurde er oft davon abgelenkt oder vergaß einfach wieder, was er eigentlich vorhatte.
 
@@ -15533,7 +15473,7 @@ Die Schiene dieses mysteriösen Ringes ist aus einem unbekannten Metall, aber de
     </Entry>
     <Entry>
       <ID>5092</ID>
-      <DefaultText>Dieser Ring ist ein Erbstück einer aedyranischer Söldnertruppe namens Mutterlose Hundesöhne. Diese Söldner, die es nie zu viel Ansehen brachten, sahen Treue, Ehre oder Fairness nur als Ballast an. Jedes einzelne Mitglied plante fortwährend ein Komplott nach dem anderen gegen den jeweils amtierenden Anführer, der seine Position oft mit einem Dolch im Rücken abgab. Der Verräter riss anschließend das Kommando sowie diesen Ring als Rangabzeichen an sich. Der Ring wurde von Kämpfern, Barbaren, Medien und vielerlei Leuten mit einem Faible für Gewalt getragen. Jeder von ihnen behauptete, dass der Ring ihre einzigartigen Fähigkeiten wie eine Art Glücksbringer verstärke.
+      <DefaultText>Dieser Ring ist ein Erbstück einer aedyrischer Söldnertruppe namens Mutterlose Hundesöhne. Diese Söldner, die es nie zu viel Ansehen brachten, sahen Treue, Ehre oder Fairness nur als Ballast an. Jedes einzelne Mitglied plante fortwährend ein Komplott nach dem anderen gegen den jeweils amtierenden Anführer, der seine Position oft mit einem Dolch im Rücken abgab. Der Verräter riss anschließend das Kommando sowie diesen Ring als Rangabzeichen an sich. Der Ring wurde von Kämpfern, Barbaren, Medien und vielerlei Leuten mit einem Faible für Gewalt getragen. Jeder von ihnen behauptete, dass der Ring ihre einzigartigen Fähigkeiten wie eine Art Glücksbringer verstärke.
 
 Der Ring wurde zuletzt von Haelion, einem Schurken, der im Dyrwald agierte, getragen. Dabei sollte nicht unerwähnt bleiben, dass Haelion über keinerlei (bekannte) Beziehungen zu den Hundesöhnen verfügte. Wie er an den Ring kam, bleibt ungewiss, doch ist nicht davon auszugehen, dass sich der vorherige Besitzer freiwillig von ihm trennte.</DefaultText>
       <FemaleText />
@@ -15637,7 +15577,7 @@ Nerian überlebte seine Abenteuer, und setzte sich irgendwann an seinem Familien
     </Entry>
     <Entry>
       <ID>5106</ID>
-      <DefaultText>Pallegina hat die Befehle befolgt, die sie von den Duc Bels erhalten hat. Sie hat dabei geholfen, eine exklusive Handelsvereinbarung zwischen den vailianischen Republiken und den Stämmen von Eir Glanfath zustande zu bringen. Gestärkt durch das Seelengeschenk des Wächters kämpften die wütenden Dyrwälder zwei lange Jahre lang gegen die Republiken. Die Republiken wurden durch den Handel reich, doch verloren zahlreiche Schiffe und Tausende Leben. Einige der Duc-Familien fielen bei ihren Bürgern in Ungnade. Aufstände in Selona forderten das Leben des Ducs dieser Stadt. Die anderen Ducs Bels mussten dem Druck nachgeben und ihre exklusiven Handelsrechte abgeben, um den Konflikt mit dem Dyrwald zu beenden. Pallegina wurde für ihre Dienste um die Öffnung des Handels geehrt. Glücklicherweise nahm ihr Ansehen bei den Ducs und innerhalb der Bruderschaft durch das, was folgen sollte, keinen Schaden.
+      <DefaultText>Pallegina hat die Befehle befolgt, die sie von den Duc Bels erhalten hat. Sie hat dabei geholfen, eine exklusive Handelsvereinbarung zwischen den vailianischen Republiken und den Stämmen von Eir Glanfath zustande zu bringen. Gestärkt durch das Seelengeschenk des Wächters kämpften die wütenden Dyrwälder zwei lange Jahre lang gegen die Republiken. Die Republiken wurden durch den Handel reich, doch verloren zahlreiche Schiffe und Tausende Leben. Einige der Duc-Familien fielen bei ihren Bürgern in Ungnade. Aufstände in Selona forderten das Leben des Ducs dieser Stadt. Die anderen Ducs Bels mussten dem Druck nachgeben und ihre exklusiven Handelsrechte abgeben, um den Konflikt mit dem Dyrwald zu beenden. Pallegina wurde für ihre Dienste um die Öffnung des Handels geehrt. Glücklicherweise nahm ihr Ansehen bei den Ducs und innerhalb der Bruderschaft durch das, was folgen sollte, keinen &lt;xg&gt;Schaden&lt;/xg&gt;.
 
 Pallegina trug weiterhin mit Stolz ihren Brustharnisch, der ihre Treue zur Bruderschaft, den Ducs und den Republiken zum Ausdruck bringt.</DefaultText>
       <FemaleText />
@@ -15660,9 +15600,9 @@ Ein Großteil der Seele von Verruchte Bestie ging dabei verloren, doch die Waffe
     </Entry>
     <Entry>
       <ID>5109</ID>
-      <DefaultText>Dieser Schild wurde für einen engwithanischen Heiligen gebaut, den er bei seiner ewigen Wache einsetzte. Aus einer einzelnen Adraplatte gefertigt ist Cadhu Scalth – „des Heiligen Schutz“ – ein natürliches Reservoir für Seelenenergie, das jedem Gefäß, das ihn führte, beachtliche Macht verlieh. Der Heilige wurde erst dadurch von seinem Schild getrennt, als der Vulkan, auf dem die heilige Stätte, die er bewachte, ausbrach.
+      <DefaultText>Dieser Schild wurde für einen engwithanischen Heiligen gebaut, den er bei seiner ewigen Wache einsetzte. Aus einer einzelnen Adraplatte gefertigt ist Cadhu Scalth – „des Heiligen Schutz“ – ein natürliches Reservoir für Seelenenergie, das jedem Gefäß, das ihn führte, beachtliche &lt;xg&gt;Macht&lt;/xg&gt; verlieh. Der Heilige wurde erst dadurch von seinem Schild getrennt, als der Vulkan, auf dem die heilige Stätte, die er bewachte, ausbrach.
 
-Der Schild, halb versunken in einer Grube Treibmatsch, wurde viele Jahre später von einer Gruppe Roparu-Waldarbeitern gefunden. Keiner der Roparu erkannte den Wert des Fundes, und so bargen sie ihn nur aus Neugier. Der Schild war nicht mehr als eine Kuriosität … Bis er anfing, zu „singen“, wie es einer der Waldarbeiter beschrieb. Sie berichteten ihrem Häuptling, dass die dissonante Melodie mit „leuchtenden Farben“ gesummt habe, die ihnen ihre früheren Leben gezeigt und bis aufs Mark erschüttert hätte. Der Häuptling, den die möglichen Folgen solcher Erzählungen nicht störten, nahm den Schild zu seinem persönlichen Gebrauch an sich.</DefaultText>
+Der Schild, halb versunken in einer Grube Treibmatsch, wurde viele Jahre später von einer Gruppe Roparu-Waldarbeitern gefunden. Keiner der Roparu erkannte den Wert des Fundes, und so bargen sie ihn nur aus Neugier. Der Schild war nicht mehr als eine Kuriosität … Bis er anfing, zu „singen“, wie es einer der Waldarbeiter beschrieb. Sie berichteten ihrem Häuptling, dass die dissonante Melodie mit „leuchtenden Farben“ gesummt habe, die ihnen ihre früheren Leben gezeigt und bis aufs Mark &lt;xg&gt;erschüttert&lt;/xg&gt; hätte. Der Häuptling, den die möglichen Folgen solcher Erzählungen nicht störten, nahm den Schild zu seinem persönlichen Gebrauch an sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16128,7 +16068,7 @@ Ich bin frei.</DefaultText>
     </Entry>
     <Entry>
       <ID>5191</ID>
-      <DefaultText>Aus gutem Stahl geschmiedet und graviert mit vergoldeten alt-aedyranischen Runen, die MODWYR bedeuten, war diese Klinge vor 20 Jahren ein modisch gefragtes Accessoire für einen Edelman aus Dyrwald. Allerdings hat es die Zeit mit ihm nicht sehr gut gemeint. Das filigrane Relief am Knauf wurde versehentlich und mit Gewalt verkratzt und die Lederummantelung am Griff ist blutverschmiert. Trotzdem ist die Klinge selbst scharf, auch wenn die Wärme, die ihr einst innewohnte, fort ist.</DefaultText>
+      <DefaultText>Aus gutem Stahl geschmiedet und graviert mit vergoldeten alt-aedyrischen Runen, die MODWYR bedeuten, war diese Klinge vor 20 Jahren ein modisch gefragtes Accessoire für einen Edelman aus Dyrwald. Allerdings hat es die Zeit mit ihm nicht sehr gut gemeint. Das filigrane Relief am Knauf wurde versehentlich und mit Gewalt verkratzt und die Lederummantelung am Griff ist blutverschmiert. Trotzdem ist die Klinge selbst scharf, auch wenn die Wärme, die ihr einst innewohnte, fort ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16276,7 +16216,7 @@ Ein alter Hase hat das mir erzählt, als ich das erste Mal aus einem Hafen herau
 
 Natürlich war das alles bevor ich anfing, auf der &lt;i&gt;Fischerkönigin&lt;/i&gt; zu schippern.
 
-Ein Wrack von einem Mann hat mich in der Mähre in Neketaka gefunden – ein Auge, Narben im ganzen Gesicht, ein echter Piraten–Pirat. Hat sich in der Bar an mich rangemacht als wären wir alte Freunde. ‘Siehst so aus, als würdest du dich in der Takelage eines Schiffes auskennen,‘ sagte er. Habe zuerst gedacht, er wollte mich mitnehmen und ich habe ihm das fast erlaubt. Stattdessen hat er gelacht. ‘Habe meinen Blick auf etwas Besonderes gerichtet,‘ sagte er, ‚und wir brauchten die Besten, die es gibt, um es zu erbeuten.‘
+Ein Wrack von einem Mann hat mich in der Mähre in Neketaka gefunden – ein Auge, Narben im ganzen Gesicht, ein echter Piraten–Pirat. Hat sich in der Bar an mich rangemacht als wären wir alte Freunde. ‘Siehst so aus, als würdest du dich in der Takelage eines Schiffes auskennen‘, sagte er. Habe zuerst gedacht, er wollte mich mitnehmen und ich habe ihm das fast erlaubt. Stattdessen hat er gelacht. ‘Habe meinen Blick auf etwas Besonderes gerichtet‘, sagte er, ‚und wir brauchten die Besten, die es gibt, um es zu erbeuten.‘
 
 Nun, ich gebe keine zwei halben Cents auf Prestige. Blase mein Ego so sehr auf, wie du willst – welche Art Münze bietest du an? Er hat richtig gute Münze geboten. Also bin ich mit ihm gegangen. Dumme Sache das, aber was wusste ich schon? Nichts. Nicht ein gottverdammtes Ding. Das ist mir jetzt so klar wie der Morgen.
 
@@ -16645,7 +16585,7 @@ Daraku, Meister der Wasserformer</DefaultText>
       <DefaultText>Mein Prinz,
 
 ich habe Kamauka davor gewarnt, Regen über den Festungen der Fremden zu beschwören, aber sie findet noch immer Gefallen daran, ihre Waffen verrosten und ihre Erde zu Schlamm werden zu lassen, was mir verrät, dass sie jemand zu dieser Trickserei angestiftet haben muss. Jemand, dem sie vertraut.
-Sie bewundert Euch, mein Prinz, aber lasst Euch gesagt sein, dass sie ein Sturm ist, den Ihr nicht kontrollieren könnt. Onekaza wird Euch nicht dafür danken, das Aalnest aufgestachelt zu haben. Ihr habt der Betrügerin Ngati genügend Glauben zuteil werden lassen. Jetzt nehmt Euch ein Beispiel an Amira und erwartet das Ausbrüten des Eis.
+Sie bewundert Euch, mein Prinz, aber lasst Euch gesagt sein, dass sie ein Sturm ist, den Ihr nicht kontrollieren könnt. Onekaza wird Euch nicht dafür danken, das Aalnest aufgestachelt zu haben. Ihr habt der Betrügerin Ngati genügend Glauben zuteilwerden lassen. Jetzt nehmt Euch ein Beispiel an Amira und erwartet das Ausbrüten des Eis.
 Die unruhigen Himmel sprechen von Wandel und Aufruhr. Lasst sie ruhig kommen, sage ich, aber spart Euch Eure Stärke für den Tag auf, an dem sich der Himmel öffnet.
 Ich habe empfohlen, dass Kamauka Euch aufsuchen soll. Für sie gibt es einen Platz in der Flotte, falls Ihr Amiras geschärften Schnabel gebrauchen könnt.
 
@@ -16833,7 +16773,7 @@ Und solltest du dir jemals eine Pause von all den Abenteuern und dem Zündeln g�
       <DefaultText>Ich sagte der Mannschaft, dass wir die Bastarde der schwarzen Insel von nun an „Freibeuter“ nennen müssen, weil wir eine Wohltäterin haben, die unsere Rumpfreparaturen bezahlt und unsere Vorratskammer und Schatzkisten füllt. Und dafür wollte sie bloß ein Logbuch unserer Taten. Also gut.
 Kapitän Fyrgist von den Bastarden der schwarzen Insel
 
-1. Jerek, aedyranischer Bauer. Hat sich in die Hose gemacht, als ich ihm das Erntemesser an die Gurgel gehalten hab.
+1. Jerek, aedyrischer Bauer. Hat sich in die Hose gemacht, als ich ihm das Erntemesser an die Gurgel gehalten hab.
 2. Mess ler, 31. seines Namens. Ist jetzt nicht mehr ganz so hochmütig.
 3. Leichnam mit genau 333 seltsamen Münzen bei sich. Könnte schwören, ich hab den schon mal wo gesehen.
 4. Gottähnlicher, sah aus wie ein Rotfeuerfisch. Ist ins Meer gesprungen und ward nie mehr gesehen.
@@ -17000,6 +16940,18 @@ Artfully enfused with soul essence, the blade glows in a kinship response to tho
     <Entry>
       <ID>5497</ID>
       <DefaultText>Burden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5508</ID>
+      <DefaultText>Essence Interrupter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5509</ID>
+      <DefaultText>Critics of soul manipulation disparage animancy as a reckless perversion of the natural order. While these arguments are often steeped in political animus, every once in a while they hit the mark. 
+Such is the case with the Essence Interrupter, the product of an ambitious but unorthodox outcast of the Brackenbury Sanitarium. The inventor hypothesized a surefire method to Awaken kith souls by applying an instant jolt of spiritual stimulus to the cranium. Once he modified a hunting bow to unleash projectiles of charged adra and copper, he set up a market stall in Spirento where he promised compensation to anyone who participated in his study. 
+After calmly shooting arrows between the eyes of two test subjects, the animancer was taken into custody. Authorities never recovered his bow, which to this day reflects something of its inventor's unethical eccentricity.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

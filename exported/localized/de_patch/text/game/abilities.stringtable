@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3313</EntryCount>
+  <EntryCount>3320</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -2301,7 +2301,7 @@
     </Entry>
     <Entry>
       <ID>655</ID>
-      <DefaultText>Reny Darets Geist sprach „Ich erwische dich, Ben Fidel“</DefaultText>
+      <DefaultText>Reny Darets Geist sprach „Ich erwische dich, Ben Fidel!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3041,7 +3041,7 @@
     </Entry>
     <Entry>
       <ID>926</ID>
-      <DefaultText>Der Schurke zeigt sich besonders geschickt darin, Angriffen auszuweichen, und verwandelt fast alle leichte Treffer, die Reflexe angreifen, in Fehlschläge.</DefaultText>
+      <DefaultText>Der Schurke zeigt sich besonders geschickt darin, Angriffen auszuweichen, und verwandelt fast alle Leichte Treffer, die Reflexe angreifen, in Fehlschläge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6131,7 +6131,7 @@ Einhändig: Direkter Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2156</ID>
-      <DefaultText>(Die Gefangenen erhoben sich gegen ihre Fänger) – Charaktere, deren Geschicklichkeitswirkungen aufgehoben werden, erhalten nun die Inspiration Stark.</DefaultText>
+      <DefaultText>(Die Gefangenen erhoben sich gegen ihre Fänger) – Charaktere, deren Gewandtheitswirkungen aufgehoben werden, erhalten nun die Inspiration Stark.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6843,7 +6843,7 @@ Die Priester von Eothas lernen die folgenden Zaubersprüche automatisch auf der 
 5. Wiederbelebung der Gefallenen
 6. Geringe Fürbitte
 7. Wiederauferstehung
-8. Symbol von &lt;xg&gt; Eothas&lt;/xg&gt;
+8. Symbol von &lt;xg&gt;Eothas&lt;/xg&gt;
 9. Licht von &lt;xg&gt;Eothas&lt;/xg&gt;</DefaultText>
       <FemaleText />
     </Entry>
@@ -7540,12 +7540,12 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2429</ID>
-      <DefaultText>Armbrust – &lt;link="gamedata://449aa225-7e37-48cb-9261-e6c350296968"&gt;Unterbrechender Schuss&lt;/link&gt;</DefaultText>
+      <DefaultText>Armbrust – &lt;link="gamedata://449aa225-7e37-48cb-9261-e6c350296968"&gt;Störschuss&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2430</ID>
-      <DefaultText>Dolch – &lt;link="gamedata://8c37d2f5-2aa5-4906-a2b1-5bca96a0dce2"&gt;Abwehrende Klinge&lt;/link&gt;</DefaultText>
+      <DefaultText>Dolch – &lt;link="gamedata://8c37d2f5-2aa5-4906-a2b1-5bca96a0dce2"&gt;Parierende Klinge&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7570,7 +7570,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2435</ID>
-      <DefaultText>Jagdbogen – &lt;link="gamedata://70f2228d-414d-4a29-a4e0-bd7b88afedb7"&gt;Rascher Schuss&lt;/link&gt;</DefaultText>
+      <DefaultText>Jagdbogen – &lt;link="gamedata://70f2228d-414d-4a29-a4e0-bd7b88afedb7"&gt;Schneller Schuss&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7595,7 +7595,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2440</ID>
-      <DefaultText>Mordaxt – &lt;link="gamedata://e09fa7d3-211b-4ab3-817c-a6dc31f9330d"&gt;Angriffsbedrohung&lt;/link&gt;</DefaultText>
+      <DefaultText>Mordaxt – &lt;link="gamedata://e09fa7d3-211b-4ab3-817c-a6dc31f9330d"&gt;Fesselnde Bedrohung&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7630,7 +7630,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2447</ID>
-      <DefaultText>Speer – &lt;link="gamedata://111aae3f-ba8f-4cf9-a766-58e7d1e8e8ac"&gt;Angriffsstoß&lt;/link&gt;</DefaultText>
+      <DefaultText>Speer – &lt;link="gamedata://111aae3f-ba8f-4cf9-a766-58e7d1e8e8ac"&gt;Fesselnder Stoß&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7650,7 +7650,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2451</ID>
-      <DefaultText>Kriegshammer – &lt;link="gamedata://f326f97e-6d5d-4a74-b037-46bda85cce79"&gt;Durchbohrende Hiebe&lt;/link&gt;</DefaultText>
+      <DefaultText>Kriegshammer – &lt;link="gamedata://f326f97e-6d5d-4a74-b037-46bda85cce79"&gt;Durchdringende Schläge&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7665,7 +7665,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2455</ID>
-      <DefaultText>Unterbrechender Schuss</DefaultText>
+      <DefaultText>Störschuss</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8281,7 +8281,7 @@ Das maximale Limit an Wunden ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2583</ID>
-      <DefaultText>Abwehrende Klinge</DefaultText>
+      <DefaultText>Parierende Klinge</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8356,7 +8356,7 @@ Das maximale Limit an Wunden ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2598</ID>
-      <DefaultText>Nutze die Reichweite der Pike, um deinen Gegner aus der Reserve zu locken und deinen Verbündeten dessen Schachstellen zu entblößen. Dafür richtest du selbst weniger Schaden an.</DefaultText>
+      <DefaultText>Nutze die Reichweite der Pike, um deinen Gegner aus der Reserve zu locken und deinen Verbündeten dessen Schwachstellen zu entblößen. Dafür richtest du selbst weniger Schaden an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10646,7 +10646,7 @@ Das maximale Limit an Wunden ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>3182</ID>
-      <DefaultText>Solange der kleine Welpe Kaz dir folgt, verschafft dir das einen Bonus für Heimlichkeit und Überleben, und einige der feindlichen Treffer gegen deine Gruppe werden in leichte Treffer verwandelt.</DefaultText>
+      <DefaultText>Solange der kleine Welpe Kaz dir folgt, verschafft dir das einen Bonus für Heimlichkeit und Überleben, und einige der feindlichen Treffer gegen deine Gruppe werden in Leichte Treffer verwandelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10676,7 +10676,7 @@ Das maximale Limit an Wunden ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>3189</ID>
-      <DefaultText>Feiner aedyranischer Met</DefaultText>
+      <DefaultText>Feiner aedyrischer Met</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12202,7 +12202,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3535</ID>
-      <DefaultText>Die Fertigkeit Sprengstofffe  erhöht die Kraftstufe geworfener Bomben.</DefaultText>
+      <DefaultText>Die Fertigkeit Sprengstofffe erhöht die Kraftstufe geworfener Bomben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14186,7 +14186,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>3965</ID>
-      <DefaultText>Bissangriffe verursachten direkten Giftschaden über Zeit.</DefaultText>
+      <DefaultText>Bissangriff verursacht direkten Giftschaden über Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14976,7 +14976,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4268</ID>
-      <DefaultText>Distrahos Knubbelstein teilt aus seinem Essenzvorrat. Stellt beim Träger eine kleine Menge Gesundheit wieder her.</DefaultText>
+      <DefaultText>Distrahos Knaufstein teilt aus seinem Essenzvorrat. Stellt beim Träger eine kleine Menge Gesundheit wieder her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14986,7 +14986,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4270</ID>
-      <DefaultText>Distrahos Knubbelstein pulsiert vor lebensspendender Essenz. Stellt beim Träger und nahen Verbündeten eine kleine Menge Gesundheit wieder her.</DefaultText>
+      <DefaultText>Distrahos Knaufstein pulsiert vor lebensspendender Essenz. Stellt beim Träger und nahen Verbündeten eine kleine Menge Gesundheit wieder her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15251,12 +15251,12 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4325</ID>
-      <DefaultText>Kritische Treffer mit dieser Waffe gegen männliche Ziele lösen manchmal &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Raserei&lt;/link&gt; beim Träger aus.</DefaultText>
+      <DefaultText>Kritische Treffer gegen männliche Ziele, die mit dieser Waffe verursacht werden, lösen beim Träger manchmal &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Raserei&lt;/link aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4326</ID>
-      <DefaultText>Kritische Treffer mit dieser Waffe gegen weibliche Ziele lösen manchmal &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Raserei&lt;/link&gt; beim Träger aus.</DefaultText>
+      <DefaultText>Kritische Treffer gegen weibliche Ziele, die mit dieser Waffe verursacht werden, lösen beim Träger manchmal &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Raserei&lt;/link aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15421,7 +15421,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4361</ID>
-      <DefaultText>Aura, die direkten Schaden über Zeit an nahen Gegnern verursacht und ihren Rüstungswert senkt. (Vollständiger Schadenswert für die Ziele, die dem Tod am nächsten sind)</DefaultText>
+      <DefaultText>Aura, die direkten Schaden über Zeit an nahen Gegnern verursacht und ihren Rüstungswert senkt. (Maximaler Schaden an Zielen, die Dem Tode nahe sind)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15856,7 +15856,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4452</ID>
-      <DefaultText>Gewährt skalierende Effizienz mit unbewaffneten Angriffen. Obwohl die unbewaffneten Angriffe nicht so effektiv sein werden die eines Mönchs, profitieren sie von erhöhter Genauigkeit und Durchschlagskraft sowie von erhöhtem Schaden, wenn du eine neue Stufe erreichst.</DefaultText>
+      <DefaultText>Gewährt skalierende Effizienz mit unbewaffneten Angriffen. Obwohl die unbewaffneten Angriffe nicht so effektiv sein werden wie die eines Mönchs, profitieren sie von erhöhter Genauigkeit und Durchschlagskraft sowie von erhöhtem Schaden, wenn eine neue Stufe erreicht wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16146,7 +16146,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4550</ID>
-      <DefaultText>Ein erfahrener Reisender hat dich etwas gelehrt, das deine Fähigkeiten verbessert hat.</DefaultText>
+      <DefaultText>Ein erfahrener Reisender hat dich etwas gelehrt, das deine Fertigkeiten verbessert hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16216,7 +16216,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4564</ID>
-      <DefaultText>Jeder in deiner Gruppe erhält den doppelten normalen Fähigkeiten-Bonus ihrer Klasse.</DefaultText>
+      <DefaultText>Jeder in deiner Gruppe erhält den doppelten regulären Fertigkeits-Bonus ihrer Klasse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16341,7 +16341,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4595</ID>
-      <DefaultText>Während Schnabelkopf dir folgt, erhältst du einen Bonus auf Intellekt und deine Gruppenmitglieder erhalten einen Bonus auf Fingerfertigkeitskompetenzen.</DefaultText>
+      <DefaultText>Während Schnabelkopf dir folgt, erhältst du einen Bonus auf Intellekt und deine Gruppenmitglieder erhalten einen Bonus auf Fingerfertigkeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16648,7 +16648,7 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4679</ID>
-      <DefaultText>Alchemie-Fähigkeit</DefaultText>
+      <DefaultText>Alchemie-Fertigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16883,7 +16883,7 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4820</ID>
-      <DefaultText>Schlud</DefaultText>
+      <DefaultText>Schuld</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16954,6 +16954,41 @@ Keiner.</DefaultText>
     <Entry>
       <ID>4839</ID>
       <DefaultText>Call Hatchlings</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4840</ID>
+      <DefaultText>Stand Ground</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4841</ID>
+      <DefaultText>Sigil Assault</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4842</ID>
+      <DefaultText>Concerted Assault</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4843</ID>
+      <DefaultText>Endless Assault</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4844</ID>
+      <DefaultText>Globe of Invulnerability</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4845</ID>
+      <DefaultText>Last Trick</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4846</ID>
+      <DefaultText>Charged With Soul Energy</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

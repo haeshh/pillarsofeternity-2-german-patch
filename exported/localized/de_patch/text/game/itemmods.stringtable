@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1044</EntryCount>
+  <EntryCount>1050</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -2616,7 +2616,7 @@
     </Entry>
     <Entry>
       <ID>960</ID>
-      <DefaultText>der Eotun-Verfassung</DefaultText>
+      <DefaultText>der Eoten-Verfassung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5222,6 +5222,36 @@
     <Entry>
       <ID>1633</ID>
       <DefaultText>Schleierspaltung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1638</ID>
+      <DefaultText>Experimentelle Seelen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1639</ID>
+      <DefaultText>Charged Copper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1640</ID>
+      <DefaultText>Electrical Conduit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1641</ID>
+      <DefaultText>Thermal Conduit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1642</ID>
+      <DefaultText>Soul Diplomacy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1643</ID>
+      <DefaultText>Tethered Souls</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

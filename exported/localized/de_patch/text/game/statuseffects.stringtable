@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>527</EntryCount>
+  <EntryCount>532</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -506,7 +506,7 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Verringert den Schaden auf {0:value:percent} wenn Flankiert oder von Körperwirkungen betroffen</DefaultText>
+      <DefaultText>Verringert den Schaden auf {0:value:percent}, wenn Flankiert oder von Körperwirkungen betroffen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,7 +516,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Startet die Fähigkeit wenn man Schwer verletzt ist</DefaultText>
+      <DefaultText>Startet die Fähigkeit, wenn man Schwer verletzt ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1401,7 +1401,7 @@
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>{0:value:percentbonus} Heilung erledigt. Erhöht sich mit der Fertigkeit Religion.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Heilung erzeugt. Erhöht sich mit der Fertigkeit Religion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1471,7 +1471,7 @@
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>{0:value:percent} Wille, der sich erhöht, wenn Gesundheit verloren geht (max {0:value} Wille)</DefaultText>
+      <DefaultText>{0:extravalue} Wille, der sich erhöht, wenn Gesundheit verloren geht (max {0:value} Wille)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1481,7 +1481,7 @@
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>50 % Chance auf einen Angriff des Feindes mit zufälliger Wirkung für 12,0 Sekunden bei einem kritischen Treffer im Nahkampf</DefaultText>
+	  <DefaultText>{0:value:percent} Chance, bei erlittenem kritischen Treffer im Nahkampf Gegner mit zufälliger Wirkung für {0:extravalue:duration} anzugreifen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1491,7 +1491,7 @@
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>{0:value} Abwehr und {0:extravalue} Reflexe bis zum Kampfende beim Empfang eines Treffers, ({0:triggervalue:straight}-mal stapelbar)</DefaultText>
+	  <DefaultText>{0:value} Abwehr und {0:extravalue} Reflexe bis zum Kampfende beim Erleiden eines Treffers (Kann bis zu {0:triggervalue:straight}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2271,7 +2271,7 @@
     </Entry>
     <Entry>
       <ID>484</ID>
-      <DefaultText>{0:value:percent} der erlittenen Treffer werden in leichte Treffer umgewandelt, wenn keine Verbündeten in der Nähe sind</DefaultText>
+      <DefaultText>{0:value:percent} der erlittenen Treffer werden in Leichte Treffer umgewandelt, wenn keine Verbündeten in der Nähe sind</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2311,7 +2311,7 @@
     </Entry>
     <Entry>
       <ID>494</ID>
-      <DefaultText>Die Fähigkeit aktiviert sich, wenn man dem Tod nahe ist</DefaultText>
+      <DefaultText>Die Fähigkeit aktiviert sich, wenn man Dem Tode nahe ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2637,6 +2637,31 @@
     <Entry>
       <ID>609</ID>
       <DefaultText>Gewährt {0:value} Macht, wenn ein Gruppenmitglied niedergestreckt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>Deals Best of Pierce/Shock</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>{0:value:bonuspercentbonus} Schaden als {0:damagetype} (Erhöht sich mit der Fertigkeit Metaphysik)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>Critical Hits with this weapon transfer experimental soul energy into the target, morphing them into a sentient creature when the target dies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>Critical Hits with this weapon transfer experimental soul energy into the target, morphing them into a sentient creature when the target dies (Creatures are now always allies)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>Critical Hits with this weapon transfer experimental soul energy into the target, morphing them into a sentient creature when the target dies (Creatures now live twice as long)</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
