@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_serafen_quest_1</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>143</EntryCount>
+  <EntryCount>145</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -769,6 +769,20 @@ Er fährt sich mit einer pelzigen Pfote über seinen geflochtenen Bart.</Default
     <Entry>
       <ID>161</ID>
       <DefaultText>„Ein Blasen ihrer Hörner und die Festung wäre so fest verschlossen wie aedyrisches Magranit. Wird auch so lange so bleiben, bis alle unbekannten Schiffe zu Kleinholz und noch weiter zerschossen wären.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>„Sicher, hatte ich. Dann hab ich den Fehler gemacht, es Furrante zu leihen. Hat anscheinend vergessen, dass es nicht ihm gehört.“
+
+Ein leises Knurren baut sich unterhalb seiner Nörgelei auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>„Um eine Feier ordentlich hochgehen zu lassen, sollte man sich selbst eine Einladung ergaunern. Und sich dann so anziehen, dass man Eindruck macht.“
+
+Er streckt die Brust heraus, seine Daumen sind im feinen Stoff seines Hemds festgehakt.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
