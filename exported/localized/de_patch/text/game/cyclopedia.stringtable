@@ -585,7 +585,7 @@ Vollständiger Durchschlag (130 % Schaden) tritt ein, wenn die Durchschlagskraft
 Teilweiser Durchschlag (100 % Schaden) tritt ein, wenn die Durchschlagskraft den Rüstungswerts erreicht oder übertrifft.
 Unterdurchschnittlicher Durchschlag (– 25 % des Schadens pro Punkt unter der Rüstung des Ziels, max. – 75%) tritt ein, wenn die Durchschlagskraft unter dem Rüstungswert des Ziels liegt.
 
-Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadensreduktionswerte gegen die unterschiedlichen Schadenstypen. Niedrigere RWs schützen gegen weniger Schaden, so dass das Ziel gegen Angriffe dieses Typs anfälliger ist.</DefaultText>
+Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadensreduktionswerte gegen die unterschiedlichen Schadenstypen. Niedrigere RWs schützen gegen weniger Schaden, sodass das Ziel gegen Angriffe dieses Typs anfälliger ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -764,7 +764,7 @@ Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen 
       <ID>199</ID>
       <DefaultText>Todeswächter sind außerordentlich selten. Sie entstehen manchmal beim Ableben einer besonders entschlossenen Person, die sich weigert, die physische Welt zu verlassen und ins Jenseits überzugehen. Am häufigsten tritt diese schreckliche Verwandlung bei Paladinen auf, aber auch Priester und andere Fanatiker erleiden dieses Schicksal oft.
 
-Todeswächter bewohnen weiter ihre früheren Körper, doch die Energie, die es der Seele erlaubt, in der physischen Welt zu bleiben, verzehrt das Fleisch rasch, so dass nur Knochen zurückbleiben. Todeswächter werden durch ihren Zustand oft in den Wahnsinn getrieben. Sie sind furchterregende Feinde, die jeden vor Angst und Schrecken erzittern lassen, der ihnen gegenübersteht.
+Todeswächter bewohnen weiter ihre früheren Körper, doch die Energie, die es der Seele erlaubt, in der physischen Welt zu bleiben, verzehrt das Fleisch rasch, sodass nur Knochen zurückbleiben. Todeswächter werden durch ihren Zustand oft in den Wahnsinn getrieben. Sie sind furchterregende Feinde, die jeden vor Angst und Schrecken erzittern lassen, der ihnen gegenübersteht.
 
 Ihre brüchige Verbindung zum Jenseits ermöglicht es ihnen, furchterregende Feuerbälle oder Schatten zu beschwören und sogar mit einem einzigen Wort die Lebenden zu töten.</DefaultText>
       <FemaleText />
@@ -1111,7 +1111,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>Nach dem Tod eines Körpers entweicht die Seele und findet einen Weg in eine Adra-Säule, so dass sie wieder in den eoranischen Kreislauf der Wiedergeburt eintauchen kann. Manchmal gelingt es Seelen nicht, diese Säulen zu erreichen, oder sie weigern sich, sie zu betreten. Diese Seelen werden als „verlorene Seelen“ oder „die Verlorenen“ bezeichnet.</DefaultText>
+      <DefaultText>Nach dem Tod eines Körpers entweicht die Seele und findet einen Weg in eine Adra-Säule, sodass sie wieder in den eoranischen Kreislauf der Wiedergeburt eintauchen kann. Manchmal gelingt es Seelen nicht, diese Säulen zu erreichen, oder sie weigern sich, sie zu betreten. Diese Seelen werden als „verlorene Seelen“ oder „die Verlorenen“ bezeichnet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4299,7 +4299,7 @@ Gaun ist ein Beantworter allen Unrechts und aller Ungleichheiten. Dies hat nicht
     </Entry>
     <Entry>
       <ID>941</ID>
-      <DefaultText>So genannt, weil allgemein geglaubt wird, dass sie aus Ländern östlich von Ondras Mörser kommen: Angehörige des Sturmvolkes trifft man nicht oft im Todesfeuer. Nur sehr wenige Angehörige der Sturmvölker haben die Reise überlebt, so dass nur eine Handvoll jemals die Sprachen des Todesfeuers oder des Östlichen Abschnitts gelernt haben. Die Geschichten, die sie über ihre Heimatländer erzählen, unterscheiden sich so stark, dass selbst gewissenhafte Gelehrte keinen kohärenten Überblick über ihre Kultur erstellen können.</DefaultText>
+      <DefaultText>So genannt, weil allgemein geglaubt wird, dass sie aus Ländern östlich von Ondras Mörser kommen: Angehörige des Sturmvolkes trifft man nicht oft im Todesfeuer. Nur sehr wenige Angehörige der Sturmvölker haben die Reise überlebt, sodass nur eine Handvoll jemals die Sprachen des Todesfeuers oder des Östlichen Abschnitts gelernt haben. Die Geschichten, die sie über ihre Heimatländer erzählen, unterscheiden sich so stark, dass selbst gewissenhafte Gelehrte keinen kohärenten Überblick über ihre Kultur erstellen können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
