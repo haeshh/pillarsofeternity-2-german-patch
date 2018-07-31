@@ -20712,7 +20712,7 @@ Möchtest du die Telemetrie jetzt aktivieren?</DefaultText>
     </Entry>
     <Entry>
       <ID>4480</ID>
-      <DefaultText>>Du hast in Pillars of Eternity Rymrgand zugesichert, die Seelen der Hohlgeborenen zu vernichten, aber letztendlich hast du sie Woedica übergeben. Du hast geholfen, die Geheimnisse der Götter und deine eigenen zu bewahren.</DefaultText>
+      <DefaultText>Du hast in Pillars of Eternity Rymrgand zugesichert, die Seelen der Hohlgeborenen zu vernichten, aber letztendlich hast du sie Woedica übergeben. Du hast geholfen, die Geheimnisse der Götter und deine eigenen zu bewahren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22417,7 +22417,7 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4908</ID>
-      <DefaultText>Version: {0} • unterstützt PoEII Versionen: {1} - {2}</DefaultText>
+      <DefaultText>Version: {0} • unterstützt PoEII Versionen: {1} – {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22567,12 +22567,12 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4957</ID>
-      <DefaultText>Beast of Winter - Installiert</DefaultText>
+      <DefaultText>Beast of Winter – Installiert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4958</ID>
-      <DefaultText>Beast of Winter - Nicht Installiert</DefaultText>
+      <DefaultText>Beast of Winter – Nicht Installiert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22665,7 +22665,7 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
       <DefaultText>Hiebschaden wird von stumpfen Klingenwaffen wie Schwertern und Zweihändern verursacht. Fähigkeiten mit Hiebschaden haben meistens einen Zeitschadenseffekt.</DefaultText>
       <FemaleText />
     </Entry>
-	    <Entry>
+    <Entry>
       <ID>88009</ID>
       <DefaultText>Verteidiger besitzen eine unübertroffene Konstitution und können sehr viele Angriffe einsteken.
 
@@ -22693,6 +22693,5 @@ Unterstützer sind die Klassen: Sänger, Paladin und Priester.</DefaultText>
 Massenkontrolle sind die Klassen: Barbar, Sänger, Medium, Druide und Zauberer.</DefaultText>
       <FemaleText />
     </Entry>
-
   </Entries>
 </StringTableFile>

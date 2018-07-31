@@ -1481,7 +1481,7 @@
     </Entry>
     <Entry>
       <ID>304</ID>
-	  <DefaultText>{0:value:percent} Chance, bei erlittenem kritischen Treffer im Nahkampf Gegner mit zufälliger Wirkung für {0:extravalue:duration} anzugreifen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei erlittenem kritischen Treffer im Nahkampf Gegner mit zufälliger Wirkung für {0:extravalue:duration} anzugreifen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1491,7 +1491,7 @@
     </Entry>
     <Entry>
       <ID>306</ID>
-	  <DefaultText>{0:value} Abwehr und {0:extravalue} Reflexe bis zum Kampfende beim Erleiden eines Treffers (Kann bis zu {0:triggervalue:straight}-mal gestapelt werden)</DefaultText>
+      <DefaultText>{0:value} Abwehr und {0:extravalue} Reflexe bis zum Kampfende beim Erleiden eines Treffers (Kann bis zu {0:triggervalue:straight}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1691,7 +1691,7 @@
     </Entry>
     <Entry>
       <ID>347</ID>
-	  <DefaultText>Weitere {0:value} Willen bis zum Ende des Kampfes beim Erleiden von kritischen Treffern (Kann {0:extravalue:straight}-mal gestapelt werden)</DefaultText>
+      <DefaultText>Weitere {0:value} Willen bis zum Ende des Kampfes beim Erleiden von kritischen Treffern (Kann {0:extravalue:straight}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2156,7 +2156,7 @@
     </Entry>
     <Entry>
       <ID>457</ID>
-	  <DefaultText>{0:value} Sekunden Dauer des Effekts &lt;xg&gt;Tod&lt;/xg&gt; auf Raten</DefaultText>
+      <DefaultText>{0:value} Sekunden Dauer des Effekts &lt;xg&gt;Tod&lt;/xg&gt; auf Raten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2211,7 +2211,7 @@
     </Entry>
     <Entry>
       <ID>472</ID>
-	  <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit bei einem erzielten Treffer bis zum Ende des Kampfes (Der Effekt ist bis zu {0:extravalue:straight}-mal stapelbar)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit bei einem erzielten Treffer bis zum Ende des Kampfes (Der Effekt ist bis zu {0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2551,7 +2551,7 @@
     </Entry>
     <Entry>
       <ID>572</ID>
-	  <DefaultText>{0:value:percent} Chance, beim Erleiden von Schaden durch Nahkampfwaffen, {0:extravalue:straight} Wunde zu erhalten</DefaultText>
+      <DefaultText>{0:value:percent} Chance, beim Erleiden von Schaden durch Nahkampfwaffen, {0:extravalue:straight} Wunde zu erhalten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
