@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\16_wahaki_island\16_cv_wahaki_chief</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>291</EntryCount>
+  <EntryCount>292</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -524,7 +524,7 @@ Und doch entzündet sich etwas in ihrer Seele, wie Holz, das einer Flamme zugef�
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>„Die Handelsgesellschaften würden das Land plündern, das die Götter uns geschenkt haben, und die Errungenschaften unserer Vorfahren zunichte machen.“</DefaultText>
+      <DefaultText>„Die Handelsgesellschaften würden das Land plündern, das die Götter uns geschenkt haben, und die Errungenschaften unserer Vorfahren zunichtemachen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1291,7 +1291,7 @@ Sie legt ihre Fingerspitzen aneinander und beobachtet dich genau.</DefaultText>
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Sie blinzelt dich ein, zwei Mal an. Ein Lächeln breitet sich langsam auf ihrem Gesicht aus und verzieht ihre Kriegsbemalung.</DefaultText>
+      <DefaultText>Sie blinzelt dich ein, zweimal an. Ein Lächeln breitet sich langsam auf ihrem Gesicht aus und verzieht ihre Kriegsbemalung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1533,6 +1533,11 @@ Ruāsare kneift die Augen zusammen und nickt langsam.</DefaultText>
     <Entry>
       <ID>636</ID>
       <DefaultText>„Onekaza wird enttäuscht sein zu erfahren, dass die Wahaki nicht in ihrem Namen einschreiten werden.“ Ruāsare wischt symbolisch etwas von ihren Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>„Rauataianische Kriegsschiffe kreisen um Krummsporn und die Schreie der Versklavten hallen über die Wellen wie die von verletzten Möwen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

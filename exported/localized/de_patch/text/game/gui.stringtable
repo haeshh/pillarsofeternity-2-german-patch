@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4415</EntryCount>
+  <EntryCount>4432</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -3426,7 +3426,7 @@ Legenden zufolge verliesen die Rauatai, aufgrund einer schrecklichen Katastrophe
     </Entry>
     <Entry>
       <ID>742</ID>
-      <DefaultText>Der am weitesten verbreitete Paladin-Orden, die Gütigen Wanderer, sind Führer und Beschützer für Reisende, die oftmals begrenzte Mittel haben und in gefährlichen Gegenden reisen. Den Gütigen Wanderern mangelt es zwar an dem edlen Prestige anderer Paladin-Orden, doch werden sie für ihren Edelmut und ihr Mitgefühl von vielen Bürgern respektiert. Den Gütigen Wanderern mangelt es an einer zentralisierten Struktur, und viele Mitglieder agieren selbstständig in abgelegenen Gegenden. Auch wenn der Orden dafür bekannt ist, nicht sonderlich reich zu sein, haben sie ihre Finanzen dadurch aufgebessert, indem sie Kartographie betrieben und zusammen mit Gruppen wie der Okkulten Hand Reiseführer für weniger bekannte Gegenden in Eora entwickelten.</DefaultText>
+      <DefaultText>Der am weitesten verbreitete Paladin-Orden, die Gütigen Wanderer, sind Führer und Beschützer für Reisende, die oftmals begrenzte Mittel haben und in gefährlichen Gegenden reisen. Den Gütigen Wanderern mangelt es zwar an dem edlen Prestige anderer Paladin-Orden, doch werden sie für ihren Edelmut und ihr Mitgefühl von vielen Bürgern respektiert. Den Gütigen Wanderern mangelt es an einer zentralisierten Struktur, und viele Mitglieder agieren selbstständig in abgelegenen Gegenden. Auch wenn der Orden dafür bekannt ist, nicht sonderlich reich zu sein, haben sie ihre Finanzen dadurch aufgebessert, indem sie Kartografie betrieben und zusammen mit Gruppen wie der Okkulten Hand Reiseführer für weniger bekannte Gegenden in Eora entwickelten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13227,7 +13227,7 @@ Das Erreichen des maximalen Fokus gewährt vorübergehend die „Aufstiegs“-Wi
 Während des Aufstiegs schaltet sich die Seelenpeitsche nicht ab, sondern gewährt, solange der Aufstieg anhält, sogar mehr Bonusschaden.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Wenn du dich nicht im Aufstiegs-Modus befindest, wird die Kraftstufe des Mediums gesenkt..
+Wenn du dich nicht im Aufstiegs-Modus befindest, wird die Kraftstufe des Mediums gesenkt.
 
 Wenn du dich nicht im Aufstiegs-Modus befindest, verursacht die Seelenpeitsche zwar deutlich weniger Schaden, erzeugt dafür aber mehr Fokus.
 
@@ -21202,7 +21202,7 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4584</ID>
-      <DefaultText>So genannt, weil allgemein geglaubt wird, dass sie aus Ländern östlich von Ondras Mörser kommen: Angehörige des Sturmvolkes trifft man nicht oft im Todesfeuer. Nur sehr wenige Angehörige der Sturmvölker haben die Reise überlebt, so dass nur eine Handvoll jemals die Sprachen des Todesfeuer oder des Östlichen Abschnitts gelernt haben. Die Geschichten, die sie über ihre Heimatländer erzählen, unterscheiden sich so stark, dass selbst gewissenhafte Gelehrte keinen kohärenten Überblick über ihre Kultur erstellen können.</DefaultText>
+      <DefaultText>So genannt, weil allgemein geglaubt wird, dass sie aus Ländern östlich von Ondras Mörser kommen: Angehörige des Sturmvolkes trifft man nicht oft im Todesfeuer. Nur sehr wenige Angehörige der Sturmvölker haben die Reise überlebt, sodass nur eine Handvoll jemals die Sprachen des Todesfeuers oder des Östlichen Abschnitts gelernt haben. Die Geschichten, die sie über ihre Heimatländer erzählen, unterscheiden sich so stark, dass selbst gewissenhafte Gelehrte keinen kohärenten Überblick über ihre Kultur erstellen können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22332,7 +22332,7 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4887</ID>
-      <DefaultText>The Only Answers</DefaultText>
+      <DefaultText>Die Einzigen Antworten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22516,6 +22516,21 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4944</ID>
+      <DefaultText>Thaos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4947</ID>
+      <DefaultText>Iovara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4948</ID>
+      <DefaultText>Maerwald</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4949</ID>
       <DefaultText>Das Spiel kann nicht pausiert werden</DefaultText>
       <FemaleText />
@@ -22558,6 +22573,56 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
     <Entry>
       <ID>4958</ID>
       <DefaultText>Beast of Winter - Nicht Installiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4959</ID>
+      <DefaultText>Ordhjóma</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4962</ID>
+      <DefaultText>Disables cheats</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4963</ID>
+      <DefaultText>Disables mods</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4964</ID>
+      <DefaultText>Wächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4965</ID>
+      <DefaultText>Abmelden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4966</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4967</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4969</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4970</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4971</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1050</EntryCount>
+  <EntryCount>1051</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -5252,6 +5252,11 @@
     <Entry>
       <ID>1643</ID>
       <DefaultText>Tethered Souls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1662</ID>
+      <DefaultText>Mythisch</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

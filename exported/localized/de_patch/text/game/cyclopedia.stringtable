@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>886</EntryCount>  <Entries>
+  <EntryCount>889</EntryCount>  <Entries>
     <Entry>
       <ID>43</ID>
       <DefaultText>Käfer sind nicht ganz so groß wie ein Mann, aber aufgrund ihres einschüchternden Äußeren verscheuchen sie die meisten Reisenden. Besucher werden von diesen beängstigend großen Insekten stets beeindruckt und erschreckt, was das Bild des Dyrwalds als kaum zivilisiertes, rückständiges Nest bekräftigt. Die weite Wildnis in und um den Dyrwald (und Eir Glanfath) herum gibt den Käfern genügend Platz, sich zu vermehren. Die erfolgreichste große Käferart kann sich nicht nur in ihrer Umgebung tarnen, sondern sich auch Rückenpanzer aus gewöhnlichen und widerstandsfähigen Materialien wie Holz, Stein und Adra wachsen lassen. Von glanfathanischen Stämmen ist bekannt, dass sie aus den Rückenpanzern und Beinen dieser Käfer grobe Schilde und sogar Waffen fertigen. 
@@ -101,7 +101,7 @@ Aufgrund ihrer geringen Geburtenrate spielen die Vithrack trotz ihrer extremen I
       <ID>56</ID>
       <DefaultText>In diesen amorphen Wolken wirbelt es nur vor stürmischer Energie. Im Mahlstorm materialisieren und verschwinden innerhalb eines Augenblicks Dutzende humanoider Gestalten. Während ihre Hände verzweifelt in die Luft um die Masse herum greifen und krallen, schreien ihre Gesichter vor stillem Schmerz.
 
-Bîaŵacs (Seelenwinde), wie man diese Stürme nennt, führen oft zu Zerstörungen. Wenn Seelen aus Körpern gerissen und im Auge des Sturms gefangen werden, können sie sich miteinander und mit allen allen Elementarsubstanzen im Mahlstrom verbinden. Sie stellen pures Chaos und Durcheinander – sie zu vernichten wird als Gnade für die Seelen aufgefasst, die im Inneren gefangen sind. 
+Bîaŵacs (Seelenwinde), wie man diese Stürme nennt, führen oft zu Zerstörungen. Wenn Seelen aus Körpern gerissen und im Auge des Sturms gefangen werden, können sie sich miteinander und mit allen Elementarsubstanzen im Mahlstrom verbinden. Sie stellen pures Chaos und Durcheinander – sie zu vernichten wird als Gnade für die Seelen aufgefasst, die im Inneren gefangen sind. 
 
 Das Experimentieren mit der Erzeugung von Seelenschanden ist eine andere fragwürdige Aktivität, die Beseelern in vielen Kreisen einen schlechten Ruf eingebracht hat. Manche sehen das als gefährlich und unmenschlich an, andere dagegen als ein Mittel zum Zweck an. Die Erzeugung von Seelenschande ist ein Vorwurf, den viele verängstigte Gestandene Beseelern machen.</DefaultText>
       <FemaleText />
@@ -517,7 +517,7 @@ Tapferkeit, Reflexe und Wille basieren alle auf Attributspaaren. Macht und Verfa
       <ID>148</ID>
       <DefaultText>Wirkungen sind Gruppen von negativen Auswirkungen, die auf einen Charakter angewendet werden können. Die meisten Wirkungen sind nach Attributen gruppiert. Z.B. Humpelnd und Bewegungsunfähig sind beide Gewandtheitswirkungen.
 
-Wirkungen auf Attribute können leicht durch eine entsprechende Attribut-Inspiration entgegengewirkt werden, die ebemfalls Immunität gegen Wirkungen dieser Kategorie gewährt. Z.B. kann jedes Geschicklichkeitswirkung durch die Inspirationen Schnell, Flink oder Schwungvoll entfernt werden.
+Wirkungen auf Attribute können leicht durch eine entsprechende Attribut-Inspiration entgegengewirkt werden, die ebemfalls Immunität gegen Wirkungen dieser Kategorie gewährt. Z.B. kann jede Gewandheitswirkung durch die Inspirationen Schnell, Flink oder Schwungvoll entfernt werden.
 
 Einige Charaktere sind völlig immun gegen ein oder mehrere Wirkungen. Wenn ein Charakter resistent gegen eine Kategorie von Wirkungen ist, werden eingehende Wirkungen dieses Typs abgeschwächt. Resistenz gewährt vollständige Immunität gegen die schwächsten Wirkungen dieses Attributs.
 
@@ -585,7 +585,7 @@ Vollständiger Durchschlag (130 % Schaden) tritt ein, wenn die Durchschlagskraft
 Teilweiser Durchschlag (100 % Schaden) tritt ein, wenn die Durchschlagskraft den Rüstungswerts erreicht oder übertrifft.
 Unterdurchschnittlicher Durchschlag (– 25 % des Schadens pro Punkt unter der Rüstung des Ziels, max. – 75%) tritt ein, wenn die Durchschlagskraft unter dem Rüstungswert des Ziels liegt.
 
-Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadensreduktionswerte gegen die unterschiedlichen Schadenstypen. Niedrigere RWs schützen gegen weniger Schaden, so dass das Ziel gegen Angriffe dieses Typs anfälliger ist.</DefaultText>
+Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadensreduktionswerte gegen die unterschiedlichen Schadenstypen. Niedrigere RWs schützen gegen weniger Schaden, sodass das Ziel gegen Angriffe dieses Typs anfälliger ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -764,7 +764,7 @@ Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen 
       <ID>199</ID>
       <DefaultText>Todeswächter sind außerordentlich selten. Sie entstehen manchmal beim Ableben einer besonders entschlossenen Person, die sich weigert, die physische Welt zu verlassen und ins Jenseits überzugehen. Am häufigsten tritt diese schreckliche Verwandlung bei Paladinen auf, aber auch Priester und andere Fanatiker erleiden dieses Schicksal oft.
 
-Todeswächter bewohnen weiter ihre früheren Körper, doch die Energie, die es der Seele erlaubt, in der physischen Welt zu bleiben, verzehrt das Fleisch rasch, so dass nur Knochen zurückbleiben. Todeswächter werden durch ihren Zustand oft in den Wahnsinn getrieben. Sie sind furchterregende Feinde, die jeden vor Angst und Schrecken erzittern lassen, der ihnen gegenübersteht.
+Todeswächter bewohnen weiter ihre früheren Körper, doch die Energie, die es der Seele erlaubt, in der physischen Welt zu bleiben, verzehrt das Fleisch rasch, sodass nur Knochen zurückbleiben. Todeswächter werden durch ihren Zustand oft in den Wahnsinn getrieben. Sie sind furchterregende Feinde, die jeden vor Angst und Schrecken erzittern lassen, der ihnen gegenübersteht.
 
 Ihre brüchige Verbindung zum Jenseits ermöglicht es ihnen, furchterregende Feuerbälle oder Schatten zu beschwören und sogar mit einem einzigen Wort die Lebenden zu töten.</DefaultText>
       <FemaleText />
@@ -1111,7 +1111,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>Nach dem Tod eines Körpers entweicht die Seele und findet einen Weg in eine Adra-Säule, so dass sie wieder in den eoranischen Kreislauf der Wiedergeburt eintauchen kann. Manchmal gelingt es Seelen nicht, diese Säulen zu erreichen, oder sie weigern sich, sie zu betreten. Diese Seelen werden als „verlorene Seelen“ oder „die Verlorenen“ bezeichnet.</DefaultText>
+      <DefaultText>Nach dem Tod eines Körpers entweicht die Seele und findet einen Weg in eine Adra-Säule, sodass sie wieder in den eoranischen Kreislauf der Wiedergeburt eintauchen kann. Manchmal gelingt es Seelen nicht, diese Säulen zu erreichen, oder sie weigern sich, sie zu betreten. Diese Seelen werden als „verlorene Seelen“ oder „die Verlorenen“ bezeichnet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1269,7 +1269,7 @@ Selbst ein normalerweise feindlicher Wirkungsbereich wirkt sich aber nicht auf V
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>Lagufaeth sind vierarmige Amphibien, die ihr Revier erbittert verteidigen. Ihre dicke Haut schützt sie zwar vor dem kalten Klima der Weißmark, sie leben aber dennoch bevorzugt in heißen Quellen. Daher fühlen sie sich in den warmen Gewässern des Todesfeuer–Archipels ganz wie Zuhause. Lagufaeth sind gemeinschaftliche Wilde, die nur rudimentäre Waffen besitzen – dafür aber ein natürliches Talent für die Magie. Sie sind besonders in den Bergen gefährlich, wo Stürme und Schneefall sie vor Reisenden verbergen, bis es zu spät ist. Sie können über längere Zeit unter Eis ausharren und überraschen häufig nichtsahnende Fischer.</DefaultText>
+      <DefaultText>Lagufaeth sind vierarmige Amphibien, die ihr Revier erbittert verteidigen. Ihre dicke Haut schützt sie zwar vor dem kalten Klima der Weißmark, sie leben aber dennoch bevorzugt in heißen Quellen. Daher fühlen sie sich in den warmen Gewässern des Todesfeuer–Archipels ganz wie zu Hause. Lagufaeth sind gemeinschaftliche Wilde, die nur rudimentäre Waffen besitzen – dafür aber ein natürliches Talent für die Magie. Sie sind besonders in den Bergen gefährlich, wo Stürme und Schneefall sie vor Reisenden verbergen, bis es zu spät ist. Sie können über längere Zeit unter Eis ausharren und überraschen häufig nichtsahnende Fischer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3695,9 +3695,9 @@ Inspirationen werden anhand von Attributen gruppiert (z. B. Gewandtheit, Wahrneh
       <ID>811</ID>
       <DefaultText>Bären kommen im ganzen Todesfeuer–Archipel vor. Sie bevorzugen Höhlen, die in Berghänge gegraben wurden, an denen ihre Lieblingsspeisen – Düsterbeeren, Yalōa–Nüsse und Ameisen – in Hülle und Fülle auftreten. Die etwas kleiner als ihre Verwandten aus dem Östlichen Abschnitt werdenden Todesfeuer-Bären sind dennoch bissige Gegner, wenn man sie zu Gewalt anstachelt.
 
-In den frühen Jahren der Besiedelung des Todesfeuer wurden Kolonisten gelegentlich bei Angriffen von Bären getötet. Der Tikawara-Bärenvorfall ist besonders berüchtigt. Sieben Kolonisten starben bei dem ersten Angriff, weitere drei in der folgenden Nacht, als der Bär während einer Totenwache zurückkehrte.
+In den frühen Jahren der Besiedelung des Todesfeuers wurden Kolonisten gelegentlich bei Angriffen von Bären getötet. Der Tikawara-Bärenvorfall ist besonders berüchtigt. Sieben Kolonisten starben bei dem ersten Angriff, weitere drei in der folgenden Nacht, als der Bär während einer Totenwache zurückkehrte.
 
-Manchmal fallen die Bären des Todesfeuer auch Tigern zum Opfer, wobei Bärenmütter und ihre Jungen besonders verwundbar sind. Dies wird teilweise ihrer Unfähigkeit auf Bäume zu klettern zugeschrieben, während ihre Artgenossen jenseits des Meeres diese Fähigkeit besitzen.</DefaultText>
+Manchmal fallen die Bären des Todesfeuers auch Tigern zum Opfer, wobei Bärenmütter und ihre Jungen besonders verwundbar sind. Dies wird teilweise ihrer Unfähigkeit auf Bäume zu klettern zugeschrieben, während ihre Artgenossen jenseits des Meeres diese Fähigkeit besitzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4299,12 +4299,12 @@ Gaun ist ein Beantworter allen Unrechts und aller Ungleichheiten. Dies hat nicht
     </Entry>
     <Entry>
       <ID>941</ID>
-      <DefaultText>So genannt, weil allgemein geglaubt wird, dass sie aus Ländern östlich von Ondras Mörser kommen: Angehörige des Sturmvolkes trifft man nicht oft im Todesfeuer. Nur sehr wenige Angehörige der Sturmvölker haben die Reise überlebt, so dass nur eine Handvoll jemals die Sprachen des Todesfeuer oder des Östlichen Abschnitts gelernt haben. Die Geschichten, die sie über ihre Heimatländer erzählen, unterscheiden sich so stark, dass selbst gewissenhafte Gelehrte keinen kohärenten Überblick über ihre Kultur erstellen können.</DefaultText>
+      <DefaultText>So genannt, weil allgemein geglaubt wird, dass sie aus Ländern östlich von Ondras Mörser kommen: Angehörige des Sturmvolkes trifft man nicht oft im Todesfeuer. Nur sehr wenige Angehörige der Sturmvölker haben die Reise überlebt, sodass nur eine Handvoll jemals die Sprachen des Todesfeuers oder des Östlichen Abschnitts gelernt haben. Die Geschichten, die sie über ihre Heimatländer erzählen, unterscheiden sich so stark, dass selbst gewissenhafte Gelehrte keinen kohärenten Überblick über ihre Kultur erstellen können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>942</ID>
-      <DefaultText>Lagufaeth sind vierbeinige Amphibien, die ihr Revier erbittert verteidigen. Ihre dicke Haut schützt sie zwar vor dem kalten Klima der Weißmark, sie leben aber dennoch bevorzugt in heißen Quellen. Daher fühlen sie sich in den warmen Gewässern des Todesfeuer–Archipels ganz wie Zuhause. Lagufaeth sind gemeinschaftliche Wilde, die nur rudimentäre Waffen besitzen – dafür aber ein natürliches Talent für die Magie. Sie sind besonders in den Bergen gefährlich, wo Stürme und Schneefall sie vor Reisenden verbergen, bis es zu spät ist. Sie können über längere Zeit unter Eis ausharren und überraschen häufig nichtsahnende Fischer.
+      <DefaultText>Lagufaeth sind vierbeinige Amphibien, die ihr Revier erbittert verteidigen. Ihre dicke Haut schützt sie zwar vor dem kalten Klima der Weißmark, sie leben aber dennoch bevorzugt in heißen Quellen. Daher fühlen sie sich in den warmen Gewässern des Todesfeuer–Archipels ganz wie zu Hause. Lagufaeth sind gemeinschaftliche Wilde, die nur rudimentäre Waffen besitzen – dafür aber ein natürliches Talent für die Magie. Sie sind besonders in den Bergen gefährlich, wo Stürme und Schneefall sie vor Reisenden verbergen, bis es zu spät ist. Sie können über längere Zeit unter Eis ausharren und überraschen häufig nichtsahnende Fischer.
 
 Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie können männlich oder weiblich sein. Wenn ein Lagufaeth zu einer Rotflosse heranwächst, nimmt seine Haut eine rotbraune Färbung an und auf seinem Kopf wächst ein knöcherner Kamm. Rotflossen sind selten die ältesten Mitglieder einer Gruppe – immer aber die aggressivsten. Meist sind sie dafür verantwortlich, das Nest oder die Gruppe zu verteidigen. Wenn eine Lagufaeth-Rotflosse ihren Status verliert, fällt ihr Kamm ab und ihre Haut färbt sich wieder blau, grün oder violett.</DefaultText>
       <FemaleText />
@@ -4752,6 +4752,21 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     <Entry>
       <ID>1054</ID>
       <DefaultText>The language of the Glamfellen has diverged greatly from the original tongue of their ancestors who originally settled the White that Wends. Though it may share common roots with Aedyran, Ordhjóma is incomprehensible to those who haven't studied it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1055</ID>
+      <DefaultText>Thaos ix Arkannon was a member of the Engwithan civilization and grandmaster of the Leaden Key, an organization devoted to keeping the secrets of the gods. Having allied with the goddess Woedica, Thaos possessed the power to recall the memories of all his past lives, making him one of history's most notorious schemers. He was killed by the Watcher of Caed Nua, bringing an end to the Dyrwood's Hollowborn Crisis. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1057</ID>
+      <DefaultText>Maerwald was formerly the Lord of Caed Nua and a Watcher of great ambition. His life's work was the restoration of his keep, but the knowledge of his past lives haunted him to the point of madness. He was killed by another Watcher who would go on to claim his castle and pick up the tireless work of pacifying its many dangers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1060</ID>
+      <DefaultText>Der Gold-Duc ist die einzige Münze, die im Dyrwald geprägt wird. Auf diesen Münzen sind die Gesichter historischer Ducs abgebildet, wenngleich die meisten von ihnen das Gesicht von Admeth Hadret zeigen, dem ersten Duc.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

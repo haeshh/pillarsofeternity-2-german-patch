@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\15_rdc_port\15_cv_backer_npc_marofeto_liano</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>40</EntryCount>
+  <EntryCount>41</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -216,6 +216,11 @@ Auch wenn er ein Ritter gewesen sein mag, ist er jetzt alt und schwach. Er sieht
     <Entry>
       <ID>60</ID>
       <DefaultText>[Tiefblick und Einschüchtern verbessern] „Hier, bitte sehr.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>„Abgemacht.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
