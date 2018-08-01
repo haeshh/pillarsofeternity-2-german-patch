@@ -40,9 +40,18 @@ import org.xml.sax.SAXException;
 public class Cleanup {
 	
 	JFrame cleanupWindow;
+	
+	/** The repo of the german patch, needed because it contains the xsd and the texts for de_patch */
+	final static String baseFolderDeFiles = "C:\\Repositories\\pillarsofeternity-2-german-patch";
+	
+	/** The repo of enhanced user interfaces, contains all other languages which we have changed files for */
+	final static String baseFolderEnhanchedUiRepo = "C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface";
+	
+	/** The game directory, for any language whe have nothing handcrafted */
+	final static String baseGameFolder = "E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data";
 
 	public static void main(String[] args) throws JAXBException, SAXException, IOException {
-		File stringtableSchema = new File("C:\\Repositories\\pillarsofeternity-2-german-patch\\translation_helper\\stringtable.xsd");
+		File stringtableSchema = new File(baseFolderDeFiles + "\\translation_helper\\stringtable.xsd");
 		JAXBContext jaxbContext = JAXBContext.newInstance(StringTableFile.class);
 		SchemaFactory schemaFactory = SchemaFactory.newInstance(XMLConstants.W3C_XML_SCHEMA_NS_URI);
 		Schema schema = schemaFactory.newSchema(stringtableSchema); 
@@ -53,21 +62,21 @@ public class Cleanup {
 	    Marshaller marshaller = jaxbContext.createMarshaller();
 		marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
 		
-		List<Path> filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		filesInFolder.addAll(Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\laxa_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
-		filesInFolder.addAll(Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\laxb_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
-		filesInFolder.addAll(Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\laxc_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		List<Path> filesInFolder = Files.walk(Paths.get(baseFolderDeFiles + "\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		filesInFolder.addAll(Files.walk(Paths.get(baseFolderDeFiles + "\\laxa_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		filesInFolder.addAll(Files.walk(Paths.get(baseFolderDeFiles + "\\laxb_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		filesInFolder.addAll(Files.walk(Paths.get(baseFolderDeFiles + "\\laxc_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		
-		List<Path> compareFilesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		compareFilesInFolder.addAll(Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\laxa_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
-		compareFilesInFolder.addAll(Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\laxb_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
-		compareFilesInFolder.addAll(Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\laxc_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		List<Path> compareFilesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		compareFilesInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxa_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		compareFilesInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxb_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		compareFilesInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxc_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		
 		
-		List<Path> compareFilesENInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		compareFilesENInFolder.addAll(Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\laxa_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
-		compareFilesENInFolder.addAll(Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\laxb_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
-		compareFilesENInFolder.addAll(Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\laxc_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		List<Path> compareFilesENInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		compareFilesENInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxa_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		compareFilesENInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxb_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		compareFilesENInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxc_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		
 		
 		//cleanupPart(jaxbUnmarshaller, marshaller, filesInFolder, compareFilesInFolder, compareFilesENInFolder);
@@ -75,42 +84,42 @@ public class Cleanup {
 		Cleanup cleanup = new Cleanup();
 		
 		// Base files, the handpicked stuff from Spherikal
-		List<Path> convertingBase = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\en\\text")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		List<Path> convertingBase = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\en\\text")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		
 		cleanup.stripMarkup(convertingBase, jaxbUnmarshaller,marshaller, "en_fixed");
 		
 		// Trying to get the same via the regex from the english base
-		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\en_fixed\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\en_fixed\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		cleanup.formatText(convertingBase, filesInFolder, "en", jaxbUnmarshaller, marshaller);
 		
-		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		filesInFolder = Files.walk(Paths.get(baseFolderDeFiles + "\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		cleanup.formatText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
 		//cleanup.splitupText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
 		
-		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\fr\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		filesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\fr\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		//cleanup.colorupdate(convertingBase, filesInFolder, "fr", jaxbUnmarshaller,marshaller);
 		
 		// It fix von Kilay
-		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\it\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\it\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		//cleanup.stripMarkup(filesInFolder, jaxbUnmarshaller,marshaller, "it_fixed");
 		
-		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\it_fixed\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\it_fixed\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		cleanup.formatText(convertingBase, filesInFolder, "it", jaxbUnmarshaller, marshaller);
 		
-		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\es\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		filesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\es\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		//cleanup.colorupdate(convertingBase, filesInFolder, "es", jaxbUnmarshaller,marshaller);
 		
-		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\pt\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		filesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\pt\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		//cleanup.colorupdate(convertingBase, filesInFolder, "pt", jaxbUnmarshaller,marshaller);
 		
-		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\pl\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		filesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\pl\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
  		//cleanup.colorupdate(convertingBase, filesInFolder, "pl", jaxbUnmarshaller,marshaller);
 		
 		// Ru fix von Phenomenum
-		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\ru\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\ru\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		//cleanup.colorupdate(convertingBase, filesInFolder, "ru2", jaxbUnmarshaller,marshaller);
 		
-		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\zh\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		filesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\zh\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		//cleanup.colorupdate(convertingBase, filesInFolder, "zh", jaxbUnmarshaller,marshaller);
 		
 		
@@ -277,7 +286,7 @@ public class Cleanup {
 			}
 			
 			// Clean
-			File file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\" + languageFolder + "\\text\\game\\" + colorful.getFileName());
+			File file = new File(baseFolderEnhanchedUiRepo + "\\localized\\" + languageFolder + "\\text\\game\\" + colorful.getFileName());
 			Path path;
 			List<String> lines;
 			List<String> modified;
@@ -325,7 +334,7 @@ public class Cleanup {
 								}
 							}
 						}
-						File file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface_" + i + "\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
+						File file = new File(baseFolderEnhanchedUiRepo + "_" + i + "\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
 						saveFile(marshaller, changedStrings, file);				
 					}
 				}
@@ -370,7 +379,7 @@ public class Cleanup {
 								}
 							}
 						}
-						File file = new File("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface_" + i + "\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
+						File file = new File(baseFolderEnhanchedUiRepo + "_" + i + "\\localized\\" + language + "\\text\\game\\" + plain.getFileName());
 						saveFile(marshaller, changedStrings, file);				
 					}
 				}

@@ -1547,8 +1547,8 @@ class Entry {
 	
 	final static String[] recepiesGroupMarkers = new String[] {
 		// All
-		"gender_male_l",
-		"gender_female_l"
+		"<font=\"EspinosaNova-Ornaments SDF\">a</font>", // https://samples.myfonts.net/a_92/u/b1/4d6eeef366c04e2b5f7cb3b8b975b2.gif
+		"<font=\"EspinosaNova-Ornaments SDF\">c</font>", // https://samples.myfonts.net/a_92/u/1a/006d84710296eaee92af57479c4922.gif
 	};
 	
 	public Entry addRecepieGroups(String englishBase) {
@@ -1558,16 +1558,16 @@ class Entry {
 		result.FemaleText = FemaleText;
 		
 		String[] targetWords = new String[] {
-			"<space=0.5em><#00bcd4><sprite=\"Inline\" name=\"gender_male_l\" tint=1></color>",
-			"<space=0.5em><#FF9800><sprite=\"Inline\" name=\"gender_female_l\" tint=1></color>",
+			"<space=0.8em><#FF9800><size=110%><font=\"EspinosaNova-Ornaments SDF\">a</font></size></color></line-height>",
+			"<space=0.8em><#00bcd4><size=110%><font=\"EspinosaNova-Ornaments SDF\">c</font></size></color></line-height>"
 		};
 		
 		if(englishBase.contains(recepiesGroupMarkers[0])) {
-			result.DefaultText = result.DefaultText.concat(targetWords[0]);
+			result.DefaultText = "<line-height=100>" + result.DefaultText + targetWords[0];
 		}
 		
 		if(englishBase.contains(recepiesGroupMarkers[1])) {
-			result.DefaultText = result.DefaultText.concat(targetWords[1]);
+			result.DefaultText = "<line-height=100>" + result.DefaultText + targetWords[1];
 		}	
 		
 		return result;
