@@ -173,16 +173,6 @@ class Entry {
 			tokenFehler++;
 		}
 
-		if (DefaultText.contains("/xg")) {
-			DefaultText = DefaultText.replaceFirst("xg", "g").replaceFirst("xg", "g");
-
-			tokenFehler++;
-		}
-		if (FemaleText.contains("/xg")) {
-			FemaleText = FemaleText.replaceFirst("xg", "g").replaceFirst("xg", "g");
-
-			tokenFehler++;
-		}
 
 		if (FemaleText.contains("=„")) {
 			int i = 0;
@@ -1536,6 +1526,25 @@ class Entry {
 	}
 	
 	
+	public Entry addReputation(String fileName) {
+		if(fileName.contains("gui")) {
+			Entry result = new Entry();
+			result.ID = this.ID;
+			
+			if(this.ID == 391 || this.ID == 4756) {
+				result.DefaultText = "<line-height=100><#157245>" + DefaultText + "</color></line-height>";
+				result.FemaleText = !this.FemaleText.equals("") ? "<line-height=100><#157245>" + FemaleText + "</color></line-height>" : FemaleText;
+				return result;
+			}
+			if(this.ID == 392 || this.ID == 4757) {
+				result.DefaultText = "<line-height=100><#bf2a2a>" + DefaultText + "</color></line-height>";
+				result.FemaleText = !this.FemaleText.equals("") ? "<line-height=100><#bf2a2a>" + FemaleText + "</color></line-height>" : FemaleText;
+				return result;
+			}
+		}
+		return this;
+	}
+	
 	final static String[] recepiesGroupMarkers = new String[] {
 		// All
 		"gender_male_l",
@@ -1565,14 +1574,14 @@ class Entry {
 	}
 
 	public Entry stripMarkup() {
-		this.DefaultText = this.DefaultText.replaceAll("<size=80%>.*?</size>", "");
+		this.DefaultText = this.DefaultText.replaceAll("<size=1?[18]0%>.*?</size>", "");
 		this.DefaultText = this.DefaultText.replaceAll("<(?!\\/?xg).*?>", "");
 		this.DefaultText = this.DefaultText.replaceAll("[¹²³₁₂₃]", "");
 		this.DefaultText = this.DefaultText.replaceAll(" ", " "); // NB Space gegen normales
 		this.DefaultText = this.DefaultText.replaceAll("  ", " "); // 2 space gegen 1
-		this.FemaleText = this.FemaleText.replaceAll("<size=80%>[123]</size>", "");
+		this.FemaleText = this.FemaleText.replaceAll("<size=1?[18]0%>[123]</size>", "");
 		this.FemaleText = this.FemaleText.replaceAll("<(?!\\/?xg).*?>", "");
-		this.DefaultText = this.DefaultText.replaceAll("[¹²³₁₂₃]", "");
+		this.FemaleText = this.FemaleText.replaceAll("[¹²³₁₂₃]", "");
 		this.FemaleText = this.FemaleText.replaceAll(" ", " ");
 		this.FemaleText = this.FemaleText.replaceAll("  ", " ");
 		

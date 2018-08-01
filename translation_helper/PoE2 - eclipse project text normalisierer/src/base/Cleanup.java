@@ -84,7 +84,7 @@ public class Cleanup {
 		cleanup.formatText(convertingBase, filesInFolder, "en", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-german-patch\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		//cleanup.formatText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
+		cleanup.formatText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
 		//cleanup.splitupText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\fr\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
@@ -95,7 +95,7 @@ public class Cleanup {
 		//cleanup.stripMarkup(filesInFolder, jaxbUnmarshaller,marshaller, "it_fixed");
 		
 		filesInFolder = Files.walk(Paths.get("C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface\\localized\\it_fixed\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		//cleanup.formatText(convertingBase, filesInFolder, "it", jaxbUnmarshaller, marshaller);
+		cleanup.formatText(convertingBase, filesInFolder, "it", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get("E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data\\exported\\localized\\es\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		//cleanup.colorupdate(convertingBase, filesInFolder, "es", jaxbUnmarshaller,marshaller);
@@ -214,7 +214,9 @@ public class Cleanup {
 			{
 //				entry.compareTags(enIterator.next());
 				if(entry.getID() > 80000) continue; // die für den Enzyclopädie fix
-				entry.compareIsTranslated(enIterator.next());
+				if(enIterator.hasNext()) { // Uneven Patch levels
+					entry.compareIsTranslated(enIterator.next());
+				}
 			}
 		    m.marshal(stringtable, path.toFile());
 			
@@ -311,7 +313,7 @@ public class Cleanup {
 									}
 									if(i == 1) {
 										formattedEntry = formattedEntry.addRecepieGroups(colorfulEntry.getDefaultText()); // 1
-										//formattedEntry = formattedEntry.addReputation(colorfulEntry.getDefaultText()); // 1
+										formattedEntry = formattedEntry.addReputation(plain.getFileName().toString()); // 1
 									}
 									
 									if(formattedEntry != null && !formattedEntry.getDefaultText().equals(plainEntry.getDefaultText())) {
