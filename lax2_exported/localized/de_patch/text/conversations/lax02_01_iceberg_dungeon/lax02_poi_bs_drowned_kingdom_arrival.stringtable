@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_poi_bs_drowned_kingdom_arrival</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ziemlich hübscher Ort. Wäre eine Schande, hier zu sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Warum würden sie vor Ngatis Auserwähltem weglaufen? Irgendwas stimmt hier nicht, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich könnte hier einige Feinde haben. Seid vorsichtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Verdammt, ich hätte nicht gedacht, dass wir &lt;i&gt;dermaßen&lt;/i&gt; angsteinflößend aussehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich hab schon zu oft auf Ondras salzigen Busen geschworen, durch diese Wasser zu stapfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Normalerweise laufen nur Tiere und kleine Kinder so vor mir weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Das Wasser sieht ein bisschen zu tief für kurze Beine aus. Könnte mich nicht eins von euch strammen Mädels tragen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

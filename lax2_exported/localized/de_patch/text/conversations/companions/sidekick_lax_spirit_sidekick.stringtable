@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>conversations\03_neketaka_vailian_district\03_cv_nirro_vtcq6</Name>
+  <Name>conversations\companions\sidekick_lax_spirit_sidekick</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>20</EntryCount>
+  <EntryCount>33</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -21,17 +21,17 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>"Wer bist du?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText />
+      <DefaultText>"Ich bin [Player Name], Kapitän der [Player Ship]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>[Sag nichts.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -75,13 +75,8 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>15</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>16</ID>
-      <DefaultText />
+      <DefaultText>"Lebe wohl."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,6 +96,76 @@
     </Entry>
     <Entry>
       <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

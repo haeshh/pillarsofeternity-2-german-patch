@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_03_huana_plane</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Das Untergegangene Königreich</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Durchsuche das Untergegangene Königreich nach Seelenfragmenten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde den Thron in der Versunkenen Krone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich fand eine Ecke von Rymrgands Reich vom Meer beherrscht vor. In der Ferne erheben sich alte, mit Korallen überzogene Steinbauten und das Wasser scheint aus dem Nichts zu fließen.
+
+Wenn ich den Huana-Geist finden kann, der für diesen Ort verantwortlich ist, kann ich ihn vielleicht für meine Sache anwerben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Bewohner dieses Reiches haben Angst vor mir. Sie halten mich für einen Eindringling. Wenn ich herausfinden will, was hier passiert ist, muss ich den König finden, der sie ins Exil schickte.
+
+Vieleicht kann ich von den im Wasser treibenden Seelenfragmenten mehr erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe mehrere Fragmente der Seele eines alten Huana-Königs gesammelt.
+
+Wenn ich dem Geist wieder zu seiner Machtposition verhelfe, kann ich ihn vielleicht überzeugen, mir bei der Vernichtung von Neriscyrlas zu helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich fand ein Seelenfragment im Wasser. Es vermittelte mir ein intensives Gefühl von Kummer und Verlust, von lange vergangenem Ruhm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ein anderes Seelenfragment zeigte mir im einen Moment das Bild eines prachtvollen Palastes und im nächsten das einer zerfallenen Ruine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Das Seelenfragment zeigte mir den Palast, den ich schon einmal gesehen hatte, nur hatte ich diesmal das Gefühl, diesen Ort gut zu kennen – wie einen Ort, der einmal mein Zuhause war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Das Seelenfragment nahm mich mit in den Palast und führte mich zu einem großen Thron, der vor Gold funkelte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich überzeugte König Wingauro o Watūri I, sich mit seinem Versagen abzufinden. Er stimmte zu, dass es Zeit war, das Untergegangene Königreich zu verlassen, und so verstreute ich seine Essenz in das Nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich überzeugte König Wingauro o Watūri I, sich mit seinem Versagen abzufinden. Durch neu gefundenen Mut gestärkt, stimmte er zu, mir beim Kampf gegen den Drachen Neriscyrlas zu helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich überzeugte König Wingauro o Watūri I, sich mit seinem Versagen abzufinden. Er stimmte zu, dass es Zeit war, das Untergegangene Königreich zu verlassen, und so absorbierte ich seine Seele, um sie an das Rad zurückzuführen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

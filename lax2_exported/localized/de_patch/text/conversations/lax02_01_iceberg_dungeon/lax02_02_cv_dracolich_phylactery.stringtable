@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_cv_dracolich_phylactery</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>260</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die glühenden Augen der Bestie starren dich an. Ihre spirituelle Präsenz schlägt dir ins Gesicht wie die Hitze aus einem offenen Schmelzofen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;ispeech&gt;Du kamst auf der Suche nach Vergessen. Erstaunlich.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;ispeech&gt;Hast dich mit den Seelen der Toten umhüllt, was? Ich spüre, wie sie an dir kleben wie Schnecken an einem Stein.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;ispeech&gt;Du hast von den gefallenen Reichen gespeist, die in dieser Öde hallen. Dich an ihrer Entropie überfressen wie einst ich.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>&lt;ispeech&gt;Und dich überhaupt nicht bemüht, dich vor diesem Ort zu schützen. Vor mir. Fast unglaublich. Fast.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>&lt;ispeech&gt;Es spielt keine Rolle. Nichts spielt eine Rolle. Ich werde mir deine Essenz holen und damit von hier entkommen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Warum tust du das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Lass los. Finde deine Ruhe im Nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Dein Relikt – es ist ein Phylakterium, stimmt‘s? Es nährt dich hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Hast du schon daran gedacht, Rymrgand anzugreifen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Du behauptest schon wieder, hier gefangen zu sein, aber ich habe bei Botenwacht gegen dich gekämpft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich jage einen Gott. Glaubst du, da lasse ich zu, dass mir ein &lt;i&gt;Drache&lt;/i&gt; im Weg steht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>&lt;ispeech&gt;Warum nicht? Würdest du das nicht auch tun, wenn du hier gefangen wärst?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>&lt;ispeech&gt;Würdest du nicht auch versuchen, diesem monotonen Nichts zu entkommen?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>&lt;ispeech&gt;Du hast die Anziehungskraft dieses Ortes erlebt. Ich kann ihm nicht entkommen. &lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>&lt;ispeech&gt;Nicht ohne mehr Essenz.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>&lt;ispeech&gt;Ich habe von den Echos genommen, was ich wagte. Trotz ihrer Widerstandskraft sind sie Opfer dieses Ortes.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>&lt;ispeech&gt;Die Seelen, die du trägst, strafen deine Worte Lügen!&lt;/ispeech&gt; 
+
+Sie bäumt sich auf und brüllt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Der Drache atmet langsam durch die Nasenlöcher aus und beruhigt sich dabei. Er hebt den Kopf, als ob er aus dem Jenseits blicken könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>&lt;ispeech&gt;Klammern sich deswegen diese anderen an dich? Wegen deiner Güte?&lt;/ispeech&gt;
+
+Die Bestie neigt den Kopf zur Seite, als sie auf dich herabblickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>&lt;ispeech&gt;Nein, kleiner Gestandener. Du wirst mir tatsächlich helfen, aber nicht so, wie du dir das vorstellst.&lt;/ispeech&gt;
+
+Das Wesen schlägt seine Flügel. Die spröden Knochen und das trockene Fleisch knacken in der trockenen Luft, als es sich nähert.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Nein, kleine Gestandene. Du wirst mir tatsächlich helfen, aber nicht so, wie du dir das vorstellst.&lt;/ispeech&gt;
+
+Das Wesen schlägt seine Flügel. Die spröden Knochen und das trockene Fleisch knacken in der trockenen Luft, als es sich nähert.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>&lt;ispeech&gt;Ich werde keine Zeit mehr auf dich verschwenden. Ein Gott will getötet werden.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>&lt;ispeech&gt;Du jaulst wie ein Bärenjunges. Setzen wir dem ein Ende.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>&lt;ispeech&gt;Dafür bin ich hergekommen. Ein Gegenstand mit solcher Macht, dass er selbst den Vergöttlichten trotzt.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Und wie willst du dir meine Essenz holen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"'Nichts spielt eine Rolle?' Klingt so, als hätte dich dieser Ort bereits einverleibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Angreifen.] "Bringen wir es hinter uns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Das Lachen der Kreatur hallt in deinem Geist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>&lt;ispeech&gt;Anscheinend ist der kleine Gestandene doch nicht so dumm, wie er aussieht.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Anscheinend ist die kleine Gestandene doch nicht so dumm, wie sie aussieht.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>&lt;ispeech&gt;So schlau, kleiner Gestandener.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;So schlau, kleine Gestandene.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>&lt;ispeech&gt;Was &lt;/ispeech&gt;du&lt;ispeech&gt; tust, ist egal. Meine Handlungen verdienen größere Bedeutung.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>&lt;ispeech&gt;Auf die älteste Weise. Indem ich dich verzehre.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>&lt;ispeech&gt;Das Relikt wird deinen Geist enthalten und ihn vor dem Weißen Nichts schützen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>&lt;ispeech&gt;Du wirst überleben. Auf gewisse Weise.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Was für ein Relikt soll das denn sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Sie winkt mit einer Kralle in Richtung eines Gegenstandes, der über dem Sockel zwischen dir und dem Drachen schwebt. Er strahlt spürbare Energie aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>&lt;ispeech&gt;Der Anker. Er überdauert hier, wo alle anderen Dinge zu Staub zerfallen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Was – was ist das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich spüre, dass es dutzende – vielleicht sogar hunderte – Geister enthält."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Das Dingsbums da gibt mir ein ganz schlechtes Gefühl, Käpt'n. Fühlt sich an, als wäre es voller Seelen und lechzte nach mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>&lt;ispeech&gt;Zu meinem eigenen Schutz. Sie vernichten das, was ihre Vorherrschaft bedroht, wie sie jene vernichtet haben, die vor mir kamen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Du hast eine Macht gesucht, die es mit den Göttern aufnehmen kann? Warum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Vergöttlicht? Nicht göttlich? Dann kennst du die Wahrheit über die Schöpfung der Götter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>&lt;ispeech&gt;Wie sie dich vernichtet hätten, hättest du dich nicht ins Nichts gestürzt.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>&lt;ispeech&gt;Offensichtlich. Meine Mutter war älter als eure künstlichen Götter jetzt sind, als sie mich ausgebrütet hat.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>&lt;ispeech&gt;Denkst du etwa, dass unsereins die Werke der Gestanden nicht kennt?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Wen meintest du mit 'die vor dir kamen'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>&lt;ispeech&gt;Die Ältesten. Als ich noch jung war, herrschten drei Drachen mit unerreichten Fähigkeiten über diese Meere.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>&lt;ispeech&gt;So imposant waren sie, dass die Götter sie anheuerten, um ihre großen Werke zu verteidigen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>&lt;ispeech&gt;Die Ältesten akzeptierten das Angebot und verschwanden. Die Götter hatten sie verraten. In die Falle gelockt. Ermordet.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Die ältesten Huana-Legenden erzählen von drei Wächtern, aber ..." Tekēhu zieht nachdenklich an seinen Haaren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Der Kopf der großen Echse neigt sich zur Seite, als sie dich beäugt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>&lt;ispeech&gt;Wir sind aber sehr belesen, kleiner Gestandener, nicht wahr?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Wir sind aber sehr belesen, kleine Gestandene, nicht wahr?&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>&lt;ispeech&gt;Und wenn es das ist? Hast du etwa eine schlaue Idee?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Vorsicht, Wächter. Sie fängt an, dich für gefährlich zu halten."</DefaultText>
+      <FemaleText>"Vorsicht, Wächterin. Sie fängt an, dich für gefährlich zu halten."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Lass mich vorbei und ich bringe das Relikt von hier weg. Du wirst frei sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Dann muss ich dich also nicht vernichten ... Ich muss nur das Relikt vernichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Kannst du mir beibringen, wie ich mein eigenes machen kann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Der Drache blickt kurz zu Ydwin und dann wieder zurück zu dir. Violettes Licht flackert in seinen Nüstern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Im langen Hals der Bestie hallt ein leises Kichern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Reine intellektuelle Neugier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>&lt;ispeech&gt;Dann wollen wir hoffen, dass sie gestillt wurde.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>&lt;ispeech&gt;Ich könnte dir viel beibringen, wenn ich das wollte. Aber leider werden wir wohl nicht die Gelegenheit dazu haben.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>&lt;ispeech&gt;Du glaubst, du vermagst, was der Gott des Verfalls und des Endes nicht konnte?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>&lt;ispeech&gt;Nein. Es wird für immer bestehen bleiben, und ich mit ihm.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>&lt;ispeech&gt;Trotzdem sollte man bei diesen Dingen kein Risiko eingehen ...&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Im langen Hals der Bestie hallt ein leises Kichern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>&lt;ispeech&gt;Zu welchem Zweck, kleiner Gestandener? Warum sollte ich das tun? Warum solltest du das tun?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Zu welchem Zweck, kleine Gestandene? Warum sollte ich das tun? Warum solltest du das tun?&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Du willst dich aus diesem Ort befreien, oder? Ich bin ein Wächter. Ich helfe verlorenen Seelen. Das ist meine Aufgabe."</DefaultText>
+      <FemaleText>"Du willst dich aus diesem Ort befreien, oder? Ich bin eine Wächterin. Ich helfe verlorenen Seelen. Das ist mein Job."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ich habe meine eigenen Händel mit den Göttern. Du wärst eine willkommene Verbündete."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ich hatte gehofft, von dir zu lernen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Naja, es ist entweder das oder ich muss dich töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Wenn ich es mir recht überlege, war das vielleicht kein so guter Vorschlag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Es ist wohl besser, dass du das jetzt erkennst und nicht erst später." Er seufzt und kneift seinen Nasenrücken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Die Bestie starrt auf dich herab. Sie scheint das nicht lustig zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>&lt;ispeech&gt;Wie unglaublich ehrgeizig von dir.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>&lt;ispeech&gt;Ich könnte dir viel beibringen, wenn ich das wollte. Aber leider werden wir wohl nicht die Gelegenheit dazu haben.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Wir könnten die Gelegenheit haben. Wir könnten die Ewigkeit haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Sie reckt ihren Hals und senkt ihren Kopf zu dir hinab. Ihr Atem stinkt nach verfaultem Fleisch und modrigen Büchern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Stille hängt in der Luft, während der Drache über deinen Vorschlag nachdenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Die Bestie schnaubt. Violette Flammen flackern um ihre Nüstern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>&lt;ispeech&gt;Nein. Ich denke nicht.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>&lt;ispeech&gt;So angenehm diese Ablenkung auch war, nun ist die Zeit gekommen, um unseren kleinen Plausch zu beenden. Lebwohl, kleiner Gestandener, und willkommen im Vergessen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;So angenehm diese Ablenkung auch war, nun ist die Zeit gekommen, um unseren kleinen Plausch zu beenden. Lebwohl, kleine Gestandene, und willkommen im Vergessen.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Die Bestie schnaubt. Violette Flammen flackern um ihre Nüstern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>&lt;ispeech&gt;Du? Der du die Ergebenheit gegenüber deinem Gott so klar in deinem Geist trägst?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Du? Die du die Ergebenheit gegenüber deinem Gott so klar in deinem Geist trägst?&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>&lt;ispeech&gt;Das stimmt doch, oder? Welche Pläne hast du für uns, für unser Zweierbündnis?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Einst habe ich Berath freudig gedient. Doch die Götter haben meine Ergebenheit verloren, als sie mit meinem Leben gespielt haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Eothas hat mich getötet, mein Zuhause vernichtet und die Seelen meiner Lieben verzehrt. Ich werde ihm nie verzeihen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Gott. Einzahl. Der Rest bekommt keine Ergebenheit von mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Wir fangen damit an, Eothas zu töten." Und diesmal sorgen wir dafür, dass er wirklich tot bleibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Wir sorgen dafür, dass alle die Wahrheit über die Götter erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Wir werden Macht und Wissen sammeln, bis wir sie als Gleichwertige herausfordern können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>&lt;ispeech&gt;Indem er körperliche Gestalt annahm, hat er sich verwundbar gemacht ...&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Moment mal. Ich bin dafür, Eothas aufzuhalten, aber wenn du wirklich vorhast, ihn zu töten, müssen wir einiges besprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Habe ich dich richtig verstanden, Wächter? Gaun ist der Ernter, nicht der Geerntete.</DefaultText>
+      <FemaleText>"Habe ich dich richtig verstanden, Wächterin? Gaun ist der Ernter, nicht der Geerntete.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>&lt;ispeech&gt; Das amüsiert mich. Und interessiert mich. Ich kann mich nicht mehr erinnern, wann ich zuletzt amüsiert oder belustigt war.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>&lt;ispeech&gt;Du hast mich überzeugt. Nimm das Relikt. Wir beide zusammen werden Hel selbst erschüttern.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>&lt;ispeech&gt;Ein interessanter Vorschlag. Und sehr ehrgeizig.&lt;/ispeech&gt;
+
+Die Bestie verstummt. Anscheinend denkt sie über deine Worte nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>&lt;ispeech&gt;Wie... uninspiriert. Und enttäuschend naiv. Die Gestandenen glauben, was sie wollen, nicht was wahr ist.&lt;/ispeech&gt;
+
+Der Drache schüttelt grob den enormen Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Wie bitte? Ich habe wohl nicht recht gehört?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Ist das wirklich unser Ziel, Kapitän? Ich fühle mich seltsam ... getäuscht." Tekēhu runzelt seine Stirn und blickt dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Magran ist die Feuergöttin. Ich denke, sie wird es zu schätzen wissen, die anderen Götter brennen zu sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Glaubst du, dass Skaen nicht sehen will, wie die Götter gestürzt werden? Er &lt;i&gt;hasst&lt;/i&gt; sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Gibst du vor zu wissen, was Wael will?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>&lt;ispeech&gt;Ah. Das erklärt das Mal auf deiner Seele. Ich dachte, du hättest es freiwillig akzeptiert. Faszinierend.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Stille hängt in der Luft, während der Drache über deinen Vorschlag nachdenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>&lt;ispeech&gt;Einen solchen Verrat solltest du auch nicht verzeihen.&lt;/ispeech&gt;
+
+Die Bestie reckt ihren Hals und mustert dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Hel, Wächter. Es war nicht seine Schuld, dass du ein Haus auf seinem Kopf gebaut hast. Du kannst ja kaum erwarten, dass die Sonne nicht aufgeht, oder?"</DefaultText>
+      <FemaleText>"Hel, Wächterin. Es war nicht seine Schuld, dass du ein Haus auf seinem Kopf gebaut hast. Du kannst ja kaum erwarten, dass die Sonne nicht aufgeht, oder?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Braucht es nicht mehr, um dich zu verärgern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Das kann man von dir auch nicht erwarten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>&lt;ispeech&gt;Welche Taktik sollte unser Zweierbündnis deiner Meinung nach gegen die Götter einsetzen?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ich werde versuchen, zu helfen, wo ich kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Ich bin nicht wohltätig. Ich repariere nur, was kaputt ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ohne meine trügerischen Freunde würde mir langweilig werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ich habe mein Angebot unterbreitet. Nimm es an oder lass es bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>&lt;ispeech&gt;In meinen Jahrhunderten habe ich so einige Wächter kennengelernt. Alle waren sie einzigartig, einzig ihre Einsicht und ihre Verrücktheit war ihnen gemein.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>&lt;ispeech&gt;Ich bin nicht überzeugt.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>&lt;ispeech&gt;Und du möchtest mich in deine Menagerie aufnehmen.&lt;/ispeech&gt;
+
+Die große Bestie schnaubt und violettes Licht dringt aus ihrem schartigen Maul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Die Bestie zieht ihre Mundwinkel hoch und zeigt ihre fauligen Zähne, jeder einzelne länger als ein Stilett. Ihr Lachen hallt in deinem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>&lt;ispeech&gt;Dann möchtest du mich also auch reparieren?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>&lt;ispeech&gt;Du amüsiert mich, kleiner Gestandener. Du hast keine Ahnung, wie lange es her ist, seit ich zum letzten Mal gelacht habe.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Du amüsiert mich, kleine Gestandene. Du hast keine Ahnung, wie lange es her ist, seit ich zum letzten Mal gelacht habe.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>&lt;ispeech&gt;Ich kann ihn an dir riechen. Den süßlichen Geruch des Mitgefühls.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ich möchte dich aus diesem Gefängnis befreien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Rymrgand will dich nicht hier haben und du willst nicht hier sein. Scheint mir, als sollte man das reparieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Vielleicht war 'Reparieren' das falsche Wort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Diese Geister sind nur der Anfang. Du solltest mal meine Besatzung sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ich möchte dir helfen, wenn du mich lässt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ich habe schon einen Drachen als Haustier. Was ich suche, ist ein Verbündeter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>&lt;ispeech&gt;Mit dieser Situation ist niemanden zufrieden, oder?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>&lt;ispeech&gt;Nun gut. Nimm das Relikt.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>&lt;ispeech&gt;Ich werde zusehen. Und ich werde zuhören.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>&lt;ispeech&gt;Gib mir keinen Grund, es zurückzufordern.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Gehen wir, bevor sie ihre Meinung ändert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Gut gemacht, Kapitän! Und da dachte ich schon, du wärst nur schön anzusehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Äußerst beeindruckend. Ich hielt eine gewaltsame Konfrontation für fast unvermeidlich. Zum Glück hast du mich eines Besseren belehrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Du suchst niemals die einfache Lösung für deine Drachenprobleme, oder? Ekera, das respektiere ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Das habe ich gesehen, Ishi. Lass es fallen. Auf der Stelle." 
+
+Maia zeigt auf den Boden, bis Ishiza widerwillig seine Krallen öffnet und das Relikt wieder dorthin fallen lässt, wo er es gefunden hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Gut. Ich habe mich nicht darauf gefreut, dieses Wesen zu bekämpfen. Und jetzt lass uns &lt;i&gt;gehen&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Ich gebe zu, ich bin beeindruckt. Also, äh, sind wir jetzt hier fertig? Können wir gehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Weißt du, wie lange du schon hier unten bist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Die Nüstern der Bestie blähen sich auf, als sie ihren Rücken durchstreckt, die Flügel ausstreckt und ihre Spitzen erzittern lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>&lt;ispeech&gt;Jahre. Jahrzehnte. Es spielt keine Rolle.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Eher Jahrhunderte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ich denke, es ist schon ein ganzes Weilchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>&lt;ispeech&gt;Das hatte ich bemerkt.&lt;/ispeech&gt;
+
+Die Klauen ihrer Hinterläufe graben Furchen in den mit Raureif überzogenen Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>&lt;ispeech&gt;Jahrhunderte ...&lt;/ispeech&gt;
+
+Der Drache lässt sich auf alle Viere fallen, den Kopf leicht gebeugt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>&lt;ispeech&gt;Mit einem Jahrhundert hatte ich gerechnet, aber nicht mit mehreren.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Du klingst müde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Tut mir leid, dass ich es erwähnt habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Du solltest am besten einfach aufgeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Um Frosts Willen! Kannst du nicht wenigstens &lt;i&gt;versuchen&lt;/i&gt;, überzeugend zu klingen?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>&lt;ispeech&gt;Ich bin anderer Meinung.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>&lt;ispeech&gt;Du klingst klein. Und schmackhaft.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>&lt;ispeech&gt;Was getan ist, ist getan.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>&lt;ispeech&gt;Mit der Bestie des Winters kämpfen? Was soll das bringen?&lt;/ispeech&gt;
+
+Sie grinst dich verblüfft an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Wenn du wirklich so groß und mächtig bist, sollte es dir ja nicht schwerfallen, einen kleinen alten Gott zu töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Freiheit von diesem Ort? Seine Essenz, die du verzehren kannst? Vielleicht selbst zum Gott werden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Wäre jedenfalls besser, als hier herumzusitzen und zu warten, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Ihr Kopf schwingt nach unten und ein einziges leuchtendes Auge wirft sein Licht über deine Züge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>&lt;ispeech&gt;Verspottest du mich, kleiner Gestandener?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Verspottest du mich, kleine Gestandene?&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Nur ein kleines bisschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Ganz und gar nicht. Du bist seit all dieser Zeit in Rymrgands Heim und er konnte dich bis jetzt noch nicht töten, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Bist du verrückt?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Nun gut. Ich hoffe, dein Amüsement war das wert, Wächter."
+
+Ydwins Hand wandert zu ihrer Waffe.</DefaultText>
+      <FemaleText>"Nun gut. Ich hoffe, dein Amüsement war das wert, Wächterin."
+
+Ydwins Hand wandert zu ihrer Waffe.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Merla."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Weißt du, du hättest mich zumindest vorwarnen können." 
+
+Maia schüttelt ihren Kopf und greift langsam nach einer Waffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Ach, verdammt noch mal, Käpt'n."
+
+Serafen greift nach einer Waffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Mirke kichert wortlos und verschluckt sich dann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Ihr wütendes Brüllen lässt deine Rippen erzittern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>&lt;ispeech&gt;Das heißt nicht, dass er mich fürchtet. Trotzdem .... ist es seltsam ...&lt;/ispeech&gt;
+
+Sie hebt ihren Kopf und neigt ihn leicht zu Seite, während sie über deine Worte nachdenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Es ist, als wäre ich gar nicht hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Ich helfe gerne, falls du Hilfe brauchst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Alles findet irgendwann ein Ende. Selbst Rymrgand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>&lt;ispeech&gt;Denke nicht, dass ich die Absicht hinter deinen Worten nicht erkennen kann, Kleiner.&lt;/ispeech&gt;
+
+Sie knurrt tief und lange.</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Denke nicht, dass ich die Absicht hinter deinen Worten nicht erkennen kann, Kleine.&lt;/ispeech&gt;
+
+Sie knurrt tief und lange.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Wenn die Götter von Gestandenen geschaffen wurden, ist anzunehmen, dass sie auch vernichtet werden können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>&lt;ispeech&gt;Du willst, dass ich Rymrgand fresse? Ihn aus dem Nichts pflücke wie ein Kalb von der Weide?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Die Bestie schnaubt. Violettes Licht flackert in ihren Nüstern. 
+
+Du bist dir nicht sicher, ob sie belustigt ist oder nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>&lt;ispeech&gt;Dass etwas möglich ist, heißt noch lange nicht, dass es auch einfach ist.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>&lt;ispeech&gt;Trotzdem ... Wenn ich gegen ihn vorgehen will, muss es jetzt sein, wo ich am Gipfel meiner Macht stehe.&lt;/ispeech&gt;
+
+Der Drache hebt den Kopf und streckt sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Warum nicht? Er ist doch nur Essenz, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Naja, er &lt;i&gt;ist&lt;/i&gt; ein Ochse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>&lt;ispeech&gt;Dass etwas möglich ist, heißt noch lange nicht, dass es auch einfach ist.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Di verus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Ich weiß nicht, was ich noch sagen kann. Vielleicht gewinnst du, vielleicht auch nicht. Aber du hättest es zumindest versucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>&lt;ispeech&gt;Und doch ...&lt;/ispeech&gt;
+
+Ihr Kopf neigt sich und ihre Augen verblassen ein wenig, während sie nachdenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Es wird nicht einfach sein, aber theoretisch kannst du die Essenz des Gottes absaugen und zwischen dir und dem Relikt aufteilen. Was ihr beide nicht aufnehmen könnt, kannst du vernichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Das ist nicht ... unmöglich." Aloth nagt an einem Fingerknöchel, als er überlegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Ich konnte alldem nicht so ganz folgen, aber wenn Rymrgand dich bisher noch nicht erledigt hat, kann er es vielleicht einfach nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>&lt;ispeech&gt;Ja, ich habe deine Worte gehört, kleiner Gestandener.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Ja, ich habe deine Worte vernommen, kleine Gestandene.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Die Tatsache, dass Rymrgand bisher weder den Drachen besiegen noch das Phylakterium vernichten konnte, lässt vermuten, dass es die Macht des Gottes aufnehmen könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>&lt;ispeech&gt;Selbst du musst verstehen, dass nichts zu tun manchmal die weiseste Handlung ist.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>&lt;ispeech&gt;Selbst du musst verstehen, dass nichts zu tun manchmal die weiseste Handlung ist.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Du kannst nicht einfach hier herumsitzen und nichts tun!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Ich hätte dich nicht für einen solchen Feigling gehalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[Mit dem Schultern zucken] "Ganz wie du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Nicht jeder hat die gleichen Vorlieben. Denkst du nie an die ruhigen Jahre in Caed Nua zurück und wünscht dir, du könntest das alles wiederhaben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>&lt;ispeech&gt;Du wirst mich nicht dazu anstiften, meine Existenz wegzuwerfen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Ein tiefes, langes Knurren ertönt von dem Drachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Warum hast du nicht aufgegeben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Ihr Kopf wirbelt herum. Erst sieht ein Auge auf dich herab und dann das andere. Mit einem langen, knirschendem Geräusch gräbt sich ihre hintere linke Klaue in das Eis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>&lt;ispeech&gt;Du fragst, warum ich mir nicht erlaube zu sterben? Bist du so begierig auf dein eigenes Ende, wo du weißt, dass dich im Jenseits nichts erwartet?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>&lt;ispeech&gt;Ich bringe dich nur zu gerne dorthin, wenn du das willst.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Nein, das wollen wir nicht. Ganz und gar nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Sieh dich doch nur an. Du bist bereits tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Habe verstanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Die Bestie sieht dich finster an, entspannt sich jedoch und zieht ihre Krallen langsam wieder aus dem Eis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>&lt;ispeech&gt;Nein&lt;/ispeech&gt;, faucht sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>&lt;ispeech&gt;Wo ein Wille ist, ist auch Leben!&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Das hier ist kein Leben! Du klammerst dich verzweifelt an einen endlosen, aussichtslosen Kampf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Die Bestie reißt ihren Kopf zurück. Sie zuckt zusammen, als hättest du sie geschlagen und ihr Gebrüll lässt die Luft in deinen Lungen erbeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Es tut mir leid. Das war unangebracht. Ich habe keine Antworten für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>[Specified 0] sieht dich skeptisch an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Sie senkt ihre Schnauze wieder und zeigt ihre braunen Reißzähne. Ihr Knurren vibriert in deinen Knochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>&lt;ispeech&gt;Dann sag mir, kleiner Gestandener, was ich tun soll. Was verlangt deine Weisheit von mir?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Dann sag mir, kleine Gestandene, was ich tun soll. Was würdest du in deiner Weisheit von mir verlangen?&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>&lt;ispeech&gt;Dann hat dein Dasein keinen Zweck!&lt;/ispeech&gt;
+
+Der Drache brüllt erneut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Oh Götter, oh Götter, oh Götter."
+
+Das Eis knirscht unter den Füßen des zurückweichenden Gottähnlichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Es sind immer die Leuchtenden, die Ärger machen, was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Sie starrt dich an. Ihre Augen sind wie glühende Kohlen. Du kannst spüren, wie sie ihre arkanen Sinne über dich wandern lässt, dich bloßlegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>&lt;ispeech&gt;Du hast gesagt, dass es Jahrhunderte sind. Ich kann dir sagen, dass es sich noch viel länger angefühlt hat.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Dann ruhe. Du hast es dir verdient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>&lt;ispeech&gt;Ich mag ihn lieber als dich, kleiner Gestandener.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Ich mag ihn lieber als dich, kleine Gestandene.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>&lt;ispeech&gt;Ich starb in dem Moment, als ich ins Jenseits überging. Seither war alles ... zwecklos.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Das ist fair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Du kennst ihn nur nicht gut genug."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Vatnir seufzt und schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>&lt;ispeech&gt;Ich bin so ... schrecklich müde.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Eine tragische, wenn auch korrekte Einschätzung. Ich muss mich aber doch fragen, ob wir nicht mehr hätten tun können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Irgendwie ist das überhaupt kein gutes Ende."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Ich ... ja. Gut gemacht. Machen wir weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Was wir hier haben ist eine Kreatur, die lernen muss, sich selbst zu vergeben. Wenn du das schaffst, kannst du mit gutem Gewissen gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Ich glaube, ich hatte diesen Albtraum schon mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Sind wir jetzt auch tot? Nach deiner Logik? ... Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>&lt;ispeech&gt;Und was würdest du mit der Ewigkeit anfangen?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Alles erkunden. Alles lernen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Was würde ich &lt;i&gt;nicht&lt;/i&gt; damit anfangen? Die Ewigkeit ist eine lange Zeit, um alles Mögliche zu erleben. Alle möglichen Menschen kennenzulernen. Alle möglichen Stellungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Dir treu dienen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Worauf immer ich Lust habe, Schädelgesicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Ich weiß nicht, aber ich werde ja viel Zeit haben, um mir das zu überlegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Die Bestie schnaubt und schüttelt grob den Kopf.  Es scheint fast, als würde sie lachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Der Schwanz der Bestie ringelt sich ein und peitscht dann auf den Boden hinter ihr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Die Bestie schnaubt und schüttelt grob den Kopf.  Es scheint fast, als würde sie lachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Die Bestie schnaubt und schüttelt grob den Kopf.  Es scheint fast, als würde sie lachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Die Bestie schnaubt und schüttelt grob den Kopf.  Es scheint fast, als würde sie lachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>&lt;ispeech&gt;Eine unerwartet weise Antwort, kleiner Gestandener.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Eine unerwartet weise Antwort, kleine Gestandene.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Nun ... Ich ... ich nehme an, es gäbe in der Tat viel zu lernen."
+
+Aloth blickt schnell weg. Die Spitzen seiner Ohren laufen rot an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Rede ruhig weiter, Kapitän. Ich bin gespannt, worauf du damit abzielst."
+
+Maia wischt sich ihre Handflächen und tritt einen Schritt zurück, um das Schauspiel zu beobachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Kapitän, darüber hättest du auch zuerst mit mir sprechen können. Ich bin nicht abgeneigt, die Möglichkeiten zu erkunden." Tekēhu schielt den Drachen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Zu Hel, Wächter. Tun wir einfach alle so, als wäre ich nicht hier." 
+
+Xoti stemmt die Hände in die Hüften und pustet eine lose Haarsträhne aus ihrem Gesicht.</DefaultText>
+      <FemaleText>"Hel, Wächterin. Tun wir einfach alle so, als wäre ich nicht hier." 
+
+Xoti stemmt die Hände in die Hüften und pustet eine lose Haarsträhne aus ihrem Gesicht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>&lt;ispeech&gt;Enttäuschend, aber nicht unerwartet.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Stille hängt in der Luft, während der Drache über deinen Vorschlag nachdenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>&lt;ispeech&gt;Du bist faszinierender als erwartet, kleiner Zauberer.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Du bist faszinierender als erwartet, kleine Zaubererin.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>&lt;ispeech&gt;Du hast eindeutig Köpfchen, kleiner Gestandener. Aber bist du klug genug?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Du hast eindeutig Köpfchen, kleine Gestandene. Aber bist du auch klug genug?&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>&lt;ispeech&gt;Nun gut. Nimm das Relikt.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>&lt;ispeech&gt;Ich werde zusehen. Und ich werde zuhören.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>&lt;ispeech&gt;Und vielleicht wirst du irgendwann deinen Wert beweisen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>&lt;ispeech&gt;Mir scheint, dass du eher den Tod suchst als das ewige Leben.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Ekera, es ist nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Ich möchte über etwas anderes reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Der Kopf der großen Echse neigt sich zur Seite, als sie dich beäugt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

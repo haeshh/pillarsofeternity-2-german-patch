@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_tsk_libations_for_a_death_god</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Rösten der Toten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ernte Flüssigkeit aus Frostkonstrukten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bring die Flüssigkeit zu Nyvardir dem Boten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre mit der Flüssigkeit zu Nyvardir zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Nyvardir&lt;/b&gt;, der selbsternannte Braumeister von der &lt;b&gt;Botenwacht&lt;/b&gt;, bat mich um Hilfe beim Verbessern seiner Rymsjódda-Rezeptur, ein Bier, das von Elfen sehr für den Schutz geschätzt wird, das es gegen die Kälte bietet. Nyvardir glaubt, dass eine einfache Ergänzung sein Bier noch wirksamer gegen Frieren werden lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;Frostkonstrukte&lt;/b&gt; enthalten eine Flüssigkeit, die sie davor bewahrt, bei niedrigen Temperaturen einzufrieren.
+
+Nyvardir glaubte daran, dass sie bei Gestandenen, die sie sich einverleiben, eine ähnliche Wirkung hat und verlangte, dass ich so viel Frostkonstrukt-Flüssigkeit sammle, wie ich nur finden kann. Frostkonstrukte wurden tief im inneren in der &lt;b&gt;Toten Scholle&lt;/b&gt; gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich bin mir nicht sicher, ob ich diese seltsame Flüssigkeit für den Braumeister sammeln sollte. Ich muss sie mir genauer ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe etwas von der Flüssigkeit gesammelt, die&lt;b&gt;Nyvardir&lt;/b&gt; haben wollte, aber sie scheint außerordentlich gefährlich zu sein. Trotzdem wollte er unbedingt, dass ich so viel wie möglich von der Flüssigkeit besorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich gab &lt;b&gt;Nyvardir&lt;/b&gt; die Flüssigkeit, um die er mich gebeten hatte – soll er doch ihre Giftigkeit selbst herausfinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich gab &lt;b&gt;Nyvardir&lt;/b&gt; die Flüssigkeit, um die er mich gebeten hatte – soll er doch ihre Giftigkeit selbst herausfinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich weigerte mich, &lt;b&gt;Nyvardir&lt;/b&gt; die Frostkonstrukt-Flüssigkeit zu geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

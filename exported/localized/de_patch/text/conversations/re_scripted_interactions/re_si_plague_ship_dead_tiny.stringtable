@@ -40,7 +40,7 @@ Nachdem das Schiff in den Tiefen versunken ist, kehrt die Besatzung besonnen zu 
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Deine Besatzung verteilt sich unter dem Gemurmel nervöser Gebete. Die Seemänner kehren auf ihre Posten zurück. Du bemerkst, wie einige von ihnen Münzen über die Reling werfen, um Ondra gnädig zu stimmen.</DefaultText>
+      <DefaultText>Deine Besatzung verteilt sich unter dem Gemurmel nervöser Gebete. Die Seeleute kehren auf ihre Posten zurück. Du bemerkst, wie einige von ihnen Münzen über die Reling werfen, um Ondra gnädig zu stimmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -52,7 +52,7 @@ Du kannst keine Bewegungen an Deck erkennen.</DefaultText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Specified 1] führt dich zum Vordeck, wo sich ein paar Seemänner versammelt haben. 
+      <DefaultText>[Specified 1] führt dich zum Vordeck, wo sich ein paar Seeleute versammelt haben. 
 
 [Specified 0] greift nach dem heiligen Symbol unter der Kleidung. „Ein böses Omen, Kapitän. Wir sollten sie der Fürstin der Klagen übergeben, wenn wir keinen Ärger wollen. Merk dir meine Worte.“
 
@@ -123,7 +123,7 @@ Unter der Seuchenflagge entdeckst du eine weitere Flagge, auf der eine angezünd
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[Den Schiffsartz ansprechen.] „Was denkst du, [Specified 3]?“</DefaultText>
+      <DefaultText>[Den Schiffsarzt ansprechen.] „Was denkst du, [Specified 3]?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,7 +143,7 @@ Unter der Seuchenflagge entdeckst du eine weitere Flagge, auf der eine angezünd
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Mehrere Seemänner glotzen ungläubig. 
+      <DefaultText>Mehrere Seeleute glotzen ungläubig. 
 
 [Specified 2] schüttelt grinsend den Kopf. „Unser Kapitän ist mutig, das muss man ihm lassen.“</DefaultText>
       <FemaleText />

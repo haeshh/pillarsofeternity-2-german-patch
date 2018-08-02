@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_envoy_emissary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>161</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Danke. Ich danke dir. Für alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Dämmersprecher, Dämmersprecher! Ich möchte mit dir sprechen, wenn du einen Moment Zeit hast."</DefaultText>
+      <FemaleText>"Dämmersprecherin, Dämmersprecherin! Ich möchte mit dir sprechen, wenn du einen Moment Zeit hast."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Du &lt;i&gt;bist&lt;/i&gt; doch der Dämmersprecher, oder?"
+
+Die zierliche Glamfellen sieht dich flehentlich an.</DefaultText>
+      <FemaleText>"Du &lt;i&gt;bist&lt;/i&gt; doch die Dämmersprecherin, oder?"
+
+Die zierliche Glamfellen sieht dich flehentlich an.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Brythe seufzt und sieht auf ihre Stiefel hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Gibt es sonst noch etwas, das du wissen wolltest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Was machst du hier in der Botenwacht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Alles mögliche. Was eben gerade so erledigt werden muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Weiter oben ist noch eine andere Gruppe, oben auf dem Eis meine ich. Hoch über der Wacht. Sie greifen jeden an, der ihnen über den Weg läuft, uns eingeschlossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"So machen sie es uns schwierig, na ja, überhaupt zu Rymrgands Tempel zu gelangen. Unter anderem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Wo kommen dieser Pilger her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Sie stammen auch vom Land. Sie kamen ein paar Jahrzehnte vor uns hierher, mit derselben Mission. Als niemand von ihnen zurückkehrte, hielten wir sie für tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Warum sind sie so feindselig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Das weiß nur Wael! Sie scheinen zu denken, dass sie etwas beschützen. Als wäre die Scholle heilig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ich werde sehen, was ich tun kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich kann nichts versprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Ein breites Lächeln erscheint auf dem Gesicht der Elfe und sie klatscht in die Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I-Ich verstehe." Sie nickt und sieht zu Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Die Pilger haben ihr Lager in den Ruinen über der Eiswand aufgeschlagen. Hochbote Vatnir kann dir sagen, wie du dorthin gelangst. Wenn er das nicht schon getan hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Hájo nochmal! Ich hoffe, die Pilger haben dir nicht zu viel Ärger bereitet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ich habe die Pilger auf der Anhöhe getötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Hier. Ich habe nicht viele Münzen, aber du hast getan, worum ich dich gebeten habe. Also gehören sie dir."
+
+Sie drückt dir einen prall gefüllten Beutel vailianischer Münzen in die Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Als du dein blutiges Werk auf der Scholle verrichtet hast, ist dir da eine Frau aufgefallen, die etwa dreißig Winter älter ist als ich? Haut wie meine und Haare gelb wie Butter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ich habe sie bereits getötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Nein, aber ich habe auch nicht nach ihr Ausschau gehalten. Wenn ich Bescheid gewusst hätte, hätte ich das getan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Du hättest sagen müssen, dass du nach jemandem suchst. Wenn sie tot ist, lastet das auf &lt;i&gt;deiner&lt;/i&gt; Seele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Sagt mir nichts. Wenn du willst, kann ich mir die Leichen noch einmal genauer ansehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Das ... ist nur logisch, ja. Ich meine, vermutlich war sie ohnehin nicht dort. Ich habe nur gefragt, weil ... Na einfach so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Bei den Göttern, ich weiß. Glaubst du, ich weiß das nicht?" Sie zittert und ihre Hände ballen sich zu Fäusten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Mit einem Seufzen, das ihren zierlichen Körper erzittern lässt, schüttelt Brythe den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Dennoch denke ich, dass es gut für die Wacht ist, dass du der Bedrohung durch die Pilger ein Ende gesetzt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Das sagen mir die Leute ständig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Siehst du etwa noch andere unbekannte Gesichter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ich bin niemandes Heiliger Mann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Guter Punkt." Sie nickt schnell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Das ist alles ein bisschen viel, nicht? Dieser ganze Quatsch mit dem Weltuntergang." Sie kichert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ich könnte – besser gesagt wir alle könnten wirklich deine Hilfe gebrauchen." Sie spielt mit einem ihrer Zöpfe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Die Welt &lt;i&gt;wird&lt;/i&gt; untergehen, mein Kind. Alles endet irgendwann. Dennoch begrüße ich deine ... Skepsis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Nicht Quatsch, so meine ich das nicht, sondern ... Es ist einfach alles so ..." Sie blinzelt schnell, während sie Vatnir ansieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Sag dem Dämmersprecher einfach, was du von ihm willst, Brythe." Vatnir legt seine bandagierte Hand auf Brythes Schulter. Die Elfin nickt und zuckt weder zusammen noch weicht sie zurück.</DefaultText>
+      <FemaleText>"Sag der Dämmersprecherin einfach, was du von ihr willst, Brythe." Vatnir legt seine bandagierte Hand auf Brythes Schulter. Die Elfin nickt und zuckt weder zusammen noch weicht sie zurück.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Brythe reißt die Augen auf, als sie Ydwin ansieht. Sie beißt sich auf die Lippe und nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ich kann nichts versprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I-Ich verstehe." Sie nickt und sieht zu Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Die Pilger haben ihr Lager in den Ruinen über der Eiswand aufgeschlagen. Hochbote Vatnir kann dir sagen, wie du dorthin gelangst. Wenn er das nicht schon getan hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Wer genau sind diese anderen Leute?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Eine andere Gruppe der Anhänger Rymrgands. Wir nennen sie die verlorenen Pilger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Wir mischen uns in einen Konflikt zwischen religiösen Fanatikern ein? Na toll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Die Pilger zu finden war einer der Gründe, warum wir hergekommen sind. Unglücklicherweise &lt;i&gt;wollten&lt;/i&gt; sie gar nicht gefunden werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Nyvadir denkt, dass sie alle ein wenig wahnsinnig geworden sind, so ganz allein hier draußen. Oder dass etwas im Eis ihnen den Verstand raubt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Lächerlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Es tut mir leid, Hochbote."
+
+Eine leichte Röte erscheint auf Brythes gräulichen Wangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Endlich gute Neuigkeiten. Du hast ja keine Ahnung, wie selten wir gute Neuigkeiten hören!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Du siehst mir etwas zu jung aus, um hier draußen zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Sie schnaubt, verschränkt ihre Arme und zieht die Schultern hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ich bin vielleicht nicht Valbrendhür sein, aber ich habe genug Winter auf dem Buckel." Sie spannt trotzig ihre Schultern an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Nicht, dass es dich etwas anginge, aber ich habe bald sechzig Winter hinter mir! Mehr als du, nehme ich an!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ich bin schon ganze zehn Winter hier. Kam hierher auf der Suche nach ... etwas, das ich noch nicht gefunden habe."
+ 
+Sie sieht weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Natürlich im, äh, streng religiösen Sinn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Ihr abgewandter Blick und ihr Stottern legen nahe, dass sie nicht die ganze Wahrheit preisgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Es scheint, als würdest du mir etwas verschweigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Erst weiten sich ihre Augen überrascht, dann verengen sie sich, während sie zusammenzuckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"G-Gewiss. Und ich komme gerne darauf zurück ... &lt;i&gt;später&lt;/i&gt;. Woanders, já?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Die ganze Gemeinschaft arbeitet zusammen, um zu überleben. Ich jage, ich webe, ich brate leckere Ysae."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Du ... Du hast sie &lt;i&gt;getötet&lt;/i&gt;? Sie &lt;i&gt;alle&lt;/i&gt;?"
+
+Ihr Mund steht weit offen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Sie haben mir keine Wahl gelassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Jeden letzten Elfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Ist es nicht das, was du wolltest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Sie sind keine Bedrohung mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ich wollte ... Ich wollte nur, dass sich jemand um sie kümmert. Sie waren doch ..."
+
+Sie schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Törichte Brythe. Du hast den Dämmersprecher darum gebeten. Was hast du denn erwartet?"
+
+Sie reibt sich die Stirn.</DefaultText>
+      <FemaleText>"Törichte Brythe. Du hast die Dämmersprecherin darum gebeten. Was hast du denn erwartet?"
+
+Sie reibt sich die Stirn.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"So viele ..." Sie vergräbt ihr Gesicht in ihren Händen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Was hast du auf dem Herzen, Brythe?" Vielleicht kann ich helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Habe ich etwas falsch gemacht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Hast du noch mehr Arbeit für mich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Weggehen] "Danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Nein, nein. Nein."
+
+Sie schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ich ... "
+
+Ihr Gesicht verzieht sich, erst zu einem Stirnrunzeln, dann zu einer Grimasse. Am Ende presst sie ihre grauen Lippen zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Nein, keine Arbeit mehr. Aber vielleicht ..." Sie runzelt die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Raus damit, Mädchen." Serafen berührt sanft Brythes Arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Familie, nehme ich an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Meine Schwester, Ehrys." Sie nickt kaum merklich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Du hattest eine Schwester unter den Pilgern und hast es uns verschwiegen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Damit hätten wir arbeiten können! Mit ihnen kommunizieren ... Vielleicht hätten wir uns sogar mit ihnen einigen können!"
+
+Spucke fliegt aus dem rauen Mund des Gottähnlichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Sei nicht so hart zu ihr, Vatnir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Er hat Recht. Das hätte einer Menge Leute helfen können. Und hätte mir einiges Blut an den Händen erspart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Er schüttelt langsam und enttäuscht seinen Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Sie sinkt unter deinen Worten zusammen, ringt die Hände, blickt zu Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Es ... Es tut mir so leid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Vatnir schnaubt, verschränkt die Arme und wendet sich ab.
+
+Brythe lächelt dich leicht an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Trotzdem würde ich es gerne wissen. Hast du sie gesehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Deine Schwester ist mit den Pilgern gekommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Deswegen bin ich hier. Wegen ihr. Hast du sie gesehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Fejin haemkamür, Dämmersprecher."</DefaultText>
+      <FemaleText>"Fejin haemkamür, Dämmersprecherin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Gibt es sonst noch etwas, das du wissen wolltest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Nein, nein. Ich kann die Leichen selbst durchsehen. Das halte ich aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Ehrys, meine Schwester, sie war ... Sie war wirklich gläubig. Sie glaubte auf eine Weise, wie ich es nie konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Nicht, dass die Götter existieren würden. Ich meine, offensichtlich &lt;i&gt;existiert&lt;/i&gt; Rymrgand, aber das heißt nicht, dass wir die richtigen Lektionen von ihm gelernt haben. Oder sie richtig interpretiert haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Woher kanntest du die Pilgerin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ich halte meine Augen nach ihr offen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Verdammt richtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Wie ist deine Schwester zur Pilgerin geworden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Danke. Ich weiß das zu schätzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Das habe ich doch gesagt, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Ehrys war sich immer sicherer. Sie ist klug, unglaublich klug. Immer extrem interessiert an Seelen, Maschinen und sowas. Aber sie war auch schon immer sehr stark ... überzeugt."
+
+Sie schlingt die Arme um ihren Körper und atmet rasselnd aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Ich habe schon genug deiner Zeit verschwendet. Ich bezweifle, dass Ehrys nach all dieser Zeit noch am Leben ist. Aber es wäre schön gewesen, Gewissheit zu haben. Bestimmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Dhakklát, Dämmersprecher. Und lebe wohl."
+
+Sie lächelt dich schwach an und dreht sich dann um.</DefaultText>
+      <FemaleText>"Dhakklát, Dämmersprecherin. Und lebe wohl."
+
+Sie lächelt dich schwach an und dreht sich dann um.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Ydwin blickt mit karmesinroten Augen und gerunzelter Stirn auf die jüngere Glamfellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Was ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Glaubst du, wir können ihr nicht vertrauen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>[Sie ignorieren und weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Sie wendet sich dir mit einer hochgezogenen Augenbraue zu, die Lippen zu einem leisen höhnischen Grinsen verzogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Nein, das ist es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Sie erinnert mich an mich selbst, als ich in ihrem Alter war. Nicht clever genug, um zu verstehen, wie clever sie wirklich ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Und nicht ansatzweise clever genug, um zu verstehen, wie viel cleverer sie &lt;i&gt;noch werden muss&lt;/i&gt;."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Sollen wir fortfahren, Dämmersprecher?"</DefaultText>
+      <FemaleText>"Sollen wir fortfahren, Dämmersprecherin?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>&lt;link="neutralvalue://Ordhjóma: Das tun wir immer."&gt;"Vith jerüm dháth eldtaf."&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Schweigend nicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Ydwin verbeugt sich kurz und nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Sie kichert leise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Ich habe deine Schwester gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Weißt du irgendwas über den Tempel in der Scholle oder den Vytmádh darin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Hast du irgendeine Spur von deiner Schwester gefunden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>[Weggehen] "Jetzt nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Nae, ich habe nichts gefunden." Sie schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Das tu ich nicht, nae."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Vatnir hätte dir vielleicht mehr darüber erzählen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Wenn irgendjemand dir mehr darüber erzählen kann, dann wohl Hochbote Vatnir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Hast du? Wo ist sie? Ist sie ... Ist sie am Leben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Nein. Tut mir leid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Tut mir leid. Sie hat es nicht geschafft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Sie hat mich gebeten, ihre Seele in ein Konstrukt zu transferieren. Also hab ich es getan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Ich habe sie umgebracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Ich wusste immer, dass das eine Möglichkeit war. Und jetzt ist es schreckliche Gewissheit ... Was ist ihr zugestoßen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Sie hat &lt;i&gt;was&lt;/i&gt;? Und du hast das zugelassen? Ich muss ... Ich muss zu ihr!" Sie blinzelt schnell und versucht, diese Neuigkeit zu verdauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Du hast &lt;i&gt;was&lt;/i&gt;? A-Aber warum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Ihren Wunden nach zu urteilen, würde ich sagen, sie hat sich einen Bären zum Feind gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Sie hat versucht, durch den Vytmádh ins Jenseits vorzudringen. Dabei wurde sie vernichtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Sie ist dem Wahnsinn des Weißen Nichts verfallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Sie hat mir keine Wahl gelassen. Sie oder ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Deshalb bin ich hier. Um verrückte Kultisten zu töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Jemand sollte dasselbe mit dir machen, du Sack Skyt!"
+
+Sie spuckt auf den Boden und dreht dir den Rücken zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Ich schätze ... Ich schätze, ich verstehe. Danke, dass du sie gefunden hast. Selbst unter diesen Umständen."
+
+Mit glänzenden Augen schüttelt sie den Kopf und wendet sich ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Dann geh. Sie wartet auf dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Das ist vielleicht nicht die beste Idee."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Ehrys wollte nicht, dass du sie so siehst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Sie war eine Pilgerin, jetzt ist sie eine Tempelwächterin. Sie wird dich mit großer Sicherheit angreifen, wenn du dich ihr näherst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>[Mit den Achseln zucken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Ich muss sie finden! Danke, Dämmersprecher! Danke für alles!"</DefaultText>
+      <FemaleText>"Ich muss sie finden! Danke, Dämmersprecherin! Danke für alles!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Oh. Okay. Ich verstehe. Danke, dass du sie gefunden hast. Und dass du ihr wohl geholfen hast."
+
+Mit einem Seufzen sackt sie zusammen, reibt ihr Auge mit ihrem Handballen und dreht sich weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Dämmersprecher! Ehrys ist zu uns zurückgekehrt!"</DefaultText>
+      <FemaleText>"Dämmersprecherin! Ehrys ist zu uns zurückgekehrt!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Die anderen wollten sie mit Pfeilen durchlöchern, aber das konnte ich ihnen ausreden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Trotzdem ... ist sie nicht mehr die Elfe, die ich kannte. Ich frage mich, was da draußen mit ihr passiert ist." Sie schielt zu Ehrys rüber und reibt sich ihre Oberarme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Es ist seltsam, sich vorzustellen, wie sie dort draußen ewige Wache hält."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Zerstör doch jemand anderem das Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Es ist besser, wenn du das nicht weißt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Sie hat versucht, ihre Seele in ein Konstrukt zu transferieren. Es hat nicht geklappt."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

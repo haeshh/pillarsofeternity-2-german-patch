@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_return_from_beyond</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als du wieder deine körperliche Form annimmst, fühlst du einen starken Essenzpuls vom Auge von Rymrgand. Das blaue Juwel schien am Vytmádh zu zerren und Essenz aus diesem Kropf von Entropie zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Energie wirbelt um dich herum, verdichtet sich und verfestigt sich dann zu der Ausrüstung, die du im Jenseits gefunden hast. Obwohl sie aus eiskalter, Gestalt gewordener entropischer Essenz besteht, wirkt diese Ausrüstung ebenso solide wie alle anderen Waffen oder Rüstungen. 
+
+Wenigstens so lange, wie das Auge von Rymrgand in der Nähe ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Sie ist einfach so erschienen! Unglaublich! Das Relikt hat sie beschworen und bewahrt ihre Gestalt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Faszinierend. Ich frage mich, ob die anderen Götter ähnliche Relikte gesegnet haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

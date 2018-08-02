@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>109</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4705</ID>
+      <DefaultText>Erleide {0} Schaden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4729</ID>
+      <DefaultText>Erhalte {0} Wirkungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4731</ID>
+      <DefaultText>Dieser geschwärzte und verbrannte schwere Plattenpanzer trägt die Handschrift eines Meisters der Metallbearbeitung aus Neu-Dunryd, wie das heutige Trutzbucht hieß, bevor die Revolution den Dyrwald von der Herrschaft der Aedyraner befreite. Das Symbol von Magrans Flamme ziert die Brust- und Schulterplatten, kaum mehr sichtbar aufgrund der Abnutzung des Stahls.
+
+Die jüngste der Dutzenden, Ysly von Baelreach, hatte dem Duc fünf Jahre lang gedient, und davor zehn Jahre lang ihrem Erl zuhause. Ysly ging geschickt mit dem Schwert um und war eine inbrünstige Verfechterin der Ideale von Magran. Sie war eine logische Wahl, als sie sich freiwillig meldete, um beim Halten der Brücke zu helfen. Der Duc gab ihr Ausrüstung für das Gefecht, darunter ein kampferprobter Plattenpanzer, der zuvor im Schrein von Magran Staub angesetzt hatte.
+
+Über den genauen Ablauf der Schlacht ist nicht viel bekannt, doch eines ist sicher: Nach der Explosion des Götterhammers blieb nichts von Ysly oder ihrer Rüstung übrig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4732</ID>
+      <DefaultText>Ein Dutzend standen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4865</ID>
+      <DefaultText>Rymrgands Auge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4866</ID>
+      <DefaultText>Dieser Edelstein fühlt sich an wie ein Stück poliertes Eis. Ein Sprung direkt unter der Oberfläche scheint dir zu folgen, je länger du den Gegenstand in Händen hältst. Die Geschichten, die zu "Rymrgands Auge" erzählt werden, haben alle eines gemeinsam: Niemand trägt es sehr lange. Jede Legende von einem kühnen Helden, der in den Besitz des Edelsteins kam, endet mit einem tragischen Verschwinden oder einer Seereise ohne Wiederkehr. Einige Theorien besagen, dass der Edelstein von einem Eiszapfen in Rymrgands Weißem Nichts abgebrochen wurde und dass sein unaufhörlicher Drang, nach Hause zurückzukehren, Sterblichen unweigerlich ein dunkles Schicksal beschert. Egal, wie viel Wahrheit in diesen Geschichten stecken mag, der Edelstein hat jedenfalls einen starken Einfluss auf seinen Träger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4867</ID>
+      <DefaultText>Bombensplitter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4868</ID>
+      <DefaultText>Dieses Bruchstück der Götterhammerbombe brummt vor göttlicher Kraft. Seine Existenz ist ein wenig paradox, da die Bombe, von der er stammt, 2808 AI explodiert ist. Die Kombination aus Magrans Segnung und historischer Bedeutung machen dieses Stück zu einem seltenen Fund. Auch wenn dieser Katalysator nie die Explosion auf der Brücke von Evon Dewr ausgelöst hat, sprüht er doch mit dem Feuer des Götterhammers und scheint begierig zu sein, sein Versprechen der Zerstörung einzulösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4875</ID>
+      <DefaultText>Flüstern von Neriscyrlas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4876</ID>
+      <DefaultText>Diese abgebrochene Klinge hatte im Laufe der Jahre viele Namen, aber den Makel des Verrats wurde sie nie ganz los. Vor langer Zeit war es die Waffe eines Gladiatoren, der sie in den Sklavengruben schwang. Dieser Kämpfer erkaufte sich seine Freiheit, indem er die Waffe seinem Meister in den Rücken stieß, was ihr den Namen Befreier einbrachte. Später hing sie an der Wand eines reichen Gutshauses, in dem das Dienstmädchen die gesamte Familie damit niedermetzelte, was ihr den Namen Anstand einbrachte. Es ist unbekannt, wo und wann sie brach, aber die Klinge galt stets als Bringer von Gerechtigkeit und Bestrafer der Frevler, weshalb sie unter Skaeniten sehr beliebt war, die ihr großzügig Opfer brachten, um sie mit dem Segen ihres Gottes zu versehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4930</ID>
+      <DefaultText>Reflektierter Angriff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4936</ID>
+      <DefaultText>Ring der entropischen Reflektion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5026</ID>
+      <DefaultText>Waidwens Sonnenuhr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5029</ID>
+      <DefaultText>Sonnenuhren wie diese werden von Schäfern oder Bauern verwendet, die die meiste Zeit im Freien verbringen. Man misst mit ihnen die Zeit, indem man die zentrale Achse passend zum Monat ausrichtet, wodurch das Sonnenlicht durch ein winziges Loch gebündelt wird und auf eine Reihe von Zahlen fällt, die im Inneren des Ringes eingraviert sind. 
+
+Waidwen muss diesen Gegenstand während des Krieges des Heiligen getragen haben, da die Luft um ihn herum vor Macht zittert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5045</ID>
+      <DefaultText>Die Zwillingsaale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5046</ID>
+      <DefaultText>Ein Kuaru-Schmied schmiedete sein Meisterstück, dem er den Namen Tangaloa gab und behauptete, dass es jeden Feind ins Maul des Großen Aals schicken würde. Nachdem er seine Handwerkskunst bei allen, die es hören wollten, in höchsten Tönen angepriesen hatte, redete Rikuhu im Schlaf zu ihm und drückte seine Enttäuschung darüber aus, dass er nicht beide Aspekte der Gottheit ehrte. Dadurch gleichermaßen gedemütigt wie erschrocken schmiedete der Schmied das Gegenstück Kohopa, um das Gebot des Gottes zu ehren. Er verband die beiden Waffen und drehte die Klingen ineinander. 
+
+Dann verkaufte er die Waffe so schnell wie möglich und schmiedete nie wieder eine Waffe im Namen der Götter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5058</ID>
+      <DefaultText>Eilige Strömung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5059</ID>
+      <DefaultText>Der Legende zufolge schmiedete ein alter Wasserformer aus Ukaizo dieses Zepter auf dem Meeresboden. Den Schaft fertigte er aus dem feinsten Sandelholz. Für die Spitze suchte er eine seltene Perle, die über eintausend Jahre hinweg in einer Molluske groß wie ein Ruderboot geformt wurde. Nur durch Ondras Segen konnte der Wasserformer sie aus der Kreatur ziehen, ohne selbst von ihr verschlungen zu werden.
+
+Das Zepter war angeblich Teil eines Rituals, mit dem Ngati Vergnügen bereitet wurde, allerdings sind die Einzelheiten zu dieser unzüchtigen Angelegenheit mit der Zeit verloren gegangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5062</ID>
+      <DefaultText>Brosche des Unvermeidlichen Winters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5063</ID>
+      <DefaultText>Das matte Metall dieses Anhängers in Form eines Ochsenkopfs hat fast sämtlichen Glanz verloren. Er liegt schwer auf der Brust und seine Kälte beißt jedes Fleisch, das mit ihm in Berührung kommt. Die in die Augen des Auerochsen eingesetzten Edelsteine pulsieren schwach mit blauem Licht und gelegentlich flüstert dem Träger kaum hörbar eine leise Brise ins Ohr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5064</ID>
+      <DefaultText>Sog der Finalität</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5065</ID>
+      <DefaultText>Je tiefer jemand in die verführerisch leuchtenden Tiefen dieses Rings blickt, umso stärker zieht er dessen Sein an, wie Ranken, die an der Seele des Trägers zerren. Die Stunden scheinen im Flug zu vergehen, wenn man wie versunken in diesen Ring starrt, und auch nachdem man sich davon losgerissen hat, scheint die Welt finsterer zu sein.
+
+Der Ring scheint Hunger nach entropischen Splittern zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5069</ID>
+      <DefaultText>Fußstapfen der Bestie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5070</ID>
+      <DefaultText>Diese wie gespaltene Hufen geschusterten Stiefel verderben die Erde, die sie betreten. Der Glamfellen, der dieses ungewöhnliche Schuhwerk fertigte, schenkte sie der Priesterin seines Clans, die sie in Rymrgands Namen segnete. Dann schenkte sie diese Stiefel der mutigsten Kriegerin des Clans, damit sie sie zu Ehren der Bestie des Winters trage.
+
+Obwohl es mehrere Monate Übung brauchte, bis die Kriegerin in der Lage war, sich sicher mit den Stiefeln zu bewegen, wurde sie darin schließlich – vielleicht unvermeidlich – eine wahre Geißel auf dem Schlachtfeld.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5071</ID>
+      <DefaultText>Kleider des Hohen Boten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5072</ID>
+      <DefaultText>Auch wenn diese Kleider denen anderer Boten gleichen, haben sie eine auffällige Besonderheit: Den ekelhaften Gestank, der sie wie eine Aura umgibt. Das macht es nahezu unmöglich, dass irgendjemand außer Vatnir sie trägt, es sei denn, demjenigen fehlen jeglicher Geruchs- und Geschmackssinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5122</ID>
+      <DefaultText>Hörner des Auerochsen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5123</ID>
+      <DefaultText>Ein berüchtigter aumauanischer Räuber stieß auf eine kleine Schmiede von Abydons Dienern und metzelte alle nieder, bis auf eine Schmiedin, die sich in einer Vorratskiste verstecken konnte. Die Zwergin rief den Aumauaner und bot ihm einen Tausch an. Sie würde dem Räuber den besten Helm fertigen, den er je gesehen hatte, wenn er dafür ihr Leben verschonte. Der Räuber gab ihr eine Woche und verlangte, dass die Panzerung seinen Schutzgott ehrte – die Bestie des Winters.
+
+Die Schmiedin schuftete unablässig bis zum letzten Abend, als sie den Helm vor die unverschlossene Tür der Schmiede stellte. Am nächsten Morgen war der Helm verschwunden und das Heiligtum von Abydon wurde nie wieder geplündert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5147</ID>
+      <DefaultText>Korrodierte Armschienen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5148</ID>
+      <DefaultText>Unter den Wellen des Todesfeuers lauert ein massives Krebstier mit einer Schale härter als jeder von Gestandenen geschmiedeter Stahl. Es lauert in den Untiefen ahnungslose Schiffen auf, deren Besatzung dumm genug ist, sich seiner Schale zu nähern. Diese aus der abgeworfenen Kruste der Bestie gefertigten Panzerhandschuhe sind ebenso leicht wie überraschend haltbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5152</ID>
+      <DefaultText>Brief mit Wachssiegel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5153</ID>
+      <DefaultText>Dieses Sendschreiben, das mit wie es aussieht getrocknetem Blut auf einem Stück gegerbten Leder geschrieben wurde, erreichte dich zusammengerollt und mit dem Wachssiegel des Auerochsen versehen. Die Buchstaben sind krakelig und abgehackt, vermutlich hat der Verfasser beim Schreiben gezittert.
+
+&lt;i&gt;"Hochverehrter Wächter von Caed Nua,
+
+ich lade dich herzlich zu einem Festschmaus dir zu Ehren ein. Eine Gemeinschaft Gleichgesinnter versammelt sich in der Botenwacht, einem kleinen Außenposten im südlichen Todesfeuer-Meer, um die schnelle Ausbreitung der Toten Scholle zu erleben.
+
+Schon bald wird das Eis alles verschlingen, und Rymrgands Herrschaft über das tote Eora wird unangefochten sein.
+
+Wir erwarten mit großer Freude, deine Großartigkeit bei uns zu begrüßen.
+
+Mit Bewunderung deiner vielen Errungenschaften,
+
+Vatnir, Hoher Bote der Dämmerung"&lt;/i&gt;</DefaultText>
+      <FemaleText>Dieses Sendschreiben, das mit wie es aussieht getrocknetem Blut auf einem Stück gegerbten Leder geschrieben wurde, erreichte dich zusammengerollt und mit der Siegelmarke des Auerochsen versehen. Die Buchstaben sind krakelig und abgehackt, vermutlich hat der Verfasser beim Schreiben gezittert.
+
+&lt;i&gt;"Hochverehrte Wächterin von Caed Nua,
+
+ich lade dich herzlich zu einem Festschmaus dir zu Ehren ein. Eine Gemeinschaft Gleichgesinnter versammelt sich in der Botenwacht, einem kleinen Außenposten im südlichen Todesfeuer-Meer, um die schnelle Ausbreitung der Toten Scholle zu erleben.
+
+Schon bald wird das Eis alles verschlingen, und Rymrgands Herrschaft über das tote Eora wird unangefochten sein.
+
+Wir erwarten mit großer Freude, deine Großartigkeit bei uns zu begrüßen. 
+
+Mit Bewunderung deiner vielen Errungenschaften,
+
+Vatnir, Hoher Bote von Dusk"&lt;/i&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5154</ID>
+      <DefaultText>Vatnirs Eispickel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5155</ID>
+      <DefaultText>Ein Paar einfache Eispickel mit Holzgriffen, die man zum Klettern über vereiste Oberflächen benutzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5190</ID>
+      <DefaultText>Verrat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5199</ID>
+      <DefaultText>Eishammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5205</ID>
+      <DefaultText>Amulett der verlorenen Reisen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5305</ID>
+      <DefaultText>Platte des Wächters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5306</ID>
+      <DefaultText>Auch wenn diese Rüstung der Glamfellan wohl bereits vor tausend Jahren gefertigt wurde, muss sie äußerst sorgfältig gepflegt worden sein – zumindest bis sie vier Jahrhunderte festgefroren an einer Leiche verbrachte. Die Magie des Vytmádh hat die Rüstung für immer verändert und sie in gezackte Eis gepackt.
+
+Ob die Rüstung diese Segnungen des Weißen Nichts bereits hatte, als sie von den Tempelwächtern vergangener Jahrhunderte getragen wurde, bleibt unklar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5307</ID>
+      <DefaultText>Die Seele eines Anhängers von Rymrgand wieder zusammenfügen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5308</ID>
+      <DefaultText>Den Rest von Rynhaedrs Ausrüstung sammeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5323</ID>
+      <DefaultText>Kaihōa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5324</ID>
+      <DefaultText>Diese alte Trompete oder Kaihōa wurde von den Wasserformern von Alt-Ukaizo sehr für die einzigartige Fähigkeit geschätzt, den Fluss des Wassers durch Musik steuern zu können. Legenden der Huana erzählen, dass das Instrument von der Göttin Ngati als Geschenk für das Volk der Huana erschaffen wurde, damit sie in Harmonie mit der Stimme ihres Landes singen können. Eine traditionelle Huana-Geschichte erzählt von einem Fluss, dessen Lauf von einem Chor von Kaihōa, die von Meister-Wasserformern gespielt wurden, umgeleitet wurde. Die Kaihōa wurde aus dem Holz der Schlingliane gefertigt und erzeugt eine Reihe von tiefen, kräftigen Tönen. Sie fühlt sich warm und geschmeidig in der Hand an und zeigt kaum Spuren der Zeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5331</ID>
+      <DefaultText>Rymsjódda Lager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5332</ID>
+      <DefaultText>Rymsjódda (wörtlich übersetzt "Frostschutz" in der Ordhjóma-Sprache) ist ein süßliches, hellbraunes Bier, das mit Gerste gebraut wird. Es wird in Höhlen entlang der Nordküste des Ewigen Weiß gereift und von den Bewohnern der sesshafteren Küstengemeinden dieses Kontinents sehr geschätzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5333</ID>
+      <DefaultText>Ekkevít</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5334</ID>
+      <DefaultText>Dieser aus Mjünbeeren gebrannte und leichte gewürzte trockene Likör hat einen hellrosa Farbton wie ein roher Lachs. Da es ihn im Ewigen Weiß nur selten gibt und er bei Glamfellen-Feierlichkeiten sehr beliebt ist, verlassen nur wenige Flaschen davon je dieses kalte Land. 
+
+Einige extreme Glamfellen heben sich von jedem Jahr eine Flasche auf für die letzte Feier, die Ankunft der Bestie des Winters und das Ende aller Dinge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5335</ID>
+      <DefaultText>Gletscher-Ysae</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5336</ID>
+      <DefaultText>Dieser Salzwasserfisch ist gut erkennbar an den schwarzen Linien, die sich über die Länge seines Körpers erstrecken. Sein weißes Fleisch ist ein traditionelles Grundnahrungsmittel von Glamfellen und Enutanik gleichermaßen. Er wird gern kurzgebraten direkt nach dem Fang gegessen. Geräuchert oder getrocknet ist Ysae lange haltbar, was ihn für längere Reisen durch das Weiße Nichts unbezahlbar macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5344</ID>
+      <DefaultText>Panierter Ysae</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5345</ID>
+      <DefaultText>Dieses Rezept wird auch "diplomatische Delikatesse" bezeichnet und, da es die Küche der Aptapo- und Enutanik-Zwerge vereint. In Naasitaq aufgrund des Mangels an Mehl nicht weit verbreitet, ist diese Mahlzeit bei Feierlichkeiten der Enutanik sehr beliebt. Diese dicken, blättrigen Fischfilets werden traditionell in Walöl in einem knusprigen Teig gebraten und mit eingelegtem Seegras serviert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5346</ID>
+      <DefaultText>Dauerfrost-Scherbe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5347</ID>
+      <DefaultText>In seltenen Fällen brechen Eisfäulen in sich zusammen und fallen in eine Art Winterschlaf. Druiden und Zauberer haben Rituale entwickelt, um Fäulen in diesen Zustand zu versetzen und sie dann einzusperren. Wenn die Fäulen später freigesetzt werden, wüten sie blindlings und liefern willkommene Ablenkung oder Verbündete, um den Kampf für sich zu entscheiden.
+
+In ihrer versiegelten Form ähneln die Fäulen eine klaren, kristallinen Scherbe – nicht schmelzend, aber kalt, wenn man sie berührt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5348</ID>
+      <DefaultText>Frosty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5349</ID>
+      <DefaultText>Dieses Konstrukt ist klein und fühlt sich kalt an. Es war vielleicht ein Prototyp. Oder eine Bastelarbeit. Oder ein Spielzeug.
+
+Solange Frosty dir folgt, erhältst du einen Rüstungsbonus gegen Frostschaden und Frostangriffe deiner Gruppe profitieren von erhöhter Genauigkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5364</ID>
+      <DefaultText>Frostkonstrukt-Flüssigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5365</ID>
+      <DefaultText>Die Farbe dieses dicken, grünen Schlamms lässt vermuten, dass er im Dunklen leuchten würde, aber das ist nicht der Fall. Dieser visköse Glibber hat eine Konsistenz wie der Schleim eines Sterbenden und besitzt einen Säuregehalt, der alles Organische zersetzt. Er sollte auf keinen Fall geschluckt werden, niemals, von niemandem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5366</ID>
+      <DefaultText>Boten-Kapuze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5367</ID>
+      <DefaultText>Eine schmutzige, grob gesäumte Kapuze aus Sackleinen und Leder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5373</ID>
+      <DefaultText>Steinernes Götterbild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5374</ID>
+      <DefaultText>Eine einfache Statue, die die Bestie des Winters zeigt. Es ist keine Verzauberung oder Segnung erkennbar, daher ist ihr Wert entweder spirituell oder dekorativ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5385</ID>
+      <DefaultText>Der Griff dieser Spitzhacke ist mit mehreren Schichten abgenutzten Stoffes umwickelt. Entlang des Holzgriffes sind Dutzende winziger Piktogramme eingraviert, die Geschichten von Enutanik-Zwergen aus Naasitaq erzählen. Einige Gravuren sind fein und exakt, andere fast unkenntlich. Sie erzählen von langen Wanderungen durch die gefrorene Tundra, Kämpfen mit riesigen Bestien und schneebedeckten Adra-Säulen.
+
+Die jüngsten Bilder zeigen eine Insel aus Eis, die sich langsam im Norden von Naasitaq ausbreitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5386</ID>
+      <DefaultText>Gletscherbann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5387</ID>
+      <DefaultText>Von Feinden {0} Mal verfehlt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5388</ID>
+      <DefaultText>Frostfall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5389</ID>
+      <DefaultText>Man könnte leicht glauben, dass der Kopf dieses Streitkolbens aus einem einzigen Stück massiven verzauberten Eises gemeißelt wurde. Tatsächlich enthält der vereiste Stahl jedoch einen kleinen, aber unheimlich machtvollen Essenzsplitter, welcher der Waffe einen kalten und niemals zu stillenden Hunger verleiht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5390</ID>
+      <DefaultText>Helm des Weißen Nichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5391</ID>
+      <DefaultText>Die Eisscherben, die diesen Helm krönen, strahlen einen bösartigen Frost aus, der dem Leuchten der Todesfeuer-Sonne gänzlich widersteht. Innen riecht er muffig, als wäre er Jahrhunderte lang auf dem gefrorenen Kopf eines Bleichelfen gesessen.
+
+Selbst an den heißesten Tagen ist der Helm zu kalt, um bequem zu sein. Er plagt seinen Träger außerdem mit endlosem Flüstern am Rande der Hörbarkeit.
+
+Seltsamerweise sieht dieser Helm viel eher wie etwas aus Engwith aus als aus dem Ewigen Weiß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5392</ID>
+      <DefaultText>Winterzeit-Bollwerk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5393</ID>
+      <DefaultText>Dieser massive, von Raureif überzogene Turmschild ist in einer Art gemacht, die den Stil von Engwith mit jenem des Ewigen Weiß verbindet. Die lange, gewölbte Oberfläche strahlt schrecklichen Frost ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5394</ID>
+      <DefaultText>Frostfellmantel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5395</ID>
+      <DefaultText>Dieses mit Eis und Essenzen verstärkte Hautstück fühlt sich beim Tragen überraschend warm und schwer an. Jene, die sich in der Nähe des Trägers aufhalten, bekommen jedoch einen starken Temperaturabfall und einen nahezu konstanten eisigen Wind zu spüren.
+
+Das gefütterte Fell stinkt nach Verfall und die Raureif-Scherben, die es bedecken, schellen gegeneinander.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5398</ID>
+      <DefaultText>Der weibliche Drache Neriscyrlas klammerte sich mit verbissener Sturheit an das Leben und wehrte sich gegen den Verfall, der Fleisch, Knochen und Seele langsam auffraß. Offensichtlich konnte sich nicht einmal der Tod gegen einen solch entschlossenen Willen durchsetzen. Der Schädel des Drachen ist hohl und leblos wie ein Stück Treibholz, aber hin und wieder dringt eine leise flüsternde Stimme aus der Tiefe empor, die darum fleht, in den Kampf ziehen zu dürfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5431</ID>
+      <DefaultText>Eisschild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5432</ID>
+      <DefaultText>Tagebuch des Glücksritters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5433</ID>
+      <DefaultText>Die letzten Seiten dieses Tagebuchs sind blutverschmiert. 
+
+"Bin auf dem Eis ausgerutscht und habe mir beide Beine gebrochen. Vielleicht beeinflusst das Weiße Nichts meinen Verstand, aber ich bereue nichts. Ich habe eine Menge Schmerzen, aber ich bereue nichts. 
+
+Lerne einen Beruf, sagten sie. Öffne einen Laden, sagten sie. Investiere in einen Wagen, sagten sie. Pflanze Pastinaken an, sagten sie. 
+
+Was einem nur zeigt, dass es jenen, die lieber im Schlaf sterben wollen, an Fantasie mangelt. Ich sterbe lieber laut schreiend auf dem Gipfel der Welt als wimmernd ganz unten. Möge das Schreien beginnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5437</ID>
+      <DefaultText>Neriscyrlas' Hoffnung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5438</ID>
+      <DefaultText>Diese missgestaltete Metallscherbe pulsiert mit kaum zu haltender Macht. Sie strahlt außerdem Hitze aus und ist fast zu heiß, um sie mit bloßen Händen zu halten. Auch wenn es eindeutig nicht aus dem Weißen Nichts stammt, weist das Objekt keine Markierungen auf, die Aufschluss über seine Herkunft geben könnten, oder warum es den entropischen Kräften von Rymrgands Reich widerstehen kann.
+
+Neriscyrlas setzte ihre ganzen Hoffnungen und ihre Seele in dieses Objekt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5439</ID>
+      <DefaultText>Zahn des Toamowhai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5441</ID>
+      <DefaultText>Erinnerung an magranitische Beschwörungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5442</ID>
+      <DefaultText>Dieser Text mit gesammelten Beschwörungen ist so verschwommen, dass er fast unlesbar ist – beinahe so, als hätte das Weiße Nichts der Tinte jede Bedeutung genommen. Er könnte dennoch einem Bewohner von Rymrgands Reich noch etwas bedeuten. 
+
+Ein kurzer am Rand geschriebener Absatz sticht klar hervor:
+
+"Sollen die Gelehrten sich doch darüber streiten, wie wir ein Stück von Waidwens Seele in die Bombe gestopft haben. Ein wenig Ungewissheit hat noch keinem geschadet. Mir ist nur wichtig, dass das verdammte Ding pünktlich explodiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5443</ID>
+      <DefaultText>Evon Dewr Turmschlüssel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5444</ID>
+      <DefaultText>Auch wenn dieser Schlüssel Teil desselben in der Zeit eingefrorenen Augenblicks ist wie der Rest der Brücke von Evon Dewr, fühlt er sich solide genug an, um wie vorgesehen zu funktionieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5448</ID>
+      <DefaultText>Partikel der Überzeugung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5449</ID>
+      <DefaultText>Dieses kleine, aber starke Fragment von Seelenessenz strahlt kalte Gewissheit bei den eigenen Handlungen aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5450</ID>
+      <DefaultText>Dieses kleine, aber starke Fragment von Seelenessenz pulsiert mit kaum verhohlener Aggression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5451</ID>
+      <DefaultText>Partikel der Feindseligkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5452</ID>
+      <DefaultText>Partikel des Bedauerns</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5453</ID>
+      <DefaultText>Dieses kleine, aber starke Fragment von Seelenessenz weint feinste Strähnen von Schuld und Reue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5464</ID>
+      <DefaultText>Ende des Eidbrechers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5465</ID>
+      <DefaultText>Ein aedyranischer Fürst, der einen kleinen Wachturm im Dyrwald kontrollierte, ließ diese Axt fertigen, um sich gegen jeden zu wehren, der seine Autorität in Frage stellte. Als sich der Trutzkrieg in dem jungen Land ausbreitete, nutzte der Fürst die Gelegenheit, die Waffe im Namen von Woedica zu weihen und damit all jene zu enthaupten, die des Treuebruchs und der Unterstützung der Rebellion verdächtigt wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5472</ID>
+      <DefaultText>Splitter des Nichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5473</ID>
+      <DefaultText>Dieser kalte, schwarze Splitter besteht aus Essenz, die im Weißen Nichts zerbrochen und verdichtet wurde. Ihn mit bloßen Händen zu berühren ist unklug. Daran zu lecken noch viel mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5474</ID>
+      <DefaultText>Kleider des Boten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5475</ID>
+      <DefaultText>Diese übereinander geschichteten Häute und Felle werden von dicken Ledernähten zusammengehalten. Sie haben Verschlüsse aus Knochen und Elfenbein und Stahlsymbole des Auerochsen zieren Arme und Brust. 
+
+Da sie für das gemäßigte Klima der Botenwacht gefertigt wurden, sind diese Kleider leichter und weniger klobig als die traditionelle Kleidung im Ewigen Weiß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5476</ID>
+      <DefaultText>Instabile Seelenessenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5477</ID>
+      <DefaultText>Wenn sich Seelenenergie ansammelt, kann sie mit der Zeit instabil werden. Die Ladungen der vielen einzelnen Seelen sind so verschieden, dass die geringste Berührung zum Kollaps und damit einer Explosion von Essenz führen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5478</ID>
+      <DefaultText>Ätzende Seelenessenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5479</ID>
+      <DefaultText>Besonders gehässige Gestandene sollen angeblich ebenso ätzende Seelenessenz produzieren. Ihre Missetaten im Leben haben auch ihre Seelen verdorben und nur noch ätzende Reste übriggelassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5480</ID>
+      <DefaultText>Erbarmungsvolle Seelenessenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5481</ID>
+      <DefaultText>Diese Essenz wird von Gestandenen gewonnen, deren gütige Handlungen ihre Geister stärkten. Nach dem Konsum wird der Benutzer körperlos und kann so allen körperlichen Angriffen entgehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5486</ID>
+      <DefaultText>&lt;i&gt;"Das Raureifvolk kam mit dem ersten Schnee. Wir hatten gerade erst den letzten Wal der Fangsaison gefeiert – ein Wandkopf, ein wahrer Preis, den unsere Harpunierer an Land gezogen hatten. Wir schnitten zuerst dicke Fleischscheiben und Walspeck, salzten viel, grillten etwas und legten einen Teil ein. Die ganze Zeit über – während wir schufteten und als wir aßen – sangen wir Lieder auf den Geist des Wals, um ihm für sein Opfer zu danken und ihm die Rückkehr in das Meer der Seelen zu erleichtern. 
+
+"Wie gut wir aßen! Wie viel wir tranken! Wie laut wir sangen! Doch als der Schnee fiel, verstummten unsere Stimmen. Und unsere gute Stimmung war verflogen. Denn mit dem ersten Frost kommt der Gehörnte und in den Spuren seiner gespaltenen Hufe erheben sich seine Kinder."&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5487</ID>
+      <DefaultText>&lt;i&gt;"Siluq verschwand als Erster. Der Schnee war tagelang gefallen ohne ein Zeichen des Raureifvolks. Manche fingen an zu flüstern, dass dies ein gutes Jahr werden würde. Dass wir nicht auf jedem Schritt, den wir in Richtung Norden unternahmen, gehetzt werden würden. Wir fingen an, uns zu entspannen. 
+
+"Aber Siluq verschwand. Keiner hatte etwas gehört oder gesehen. Er war nicht jagen gegangen und hatte auch nicht den Weg verlassen, um sich Erleichterung zu verschaffen. Er war immer vor Puniki – gewiss keine Jägerin mit schwachen Augen! – und sie verlor ihn nur für einen winzigen Augenblick in den weißen Winden. Als sie abklangen, war er nicht mehr da. Seine Spur endete.
+
+"Der Schnee neben dem Weg war steinhart."&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5488</ID>
+      <DefaultText>&lt;i&gt;"Keiner nannte mich verrückt, als ich zurückkehrte. Keiner nannte mich einen Lügner. Wir verloren noch drei weitere, alle so still und heimlich gestohlen wie der Erste. Die ganze Zeit über hatten wir nur einen Einzigen vom Raureifvolk gesehen – eine Leiche, abgemagert und weiß, die leeren Gesichtshöhlen mit gefrorenem Blut verkrustet.
+
+"Als wir zur Muschelstein-Weite kamen, schickten wir Späher in jede Richtung los. Ich zog den Weststein und machte mich mit Bogen und Axt auf den Weg. Ich würde mit Kunde von Sicherheit oder Gefahr zurückkehren oder gar nicht. Egal wie, ich würde den Enutanik dienen.
+
+"Ich sah sie, als ich die Geröllblöcke, die wir Zopf des Häuptlings nannten, erklomm. So weiß war sie, so sehr wie Schnee – ich hätte sie nicht gesehen, wäre nicht die Sonne hinter ihr gestanden und hätte ihr einen orange-violetten Kranz verliehen. Sie erhob sich über den Pinien und selbst der höchste Baum reichte ihr nicht einmal bis an die Schulter. Ihre Hörner berührten die Wolken, rissen sie auf und Schnee fiel aus ihnen heraus. Das Raureifvolk flatterte wie Schneeflocken um ihre Beine, jeder von ihnen lang und scharf wie Eis, ihre knochigen Hände Speere und Schilde umklammernd, die in Raureif gehüllt waren.
+
+"Ich verweilte keinen Augenblick länger. Wir würden nach Osten reisen. Im Westen würde uns nur unser Ende erwarten."&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5489</ID>
+      <DefaultText>Er kannte das Land nur aus Geschichten. Eine riesige weiße Leere, wie das blaue Meer rund um den Tempel, aber kalt und hart. Er stellte sich die Eisbären vor, eine gewaltige weiße Masse aus Fell und Muskeln, und die Walrosse, die mit ihren speerartigen Stoßzähnen das Eis nach Nahrung durchforsten, und er träumte von Schlittenfahrten über das zerklüftete gefrorene Land.
+
+Er würde es nie zu Gesicht bekommen. Sein Platz war hier, in diesem alten Tempel, wo er den Weißen Schlund bewachte, ihn vor jenen schützte, die ihn entweihen wollten, und die Werkzeuge und Waffen der weniger Göttlichen zurückschlug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5490</ID>
+      <DefaultText>Rynhaedr nahm ihn eines Nachmittags nach den Übungen zur Seite. Rymrgands Auserwählte war nur wenige Winter älter als er, aber sie war persönlich vom Winter ausgewählt worden, am Tor zu seinem Herrschaftsgebiet Wache zu stehen. Sie trug diese Autorität wie einen Mantel, Schultern zurückgezogen, Kinn erhoben. Selbstbewusst.
+
+Sie schickte ihn dann von der Insel weg – auf das Land. Wer das Land kennt, erklärte sie, kennt den Winter. Man konnte nicht das eine ohne das andere verstehen, und ein Wächter muss den Winter kennen wie seine Westentasche.
+
+Und so fand er sich mit rasendem Herzen, dick verpackt gegen die Kälte, auf dem nächsten Versorgungsschiff wieder, auf dem Weg in Richtung Süden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5491</ID>
+      <DefaultText>Er kehrte als harter Mann zu einem gefrorenen Zuhause zurück.
+
+Das Land hatte ihn aus Raureif neu geformt – ehemals weiche Hände waren hart wie Eis geworden, einst schlaksige Arme muskelbepackt, das früher glatte Gesicht nun mit einem dicken weißen Bart wie der Pelz eines Eisbären.
+
+Aber alle waren tot. Manche waren in Stücke gerissen worden, ihre Glieder verstreut und ihre Rippen aufgerissen. Andere standen gefroren auf ihren Posten.  Rynhaedr selbst hielt den geöffneten Schlund, selbst im Untergang noch wachsam.
+
+Er verspürte keine Traurigkeit, keine pochende Angst. Er verstand das Land und so verstand er auch den Winter. Als das Knurren aus dem Schlund aufstieg, wusste er, dass es ein Eindringling war. Er nahm seinen Speer und seinen Schild auf und schritt in das Nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5495</ID>
+      <DefaultText>Fjord</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5496</ID>
+      <DefaultText>Dieses ungestüme Schneebärenjunges liebt es, Möwen hinterherzujagen und deine Reservestiefel anzuknabbern. Er ist beim Fressen wahrlich nicht wählerisch, aber gefrorener Ysae und verdorbenes Haifischfleisch gehören eindeutig zu seinen Lieblingsspeisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_icebergdungeon_imp</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>86</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Imp sitzt auf dem gefrorenen Boden, Reif hängt an seinem Fleisch, die Flügel sind schützend über seinen Schultern drapiert. Sein Mund hängt weit offen und die Falten um seine Augen herum verraten, dass sie fest zusammengepresst sind.
+
+Er umklammert ein kleines Objekt mit seinen Händen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Das Objekt untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Es sein lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die knotigen Fingerknöchel des Imps schließen sich um etwas, das auf den ersten Blick wie eine Sphäre solides Eis aussieht, auch wenn eine spürbare Macht unter ihrer Oberfläche pulsiert und die kühle Luft um sie herum noch weiter abkühlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die knotigen Fingerknöchel des Imp verbergen die gefrorene Kugel in seinen Fingern nur wenig. Eine spürbare Kraft pulsiert darin und kühlt die kalte Luft um sie herum noch mehr. Dies ist vermutlich das Artefakt, das Rymrgand sucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Ihm das Relikt aus den Händen lösen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Das gefrorene Relikt mit dem Stein-Relikt ersetzen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Als du die dürren Finger der Kreatur von der Kugel wegziehst, öffnen sich plötzlich seine blauen Augen. Der Imp hüpft mit einem langen Zischen von dir weg, die ledrigen Flügel halten ihn in der Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"HE! WARMLING MEINEN BALL NICHT NEHMEN! IST NICHT FÜR WARMLING ZUM NEHMEN!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich tausche etwas gegen deinen Ball ein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Angreifen.] "Bringen wir es hinter uns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Das ist kein Ball. Es ist ein heiliges Artefakt und es gehört dem Tempel hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"WARMLINGS KOPF MIT SCHNEE GEFÜLLT? TEMPEL VOLLER LEICHEN. LEICHEN KÖNNEN NICHT DINGE HABEN! SIE SIND LEICHEN!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Gib das Artefakt her oder ich fange an, Federn zu rupfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich verstehe, dass du an dem Relikt hängst. Aber vielleicht finden wir einen Weg, um beide das zu bekommen, was wir wollen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich nehme an, du bist nicht mit dem Zorn vertraut, der alle erwartet, die der Bestie des Winters zuwiderhandeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die drahtigen hervorstehenden blauen Augen des Urzeitwesens verengen sich leicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich gebe dir dieses Steinrelikt im Austausch. Es wird viel länger halten als ein Eisball."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Du erkennst nicht den Stein der Winterdämmerung?Er schützt den Träger vor Rymrgands Einfluss. "Du wirst nie kalt, einsam, hungrig oder krank sein, solange du ihn bei dir trägst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du ziehst den Stein aus deinem Rucksack und versuchst, ihn schnell gegen die gefrorene Kugel auszutauschen. Der Griff des Imps an der Kugel ist stärker als du erwartet hast und vereitelt deinen letzten Versuch eines Austausches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"HE? ICH NICHT WOLLEN WARMLINGS SACHEN. HABE BEREITS BALL! BALL ALLES, WAS IMP BRAUCHT!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich wäre willens, eine volle Truhe Gold dafür zu geben. Tausende wert. Du könntest &lt;i&gt;so viele Bälle&lt;/i&gt; kaufen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"EHHH?! FREUNDE HELFT MIR! FREUNDE RETTET MICH VOR WARMLINGEN!"
+
+Der Imp flattert herum und wedelt das Relikt über seinem Kopf hin und her. Ein metallisches Knirschen erfüllt den Raum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"WENN BALL AN WARMLING GEBEN, WAS IMP HABEN WIRD?"
+
+Es kratzt seinen Kopf mit einer Hand und presst die Sphäre mit der anderen eng an seine hervorstehenden Rippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Was du nicht haben wirst, ist ein Fluch. Das Relikt lässt jene, die es bei sich tragen, kalt, hungrig und einsam zurück. Aber ich bin sicher, du wusstest das."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"NICHT MEHR EINSAM UND ALLEIN?"
+
+Der Imp blickt die Sphäre für einen Moment an und schiebt sie dann in deine Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Eine kalte Welle lässt dich erschaudern ... Oder vielleicht saugt der Stein die Wärme aus deinen Fingern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Als die Kugel in deiner Hand leuchtet, hörst du das Krachen und Aufspringen kalten Metalls, das in der kühlen Luft widerhallt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"MEHR KLINGELNDE MÜNZEN ALS EIN IMP TRAGEN KÖNNTE ..."
+
+Die Augen des Imps weiten sich angesichts des unerwarteten Geschenkes. Es drückt dir das Relikt in die Hand und beginnt damit, die Kiste mit Münzen davonzuziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Den Imp untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Der Imp bewegt sich nicht, scheint aber nicht tot zu sein. Seine Haut ist zwar hauptsächlich bläulich und weiß, dennoch scheint es, dass Blut zirkuliert. Und wenn man ihm eine Hand vor den Mund hält, kann man noch leichten Atem spüren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Es ist mit Sicherheit ein Imp. Ein kalter, bewegungsloser, angenehm stiller Imp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"NIEMALS ... EINSAM?"
+
+Sein Blick bleibt auf dem Stein hängen, als er dir die eisige Kugel in die Hände drückt. Er ergreift das steinerne Relikt und drückt es gegen seine Brust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"PFFFFFFT. WARMLING GLAUBT, STEIN GLITZERT, ABER ER NUR KALTES, HARTES NICHTS!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"EHHH?! FREUNDE HELFT MIR! FREUNDE RETTET MICH VOR WARMLINGEN!"
+
+Der Imp flattert herum und wedelt das Relikt über seinem Kopf hin und her. Ein metallisches Knirschen erfüllt den Raum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Von seiner Größe und Form her zu schließen ist das zweifellos der Gegenstand, der in den Händen der vereisten bleichen Elfin fehlte, der du zuvor begegnet bist. Die Klauen des Imps würden auch die Kratzspuren auf der gefrorenen Haut der Glamfellen erklären.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Du lehnst den Stein ab, weil er nicht offensichtlich magisch ist, aber du lässt seinen Wert als kulturelles Artefakt außer Acht. Er würde bei den Gläubigen im Außenposten unten einen guten Preis erbringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Der Imp starrt dich an. Seine leuchtend blauen Augen sind zu Schlitzen verengt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"NEIN! WARMLING HÄLT SICH FÜR &lt;i&gt;SO SCHLAU&lt;/i&gt; MIT GROSSEN WORTEN UND HOCHTRABENDEN ... WORTEN."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Alles klar bei dir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Hallo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Ihm auf den Kopf klopfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Keine Reaktion. Der Imp zeigt weiterhin keine Regung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Das Fleisch des Imps fühlt sich unter deinen Fingern kalt und hart an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"He, vielleicht schlafen die einfach so. Man weiß es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Macht das Spaß, Käpt'n?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Der arme kleine Eiszapfen. Kapitän, wenn du ihm keinen deiner Mäntel als Decke überlasst, kann er gerne einen von mir haben!" Tekēhu blickt dich mit stummer Bitte an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Meinst du, dass er für meine Laterne bereit ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Obwohl er stocksteif ist, bemerkst du ein leises Zittern im Finger des Imps und ein kurzes Zucken eines seiner Ohren. Seine Brust hebt und senkt sich unnatürlich langsam. Die Kreatur lebt. Vielleicht befindet sie sich gerade in einer Art Winterschlaf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Der Imp ist nicht so regungslos, wie er anfänglich wirkte. Du bemerkst ein leichtes Zucken einer Ohrenspitze und eine leichte Spannung in den knochigen Fingern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Die Kreatur lebt. Vielleicht befindet sie sich gerade in einer Art Winterschlaf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Es scheint als wäre er verzaubert, aber ich kann nichts dergleichen spüren. Kurios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Du starrst unter die Oberfläche der Kugel und erkennst entropische Energie, die sich langsam in ihrem Inneren dreht. Es ist, als ob ein nekrotischer Zauberspruch darin gebunden wäre – gefangen, aber nicht ganz eingefroren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Angesichts seines gefrorenen Aussehens und der übernatürlichen Kälte, die es umgibt, würde es dich nicht überraschen, wenn dieses Artefakt ein Heiligtum von Rymrgands Anhängern wäre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Die Hand des Imps mit Feuermagie auftauen und das Relikt holen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Du hast kaum damit begonnen, arkane Flammen aus deinen Händen zu leiten, als das schrille Kreischen des Imps durch die Höhle hallt. Er macht einen Satz von dir weg und flattert in der Luft. Seine blauen Augen starren dich finster an, während er sich auf die Hände bläst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"GEH WEG! DU GEHÖRST HIER NICHT HIN! DU WIRST HIER VERMUTLICH STERBEN!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Selbst in guten Zeiten neigen Imps zu überstürzten Handlungen, und ich würde darauf wetten, dass dieser seine besten Tage hinter sich hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"NEIN! LÜGNER! FETTER DUMMER LÜGNER VOLLER LÜGEN!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Was hast du da?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"DAS DICH NICHTS ANGEHT!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"HE! WILL NUR DEN BALL! UND HABE BALL SCHON."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ich werde ihn dir abkaufen. Wie hört sich ein Beutel Gold für dich an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Andererseits, wenn ich noch einmal darüber nachdenke ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"NOCH EINMAL ÜBERLEGEN? MUSST ERST EINMAL ÜBERLEGEN VOR NOCH EINMAL ÜBERLEGEN!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"WARMLING KLINGT WIE KRAKEELENDE SEEMÖWE!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"WARUM SAGT WARMLING DAS STÄNDIG? WIE OFT WILLST DU NOCH ÜBERLEGEN?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"KLIMPERND? SCHÜTTEL MAL UND HÖR SELBST! ÄH, VIELLEICHT HAT IMP FRAGE NICHT GANZ VERSTANDEN."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"ZORN, HM? WAS PLAPPERT WARMLING DA?"
+
+Der Imp verdreht seinen Hals in alle Richtungen und lugt in die eisigen Tiefen der Höhle. Möglicherweise hat er versucht, leiser zu sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Als Elsífol Boldsummer versucht hat, Rymrgand auch nur um eine einzige Seele zu betrügen, hat der Gott ihn verschlungen und tausend Jahre lang wiedergekäut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Es ist sehr unangenehm. Unglückselig. Kalt. Stinkend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Der Annuqpiaat-Clan hat Magran als Hauptgottheit gewählt. Sie dachten, es wäre besser, das Feuer anzubeten als die Kälte zu besänftigen. Im nächsten Winter war der Clan verschwunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Alles hat ein Ende, aber dieses Ende muss nicht unbedingt mit schmerzhaften Eiterbeulen, qualvollem Hunger und furchtbaren Flüchen verbunden sein ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Der Imp kichert aus vollem Hals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"EITERBEULEN UND FLÜCHE! HUSTEN UND HEULEN! DURCHFALL UND NIESEN!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Das die Reaktion, die du haben wolltest, Käpt'n?"
+
+Serafen kratzt sich stirnrunzelnd am Hinterkopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"NEIN! WILL NICHT IMMER WIEDER GEKAUT UND AUSGESPUCKT UND GEKAUT UND AUSGESPUCKT UND GEKAUT UND AUSGESPUCKT WERDEN!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"WILL NICHT VOLLSTÄNDIG VERSCHWINDEN!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Der Imp drückt die eisige Kugel eng an sich. Und dann, als würde ihm plötzlich klar werden, woran er sich da klammert, schiebt er sie in deine Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Welch profund tiefes Verständnis der religiösen Doktrin meines Volkes." Ydwin starrt dich über ihren Brillenrand hinweg an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"WARMLING BESCHREIBT GANZ NORMALES LEBEN."
+
+Der Imp zuckt mit den Achseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>&lt;ispeech&gt;Das wird wohl nicht aus deinem Anteil der Beute kommen, Käpt'n?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"HE! FREUNDE! WIRD ZEIT, DASS WARMLINGE GEHEN!"
+
+Der Imp wedelt mit der Kugel über seinem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ein Imp hat was nicht verstanden? Jetzt habe ich wirklich alles erlebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Der Imp schnüffelt an dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Die knotigen Fingerknöchel des Imps schließen sich um etwas, das auf den ersten Blick wie eine Sphäre solides Eis aussieht, auch wenn eine spürbare Macht unter ihrer Oberfläche pulsiert und die kühle Luft um sie herum noch weiter abkühlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

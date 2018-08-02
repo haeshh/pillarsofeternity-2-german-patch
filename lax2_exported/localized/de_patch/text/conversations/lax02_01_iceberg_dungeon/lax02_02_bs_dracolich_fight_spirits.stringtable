@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_bs_dracolich_fight_spirits</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bereite dich auf eine Flutwelle vor, wie du noch nie eine gesehen hast!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Nimm dies! Damit kannst du deinen Feind anketten, wie auch ich angekettet war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Komm, Wächter! Der Zorn des Götterhammers ist bereit!"</DefaultText>
+      <FemaleText>"Komm, Wächterin! Der Zorn des Götterhammers ist bereit!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Die besten Wellen vorzubereiten, braucht Zeit! Hetze deinen König nicht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Geh. Beweise deine Stärke. Ich werde die Ketten vorbereiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich brauche Zeit, Wächter. Das ist keine einfache Aufgabe."</DefaultText>
+      <FemaleText>"Ich brauche Zeit, Wächterin. Das ist keine einfache Aufgabe."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>
