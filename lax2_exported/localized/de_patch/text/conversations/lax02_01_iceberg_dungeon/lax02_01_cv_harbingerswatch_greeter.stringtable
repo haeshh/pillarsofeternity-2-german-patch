@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_harbingerswatch_greeter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein nass klingender, schwerer Schlag richtet deine Aufmerksamkeit auf eine Gestalt, die oberhalb der eisigen Klippe steht. Das Licht wird von der Spaltaxt zurückgeworfen, die er über dem Kopf bereit hält.
+
+Die Klinge schwingt in einem Bogen nach unten und verursacht einen feinen roten Nebel, der in der kühlen Luft zu hängen scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du bist es! Endlich bist du gekommen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Gótvadhjur, Mitreisender! Dies scheint ein ruhmreicher Tag zu werden! Zuerst Anzeichen einer Erscheinung, dann die Ankunft des Dämmersprechers!"</DefaultText>
+      <FemaleText>"Gótvadhjur, Mitreisender! Dies scheint ein ruhmreicher Tag zu werden! Zuerst Anzeichen einer Erscheinung, dann die Ankunft der Dämmersprecherin!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was ist der Ruf des Winters?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Du sprichst von dem vorhergesagten Beginn des Endes aller Dinge durch Rymrgands Berührung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ja. Er hat mich eingeladen und dir dann erzählt, dass ich kommen würde. Was für eine Prophezeiung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Die von Rymrgand Gesegneten hören den Ruf des Winters im Wachen und im Schlafen – er hat uns zu diesem Ort gerufen ... und er ist auch das, was dich gerufen hat!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Du weißt schon, der Finale Chorus. Die Verlockung des Nichts? Die Dämmerung des Seins?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vatnir, unser Mentor, hat dein Kommen angekündigt. Er hat dich perfekt beschrieben, von Kopf bis Fuß! Ehre sei Rymrgand!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der Mann schielt in Richtung des Papiers bevor er kräftig nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Komm herein, Dämmersprecher, komm herein! Sprich auf jeden Fall mit unserem Mentor Vatnir. Er ist in der Kapelle in der Mitte der Siedlung."</DefaultText>
+      <FemaleText>"Komm herein, Dämmersprecherin, komm herein! Sprich auf jeden Fall mit unserem Mentor Vatnir. Er ist in der Kapelle in der Mitte der Siedlung."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Taut das Fleisch auf und entkorkt das Bier! Der Dämmersprecher ist angekommen!"</DefaultText>
+      <FemaleText>"Taut das Fleisch auf und entkorkt das Bier! Die Dämmersprecherin ist angekommen!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Rymrgand hat diesen Vorposten mit einem Boten gesegnet. Es ist nur minutenlang zu sehen und ist dennoch ein Objekt großer Schönheit!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Die Einladung vorzeigen.] "Vatnir ist derjenige, der mir diesen Brief geschickt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich schätze mal nicht, dass du mir etwas über diesen Eisberg erzählen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Hast du die Schiffe gesehen? Wir sind mit ihnen angereist. Damals war das das Ausmaß des Eises. Aber jetzt erstreckt es sich bis zum Horizont! Es wächst jeden Tag mehr!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich bin nicht an deinen Enden interessiert, glücklich oder nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Und doch kannst du sie nicht vermeiden, Dämmersprecher. Ist es nicht klüger, das anzunehmen, was kommt? Oder zumindest zu versuchen, es zu verstehen?"</DefaultText>
+      <FemaleText>"Und doch kannst du sie nicht vermeiden, Dämmersprecherin. Ist es nicht klüger, das anzunehmen, was kommt? Oder zumindest zu versuchen, es zu verstehen?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Was ... Was ist passiert? Wie konnte das passieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Was bedeutet das alles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Wo ist Vatnir? Jemand finde Vatnir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ich grüße dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ich &lt;i&gt;bin&lt;/i&gt; es! Wie nett von dir, das zu bemerken!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Lass die Waffe sinken!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Wahrhaftig, ich höre den Ruf des Winters!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Waffe?" Er sieht hoch zur Spaltaxt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Oh! Nein, dies ist nur ein Werkzeug. Zum Reinigen und Ausnehmen!" Er greift nach den kopflosen Überresten eines Fisches und hebt sie als eine Art schaurige Darbietung hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ich weiß so wenig von dem, über das du redest, dass ich gar nicht weiß, wo ich anfangen soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Der Elf blinzelt dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Erscheinung? Sprichst du von mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Geh schon, geh. Vatnir wartet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Bitte, bitte ... trinke, esse, sei fröhlich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Die Bestie kehrt zurück!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ist er ... tot? Kann der Tod sterben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Der Gestandene richtet sich auf als sein Blick auf dich fällt und er zeigt mit einem einzelnen ausgestreckten Finger einer blutverschmierten Hand auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Ydwin wirft dir einen fragenden Blick zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Der Teil in jedem von uns, der weiß, wenn das Ende naht, dieser Punkt, nach dem jeder Kampf bedeutungslos ist und was bleibt, ist nur das Vorspiel für nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Was soll's! Wer von uns versteht wirklich den Willen der Götter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Dieser hier spricht von der Verlockung des Nichts. Dem Staub des Seins. Dem Ende aller Dinge und dem Teil der Seele, die sich nach diesem Ende sehnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Diese Konzepte sind wichtig für ein eher ... &lt;i&gt;traditionelles&lt;/i&gt; Verständnis von Rymrgands Plänen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Richtig fröhlich, das alles."
+
+Seine Worte entlocken Ydwin ein schwaches Lächeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ich mache mich auf den Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Moment! Nein! Komm zumindest herein und sprich mit Vatnir! Unsere Tage sind gezählt, deine und unsere gleichermaßen! Komm und feiere den Tanz, der uns bevorsteht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Komm, komm!" Er bedeutet dir hereinzukommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Er ist sehr weise." Der Gestandene nickt energisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Ydwin kichert leise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Du solltest mit Vatnir, dem Lehrer dieses Lagers, sprechen. Er wird in der alten Kapelle oben auf dem Hügel sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Es bedeutet uns so viel, dass du jetzt hier bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Nein, nein ..." Er lacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Fejin haemkamür, Bruder!"</DefaultText>
+      <FemaleText>"Fejin haemkamür, Schwester!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Aber du bist aus dem Land ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>&lt;link="neutralvalue://Ordhjóma: Machen wir das Beste daraus, einverstanden?"&gt;"Jerüm dáth jott ur dhessü, já?"&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Anzeichen einer Erscheinung und die Rückkehr des Dämmersprechers? Wirklich ein Tag des Ruhms heute!"</DefaultText>
+      <FemaleText>"Anzeichen einer Erscheinung und die Rückkehr der Dämmersprecherin? Wirklich ein Tag des Ruhms heute!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Hast du mich gerade den Dämmersprecher genannt?"</DefaultText>
+      <FemaleText>"Hast du mich gerade Dämmersprecherin genannt?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Kann dein Gehör nicht für fehlerhaft erklären!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Der Bote kehrt zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Kommt dir das nicht problematisch vor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Natürlich nicht! Warum sollte es das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Oh. So verrückte Gespräche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Das was du gesagt hast, hat noch weniger Sinn gemacht als das was der Mann in der blutverschmierten Kapuze sagte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Danke für die Erklärung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Sie verschränkt ihre Arme und sagt nichts mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Was bedeutet das alles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

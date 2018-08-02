@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_tsk_pilgrim_threat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die höheren Tiere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Besiege die Pilger auf dem Felsen in der Höhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sprich mit Brythe in der Botenbehausung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die &lt;b&gt;Botin Brythe&lt;/b&gt; bat mich darum, ein Problem zu lösen, das die Verehrer von Rymrgand in der Botenwacht beschäftigt – die Kultanhänger, die  vor ihnen in der &lt;b&gt;Toten Scholle&lt;/b&gt; ankamen. Diese &lt;b&gt;Pilger&lt;/b&gt; haben über der Wacht ihr Lager errichtet und greifen jeden an, den sie sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Feindliche &lt;b&gt;Pilger&lt;/b&gt; haben ein &lt;b&gt;Lager&lt;/b&gt; zwischen der Botenwacht und Rymrgands Tempel errichtet. Ich werde sie besiegen müssen, wenn ich die Sicherheit der Wacht erhalten will – oder einen sicheren Weg zum Vytmádh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich sollte &lt;b&gt;Brythe&lt;/b&gt; informieren, dass die Pilger keine Bedrohung mehr sind. Sie ist wahrscheinlich in der&lt;b&gt;Eisfischen-Grotte&lt;/b&gt; in der Botenwacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ohne Sonderausrüstung habe ich kaum Chancen, den Felsen in der Höhe zu erklettern. Die hohen Boten haben möglicherweise etwas, was mir bei meiner Kletterpartie helfen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe Eispickel von Vatnir erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die fanatischen Pilger am &lt;b&gt;Felsen in der Höhe&lt;/b&gt; getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

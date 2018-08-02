@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_03_godhmr_plane</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Brücke in Flammen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Untersuche die Brücke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde die fehlenden Fragmente von Waidwens Seele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bringe die Fragmente von Waidwens Seele zu dem Moment vor der Explosion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich fand mich in einem anderen Teil von Rymrgands Reich wieder – einem Bild der Brücke von Evon Dewr, dem Ort von Eothas' Zerstörung durch die Götterhammer-Bombe. 
+
+Wenn ich mir ihre Unterstützung sichern kann, könnten die Geister hier mir gegen Neriscyrlas helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Brücke von Evon Dewr ist nicht zufällig hier. Jemand oder etwas hält diesen Ort im Jenseits fest, eingefroren im Moment vor der Verwüstung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Die Explosion der Götterhammer-Bombe hat Waidwens Seele zerrissen. In diesem Zustand kann er nicht richtig denken, geschweige denn mir helfen. 
+
+Eothas zufolge wird mir Waidwens Sonnenuhr ermöglichen, zwischen den Augenblicken der Explosion hin und her zu reisen. Um das zu tun, muss ich nur im hellen Lichtstrahl stehen und das Rad auf die gewünschte Zeit einstellen.
+
+Vielleicht kann ich das benutzen, um die Teile von Waidwens Seele einzusammeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Waidwens Seele zeichnet ein Bild des Mannes, der er vor seiner Zeit als Heiliger war. 
+
+Die Erinnerungen an sein unversehrtes Sein wiederherzustellen, müsste dazu beitragen, seinen Verstand wieder in Ordnung zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Der Kampf, der der Explosion der Götterhammer-Bombe vorausging, wurde in der Zeit eingefroren. Weitere Erkundungen könnten den Grund dafür aufdecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Die Seele des Heiligen Waidwen scheint in einem Kreislauf gefangen zu sein, in dem die Umstände seines Todes endlos durchlaufen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ein Fragment von Waidwens Seele zeigte eine schwierige Kindheit mit einem dominanten Vater.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ein Fragment von Waidwens Seele zeigte, dass er seinen Groll ins Erwachsenenalter mitnahm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ein Fragment von Waidwens Seele zeigte, dass er sich mit Eothas verband und die Heiligkeit wählte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ein viertes Fragment von Waidwens Seele ruht im Götterhammer selbst. Wenn ich die Quelle der Explosion genauer untersuche, könnte ich Hinweise zu diesem schwer erreichbaren Teil finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Waidwen hat auf meine Versuche, ihn wiederherzustellen, nicht reagiert. Möglicherweise ist er nur in dem Augenblick vor der Detonation der Bombe kohärent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich fand eine Priesterin, die unter der Brücke einen Zauberspruch kanalisierte. Wie Waidwen ist sie im immer gleichen Kreislauf gefangen – nur kann sich ihre fragmentierte Seele nicht mehr an die Beschwörungsformel erinnern, die sie braucht. Sie vermutete, dass sie die Formel im südlichsten Turm vergessen hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich fand die Erinnerung an eine Beschwörung in einem Turm. Ich kann sie nicht lesen, aber die Worte könnten für jemanden in diesem Reich wichtig sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich gab der Priesterin ihre Beschwörung und entdeckte so den Standort der Bombe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Ein Fragment von Waidwens Seele zeigte, dass er letzten Endes seine Rolle verstand und akzeptierte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich überzeugte Waidwen, sich mir anzuschließen, damit ich ihn zum Rad führe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich überzeugte Waidwen, sich zu rehabilitieren, indem er gegen den Drachen Neriscyrlas kämpft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich befand, dass es das Beste ist, wenn Waidwen endgültig vernichtet wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Ich fand mich in einem anderen Teil von Rymrgands Reich wieder – einem Abbild der &lt;b&gt;Brücke von Evon Dewr&lt;/b&gt;, dem Ort von &lt;b&gt;Eothas' Zerstörung&lt;/b&gt; durch die &lt;b&gt;Götterhammer-Bombe&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_cv_engwith_trial_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>108</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dein Blick aus den verhüllten Zeugen heraus erlaubt es dir, sowohl die Inquisitoren als auch die Angeklagte zu sehen. Letztere erkennst du als den Geist, der in der Nähe des Portals weiter oben gebunden ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wir haben uns unter den Blicken Woedicas und Waels versammelt, um Wahrheit aus der Lüge zu dreschen und die Gerechtigkeit zu bewahren."
+
+Die Stimme scheint aus keiner bestimmten Richtung zu kommen, aber die Gestalten vor dir zeichnen das Bild eines laufenden Prozesses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Teilnehmer des Gerichts werden sich deiner Anwesenheit bewusst. Maskierte Inquisitoren sehen dich an, mit steifen Rücken und voller Vertrauen in ihre Autorität. Verhüllte Gestalten reihen sich im Saal aneinander und verfolgen den Prozess gebannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Den zerbrochenen Dolch verwenden, um die Rolle der Angeklagten zu übernehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Den zerbrochenen Dolch verwenden, um die Rolle eines Zeugen zu übernehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Was sagst du zu diesen Anschuldigungen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich streite sie ab. Welche Beweise liegen dir vor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich nehme sie an. Ich habe den Göttern Unrecht getan, und ich bete um Vergebung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich erkenne eure Autorität nicht an! Dieses Gericht ist nur eine Farce, um den Willen von Thaos durchzusetzen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Sie lügt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Angreifen] "Genug von dieser Scharade!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die verschiedenen Gestalten im Gerichtssaal beginnen, wild durcheinander zu flüstern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Keine anwesende Person bestreitet die Fakten. Deine Worte und Taten sind gut dokumentiert, dank der Geständnisse deiner Verbündeten und den Berichten unzähliger Augen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die verschiedenen Gestalten im Gerichtssaal beginnen, wild durcheinander zu flüstern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Wenn meine Schuld bereits als erwiesen gilt, warum sind wir dann hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ein ausgeklügeltes System, das ihr hier habt. Wer braucht schon Wahrheit, wenn man Eifer hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ist es nicht gestattet, dass ich die Einzelheiten der Anklagepunkte kenne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Dann, schätze ich, bin ich schuldig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich entschuldige mich für meinen Gefühlsausbruch. Bitte fahre fort und lege mir die Beweise vor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Angreifen] "Ich sterbe lieber, als mich euch zu beugen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Die anderen Zeugen gehen auf Distanz zu dir, als die maskierten Inquisitoren ihre Blicke auf deinen Ausbruch richten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Die Angeklagte wollte meine Unterstützung bei dem Versuch, dieses Tribunal zu untergraben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Sie hat behauptet, sie sei eine Schülerin von Iovara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Entschuldige, ich wollte sagen, dass &lt;i&gt;du&lt;/i&gt; lügst. Dieses Gericht ist nichts als ein Werkzeug, um die Macht von Thaos weiter zu festigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Keine anwesende Person bestreitet die Fakten. Deine Worte und Taten sind gut dokumentiert, dank der Geständnisse deiner Verbündeten und den Berichten unzähliger Augen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Die Eindringlinge richten ihre Waffen gegen uns! Vernichtet sie!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Angreifen] "Genug Geschwätz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Das ist eine berechtigte Frage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Dein Eingeständnis spricht für dich, auch wenn es dein Tonfall nicht tut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Ein leises Raunen geht durch die versammelten Zeugen, und die Inquisitoren tauschen Blicke aus. Die Gestalt im Vordergrund hebt eine knochige Hand, ihre Robe rutscht herunter und offenbart einen düsteren Arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Mögen sich die Götter deiner Seele erbarmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Dann sollst du sterben." 
+
+Sie hebt ihre Hand, die Robe rutscht herunter und offenbart einen dunklen, knochigen Arm, und Waffen erscheinen in den Reihen der versammelten Engwithaner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Die Angelegenheit, mit der sich das Tribunal heute Nacht beschäftigt: Ketzerei."
+
+Der Dolch des gebundenen Geistes, den du an dich genommen hast, fühlt sich warm an und sondert ein öliges, schwarzes Sekret ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Das versammelte Gericht angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Du wirst angeklagt, die Orthodoxie abgelehnt zu haben, die uns von den universellen Göttlichkeiten übergeben wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"In deiner Boshaftigkeit, Ignoranz und Selbstüberschätzung hast du die Fundamente der Zivilisation selbst angegriffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ich streite sie ab. Ich diene den Göttern mit jeder Faser meines Seins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Oh, total schuldig. Die Götter sind Arschlöcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"So viel Reue ist bewundernswert, und ein seltener Anblick in diesem Saal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Die verschiedenen Gestalten im Gerichtssaal beginnen, wild durcheinander zu flüstern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Du bist immer noch sauer wegen des Schlosses, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Dennoch gewähren uns die Götter nicht die Befugnis, deine Sünden zu vergeben. Vergebung kann nur im Kreislauf des Rads gefunden werden."
+
+Die versammelten Inquisitoren und Zeugen nicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Demzufolge spricht dieses Gericht das folgende Urteil: Du wirst an deinen Fußsohlen gebrandmarkt, um dich von deinem irdischen Schmutz zu befreien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Dann wirst du zur See gebracht und ertränkt, auf dass Ondra dir deinen Atem nehme und damit auch die Lügen aus deinem Mund, auf dass man sie vergesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ich akzeptiere diese Buße."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Willst du mich veräppeln?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Angreifen] "Wenn ich schon sterben muss, dann hier auf meinen Füßen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Das will ich nicht. Und ich kann deinen Tonfall nicht akzeptieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Das Urteil wurde gesprochen, und so soll es vollstreckt werden. Lob sei den Göttern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Viele haben ähnliche Behauptungen in diesen Mauern aufgestellt. Wenn Worte doch nur das Gewicht von Taten hätten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Deine Geringschätzung gibt dir kein höheres Recht. Indem du deine Lippen vergiftest, beschmutzt du nur dich selbst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Demzufolge spricht dieses Gericht das folgende Urteil: Du wirst an deinen Fußsohlen gebrandmarkt, um dich von deinem irdischen Schmutz zu befreien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Dann wirst du zur See gebracht und ertränkt, auf dass Ondra dir deinen Atem nehme und damit auch die Lügen aus deinem Mund, auf dass man sie vergesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Fantastisch. Ich wollte ohnehin ein Wort mit Berath wechseln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ich bezweifle, dass sie sich deiner gnädig zeigen wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Das Gericht gewährt dir eine letzte Chance, dich der Sünden zu entledigen, die du dir selbst aufgeladen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Solltest du dich dafür entscheiden, deine Verfehlung nicht zuzugeben – keine Reue zu zeigen – dann wirst du die volle Schwere deiner Sünden mit ins Rad tragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Dieses Tribunal leitet seine Autorität vom Göttlichen ab und gibt sich nicht deinen Zweifeln an dieser Tatsache hin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Wenn du dich dafür entscheidest, nicht von der Gelegenheit Gebrauch zu machen, Reue für deine Sünden zu zeigen, dann fahren wir nun mit dem Urteilsspruch fort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Schweig!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Deine Augen sollen dir ausgerissen werden, auf dass man sie daraufhin auf dich selbst richte und du deine eigenen Fehler erkennen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Dann wirst du in einer Kupferwanne festgekettet und deine Haut an zwei Ritzen und sieben Stellen geöffnet, sodass dein Geist deinem korrumpierten Fleisch besser entweichen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Sobald sie gereinigt wurde, wird deine Seele an einen Animat gebunden, der den Göttern auf ewig dienen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Dann kommen wir mal zur Reinigung, würde ich sagen. Kann mir vorstellen, dass das eine Weile dauern wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Verdammt seid ihr, eure Götter und euer Gericht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Das Urteil wurde gesprochen, und so soll es vollstreckt werden. Lob sei den Göttern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Du wirst angeklagt, die Orthodoxie abgelehnt zu haben, die uns von den universellen Göttlichkeiten übergeben wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"In deiner Boshaftigkeit, Ignoranz und Selbstüberschätzung hast du die Fundamente der Zivilisation selbst angegriffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Was sagst du zu diesen Anschuldigungen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ich trage Schuld für viele Dinge, aber meine Dienste für die Göttlichen habe ich stets gewissenhaft vollführt. Nicht einmal habe ich geschwankt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Die anderen Zeugen gehen auf Distanz zu dir, als die maskierten Inquisitoren ihre Blicke auf deinen Ausbruch richten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Hat der Zeuge eine Aussage vorzubringen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Die verschiedenen Gestalten im Gerichtssaal beginnen, wild durcheinander zu flüstern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Dieses Tribunal leitet seine Autorität vom Göttlichen ab und gibt sich nicht deinen Zweifeln an dieser Tatsache hin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Du weißt genauso gut wie ich, dass die Götter aus den Seelen der engwithanischen Anführer kreiert wurden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Natürlich tut es das, wenn man davon ausgeht, dass das Göttliche von einem alten Mann in einem lustigen Hut repräsentiert wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Angreifen] "Wir werden deine Lügen nicht ertragen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Du wagst es, ketzerische Worte in diesem Saal auszusprechen?"
+
+Sie sieht zu den versammelten Zeugen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Bestraft ihn mit dem Tod."</DefaultText>
+      <FemaleText>"Bestraft sie mit dem Tod."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Die Inquisitorin richtet ihre Aufmerksamkeit auf den gebundenen Geist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Schätze, du hast eine Sekunde lang drüber nachgedacht, deine Ballastluke nich' &lt;i&gt;sperrangelweit zu öffnen&lt;/i&gt;, Kapitän Wächter?"</DefaultText>
+      <FemaleText>"Hast du mal eine Sekunde lang drüber nachgedacht, deine Ballastluke nich' &lt;i&gt;sperrangelweit zu öffnen&lt;/i&gt;, Kapitän Wächterin?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"D-Das habe ich nicht getan!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Xotis Mund öffnet sich leicht, als würde sie dazu ansetzen, sich zu Wort zu melden, aber stattdessen wird sie still. Sie verschränkt ihre Arme und plustert ihre Backen auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Es scheint, als würde jeder bereits von meiner Schuld ausgehen. Warum dann all die Mühe, um diese Farce aufrecht zu erhalten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Genug von deinen Lügen"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Die Inquisitorin wendet dir ihr maskiertes Gesicht zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Wir wären dir dankbar, wenn du deine Zunge in Zaum halten könntest, sonst lassen wir sie entfernen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Das Gericht gewährt dir eine letzte Chance, dich der Sünden zu entledigen, die du dir selbst aufgeladen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Solltest du dich dafür entscheiden, deine Verfehlung nicht zuzugeben – keine Reue zu zeigen – dann wirst du die volle Schwere deiner Sünden mit ins Rad tragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Dann komm zu deinem Urteilsspruch. Was für ein Exempel wird an mir statuiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Entschuldigung, Inquisitor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Angreifen] "Wir wäre es, wenn ich stattdessen deinen Kopf entferne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Erneut richtet sie sich an die Angeklagte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Deine Augen sollen dir ausgerissen werden, auf dass man sie daraufhin auf dich selbst richte und du deine eigenen Fehler erkennen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Dann wirst du in einer Kupferwanne festgekettet und deine Haut an zwei Ritzen und sieben Stellen geöffnet, sodass dein Geist deinem korrumpierten Fleisch besser entweichen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Sobald sie gereinigt wurde, wird deine Seele an einen Animat gebunden, der den Göttern auf ewig dienen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Der Kopf des Geistes sinkt. Ihr Haar bedeckt ihr Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Preiset die Götter!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ich nehme nicht an, dass ich den Animaten später bekommen könnte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Schweig!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Wächter, er ist voll von Seelen, die jahrtausendelang &lt;i&gt;gequält&lt;/i&gt; wurden. Lass sie in Frieden."</DefaultText>
+      <FemaleText>"Wächterin, er ist voll von Seelen, die jahrtausendelang &lt;i&gt;gequält&lt;/i&gt; wurden. Lass sie in Frieden."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>108</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4146</ID>
+      <DefaultText>Schutz des Götterhammers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4147</ID>
+      <DefaultText>Wenn die Trägerin dem Tode naheist, erhält sie einen Rüstungsbonus und fügt Nahkampf-Angreifern Brandschaden zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4358</ID>
+      <DefaultText>Treue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4372</ID>
+      <DefaultText>Leben durch den Tod</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4373</ID>
+      <DefaultText>Letzte Flamme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4374</ID>
+      <DefaultText>Schnelles Aufbäumen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4380</ID>
+      <DefaultText>Ätzender Atem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4457</ID>
+      <DefaultText>Essenz absorbieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4459</ID>
+      <DefaultText>Seelenfetzen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4460</ID>
+      <DefaultText>Seelen freilassen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4461</ID>
+      <DefaultText>Seelen freilassen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4462</ID>
+      <DefaultText>Kriechender Tod</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4463</ID>
+      <DefaultText>Eissplitter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4464</ID>
+      <DefaultText>Schmetterrüstung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4468</ID>
+      <DefaultText>Kühlender Nebel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4469</ID>
+      <DefaultText>Eisexplosion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4471</ID>
+      <DefaultText>Tiefer Frost</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4472</ID>
+      <DefaultText>Atem des Nichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4473</ID>
+      <DefaultText>Ruf des Vergessens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4479</ID>
+      <DefaultText>Zeitstreckung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4481</ID>
+      <DefaultText>Verzehrendes Nichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4484</ID>
+      <DefaultText>Realitätsriss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4487</ID>
+      <DefaultText>Blick ins Nichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4488</ID>
+      <DefaultText>Vernichtender Untergang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4490</ID>
+      <DefaultText>Niederreißen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4491</ID>
+      <DefaultText>Gewaltsamer Zusammenbruch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4494</ID>
+      <DefaultText>Griff des Vergessens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4499</ID>
+      <DefaultText>Rymrgands Ruf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4500</ID>
+      <DefaultText>Winterkälte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4501</ID>
+      <DefaultText>Fußstapfen der Bestie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4508</ID>
+      <DefaultText>Hitzetod</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4513</ID>
+      <DefaultText>Ansturm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4526</ID>
+      <DefaultText>Essenz verstreuen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4540</ID>
+      <DefaultText>Immunität: Säure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4541</ID>
+      <DefaultText>Wiederaufbauen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4565</ID>
+      <DefaultText>Wiederaufbau – Tuch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4585</ID>
+      <DefaultText>In der Zeit verloren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4649</ID>
+      <DefaultText>Wiederaufbau – Platte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4675</ID>
+      <DefaultText>Entropie-Wächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4676</ID>
+      <DefaultText>Der Träger postiert sich, erhält einen Bonus auf Rüstung und wird bewegungsunfähig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4677</ID>
+      <DefaultText>Adrenalinschub</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4678</ID>
+      <DefaultText>Chaos verbreiten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4692</ID>
+      <DefaultText>Segen der zerschlagenen Welten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4693</ID>
+      <DefaultText>Rymsjódda Lager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4694</ID>
+      <DefaultText>Ekkevít</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4695</ID>
+      <DefaultText>Gletscher-Ysae</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4696</ID>
+      <DefaultText>Panierter Ysae</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4697</ID>
+      <DefaultText>Während dir Frosty folgt, erhältst du zusätzlich Frostrüstung und die Frostangriffe der Gruppe sind genauer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4698</ID>
+      <DefaultText>Dauerfrostscherbe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4715</ID>
+      <DefaultText>Geplagte Stärke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4716</ID>
+      <DefaultText>Frostgeschädigte Palisaden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4717</ID>
+      <DefaultText>(Frostgeschädigte Palisaden) Fehlschläge des Feindes gegen den Träger haben eine Chance, einen Frostangriff als Vergeltungsschlag auszulösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4718</ID>
+      <DefaultText>Rymrgands Schutz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4719</ID>
+      <DefaultText>Erhöht die Abwehr des Trägers, aber auch die Dauer feindlicher Effekte auf den Träger. Kann nur verwendet werden, während ein feindlicher Effekt wirkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4720</ID>
+      <DefaultText>Gletscher-Momentum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4721</ID>
+      <DefaultText>Das Winterzeit-Bollwerk bremst den Träger für kurze Zeit, erhöht aber dessen körperliche und mentale Verteidigung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4722</ID>
+      <DefaultText>Chaosschlag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4723</ID>
+      <DefaultText>Der Träger kanalisiert Rymrgands Energie in einen einzigen Schlag und fügt dabei sich selbst und dem Ziel eine zufällige Wirkung zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4724</ID>
+      <DefaultText>Gelähmt (Gefroren)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4725</ID>
+      <DefaultText>Der Träger wird von Rymrgands Energie durchzogen, er erhält einen Bonus auf alle Verteidigungen, wenn er mit einer Wirkung belegt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4726</ID>
+      <DefaultText>Schlurfender Tod</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4727</ID>
+      <DefaultText>Von Seelen erfüllt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>Solange die Wirkung anhält, ist die Verteidigung des Trägers erhöht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4729</ID>
+      <DefaultText>Geisterfalle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4730</ID>
+      <DefaultText>Kaminbett</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4731</ID>
+      <DefaultText>Schleier des Winters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4732</ID>
+      <DefaultText>Der Benutzer und dessen Verbündete werden vom Auge von Rymrgand bedeckt, das ihnen Schleierberührt gewährt. Sie erleiden bei Angriffen weniger Schaden und können ohne das Schlüsselwort, das den Schleier durchbohrt, keinen kritischen Treffer erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4733</ID>
+      <DefaultText>Der Benutzer erzeugt an einer Stelle eine mächtige Feuerexplosion. Feinde im Explosionsbereich erleiden sofort und über Zeit Verbrennungsschaden. Verbündete im Explosionsbereich werden sofort und über Zeit geheilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4734</ID>
+      <DefaultText>Der Benutzer kanalisiert und absorbiert die Verteidigung aller Feinde in einem Bereich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4735</ID>
+      <DefaultText>Der Benutzer nimmt einen Feind in der Zeit gefangen, wodurch festgehalten wird, aber auch nicht mehr angreifbar ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4736</ID>
+      <DefaultText>Der Benutzer stachelt die Feinde um sich herum zur Rebellion an. Diese Feinde sind für kurze Zeit bezaubert und ihre Macht, Verfassung und Gewandtheit werden erhöht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4737</ID>
+      <DefaultText>Endloser Winter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4738</ID>
+      <DefaultText>Weiße Winde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4745</ID>
+      <DefaultText>Pest-Wirt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4746</ID>
+      <DefaultText>Gottähnliche des Endes sind selbst zu ihren besten Zeiten abstoßend. Wenn sie noch dazu verwundet sind, strahlen sie eine giftige Aura von Schmerz und Ekel aus und machen, wenn sie schwer verletzt oder dem Tod nahe sind, ihre Feinde krank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4747</ID>
+      <DefaultText>Gottähnliche des Endes leiden im Laufe ihres Lebens ständig unter einer ganzen Reihe verschiedener Krankheiten. Daher sind sie von Wirkungen, die Feinde über sie bringen wollen, weniger betroffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4748</ID>
+      <DefaultText>Kind des Nichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4749</ID>
+      <DefaultText>Der Träger zeigt auf einen Feind und beherrscht ihn für eine kurze Zeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4751</ID>
+      <DefaultText>Entropischer Schild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4760</ID>
+      <DefaultText>Instabile Seelenessenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4761</ID>
+      <DefaultText>Bei der Explosion wird Seelenenergie freigesetzt, die alle in dem Bereich heilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4762</ID>
+      <DefaultText>Ätzende Seelenessenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4763</ID>
+      <DefaultText>Erbarmungsvolle Seelenessenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4764</ID>
+      <DefaultText>Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4765</ID>
+      <DefaultText>Gott der Entropie, der Kälte, des Winters, des Pechs, der Hungersnot und der Naturkatastrophen. Manifestiert sich als riesiger Albino-Auerochse, der sich in einem gewaltigen Schneesturm fortbewegt. In den schwerfälligen Fußstapfen Rymrgands folgen Tod und Zerfall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4766</ID>
+      <DefaultText>Rymrgands Ruf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4767</ID>
+      <DefaultText>Der Priester ruft nach Rymrgand und erschafft eine Öffnung in das Weiße Nichts. Der Bereich pulsiert und zieht alle in der Nähe an, während er Frostschaden anrichtet und die Dauer aller vorteilhaften Wirkungen verkürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4768</ID>
+      <DefaultText>Rymrgands Symbol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4769</ID>
+      <DefaultText>Zeichnet das Symbol von Rymrgand auf den Boden, das Gegnern in regelmäßigen Abständen Frostschaden zufügt und sie verängstigt zurücklässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4770</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Priester von Rymrgand lernen die folgenden Zaubersprüche automatisch auf der jeweiligen Kraftstufe:
+1. Berührung durch den Verfall
+2. Schneesturm
+3. Sich ausbreitende Pest
+4. Giftige Explosion
+5. Frostexplosion
+6. Ninagauths Frostsäule
+7. Todesring
+8. &lt;xg&gt;Rymrgands&lt;/xg&gt; Symbol
+9. &lt;xg&gt;Rymrgands&lt;/xg&gt; Ruf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4782</ID>
+      <DefaultText>Der Benutzer setzt Neriscyrlas' ätzenden Atem frei, fügt Korrosionsschaden zu und verängstigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4783</ID>
+      <DefaultText>Der Benutzer löst eine Säureexplosion aus, fügt Korrosionsschaden zu und verängstigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4784</ID>
+      <DefaultText>Wird der Träger bewusstlos, wird er damit wiederbelebt und geheilt. Wie stark die Heilung ausfällt, hängt von den Religionsfertigkeiten des Trägers ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4785</ID>
+      <DefaultText>Bestie des Winters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4786</ID>
+      <DefaultText>Die Schritte des Trägers vereisen den darunterliegenden Boden und lassen Feinde, die den Bereich betreten, humpeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4787</ID>
+      <DefaultText>Der Träger kanalisiert jegliche latente Energie und erhält dadurch einen Bonus auf die Aktionsgeschwindigkeit, wird aber auch geschwächt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4788</ID>
+      <DefaultText>Leidet der Träger an einer Wirkung, heilt er damit mit der Zeit langsam und erhält einen Bonus auf Macht, Verfassung und Gewandtheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4789</ID>
+      <DefaultText>Zeitstreckung I</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4790</ID>
+      <DefaultText>Wenn Angriffsgebunden, werden Alle um den Träger herum verlangsamt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4791</ID>
+      <DefaultText>Zeitstreckung II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4792</ID>
+      <DefaultText>(Zeitstreckung II) Alle um den Träger herum werden noch mehr verlangsamt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4793</ID>
+      <DefaultText>Zeitstreckung III</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4794</ID>
+      <DefaultText>(Zeitstreckung III) Alle um den Träger herum werden noch mehr verlangsamt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4795</ID>
+      <DefaultText>Gletscherschlag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4796</ID>
+      <DefaultText>Schneehammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>Frostfell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4799</ID>
+      <DefaultText>Gebrüll des Schneesturms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4825</ID>
+      <DefaultText>Wenn Fjord die Gruppe begleitet, erhöht sich deine Verfassung und die Gruppe richtet mit jedem Nahkampfangriff zusätzlichen Frostschaden an.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

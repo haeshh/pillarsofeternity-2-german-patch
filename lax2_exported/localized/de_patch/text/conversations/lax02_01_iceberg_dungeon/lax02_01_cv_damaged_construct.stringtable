@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_damaged_construct</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Obwohl es größtenteils intakt ist, scheint das Konstrukt irgendwo ein Leck zu haben. Eine Spur aus süßlich duftender, grüner Flüssigkeit windet sich am Panzer der Maschine nach unten. Das Eis unter ihr ist schwarz, als wäre es verbrannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Das Leck untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Dem Konstrukt Flüssigkeit entnehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Es sein lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Eine Klappe an der Seite des Konstrukts offenbar sein Innenleben. Im Inneren kannst du den Behälter sehen, aus dem die Flüssigkeit austritt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du bastelst aus einigen Röhren und anderen Teilen ein simples Absaugrohr zusammen, das es dir ermöglicht, eine größere Menge Flüssigkeit aus dem Konstrukt zu extrahieren, ohne es zu stören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vorsichtig entnimmst du etwas Flüssigkeit ... Aber nicht ganz vorsichtig genug. Zahnräder drehen und Federn strecken sich und es gelingt dir gerade noch, deine Hand – und die wertvolle Flüssigkeit – aus dem Konstrukt zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vorsichtig entnimmst du etwas Flüssigkeit ... Aber nicht vorsichtig genug. Du ziehst deine Hand mit der wertvollen Flüssigkeit aus dem Konstrukt heraus, aber nicht, bevor du dir mehrere Schnittwunden zugezogen hast. Dein Blut spritzt in den Schnee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Mit einem knirschenden Geräusch, das an ein heruntergelassenes Fallgitter erinnert, richtet das Konstrukt seine Aufmerksamkeit auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Flüssigkeit aus dem Konstrukt schöpfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Flüssigkeit aus dem Konstrukt schöpfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Das Innere der Maschine ist jedoch voller Zahnräder und ähnlich scharfer Teile und eine falsche Bewegung könnte dich einen Finger kosten – oder noch mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

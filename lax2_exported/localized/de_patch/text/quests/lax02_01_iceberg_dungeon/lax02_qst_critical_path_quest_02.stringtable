@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Auf Aufsteigen und Ablehnen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Den Vytmádh in der Toten Scholle finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rymrgands Auge entdecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Das Jenseits durch den Vytmádh betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Den Vytmádh in der Toten Scholle finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Vatnir&lt;/b&gt; zufolge, hat sich tief in der &lt;b&gt;Toten Scholle&lt;/b&gt; ein Portal ins &lt;b&gt;Weiße Nichts&lt;/b&gt; geöffnet, das den Wachstum des Eisbergs fördert. 
+
+Wenn ich die Ausbreitung eines endlosen Winters stoppen will, sollte ich zuerst dieses Tor zum &lt;b&gt;Jenseits&lt;/b&gt; finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Vatnir wusste nicht genau, warum sich die Tote Scholle ausbreitet, aber er empfahl mir, die Suche an dem &lt;b&gt;Vytmádh&lt;/b&gt; zu beginnen, einem Eingang ins Jenseits, der in einem &lt;b&gt;Tempel &lt;/b&gt; versteckt im &lt;b&gt;Zentrum der eingefrorenen Insel&lt;/b&gt; liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich kommunizierte mit Rymrgand, und der schreckliche Gott bestätigte, dass der Vytmádh die Quelle für das sich ausbreitende Eis ist. 
+
+Er warnte mich, allerdings, dass das Portal mich vernichten würde, wenn ich versuche, es ohne ein Relikt, das als sein Auge bekannt ist, zu betreten. Das Auge wurde von der ersten Wächterin dieses Ortes verwahrt, aber sie verschwand vor Jahren, als der Drache angriff. 
+
+Wenn ich irgendwelche Hoffnung habe, den Vytmádh zu verschließen, dann muss ich als Erstes &lt;b&gt;Rymrgands Auge/b&gt; finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich fand Rymrgands Auge im Besitz eines eisigen Imps und konnte es bergen. Mit diesem Relikt kann ich den &lt;b&gt;Vytmádh&lt;/b&gt; benutzen, um ins &lt;b&gt;Jenseits&lt;/b&gt; zu gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Wenn ich verhindern will, dass sich die Tote Scholle weiter ausbreitet, muss ich den &lt;b&gt;Vytmádh&lt;/b&gt; finden, von dem der Botenanführer sprach. Ich muss den Rest des Eisbergs erkunden, vielleicht finde ich einen Weg, es zu stoppen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Als ich aus dem Rückzug der Boten auftauchte, kehrte der von mir getötete Drache zum Leben zurück. Er schien von einer unnatürlichen Kraft wieder an die &lt;b&gt;Spitze des Eisberg&lt;/b&gt; gebracht worden zu sein. Vielleicht weiß die Kreatur – oder was immer ihn aus der Botenwacht zog – mehr über den &lt;b&gt;Vytmádh&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Während ich den vereisten Tempel erforschte, bezeugte ich eine Seelenvision von Leuten, die hier bei einem Angriff eingefroren wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Im Tempel sah ich eine andere Vision von Seelen, die beim Angriff auf diesen Ort gefallen waren. Sie wollten jemandem namens &lt;b&gt;Rynhaedr&lt;/b&gt; zu Hilfe kommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich fand den &lt;b&gt;Drachen&lt;/b&gt;, nur um zu sehen wie er gegen seinen Willen in die weiße Kälte des &lt;b&gt;Vytmádh&lt;/b&gt; gezogen wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich fand in der Nähe des  &lt;b&gt;Vytmádh&lt;/b&gt; eine &lt;b&gt;erfrorene Person&lt;/b&gt;, die scheinbar, ein &lt;b&gt;Objekt von großer Macht&lt;/b&gt; in der Hand haltend, gestorben war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Wer immer das Objekt der gefrorenen Leiche des Wächters entrissen hat, muss unglaublich scharfe Klauen haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich schritt durch den Vytmádh und betrat das Jenseits. Jetzt muss ich es nach dem &lt;b&gt;Drachen&lt;/b&gt; durchsuchen, der verhindert, dass das &lt;b&gt;Portal&lt;/b&gt; versiegelt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Mit letztem Atem sprach der &lt;b&gt;Hochbote Vatnir&lt;/b&gt; von etwas, das &lt;b&gt;Vytmádh&lt;/b&gt; genannt wird – er behauptete, dieser breite sich unendlich aus, um letztlich die ganze Welt zu verschlingen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

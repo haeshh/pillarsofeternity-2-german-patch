@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_si_icebergexterior_wallclimb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die flache Eisfläche ragt über der Botenwacht empor. Sie ist leicht schräg nach außen geneigt und hängt wie ein Schutzvorhang über der Siedlung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Mit den Eispickeln erklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Mit den Eispickeln, die du Vatnir abgenommen hast, schreitest du zur Wand.
+
+Du haust einen der Pickel in das Eis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Langsam und sehr vorsichtig kletterst du die steile Wand hoch. Deine Muskeln schmerzen, als du schließlich den Vorsprung etwa 25 Meter über dem Boden erreichst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du kehrst zu dem Vorsprung zurück, der die Botenwacht überblickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Absteigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Zurückgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Langsam und mit großer Mühe steigst du mithilfe der Eispickel wieder die Wand hinab. Als du den Boden erreichst, schmerzen deine Muskeln, deine Knie schillern in blauen Flecken und an deinen Händen haben sich Blasen gebildet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Der Drache dreht wilde Krise durch die Luft. Kalte, abgestandene Luft, die in deinem Gesicht brennt, trägt ihn gen Himmel. Er kracht in die Eiswand über der Siedlung, bevor ihn die unsichtbare Kraft nach oben zieht. Seine wild ausschlagenden Krallen kratzen am Raureif.
+
+Er verschwindet über der Kante des Vorsprungs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Augenblicke später herrscht Stille, nur zaghaft unterbrochen von den geflüsterten Gebeten der Boten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Mit bloßen Händen erklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Ein Seil sichern und herablassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du klemmst den Enterhaken in einen gezackten Eisspeer und wirfst das Seilende über die Kante. Es fällt und entrollt sich in Richtung der darunter liegenden Siedlung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du hangelst dich mühelos das Seil hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Dein Seil hängt immer noch von oben herab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Das Seil hochklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Die Spitze des Eisbergs breitet dich vor dir aus, eine breite Hochebene aus solidem Eis, übersät von alten, verfallenen Ruinen.
+
+In der Ferne glitzert das Meer, ein Silberstreifen am Horizont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du kletterst die Wand hoch und suchst mit deinen Stiefeln in unebenen Eiskanten Halt. Mit aller Kraft ziehst du dich die kalte, unnachgiebige Oberfläche hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Über dir tastest du nach weiteren Griffstellen, doch das Eis ist zu glatt, um viel Halt zu bieten.
+
+Du steigst zurück hinab auf den gefrorenen Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Dein Seil hängt in Richtung der Siedlung herunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Die Spitze des Eisbergs breitet dich vor dir aus, eine breite Hochebene aus solidem Eis, übersät von alten, verfallenen Ruinen.
+
+In der Ferne glitzert das Meer, ein Silberstreifen am Horizont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Vatnir reibt sich die Arme und murmelt leise vor sich hin. Er verstummt, als er über deine Schulter blickt.
+
+"Das Seil, das zum Tempel hinabführt, ist im Osten."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

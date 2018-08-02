@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein verehrter Gast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Den Brief mit Wachssiegel lesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Reise zur Botenwacht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Mit Vatnir reden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Störung draußen untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vatnir im Rückzug der Boten finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein &lt;b&gt;Brief&lt;/b&gt;, versehen mit dem Siegel des Gottes &lt;b&gt;Rymrgand&lt;/b&gt;, ist für mich angekommen. Ich sollte ihn lesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ein Kurier brachte eine mit dem &lt;b&gt;Emblem des Auerochsen&lt;/b&gt; versiegelte &lt;b&gt;Schriftrolle aus Leder&lt;/b&gt; zu meinen Schiff. Ich sollte sie lesen, wenn ich Gelegenheit dazu habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Eine Gruppe, die sich &lt;b&gt;Boten der Dämmerung&lt;/b&gt; nennt, hat mich zu einem Fest mir zu Ehren eingeladen. Ich weiß nicht, wer sie sind oder wofür sie mich genau feiern wollen. 
+
+Wenn ich es rausfinden will, muss ich zur &lt;b&gt;Botenwacht&lt;/b&gt; reisen, dem Außenposten der Gruppe in der &lt;b&gt;Toten Scholle&lt;/b&gt; – ein sich ausdehnender &lt;b&gt;Eisberg in der Südlichen See&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe erfahren, dass &lt;b&gt;Vatnir&lt;/b&gt;, der Anführer der Boten der Dämmerung, häufig predigend in einer Kapelle anzutreffen ist, die sich &lt;b&gt; im Hauptgebäude der Siedlung befindet&lt;/b&gt;. Er müsste wissen, warum ich hergerufen wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Vatnirs Predigt über meine Rolle beim Ende der Welt und dem Tod von allen Dingen wurde von einem lauten Tumult draußen unterbrochen. Die Boten wurden durch den Lärm seltsam beschwingt. Ich muss herausfinden, was da los ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>&lt;b&gt;Vatnir&lt;/b&gt; hat es nie nach draußen geschafft. Nachdem ich den Vorboten der Boten – einen verfaulenden Drachen – erschlagen habe, sollte ich den Gottähnlichen finden und ihn fragen, was los ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;Vatnir&lt;/b&gt; ist nicht mehr in dem Heiligtum, aber da ich ihn draußen nicht gesehen habe, muss er noch im &lt;b&gt;Rückzug der Boten&lt;/b&gt; sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich entlarvte&lt;b&gt;Vatnir&lt;/b&gt; den &lt;b&gt;Boten&lt;/b&gt; als Betrüger. Er ist geflohen, aber davor erwähnte er noch einen Tempel tief in einem Eisberg verborgen – einen Tempel, der einen Realitätsriss enhält, der als Eingang zum &lt;b&gt;Weißen Nichts&lt;/b&gt; dienen soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>&lt;b&gt;Vatnir&lt;/b&gt; erzählte mir von einem tief in dem Eisberg eingefrorenen Tempel. Angeblich soll es in dem Tempel einen Realitätsriss geben – einen Eingang in das &lt;b&gt;Weiße Nichts&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe &lt;b&gt;Vatnir&lt;/b&gt; getötet. Im Sterben erwähnte er noch einen mitten im Eisberg gelegenen Tempel, der einen Realitätsriss enthält – einen Eingang in das &lt;b&gt;Weiße Nichts&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Eine Gruppe namens &lt;b&gt;Boten der Dämmerung&lt;/b&gt; hat mich zu einem Fest zu meinen Ehren in die &lt;b&gt;Botenwacht&lt;/b&gt; in der &lt;b&gt;Toten Scholle&lt;/b&gt; eingeladen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

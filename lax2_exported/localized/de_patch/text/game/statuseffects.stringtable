@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Erhöht jedes Mal, wenn ein Gruppenmitglied niedergeschlagen wird, Macht und Entschlossenheit bis zum Ende des Kampfes um {0:triggervalue:straight}. Wirkung vervielfacht sich 4 Mal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>{0:value} Alle Verteidigungen bei Treffer. Für jedem Treffer erhält der Wirker {0:extravalue} auf alle Verteidigungen (Kann bis zu {0:triggervalue:straight}-Mal gestapelt werden)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Deine Seele erleidet durch einen Angriff anhaltenden Schaden, während dein Geist verschleiert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>Erhalte alle {0:interval} {0:value:percent} Treffer zu kritischem Treffer. Diese Wirkung wird bei einem erfolgreichen kritischen Treffer zurückgesetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>(Aktueller Bonus: {0:value:percent}) Erhalte alle {0:interval} {0:value:percent} Treffer zu kritischem Treffer. Diese Wirkung wird bei einem erfolgreichen kritischen Treffer zurückgesetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>Angriffsgeschwindigkeit erhöht sich, wenn die Gesundheit nachlässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>Gehen hinterlässt ein kleinen Wirkungsradius, der Gegner humpeln lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>Nach erzieltem Treffer oder kritischem Treffer fügt der nächste erfolgreiche Angriff des Trägers zusätzlichen Frostschaden zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>Der nächste erfolgreiche Angriff des Trägers fügt zusätzlichen Frostschaden zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>{0:Value:PercentBonus} Schaden gegen Neriscyrlas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>{0:value} Durchschlagskraft nach Erleiden von Frostschaden. Kann bis zu {0:extravalue:straight}-Mal gestapelt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>Waffenangriffe fügen Wuchtschaden/Frostschaden zu (je nachdem, was besser ist).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>{0:value:percent} Chance, einem Feind in der Nähe eine zufällige Stufe 1-Wirkung zuzufügen, wenn der Träger mit einer Wirkung belegt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>Bei Tötung wird die Dauer nachteiliger Statuswirkungen bei Feinden in der Nähe um {0:value:percentbonus} verlängert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>Kritische Treffer haben eine Chance von {0:value:percent}, den Feind für {0:extravalue:duration} einzufrieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>{0:value:percent} Chance, beim erzielen eines kritischen Treffers  Feinden rund um das Ziel Frost-/Hiebschaden zuzufügen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>Waffenkunde in großen Schilden gewährt jetzt {0:value:percent} Chance, Frostschaden zu verursachen, wenn man im Nahkampf verfehlt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>{0:statuseffects} jedes Mal, wenn der Träger verfehlt wird. Wirkung vervielfacht sich 5 Mal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>Muss mit beiden Händen geführt werden, fügt aber mehr Schaden zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>Wird ein kritischer Treffer bei einem Feind erzielt, erleidet er reinen Schaden über Zeit. Wann immer dieser Feind Schaden zufügt, verlängert sich die Wirkungsdauer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>Feinde, die unter der Wirkung von Waage der Gerechtigkeit getötet werden, fügen Feinden in der Nähe Schaden zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>Feinde, die unter der Wirkung von Waage der Gerechtigkeit getötet werden, heilen Verbündete in der Nähe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>{0:value:percent} Chance, bei erlittenem Treffer mit Waffen Korrosionsschaden über Zeit zuzufügen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>Bonuschance, mit den Zwillingsaalen Treffer in kritische Treffer umzuwandeln. Die Chance wird durch die Religionsfertigkeit des Trägers erhöht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>Flächenheilung bei erzielter Tötung mit den Zwillingsaalen. Die Heilung wird durch die Religionsfertigkeit des Trägers verstärkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>{0:value:percent} Chance, bei Erzielen eines kritischen Treffers einen unterbrechenden Schmetter-Flächenschaden auszulösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>{0:value:percent} Chance, bei Erzielen eines kritischen Treffers einen unterbrechenden und lähmenden Schmetter-Flächenschaden auszulösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>{0:value:percent} Chance nach erzieltem kritischem Treffer mit Nahkampfwaffe, die Durchschlagskraft der gegnerischen Waffe {0:triggervalue:duration} lang um {0:extravalue} zu verrringern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>Wird der Träger bewusstlos geschlagen, fügt er Feinden in der Nähe erheblichen Brandschaden zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>Feinde in der Nähe haben {0:value:percentbonus} Vorwärtskommen für {0:extravalue:duration} nachdem der Träger einen Treffer mit einem Absetzen-Angriff erzielt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>Der Träger erhält einen Bonus für die Angriffsbindung, wenn seine Gesundheit abnimmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>{0:value:percent} Chance, gegnerische kritische Treffer in Treffer mit nicht schleierdurchdringenden Hiebangriffen umzuwandeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>{0:value:percentbonus} erlitterner Schaden von schleierdurchdringendem Angriff</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

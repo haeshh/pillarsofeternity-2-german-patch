@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tutorial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Schmuckstücke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Schmuckstücke sind starke Ausrüstungsgegenstände, die dem Träger eine neue Fähigkeit verleihen. Klicke auf ein Schmuckstück in deinem Inventar, um es einzusammeln und lege es in den Zauberbuch-/Schmuckstück-Slot, um es auszurüsten.  Du kannst auch auf Schmuckstücke doppelklicken, um sie automatisch auszurüsten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

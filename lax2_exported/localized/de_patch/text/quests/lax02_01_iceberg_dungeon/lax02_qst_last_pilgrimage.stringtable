@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_last_pilgrimage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die letzte Pilgerfahrt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Den Raureif-Tempel betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Such nach Spuren von Ehrys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kümmere dich um Brythes Schwester.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bring Brythe zur Botenbehausung zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bring Brythe zur Botenbehausung zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Bring Brythe zur Botenbehausung zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Scheinbar war &lt;b&gt;Brythes&lt;/b&gt; Schwester &lt;b&gt;Ehrys&lt;/b&gt; unter den Pilgern. Sie hofft, dass ich Spuren von ihr in der &lt;b&gt;Toten Scholle&lt;/b&gt; finde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich sah am&lt;b&gt;Felsen in der Höhe&lt;/b&gt; niemanden, der zu &lt;b&gt;Ehrys'&lt;/b&gt; Beschreibung passt. Der nächste Ort zum Suchen wäre der eingefrorene Tempel in der &lt;b&gt;Toten Scholle&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Vermutlich finde ich &lt;b&gt;Brythes Schwester&lt;/b&gt; – oder zumindest das, was von ihr noch übrig ist – irgendwo im &lt;b&gt;Raureif-Tempel&lt;/b&gt;. Wenn ich sie finden will, muss ich die ganze Anlage durchsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ehrys lebt noch, aber sie scheint nicht nur im Tempel bleiben zu wollen, sondern auch ihre Seele an eines der Konstrukte, die ihn bewachen, übertragen zu wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ehrys kam im Raureif-Tempel ums Leben. Ich glaube kaum, dass &lt;b&gt;Brythe&lt;/b&gt; diese Nachricht gern hören wird, aber sie will sicher wissen, welches Schicksal ihre Schwester erfahren hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich half Ehrys, ihre Seele aus ihrem Körper in ein Frostkonstrukt zu übertragen. Ich sollte &lt;b&gt;Brythe&lt;/b&gt; vom Schicksal ihrer Schwester berichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Es war ein wenig schwierig, aber Ehrys stimmte schließlich zu, zu ihrer Schwester in der &lt;b&gt;Botenwacht&lt;/b&gt; zurückzukehren – davon ausgehend, dass die Boten sie nicht umbringen, wenn sie dort eintrifft. Vielleicht sollte ich sichergehen, dass sie heile zu &lt;b&gt;Brythe&lt;/b&gt; zurückgekehrt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Sie bat mich um Hilfe für den Vorgang, und ich bezweifele, dass sie es ohne die Fähigkeiten eines Wächters schaffen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich berichtete &lt;b&gt;Brythe&lt;/b&gt; vom Schicksal ihrer Schwester. Sie war todunglücklich, aber andererseits froh, dass sie nun wusste, was ihrer Schwester zugestoßen war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Erschreckt von der Verwandlung ihrer Schwester in ein Konstrukt verließ &lt;b&gt;Brythe&lt;/b&gt; die Botenwacht, um selbst &lt;b&gt;Ehrys&lt;/b&gt; im &lt;b&gt;Raureif-Tempel&lt;/b&gt; aufzusuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Erschreckt von der Verwandlung ihrer Schwester in ein Konstrukt war &lt;b&gt;Brythe&lt;/b&gt; einverstanden, sie nicht selbst im &lt;b&gt;Raureif-Tempel&lt;/b&gt; aufzusuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>&lt;b&gt;Brythe&lt;/b&gt; und &lt;b&gt;Ehrys&lt;/b&gt; wurden in der &lt;b&gt;Botenwacht&lt;/b&gt; wiedervereint. Brythe, zumindest, ist über die Wiedervereinigung hocherfreut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich berichtete &lt;b&gt;Brythe&lt;/b&gt;, dass &lt;b&gt;Ehrys&lt;/b&gt; gestorben ist. Das wird sie vielleicht todunglücklich machen, aber wenigstens muss sie nicht mehr nach ihrer Schwester suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
