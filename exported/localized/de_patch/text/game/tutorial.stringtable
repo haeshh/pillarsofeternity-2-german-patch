@@ -414,9 +414,9 @@ Wähle &lt;sprite="Inline" name="ico_filtercrafting" tint=1&gt; im Gruppenlager,
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Ein Konter ist eine Fähigkeit oder ein Effekt, der einen anderen Effekt entfernt oder ihm gegenüber eine Immunität verleiht. Es gibt zwei Arten von Kontern: Inspirationen und Schlüsselworte.
+      <DefaultText>Ein Konter ist eine Fähigkeit oder ein Effekt, der eine andere Kategorie von Effekten entfernt oder verhindert. Es gibt zwei Arten von Kontern: Inspirationen und Schlüsselworte.
 
-Inspirationen werden anhand von Attributen gruppiert (z. B. Gewandtheit, Wahrnehmung) und wirken automatisch den entsprechenden Attributen zugehörigen Wirkungen entgegen.</DefaultText>
+Inspirationen werden nach Attributen gruppiert (z. B. Gewandtheit, Wahrnehmung) und wirken automatisch den diesen Attributen zugehörigen negativen Wirkungen entgegen. Wirkungen können auf dieselbe Weise eingesetzt werden, um Inspirationen zu entfernen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -683,9 +683,9 @@ Das Reputationsrad einer Begleitperson zeigt deren Reputationen bei den anderen 
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Schlüsselworte sind Beschreibungen wie Wasser, Feuer oder Frost. Wasser kontert Feuer und Feuer kontert Frost. Die Beziehungen zwischen Schlüsselworten ist einseitig, Feuer kontert also &lt;i&gt;nicht&lt;/i&gt; Wasser.
+      <DefaultText>Schlüsselworte sind Beschreibungen wie Wasser, Feuer oder Frost. Die Beziehung zwischen Schlüsselworten ist zweiseitig, das heißt zum Beispiel, Wasser kontert Feuer und Feuer kontert Frost.
 
-Nehmen wir an, dass ein Charakter unter dem Einfluss von Flammenschild mit dem Flammen-Schlüsselwort ist. Ein Gegner trifft ihn mit Überwältigende Welle, verbunden mit dem Wasser-Schlüsselwort. Die volle Wirkung von Überwältigende Welle trifft den Charakter und der Flammenschild wird entfernt.</DefaultText>
+Beispiel: Ein Charakter hat den Flammenschild-Effekt mit dem Schlüsselwort Feuer. Ein Gegner trifft ihn mit Überwältigende Welle, verbunden mit dem Schlüsselwort Wasser. Die volle Wirkung von Überwältigende Welle wird negiert und der Flammenschild wird entfernt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
