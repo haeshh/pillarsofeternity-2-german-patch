@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_neketaka_artisans_district\05_si_circle_of_archmagi</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>95</EntryCount>
+  <EntryCount>112</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -547,9 +547,94 @@ Arkemyr verbeugt sich steif vor seiner Minoletta.</DefaultText>
       <DefaultText>„Deine Schmeicheleien waren auch schon mal besser. Um auf den Wächter zurückzukommen; ich vermute, dass Concelhaut seine verruchte Existenz an einem Essenzbecken erhalten wollte. Aber dem hast du netterweise einen Riegel vorgeschoben.“ 
 
 Minolette nickt. Sie schenkt dir jenes Lächeln, welches sie Arkemyr versagt hatte.</DefaultText>
-      <FemaleText>„Deine Schmeicheleien waren auch schon mal besser. Um auf die Wächterin zurückzukommen; ich vermute, dass Concelhaut seine verruchte Existenz an einem Essenzbecken erhalten wollte. Aber dem hast du netterweise einen Riegel vorgeschoben.“ 
+      <FemaleText>„Deine Schmeicheleien waren auch schon mal besser. Um auf die Wächterin zurückzukommen; ich vermute, dass Concelhaut seine verruchte Existenz an einem Essenzbecken erhalten wollte. Aber dem hast du netterweise einen Riegel vorgeschoben.“
 
 Minolette nickt. Sie schenkt dir jenes Lächeln, welches sie Arkemyr versagt hatte.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>„Eothas ist unterwegs nach Ukaizo.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Das vollkommene Schweigen nach deiner Aussage ist so beunruhigend wie die Stille nach einem Schuss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Als mehrere Blicke sich dir zuwenden und mehrere Münder sich auftun, um etwas zu sagen, lässt Arkemyr sie verstummen, indem er sich laut räuspert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>„Er wird das Rad anhalten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>„Es ist ein ehrgeiziger Plan, das muss ich zugeben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>„Interessant.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>„Verstehe. Schön, dass wir das geklärt haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Arkemyr räuspert sich und wartet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>„Ist da noch etwas, das du mir nicht erzählst?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>„Und was planst du in dieser Angelegenheit zu unternehmen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>„Zurück zu meinen anderen Fragen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Gedankenvoll zuckt er mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>„Nichts.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>„Ich werde daran denken, wenn wir Zeit haben.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>„Nun gut.“</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
