@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1051</EntryCount>
+  <EntryCount>1055</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Regeneration</DefaultText>
+      <DefaultText>Größere Regeneration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3595,18 +3595,8 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1179</ID>
-      <DefaultText>Ohne Kürass</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1180</ID>
       <DefaultText>Schwere Mobilität</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1181</ID>
-      <DefaultText>Aktive Verteidigung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3710,38 +3700,8 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1209</ID>
-      <DefaultText>Hyleas Resonanz</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1210</ID>
-      <DefaultText>Wind-Krallen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1211</ID>
-      <DefaultText>Vogelgesang</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1212</ID>
       <DefaultText>Hyleas großes Lied</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1213</ID>
-      <DefaultText>Falkensturm</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1214</ID>
-      <DefaultText>Die Herde rufen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1215</ID>
-      <DefaultText>Wirklich wehen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5146,47 +5106,47 @@
     </Entry>
     <Entry>
       <ID>1614</ID>
-      <DefaultText>Decaying Presence (Endings Godlike Only)</DefaultText>
+      <DefaultText>Präsenz des Verfalls (nur Gottähnliche des Endes)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1615</ID>
-      <DefaultText>Communal Carnage</DefaultText>
+      <DefaultText>Gemeinschaftliches Gemetzel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1616</ID>
-      <DefaultText>Sight of the Coalition</DefaultText>
+      <DefaultText>Anblick der Koalition</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1617</ID>
-      <DefaultText>Burning Bash</DefaultText>
+      <DefaultText>Brennendes Schmettern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1618</ID>
-      <DefaultText>Fire Shield</DefaultText>
+      <DefaultText>Feuerschild</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1619</ID>
-      <DefaultText>Burning Strike</DefaultText>
+      <DefaultText>Brennender Schlag</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1620</ID>
-      <DefaultText>Greater Fire Shield</DefaultText>
+      <DefaultText>Größerer Feuerschild</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1621</ID>
-      <DefaultText>Purifying Flame</DefaultText>
+      <DefaultText>Reinigende Flamme</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1622</ID>
-      <DefaultText>Righteous Bash</DefaultText>
+      <DefaultText>Rechtschaffener Schlag</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5257,6 +5217,66 @@
     <Entry>
       <ID>1662</ID>
       <DefaultText>Mythisch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1666</ID>
+      <DefaultText>Gore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1667</ID>
+      <DefaultText>Temper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1668</ID>
+      <DefaultText>Tempered Fury</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1669</ID>
+      <DefaultText>Unstable Temper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1670</ID>
+      <DefaultText>Riven Gore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1671</ID>
+      <DefaultText>Wanton Gore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1673</ID>
+      <DefaultText>Annihilation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1674</ID>
+      <DefaultText>Wolf's Ferocity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1675</ID>
+      <DefaultText>Wolf's Tenacity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1676</ID>
+      <DefaultText>Bloody Slash</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1677</ID>
+      <DefaultText>Bloody Mess</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1678</ID>
+      <DefaultText>Bloody Momentum</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
