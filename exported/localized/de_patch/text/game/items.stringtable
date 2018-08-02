@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2825</EntryCount>
+  <EntryCount>2831</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -7977,7 +7977,7 @@ Onekaza II</DefaultText>
     </Entry>
     <Entry>
       <ID>3402</ID>
-      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die mit der Zeit Stichschaden verursachen und die Konzentration von jedem im Wirkungsbereich verringern.</DefaultText>
+      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die Schaden über Zeit verursachen und die Konzentration von allen im Wirkungsbereich verringern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8042,7 +8042,7 @@ Onekaza II</DefaultText>
     </Entry>
     <Entry>
       <ID>3415</ID>
-      <DefaultText>Feuert mehrere Geschosse aus reiner Energie auf das Ziel und fügt jedem Feind in der Nähe des Einschlags Wuchtschaden zu.</DefaultText>
+      <DefaultText>Feuert mehrere Geschosse aus reiner Energie auf das Ziel und fügt Feinden in der Nähe des Einschlags mit einer Schockwelle Wuchtschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16932,9 +16932,9 @@ Wenn Sie Fragen oder Beschwerden zu meinem Dienst haben, wenden Sie sich bitte d
     </Entry>
     <Entry>
       <ID>5494</ID>
-      <DefaultText>The origin of the Watcher's Blade is a mystery. No smith has ever claimed responsibility for its forging. Its metal is as smoky and indistinct as the In-Between, with no marking to suggest it has ever felt the kiss of a hammer – leaving many to believe that it assumed this form naturally.
+      <DefaultText>Die Herkunft der Klinge des Wächters ist ein Mysterium. Kein Schmied hat sich je damit gerühmt, diese Waffe geschmiedet zu haben. Ihr Metall ist so rauchgrau und undefinierbar wie das Zwischenreich und nicht die geringste Spur deutet darauf hin, dass sie je von einem Hammer berührt wurde, weshalb viele glauben, das sie diese Form auf natürlich Weise angenommen hat.
 
-Artfully enfused with soul essence, the blade glows in a kinship response to those on familiar terms with death. Its uncanny balance is linked to its ethereal nature, as the blade never seems wholly present in tangible reality. At times it feels like less of a sword than an ideal expression of one, which is why many have mistaken its true nature. Compounding its mystery, ancient war epics have described mauls or daggers with the elusive properties of the Watcher's Blade. This has led some mystics to conclude that the sword is merely a sword in its current and unknowably long „lifetime,“ and that it could be something else entirely on the next turning of the Wheel.</DefaultText>
+Die Klinge wurde kunstvoll mit Seelenessenz versetzt und leuchtet in Verbundenheit mit jenen, die mit dem Tod auf Du und Du stehen. Ihre unheimliche Balance hängt mit ihrem ätherischen Wesen zusammen, da sie nie vollständig in der Realität greifbar zu sein scheint. Gelegentlich fühlt sie sich weniger an wie ein Schwert als vielmehr wie die Idealvorstellung eines solchen, weshalb viele ihr wahres Wesen missverstanden haben. Verstärkt wird das Geheimnis noch durch die Tatsache, dass uralte Kriegsepen von Kriegshämmern und Dolchen berichten, die angeblich dieselben einzigartigen Eigenschaften hatten wie die Klinge des Wächters. Dies ließ manche Mystiker vermuten, dass das Schwert nur in seinem derzeitigen „Leben“, wie lange es auch dauern mag, ein Schwert ist, und dass es bei der nächsten Drehung des Rads wieder etwas völlig anderes sein könnte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16949,9 +16949,43 @@ Artfully enfused with soul essence, the blade glows in a kinship response to tho
     </Entry>
     <Entry>
       <ID>5509</ID>
-      <DefaultText>Critics of soul manipulation disparage animancy as a reckless perversion of the natural order. While these arguments are often steeped in political animus, every once in a while they hit the mark. 
+      <DefaultText>Critics of soul manipulation disparage animancy as a reckless perversion of the natural order. While these arguments are often steeped in political animus, every once in a while they hit the mark.
 Such is the case with the Essence Interrupter, the product of an ambitious but unorthodox outcast of the Brackenbury Sanitarium. The inventor hypothesized a surefire method to Awaken kith souls by applying an instant jolt of spiritual stimulus to the cranium. Once he modified a hunting bow to unleash projectiles of charged adra and copper, he set up a market stall in Spirento where he promised compensation to anyone who participated in his study. 
 After calmly shooting arrows between the eyes of two test subjects, the animancer was taken into custody. Authorities never recovered his bow, which to this day reflects something of its inventor's unethical eccentricity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5538</ID>
+      <DefaultText>Zandethus' Dragon-Scaled Grimoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5539</ID>
+      <DefaultText>Jernaugh's Careful Calamities</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5540</ID>
+      <DefaultText>Amra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5541</ID>
+      <DefaultText>[TEMP] Amra item description.
+
+„This beast of a heavy axe was found amongst lost pirates found in the Deadfire Archipelago, that claimed to have come from another dimension when they fell through a maelstrom during a sea warfare. It was clear those men didn't have the strength required to manage such a brute weapon, so when people asked them and pointed to the axe, all they said war „Amra, Amra“.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5546</ID>
+      <DefaultText>Karabörü</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5547</ID>
+      <DefaultText>[TEMP] Karabörü item description.
+
+„Made for some long forgotten warlord, Karabörü was designed with their powerful frame in mind. The slight reverse curve of its yatagan shape makes it a unique and noticeable weapon. It has no crossguard underlining its aggressive nature. Then the firest wielder eventually fell against some nightmarish beast, the sword was retired as an ornament, cowering visitors underneath its heft. As their fleeting dynasty fell to ruin, the sword was lost, making its way around Eora in the hands of many vanguard combatants, used against cavalry and even for execution. It has a savage history, the sole reminder of all its master's fell deeds.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
