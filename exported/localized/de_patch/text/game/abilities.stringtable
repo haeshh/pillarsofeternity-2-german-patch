@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3321</EntryCount>
+  <EntryCount>3325</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -696,7 +696,7 @@
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>Bestraft ein Ziel für seine Sünden, fügt ihm Stichschaden zu und seine Attribute Abwehr, Tapferkeit, Reflexe und Wille werden gesenkt.</DefaultText>
+      <DefaultText>Bestraft ein Ziel für seine Sünden, wodurch Stichschaden angerichtet und seine Abwehr, seine Tapferkeit, seine Reflexe und sein Wille gesenkt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -721,7 +721,7 @@
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>Erzeugt einen bleibenden Heilungskreis, der die Gesundheit von Verbündeten regeneriert.</DefaultText>
+      <DefaultText>Erzeugt einen lang andauernden Heilungskreis, in dem Verbündete Gesundheit regenerieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -736,7 +736,7 @@
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>Erzeugt eine langsame, energiegeladene Projektion des Glaubens des Priesters, durch die alle Verbündeten Gesundheit zurückgewinnen und Feinde Frostschaden erleiden.</DefaultText>
+      <DefaultText>Erzeugt eine langsame, energetische Projektion des Glaubens des Priesters, durch die alle Verbündeten Gesundheit regenerieren und alle Feinde Frostschaden erleiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -756,17 +756,17 @@
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Quälender Zweifel am unerschütterlichen Glauben überfällt Feinde im Wirkungsbereich und verringert ihre Nahkampfgenauigkeit und wandelt deren kritischen Treffer zu Treffern um.</DefaultText>
+      <DefaultText>Quälender Zweifel am unerschütterlichen Glauben überfällt Feinde im Wirkungsbereich, verringert ihre Nahkampfgenauigkeit und verwandelt ihre kritischen Treffer zu Treffern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>Verstärkt die Verbündeten im Kampf und gewährt diesen die Inspiration Aufmerksam.</DefaultText>
+      <DefaultText>Verstärkt Verbündete im Kampf und gewährt ihnen die Inspiration Aufmerksam.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>Beschwört eine Säule göttlichen Urteils, die Feinden im Wirkungsbereich Wuchtschaden zufügt und sie niederstreckt.</DefaultText>
+      <DefaultText>Beschwört eine Säule göttlichen Urteils, die dem Ziel Wuchtschaden zufügt und es sowie Feinde im Wirkungsbereich niederstreckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,7 +776,7 @@
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>Generiert ein magisches Siegel, das in einem Schwall elektrischer Energie explodiert, wenn ein Feind es berührt, und ihm Schockschaden zufügt und ihn unterbricht.</DefaultText>
+      <DefaultText>Generiert ein magisches Siegel, das in einem Schwall elektrischer Energie explodiert, wenn ein Feind es berührt, und ihm Schockschaden zufügt sowie ihn unterbricht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -791,7 +791,7 @@
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>Verleiht dem Zauberwirker eine unnatürliche Geschwindigkeit, gewährt ihnen die Inspiration Flink sowie als Bonus Absetzangriff-Verteidigung.</DefaultText>
+      <DefaultText>Verleiht dem Ziel eine unnatürliche Geschwindigkeit, gewährt ihnen die Inspiration Flink sowie als Bonus Absetzangriff-Verteidigung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -811,12 +811,12 @@
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Beschwört mehrere Zaubergeschosse, die im Ziel einschlagen und Wucht- oder Zersetzungsschaden verursachen.</DefaultText>
+      <DefaultText>Beschwört mehrere unfehlbare Zaubergeschosse, die im Ziel einschlagen und Wucht- oder Zersetzungsschaden verursachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>Umgibt den Zauberwirker mit einem Schild aus Geistesenergie, der den Rüstungswert erhöht und einen Konzentrationsbonus bewirkt.</DefaultText>
+      <DefaultText>Umgibt den Zauberwirker mit einem Schild aus Geistesenergie, der den Rüstungswert und die Konzentration erhöht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -856,7 +856,7 @@
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>Deckt für alle sichtbar die Schwachstellen des Feindes im Kampf auf, unterbricht diese und verringert sowohl deren Rüstungswert als auch deren Abwehr.</DefaultText>
+      <DefaultText>Deckt für alle sichtbar die Schwachstellen des Feindes im Kampf auf, unterbricht diesen und verringert dessen Rüstungswert und Abwehr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -876,7 +876,7 @@
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>Verändert die Wahrnehmung der Zeit für Feinde im Wirkungsbereich, wodurch deren Geschwindigkeit und Bewegung verringert werden.</DefaultText>
+      <DefaultText>Verändert die Wahrnehmung der Zeit für Feinde im Wirkungsbereich, wodurch deren Aktionsgeschwindigkeit und Bewegung verringert werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -901,7 +901,7 @@
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>Entscheidet sich für die Essenz des Ziels und erzeugt eine Hiebklinge, die es angreift, bevor sie auf weitere Ziele überspringt.</DefaultText>
+      <DefaultText>Visiert die Essenz des Ziels an und erzeugt eine Hiebklinge, die es angreift, bevor sie auf weitere Ziele überspringt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -921,7 +921,7 @@
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>Stellt eine mentale Verbindung zwischen dem Ziel und Feinden in der Nähe her, wodurch sie einen Teil allen Schadens erleben, den das Ziel erleidet.</DefaultText>
+      <DefaultText>Stellt eine mentale Verbindung zwischen dem Ziel und Feinden in der Nähe her, wodurch sie einen Teil allen Schadens erleiden, der dem Ziel zugefügt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -931,17 +931,17 @@
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>Der Kämpfer kann problemlos auch sperrige Rüstungen tragen, wodurch sein Erholungsmalus deutlich verringert wird.</DefaultText>
+      <DefaultText>Der Kämpfer kann problemlos auch sperrige Rüstungen tragen, wodurch sein Erholungsmalus durch Rüstung deutlich verringert wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Schwingt die Nahkampfwaffe des Kämpfers in einem großen Bogen, führt einen Primärangriff auf jeden Feind aus, wodurch diese zurückgestossen und Niedergestreckt werden.</DefaultText>
+      <DefaultText>Schwingt die Nahkampfwaffe des Kämpfers in einem großen Bogen, greift alle Feinde im Bereich mit einem Primärangriff an, wodurch diese zurückgestossen und Niedergestreckt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Festigt den Arm des Kämpfers. Dadurch werden Leichte Treffer bei jedem Angriff mit einer fähigen Waffe in Treffer verwandelt.</DefaultText>
+      <DefaultText>Festigt den Arm des Kämpfers. Dadurch werden Leichte Treffer bei jedem Angriff mit einer geübten Waffe in Treffer verwandelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -951,12 +951,12 @@
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>Der Kämpfer bemüht sich zusätzlich, die wildesten Schläge abzuwehren, wodurch ein Teil aller eingehenden kritischen Treffer in Treffern umgewandelt wird.</DefaultText>
+      <DefaultText>Der Kämpfer bemüht sich zusätzlich, die wildesten Schläge abzuwehren, wodurch ein Teil aller eingehenden kritischen Treffer in Treffer umgewandelt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Der Kämpfer übernimmt eine konservativere Kampfstrategie, die sich darauf konzentriert, Feinde abzuwehren, die sich zu nah heranwagen. Der Kämpfer erhöht die Anzahl seiner Kampfbindungsziele, und steckt weniger Schaden für jedes Ziel ein, das er angreift.</DefaultText>
+      <DefaultText>Der Kämpfer übernimmt eine konservativere Kampfstrategie, die sich darauf konzentriert, Feinde abzuwehren, die sich zu nah heranwagen. Der Kämpfer erhöht die Anzahl seiner Angriffsbindungsziele und erleidet weniger Schaden für jedes Ziel in Angriffsbindung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -971,12 +971,12 @@
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>Erzeugt um den Priester herum ein Feld heiliger Energie, das jedem Gefäß in der Nähe Brandschaden zufügt und Erschüttert, während es eine bescheidene Menge der Gesundheit von Verbündeten regeneriert. Die Stärke des Heiligen Glanzes eines Priesters wird modifiziert, abhängig davon, wie gut sein Ruf mit dem bevorzugten Verhalten seines Glaubens im Einklang steht.</DefaultText>
+      <DefaultText>Erzeugt um den Priester herum ein Feld heiliger Energie, das jedem Gefäß in der Nähe Brandschaden zufügt und eine geringe Menge Gesundheit bei Verbündeten regeneriert. Die Stärke des Heiligen Glanzes eines Priesters wird dadurch modifiziert, wie gut sein Ruf mit dem bevorzugten Verhalten seines Glaubens im Einklang steht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Paladine können einem besinnungslosen Verbündeten befehlen wieder aufzustehen und verleihen ihm dabei die Inspiration Stark. Allerdings verliert der Verbündete nach kurzer Zeit die Hälfte der wiedergewonnenen Gesundheit.</DefaultText>
+      <DefaultText>Der Paladin befiehlt einem bewusstlosen Verbündeten, wieder zu erwachen, und gewährt ihm einen großen, jedoch vorübergehenden Bonus auf Gesundheit sowie die Inspiration Stark. Nach kurzer Zeit aber verliert der Verbündete die Hälfte der hinzugewonnenen Gesundheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -996,7 +996,7 @@
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText>Befiehlt einem Verbündeten, all seine Stärke aufzubringen, um bestehende feindliche Effekte vorübergehend zu ignorieren und gewährt ihnen die Inspiration Standhaft. (Gegnerische Effekte fangen wieder an zu wirken, sobald dieser Effekt endet.)</DefaultText>
+      <DefaultText>Befiehlt einem Verbündeten, all seine Stärke aufzubringen, um bestehende feindliche Effekte vorübergehend zu ignorieren. Gewährt außerdem die Inspiration Standhaft. (Feindliche Effekte wirken wieder, sobald dieser Effekt endet.)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1031,7 +1031,7 @@
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>Beschwört das innere Feuer des Paladins herauf. Seine ausgerüsteten Waffen gehen in Flammen auf und fügen seinen nächsten Angriffen Brandschaden hinzu.</DefaultText>
+      <DefaultText>Beschwört das innere Feuer des Paladins herauf. Seine ausgerüsteten Waffen gehen in Flammen auf und fügen seinem nächsten Angriff Brandschaden hinzu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1041,7 +1041,7 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Lediglich durch seinen Glauben angetrieben ist der Paladin in der Lage, mit der Berührung seiner Hände zu heilen, wobei er eine erheblich Menge an Gesundheit des Paladins oder eines Verbündeten in Reichweite regeneriert.</DefaultText>
+      <DefaultText>Lediglich durch seinen Glauben angetrieben ist der Paladin in der Lage, mit der Berührung seiner Hände zu heilen, wobei er eine erheblich Menge seiner oder der Gesundheit eines Verbündeten in Reichweite regeneriert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1066,7 +1066,7 @@
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>Erfüllt den Paladin und seine Verbündeten mit unerschütterlichem Selbstvertrauen, wodurch ihr Rüstungswert gesteigert wird.</DefaultText>
+      <DefaultText>Erfüllt den Paladin und seine Verbündeten mit unerschütterlichem Selbstvertrauen, wodurch ihr Rüstungswert erhöht wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1211,7 +1211,7 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>Der Kämpfer lässt sich nicht besiegen. Wenn der Kämpfer das Bewusstsein verloren hat, steht er mit teilweise geheilter Gesundheit wieder auf. Außerdem erhält er vorübergehende Boni auf alle Verteidigungen und Rüstungswert.</DefaultText>
+      <DefaultText>Der Kämpfer lässt sich nicht besiegen. Wenn der Kämpfer das Bewusstsein verloren hat, steht er mit teilweise geheilter Gesundheit wieder auf. Außerdem erhält er vorübergehende Boni auf alle Verteidigungen und seinen Rüstungswert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1296,7 +1296,7 @@
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>Ein schneller Stoß magischer Kraft, der Schaden verursacht, der durch den Schleier dringen kann. Dieser Angriff schlägt nie fehl und kann den Gegner zuverlässig unterbrechen.</DefaultText>
+      <DefaultText>Ein schneller Stoß magischer Kraft, der Schleier durchdringen kann. Dieser Angriff schlägt nie fehl und unterbricht garantiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1306,7 +1306,7 @@
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>Schafft ein Duplikat des Zauberwirkers, um Feinde abzulenken. Der Zauberwirker erhält einen hohen Bonus auf Abwehr, bis er einen Treffer erleidet.</DefaultText>
+      <DefaultText>Erschafft ein Duplikat des Zauberwirkers, um Feinde abzulenken. Der Zauberwirker erhält einen hohen Bonus auf Abwehr, bis er einen Treffer erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1336,7 +1336,7 @@
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>Führt dazu, dass sich die Wunden eines Feindes im Wirkungsbereich entzünden und bei jeder Verwundung zusätzlichen Brandschaden zufügen.</DefaultText>
+      <DefaultText>Führt dazu, dass sich die Wunden eines Feindes im Wirkungsbereich entzünden und bei jedem erlittenen Treffer zusätzlichen Brandschaden zufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1356,7 +1356,7 @@
     </Entry>
     <Entry>
       <ID>415</ID>
-      <DefaultText>Das Ziel wird Gelähmt und mit kochenden Blasen infiziert, die mit einer fauligen Flüssigkeit gefüllt sind. Die Blasen platzen, wodurch alle Umstehenden erkranken.</DefaultText>
+      <DefaultText>Das Ziel wird Gelähmt und mit kochenden Pusteln infiziert, die mit einer fauligen Flüssigkeit gefüllt sind. Die Blasen platzen, wodurch alle Umstehenden erkranken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1626,7 +1626,7 @@
     </Entry>
     <Entry>
       <ID>485</ID>
-      <DefaultText>Gewährt einem Verbündeten eine göttliche Gunst, wodurch er die Inspirationen Resolut und Hartnäckig erhält, sowie eine Angriffsbindung als Bonus, solange der Effekt anhält.</DefaultText>
+      <DefaultText>Gewährt einem Verbündeten eine göttliche Gunst, wodurch ihm die Inspirationen Resolut und Hartnäckig sowie ein Bonus auf Angriffsbindung gewährt werden, solang der Effekt anhält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1676,7 +1676,7 @@
     </Entry>
     <Entry>
       <ID>498</ID>
-      <DefaultText>Der Priester schleudert ein heiliges Feuer auf den Feind, das seinen Schutz aufhebt und sein Schicksal beschleunigt. Fügt kontinuierlich Brandschaden zu und beschleunigt den Zähler für alle zuträglichen Effekte auf dem Ziel sowie aller kontinuierlichen Schadenseffekte, bevor es auf weitere Ziele überspringt.</DefaultText>
+      <DefaultText>Der Priester schleudert eine Kugel aus heiligem Feuer auf den Feind, die seinen Schutz aufhebt und seinen Untergang beschleunigt. Fügt kontinuierlich Brandschaden zu und beschleunigt die Zähler aller zuträglichen Effekte sowie aller kontinuierlichen Schadenseffekte auf dem Ziel und springt dann weitere Ziele in der Nähe über.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1686,7 +1686,7 @@
     </Entry>
     <Entry>
       <ID>500</ID>
-      <DefaultText>Bekränzt Verbündete im Ruhm des Gottes des Priesters, wodurch allen Verbündeten im Wirkungsbereich die Inspirationen Einsichtig, Klug und Standhaft gewährt wird.</DefaultText>
+      <DefaultText>Bekränzt Verbündete mit dem Ruhm des Gottes des Priesters, wodurch alle Verbündeten im Wirkungsbereich die Inspirationen Einsichtig, Klug und Standhaft erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1736,7 +1736,7 @@
     </Entry>
     <Entry>
       <ID>515</ID>
-      <DefaultText>Beschwört ein riesiges Paar rasiermesserscharfer Krallen, die allen im Wirkungsbereich Hiebschaden zufügen.</DefaultText>
+      <DefaultText>Beschwört eine rasiermesserscharfe Kralle unter dem Ziel, die allen im Wirkungsbereich Hiebschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1746,7 +1746,7 @@
     </Entry>
     <Entry>
       <ID>517</ID>
-      <DefaultText>Schießt mit scharfen Dornen bestückte Ranken aus dem Boden, die allen im Wirkungsbereich Stichschaden zufügen. Das Pflanzengift kann jeden im Wirkungsbereich erkranken lassen.</DefaultText>
+      <DefaultText>Schießt mit scharfen Dornen bestückte Ranken aus dem Boden, die allen Zielen im Wirkungsbereich Stichschaden zufügen. Das Pflanzengift kann jeden im Wirkungsbereich erkranken lassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1796,7 +1796,7 @@
     </Entry>
     <Entry>
       <ID>528</ID>
-      <DefaultText>Die Haut von Feinden im Wirkungsbereich wird von Unmengen grabender Maden befallen, die direkten Schaden über Zeit zufügen. Je mehr Wunden das Ziel erleidet, desto größer der Schaden. Ein Ziel mit maximaler Gesundheit erleidet keinen Schaden durch den Zauber.</DefaultText>
+      <DefaultText>Die Haut von Feinden im Wirkungsbereich wird von Unmengen grabender Maden befallen, die direkten Schaden über Zeit zufügen. Je verwundeter das Ziel ist, desto größer der Schaden. Ein Ziel mit maximaler Gesundheit erleidet keinen Schaden durch den Zauber.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1886,12 +1886,12 @@
     </Entry>
     <Entry>
       <ID>547</ID>
-      <DefaultText>Erzeugt eine rollende Wolke der Reinigung, die die Gesundheit von Verbündeten wiederherstellt und Feinde zurückdrängt.</DefaultText>
+      <DefaultText>Erzeugt eine wabernde Wolke der Reinigung, die die Gesundheit von Verbündeten wiederherstellt und Feinde zurückdrängt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>548</ID>
-      <DefaultText>Erdkralle begrüßen</DefaultText>
+      <DefaultText>Umarmung der Erdkralle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1901,7 +1901,7 @@
     </Entry>
     <Entry>
       <ID>550</ID>
-      <DefaultText>Ein fürchterlicher Feuerball springt von Feind zu Feind und verursacht Brandschaden.</DefaultText>
+      <DefaultText>Ein fürchterlicher Feuerball springt von Feind zu Feind über und verursacht Brandschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1911,7 +1911,7 @@
     </Entry>
     <Entry>
       <ID>552</ID>
-      <DefaultText>Beschwört die fürchterliche Stärke des Sturms herauf, was eine elektrische Aura erzeugt, die allen Umstehenden Schockschaden zufügt und jeden Verängstigt.</DefaultText>
+      <DefaultText>Beschwört die fürchterliche Stärke des Sturms herauf, was eine elektrische Aura erzeugt, die allen umstehenden Zielen Schockschaden zufügt und sie Verängstigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1921,7 +1921,7 @@
     </Entry>
     <Entry>
       <ID>554</ID>
-      <DefaultText>Beschwört eine riesige Plage giftiger Insekten herauf, die direkten Schaden über Zeit zufügen und jeden im Wirkungsbereich erkranken lassen. Die Ziele haben währenddessen keine Konzentration.</DefaultText>
+      <DefaultText>Beschwört eine riesige Plage giftiger Insekten herauf, die Reinen Zeitschaden zufügen, und jeden im Wirkungsbereich erkranken lassen. Betroffene Ziele können nicht über Konzentration verfügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2006,7 +2006,7 @@
     </Entry>
     <Entry>
       <ID>573</ID>
-      <DefaultText>Überwältigt die geistige Fähigkeit des Ziels, mit seinem eigenen Körper zu kommunizieren, wodurch es Gelähmt wird und seine Seele eine Schockwelle ausstößt, die umstehende Feinde Bewegungsunfähig machen kann.</DefaultText>
+      <DefaultText>Überwältigt die geistigen Fähigkeiten des Ziels, mit seinem eigenen Körper zu kommunizieren, wodurch es Gelähmt wird und seine Seele eine Schockwelle ausstößt, die umstehende Feinde Bewegungsunfähig machen kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2056,7 +2056,7 @@
     </Entry>
     <Entry>
       <ID>583</ID>
-      <DefaultText>Das Medium erforscht den Verstand und die Seele des feindlichen Ziels, findet die Stärken seiner Verteidigungen und raubt sie, um sie selbst zu nutzen. Entzieht dem Ziel einen Teil seinem Rüstungswert und gewährt dem Medium den gleichen Wert als Bonus.</DefaultText>
+      <DefaultText>Das Medium erforscht Verstand und Seele des feindlichen Ziels, findet die Stärken seiner Verteidigungen und raubt sie, um sie selbst zu nutzen. Entzieht dem Ziel einen Teil von seinem Rüstungswert und gewährt dem Medium diesen als Bonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2066,7 +2066,7 @@
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Pfählt das Ziel auf einer Lanze aus reiner Kraft auf, wodurch alle im Angriffsbereich erheblichen Stichschaden erleiden und unterbrochen werden.</DefaultText>
+      <DefaultText>Durchbohrt das Ziel mit einer Lanze aus reiner Kraft, wobei alle im Angriffsbereich erheblichen Stichschaden erleiden und gegnerische Aktionen unterbrochen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2146,7 +2146,7 @@
     </Entry>
     <Entry>
       <ID>601</ID>
-      <DefaultText>Zerstört die Erinnerung eines Feindes mit berechneter Genauigkeit, wodurch er Verwirrt und Benommen wird, bevor es schnell auf andere Feinde überspringt.</DefaultText>
+      <DefaultText>Zerstört zielgenau die Erinnerung eines Feindes mit berechneter Genauigkeit, wodurch er Verwirrt und Benommen wird, bevor es schnell auf andere Feinde überspringt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2156,7 +2156,7 @@
     </Entry>
     <Entry>
       <ID>603</ID>
-      <DefaultText>&lt;xg&gt;Verbrennt&lt;/xg&gt; alle ätherische Kräfte, die Verstand, Körper und Seele des feindlichen Ziels zusammenhalten, wodurch es schnell direkten Schaden erleidet. Zielen, deren Gesundheit auf 0 fällt, wird jegliche Existenz entzogen.</DefaultText>
+      <DefaultText>&lt;xg&gt;Verbrennt&lt;/xg&gt; alle ätherische Kräfte, die Verstand, Körper und Seele des feindlichen Ziels zusammenhalten, wodurch es schnell direkten Schaden erleidet. Zielen, deren Gesundheit auf 0 fällt, lösen sich spurlos auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2166,7 +2166,7 @@
     </Entry>
     <Entry>
       <ID>605</ID>
-      <DefaultText>Verbindet den Verstand des Mediums mit einem Verbündeten, wodurch das Medium und sein Verbündeter die Inspiration Aufmerksam und eine erhöhtes Angriffsbindunglimit erhält.</DefaultText>
+      <DefaultText>Verbindet den Verstand des Mediums mit dem eines Verbündeten, wodurch das Medium und sein Verbündeter die Inspiration Aufmerksam und eine erhöhtes Angriffsbindungslimit erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2486,7 +2486,7 @@
     </Entry>
     <Entry>
       <ID>792</ID>
-      <DefaultText>Führt dazu, dass ein in der Nähe bezwungener Feind explodiert, wobei drei weiße Larven ausgestoßen werden, die umstehenden Feinden Wuchtschaden zufügen.</DefaultText>
+      <DefaultText>Bewirkt, dass ein besiegter Feind in der Nähe explodiert, wobei kleine weiße Larven ausgestoßen werden, die bei Feinden in der Nähe Wuchtschaden verursachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2516,7 +2516,7 @@
     </Entry>
     <Entry>
       <ID>800</ID>
-      <DefaultText>Gewährt Widerstand gegen Entschlossenheits- und Verfassungswirkungen für alle Verbündete im Wirkungsbereich.</DefaultText>
+      <DefaultText>Gewährt Resistenz gegen Entschlossenheits- und Verfassungswirkungen für alle Verbündete im Wirkungsbereich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2531,7 +2531,7 @@
     </Entry>
     <Entry>
       <ID>803</ID>
-      <DefaultText>Führt dazu, dass Feinde im Wirkungsbereich Verängstigt sind.</DefaultText>
+      <DefaultText>Verängstigt Feinde im Wirkungsbereich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2551,7 +2551,7 @@
     </Entry>
     <Entry>
       <ID>807</ID>
-      <DefaultText>Verbündete im Wirkungsbereich erhalten Widerstand gegen Gewandtheits- und Machtwirkungen.</DefaultText>
+      <DefaultText>Verbündete im Wirkungsbereich erhalten eine Resistenz gegen Wirkungen auf Gewandtheit und Macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2561,7 +2561,7 @@
     </Entry>
     <Entry>
       <ID>809</ID>
-      <DefaultText>Erhöht die Abwehr und das Angriffsbindungslimit aller Verbündeten im Wirkungsbereich.</DefaultText>
+      <DefaultText>Steigert Abwehr und Angriffsbindungslimit von Verbündeten im Wirkungsbereich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2621,7 +2621,7 @@
     </Entry>
     <Entry>
       <ID>821</ID>
-      <DefaultText>Erzeugt einen heftigen Eis- und Schneesturm, der jedem im Wirkungsbereich langsam Frostschaden zufügt und seine Angriffsrate verringert.</DefaultText>
+      <DefaultText>Erzeugt einen heftigen Eis- und Schneesturm, der allen im Wirkungsbereich Frostschaden zufügt und ihre Aktionsgeschwindigkeit verringert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2631,7 +2631,7 @@
     </Entry>
     <Entry>
       <ID>823</ID>
-      <DefaultText>Häuft einige verstreute Seelenfragmente an und fügt sie zu einer geringen Flammen-, Wind-, Regen- oder Erdfäule zusammen.</DefaultText>
+      <DefaultText>Sammelt eine geringe Menge verstreuter Seelenfragmente und fügt sie zu einer geringen Flammen-, Sturm-, Sand-, Eis- oder Erdfäule zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2641,7 +2641,7 @@
     </Entry>
     <Entry>
       <ID>825</ID>
-      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die Schaden über längere Zeit hinweg verursachen und verhindert den Besitz von Konzentration bei allen betroffenen Zielen.</DefaultText>
+      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die Zeitschaden verursachen und Konzentration bei allen betroffenen Zielen verhindern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2661,7 +2661,7 @@
     </Entry>
     <Entry>
       <ID>829</ID>
-      <DefaultText>Bezieht aus der Natur heilende Kraft und bewirkt die Inspiration Robust bei Gruppenmitgliedern für einen schnellen Regenerationseffekt.</DefaultText>
+      <DefaultText>Nutzt die Heilkraft der Natur und verleiht Gruppenmitgliedern die Inspiration Robust für rasche Regeneration.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2671,22 +2671,22 @@
     </Entry>
     <Entry>
       <ID>831</ID>
-      <DefaultText>Beschwört ein riesiges Hirschgeweih herauf, das das Ziel angreift, Stichschaden zufügt und einen Malus auf Abwehr und Reflexe verursacht.</DefaultText>
+      <DefaultText>Beschwört ein riesiges Hirschgeweih herauf, das das erste Ziel in seinem Weg angreift, Stichschaden zufügt und einen Malus auf Abwehr und Reflexe bewirkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>832</ID>
-      <DefaultText>Lässt dicke, dornige Reben aus dem Boden sprießen, die allen im Wirkungsbereich Stichschaden zufügen und alle Humpeln lassen.</DefaultText>
+      <DefaultText>Lässt dicke, dornige Reben aus dem Boden sprießen, die allen, die im Wirkungsbereich verbleiben, dauerhaften Stichschaden zufügen und sie Humpeln lassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>833</ID>
-      <DefaultText>Häuft eine mittlere Menge verstreuter Seelenfragmente an und fügt sie zu einer Flammen-, Wind-, Regen- oder Erdfäule zusammen.</DefaultText>
+      <DefaultText>Sammelt eine mittlere Menge verstreuter Seelenfragmente und fügt sie zu einer Flammen-, Sturm-, Sand-, Eis- oder Erdfäule zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>834</ID>
-      <DefaultText>Kanalisiert Mondenergie in eine vorgegebene Kraftquelle, wodurch die Gesundheit von Verbündeten im Wirkungsbereich regeneriert wird und sie einen geringen Bonus auf alle Verteidigungen erhalten.</DefaultText>
+      <DefaultText>Kanalisiert Mondenergie in eine örtlich begrenzte Kraftquelle, wodurch die Gesundheit von Verbündeten im Wirkungsbereich wiederhergestellt wird und sie einen geringen Bonus auf alle Verteidigungen erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2701,12 +2701,12 @@
     </Entry>
     <Entry>
       <ID>837</ID>
-      <DefaultText>Häuft eine riesige Menge verstreuter Seelenfragmente an und fügt sie zu einer großen Flammen-, Wind-, Regen- oder Erdfäule zusammen.</DefaultText>
+      <DefaultText>Sammelt eine riesige Menge verstreuter Seelenfragmente und fügt sie zu einer Größeren Flammen-, Sturm-, Sand-, Eis- oder Erdfäule zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>838</ID>
-      <DefaultText>Erzeugt faulende, von Krankheit gebeutelte Schädel in der Hand des Zauberwirkers, die als Fernkampfwaffe dienen, Wuchtschaden zufügen und einen krankheitsbasierten Zersetzungswirkungsbereich erzeugen, der Zeitschaden verursacht.</DefaultText>
+      <DefaultText>Erzeugt faulende, von Krankheit gebeutelte Schädel in der Hand des Zauberwirkers, die als Fernkampfwaffe dienen, Wuchtschaden zufügen und durch ihre Krankheit einen Wirkungsbereich mit Zersetzungszeitschaden erzeugen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2716,12 +2716,12 @@
     </Entry>
     <Entry>
       <ID>843</ID>
-      <DefaultText>Erzeugt einen glühenden Kampfstab in den Händen des Zauberers, durchdrungen von negativer Energie. Bei jedem erfolgreichen Schlag mit dem Stab wird Gesundheit für den Zauberer abgesaugt.</DefaultText>
+      <DefaultText>Erzeugt in den Händen des Zauberers einen glühenden Kampfstab aus negativer Energie, der dem Zauberer mit jedem erfolgreichen Schlag Gesundheit verleiht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>844</ID>
-      <DefaultText>Tauscht den Standort des Zauberwirkers mit dem eines Verbündeten, wobei eine Schockwelle zwischen ihnen erzeugt wird, die alle im Feuerbereich Betäubt.</DefaultText>
+      <DefaultText>Tauscht den Standort des Zauberwirkers mit dem eines Verbündeten, wobei eine Schockwelle zwischen ihnen erzeugt wird, die Feinde Betäubt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2731,12 +2731,12 @@
     </Entry>
     <Entry>
       <ID>847</ID>
-      <DefaultText>Hüllt den Zauberwirker in Feuer, erhöht seinen Rüstungswert gegen Frostschaden und fügt jedem Brandschaden zu, der ihn im Nahkampf verletzt.</DefaultText>
+      <DefaultText>Hüllt den Zauberwirker in Feuer, erhöht seinen Rüstungswert gegen Frostschaden und fügt jedem, der ihn im Nahkampf verletzt, Brandschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>848</ID>
-      <DefaultText>Verwandelt die Haut des Zauberwirkers in Eisen und erhöht somit erheblich seinen Rüstungswert. Dieser Effekt hält bis zu zehn Angriffe an.</DefaultText>
+      <DefaultText>Verwandelt die Haut des Zauberwirkers in Eisen und erhöht seinen Rüstungswert beträchtlich. Dieser Effekt hält bis zu zehn Angriffe lang an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2751,7 +2751,7 @@
     </Entry>
     <Entry>
       <ID>852</ID>
-      <DefaultText>Erzeugt ein Feld arkaner Energie um den Zauberwirker herum, durch das feindliche Zauber auf den jeweiligen Zauberwirker reflektiert werden (bis zu insgesamt fünfzehn Spruchstufen).</DefaultText>
+      <DefaultText>Erzeugt ein Feld arkaner Energie rund um den Zauberwirker, durch das feindliche Zauber auf deren Wirker zurückgeworfen werden (bis zu insgesamt 15 Zauberspruchstufen).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2766,12 +2766,12 @@
     </Entry>
     <Entry>
       <ID>855</ID>
-      <DefaultText>Erzeugt eine Pike aus reiner magischer Energie, die Stichschaden zufügt und wie ein Zauberstab eine Explosion verursacht, die nur Feinde verletzt.</DefaultText>
+      <DefaultText>Erzeugt eine Pike aus reiner magischer Energie, die Stichschaden zufügt und beim Aufprall eine Explosion verursacht, die nur Feinde verletzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>856</ID>
-      <DefaultText>Es wird eine heimtückische magische Kontingenz ausgelöst, wenn der Zauberwirker Schwer verletzt oder Dem Tode nahe ist. Alle umstehenden Feinde werden zurückgestossen und Niedergestreckt, während er kurzzeitig einen Bonus auf Rüstungswert und Verteidigung genießt.</DefaultText>
+      <DefaultText>Es wird eine heimtückische magische Eventualität ausgelöst, wenn der Zauberwirker Schwer verletzt oder Dem Tode nahe ist. Alle umstehenden Feinde werden zurückgestossen und Niedergestreckt, während er kurzzeitig einen Bonus auf Rüstungswert und Verteidigung genießt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2781,7 +2781,7 @@
     </Entry>
     <Entry>
       <ID>858</ID>
-      <DefaultText>Erzeugt ein Feld arkaner Energie um den Zauberwirker herum, das feindliche Zauber auf den jeweiligen Zauberwirker reflektiert (bis zu insgesamt 30 Spruchstufen).</DefaultText>
+      <DefaultText>Erzeugt ein Feld arkaner Energie rund um den Zauberwirker, durch das feindliche Zauber auf deren Wirker zurückgeworfen werden (bis zu insgesamt 30 Zauberspruchstufen).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2796,12 +2796,12 @@
     </Entry>
     <Entry>
       <ID>861</ID>
-      <DefaultText>Beschwört einen riesigen Eiszapfen herab, der Feinden im Wirkungsbereich Frostschaden zufügt – und einen intensiven Frostkreis erzeugt, der Feinde, die ihn berühren, den Effekt Humpelnd zufügt.</DefaultText>
+      <DefaultText>Beschwört einen riesigen Eiszapfen herab, der Feinden im Wirkungsbereich Frostschaden zufügt – und einen intensiven Frostkreis erzeugt, der allen, die ihn berühren, den Effekt Humpelnd zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>863</ID>
-      <DefaultText>(Berserker) – Gewährt die Inspirationen Hartnäckig und Zäh anstatt Fit und Stark. Verschaffe ihm während des Zustands der Raserei eine wesentliche Verwandlung von Treffern in kritische Treffer bei Nahkampf- und Blutbadangriffen. Jedoch ist der Barabar während der Raserei Verwirrt und kann seine eigene Gesundheit nicht sehen und erleidet fortwährend direkten Schaden.</DefaultText>
+      <DefaultText>(Berserker) – Verleiht die Inspirationen Hartnäckig und Zäh anstelle von Fit und Stark. Die Chance auf kritischen Treffer und Blutbad bei Nahkampfangriffen ist während der Raserei deutlich erhöht. Jedoch ist der Barbar während seiner Raserei verwirrt, kann seine Gesundheit nicht sehen und erleidet kontinuierlichen direkten Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2826,32 +2826,32 @@
     </Entry>
     <Entry>
       <ID>870</ID>
-      <DefaultText>Der Barbar stellt sich tapfer jedem Angreifer. Gewährt einen Bonus auf Nahkampfschaden, wenn der Barbar von zwei oder mehr Feinden angegriffen wird. Der Barbar kann nicht flankiert werden, sofern er nicht von mehr als drei Feinden angegriffen wird.</DefaultText>
+      <DefaultText>Der Barbar stellt sich tapfer jedem Angreifer. Gewährt einen Bonus auf Nahkampfschaden, wenn zwei oder mehr Feinde in der Nähe des Barbaren sind, und es braucht einen zusätzlichen Feind, um den Barbaren zu flankieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>871</ID>
-      <DefaultText>Erzeugt einen schrecklichen Schrei, der alle Feinde im Wirkungsbereich Erschüttert.</DefaultText>
+      <DefaultText>Lässt einen schrecklichen Schrei los, der alle Feinde im Wirkungsbereich Erschüttert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>874</ID>
-      <DefaultText>Flößt dem Barbaren eine unstillbare Blutgier ein, durch den seine Geschwindigkeit im Kampf vorübergehend erhöht wird, sobald er oder sie persönlich einen Gegner erledigt hat.</DefaultText>
+      <DefaultText>Flößt dem Barbaren unstillbaren Blutdurst ein, wodurch seine Aktionsgeschwindigkeit kurzfristig erhöht wird, sobald er persönlich einen Feind erledigt hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>877</ID>
-      <DefaultText>Beschwört eine uralte Energie herauf, durch die alle Verbündeten in Reichweite von einer konstanten Regeneration der Gesundheit profitieren, während der Sänger zaubert.</DefaultText>
+      <DefaultText>Beschwört eine uralte Energie herauf, durch die alle Verbündeten in Reichweite von einer konstanten Regeneration der Gesundheit profitieren, während der Sänger singt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>878</ID>
-      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Bären, wodurch er vorübergehend diese Form annehmen kann. Die Bär-Geisterwandlerform kann eine Angriffsbindung eingehen, verfügt über einen hohen Rüstungswert und kann ein furchterregendens Brüllen ausstossen.</DefaultText>
+      <DefaultText>Nutzt die natürliche Verbindung des Druiden zum Bären, wodurch er vorübergehend dessen Form annehmen kann. Der Bär-Geisterwandler kann Ziele angreifen, hat einen hohen Rüstungswert und kann furchterregend brüllen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>879</ID>
-      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Eber, wodurch er vorübergehend diese Form annehmen kann. Die Eber-Geisterwandlerform kann eine Angriffsbindung eingehen, regeneriert Gesundheit und fügt mit ihren Nahkampfangriffen Zeitschaden zu.</DefaultText>
+      <DefaultText>Nutzt die natürliche Verbindung des Druiden zum Keiler, wodurch er vorübergehend dessen Form annehmen kann. Der Keiler-Geisterwandler kann Ziele angreifen, regeneriert Gesundheit und fügt mit seinen Nahkampfangriffen Zeitschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2876,27 +2876,27 @@
     </Entry>
     <Entry>
       <ID>884</ID>
-      <DefaultText>(Haltung: Eroberer) – Wenn der Kämpfer nicht mehr als verletzt ist, erhöht sich sein Genauigkeitsbonus. Ist er Schwer verletzt oder noch schlimmer, dann erhöht sich sein Abwehrbonus.</DefaultText>
+      <DefaultText>(Haltung: Eroberer) – Genauigkeitsbonus des Kämpfers erhöht sich, wenn sein Zustand Verletzt oder besser ist. Wenn der Kämpfer schwer verletzt oder dem Tode nahe ist, erhöht sich sein Abwehrbonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>885</ID>
-      <DefaultText>Ein Schlag auf den Kopf, der die Reaktionsfähigkeit der Feinde beeinträchtigen soll. Feinde, die von einem erfolgreichen Angriff betroffen sind, werden Betäubt.</DefaultText>
+      <DefaultText>Ein Schlag auf den Kopf, der die Reaktionsfähigkeit des Feindes beeinträchtigt und ihn betäubt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>886</ID>
-      <DefaultText>Die Hände des Mönchs werden zu einer rasend schnellen Folge von Angriffen, wodurch seine Angriffsrate kurzzeitig erhöht und ihm die Inspiration Schnell gewährt wird.</DefaultText>
+      <DefaultText>Die Hände des Mönchs entfachen einen Wirbelwind von Angriffen. Seine Aktionsgeschwindigkeit wird kurzfristig erhöht und er erhält die Inspiration Schnell.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>887</ID>
-      <DefaultText>Mönche erreichen durch das Erdulden der Härten des Lebens ein größeres Verständnis für die Fähigkeiten ihres Körpers. Die Fäuste und Füße eines Mönches verfügen über Schadenskraft, Genauigkeit und Durchschlagskraft, die weit höher sind als die anderer Charaktere und sich mit steigender Kraftstufe ständig weiter erhöhen.</DefaultText>
+      <DefaultText>Mönche erreichen durch das Erdulden der Härten der Existenz ein größeres Verständnis für die Fähigkeiten ihres Körpers. Schaden, Genauigkeit und Durchschlagskraft der Fäuste und Füße eines Mönches sind weit höher als bei anderen Charakteren und erhöhen sich mit steigender Kraftstufe nur noch weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>891</ID>
-      <DefaultText>Intensive Übung und jahrelanges Studiums ermöglichen es dem Mönch, sich im selbstbewussten Fluss durch den Kampf zu bewegen. Während des Kampfes ist die Bewegungsrate des Mönchs erheblich gesteigert.</DefaultText>
+      <DefaultText>Intensive Übung und jahrelanges Studium ermöglichen es dem Mönch, sich im Kampf selbstbewusst und flüssig zu bewegen. Während des Kampfes ist das Vorwärtskommen des Mönchs deutlich erhöht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2916,7 +2916,7 @@
     </Entry>
     <Entry>
       <ID>895</ID>
-      <DefaultText>Der Mönch erhält vorübergehend Einblick durch Geduld, wodurch er einen vorübergehenden Bonus auf Tapferkeit, Reflexe und Wille erhält, sobald die Wirkung eines feindlichen Effekts nachlässt.</DefaultText>
+      <DefaultText>Der Mönch erhält vorübergehend Einblick durch Erdulden, wodurch er einen vorübergehenden Bonus auf Tapferkeit, Reflexe und Wille erhält, sobald die Wirkung eines feindlichen Effekts nachlässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2931,7 +2931,7 @@
     </Entry>
     <Entry>
       <ID>898</ID>
-      <DefaultText>Der Mönch widmet all seinen Verstand der physikalischen Welt, wodurch er einen Bonus auf Verfassung für jede Wunde, die er besitzt, erhält.</DefaultText>
+      <DefaultText>Der Mönch widmet sich vollkommen der körperlichen Welt und erhält für jede Wunde, die er hat, einen Bonus auf Verfassung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2956,17 +2956,17 @@
     </Entry>
     <Entry>
       <ID>903</ID>
-      <DefaultText>Markiert einen Feind als den Fokus der rechtschaffenen Raserei des Paladins. Dadurch gewinnt dieser einen Bonus für den Schaden beim Ziel, bis der Kampf endet oder das Ziel zu Boden geht.</DefaultText>
+      <DefaultText>Markiert einen Feind als den Fokus der rechtschaffenen Raserei des Paladins. Dadurch gewinnt dieser einen Schadensbonus gegen das Ziel, bis der Kampf endet oder das Ziel zu Boden geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>904</ID>
-      <DefaultText>Die reine Seele des Paladins widersteht allen einwirkenden Kräften, wodurch er eine Immunität gegen die Effekte Gift und Krankheit erhält.</DefaultText>
+      <DefaultText>Die reine Seele des Paladins widersteht allen einwirkenden Kräften und verleiht ihm Immunität gegen die Effekte von Gift und Krankheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>905</ID>
-      <DefaultText>Der Waldläufer zielt auf einen Punkt, der eine zuverfolgende Spur hinterlassen wird, und dem Ziel direkten Schaden über Zeit zufügt.</DefaultText>
+      <DefaultText>Der Waldläufer fügt dem Ziel eine Verletzung zu, die dafür sorgt, dass eine Spur hinterlassen wird und die ihm direkten Zeitschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2976,7 +2976,7 @@
     </Entry>
     <Entry>
       <ID>908</ID>
-      <DefaultText>Bestimmt ein einzelnes Ziel als Beute, wodurch der Waldläufer und sein tierischer Gefährte einen Bonus für Genauigkeit Schaden gegen das Ziel erhalten.</DefaultText>
+      <DefaultText>Bestimmt ein einzelnes Ziel als Beute, wodurch der Waldläufer und sein tierischer Gefährte einen Genauigkeitsbonus gegen das Ziel erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2991,12 +2991,12 @@
     </Entry>
     <Entry>
       <ID>912</ID>
-      <DefaultText>Jeder Fernangriff durch den Waldläufer birgt soviel Kraft, dass er durch das erste Ziel schießt und ein anderes, dahinter stehendes Ziel trifft und geringeren Schaden zufügt.</DefaultText>
+      <DefaultText>Jeder Fernangriff des Waldläufers ist so kraftvoll, dass er glatt durch das erste Ziel durchschießt und ein dahinter stehendes zweites Ziel für weniger Schaden ebenfalls trifft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>913</ID>
-      <DefaultText>Beschwört Wurzeln aus dem Boden unterhalb des Ziels herauf, wodurch dieses Bewegungsunfähig wird.</DefaultText>
+      <DefaultText>Beschwört Wurzeln aus dem Boden unterhalb des Ziels herauf, wodurch dieses bewegungsunfähig wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3006,7 +3006,7 @@
     </Entry>
     <Entry>
       <ID>918</ID>
-      <DefaultText>Der Schurke versucht, einen verletzten Gegner mit einem präzisen, tödlichen Schlag zu erledigen. Je weniger Gesundheit das Ziel hat, desto mehr Schaden richtet der Schlag an.</DefaultText>
+      <DefaultText>Der Schurke versucht, einen verletzten Gegner mit einem präzisen, tödlichen Schlag zu erledigen. Der Angriff richtet umso mehr Schaden an, je weniger Gesundheit das Ziel hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3016,7 +3016,7 @@
     </Entry>
     <Entry>
       <ID>921</ID>
-      <DefaultText>Ermöglicht es dem Schurken, eine Angriffsbindung zu brechen und geschickt der nächsten Attacke auszuweichen. Dabei springt er außer Reichweite zu einer bestimmten Position.</DefaultText>
+      <DefaultText>Ermöglicht es dem Schurken, eine Angriffsbindung zu brechen und Angriffen geschickt auszuweichen, sodass er an eine bestimmte Position außer Reichweite flüchten kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3026,12 +3026,12 @@
     </Entry>
     <Entry>
       <ID>923</ID>
-      <DefaultText>Nutzt die Fähigkeit des Schurken, sich ungesehen zu nähern, wodurch er weiteren Schadensbonus auf seine Waffen-Angriffe erhält, wenn das Ziel flankiert oder von einer Wirkung beeinflusst wird.</DefaultText>
+      <DefaultText>Nutzt die Fähigkeit des Schurken, sich ungesehen anzuschleichen, wodurch er zusätzlichen Schadensbonus auf seine Waffenangriffe erhält, wenn das Ziel flankiert oder von einer Wirkung belegt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>924</ID>
-      <DefaultText>Der Schurke sucht nach Möglichkeiten zu einem Gegenangriff im Kampf. Bei eingehenden Nahkampfangriffen, die auf Abwehr und Fehlschlag gerichtet sind, besteht eine Wahrscheinlichkeit, dass ein sofortiger Gegenschlag möglich ist. Nur aktiv, wenn Nahkampfwaffen ausgerüstet sind.</DefaultText>
+      <DefaultText>Der Schurke sucht im Kampf nach Gelegenheiten zum Konter. Bei eingehenden Nahkampfangriffen, die auf Abwehr zielen und verfehlen, besteht eine Chance auf einen sofortigen vollen Gegenschlag. (Erfordert eine Nahkampfwaffe)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3041,7 +3041,7 @@
     </Entry>
     <Entry>
       <ID>926</ID>
-      <DefaultText>Der Schurke zeigt sich besonders geschickt darin, Angriffen auszuweichen, und verwandelt fast alle Leichte Treffer, die Reflexe angreifen, in Fehlschläge.</DefaultText>
+      <DefaultText>Der Schurke ist besonders geschickt darin, Angriffen auszuweichen, und verwandelt fast alle leichten Treffer in Fehlschläge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3061,7 +3061,7 @@
     </Entry>
     <Entry>
       <ID>930</ID>
-      <DefaultText>Ermöglicht es dem Schurke, die Schwächen des Feindes auszunutzen, wodurch er deutlich mehr Schaden austeilt, wenn das Ziel von zwei oder mehr Zuständen betroffen ist, die einen Schleichangriff zulassen.</DefaultText>
+      <DefaultText>Ermöglicht es dem Schurken, die Schwächen eines Feindes besser auszunutzen und deutlich mehr Schaden zu verursachen, wenn das Ziel von zwei oder mehr Wirkungen belegt ist, die einen Schleichangriff ermöglichen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3076,7 +3076,7 @@
     </Entry>
     <Entry>
       <ID>945</ID>
-      <DefaultText>(Beißende Peitsche) – Die Seelenpeitsche des Mediums beißt tiefer und gewährt einen Bonus auf Schaden.</DefaultText>
+      <DefaultText>(Beißende Peitsche) – Die Seelenpeitsche des Mediums beißt tiefer und gewährt einen größeren Schadensbonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3106,7 +3106,7 @@
     </Entry>
     <Entry>
       <ID>961</ID>
-      <DefaultText>(Genauer verwundender Schuss) – Das Zielen des Waldläufes wird viel genauer.</DefaultText>
+      <DefaultText>(Genauer verwundender Schuss) – Der Waldläufer zielt wesentlich genauer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3116,7 +3116,7 @@
     </Entry>
     <Entry>
       <ID>968</ID>
-      <DefaultText>Ermöglicht es dem Zauberer, einen Feind mit einem Zauberbuch zu zerschmettern, das mit spiritueller Energie geladen wurde, wodurch dieser großen Schaden erleidet und zurückgeworfen wird.</DefaultText>
+      <DefaultText>Ermöglicht es dem Zauberer, einen Feind mit einem mit arkaner Energie getränkten Zauberbuch niederzuschmettern, wodurch dieser großen Schaden erleidet und zurückgeworfen wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3236,7 +3236,7 @@
     </Entry>
     <Entry>
       <ID>1018</ID>
-      <DefaultText>Keiler-Gefährten regenerieren langsam Gesundheit, selbst während des Kampfes.</DefaultText>
+      <DefaultText>Keiler-Gefährten regenerieren langsam ihre Gesundheit, selbst im Kampf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3251,17 +3251,17 @@
     </Entry>
     <Entry>
       <ID>1021</ID>
-      <DefaultText>Löwen-Gefährten besitzen eine natürlich schnellere Aktionsgeschwindigkeit.</DefaultText>
+      <DefaultText>Löwen-Gefährten haben von Natur aus eine schnellere Aktionsgeschwindigkeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1022</ID>
-      <DefaultText>Hirsche schädigen auf natürliche Art alle Feinde rings um ihr Ziel, wenn sie einen kritischen Treffer erzielen.</DefaultText>
+      <DefaultText>Hirsche verursachen von Natur aus auch Schaden bei allen Feinden rund um ihr Ziel, wenn sie einen kritischen Treffer landen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1023</ID>
-      <DefaultText>Wolfsgefährten richten auf natürliche Art mehr Schaden mit ihren Angriffen an.</DefaultText>
+      <DefaultText>Wolf-Gefährten richten von Natur aus mit ihren Angriffen mehr Schaden an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3296,7 +3296,7 @@
     </Entry>
     <Entry>
       <ID>1034</ID>
-      <DefaultText>Der Schurke bereist das Jenseits, erscheint an einem bestimmten Ort und vermeidet geschickt den nächsten Angriff. Anschließend ist der Schurke vorübergehend unsichtbar.</DefaultText>
+      <DefaultText>Der Schurke reist in das Jenseits, erscheint an einem bestimmten Ort und vermeidet geschickt den nächsten Angriff. Anschließend ist der Schurke vorübergehend unsichtbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3381,7 +3381,7 @@
     </Entry>
     <Entry>
       <ID>1058</ID>
-      <DefaultText>Der tierische Gefährte des Waldläufers wird widerstandsfähig gegenüber Intellekt- und Wahrnehmungs-Wirkung.</DefaultText>
+      <DefaultText>Der tierische Gefährte des Waldläufers wird widerstandsfähig gegenüber Intellekt- und Wahrnehmungswirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3391,12 +3391,12 @@
     </Entry>
     <Entry>
       <ID>1060</ID>
-      <DefaultText>Der tierische Gefährte des Waldläufers erhält verbesserten Rüstungswert gegen alle Schadensarten.</DefaultText>
+      <DefaultText>Der tierische Gefährte des Waldläufers erhält einen verbesserten Rüstungswert gegen alle Schadensarten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1062</ID>
-      <DefaultText>Der Charakter wird wendiger und flinker. Die Bewegungsrate erhöht sich und er erhält einen Verteidigungsbonus gegen Absetzangriffe.</DefaultText>
+      <DefaultText>Der Charakter wird wendiger und flinker. Sein Vorwärtskommen erhöht sich und er erhält einen Verteidigungsbonus gegen Absetzangriffe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3416,7 +3416,7 @@
     </Entry>
     <Entry>
       <ID>1073</ID>
-      <DefaultText>Eine spezialisierte Ausbildung erhöht die Angriffsgeschwindigkeit des Charakters, wenn er in jeder Hand eine Waffe einsetzt.</DefaultText>
+      <DefaultText>Eine spezialisierte Ausbildung erhöht die Aktionsgeschwindigkeit des Charakters, wenn er in jeder Hand eine Waffe hält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3431,7 +3431,7 @@
     </Entry>
     <Entry>
       <ID>1076</ID>
-      <DefaultText>Erhöht die Genauigkeit des Charakters mit Fernwaffen, die gegen Ziele in der Entfernung eingesetzt werden.</DefaultText>
+      <DefaultText>Erhöht die Genauigkeit des Charakters mit Fernkampfwaffen, die gegen Ziele in der Entfernung eingesetzt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3501,7 +3501,7 @@
     </Entry>
     <Entry>
       <ID>1113</ID>
-      <DefaultText>(Gestärktes Bündnis) – Gewährt einen größeren Bonus auf Verteidigung.</DefaultText>
+      <DefaultText>(Gestärktes Bündnis) – Verleiht höheren Verteidigungsbonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3511,7 +3511,7 @@
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>Wenn der Angreifer eine Einhand-Waffe einsetzt, werden einige seiner Treffer in kritische Treffer verwandelt.</DefaultText>
+      <DefaultText>Wenn der Angreifer eine Einhandwaffe einsetzt, werden einige seiner Treffer in kritische Treffer verwandelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3521,7 +3521,7 @@
     </Entry>
     <Entry>
       <ID>1117</ID>
-      <DefaultText>Verleiht bei Einsatz einer Zweihandwaffe einen Schadensbonus.</DefaultText>
+      <DefaultText>Verleiht einen Schadensbonus, wenn eine Zweihandwaffe geführt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3546,7 +3546,7 @@
     </Entry>
     <Entry>
       <ID>1129</ID>
-      <DefaultText>Die Nahkampfangriffe des Barbars erhalten eine Chance, bei kritischen Treffern zu unterbrechen.</DefaultText>
+      <DefaultText>Die Nahkampfangriffe des Barbars erhalten eine Chance auf Unterbrechen bei kritischen Treffern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3581,7 +3581,7 @@
     </Entry>
     <Entry>
       <ID>1151</ID>
-      <DefaultText>Ausgiebige Erfahrungen beim verstohlenen Transport von verschiedenen Gütern und Waffen haben den Schurken optimale Verstaumethoden für unterschiedliche Gegenstände gelehrt. Der Schurke erhält zwei zusätzliche Schnellauswahl-Slots für Gegenstände.</DefaultText>
+      <DefaultText>Ausgiebige Erfahrungen beim verstohlenen Transport verschiedenster Gütern und Waffen haben den Schurken gelehrt, seine Habseligkeiten optimal zu verstauen. Der Schurke erhält zwei zusätzliche Schnellauswahl-Plätze.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3671,7 +3671,7 @@
     </Entry>
     <Entry>
       <ID>1212</ID>
-      <DefaultText>Mit einer Berührung der Hände erfüllt der Paladin sich selbst oder einen Verbündeten mit Licht. Dadurch wird in hohem Umfang die Gesundheit wiederhergestellt und die Inspiration Mutig gewährt.</DefaultText>
+      <DefaultText>Mit einer Berührung der Hände erfüllt der Paladin sich selbst oder einen Verbündeten in Reichweite mit Licht. Dadurch wird ein großes Maß an Gesundheit wiederhergestellt und die Inspiration Mutig verliehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3696,7 +3696,7 @@
     </Entry>
     <Entry>
       <ID>1270</ID>
-      <DefaultText>Beschwört drei Geschosse, die das Ziel durchbohren und auf jeweils zwei zusätzliche Ziele überspringen.</DefaultText>
+      <DefaultText>Beschwört drei Geschosse, die das Ziel durchbohren und dann auf weitere Ziele überspringen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3741,22 +3741,22 @@
     </Entry>
     <Entry>
       <ID>1306</ID>
-      <DefaultText>Wilde Orlans sind von Natur aus geistig gesund und erwerben eine Resistenz gegen Entschlossenheitswirkungen.</DefaultText>
+      <DefaultText>Wilde Orlaner haben von Natur aus einen robusten Geist und erhalten eine Resistenz gegen Wirkungen auf Entschlossenheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1307</ID>
-      <DefaultText>Wenn ein Feuer-Gottähnlichen Schwer verletzt oder Dem Tode nahe ist, härtet sich sein Körper, was ihm zusätzlichen Rüstungswert verleiht. Seine Seele wehrt sich außerdem gegen Angreifer und fügt jedem, der ihn im Nahkampf trifft, Brandschaden zu.</DefaultText>
+      <DefaultText>Wenn Feuer-Gottähnliche Schwer verletzt oder Dem Tode nahe sind, härten sich ihre Körper und ihr Rüstungswert erhöht sich. Ihre Seelen wehren sich außerdem gegen die Angreifer und fügen allen, die sie im Nahkampf treffen, Brandschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1312</ID>
-      <DefaultText>Greift ein sesshafter Orlaner ein Ziel an, das auch von einem Gruppenmitglied als Ziel ausgewählt worden ist, verwandeln sie einen Teil ihrer Treffer in Kritische Treffer.</DefaultText>
+      <DefaultText>Wenn sesshafte Orlaner ein Ziel angreifen, das auch von einem Gruppenmitglied ins Visier genommen wurde, verwandeln sie einen Teil ihrer Treffer in Kritische Treffer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1315</ID>
-      <DefaultText>Zwischen den Wellen</DefaultText>
+      <DefaultText>In den Wellen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3786,7 +3786,7 @@
     </Entry>
     <Entry>
       <ID>1324</ID>
-      <DefaultText>Schießt einen magischen Magieblitz aus dem Zauberbuch, das Zielen im Wirkungsbereich direkten Schaden zufügt und sie Benommen macht.</DefaultText>
+      <DefaultText>Schießt einen Magieblitz aus dem Zauberbuch, das Zielen im Wirkungsbereich direkten Schaden zufügt und sie Benommen macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3821,7 +3821,7 @@
     </Entry>
     <Entry>
       <ID>1333</ID>
-      <DefaultText>Wendige Beute</DefaultText>
+      <DefaultText>Wachsame Beute</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3871,7 +3871,7 @@
     </Entry>
     <Entry>
       <ID>1345</ID>
-      <DefaultText>Der Mönch erhält zwei modale Fähigkeiten, die es ihm erlauben, zwischen dem Verbinden seiner eingehenden Wunden mit seinem Körper (Konstitutionsbonus) oder seinem Geist (Intellektbonus) zu wechseln.</DefaultText>
+      <DefaultText>Der Mönch erhält zwei modale Fähigkeiten, durch die er bestimmen kann, ob erlittene Wunden seinen Körper (Bonus auf Verfassung) oder seinen Geist (Bonus auf Intellekt) stärken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3891,7 +3891,7 @@
     </Entry>
     <Entry>
       <ID>1385</ID>
-      <DefaultText>Verhindert für einen kurzen Moment, dass die Gesundheit eines schwer verwundeten Charakters auf 0 sinkt.</DefaultText>
+      <DefaultText>Verhindert für kurze Zeit, dass die Gesundheit eines schwer verwundeten Charakters auf 0 fällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4056,7 +4056,7 @@
     </Entry>
     <Entry>
       <ID>1462</ID>
-      <DefaultText>Das Medium saugt Kraft aus den Seelen seiner Feinde. So kann es sie verlangsamen und gleichzeitig seine eigene Geschwindigkeit erhöhen.</DefaultText>
+      <DefaultText>Das Medium saugt Kraft aus den Seelen seiner Feinde. So kann es sie verlangsamen und gleichzeitig seine eigene Aktionsgeschwindigkeit erhöhen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4081,17 +4081,17 @@
     </Entry>
     <Entry>
       <ID>1467</ID>
-      <DefaultText>Der Kämpfer führt einen Primärangriff aus, der einen Bonus auf Durchdringung erhält und den Rüstungswert des Ziels verringert.</DefaultText>
+      <DefaultText>Der Kämpfer führt einen Primärangriff aus, der einen Bonus auf Durchschlagskraft erhält und den Rüstungswert des Ziels verringert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1468</ID>
-      <DefaultText>Der Paladin konzentriert seinen Glauben und geht in blauen Flammen auf. Jedes Mal, wenn die Fähigkeit pulsiert, erleidet der Gegner in der unmittelbaren Umgebung Brandschaden, während dem Paladin ein Teil seiner gesamten Gesundheit als direkter Schaden zugefügt wird. (Dieser Schaden kann den Paladin töten)</DefaultText>
+      <DefaultText>Der Paladin konzentriert seinen Glauben und geht in blauen Flammen auf. Jedes Mal, wenn der Zauber pulsiert, erleiden Feinde in der unmittelbaren Umgebung Brandschaden und der Paladin erleidet einen Teil ihrer gesamten Gesundheit als direkten Schaden. (Dieser Schaden kann den Paladin töten.)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1469</ID>
-      <DefaultText>Der Paladin wählt einen einzelnen Verbündeten als Ziel zum Heilen aus. Die Wirkung springt jedoch zwischen Verbündeten hin und her und heilt nach jedem Sprung etwas weniger.</DefaultText>
+      <DefaultText>Der Paladin wählt einen einzelnen Verbündeten als Ziel für die Heilung aus. Die Wirkung springt jedoch weiter zu anderen Verbündeten, wobei sie bei jedem Sprung abnimmt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4121,12 +4121,12 @@
     </Entry>
     <Entry>
       <ID>1476</ID>
-      <DefaultText>Der Zauberer schleudert einen winzigen Feuerball los, der für einen festgelegten Zeitraum liegen bleibt, bevor er explodiert und dabei schweren Brandschaden verursacht.</DefaultText>
+      <DefaultText>Der Zauberer schleudert einen winzigen Feuerball los, der für einen festgelegten Zeitraum ruht, bevor er explodiert und dabei schweren Brandschaden verursacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1477</ID>
-      <DefaultText>Dieser Zauber beschwört einen mächtigen Kampfstab, der Abwehr hinzufügt und Feinde bei jedem erfolgreichen Angriff mit einem Humpelnd-Effekt wegstößt. Die Beschwörung selbst stößt ebenfalls jeden (auch Verbündete) aus der Nähe des Zauberwirkers fort.</DefaultText>
+      <DefaultText>Dieser Zauber beschwört einen mächtigen Kampfstab, der Abwehr hinzufügt und Feinde bei jedem erfolgreichen Angriff wegstößt und humpeln lässt. Die Beschwörung des Stabes selbst stößt jeden aus der Nähe des Zauberwirkers fort (auch Verbündete) .</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4146,7 +4146,7 @@
     </Entry>
     <Entry>
       <ID>1481</ID>
-      <DefaultText>Feinde, die diese Wand durchdringen oder darin stehen, verlieren Zeit von allen zeitlich begrenzten positiven Statuseffekten, mit denen sie belegt sind. Für jede verlorene Sekunde gewinnt der Zauberer Zeit für seine eigenen positiven Statuseffekte.</DefaultText>
+      <DefaultText>Feinde, die diese Wand durchdringen oder darin stehen, verlieren Zeit von allen zeitlich begrenzten positiven Statuseffekten, mit denen sie belegt sind. Für jede so verlorene Sekunde gewinnt der Zauberer Zeit für seine eigenen positiven Statuseffekte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4156,7 +4156,7 @@
     </Entry>
     <Entry>
       <ID>1543</ID>
-      <DefaultText>Der Zauberwirker beschwört einen gewaltigen elektrischen Bliz, der direkt auf ein einzelnes Ziel springt und anschließend auf weitere Feinde in der Nähe überspringt. Andere im Wirkungsbereich erleiden keinen Schaden durch den arkanen Blitz.</DefaultText>
+      <DefaultText>Der Zauberwirker beschwört einen gewaltigen elektrischen Blitz, der direkt auf ein einzelnes Ziel springt und anschließend auf mehrere Feinde in der Nähe weiterspringt. Andere im Wirkungsbereich erleiden keinen Schaden durch den arkanen Blitz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4191,7 +4191,7 @@
     </Entry>
     <Entry>
       <ID>1569</ID>
-      <DefaultText>Der Dieb führt einen Primärangriff aus, der dem Ziel mit den Effekt Verwirrt und Humpelnd zufügt.</DefaultText>
+      <DefaultText>Der Dieb führt einen Primärangriff aus, der das Ziel Verwirrt und Humpelnd zurücklässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4216,7 +4216,7 @@
     </Entry>
     <Entry>
       <ID>1577</ID>
-      <DefaultText>Vernichtet Feinde mit einem mächtigen Wind kalter Luft, der die Bewegung verlangsamt sowie Frost- und Wuchtschaden anrichtet (mit hoher Durchdringung).</DefaultText>
+      <DefaultText>Vernichtet Feinde mit einem mächtigen Stoß kalter Luft, der die Bewegung verlangsamt und Frost- und Wuchtschaden mit hoher Durchschlagskraft anrichtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4491,12 +4491,12 @@
     </Entry>
     <Entry>
       <ID>1721</ID>
-      <DefaultText>Ermöglicht es dem Schurken, jeglichen Angriff zu durchbrechen und dem nächsten Angriff gekonnt auszuweichen – er springt einfach an einen anderen Ort, außer Reichweite. Anschließend wird das Ziel beim nächsten Angriff des Schurken mit seiner Hauptwaffe Gelähmt.</DefaultText>
+      <DefaultText>Der Schurke löst sich aus der Angriffsbindung, weicht dem nächsten Angriff gekonnt aus und huscht an einen Ort außer Reichweite. Anschließend lähmt der nächste Angriff des Schurken mit seiner Hauptwaffe das Ziel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1722</ID>
-      <DefaultText>Der Zauberer beschwört eine schwarze Kugel, die alle Charaktere in der Nähe zu sich zieht und deren Vorwärtskommen senkt, wenn sie pulsiert.</DefaultText>
+      <DefaultText>Der Zauberer beschwört eine schwarze Kugel, die immer, wenn sie pulsiert, alle Charaktere in der Nähe anzieht und deren Vorwärtskommen reduziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4521,17 +4521,17 @@
     </Entry>
     <Entry>
       <ID>1736</ID>
-      <DefaultText>Der Druide wird zu einem Leiter für die Macht eines Sturms. Jedes Ziel, das er mit einer Waffe angreift, oder von dem er mit einer Waffe angegriffen wird, wird von einem Blitzschlag getroffen.</DefaultText>
+      <DefaultText>Der Druide wird zu einem Leiter für die Macht eines Sturms. Jedes Ziel, das er mit einer Waffe trifft oder von dem er mit einer Waffe getroffen wird, wird von einem Blitz getroffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1737</ID>
-      <DefaultText>Der Druide verbindet winzige Naturgeister zur Gestalt eines großen Hirsches aus Feuer. Der Hirsch hat einen dauerhaften Flammenschild. Der Druide kann die in dem Hirsch enthaltenen Geister heftig auseinanderfliegen lassen, was den Hirsch zerstört, aber Feuer- oder Stichschaden bei jedem, der von der Explosion betroffen ist, verursacht.</DefaultText>
+      <DefaultText>Der Druide verbindet winzige Naturgeister zur Gestalt eines großen Hirsches aus Feuer. Der Hirsch hat einen dauerhaften Flammenschild. Der Druide kann die im Hirsch enthaltenen Geister heftig auseinanderfliegen lassen, was den Hirsch zerstört, aber Feuer- oder Stichschaden bei allen verursacht, die von der Explosion getroffen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1739</ID>
-      <DefaultText>Verbündete erhalten eine Schutzschicht aus hölzerner „Haut“ und bekommen die Eigenschaften von Delemgan verliehen. Sie werden schneller, weniger anfällig gegen Absetzangriffe und immun gegen Gewandtheitswirkungen.</DefaultText>
+      <DefaultText>Verbündete erhalten eine Schutzschicht aus hölzerner „Haut“ und bekommen die Eigenschaften eines Delemgan verliehen. Sie werden schneller, weniger anfällig gegen Absetzangriffe und immun gegen Gewandtheitswirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4616,7 +4616,7 @@
     </Entry>
     <Entry>
       <ID>1765</ID>
-      <DefaultText>Eine geisterhafte Skeletthand fegt durch das Gebiet und fügt allen Gegnern darin Frostschaden zu und lässt sie Geschwächt oder Humpelnd zurück.</DefaultText>
+      <DefaultText>Eine geisterhafte Skeletthand fegt durch das Gebiet, fügt allen Gegnern darin Frostschaden zu und lässt sie geschwächt und humpelnd zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8591,7 +8591,7 @@ Das maximale Limit an Wunden ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2647</ID>
-      <DefaultText>Die Überladung mit Pulver bewirken bei Schüssen eine kurze Brandexplosion, der dicke Rauch aus der Donnerbüchse lenkt den Schützen jedoch ab.</DefaultText>
+      <DefaultText>Die Überladung mit Pulver bewirkt bei Schüssen eine kurze Brandexplosion, der dicke Rauch aus der Donnerbüchse lenkt den Schützen jedoch ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9261,7 +9261,7 @@ Das maximale Limit an Wunden ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2785</ID>
-      <DefaultText>Lasse den Angriff eines Verbündeten mit den Erinnerungen seiner Seele widerhallen. Dies gewährt den Verbündeten einen wesentlichen Durchschlagskraft-Bonus.</DefaultText>
+      <DefaultText>Lasse den Angriff eines Verbündeten mit den Erinnerungen ihrer Seele widerhallen. Dies gewährt den Verbündeten einen wesentlichen Durchschlagskraft-Bonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16933,7 +16933,7 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4833</ID>
-      <DefaultText>Berath's Challenge</DefaultText>
+      <DefaultText>Beraths Herausforderung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16994,6 +16994,26 @@ Keiner.</DefaultText>
     <Entry>
       <ID>4851</ID>
       <DefaultText>Wrath of the Empress</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4863</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4864</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4865</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4866</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
