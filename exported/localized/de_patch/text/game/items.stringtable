@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2825</EntryCount>
+  <EntryCount>2831</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -3010,7 +3010,7 @@ Unter Admeths Herrschaft erlebte der Dyrwald sieben produktive und profitable Ja
 
 In den nächsten 24 Jahren wurde die Beseelung zwar weiter erforscht und es gab auch einige kleinere Durchbrüche, doch je mehr die Forscher lernten, desto teurer und komplizierter wurde ihre Arbeit. Die meisten Beseeler konnten ihre Forschungen nicht ohne Spenden von reichen Personen und Organisationen finanzieren. Im Jahr 2737 AI drangen einige Beseeler in die verbotenen Ruinen von Eir Glanfath an. Sie waren verzweifelt und sahen keinen anderen Weg, in ihrer Arbeit Fortschritte zu machen. Sie entdeckten, dass es in einigen Stätten seltsame Artefakte gab, die im Zusammenhang mit der Seelenessenz zu stehen schienen. Sie begannen, Experimente mit diesen Artefakten anzustellen. Trotz ihrer anhaltenden Bemühungen konnten sie nicht genau in Erfahrung, was sie da eigentlich entdeckt hatten. Schließlich wurden sie von den Glanfathanern entdeckt, die einige von ihnen gefangen nahmen und forderten, dass man sie für ihre Verbrechen bestrafe. Die Behörden des Dyrwalds hatten keine andere Wahl, wenn sie die Verträge einhalten und den Frieden wahren wollten – sie ließen zu, dass die Beseeler nach alter glanfathanischer Tradition hingerichtet wurden. Das veranlasste den Duc dazu, ein weiteres Dekret zu erlassen – die Erforschung und Ausübung der Beseelung an heiligen glanfathanischen Stätten – oder nur in ihrer Nähe – sollte fortan mit dem Tod bestraft werden.
 
-Um das Verhältnis mit den Glanfathanern wieder zu stärken, gestattete die Regierung des Dyrwalds im Jahr 2780 AI, dass einige Beseeler zusammen mit glanfathanischen „Verstandsjägern“ – ihren Medien – Experimente durchführten. Es fand ein Informationsaustausch statt. Die Beseeler dokumentierten die Geheimnisse der Kräfte der Verstandsjäger. Die Verstandsjäger lernten neue Konzentrationstechniken, die ihnen halfen, ihre Kräfte in einer Weise einzusetzen, die kein Glanfathaner je gesehen hatte. Die Medien waren nicht mehr misstrauisch, was die Absichten der Beseeler anging. Sie vertrauten ihnen so sehr, dass sie die Glanfathaner überzeugten, einigen Beseelern beschränkten Zugang zu den Übungsplätzen der Glanfathaner zu gewähren. Die Anamfaths der glanfathanischen Stämme öffneten die Übungsplätze für die Beseeler. Sie durften nicht ins Innere – das blieb strengstens verboten – doch das allgemeine Entgegenkommen der Glanfathaner wurde als Durchbruch in der Beziehung zwischen dem Dyrwald und Eir Glanfath angesehen. In den nächsten acht Jahren konnten die Beseeler ihre Forschungen ungehindert weiterführen. Bis auf einige kleine Rangeleien gibt es nun seit fast 120 Jahren keine große Zwietracht zwischen den beiden Gruppen.</DefaultText>
+Um das Verhältnis mit den Glanfathanern wieder zu stärken, gestattete die Regierung des Dyrwalds im Jahr 2780 AI, dass einige Beseeler zusammen mit glanfathanischen „Verstandsjägern“ – ihren Medien – Experimente durchführten. Es fand ein Informationsaustausch statt. Die Beseeler dokumentierten die Geheimnisse der Kräfte der Verstandsjäger. Die Verstandsjäger lernten neue Konzentrationstechniken, die ihnen halfen, ihre Kräfte in einer Weise einzusetzen, die kein Glanfathaner je gesehen hatte. Die Medien waren nicht mehr misstrauisch, was die Absichten der Beseeler anging. Sie vertrauten ihnen so sehr, dass sie die Glanfathaner überzeugten, einigen Beseelern beschränkten Zugang zu den Übungsplätzen der Glanfathaner zu gewähren. Die Anamfatha der glanfathanischen Stämme öffneten die Übungsplätze für die Beseeler. Sie durften nicht ins Innere – das blieb strengstens verboten – doch das allgemeine Entgegenkommen der Glanfathaner wurde als Durchbruch in der Beziehung zwischen dem Dyrwald und Eir Glanfath angesehen. In den nächsten acht Jahren konnten die Beseeler ihre Forschungen ungehindert weiterführen. Bis auf einige kleine Rangeleien gibt es nun seit fast 120 Jahren keine große Zwietracht zwischen den beiden Gruppen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7977,7 +7977,7 @@ Onekaza II</DefaultText>
     </Entry>
     <Entry>
       <ID>3402</ID>
-      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die mit der Zeit Stichschaden verursachen und die Konzentration von jedem im Wirkungsbereich verringern.</DefaultText>
+      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die Schaden über Zeit verursachen und die Konzentration von allen im Wirkungsbereich verringern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8042,7 +8042,7 @@ Onekaza II</DefaultText>
     </Entry>
     <Entry>
       <ID>3415</ID>
-      <DefaultText>Feuert mehrere Geschosse aus reiner Energie auf das Ziel und fügt jedem Feind in der Nähe des Einschlags Wuchtschaden zu.</DefaultText>
+      <DefaultText>Feuert mehrere Geschosse aus reiner Energie auf das Ziel und fügt Feinden in der Nähe des Einschlags mit einer Schockwelle Wuchtschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16324,7 +16324,7 @@ Wir waren nicht sicher, was es war, das sie haben wollten, außer der Tatsache, 
 
 Wir waren nicht naiv – wir wussten so sicher, dass ihre Ankunft Veränderungen für das Todesfeuer bedeuten würde, wie wir wissen, dass Regen während der Zeit des Monsuns fällt. Die Schwierigkeiten begannen damit, dass wir überlegten, wie wir mit dem Einfluss der Vailianer umgehen würden, wie wir ihn eingrenzen könnten. Besser dass sie uns als Partner ansehen und nicht als einfache Ziele – so überlegte man im Palast seinerzeit. Wir konnten keinen Krieg mit ihnen riskieren, so versprengt wie unser Volk war, auch da wir keine Hoffnung hatten, einen solchen Krieg gewinnen zu können, egal über welche Macht unsere Wasserformer verfügen.
 
-Als Anführerin der Kahanga entschied Onekaza für uns. Sie erlaubte es den Vailianern, im Ankerplatz der Königin Wurzeln zu schlagen und mit begrenzten Bergbauaktivitäten im Archipel zu beginnen. Sie schlug vor, dass dies vielleicht den Handel erleichtern und die Spannungen zwischen unseren Völkern und den ihren lösen würden, aber in Wahrheit wollte sie meiner Meinung nur ein Auge auf sie haben. Ich kann ihren Blickpunkt verstehen, ihn aber nicht gutheißen, weil Onekaza die Wahrheit der Wurzeln vergass – dass sie die stillen, greifenden Hände der Bäume sind und dass ein einmal bestehender Baum nicht bewegt werden kann, ohne den Boden ringsherum zu zerstören.
+Als Anführerin der Kahanga entschied Onekaza für uns. Sie erlaubte es den Vailianern, im Ankerplatz der Königin Wurzeln zu schlagen und mit begrenzten Bergbauaktivitäten im Archipel zu beginnen. Sie schlug vor, dass dies vielleicht den Handel erleichtern und die Spannungen zwischen unseren Völkern und den ihren lösen würden, aber in Wahrheit wollte sie meiner Meinung nur ein Auge auf sie haben. Ich kann ihren Blickpunkt verstehen, ihn aber nicht gutheißen, weil Onekaza die Wahrheit der Wurzeln vergaß – dass sie die stillen, greifenden Hände der Bäume sind und dass ein einmal bestehender Baum nicht bewegt werden kann, ohne den Boden ringsherum zu zerstören.
 
 Aber es wurde umgesetzt. Die Vailianer fühlten sich bald wie zu Hause und der daraus resultierende Konflikt darüber, wer welche Rechte auf welche Inseln, welche Adra-Adern, welche Handelsrouten hat, führte nur dazu, dass die Huana weiter zerfielen.
 
@@ -16932,9 +16932,9 @@ Wenn Sie Fragen oder Beschwerden zu meinem Dienst haben, wenden Sie sich bitte d
     </Entry>
     <Entry>
       <ID>5494</ID>
-      <DefaultText>The origin of the Watcher's Blade is a mystery. No smith has ever claimed responsibility for its forging. Its metal is as smoky and indistinct as the In-Between, with no marking to suggest it has ever felt the kiss of a hammer – leaving many to believe that it assumed this form naturally.
+      <DefaultText>Die Herkunft der Klinge des Wächters ist ein Mysterium. Kein Schmied hat sich je damit gerühmt, diese Waffe geschmiedet zu haben. Ihr Metall ist so rauchgrau und undefinierbar wie das Zwischenreich und nicht die geringste Spur deutet darauf hin, dass sie je von einem Hammer berührt wurde, weshalb viele glauben, das sie diese Form auf natürlich Weise angenommen hat.
 
-Artfully enfused with soul essence, the blade glows in a kinship response to those on familiar terms with death. Its uncanny balance is linked to its ethereal nature, as the blade never seems wholly present in tangible reality. At times it feels like less of a sword than an ideal expression of one, which is why many have mistaken its true nature. Compounding its mystery, ancient war epics have described mauls or daggers with the elusive properties of the Watcher's Blade. This has led some mystics to conclude that the sword is merely a sword in its current and unknowably long „lifetime,“ and that it could be something else entirely on the next turning of the Wheel.</DefaultText>
+Die Klinge wurde kunstvoll mit Seelenessenz versetzt und leuchtet in Verbundenheit mit jenen, die mit dem Tod auf Du und Du stehen. Ihre unheimliche Balance hängt mit ihrem ätherischen Wesen zusammen, da sie nie vollständig in der Realität greifbar zu sein scheint. Gelegentlich fühlt sie sich weniger an wie ein Schwert als vielmehr wie die Idealvorstellung eines solchen, weshalb viele ihr wahres Wesen missverstanden haben. Verstärkt wird das Geheimnis noch durch die Tatsache, dass uralte Kriegsepen von Kriegshämmern und Dolchen berichten, die angeblich dieselben einzigartigen Eigenschaften hatten wie die Klinge des Wächters. Dies ließ manche Mystiker vermuten, dass das Schwert nur in seinem derzeitigen „Leben“, wie lange es auch dauern mag, ein Schwert ist, und dass es bei der nächsten Drehung des Rads wieder etwas völlig anderes sein könnte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16949,9 +16949,43 @@ Artfully enfused with soul essence, the blade glows in a kinship response to tho
     </Entry>
     <Entry>
       <ID>5509</ID>
-      <DefaultText>Critics of soul manipulation disparage animancy as a reckless perversion of the natural order. While these arguments are often steeped in political animus, every once in a while they hit the mark. 
+      <DefaultText>Critics of soul manipulation disparage animancy as a reckless perversion of the natural order. While these arguments are often steeped in political animus, every once in a while they hit the mark.
 Such is the case with the Essence Interrupter, the product of an ambitious but unorthodox outcast of the Brackenbury Sanitarium. The inventor hypothesized a surefire method to Awaken kith souls by applying an instant jolt of spiritual stimulus to the cranium. Once he modified a hunting bow to unleash projectiles of charged adra and copper, he set up a market stall in Spirento where he promised compensation to anyone who participated in his study. 
 After calmly shooting arrows between the eyes of two test subjects, the animancer was taken into custody. Authorities never recovered his bow, which to this day reflects something of its inventor's unethical eccentricity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5538</ID>
+      <DefaultText>Zandethus' Dragon-Scaled Grimoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5539</ID>
+      <DefaultText>Jernaugh's Careful Calamities</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5540</ID>
+      <DefaultText>Amra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5541</ID>
+      <DefaultText>[TEMP] Amra item description.
+
+„This beast of a heavy axe was found amongst lost pirates found in the Deadfire Archipelago, that claimed to have come from another dimension when they fell through a maelstrom during a sea warfare. It was clear those men didn't have the strength required to manage such a brute weapon, so when people asked them and pointed to the axe, all they said war „Amra, Amra“.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5546</ID>
+      <DefaultText>Karabörü</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5547</ID>
+      <DefaultText>[TEMP] Karabörü item description.
+
+„Made for some long forgotten warlord, Karabörü was designed with their powerful frame in mind. The slight reverse curve of its yatagan shape makes it a unique and noticeable weapon. It has no crossguard underlining its aggressive nature. Then the firest wielder eventually fell against some nightmarish beast, the sword was retired as an ornament, cowering visitors underneath its heft. As their fleeting dynasty fell to ruin, the sword was lost, making its way around Eora in the hands of many vanguard combatants, used against cavalry and even for execution. It has a savage history, the sole reminder of all its master's fell deeds.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

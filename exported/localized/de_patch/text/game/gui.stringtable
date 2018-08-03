@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4432</EntryCount>
+  <EntryCount>4438</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -31,82 +31,82 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Fonivèrno</DefaultText>
+      <DefaultText>Tiefer Winter (Fonivèrno)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Tarivèrno</DefaultText>
+      <DefaultText>Spätwinter (Tarivèrno)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Préprima</DefaultText>
+      <DefaultText>Frühlingsbeginn (Préprima)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Majprima</DefaultText>
+      <DefaultText>Mittfrühling (Majprima)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Fonprima</DefaultText>
+      <DefaultText>Tiefer Frühling (Fonprima)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Tarprima</DefaultText>
+      <DefaultText>Spätfrühling (Tarprima)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Préëstu</DefaultText>
+      <DefaultText>Frühsommer (Préëstu)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Majestu</DefaultText>
+      <DefaultText>Mittsommer (Majestu)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Fonestu</DefaultText>
+      <DefaultText>Tiefer Sommer (Fonestu)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Tarestu</DefaultText>
+      <DefaultText>Spätsommer (Tarestu)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Préauton</DefaultText>
+      <DefaultText>Herbstbeginn (Préauton)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Majauton</DefaultText>
+      <DefaultText>Mittherbst (Majauton)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Fonauton</DefaultText>
+      <DefaultText>Tiefer Herbst (Fonauton)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Tarauton</DefaultText>
+      <DefaultText>Spätherbst (Tarauton)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Préïvèrno</DefaultText>
+      <DefaultText>Winterbeginn (Préïvèrno)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Majivèrno</DefaultText>
+      <DefaultText>Mittwinter (Majivèrno)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,7 +516,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Spähen</DefaultText>
+      <DefaultText>Heimlichkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -631,12 +631,12 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>{0} erhält {1} Ausdauer zurück.</DefaultText>
+      <DefaultText>{0} erhält {1} Gesundheit zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>{2} heilt {0} um {1} Ausdauer.</DefaultText>
+      <DefaultText>{2} heilt {0} für {1} Gesundheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -661,7 +661,7 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Im Expertenmodus werden einige Hilfefunktionen des Spiels deaktiviert. Spieler, die während des Spiels auf ihre eigenen Fähigkeiten und Intuition vertrauen wollen, sollten den Expertenmodus spielen. Diese Option ist ausgewählt, wenn du ein neues Spiel startest. Sie kann im Spiel nicht aktiviert werden und nach der Deaktivierung im selben Spiel nicht wieder reaktiviert werden.</DefaultText>
+      <DefaultText>Im Expertenmodus werden einige Hilfefunktionen des Spiels deaktiviert. Spieler, die während des Spiels auf ihre eigenen Fähigkeiten und Intuition vertrauen wollen, sollten den Expertenmodus spielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -751,7 +751,8 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>In der Schwierigkeitsstufe „Pfad der Verdammten“ erhalten Feinde einen Bonus auf die meisten Werte, und in Gefechten erscheinen mehr Feinde. Diese Option kann während des laufenden Spiels nicht angepasst werden. Sie ist nur für Spieler, die große Herausforderungen schätzen!</DefaultText>
+      <DefaultText>In der Schwierigkeitsstufe &lt;b&gt;Pfad der Verdammten&lt;/b&gt; tritt die größte Anzahl an Feinden gegen den Spieler an, Feinde sind stärker und es werden die verzwicktesten AI-Taktiken eingesetzt.
+&lt;b&gt;Achtung: diese Option ist nur für Spieler gedacht, die die schwierigsten Herausforderungen zu schätzen wissen!&lt;/b&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -801,17 +802,17 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Die Schwierigkeitsstufe „Einfach“ erfordert minimales Mikromanagement und verzeiht Fehler im Gefecht ohne Umstände. SEHR EMPFOHLEN für Spieler, die zum ersten Mal oder seit langer Zeit wieder gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe &lt;b&gt;Einfach&lt;/b&gt; erfordert minimales Mikromanagement und verzeiht Fehler im Gefecht ohne Umstände. SEHR EMPFOHLEN für Spieler, die zum ersten Mal oder seit langer Zeit wieder gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Die Schwierigkeitsstufe „Normal“ erfordert Strategie und Effizienz, doch sie verzeiht wenige Fehler im Gefecht. NICHT ZU EMPFEHLEN für Spieler, die zum ersten Mal gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe &lt;b&gt;Normal&lt;/b&gt; erfordert Strategie und Effizienz, doch sie verzeiht wenige Fehler im Gefecht. NICHT ZU EMPFEHLEN für Spieler, die zum ersten Mal gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>Die Schwierigkeitsstufe „Schwer“ ist für erfahrene Spieler geeignet, die nach einer Herausforderung suchen.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe &lt;b&gt;Schwer&lt;/b&gt; ist für Spieler gedacht, die eine Herausforderung mit mehr Feinden mit aggressiveren Taktiken suchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -916,7 +917,7 @@
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>Niedrige Ausdauer</DefaultText>
+      <DefaultText>Niedrige Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -981,7 +982,7 @@
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>Automatische Pause, wenn die Ausdauer eines Gruppenmitglieds unter 25% fällt.</DefaultText>
+      <DefaultText>Automatische Pause, wenn die Gesundheit eines Gruppenmitglieds unter 25% fällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1061,7 +1062,7 @@
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>Dieser Slot kann nicht von diesem Gegenstand belegt werden.</DefaultText>
+      <DefaultText>Dieser Gegenstand kann nicht entfernt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1071,7 +1072,7 @@
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>Du musst kampieren oder in die Stadt zurückkehren, um Zugang zu diesem Slot zu erhalten.</DefaultText>
+      <DefaultText>Du musst rasten oder in die Stadt zurückkehren, um Zugang zu diesem Slot zu erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1116,7 +1117,7 @@
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>SR</DefaultText>
+      <DefaultText>RW</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2271,7 +2272,7 @@
     </Entry>
     <Entry>
       <ID>461</ID>
-      <DefaultText>Zauberwirken geblockt</DefaultText>
+      <DefaultText>Zauberwirken unterbunden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2587,7 +2588,7 @@ In jeder Kultur in ganz Eora gibt es Sänger. Viele Historiker halten Sänger al
     </Entry>
     <Entry>
       <ID>507</ID>
-      <DefaultText>Das Reich Aedyr ist derzeit die größte und stärkste Kraft in diesem Teil der Welt. Es ist um den Äquator herum zentriert und hat ein tropisches Klima. Obgleich das Reich Kolonien in unzähligen Gegenden der Welt hat, bildet Groß-Aedyr seinen Kern und beherbergt die Mehrzahl seiner Menschen- und Elfennationen.</DefaultText>
+      <DefaultText>Das Reich Aedyr ist eines der größten alten Reiche des Westens. Es liegt am Äquator und hat ein tropisches Klima. Das Herz dieses Reichs bildet die Nation Aedyr, in der die meisten seiner menschlichen und elfischen Bewohner leben. Aedyr war einst ein mächtiges Kolonialreich, der Verlust von Readceras und des Dyrwalds hat seine Macht jedoch beschnitten. Aedyrer sind im Östlichen Abschnitt häufig anzutreffen, im Todesfeuer-Archipel jedoch selten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2599,17 +2600,17 @@ Legenden der Huana erzählen von einer verheerenden Überschwemmung vor Tausende
     </Entry>
     <Entry>
       <ID>509</ID>
-      <DefaultText>Nordöstlich von Eir Glanfath liegen die Ixamitl-Ebenen, eine weite, ausgedehnte Fläche fruchtbarer Savannen, die extensiv von Menschen und orlanischen Einwohnern bewirtschaftet wird. Die Kultur der Ixamitl ist eine der ältesten der Welt, wenn auch eine der am wenigsten imperialistischen, da sie sich in den letzten Tausend Jahren nur wenig verbreitete.</DefaultText>
+      <DefaultText>Nördlich von Readceras im Östlichen Abschnitt liegen die Ixamitl-Ebenen, eine weite Fläche fruchtbarer Savannen, die extensiv vom Savannenvolk und ihren orlanischen Einwohnern bewirtschaftet werden. Die Ixamitl-Kultur ist eine der ältesten der Welt, jedoch auch eine der am wenigsten imperialistischen und hat sich in den letzten Tausenden von Jahren kaum ausgedehnt. Die Ixamitl-Gesellschaft legt großen Wert auf Wissen und Forschung und verehrt ihre Philosophen und Literaten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>510</ID>
-      <DefaultText>Einst das Kronjuwel der südlichen Seen ist Alt-Vailia nun der zerbröckelte Rest eines Reichs von sich bekriegenden Händlernationen. Während man unter ihnen viele Menschen und Zwerge findet, bilden die Länder in Alt-Vailia noch immer Streitmächte, mit denen man rechnen muss, und sie sind stolz auf ihr reiches, kulturelles Erbe.</DefaultText>
+      <DefaultText>Alt-Vailia war einst das Kronjuwel der südlichen Meere, doch heute ist davon nur mehr der zerbröckelte Rest eines Reiches von sich bekriegenden Händlernationen übrig. Dennoch sind die von zahlreichen Menschen und Zwergen bewohnten Länder von Alt-Vailia immer noch eine nicht zu unterschätzende Macht und stolz auf ihr reiches kulturelles Erbe. Als südlichstes der alten Reiche erlitt Alt-Vailia ein ähnliches Schicksal wie seine nördlichen Nachbarn, die Aedyrer, indem es mit den Vailianischen Republiken seine reichste Kolonie verlor. Viele Alt-Vailianer im Todesfeuer haben sich der Piratenkoalition der Príncipi sen Patrena angeschlossen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>511</ID>
-      <DefaultText>Die mächtige Seemacht Rauatai wird von den Küsten-Aumauaern beherrscht und von den Ranga Nui regiert. Derzeit ist es unter das Wohlhabendste der Alten Reiche. Rauatai erweiterte jüngst seinen Einfluss aggressiv ins Todesfeuer-Archipel um natürliche Ressourcen, die in ihrer oftmals von heftigen Stürmen geplagten Heimat rar sind, zu sichern. Obgleich man Menschen, Orlaner und Zwerge in Rauatai antreffen kann, sind die meisten Kaufleute oder Nachfahren von den Bewohnern alter Königreiche, welche vor Jahrhunderten von Rauatai erobert wurden. 
+      <DefaultText>Das mächtige Seekönigreich Rauatai wird von den Küsten-Aumauanern beherrscht und von einem Ranga Nui regiert. Rauatai ist derzeit das wohlhabendste der alten Reiche und hat sich aggressiv im Todesfeuer ausgebreitet, um sich natürliche Ressourcen zu sichern, die im eigenen sturmgepeitschten Land so selten sind. Obwohl in Rauatai auch Menschen, Zwerge und Orlaner leben, sind die meisten von ihnen Händler oder Nachfahren der Bewohner jener alten Königreiche, die Rauatai eroberte, als es vor Jahrhunderten die Macht an sich riss. 
 
 Legenden zufolge verliesen die Rauatai, aufgrund einer schrecklichen Katastrophe, das Todesfeuer-Archipel und siedelten um in ihre Ländereien, jedoch gingen alle Details jener Geschehnisse im Nebel der Zeit und der Vorstellungskraft von Geschichtenerzählern verloren.</DefaultText>
       <FemaleText />
@@ -3901,22 +3902,22 @@ Legenden zufolge verliesen die Rauatai, aufgrund einer schrecklichen Katastrophe
     </Entry>
     <Entry>
       <ID>852</ID>
-      <DefaultText>Spähen ein/aus</DefaultText>
+      <DefaultText>Heimlichkeit ein/aus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>853</ID>
-      <DefaultText>Spähen ein</DefaultText>
+      <DefaultText>Heimlichkeit ein</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>854</ID>
-      <DefaultText>Spähen aus</DefaultText>
+      <DefaultText>Heimlichkeit aus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>855</ID>
-      <DefaultText>Lager</DefaultText>
+      <DefaultText>Rasten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4016,7 +4017,7 @@ Legenden zufolge verliesen die Rauatai, aufgrund einer schrecklichen Katastrophe
     </Entry>
     <Entry>
       <ID>875</ID>
-      <DefaultText>Zauberbuch</DefaultText>
+      <DefaultText>Zauberbuch/Schmuckstück</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4981,12 +4982,12 @@ Legenden zufolge verliesen die Rauatai, aufgrund einer schrecklichen Katastrophe
     </Entry>
     <Entry>
       <ID>1112</ID>
-      <DefaultText>{0:Value} Ausdauer pro Sekunde</DefaultText>
+      <DefaultText>{0:Value} Gesundheitsregeneration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1113</ID>
-      <DefaultText>{0} Angriffsgeschwindigkeit</DefaultText>
+      <DefaultText>{0} Aktionsgeschwindigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5211,7 +5212,7 @@ Legenden zufolge verliesen die Rauatai, aufgrund einer schrecklichen Katastrophe
     </Entry>
     <Entry>
       <ID>1161</ID>
-      <DefaultText>{0} Gesundheitsregeneration</DefaultText>
+      <DefaultText>{0:Value:PercentBonus} Gesundheitsregeneration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5441,7 +5442,7 @@ Legenden zufolge verliesen die Rauatai, aufgrund einer schrecklichen Katastrophe
     </Entry>
     <Entry>
       <ID>1222</ID>
-      <DefaultText>Tod verhindern</DefaultText>
+      <DefaultText>Kann nicht sterben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5616,7 +5617,7 @@ Legenden zufolge verliesen die Rauatai, aufgrund einer schrecklichen Katastrophe
     </Entry>
     <Entry>
       <ID>1266</ID>
-      <DefaultText>{0} von {1} Schaden zu Gesundheit umgewandelt</DefaultText>
+      <DefaultText>{0} von {1} Schaden in Gesundheit umgewandelt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6021,7 +6022,7 @@ Legenden zufolge verliesen die Rauatai, aufgrund einer schrecklichen Katastrophe
     </Entry>
     <Entry>
       <ID>1349</ID>
-      <DefaultText>Du kannst während des Kampfes nicht kampieren.</DefaultText>
+      <DefaultText>Du kannst während des Kampfes nicht rasten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6031,17 +6032,17 @@ Legenden zufolge verliesen die Rauatai, aufgrund einer schrecklichen Katastrophe
     </Entry>
     <Entry>
       <ID>1351</ID>
-      <DefaultText>In diesem Gebiet ist das Kampieren nicht erlaubt.</DefaultText>
+      <DefaultText>In diesem Gebiet ist das Rasten nicht erlaubt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1352</ID>
-      <DefaultText>Du musst deine Gruppe erst versammeln, bevor du kampieren kannst.</DefaultText>
+      <DefaultText>Du musst deine Gruppe versammeln, bevor du rasten kannst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1353</ID>
-      <DefaultText>Du kannst nicht in Sichtweite von Feinden kampieren.</DefaultText>
+      <DefaultText>Du kannst nicht in Sichtweite von Feinden rasten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6211,13 +6212,13 @@ Legenden zufolge verliesen die Rauatai, aufgrund einer schrecklichen Katastrophe
     </Entry>
     <Entry>
       <ID>1396</ID>
-      <DefaultText>Durch Heimlichkeit können Charaktere aller Klassen versuchen, nicht gesehen und gehört zu werden. Heimlichkeit wird automatisch aktiviert, wenn der Charakter sich im Spähmodus befindet. Je höher die Fähigkeit des Charakters, desto näher kann er sich an Feinde heranbewegen, bevor er entdeckt wird.</DefaultText>
+      <DefaultText>Durch Heimlichkeit können Charaktere aller Klassen versuchen, nicht gesehen und gehört zu werden. Heimlichkeit wird automatisch aktiviert, wenn der Charakter sich im Spähmodus befindet. Je höher die Fähigkeit des Charakters, desto näher kann er sich an Feinde heranschleichen, bevor er entdeckt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1397</ID>
-      <DefaultText>Die Abenteurerei ist harte Arbeit. Neben den Gefahren des tödlichen Kampfs müssen Abenteurer auch Mauern erklimmen, Flüsse überqueren und Gruben überspringen.
-Einmal pro Begegnung können Charaktere mit Athletik die Fähigkeit Neue Kraft einsetzen, um aufgebrauchte Ausdauer zu regenerieren. Je höher der Athletik-Wert, desto stärker die Wirkung von Neue Kraft.
+      <DefaultText>Das Abenteurleben bereitet viele mühen. Neben den Gefahren des tödlichen Kampfs müssen Abenteurer auch Mauern erklimmen, Flüsse überqueren und Gruben überspringen.
+Einmal pro Begegnung können Charaktere mit Athletik die Fähigkeit Neue Kraft einsetzen, um aufgebrauchte Gesundheit zu regenerieren. Je höher der Athletik-Wert, desto stärker die Wirkung von Neue Kraft.
 In Dialogen und geskripteten Interaktionen wird die Athletik für körperliche Aktivitäten wie Klettern, Schwimmen und Springen verwendet.</DefaultText>
       <FemaleText />
     </Entry>
@@ -6443,7 +6444,7 @@ In Dialogen und geskripteten Interaktionen wird die Athletik für körperliche A
     </Entry>
     <Entry>
       <ID>1442</ID>
-      <DefaultText>Du musst mit deinem Schiff segeln, um Gruppenmitglieder rekrutieren oder entlassen zu können.</DefaultText>
+      <DefaultText>Du musst auf deinem Schiff segeln, um Gruppenmitglieder rekrutieren oder entlassen zu können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6710,7 +6711,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1498</ID>
-      <DefaultText>Ausdauer</DefaultText>
+      <DefaultText>Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7120,7 +7121,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1585</ID>
-      <DefaultText>{0} Rüstung-Geschwindigkeitsmalus</DefaultText>
+      <DefaultText>{0} Erholungsmalus durch Rüstung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8222,7 +8223,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1810</ID>
-      <DefaultText>Durch Fähigkeiten kann dein Charakter spezialisierte Handlungen ausführen – beispielsweise spähen, Fallen entdecken, Schlösser knacken oder Schriftrollen lesen. Außerdem können sie dazu dienen, Hindernisse in Dialogen und geskripteten Interaktionen zu überwinden. Fähigkeiten verbessern sich, wenn dein Charakter in der Stufe aufsteigt – Gegenstände und andere Boni können Fähigkeiten jedoch auch verbessern.</DefaultText>
+      <DefaultText>Durch Fähigkeiten kann dein Charakter spezielle Handlungen ausführen, wie beispielsweise spähen, Fallen entdecken, Schlösser knacken oder Schriftrollen lesen. Außerdem können sie dazu dienen, Hindernisse in Dialogen und geskripteten Interaktionen zu überwinden. Fähigkeiten verbessern sich, wenn dein Charakter in der Stufe aufsteigt, doch auch Gegenstände und andere Boni können Fähigkeiten verbessern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8542,12 +8543,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1874</ID>
-      <DefaultText>Ausdauer auf Porträts anzeigen</DefaultText>
+      <DefaultText>Gesundheit auf Porträts anzeigen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1875</ID>
-      <DefaultText>Zeigt auf den Porträts von Gruppenmitgliedern die Ausdauer als Zahl an.</DefaultText>
+      <DefaultText>Zeigt auf den Porträts von Gruppenmitgliedern deren Gesundheit als Zahl an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8802,12 +8803,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1926</ID>
-      <DefaultText>Gruppengesundheit als Zahl anzeigen</DefaultText>
+      <DefaultText>Gesundheit der Gruppe als Zahl anzeigen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1927</ID>
-      <DefaultText>Zeigt den aktuellen und maximalen Gesundheitswert jedes Gruppenmitglieds als Zahl auf seinem Porträt an.</DefaultText>
+      <DefaultText>Zeigt die aktuelle und maximale Gesundheit jedes Gruppenmitglieds als Zahl auf seinem Porträt an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9798,7 +9799,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2128</ID>
-      <DefaultText>{0} bei Treffer</DefaultText>
+      <DefaultText>{0} beim erzielten Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9958,7 +9959,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2160</ID>
-      <DefaultText>Der Charakter greift nur an, wenn er von einem Feind angriffsgebunden wird. Wenn dieser Feind besiegt ist, sucht er sich neue Feinde, die er angreift.</DefaultText>
+      <DefaultText>Der Charakter wird sich nicht bewegen oder angreifen, bis er von einem Feind angegriffen wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10228,7 +10229,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2217</ID>
-      <DefaultText>{0} bei erlittenem Treffer oder Kritischem Treffer</DefaultText>
+      <DefaultText>{0} bei erlittenem Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10308,7 +10309,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2233</ID>
-      <DefaultText>Spähen</DefaultText>
+      <DefaultText>Heimlichkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10368,7 +10369,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2248</ID>
-      <DefaultText>Märchenstunde</DefaultText>
+      <DefaultText>Geschichte</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10378,7 +10379,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2250</ID>
-      <DefaultText>Der &lt;b&gt;Märchenstunde-Modus&lt;/b&gt; ist für Spieler, die mehr daran interessiert sind, die Welt zu erforschen und die Geschichte voranzutreiben, als sich im Kampf zu messen. Wenn der Märchenstunde-Modus aktiv ist, ist die feindliche Zusammensetzung im Kampf identisch wie im Schwierigkeitsgrad Normal. Die Spielmechaniken sind aber zugunsten des Spielers verschoben.</DefaultText>
+      <DefaultText>Der Modus &lt;b&gt;Geschichte&lt;/b&gt; ist für Spieler, die mehr daran interessiert sind, die Welt zu erforschen und die Geschichte voranzutreiben, als sich im Kampf zu messen. Wenn der Märchenstunde-Modus aktiv ist, ist die feindliche Zusammensetzung im Kampf identisch wie im Schwierigkeitsgrad Normal. Die Spielmechaniken sind aber zugunsten des Spielers verschoben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10758,7 +10759,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2326</ID>
-      <DefaultText>{0} Ausdauer vom Wirker übertragen</DefaultText>
+      <DefaultText>{0} Gesundheit vom Wirker übertragen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -19457,7 +19458,7 @@ Möchtest du die Telemetrie jetzt aktivieren?</DefaultText>
     </Entry>
     <Entry>
       <ID>4146</ID>
-      <DefaultText>agricima</DefaultText>
+      <DefaultText>agracima</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22472,7 +22473,7 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4934</ID>
-      <DefaultText>Optional Dreifache Krone</DefaultText>
+      <DefaultText>Optionale Dreifache Krone</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22502,17 +22503,17 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4941</ID>
-      <DefaultText>Magran's Challenge</DefaultText>
+      <DefaultText>Magrans Herausforderung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4942</ID>
-      <DefaultText>Berath's Challenge</DefaultText>
+      <DefaultText>Beraths Herausforderung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4943</ID>
-      <DefaultText>Cannot add party members in {0}</DefaultText>
+      <DefaultText>Kann keine Gruppenmitglieder in {0} hinzufügen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22542,17 +22543,17 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4951</ID>
-      <DefaultText>Cannot recruit companions, sidekicks, or adventurers</DefaultText>
+      <DefaultText>Kann keine Gefährten, Helfer oder Abenteurer hinzufügen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4952</ID>
-      <DefaultText>Any party member Knocked Out for 6 seconds is Killed</DefaultText>
+      <DefaultText>Ein für 6 Sekunden ohnmächtiges Gruppenmitglied wird getötet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4953</ID>
-      <DefaultText>Kann dem Kampf nicht entfliehen</DefaultText>
+      <DefaultText>Kann nicht aus dem Kampf fliehen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22562,7 +22563,7 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4956</ID>
-      <DefaultText>Magran's Fires</DefaultText>
+      <DefaultText>Magrans Feuer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22582,12 +22583,12 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4962</ID>
-      <DefaultText>Disables cheats</DefaultText>
+      <DefaultText>Deaktiviert Cheats</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4963</ID>
-      <DefaultText>Disables mods</DefaultText>
+      <DefaultText>Deaktiviert Mods</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22602,27 +22603,61 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4966</ID>
-      <DefaultText />
+      <DefaultText>Von {0} abmelden?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4967</ID>
-      <DefaultText />
+      <DefaultText>Steam Workshop</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4969</ID>
-      <DefaultText />
+      <DefaultText>Publish this mod to the Steam Workshop?
+
+By publishing this mod, you agree to the Steam Workshop &lt;link="https://steamcommunity.com/sharedfiles/workshoplegalagreement"&gt;terms of service&lt;/link&gt;.
+
+You will have a chance to review the mod's Workshop page before making it visible to the public.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4970</ID>
-      <DefaultText />
+      <DefaultText>Zum Steam Workshop hochladen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4971</ID>
+      <DefaultText>Mod aktualisieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4972</ID>
+      <DefaultText>Briefly describe the changes made to your mod since the last version.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4973</ID>
+      <DefaultText>All files in this mod are my own creation, or I have permission to use them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4975</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4976</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4977</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4978</ID>
+      <DefaultText>Zutat</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>532</EntryCount>
+  <EntryCount>538</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2616,7 +2616,7 @@
     </Entry>
     <Entry>
       <ID>596</ID>
-      <DefaultText>{0:value:percent} chance to gain {0:extravalue} Zeal on scoring kill</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei Tötung {0:extravalue} Eifer zu erhalten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2662,6 +2662,36 @@
     <Entry>
       <ID>616</ID>
       <DefaultText>Critical Hits with this weapon transfer experimental soul energy into the target, morphing them into a sentient creature when the target dies (Creatures now live twice as long)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>Chance to Terrify when attacked with Melee Weapons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>{0:value:percent} Chance on scoring a kill with this weapon to &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Frenzy&lt;/link&gt; the wielder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>{0:value:percent} Chance on scoring a kill with this weapon to &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Frenzy&lt;/link&gt; the wielder (Without a Deflection penalty)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>{0:value:percent} Chance on receiving damage to &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Frenzy&lt;/link&gt; the wielder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>If the wielder's Might is {0:value:straight} or above, Critical Hits with this weapon cause {0:extravalue:percent} of base weapon damage in an area around the wielder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>If the wielder's Might is {0:value:straight} or above, Critical Hits with this weapon cause {0:extravalue:percent} of base weapon damage in an area around the wielder (Enemies under {0:triggervalue:straight} Health are killed instantly)</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
