@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>889</EntryCount>
+  <EntryCount>890</EntryCount>
   <Entries>
     <Entry>
       <ID>43</ID>
@@ -2721,7 +2721,7 @@ Das Schloss fiel dir quasi in den Schoß, nachdem du seinen vorherigen Besitzer,
     </Entry>
     <Entry>
       <ID>628</ID>
-      <DefaultText>Das Reich Aedyr ist derzeit die größte und stärkste Kraft in diesem Teil der Welt. Es ist um den Äquator herum zentriert und hat ein tropisches Klima. Obgleich das Reich Kolonien in unzähligen Gegenden der Welt hat, bildet Groß-Aedyr seinen Kern und beherbergt die Mehrzahl seiner Menschen- und Elfennationen.</DefaultText>
+      <DefaultText>Das Reich Aedyr ist eines der größten alten Reiche des Westens. Es liegt am Äquator und hat ein tropisches Klima. Das Herz dieses Reichs bildet die Nation Aedyr, in der die meisten seiner menschlichen und elfischen Bewohner leben. Aedyr war einst ein mächtiges Kolonialreich, der Verlust von Readceras und des Dyrwalds hat seine Macht jedoch beschnitten. Aedyrer sind im Östlichen Abschnitt häufig anzutreffen, im Todesfeuer-Archipel jedoch selten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2733,17 +2733,17 @@ Legenden der Huana erzählen von einer verheerenden Überschwemmung vor Tausende
     </Entry>
     <Entry>
       <ID>630</ID>
-      <DefaultText>Nordöstlich von Eir Glanfath liegen die Ixamitl-Ebenen, eine weite, ausgedehnte Fläche fruchtbarer Savannen, die extensiv von Menschen und orlanischen Einwohnern bewirtschaftet wird. Die Kultur der Ixamitl ist eine der ältesten der Welt, wenn auch eine der am wenigsten imperialistischen, da sie sich in den letzten Tausend Jahren nur wenig verbreitete.</DefaultText>
+      <DefaultText>Nördlich von Readceras im Östlichen Abschnitt liegen die Ixamitl-Ebenen, eine weite Fläche fruchtbarer Savannen, die extensiv vom Savannenvolk und ihren orlanischen Einwohnern bewirtschaftet werden. Die Ixamitl-Kultur ist eine der ältesten der Welt, jedoch auch eine der am wenigsten imperialistischen und hat sich in den letzten Tausenden von Jahren kaum ausgedehnt. Die Ixamitl-Gesellschaft legt großen Wert auf Wissen und Forschung und verehrt ihre Philosophen und Literaten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>631</ID>
-      <DefaultText>Einst das Kronjuwel der südlichen Seen ist Alt-Vailia nun der zerbröckelte Rest eines Reichs von sich bekriegenden Händlernationen. Während man unter ihnen viele Menschen und Zwerge findet, bilden die Länder in Alt-Vailia noch immer Streitmächte, mit denen man rechnen muss, und sie sind stolz auf ihr reiches, kulturelles Erbe.</DefaultText>
+      <DefaultText>Alt-Vailia war einst das Kronjuwel der südlichen Meere, doch heute ist davon nur mehr der zerbröckelte Rest eines Reiches von sich bekriegenden Händlernationen übrig. Dennoch sind die von zahlreichen Menschen und Zwergen bewohnten Länder von Alt-Vailia immer noch eine nicht zu unterschätzende Macht und stolz auf ihr reiches kulturelles Erbe. Als südlichstes der alten Reiche erlitt Alt-Vailia ein ähnliches Schicksal wie seine nördlichen Nachbarn, die Aedyrer, indem es mit den Vailianischen Republiken seine reichste Kolonie verlor. Viele Alt-Vailianer im Todesfeuer haben sich der Piratenkoalition der Príncipi sen Patrena angeschlossen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>632</ID>
-      <DefaultText>Die mächtige Seemacht Rauatai wird von den Küsten-Aumauaern beherrscht und von den Ranga Nui regiert. Derzeit ist es unter das Wohlhabendste der Alten Reiche. Rauatai erweiterte jüngst seinen Einfluss aggressiv ins Todesfeuer-Archipel um natürliche Ressourcen, die in ihrer oftmals von heftigen Stürmen geplagten Heimat rar sind, zu sichern. Obgleich man Menschen, Orlaner und Zwerge in Rauatai antreffen kann, sind die meisten Kaufleute oder Nachfahren von den Bewohnern alter Königreiche, welche vor Jahrhunderten von Rauatai erobert wurden.
+      <DefaultText>Das mächtige Seekönigreich Rauatai wird von den Küsten-Aumauanern beherrscht und von einem Ranga Nui regiert. Rauatai ist derzeit das wohlhabendste der alten Reiche und hat sich aggressiv im Todesfeuer ausgebreitet, um sich natürliche Ressourcen zu sichern, die im eigenen sturmgepeitschten Land so selten sind. Obwohl in Rauatai auch Menschen, Zwerge und Orlaner leben, sind die meisten von ihnen Händler oder Nachfahren der Bewohner jener alten Königreiche, die Rauatai eroberte, als es vor Jahrhunderten die Macht an sich riss.
 
 Legenden zufolge verliesen die Rauatai, aufgrund einer schrecklichen Katastrophe, das Todesfeuer-Archipel und siedelten um in ihre Ländereien, jedoch gingen alle Details jener Geschehnisse im Nebel der Zeit und der Vorstellungskraft von Geschichtenerzählern verloren.</DefaultText>
       <FemaleText />
@@ -3642,9 +3642,9 @@ Dient außerdem als Bezeichnung für Rauataianer, die in Übersee ihr Glück suc
     </Entry>
     <Entry>
       <ID>801</ID>
-      <DefaultText>Ein Konter ist eine Fähigkeit oder ein Effekt, der einen anderen Effekt entfernt oder ihm gegenüber eine Immunität verleiht. Es gibt zwei Arten von Kontern: Inspirationen und Schlüsselworte.
+      <DefaultText>Ein Konter ist eine Fähigkeit oder ein Effekt, der eine andere Kategorie von Effekten entfernt oder verhindert. Es gibt zwei Arten von Kontern: Inspirationen und Schlüsselworte.
 
-Inspirationen werden anhand von Attributen gruppiert (z. B. Gewandtheit, Wahrnehmung) und wirken automatisch den entsprechenden Attributen zugehörigen Wirkungen entgegen.</DefaultText>
+Inspirationen werden nach Attributen gruppiert (z. B. Gewandtheit, Wahrnehmung) und wirken automatisch den diesen Attributen zugehörigen negativen Wirkungen entgegen. Wirkungen können auf dieselbe Weise eingesetzt werden, um Inspirationen zu entfernen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4707,7 +4707,7 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     </Entry>
     <Entry>
       <ID>1043</ID>
-      <DefaultText>Die offizielle Bezeichnug für Bergzwerge. Abgeleitet vom vailianischen Wort „aptapolare“: „Ziegenmenschen“.</DefaultText>
+      <DefaultText>Die offizielle Bezeichnung für Bergzwerge. Abgeleitet vom vailianischen Wort „aptapolare“: „Ziegenvolk“.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4717,7 +4717,7 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     </Entry>
     <Entry>
       <ID>1045</ID>
-      <DefaultText>Die offizielle Bezeichnung für Nordzwerge. Dieser Enutanik Ausdruk meint „Menschen der Tundra“.</DefaultText>
+      <DefaultText>Die offizielle Bezeichnung für boreale Zwerge. Der Begriff bedeutet in der Sprache der Enutanik so viel wie „Volk der Tundra“.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4727,7 +4727,7 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     </Entry>
     <Entry>
       <ID>1047</ID>
-      <DefaultText>Die offizielle Bezeichnung für Waldelfen. Hylsprache für „geborgene Menschen“.</DefaultText>
+      <DefaultText>Die offizielle Bezeichnung für Waldelfen. Hylsprache für „Verstecktes Volk“.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4737,32 +4737,37 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     </Entry>
     <Entry>
       <ID>1051</ID>
-      <DefaultText>Hailing from the large island of Naasitaq in the far southern Deadfire, the boreal dwarves hunt and scavenge rocky shores and snowy forests. Like their cousins the mountain dwarves, they have an instinctive love of exploration that borders on wanderlust.</DefaultText>
+      <DefaultText>Diese borealen Zwerge stammen von der großen Insel Naasitaq weit im Süden des Todesfeuers und jagen und sammeln entlang der Felsküste und in den verschneiten Wäldern. Wie ihre Verwandten, die Bergzwerge, sind sie von Natur aus sehr entdeckungsfreudig und wanderlustig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1052</ID>
-      <DefaultText>Elves who migrated to the White that Wends millennia ago. They travel that frozen continent in clans that come into conflict with one another and the Enutanik for resources. Infamous for their devotion to the death god Rymrgand, they are thought by some to be his children.</DefaultText>
+      <DefaultText>Elfen, die vor Jahrtausenden in das Ewige Weiß gewandert sind. Sie durchstreifen diesen gefrorenen Kontinent in Clans, die immer wieder untereinander oder mit den Enutanik um Ressourcen streiten. Sie sind berüchtigt für ihre Anbetung des Todesgottes Rymrgand und werden von manchen für seine Kinder gehalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1053</ID>
-      <DefaultText>Die offizielle Bezeichnung für Bleichelfen. Ein Ordhóma Wort für „zwielicht Bewohner“.</DefaultText>
+      <DefaultText>Die offizielle Bezeichnung für die Bleichelfen. Dieser Begriff bedeutet in der Ordhjóma-Sprache „Dämmerungsbewohner“.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1054</ID>
-      <DefaultText>The language of the Glamfellen has diverged greatly from the original tongue of their ancestors who originally settled the White that Wends. Though it may share common roots with Aedyran, Ordhjóma is incomprehensible to those who haven't studied it.</DefaultText>
+      <DefaultText>Die Glamfellen-Sprache weicht stark von der Sprache ihrer Vorfahren ab, die sich ursprünglich im Ewigen Weiß niedergelassen haben. Obwohl Ordhjóma möglicherweise mit Aedyranisch verwandt ist, ist die Sprache für Uneingeweihte unverständlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1055</ID>
-      <DefaultText>Thaos ix Arkannon was a member of the Engwithan civilization and grandmaster of the Leaden Key, an organization devoted to keeping the secrets of the gods. Having allied with the goddess Woedica, Thaos possessed the power to recall the memories of all his past lives, making him one of history's most notorious schemers. He was killed by the Watcher of Caed Nua, bringing an end to the Dyrwood's Hollowborn Crisis. </DefaultText>
+      <DefaultText>Thaos ix Arkannon war gehörte der engwithanischen Zivilisation an und war ein Großmeister des bleiernen Schlüssels, einer Organisation, die sich dem Schutz der Geheimnisse der Götter widmet. Nachem sich Thaos mit der Göttin Woedica verbündet hatte, besaß er die Fähigkeit, sich an alle seine vergangenen Leben zu erinnern. Damit wurde er zu einem der berüchtigsten Ränkeschmiede in der ganzen Geschichte. Er wurde vom Wächter von Caed Nua getötet, was die Krise der Hohlgeborenen im Dyrwald beendete.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1056</ID>
+      <DefaultText>Iovara ix Ensios war eine Engwithanerin und ehemalige Missionarin. Als sie erfuhr, dass die Götter künstlich erzeugt wurden, führte sie ihre Anhänger gegen die Religion ihres Volkes an. Aus Rache verhaftete und folterte die Inquisition Iovara und übergab ihre Seele dem Hof der Büßer, wo sie über zweitausend Jahre einsaß, bis der Wächter von Caed Nua ihrer Strafe ein Ende setzte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1057</ID>
-      <DefaultText>Maerwald war einst der Lord von Caed Nua. Er war ein Wächter mit großen Ambitionen wie der Restauration dieser Festung. Aber das Wissen um seine früheren Leben verfolgte ihn bis zum Wahnsinn. Er wurde durch einen anderen Wächter getötet, der daraufhin die Festung übernahm und sich die Befriedung des Schlosses auf die Fahne geschrieben hat.</DefaultText>
+      <DefaultText>Maerwald war einst der Fürst von Caed Nua und ein Wächter mit großem Ehrgeiz. Sein Lebenswerk war es, seine Festung wiederaufzubauen, aber das Wissen um seine vergangenen Leben trieb ihn bis in den Wahnsinn. Er wurde von einem anderen Wächter getötet, der seine Burg für sich beanspruchte und sich unermüdlich daran machte, seine vielen Gefahren zu befrieden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
