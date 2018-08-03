@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\interactables</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>Thaenics Allerlei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>Baubles Lappalien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>Sautaras Gemischtwaren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>Zidaccos Feine Kleidung</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

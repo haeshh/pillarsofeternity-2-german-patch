@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>Verwandelt sich zu Beginn jedes Kampfes in eine zufällige magische Waffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>Werde bei einer Tötung für {0:extravalue:duration} unsichtbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>Vom Träger angegriffene Gegner brauchen einen zusätzlichen Verbündeten zum Flankieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>Erhöht basierend auf dem aktuellem Vermögen der Gruppe die Chance des Trägers, Treffer in kritische Treffer zu verwandeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>Verwirrt Feinde, die den Träger mit einer Intelligenz-Wirkung treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>Kleine Chance, bei einem Treffer eine feindliche Feuerfäule heraufzubeschwören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>Feinde fügen dem Träger {0:value:percentbonus} Schaden zu, wenn Gesundheit über 50 % ist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>Fügt Feinden mit Gesundheit über 50 % {0:value:percentbonus} Schaden zu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>Erhöht die Entschlossenheit des Trägers basierend darauf, wie wenig Geld die Gruppe hat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>Brand/Wucht-Flächenschaden gegen Feinde bei Bewusstlosigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>{0:value:percent} Chance, dass der Feind oder Benutzer Blutungsschaden über Zeit erleidet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>Ziehe eine Karte.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

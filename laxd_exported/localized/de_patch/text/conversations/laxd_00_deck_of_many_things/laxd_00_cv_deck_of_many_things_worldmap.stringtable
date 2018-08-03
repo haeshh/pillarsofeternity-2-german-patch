@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\laxd_00_deck_of_many_things\laxd_00_cv_deck_of_many_things_worldmap</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ein Schiff taucht am Horizont auf, es liegt tief im Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Das Schiff begrüßen und dich vorbereiten, an Bord zu gehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Durch das Fernrohr schauen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Dich ihm nähern und es identifizieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Das Schiff verfügt über die steilen Winkel und die flache Vorderseite einer Dschunke, aber es hat weder die Flagge Rauatais noch einer anderen Seemacht gehisst. Stattdessen gibt es sich durch seine Flagge als Handelsschiff zu erkennen.
+
+Der Rumpf des Bootes scheint verstärkt worden zu sein, seine Scharten strotzen nur so vor Kanonen, doch es bahnt sich friedlich seinen Weg durch die See.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
