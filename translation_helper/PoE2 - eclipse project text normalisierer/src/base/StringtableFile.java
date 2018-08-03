@@ -1281,7 +1281,7 @@ class Entry {
 			"(?<!xg>)(Wucht-?)(sch[aä]den|\\b)",
 			"(?<!xg>)(Frost-?)(sch[aä]den|\\b)",
 			"(?<!xg>)(Stich-?)(sch[aä]den|\\b)",
-			"(?<!xg>)(Direkt-?|[Dd]irekte[rnm] )((Gift|Blutungs)?[sS]chaden)",
+			"(?<!xg>)(Direkt-?|[Dd]irekte[rnm] )((Gift|Blutungs|Zeit)?[sS]chaden)",
 			"(?<!xg>)(Hieb-?)(sch[aä]den|\\b)",
 			"(?<!xg>)(Schock-?)(sch[aä]den|\\b)",
 			

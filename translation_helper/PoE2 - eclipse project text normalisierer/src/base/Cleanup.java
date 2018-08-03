@@ -66,20 +66,23 @@ public class Cleanup {
 		filesInFolder.addAll(Files.walk(Paths.get(baseFolderDeFiles + "\\laxa_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		filesInFolder.addAll(Files.walk(Paths.get(baseFolderDeFiles + "\\laxb_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		filesInFolder.addAll(Files.walk(Paths.get(baseFolderDeFiles + "\\laxc_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		filesInFolder.addAll(Files.walk(Paths.get(baseFolderDeFiles + "\\laxd_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		
 		List<Path> compareFilesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		compareFilesInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxa_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		compareFilesInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxb_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		compareFilesInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxc_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		compareFilesInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxd_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		
 		
 		List<Path> compareFilesENInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		compareFilesENInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxa_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		compareFilesENInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxb_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		compareFilesENInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxc_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		compareFilesENInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxd_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		
 		
-		//cleanupPart(jaxbUnmarshaller, marshaller, filesInFolder, compareFilesInFolder, compareFilesENInFolder);
+		cleanupPart(jaxbUnmarshaller, marshaller, filesInFolder, compareFilesInFolder, compareFilesENInFolder);
 		
 		Cleanup cleanup = new Cleanup();
 		
