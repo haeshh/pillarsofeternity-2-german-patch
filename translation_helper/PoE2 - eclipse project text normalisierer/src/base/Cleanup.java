@@ -63,16 +63,21 @@ public class Cleanup {
 		marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
 		
 		List<Path> filesInFolder = Files.walk(Paths.get(baseFolderDeFiles + "\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		// DLCs
 		filesInFolder.addAll(Files.walk(Paths.get(baseFolderDeFiles + "\\laxa_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		filesInFolder.addAll(Files.walk(Paths.get(baseFolderDeFiles + "\\laxb_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		filesInFolder.addAll(Files.walk(Paths.get(baseFolderDeFiles + "\\laxc_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		filesInFolder.addAll(Files.walk(Paths.get(baseFolderDeFiles + "\\laxd_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		// Beast of Winter
+		filesInFolder.addAll(Files.walk(Paths.get(baseFolderDeFiles + "\\lax2_exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		
 		
 		List<Path> compareFilesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		compareFilesInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxa_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		compareFilesInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxb_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		compareFilesInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxc_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		compareFilesInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxd_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		compareFilesInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\lax2_exported\\localized\\de\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		
 		
 		List<Path> compareFilesENInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
@@ -80,6 +85,7 @@ public class Cleanup {
 		compareFilesENInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxb_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		compareFilesENInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxc_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		compareFilesENInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\laxd_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
+		compareFilesENInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\lax2_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		
 		
 		cleanupPart(jaxbUnmarshaller, marshaller, filesInFolder, compareFilesInFolder, compareFilesENInFolder);
@@ -89,14 +95,14 @@ public class Cleanup {
 		// Base files, the handpicked stuff from Spherikal
 		List<Path> convertingBase = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\en\\text")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		
-		cleanup.stripMarkup(convertingBase, jaxbUnmarshaller,marshaller, "en_fixed");
+		//cleanup.stripMarkup(convertingBase, jaxbUnmarshaller,marshaller, "en_fixed");
 		
 		// Trying to get the same via the regex from the english base
 		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\en_fixed\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.formatText(convertingBase, filesInFolder, "en", jaxbUnmarshaller, marshaller);
+		//cleanup.formatText(convertingBase, filesInFolder, "en", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get(baseFolderDeFiles + "\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.formatText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
+		//cleanup.formatText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
 		//cleanup.splitupText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\fr\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
@@ -107,7 +113,7 @@ public class Cleanup {
 		//cleanup.stripMarkup(filesInFolder, jaxbUnmarshaller,marshaller, "it_fixed");
 		
 		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\it_fixed\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.formatText(convertingBase, filesInFolder, "it", jaxbUnmarshaller, marshaller);
+		//cleanup.formatText(convertingBase, filesInFolder, "it", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\es\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		//cleanup.colorupdate(convertingBase, filesInFolder, "es", jaxbUnmarshaller,marshaller);
@@ -212,11 +218,11 @@ public class Cleanup {
 		//		entry.compareTags2();
 		//		allTags.addAll(entry.tagViewHelper());
 				
-		//		counter.addAll(entry.counter());
+				counter.addAll(entry.counter());
 				
-		//		for (java.util.Map.Entry<String, Integer> elem : entry.wordCount().entrySet()) {
-				//	wordCount.merge(elem.getKey(), elem.getValue(), (x, y) -> x + y); 
-		//		}
+				for (java.util.Map.Entry<String, Integer> elem : entry.wordCount().entrySet()) {
+					wordCount.merge(elem.getKey(), elem.getValue(), (x, y) -> x + y); 
+				}
 				
 				
 			}

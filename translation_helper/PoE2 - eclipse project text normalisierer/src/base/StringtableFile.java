@@ -281,6 +281,19 @@ class Entry {
 			DefaultText = DefaultText.replaceFirst("„ ", " „");
 			satzzeichen++;
 		}
+		while (DefaultText.contains("‚ ")) {
+			DefaultText = DefaultText.replaceFirst("‚ ", " ‚");
+			satzzeichen++;
+		}
+		while (DefaultText.contains(" ‘")) {
+			DefaultText = DefaultText.replaceFirst(" ‘", "‘ ");
+			satzzeichen++;
+		}
+		// TODO false positive chance
+		//while (DefaultText.matches("[.!?“][^ ]")) {
+		//	DefaultText = DefaultText.replaceFirst("„ ", " „");
+		//	satzzeichen++;
+		//}
 
 		while (FemaleText.contains("  ")) {
 			FemaleText = FemaleText.replaceFirst("  ", " ");
@@ -316,6 +329,14 @@ class Entry {
 		}
 		while (FemaleText.contains("„ ")) {
 			FemaleText = FemaleText.replaceFirst("„ ", " „");
+			satzzeichen++;
+		}
+		while (FemaleText.contains("‚ ")) {
+			FemaleText = FemaleText.replaceFirst("‚ ", " ‚");
+			satzzeichen++;
+		}
+		while (FemaleText.contains(" ‘")) {
+			FemaleText = FemaleText.replaceFirst(" ‘", "‘ ");
 			satzzeichen++;
 		}
 
@@ -403,17 +424,17 @@ class Entry {
 			html++;
 
 		}
-		// Todo unvollständige Tags
-		if (DefaultText.matches("<.+?>")) {
+		
+		if (DefaultText.split("<.+?>", 99).length > 1) {
 			// es gibt öffnenden und schließenden tag
-			String pattern = "(<(.+?)>).*?(</(.+?)>)";
+			String pattern = "(<((.+?)=.+?|(.+?))>).*?(<\\/(.+?)>)";
 
 			// Create a Pattern object
 			Pattern r = Pattern.compile(pattern);
 
 			// Now create matcher object.
 			Matcher m = r.matcher(DefaultText);
-			if (m.find() && !m.group(3).startsWith("/") && !m.group(2).startsWith(m.group(4))) {
+			if (m.find() && (!m.group(5).startsWith("</") || ((m.group(3) != null && !m.group(3).equals(m.group(6))) || (m.group(4) != null && !m.group(4).equals(m.group(6)))))) {
 				System.out.println("Found value: " + m.group(0));
 				html++;
 			}
@@ -424,22 +445,21 @@ class Entry {
 		}
 		if (FemaleText.split("<", -1).length - 1 != FemaleText.split(">", -1).length - 1) {
 			html++;
-			System.out.println(FemaleText);
 		}
 		if ((FemaleText.split("<", -1).length - 1) % 2 != 0) {
 			html++;
 		}
 
-		if (FemaleText.matches("<.+?>")) {
+		if (FemaleText.split("<.+?>", 99).length > 1) {
 			// es gibt öffnenden und schließenden tag
-			String pattern = "(<(.+?)>).*?(</(.+?)>)";
-
+			String pattern = "(<((.+?)=.+?|(.+?))>).*?(<\\/(.+?)>)";
+			
 			// Create a Pattern object
 			Pattern r = Pattern.compile(pattern);
 
 			// Now create matcher object.
 			Matcher m = r.matcher(FemaleText);
-			if (m.find() && !m.group(3).startsWith("/") && !m.group(2).startsWith(m.group(4))) {
+			if (m.find() && (!m.group(5).startsWith("</") || ((m.group(3) != null && !m.group(3).equals(m.group(6))) || (m.group(4) != null && !m.group(4).equals(m.group(6)))))) {
 				System.out.println("Found value: " + m.group(0));
 				html++;
 			}
@@ -780,12 +800,12 @@ class Entry {
 
 	public Map<String, Integer> wordCount() {
 		Map<String, Integer> target = new TreeMap<>();
-		String[] words = DefaultText.split("[\\., !?…\\-–„“‚‘\\n\\t()]");
+		String[] words = DefaultText.split("[<>\\., !?…\\-–„“‚‘\\n\\t()]");
 
 		for (String word : words) {
 			target.merge(word, 1, (x, y) -> x + y);
 		}
-		words = FemaleText.split("[\\., !?…\\-–„“‚‘\\n\\t()]");
+		words = FemaleText.split("[<>\\., !?…\\-–„“‚‘\\n\\t()]");
 		for (String word : words) {
 			target.merge(word, 1, (x, y) -> x + y);
 		}
