@@ -88,22 +88,22 @@ public class Cleanup {
 		compareFilesENInFolder.addAll(Files.walk(Paths.get(baseGameFolder + "\\lax2_exported\\localized\\en\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList()));
 		
 		
-		cleanupPart(jaxbUnmarshaller, marshaller, filesInFolder, compareFilesInFolder, compareFilesENInFolder);
+		//cleanupPart(jaxbUnmarshaller, marshaller, filesInFolder, compareFilesInFolder, compareFilesENInFolder);
 		
 		Cleanup cleanup = new Cleanup();
 		
 		// Base files, the handpicked stuff from Spherikal
 		List<Path> convertingBase = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\en\\text")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		
-		//cleanup.stripMarkup(convertingBase, jaxbUnmarshaller,marshaller, "en_fixed");
+		cleanup.stripMarkup(convertingBase, jaxbUnmarshaller,marshaller, "en_fixed");
 		
 		// Trying to get the same via the regex from the english base
 		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\en_fixed\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		//cleanup.formatText(convertingBase, filesInFolder, "en", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get(baseFolderDeFiles + "\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		//cleanup.formatText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
-		//cleanup.splitupText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
+		cleanup.formatText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
+		//Nope, not working cleanup.splitupText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\fr\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		//cleanup.colorupdate(convertingBase, filesInFolder, "fr", jaxbUnmarshaller,marshaller);
@@ -290,7 +290,7 @@ public class Cleanup {
 			
 			for(Entry colorfulEntry : colorfulTexts.getEntries())
 			{
-				Entry cleanEntry = colorfulEntry.stripMarkup();
+				Entry cleanEntry = colorfulEntry.stripMarkup(colorful.getFileName().toString());
 				outputFile.getEntries().add(cleanEntry);
 			}
 			
@@ -328,6 +328,7 @@ public class Cleanup {
 									final Entry formattedEntry2 = formattedEntry;	
 									if(i == 1 || i == 2 || i == 3) {
 										formattedEntry = formatLevel(language, formattedEntry2, (x) -> formattedEntry2.replaceAfflictionWithColor(x), (x,y) -> x.replaceGenericAfflictionsWithIcon(y)); // 1, 2, 3 
+										formattedEntry = formattedEntry.addAfflictionsTitle(plain.getFileName().toString(), language);
 									}
 									if(i == 1) {
 										formattedEntry = formattedEntry.addRecepieGroups(colorfulEntry.getDefaultText()); // 1

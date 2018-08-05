@@ -1,15 +1,12 @@
 package base;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
-import java.util.function.BiFunction;
-import java.util.function.Function;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -892,15 +889,15 @@ class Entry {
 			"(?<!xg>)(Scoss)(o|i)", "(?<!xg>)(Spaventa)(ndo|re|to|\\b)", "(?<!xg>)(Terrorizza)(ndo|no|to|ti)",
 			
 			// Destrezza
-			"(?<!xg>)(Veloc[ei])", "(?<!xg>)(Lest[io])", "(?<!xg>)(Rapid[io])",
-			"(?<!xg>)(Azzoppa)(ndo|to|re|ti|no|\\b)", "(?<!xg>)(Immobilizza)(ndo|no|to|re)", "(?<!xg>)(Parali)(zzando|zzato|si|zza)",
+			"(?<!xg>)(Veloc[ei])(?!tà)", "(?<!xg>)(Lest[io])", "(?<!xg>)(Rapid[io])",
+			"(?<!xg>)(Azzoppa)(ndo|to|re|ti|no|\\b)", "(?<!xg>)(Immobilizza)(ndolo|ndo|no|to|re)", "(?<!xg>)(Parali)(zzando|zzato|si|zza)",
 			
 			// Acume
 			"(?<!xg>)(Argut[io])", "(?<!xg>)(Perspicac[ie])", "(?<!xg>)(Brillant[ie])",
 			"(?<!xg>)(Conf)(usione|usi|uso|onde)", "(?<!xg>)(Charme|Incantat[io]|Incantare)(\\b)", "(?<!xg>)(Domina)(zione|to|\\b)",
 			
 			// Vigore
-			"(?<!xg>)(Fort[ei])", "(?<!xg>)(Tenace)", "(?<!xg>)(Energico)",
+			"(?<!xg>)(Fort[ei])(?!tude)", "(?<!xg>)(Tenace)", "(?<!xg>)(Energico)",
 			"(?<!xg>)(Sorpre)(si|so|ndeno|ndendo)", "(?<!xg>)(Disorienta)(ndol[oi]|ndo|nte|mento|to|ti|re|\\b)", "(?<!xg>)(Stord)(endo|isce|ito|iti|imento|ire|iscono|irai)",
 			
 			// Percezione
@@ -1040,54 +1037,57 @@ class Entry {
 			"(?<!xg>)(烦乱)(\\b)", "(?<!xg>)(迷离)(\\b)", "(?<!xg>)(目盲)(\\b)"
 	}; 
 	 
-	final static String[] targetWords = new String[] {
-	"<link=\"gamedata://2370256c-67fe-4481-bfae-9081b2dc10d3\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>¹</color></link>",
-		"<link=\"gamedata://fd4d0c5c-f525-4010-99dc-f30a59b2f729\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>²</color></link>",
-		"<link=\"gamedata://86f9c246-c37c-46a6-8838-7dc36c18e08d\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>³</color></link>",
-		                                                                                                                                                                                                                                                                                                                           
-		"<link=\"gamedata://1e99c141-5288-4bf0-abc2-65cc78638745\"><#f7b733>$1$2 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>₁</color></link>",
-		"<link=\"gamedata://a6368675-47ed-460d-be4f-2593f24ad126\"><#f7b733>$1$2 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>₂</color></link>",
-		"<link=\"gamedata://fe0997e7-422f-4d1d-b9f6-241946fbd1f1\"><#f7b733>$1$2 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1>₃</color></link>",
-		                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-		"<link=\"gamedata://92d1a280-2f8e-4a6d-87a9-6599d41d65e4\"><#30d3d5>$1 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1>¹</color></link>",
-		"<link=\"gamedata://51e1cbfc-506b-4e7c-880e-b89312a4b4c3\"><#30d3d5>$1 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1>²</color></link>",     
-		"<link=\"gamedata://dc62af47-239f-4ee4-8d91-a5e8b3b97564\"><#30d3d5>$1 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1>³</color></link>",     
-		                                                                                                                                                                                                                                                                                                                                      
-		"<link=\"gamedata://8f4832b6-49ef-4f40-9d64-20eb50fd9bb6\"><#30d3d5>$1$2 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1>₁</color></link>",   
-		"<link=\"gamedata://d9e00789-14d3-46f1-be3e-4c1379148d24\"><#30d3d5>$1$2 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1>₂</color></link>",  
-		"<link=\"gamedata://0d89a32d-c883-4a18-9fbd-4ff58f1fd0de\"><#30d3d5>$1$2 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1>₃</color></link>",  
-	                                                                                                                                                                    
-		"<link=\"gamedata://a0b4a490-2c99-456e-b6fb-131353133fba\"><#72da26>$1 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1>¹</color></link>",  
-		"<link=\"gamedata://0451672b-af45-4b44-96b4-ff2c1b6aa1d3\"><#72da26>$1 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1>²</color></link>",  
-		"<link=\"gamedata://1418c0ae-790d-4aef-9ca6-00238012c84e\"><#72da26>$1 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1>³</color></link>",  
-		                                                                                                                                                                                                                                                                                                                                                
-		"<link=\"gamedata://c1d82f88-4f54-4279-8e72-43104bf754a2\"><#72da26>$1$2 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1>₁</color></link>",
-		"<link=\"gamedata://a31fdd6c-5f4f-404d-92f5-5d7d8c166f2c\"><#72da26>$1$2 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1>₂</color></link>",
-		"<link=\"gamedata://72de641d-d2f1-47ca-85f2-6ec3e41140bd\"><#72da26>$1$2 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1>₃</color></link>",
-		                                                                                                                                                                                                                                                                                                                                                                      
-		"<link=\"gamedata://0435c12c-8049-4f50-b234-ed3cca340696\"><#00a4ff>$1 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1>¹</color></link>", 
-		"<link=\"gamedata://c4ada862-ee17-4c10-8967-734e08daa4aa\"><#00a4ff>$1 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1>²</color></link>",  
-		"<link=\"gamedata://dee61b5a-6313-4406-ab83-4fb72b37cea2\"><#00a4ff>$1 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1>³</color></link>",  
-		                                                                                                                                                                                                                                                                                                                                                         
-		"<link=\"gamedata://917ea7e5-133c-4163-93c6-55c7d55420a4\"><#00a4ff>$1$2 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1>₁</color></link>",
-		"<link=\"gamedata://f4a09726-a62d-49a2-8cc6-c3713676c833\"><#00a4ff>$1$2 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1>₂</color></link>",
-		"<link=\"gamedata://9e773415-4d95-4be6-ab87-325d9815e0d7\"><#00a4ff>$1$2 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1>₃</color></link>",
-	                                                                                                                                                                            
-		"<link=\"gamedata://79b41b80-d3c4-4176-a44b-69490efa41a8\"><#ff4800>$1 <sprite=\"Inline\" name=\"attribute_might\" tint=1>¹</color></link>",      
-		"<link=\"gamedata://93eb382a-dc8e-469b-a116-4686c73e1eb5\"><#ff4800>$1 <sprite=\"Inline\" name=\"attribute_might\" tint=1>²</color></link>",      
-		"<link=\"gamedata://c56f70b5-b611-4dee-b80f-335033b98e2f\"><#ff4800>$1 <sprite=\"Inline\" name=\"attribute_might\" tint=1>³</color></link>",      
-	                                                                                                                                                                
-		"<link=\"gamedata://67f6a58b-658e-4c97-b0a2-5d53067dcbd8\"><#ff4800>$1$2 <sprite=\"Inline\" name=\"attribute_might\" tint=1>₁</color></link>",    
-		"<link=\"gamedata://3a790bc4-40a9-4d9f-8da8-a76f3cb6c5e1\"><#ff4800>$1$2 <sprite=\"Inline\" name=\"attribute_might\" tint=1>₂</color></link>",    
-		"<link=\"gamedata://fc2d1039-c512-484a-81e8-a843ba03df4e\"><#ff4800>$1$2 <sprite=\"Inline\" name=\"attribute_might\" tint=1>₃</color></link>",    
-		                                                                                                                                                                                                                                                                                                                                                                        
-		"<link=\"gamedata://412f8f5e-d257-4c52-ac66-0e49fd603ef2\"><#ca58ff>$1 <sprite=\"Inline\" name=\"attribute_perception\" tint=1>¹</color></link>", 
-		"<link=\"gamedata://a64e1484-5867-4112-843c-06da3be5399b\"><#ca58ff>$1 <sprite=\"Inline\" name=\"attribute_perception\" tint=1>²</color></link>", 
-		"<link=\"gamedata://c2fb23c5-9907-4654-b62e-77adbc37c9bc\"><#ca58ff>$1 <sprite=\"Inline\" name=\"attribute_perception\" tint=1>³</color></link>", 
-		                                                                                                                                                                                                                                                                                                                                                          
-		"<link=\"gamedata://919bddc8-1e05-412b-bb5c-8272545b28f0\"><#ca58ff>$1$2 <sprite=\"Inline\" name=\"attribute_perception\" tint=1>₁</color></link>",
-		"<link=\"gamedata://1021cac0-2d10-4f0d-93e3-e1b0ce24f9fd\"><#ca58ff>$1$2 <sprite=\"Inline\" name=\"attribute_perception\" tint=1>₂</color></link>",
-		"<link=\"gamedata://76a5e15a-e75c-4853-889b-2e9229d46444\"><#ca58ff>$1$2 <sprite=\"Inline\" name=\"attribute_perception\" tint=1>₃</color></link>"
+	
+	
+	
+	final static String[] inspirationTargetWords = new String[] {
+		"<nobr><link=\"glossary://GlossaryEntry_Fit\"><#f7b733>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_constitution\" tint=1><space=0.3em><voffset=0.35em><size=80%><font=\"EspinosaNova-Regular SDF\"><b>1</b></font></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Hardy\"><#f7b733>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_constitution\" tint=1><space=0.3em><voffset=0.35em><size=80%><b>2</b></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Robust\"><#f7b733>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_constitution\" tint=1><space=0.3em><voffset=0.35em><size=80%><b>3</b></size></voffset></color></link></nobr>",
+	                                                                                                                                                                                                                                                                                                                           
+		"<nobr><link=\"glossary://GlossaryEntry_Sickened\"><#f7b733>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_constitution\" tint=1><space=0.3em><voffset=-0.35em><size=80%><font=\"EspinosaNova-Regular SDF\"><b>1</b></font></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Weakened\"><#f7b733>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_constitution\" tint=1><space=0.3em><voffset=-0.35em><size=80%><b>2</b></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Enfeebled\"><#f7b733>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_constitution\" tint=1><space=0.3em><voffset=-0.35em><size=80%><b>3</b></size></voffset></color></link></nobr>",
+	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+		"<nobr><link=\"glossary://GlossaryEntry_Steadfast\"><#30d3d5>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_resolve\" tint=1><space=0.3em><voffset=0.35em><size=80%><font=\"EspinosaNova-Regular SDF\"><b>1</b></font></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Resolute\"><#30d3d5>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_resolve\" tint=1><space=0.3em><voffset=0.35em><size=80%><b>2</b></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Courageous\"><#30d3d5>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_resolve\" tint=1><space=0.3em><voffset=0.35em><size=80%><b>3</b></size></voffset></color></link></nobr>",
+	                                                                                                                                                                                                                                                                                                                                                         
+		"<nobr><link=\"glossary://GlossaryEntry_Shaken\"><#30d3d5>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_resolve\" tint=1><space=0.3em><voffset=-0.35em><size=80%><font=\"EspinosaNova-Regular SDF\"><b>1</b></font></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Frightened\"><#30d3d5>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_resolve\" tint=1><space=0.3em><voffset=-0.35em><size=80%><b>2</b></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Terrified\"><#30d3d5>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_resolve\" tint=1><space=0.3em><voffset=-0.35em><size=80%><b>3</b></size></voffset></color></link></nobr>",
+                                                                                                                                                                            
+		"<nobr><link=\"glossary://GlossaryEntry_Quick\"><#72da26>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_dexterity\" tint=1><space=0.3em><voffset=0.35em><size=80%><font=\"EspinosaNova-Regular SDF\"><b>1</b></font></size></voffset></color></link></nobr>", 
+		"<nobr><link=\"glossary://GlossaryEntry_Nimble\"><#72da26>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_dexterity\" tint=1><space=0.3em><voffset=0.35em><size=80%><b>2</b></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Swift\"><#72da26>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_dexterity\" tint=1><space=0.3em><voffset=0.35em><size=80%><b>3</b></size></voffset></color></link></nobr>",
+                                                                                                                                                                
+		"<nobr><link=\"glossary://GlossaryEntry_Hobbled\"><#72da26>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_dexterity\" tint=1><space=0.3em><voffset=-0.35em><size=80%><font=\"EspinosaNova-Regular SDF\"><b>1</b></font></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Immobilized\"><#72da26>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_dexterity\" tint=1><space=0.3em><voffset=-0.35em><size=80%><b>2</b></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Paralyzed\"><#72da26>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_dexterity\" tint=1><space=0.3em><voffset=-0.35em><size=80%><b>3</b></size></voffset></color></link></nobr>",
+	                                 
+		"<nobr><link=\"glossary://GlossaryEntry_Smart\"><#00a4ff>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_intellect\" tint=1><space=0.3em><voffset=0.35em><size=80%><font=\"EspinosaNova-Regular SDF\"><b>1</b></font></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Acute\"><#00a4ff>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_intellect\" tint=1><space=0.3em><voffset=0.35em><size=80%><b>2</b></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Brilliant\"><#00a4ff>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_intellect\" tint=1><space=0.3em><voffset=0.35em><size=80%><b>3</b></size></voffset></color></link></nobr>",
+	
+		"<nobr><link=\"glossary://GlossaryEntry_Confused\"><#00a4ff>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_intellect\" tint=1><space=0.3em><voffset=-0.35em><size=80%><font=\"EspinosaNova-Regular SDF\"><b>1</b></font></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Charmed\"><#00a4ff>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_intellect\" tint=1><space=0.3em><voffset=-0.35em><size=80%><b>2</b></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Dominated\"><#00a4ff>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_intellect\" tint=1><space=0.3em><voffset=-0.35em><size=80%><b>3</b></size></voffset></color></link></nobr>",
+	
+		"<nobr><link=\"glossary://GlossaryEntry_Strong\"><#ff4800>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_might\" tint=1><space=0.3em><voffset=0.35em><size=80%><font=\"EspinosaNova-Regular SDF\"><b>1</b></font></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Tenacious\"><#ff4800>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_might\" tint=1><space=0.3em><voffset=0.35em><size=80%><b>2</b></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Energized\"><#ff4800>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_might\" tint=1><space=0.3em><voffset=0.35em><size=80%><b>3</b></size></voffset></color></link></nobr>",
+	
+		"<nobr><link=\"glossary://GlossaryEntry_Staggered\"><#ff4800>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_might\" tint=1><space=0.3em><voffset=-0.35em><size=80%><font=\"EspinosaNova-Regular SDF\"><b>1</b></font></size></voffset></color></link></nobr>", 
+		"<nobr><link=\"glossary://GlossaryEntry_Dazed\"><#ff4800>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_might\" tint=1><space=0.3em><voffset=-0.35em><size=80%><b>2</b></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Stunned\"><#ff4800>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_might\" tint=1><space=0.3em><voffset=-0.35em><size=80%><b>3</b></size></voffset></color></link></nobr>",
+	
+		"<nobr><link=\"glossary://GlossaryEntry_Insightful\"><#ca58ff>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_perception\" tint=1><space=0.3em><voffset=0.35em><size=80%><font=\"EspinosaNova-Regular SDF\"><b>1</b></font></size></voffset></color></link></nobr>", 
+		"<nobr><link=\"glossary://GlossaryEntry_Aware\"><#ca58ff>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_perception\" tint=1><space=0.3em><voffset=0.35em><size=80%><b>2</b></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Intuitive\"><#ca58ff>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_perception\" tint=1><space=0.3em><voffset=0.35em><size=80%><b>3</b></size></voffset></color></link></nobr>", 
+                                                                                                                                                                                                                                                                                                                                                          
+		"<nobr><link=\"glossary://GlossaryEntry_Distracted\"><#ca58ff>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_perception\" tint=1><space=0.3em><voffset=-0.35em><size=80%><font=\"EspinosaNova-Regular SDF\"><b>1</b></font></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Disoriented\"><#ca58ff>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_perception\" tint=1><space=0.3em><voffset=-0.35em><size=80%><b>2</b></size></voffset></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Blinded\"><#ca58ff>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_perception\" tint=1><space=0.3em><voffset=-0.35em><size=80%><b>3</b></size></voffset></color></link></nobr>",
 	};
 	
 
@@ -1100,37 +1100,37 @@ class Entry {
 		int i = 0;
 		switch (targetLanguage) {
 			case "en":
-				i = 36 * 0;
+				i = inspirationTargetWords.length * 0;
 				break;
 			case "de_patch":
-				i = 36 * 1;
+				i = inspirationTargetWords.length * 1;
 				break;
 			case "fr":
-				i = 36 * 2;
+				i = inspirationTargetWords.length * 2;
 				break;
 			case "it":
-				i = 36 * 3;
+				i = inspirationTargetWords.length * 3;
 				break;
 			case "es":
-				i = 36 * 4;
+				i = inspirationTargetWords.length * 4;
 				break;
 			case "pt":
-				i = 36 * 5;
+				i = inspirationTargetWords.length * 5;
 				break;
 			case "pl":
-				i = 36 * 6;
+				i = inspirationTargetWords.length * 6;
 				break;
 			case "ru":
-				i = 36 * 7;
+				i = inspirationTargetWords.length * 7;
 				break;
 			case "zh":
-				i = 36 * 8;
+				i = inspirationTargetWords.length * 8;
 				break;
 		}
 		
-		for(int j = 0; j < 36; j++) {
-			result.DefaultText = result.DefaultText.replaceAll(replacementWords[i + j], targetWords[j]);
-			result.FemaleText = result.FemaleText.replaceAll(replacementWords[i + j], targetWords[j]);
+		for(int j = 0; j < inspirationTargetWords.length; j++) {
+			result.DefaultText = result.DefaultText.replaceAll(replacementWords[i + j], inspirationTargetWords[j]);
+			result.FemaleText = result.FemaleText.replaceAll(replacementWords[i + j], inspirationTargetWords[j]);
 		}
 		if(result.DefaultText.equals(DefaultText) && result.FemaleText.equals(FemaleText)) {
 			return null;
@@ -1139,6 +1139,7 @@ class Entry {
 		}
 	}
 
+	// TODO Aufzählungen in anderen Sprachen als de. Da fehlt der -
 	final static String[] afflictionsReplacementWords = new String[] {
 			// EN
 			"(Constitution Inspirations?)",
@@ -1213,6 +1214,25 @@ class Entry {
             "(Alterazioni del Corpo)",
 	};
             
+	// Word Icon
+	final static String[] genericAfflictionsTargetWordsPostfix = new String[] {
+			"<link=\"glossary://GlossaryEntry_Inspirations_Constitution\"><#f7b733>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_constitution\" tint=1></color></link>",
+            "<link=\"glossary://GlossaryEntry_Afflictions_Constitution\"><#f7b733>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_constitution\" tint=1></color></link>",
+            "<link=\"glossary://GlossaryEntry_Inspirations_Resolve\"><#30d3d5>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_resolve\" tint=1></color></link>",
+            "<link=\"glossary://GlossaryEntry_Afflictions_Resolve\"><#30d3d5>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_resolve\" tint=1></color></link>",
+            "<link=\"glossary://GlossaryEntry_Inspirations_Dexterity\"><#72da26>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_dexterity\" tint=1></color></link>",            
+            "<link=\"glossary://GlossaryEntry_Afflictions_Dexterity\"><#72da26>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_dexterity\" tint=1></color></link>",
+            "<link=\"glossary://GlossaryEntry_Inspirations_Intellect\"><#00a4ff>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_intellect\" tint=1></color></link>",
+            "<link=\"glossary://GlossaryEntry_Afflictions_Intellect\"><#00a4ff>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_intellect\" tint=1></color></link>",
+            "<link=\"glossary://GlossaryEntry_Inspirations_Might\"><#ff4800>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_might\" tint=1></color></link>",
+            "<link=\"glossary://GlossaryEntry_Afflictions_Might\"><#ff4800>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_might\" tint=1></color></link>",
+            "<link=\"glossary://GlossaryEntry_Inspirations_Perception\"><#ca58ff>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_perception\" tint=1></color></link>",
+            "<link=\"glossary://GlossaryEntry_Afflictions_Perception\"><#ca58ff>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_perception\" tint=1></color></link>",
+            "<link=\"glossary://GlossaryEntry_Mind_Inspiration\">$1</link>",
+            "<link=\"glossary://GlossaryEntry_Mind_Affliction\">$1</link>",
+            "<link=\"glossary://GlossaryEntry_Body_Inspiration\">$1</link>",
+            "<link=\"glossary://GlossaryEntry_Body_Affliction\">$1</link>"
+	};
             
 	public Entry replaceGenericAfflictionsWithIcon(String targetLanguage) {
 		Entry result = new Entry();
@@ -1220,59 +1240,41 @@ class Entry {
 		result.DefaultText = DefaultText;
 		result.FemaleText = FemaleText;
 		
-		String[] targetWords = new String[] {
-				"<link=\"glossary://GlossaryEntry_Inspirations_Constitution\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1></color></link>",
-	            "<link=\"glossary://GlossaryEntry_Afflictions_Constitution\"><#f7b733>$1 <sprite=\"Inline\" name=\"attribute_constitution\" tint=1></color></link>",
-	            "<link=\"glossary://GlossaryEntry_Inspirations_Resolve\"><#30d3d5>$1 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1></color></link>",
-	            "<link=\"glossary://GlossaryEntry_Afflictions_Resolve\"><#30d3d5>$1 <sprite=\"Inline\" name=\"attribute_resolve\" tint=1></color></link>",
-	            "<link=\"glossary://GlossaryEntry_Inspirations_Dexterity\"><#72da26>$1 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1></color></link>",            
-	            "<link=\"glossary://GlossaryEntry_Afflictions_Dexterity\"><#72da26>$1 <sprite=\"Inline\" name=\"attribute_dexterity\" tint=1></color></link>",
-	            "<link=\"glossary://GlossaryEntry_Inspirations_Intellect\"><#00a4ff>$1 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1></color></link>",
-	            "<link=\"glossary://GlossaryEntry_Afflictions_Intellect\"><#00a4ff>$1 <sprite=\"Inline\" name=\"attribute_intellect\" tint=1></color></link>",
-	            "<link=\"glossary://GlossaryEntry_Inspirations_Might\"><#ff4800>$1 <sprite=\"Inline\" name=\"attribute_might\" tint=1></color></link>",
-	            "<link=\"glossary://GlossaryEntry_Afflictions_Might\"><#ff4800>$1 <sprite=\"Inline\" name=\"attribute_might\" tint=1></color></link>",
-	            "<link=\"glossary://GlossaryEntry_Inspirations_Perception\"><#ca58ff>$1 <sprite=\"Inline\" name=\"attribute_perception\" tint=1></color></link>",
-	            "<link=\"glossary://GlossaryEntry_Afflictions_Perception\"><#ca58ff>$1 <sprite=\"Inline\" name=\"attribute_perception\" tint=1></color></link>",
-	            "<link=\"glossary://GlossaryEntry_Mind_Inspiration\">$1</link>",
-	            "<link=\"glossary://GlossaryEntry_Mind_Affliction\">$1</link>",
-	            "<link=\"glossary://GlossaryEntry_Body_Inspiration\">;$1</link>",
-	            "<link=\"glossary://GlossaryEntry_Body_Affliction\">$1</link>"
-		};
 		
 		int i = 0;
 		switch (targetLanguage) {
 			case "en":
-				i = targetWords.length * 0;
+				i = genericAfflictionsTargetWordsPostfix.length * 0;
 				break;
 			case "de_patch":
-				i = targetWords.length * 1;
+				i = genericAfflictionsTargetWordsPostfix.length * 1;
 				break;
 			case "fr":
-		//		i = targetWords.length * 2;
+		//		i = genericAfflictionsTargetWordsPostfix.length * 2;
 				break;
 			case "it":
-				i = targetWords.length * 3;
+				i = genericAfflictionsTargetWordsPostfix.length * 3;
 				break;
 			case "es":
-		//		i = targetWords.length * 4;
+		//		i = genericAfflictionsTargetWordsPostfix.length * 4;
 				break;
 			case "pt":
-		//		i = targetWords.length * 5;
+		//		i = genericAfflictionsTargetWordsPostfix.length * 5;
 				break;
 			case "pl":
-		//		i = targetWords.length * 6;
+		//		i = genericAfflictionsTargetWordsPostfix.length * 6;
 				break;
 			case "ru":
-		//		i = targetWords.length * 7;
+		//		i = genericAfflictionsTargetWordsPostfix.length * 7;
 				break;
 			case "zh":
-		//		i = targetWords.length * 8;
+		//		i = genericAfflictionsTargetWordsPostfix.length * 8;
 				break;
 		}
 		
-		for(int j = 0; j < targetWords.length; j++) {
-			result.DefaultText = result.DefaultText.replaceAll(afflictionsReplacementWords[i + j], targetWords[j]);
-			result.FemaleText = result.FemaleText.replaceAll(afflictionsReplacementWords[i + j], targetWords[j]);
+		for(int j = 0; j < genericAfflictionsTargetWordsPostfix.length; j++) {
+			result.DefaultText = result.DefaultText.replaceAll(afflictionsReplacementWords[i + j], genericAfflictionsTargetWordsPostfix[j]);
+			result.FemaleText = result.FemaleText.replaceAll(afflictionsReplacementWords[i + j], genericAfflictionsTargetWordsPostfix[j]);
 		}
 		if(result.DefaultText.equals(DefaultText) && result.FemaleText.equals(FemaleText)) {
 			return null;
@@ -1285,10 +1287,10 @@ class Entry {
 	
 	final static String[] damageReplacementWords = new String[] {
 			// EN 
-			"(?<!xg>)([bB]urn)(\\b|ed|ing|s)", 
+			"(?<!xg>)([bB]urn)(\\b|ed|ing|s)", // Fire
 			"(?<!xg>)([cC]orro)(\\b|des|de|sive)", 
 			"(?<!xg>)([cC]rush)(\\b|es|ing)",
-			"(?<!xg>)([fF]reez)(\\b|es|ed|e|ing)",
+			"(?<!xg>)([fF]reez)(\\b|es|ed|e|ing)", // Frost
 			"(?<!xg>)([pP]ierc)(\\b|es|e|ing)",
 			"(?<!xg>)([rR]aw)(\\b)",
 			"(?<!xg>)([sS]lash)(\\b|ing)",
@@ -1321,7 +1323,7 @@ class Entry {
 			"(?<!xg>)(Congelamento)(\\b)",
 			"(?<!xg>)(Perforazione)(\\b)",
 			"(?<!xg>)(Puro)(\\b)",
-			"(?<!xg>)(Lacerazione)(\\b)",
+			"(?<!xg>)(Lacera)(zione|nte)",
 			"(?<!xg>)(Folgorazione)(\\b)",
 			//es
 			"",
@@ -1355,57 +1357,72 @@ class Entry {
             
 	};
 		
+	// Word Icon Rest
+	final static String[] damageTypeTargetWordsInfix = new String[] {
+		"<nobr><link=\"glossary://GlossaryEntry_Burning\">$1$2<space=0.7em><sprite=\"Inline\" name=\"cs_burn\" tint=1></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Corrode\">$1$2<space=0.7em><sprite=\"Inline\" name=\"cs_corrosive\" tint=1></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Crushing\">$1$2<space=0.7em><sprite=\"Inline\" name=\"cs_blunt\" tint=1></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Freezing\">$1$2<space=0.7em><sprite=\"Inline\" name=\"cs_freeze\" tint=1></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Piercing\">$1$2<space=0.7em><sprite=\"Inline\" name=\"cs_pierce\" tint=1></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Raw\">$1$2<space=0.7em><sprite=\"Inline\" name=\"cs_raw\" tint=1></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Slashing\">$1$2<space=0.7em><sprite=\"Inline\" name=\"cs_slash\" tint=1></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Shock\">$1$2<space=0.3em><sprite=\"Inline\" name=\"cs_shock\" tint=1></link></nobr>",
+	};
+	
+	//  Icon Word Rest
+	final static String[] damageTypeTargetWordsPrefix = new String[] {
+		"<nobr><link=\"glossary://GlossaryEntry_Burning\"><sprite=\"Inline\" name=\"cs_burn\" tint=1><space=0.7em>$1$2</link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Corrode\"><sprite=\"Inline\" name=\"cs_corrosive\" tint=1><space=0.7em>$1$2</link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Crushing\"><sprite=\"Inline\" name=\"cs_blunt\" tint=1><space=0.7em>$1$2</link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Freezing\"><sprite=\"Inline\" name=\"cs_freeze\" tint=1><space=0.7em>$1$2</link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Piercing\"><sprite=\"Inline\" name=\"cs_pierce\" tint=1><space=0.7em>$1$2</link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Raw\"><sprite=\"Inline\" name=\"cs_raw\" tint=1><space=0.7em>$1$2</link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Slashing\"><sprite=\"Inline\" name=\"cs_slash\" tint=1><space=0.7em>$1$2</link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Shock\"><sprite=\"Inline\" name=\"cs_shock\" tint=1><space=0.7em>$1$2</link></nobr>",
+	};
+	
 	public Entry replaceDamageTypeWithIcon(String targetLanguage) {
 		Entry result = new Entry();
 		result.ID = this.ID;
 		result.DefaultText = DefaultText;
 		result.FemaleText = FemaleText;
 		
-		String[] targetWords = new String[] {
-			"<sprite=\"Inline\" name=\"cs_burn\" tint=1> $1$2",
-			"<sprite=\"Inline\" name=\"cs_corrosive\" tint=1> $1$2",
-			"<sprite=\"Inline\" name=\"cs_blunt\" tint=1> $1$2",
-			"<sprite=\"Inline\" name=\"cs_freeze\" tint=1> $1$2",
-			"<sprite=\"Inline\" name=\"cs_pierce\" tint=1> $1$2",
-			"<sprite=\"Inline\" name=\"cs_raw\" tint=1> $1$2",
-			"<sprite=\"Inline\" name=\"cs_slash\" tint=1> $1$2",
-			"<sprite=\"Inline\" name=\"cs_shock\" tint=1> $1$2",
-		};
+		
 		
 		int i = 0;
 		switch (targetLanguage) {
 			case "en":
-				i = targetWords.length * 0;
+				i = damageTypeTargetWordsPrefix.length * 0;
 				break;
 			case "de_patch":
-				i = targetWords.length * 1;
+				i = damageTypeTargetWordsPrefix.length * 1;
 				break;
 			case "fr":
-		//		i = targetWords.length * 2;
+		//		i = damageTypeTargetWordsPrefix.length * 2;
 				break;
 			case "it":
-				i = targetWords.length * 3;
+				i = damageTypeTargetWordsPrefix.length * 3;
 				break;
 			case "es":
-		//		i = targetWords.length * 4;
+		//		i = damageTypeTargetWordsPrefix.length * 4;
 				break;
 			case "pt":
-		//		i = targetWords.length * 5;
+		//		i = damageTypeTargetWordsPrefix.length * 5;
 				break;
 			case "pl":
-				i = targetWords.length * 6;
+				i = damageTypeTargetWordsPrefix.length * 6;
 				break;
 			case "ru":
-		//		i = targetWords.length * 7;
+		//		i = damageTypeTargetWordsPrefix.length * 7;
 				break;
 			case "zh":
-		//		i = targetWords.length * 8;
+		//		i = damageTypeTargetWordsPrefix.length * 8;
 				break;
 		}
 		
-		for(int j = 0; j < 8; j++) {
-			result.DefaultText = result.DefaultText.replaceAll(damageReplacementWords[i + j], targetWords[j]);
-			result.FemaleText = result.FemaleText.replaceAll(damageReplacementWords[i + j], targetWords[j]);
+		for(int j = 0; j < damageTypeTargetWordsPrefix.length; j++) {
+			result.DefaultText = result.DefaultText.replaceAll(damageReplacementWords[i + j], damageTypeTargetWordsPrefix[j]);
+			result.FemaleText = result.FemaleText.replaceAll(damageReplacementWords[i + j], damageTypeTargetWordsPrefix[j]);
 		}
 		if(result.DefaultText.equals(DefaultText) && result.FemaleText.equals(FemaleText)) {
 			return null;
@@ -1423,7 +1440,7 @@ class Entry {
 			"(?<!xg>)(Will|Willpower)",
 			"(?<!xg>)(Penetrate|Penetration)",
 			"(?<!xg>)(AR|Armor Rating)",
-			"(?<!xg>)(Accuracy)",
+			"(?<!xg>)(Accuracy|Accurate)",
 			"(?<!xg>)(Health)",
 			
 			// DE 
@@ -1453,7 +1470,7 @@ class Entry {
 			"(?<!xg>)(Penetrazione)",
 			"(?<!xg>)(Soglia di Danno)",
 			"(?<!xg>)(Precisione)",
-			"(?<!xg>)(_____________)",
+			"(?<!xg>)(Salute)",
 			//es
 			"",
 			"",
@@ -1486,57 +1503,72 @@ class Entry {
 
 	};
 	
+	// Word Icon
+	final static String[] defenseTargetWordsPostfix = new String[] {
+		"<nobr><link=\"glossary://GlossaryEntry_Fortitude\">$1<space=0.7em><#f9d968><sprite=\"Inline\" name=\"cs_fortitude\" tint=1></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Deflection\">$1<space=0.7em><#b0cffd><sprite=\"Inline\" name=\"cs_deflection\" tint=1></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Reflexes\">$1<space=0.7em><#8bf7c3><sprite=\"Inline\" name=\"cs_reflex\" tint=1></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Will\">$1<space=0.7em><#d591f8><sprite=\"Inline\" name=\"cs_will\" tint=1></color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Penetration\">$1<space=0.7em><sprite=\"Inline\" name=\"cs_penetration\" tint=1></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Armor_Rating\">$1<space=0.7em><sprite=\"Inline\" name=\"cs_ar\" tint=1></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Accuracy\">$1<space=0.7em><sprite=\"Inline\" name=\"cs_accuracy\" tint=1></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Health\">$1<space=0.7em><voffset=0.1em><size=80%><#80e27e><sprite=\"Inline\" name=\"cs_health\" tint=1></color></size></voffset><space=-0.8em><voffset=0.8em><size=45%><#4caf50><sprite=\"Inline\" name=\"cs_health\" tint=1></color></size></voffset></link></nobr>"
+	};
+		
+	// Icon Word
+	final static String[] defenseTargetWordsPrefix = new String[] {
+		"<nobr><link=\"glossary://GlossaryEntry_Fortitude\"><#f9d968><sprite=\"Inline\" name=\"cs_fortitude\" tint=1><space=0.7em>$1</color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Deflection\"><#b0cffd><sprite=\"Inline\" name=\"cs_deflection\" tint=1><space=0.7em>$1</color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Reflexes\"><#8bf7c3><sprite=\"Inline\" name=\"cs_reflex\" tint=1><space=0.7em>$1</color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Will\"><#d591f8><sprite=\"Inline\" name=\"cs_will\" tint=1><space=0.7em>$1</color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Penetration\"><sprite=\"Inline\" name=\"cs_penetration\" tint=1><space=0.7em>$1</link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Armor_Rating\"><sprite=\"Inline\" name=\"cs_ar\" tint=1><space=0.7em>$1</link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Accuracy\"><sprite=\"Inline\" name=\"cs_accuracy\" tint=1><space=0.7em>$1</link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Health\"><voffset=0.1em><size=80%><#80e27e><sprite=\"Inline\" name=\"cs_health\" tint=1></color></size></voffset><space=-0.8em><voffset=0.8em><size=45%><#4caf50><sprite=\"Inline\" name=\"cs_health\" tint=1><space=0.7em>$1</color></size></voffset></link></nobr>"
+	};
+	
 	public Entry replaceDefenseWithIcon(String targetLanguage) {
 		Entry result = new Entry();
 		result.ID = this.ID;
 		result.DefaultText = DefaultText;
 		result.FemaleText = FemaleText;
 		
-		String[] targetWords = new String[] {
-			"<#f9d968><sprite=\"Inline\" name=\"cs_fortitude\" tint=1> $1</color>",
-			"<#b0cffd><sprite=\"Inline\" name=\"cs_deflection\" tint=1> $1</color>",
-			"<#8bf7c3><sprite=\"Inline\" name=\"cs_reflex\" tint=1> $1</color>",
-			"<#d591f8><sprite=\"Inline\" name=\"cs_will\" tint=1> $1</color>",
-			"<sprite=\"Inline\" name=\"cs_penetration\" tint=1> $1",
-			"<sprite=\"Inline\" name=\"cs_ar\" tint=1> $1",
-			"<sprite=\"Inline\" name=\"cs_accuracy\" tint=1> $1",
-			"<sprite=\"Inline\" name=\"cs_health\" tint=1> $1",
-		};
+		
 		
 		int i = 0;
 		switch (targetLanguage) {
 			case "en":
-				i = targetWords.length * 0;
+				i = defenseTargetWordsPrefix.length * 0;
 				break;
 			case "de_patch":
-				i = targetWords.length * 1;
+				i = defenseTargetWordsPrefix.length * 1;
 				break;
 			case "fr":
-		//		i = targetWords.length * 2;
+		//		i = defenseTargetWordsPrefix.length * 2;
 				break;
 			case "it":
-				i = targetWords.length * 3;
+				i = defenseTargetWordsPrefix.length * 3;
 				break;
 			case "es":
-		//		i = targetWords.length * 4;
+		//		i = defenseTargetWordsPrefix.length * 4;
 				break;
 			case "pt":
-		//		i = targetWords.length * 5;
+		//		i = defenseTargetWordsPrefix.length * 5;
 				break;
 			case "pl":
-				i = targetWords.length * 6;
+				i = defenseTargetWordsPrefix.length * 6;
 				break;
 			case "ru":
-		//		i = targetWords.length * 7;
+		//		i = defenseTargetWordsPrefix.length * 7;
 				break;
 			case "zh":
-		//		i = targetWords.length * 8;
+		//		i = defenseTargetWordsPrefix.length * 8;
 				break;
 		}
 		
-		for(int j = 0; j < targetWords.length; j++) {
-			result.DefaultText = result.DefaultText.replaceAll(defenseReplacementWords[i + j], targetWords[j]);
-			result.FemaleText = result.FemaleText.replaceAll(defenseReplacementWords[i + j], targetWords[j]);
+		for(int j = 0; j < defenseTargetWordsPrefix.length; j++) {
+			result.DefaultText = result.DefaultText.replaceAll(defenseReplacementWords[i + j], defenseTargetWordsPrefix[j]);
+			result.FemaleText = result.FemaleText.replaceAll(defenseReplacementWords[i + j], defenseTargetWordsPrefix[j]);
 		}
 		if(result.DefaultText.equals(DefaultText) && result.FemaleText.equals(FemaleText)) {
 			return null;
@@ -1552,15 +1584,147 @@ class Entry {
 			result.ID = this.ID;
 			
 			if(this.ID == 391 || this.ID == 4756) {
-				result.DefaultText = "<line-height=100><#157245>" + DefaultText + "</color></line-height>";
+				result.DefaultText = "<line-height=100%><#157245>" + DefaultText + "</color></line-height>";
 				result.FemaleText = !this.FemaleText.equals("") ? "<line-height=100><#157245>" + FemaleText + "</color></line-height>" : FemaleText;
 				return result;
 			}
 			if(this.ID == 392 || this.ID == 4757) {
-				result.DefaultText = "<line-height=100><#bf2a2a>" + DefaultText + "</color></line-height>";
+				result.DefaultText = "<line-height=100%><#bf2a2a>" + DefaultText + "</color></line-height>";
 				result.FemaleText = !this.FemaleText.equals("") ? "<line-height=100><#bf2a2a>" + FemaleText + "</color></line-height>" : FemaleText;
 				return result;
+			}			
+		}
+		return this;
+	}
+	
+	
+	
+	final static String[] manualAfflictionsTitleInsertWords = new String[] {
+			// EN
+			"Constitution Inspiration",
+			"Constitution Affliction",
+			"Resolve Inspiration",
+			"Resolve Affliction",
+			"Dexterity Inspiration",
+			"Dexterity Affliction",
+			"Intellect Inspiration",
+			"Intellect Affliction",
+			"Might Inspiration",
+			"Might Affliction",
+			"Perception Inspiration", // 10
+			"Perception Affliction",
+			"Mind Inspiration",
+			"Mind Affliction",
+			"Body Inspiration",
+			"Body Affliction",
+			
+			// de_patch
+			"Verfassungsinspiration",
+			"Verfassungswirkung",
+			"Entschlossenheitsinspiration",
+			"Entschlossenheitswirkung",
+			"Gewandtheitsinspiration",
+			"Gewandtheitswirkung",
+			"Intellektinspiration",
+			"Intellektwirkung",
+			"Machtinspiration",
+			"Machtwirkung", 
+			"Wahrnehmungsinspiration",
+			"Wahrnehmungswirkung",
+			"Geistesinspiration",
+			"Geisteswirkung",
+			"Körperinspiration",
+			"Körperwirkung",
+
+			// fr
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			
+			// it
+			"Ispirazioni della Costituzione",
+            "Alterazioni della Costituzione",
+            "Ispirazioni della Risolutezza",
+            "Alterazioni della Risolutezza",
+            "Ispirazioni della Destrezza",
+            "Alterazioni della Destrezza",
+            "Ispirazioni dell'Acume",
+            "Alterazioni dell'Acume",
+            "Ispirazioni del Vigore",
+            "Alterazioni del Vigore",
+            "Ispirazioni della Percezione",
+            "Alterazioni della Percezione",
+            "Ispirazioni della Mente",
+            "Alterazioni della Mente",
+            "Ispirazioni del Corpo",
+            "Alterazioni del Corpo",
+	};
+	
+
+	
+	public Entry addAfflictionsTitle(String fileName, String targetLanguage) {
+		if(fileName.contains("cyclopedia")) {
+			Entry result = new Entry();
+			result.ID = this.ID;
+			int language; 
+			
+			switch (targetLanguage) {
+				case "en": language = 16 * 0;
+					break;
+				case "de_patch": language = 16 * 1;
+					break;
+				case "fr": language = 16 * 2;
+					break;
+				case "it": language = 16 * 3;
+					break;
+				default : language = 16 * 0;
 			}
+			
+			
+			if(this.ID == 94 || this.ID == 322 || this.ID == 681) {
+				result.DefaultText = "<line-height=100%><voffset=0.5em><size=95%><link=\"glossary://GlossaryEntry_Afflictions_Perception\"><#dac79c>" + manualAfflictionsTitleInsertWords[11 + language] + "</color></link></size></voffset>\n" + DefaultText;
+				result.FemaleText = this.FemaleText;
+				return result;
+			}
+			if(this.ID == 96 || this.ID == 98 || this.ID == 102) {
+				result.DefaultText = "<line-height=100%><voffset=0.5em><size=95%><link=\"glossary://GlossaryEntry_Afflictions_Intellect\"><#dac79c>" + manualAfflictionsTitleInsertWords[7 + language] + "</color></link></size></voffset>\n" + DefaultText;
+				result.FemaleText = this.FemaleText;
+				return result;
+			}
+			if(this.ID == 100 || this.ID == 120 || this.ID == 683) {
+				result.DefaultText = "<line-height=100%><voffset=0.5em><size=95%><link=\"glossary://GlossaryEntry_Afflictions_Might\"><#dac79c>" + manualAfflictionsTitleInsertWords[9 + language] + "</color></link></size></voffset>\n" + DefaultText;
+				result.FemaleText = this.FemaleText;
+				return result;
+			}
+			if(this.ID == 106 || this.ID == 122 || this.ID == 533) {
+				result.DefaultText = "<line-height=100%><voffset=0.5em><size=95%><link=\"glossary://GlossaryEntry_Afflictions_Resolve\"><#dac79c>" + manualAfflictionsTitleInsertWords[3 + language] + "</color></link></size></voffset>\n" + DefaultText;
+				result.FemaleText = this.FemaleText;
+				return result;
+			}
+			if(this.ID == 108 || this.ID == 110 || this.ID == 118 || this.ID == 112) { // 112 = Petrified
+				result.DefaultText = "<line-height=100%><voffset=0.5em><size=95%><link=\"glossary://GlossaryEntry_Afflictions_Dexterity\"><#dac79c>" + manualAfflictionsTitleInsertWords[5 + language] + "</color></link></size></voffset>\n" + DefaultText;
+				result.FemaleText = this.FemaleText;
+				return result;
+			}
+			if(this.ID == 116 || this.ID == 124 || this.ID == 679) {
+				result.DefaultText = "<line-height=100%><voffset=0.5em><size=95%><link=\"glossary://GlossaryEntry_Afflictions_Constitution\"><#dac79c>" + manualAfflictionsTitleInsertWords[1 + language] + "</color></link></size></voffset>\n" + DefaultText;
+				result.FemaleText = this.FemaleText;
+				return result;
+			}
+
 		}
 		return this;
 	}
@@ -1593,7 +1757,14 @@ class Entry {
 		return result;
 	}
 
-	public Entry stripMarkup() {
+	public Entry stripMarkup(String fileName) {
+		if(fileName.contains("cyclopedia")) {
+			if(this.ID == 94 || this.ID == 322 || this.ID == 681 || this.ID == 96 || this.ID == 98 || this.ID == 102 || this.ID == 100 || this.ID == 120 || this.ID == 683 || this.ID == 106 || this.ID == 122 || this.ID == 533 || this.ID == 108 || this.ID == 110 || this.ID == 118 /*|| this.ID == 112 */ || this.ID == 116 || this.ID == 124 || this.ID == 679) {
+				if(DefaultText.indexOf("\n") > 0) {
+					this.DefaultText = this.DefaultText.substring(DefaultText.indexOf("\n"));
+				}
+			}
+		}
 		this.DefaultText = this.DefaultText.replaceAll("<size=1?[18]0%>.*?</size>", "");
 		this.DefaultText = this.DefaultText.replaceAll("<(?!\\/?xg).*?>", "");
 		this.DefaultText = this.DefaultText.replaceAll("[¹²³₁₂₃]", "");
