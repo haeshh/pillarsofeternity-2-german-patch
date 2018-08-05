@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>{0:value} Alle Verteidigungen bei Treffer. Für jedem Treffer erhält der Wirker {0:extravalue} auf alle Verteidigungen (Kann bis zu {0:triggervalue:straight}-Mal gestapelt werden)</DefaultText>
+      <DefaultText>{0:value} Alle Verteidigungen bei Treffer. Für jedem Treffer erhält der Wirker {0:extravalue} auf alle Verteidigungen (Kann bis zu {0:triggervalue:straight}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>556</ID>
-      <DefaultText>{0:value} Durchschlagskraft nach Erleiden von Frostschaden. Kann bis zu {0:extravalue:straight}-Mal gestapelt werden.</DefaultText>
+      <DefaultText>{0:value} Durchschlagskraft nach Erleiden von Frostschaden. Kann bis zu {0:extravalue:straight}-mal gestapelt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>{0:value:percent} Chance, beim erzielen eines kritischen Treffers Feinden rund um das Ziel Frost-/Hiebschaden zuzufügen.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, beim Erzielen eines kritischen Treffers Feinden rund um das Ziel Frost-/Hiebschaden zuzufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>611</ID>
-      <DefaultText>{0:value:percentbonus} erlitterner Schaden von schleierdurchdringendem Angriff</DefaultText>
+      <DefaultText>{0:value:percentbonus} erlittener Schaden von schleierdurchdringendem Angriff</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
