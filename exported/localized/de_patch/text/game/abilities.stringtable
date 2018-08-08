@@ -756,7 +756,7 @@
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Quälender Zweifel am unerschütterlichen Glauben überfällt Feinde im Wirkungsbereich, verringert ihre Nahkampfgenauigkeit und verwandelt ihre kritischen Treffer zu Treffern.</DefaultText>
+      <DefaultText>Quälender Zweifel am unerschütterlichen Glauben überfällt Feinde im Wirkungsbereich, verringert ihre Genauigkeit für Nahkampfangriffe und verwandelt ihre kritischen Treffer zu Treffern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -851,7 +851,7 @@
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>Der Wirker wird zu einem lebenden Generator für einen mächtigen Elektrizitätsbolzen, der in einer geraden Linie herausschießt, von Wänden abprallt und allem in seinem Weg Schaden zufügt.</DefaultText>
+      <DefaultText>Der Wirker wird zu einem lebenden Generator für einen mächtigen Elektrizitätsbolzen, der in einer geraden Linie herausschießt, von Wänden abprallt und allem in seinem Weg Schockschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -901,7 +901,7 @@
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>Visiert die Essenz des Ziels an und erzeugt eine Hiebklinge, die es angreift, bevor sie auf weitere Ziele überspringt.</DefaultText>
+      <DefaultText>Visiert die Essenz des Ziels an und erzeugt eine für Hiebschaden geformte Klinge, die es angreift, bevor sie auf weitere Ziele überspringt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2551,7 +2551,7 @@
     </Entry>
     <Entry>
       <ID>807</ID>
-      <DefaultText>Verbündete im Wirkungsbereich erhalten eine Resistenz gegen Wirkungen auf Gewandtheit und Macht.</DefaultText>
+      <DefaultText>Verbündete im Wirkungsbereich erhalten eine Resistenz gegen Gewandtheits- und Machtwirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2571,7 +2571,7 @@
     </Entry>
     <Entry>
       <ID>811</ID>
-      <DefaultText>Greift Feinde in sieben Richtungen um den Sänger mit Eisblitzen an.</DefaultText>
+      <DefaultText>Greift Feinde in sieben Richtungen um den Sänger mit Eislanzen an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2881,7 +2881,7 @@
     </Entry>
     <Entry>
       <ID>885</ID>
-      <DefaultText>Ein Schlag auf den Kopf, der die Reaktionsfähigkeit des Feindes beeinträchtigt und ihn betäubt.</DefaultText>
+      <DefaultText>Ein Schlag auf den Kopf, der die Reaktionsfähigkeit des Feindes beeinträchtigt und ihn Betäubt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2996,7 +2996,7 @@
     </Entry>
     <Entry>
       <ID>913</ID>
-      <DefaultText>Beschwört Wurzeln aus dem Boden unterhalb des Ziels herauf, wodurch dieses bewegungsunfähig wird.</DefaultText>
+      <DefaultText>Beschwört Wurzeln aus dem Boden unterhalb des Ziels herauf, wodurch es Bewegungsunfähig wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3041,7 +3041,7 @@
     </Entry>
     <Entry>
       <ID>926</ID>
-      <DefaultText>Der Schurke ist besonders geschickt darin, Angriffen auszuweichen, und verwandelt fast alle leichten Treffer in Fehlschläge.</DefaultText>
+      <DefaultText>Der Schurke ist besonders geschickt darin, Angriffen auszuweichen, und verwandelt fast alle auf Reflexe abziehlende leichten Treffer in Fehlschläge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3741,12 +3741,12 @@
     </Entry>
     <Entry>
       <ID>1306</ID>
-      <DefaultText>Wilde Orlaner haben von Natur aus einen robusten Geist und erhalten eine Resistenz gegen Wirkungen auf Entschlossenheit.</DefaultText>
+      <DefaultText>Wilde Orlaner haben von Natur aus einen robusten Geist und erhalten eine Resistenz gegen Entschlossenheitswirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1307</ID>
-      <DefaultText>Wenn Feuer-Gottähnliche Schwer verletzt oder Dem Tode nahe sind, härten sich ihre Körper und ihr Rüstungswert erhöht sich. Ihre Seelen wehren sich außerdem gegen die Angreifer und fügen allen, die sie im Nahkampf treffen, Brandschaden zu.</DefaultText>
+      <DefaultText>Wenn &lt;xg&gt;Feuer&lt;/xg&gt;-Gottähnliche Schwer verletzt oder Dem Tode nahe sind, härten sich ihre Körper und ihr Rüstungswert erhöht sich. Ihre Seelen wehren sich außerdem gegen die Angreifer und fügen allen, die sie im Nahkampf treffen, Brandschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4156,7 +4156,7 @@
     </Entry>
     <Entry>
       <ID>1543</ID>
-      <DefaultText>Der Zauberwirker beschwört einen gewaltigen elektrischen Blitz, der direkt auf ein einzelnes Ziel springt und anschließend auf mehrere Feinde in der Nähe weiterspringt. Andere im Wirkungsbereich erleiden keinen Schaden durch den arkanen Blitz.</DefaultText>
+      <DefaultText>Der Zauberwirker beschwört einen gewaltigen elektrischen Blitz, der direkt auf ein einzelnes Ziel springt und anschließend auf mehrere Feinde in der Nähe weiterspringt. An jedem Ziel wird Schockschaden angerichtet. Andere im Wirkungsbereich erleiden keinen Schaden durch den arkanen Blitz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5831,7 +5831,7 @@ Einhändig: Direkter Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2074</ID>
-      <DefaultText>(Zorn der fünf Sonnen) – Fünf siedend heiße Geschosse lösen sich aus der Hand des Paladins und richten sich auf das Ziel seiner rechtschaffenen Raserei.</DefaultText>
+      <DefaultText>(Zorn der fünf Sonnen) – Fünf siedend heiße Geschosse lösen sich aus der Hand des Paladins und richten Brandschaden am Ziel seiner rechtschaffenen Raserei an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6141,7 +6141,7 @@ Einhändig: Direkter Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2159</ID>
-      <DefaultText>(Die Lichter tanzten über das Moor) – Irrlichter sind stärker als normalerweise und verfügen über einen Ablenkungsangriff.</DefaultText>
+      <DefaultText>(Die Lichter tanzten über das Moor) – Irrlichter sind stärker als normalerweise und verfügen über einen Ablenkenden Angriff.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11397,7 +11397,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3337</ID>
-      <DefaultText>Die Haut der Feuer-Gottähnlichen ist auf natürliche Weise widerstandsfähig gegen Brandschaden.</DefaultText>
+      <DefaultText>Die Haut der &lt;xg&gt;Feuer&lt;/xg&gt;-Gottähnlichen ist auf natürliche Weise widerstandsfähig gegen Brandschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -882,24 +882,24 @@ class Entry {
 			// IT
 			// Costituzione
 			"(?<!xg>)(In [Ff]orma)", "(?<!xg>)(Poderoso)", "(?<!xg>)(Robusto)",
-			"(?<!xg>)(Nausea)(ndo|no|to|ti|re|\\b)", "(?<!xg>)(Indebol)(endolo|iti|ito|ire|imento|iscono|isce)", "(?<!xg>)(Debilita)(to|ti|\\b)",
+			"(?<!xg>)(Nausea)(ndo|no|to|ti|re|\\b)", "(?<!xg>)(Indebol)(endol[io]|endo|iti|ito|ire|imento|iscono|isce)", "(?<!xg>)(Debilita)(ndo|ndoli|to|ti|\\b)",
 
 			//Risolutezza
 			"(?<!xg>)(Nerbo)", "(?<!xg>)(Risolut[io])", "(?<!xg>)(Coraggios[io])",
-			"(?<!xg>)(Scoss)(o|i)", "(?<!xg>)(Spaventa)(ndo|re|to|\\b)", "(?<!xg>)(Terrorizza)(ndo|no|to|ti)",
+			"(?<!xg>)(Scoss)(o|i)", "(?<!xg>)(Spaventa)(ndoli|ndo|re|to|\\b)", "(?<!xg>)(Terrorizza)(ndo|no|to|ti)",
 			
 			// Destrezza
-			"(?<!xg>)(Veloc[ei])(?!tà)", "(?<!xg>)(Lest[io])", "(?<!xg>)(Rapid[io])",
-			"(?<!xg>)(Azzoppa)(ndo|to|re|ti|no|\\b)", "(?<!xg>)(Immobilizza)(ndolo|ndo|no|to|re)", "(?<!xg>)(Parali)(zzando|zzato|si|zza)",
-			
+			"(?<!xg>)(Velocizza(ndoli|nte|ndo|to)|Veloc[ei])(?!tà)", "(?<!xg>)(Lest[io])", "(?<!xg>)(Rapid[io])",
+			"(?<!xg>)(Azzoppa)(ndoli|ndo|to|re|ti|no|\\b)", "(?<!xg>)(Immobilizza)(ndolo|ndo|no|to|re)", "(?<!xg>)(Parali)(zzando|zzano|zzandoli|zzato|si|zza)",
+			 
 			// Acume
 			"(?<!xg>)(Argut[io])", "(?<!xg>)(Perspicac[ie])", "(?<!xg>)(Brillant[ie])",
-			"(?<!xg>)(Conf)(usione|usi|uso|onde)", "(?<!xg>)(Charme|Incantat[io]|Incantare)(\\b)", "(?<!xg>)(Domina)(zione|to|\\b)",
+			"(?<!xg>)(Conf)(usione|usi|uso|ondendoli|ondendo|onde)", "(?<!xg>)(Charme|Incantat[io]|Incantare)(\\b)", "(?<!xg>)(Domina)(zione|to|\\b)",
 			
 			// Vigore
 			"(?<!xg>)(Fort[ei])(?!tude)", "(?<!xg>)(Tenace)", "(?<!xg>)(Energico)",
-			"(?<!xg>)(Sorpre)(si|so|ndeno|ndendo)", "(?<!xg>)(Disorienta)(ndol[oi]|ndo|nte|mento|to|ti|re|\\b)", "(?<!xg>)(Stord)(endo|isce|ito|iti|imento|ire|iscono|irai)",
-			
+			"(?<!xg>)(Sorpre)(si|so|nd[oe]no|ndendo)", "(?<!xg>)(Disorienta)(ndol[oi]|ndo|nte|mento|to|ti|re|\\b)", "(?<!xg>)(Stord)(endoli|endo|isce|ito|iti|imento|ire|iscono|irai)",
+			 
 			// Percezione
 			"(?<!xg>)(Profond[io])", "(?<!xg>)(Consapevol[ie])", "(?<!xg>)(Intuitiv[ioa])",
 			"(?<!xg>)(Distra)(ggono|tti|tto|rre|e)", "(?<!xg>)(Spaesa)(to|ti)", "(?<!xg>)(Cecità|Accecan?[dt]?[io]?|Accecare)(\\b)",
@@ -1196,22 +1196,22 @@ class Entry {
 			"",
 			
 			// it
-			"(Ispirazioni della Costituzione)",
+			"(Ispirazion[ei] della Costituzione)",
             "(Alterazion[ei] della Costituzione)",
-            "(Ispirazioni della Risolutezza)",
+            "(Ispirazion[ei] della Risolutezza)",
             "(Alterazion[ei] della Risolutezza)",
-            "(Ispirazioni della Destrezza)",
+            "(Ispirazion[ei] della Destrezza)",
             "(Alterazion[ei] della Destrezza)",
             "(Ispirazion[ei] dell'Acume)",
-            "(Alterazioni dell'Acume)",
+            "(Alterazion[ei] dell'Acume)",
             "(Ispirazion[ei] d(el|i)? Vigore)",
-            "(Alterazioni del Vigore)",
+            "(Alterazion[ei] del Vigore)",
             "(Ispirazion[ei] della Percezione)",
-            "(Alterazioni della Percezione)",
+            "(Alterazion[ei] della Percezione)",
             "(Ispirazion[ei] della Mente)",
-            "(Alterazioni della Mente)",
-            "(Ispirazioni del Corpo)",
-            "(Alterazioni del Corpo)",
+            "(Alterazion[ei] della Mente)",
+            "(Ispirazion[ei] del Corpo)",
+            "(Alterazion[ei] del Corpo)",
 	};
             
 	// Word Icon
@@ -1316,15 +1316,15 @@ class Entry {
 			"",
 			"",
 			"",
-			//it
-			"(?<!xg>)(Ustione)(\\b)",
-			"(?<!xg>)(Corrosione)(\\b)",
-			"(?<!xg>)(Impatto)(\\b)",
-			"(?<!xg>)(Congelamento)(\\b)",
-			"(?<!xg>)(Perforazione)(\\b)",
-			"(?<!xg>)(Puro)(\\b)",
-			"(?<!xg>)(Lacera)(zione|nte)",
-			"(?<!xg>)(Folgorazione)(\\b)",
+			//it            
+            "(?<!xg>)(Ustion[ei])(ant[ei]|\\b)",
+            "(?<!xg>)(Corrosi)(on[ei]|v[oi])",
+            "(?<!xg>)(Impatt[oi])(\\b)",
+            "(?<!xg>)(Congela)(zion[ei]|ment[oi]|nt[ei])",
+            "(?<!xg>)(Perforazion[ei])(nt[ei]|\\b)",
+            "(?<!xg>)(Puro)(\\b)",
+            "(?<!xg>)(Lacera)(zion[ei]|nt[ei])",
+            "(?<!xg>)(Folgorazion[ei])(nt[ei]|\\b)",
 			//es
 			"",
 			"",
