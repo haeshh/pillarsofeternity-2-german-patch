@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Die Rauatai und die Huana erheben beide Anspruch auf das Harapo-Epos – eine antike Tafel, die sich derzeit im Besitz des Zauberers &lt;b&gt;Arkemyr&lt;/b&gt; befindet. Sowohl &lt;b&gt;Tumara&lt;/b&gt; als auch &lt;b&gt;Netehe&lt;/b&gt; sind begierig darauf, die Tafel in die Hände zu bekommen. Jeder von ihnen wäre dankbar, wenn das Epos ihnen in die Hände fallen würde.</DefaultText>
+      <DefaultText>Die Rauatai und die Huana erheben beide Anspruch auf das Harapo-Epos – eine antike Tafel, die sich derzeit im Besitz des Zauberers Arkemyr befindet. Sowohl &lt;b&gt;Tumara&lt;/b&gt; als auch &lt;b&gt;Netehe&lt;/b&gt; sind begierig darauf, die Tafel in die Hände zu bekommen. Jeder von ihnen wäre dankbar, wenn das Epos ihnen in die Hände fallen würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,32 +46,34 @@
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Ich habe es in &lt;b&gt;Arkemyrs Anwesen&lt;/b&gt; geschafft. Jetzt muss ich nur noch seine &lt;b&gt;Schatzkammer&lt;/b&gt; finden.</DefaultText>
+      <DefaultText>Ich habe es in Arkemyrs Anwesen geschafft. Jetzt muss ich nur noch seine &lt;b&gt;Schatzkammer&lt;/b&gt; finden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Ich habe &lt;b&gt;Arkemyrs Schatzkammer&lt;/b&gt; gefunden, die Tür wird aber durch eine Art Kombinationsschloss mit seltenen Edelsteinen gesichert. Durch Herumraten werde ich sie kaum aufbekommen. Ich brauche also die Kombination, um in die Schatzkammer zu gelangen.</DefaultText>
+      <DefaultText>Ich habe &lt;b&gt;Arkemyrs Schatzkammer&lt;/b&gt; gefunden, die Tür wird aber durch eine Art Kombinationsschloss mit seltenen Edelsteinen gesichert.
+
+Durch Herumraten werde ich sie kaum aufbekommen. Ich brauche also die Kombination, um in die Schatzkammer zu gelangen. Diese befindet sich wahrscheimlich irgendwo in b&gt;Arkemyrs Anwesen&lt;/b&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Ich habe &lt;b&gt;Arkemyrs Schatzkammer&lt;/b&gt; aufgebrochen. Das Harapo-Epos sollte sich darin befinden.</DefaultText>
+      <DefaultText>Ich habe Arkemyrs Schatzkammer aufgebrochen. Das Harapo-Epos sollte sich darin befinden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Da ich nun im Besitz des Harapo-Epos bin, ist die einzige Frage nur, was ich damit anstellen soll. &lt;b&gt;Tumara&lt;/b&gt; wird mich vor dem &lt;b&gt;Kaiserlichen Kommando&lt;/b&gt; an der &lt;b&gt;Messingzitadelle&lt;/b&gt; erwarten. &lt;b&gt;Netehe&lt;/b&gt; wartet vor dem &lt;b&gt;Palast&lt;/b&gt; in &lt;b&gt;Schlangenkrone&lt;/b&gt;.</DefaultText>
+      <DefaultText>Da ich nun im Besitz des Harapo-Epos bin, ist die einzige Frage nur, was ich damit anstellen soll. &lt;b&gt;Tumara&lt;/b&gt; wird mich vor dem &lt;b&gt;Kaiserlichen Kommando&lt;/b&gt; an der Messingzitadelle erwarten. &lt;b&gt;Netehe&lt;/b&gt; wartet vor dem &lt;b&gt;Palast&lt;/b&gt; in Schlangenkrone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>&lt;b&gt;Arkemyrs&lt;/b&gt; Lehrling &lt;b&gt;Fassina&lt;/b&gt; müsste mehr über das Anwesen wissen. Sie betreibt den &lt;b&gt;Dunklen Schrank&lt;/b&gt; in &lt;b&gt;Perikis Aussichtspunkt&lt;/b&gt;.</DefaultText>
+      <DefaultText>&lt;b&gt;Arkemyrs&lt;/b&gt; Lehrling &lt;b&gt;Fassina&lt;/b&gt; müsste mehr über das Anwesen wissen. Sie betreibt den &lt;b&gt;Dunklen Schrank&lt;/b&gt; in Perikis Aussichtspunkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>Jemand namens &lt;b&gt;Ifren&lt;/b&gt; hat &lt;b&gt;Arkemyr&lt;/b&gt; gegen sich aufgebracht und wurde dafür in die Wahrsagermaschine im &lt;b&gt;Dunklen Schrank&lt;/b&gt; seelengebunden. Er weiß vielleicht mehr darüber, wie ich in &lt;b&gt;Arkemyrs&lt;/b&gt; Anwesen gelangen kann.</DefaultText>
+      <DefaultText>Jemand namens &lt;b&gt;Ifren&lt;/b&gt; hat Arkemyr gegen sich aufgebracht und wurde dafür in die Wahrsagermaschine im &lt;b&gt;Dunklen Schrank&lt;/b&gt; seelengebunden. Er weiß vielleicht mehr darüber, wie ich in Arkemyrs Anwesen gelangen kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +98,7 @@
     </Entry>
     <Entry>
       <ID>20006</ID>
-      <DefaultText>Ein Imp in der Lounge im ersten Stock steckt angeblich hinter dem Diebstahl des Edelsteins aus dem Schloss.</DefaultText>
+      <DefaultText>Ein &lt;b&gt;Imp&lt;/b&gt; in der &lt;b&gt;Lounge im ersten Stock&lt;/b&gt; steckt angeblich hinter dem Diebstahl des Edelsteins aus dem Schloss.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +113,7 @@
     </Entry>
     <Entry>
       <ID>20009</ID>
-      <DefaultText>Ich könnte vom oberen Stockwerk des &lt;b&gt;Dunklen Schranks&lt;/b&gt; über den Balkon in &lt;b&gt;Arkemyrs Anwesen&lt;/b&gt; gelangen. Dafür brauche ich aber Enterhaken und Seil.</DefaultText>
+      <DefaultText>Ich könnte vom &lt;b&gt;oberen Stockwerk des Dunklen Schranks&lt;/b&gt; über den &lt;b&gt;Balkon&lt;/b&gt; in Arkemyrs Anwesen gelangen. Dafür brauche ich aber Enterhaken und Seil.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,22 +123,22 @@
     </Entry>
     <Entry>
       <ID>20011</ID>
-      <DefaultText>&lt;b&gt;Arkemyrs Schatzkammer&lt;/b&gt; befindet sich in der südwestlichen Ecke der untersten Etage des Anwesens.</DefaultText>
+      <DefaultText>&lt;b&gt;Arkemyrs Schatzkammer&lt;/b&gt; befindet sich in der südwestlichen Ecke der &lt;b&gt;untersten Etage des Anwesens&lt;/b&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20012</ID>
-      <DefaultText>Wenn es mir gelingt, eine von &lt;b&gt;Arkemyrs&lt;/b&gt; persönlichen Roben in seiner Kammer zu finden, könnte ich seine Imp-Wachen täuschen.</DefaultText>
+      <DefaultText>Wenn es mir gelingt, eine von Arkemyrs persönlichen Roben in seiner &lt;b&gt;Kammer&lt;/b&gt; zu finden, könnte ich seine Imp-Wachen täuschen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20013</ID>
-      <DefaultText>Ich habe den Schlüssel zur Vordertür von &lt;b&gt;Arkemyrs&lt;/b&gt; Anwesen von &lt;b&gt;Fassina&lt;/b&gt; erhalten.</DefaultText>
+      <DefaultText>Ich habe den Schlüssel zur Vordertür von Arkemyrs Anwesen von &lt;b&gt;Fassina&lt;/b&gt; erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20014</ID>
-      <DefaultText>&lt;b&gt;Arkemyr&lt;/b&gt; nannte seinen Imps eine Losung, mit der sie ihn wiedererkennen, sollte er seine Gestalt ändern – Cider und Käse.</DefaultText>
+      <DefaultText>Arkemyr nannte seinen Imps eine &lt;b&gt;Losung&lt;/b&gt;, mit der sie ihn wiedererkennen, sollte er seine Gestalt ändern – &lt;b&gt;Cider und Käse&lt;/b&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
