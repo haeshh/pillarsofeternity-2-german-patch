@@ -847,10 +847,10 @@ class Entry {
 			"(?<!xg>)(Verwirrt)(e|\\b)", "(?<!xg>)(Bezaubert)(er|e|\\b)", "(?<!xg>)(Beherrscht)(e|\\b)",
 			// Macht
 			"(?<!xg>)(Stark(e)?)\\b", "(?<!xg>)(Hartnäckig(e)?)", "(?<!xg>)(Munter(e)?)",
-			"(?<!xg>)(Taumeln)(de|d|\\b)", "(?<!xg>)(Benommen)(e|heit|\\b)", "(?<!xg>)(Betäub)(en|te|t)",
+			"(?<!xg>)(Taumeln)(de|d|\\b)", "(?<!xg>)(Benommen)(e|heit|\\b)", "(?<!xg>)(Betäub)(ung|en|te|t)",
 			// Wahrnehmung
 			"(?<!xg>)(Einsichtig(e)?)", "(?<!xg>)(Aufmerksam(e)?)", "(?<!xg>)(Intuitiv(e)?)",
-			"(?<!xg>)(Abgelenkt)(er|e|\\b)", "(?<!xg>)(Desorientier)(te|t|render|\\b)", "(?<!xg>)(G?e?blende|[Ee]rblinde)(te|t|n(?!d))",
+			"(?<!xg>)(Abgelenkt|Ablenkenden)(er|e|\\b)", "(?<!xg>)(Desorientier)(te|t|render|\\b)", "(?<!xg>)(G?e?blende|[Ee]rblinde)(te|t|n(?!d))",
 			
 			
 			// FR
@@ -1298,10 +1298,10 @@ class Entry {
 			
 			
 			// DE
-			"(?<!xg>)(Brand-?|Brandzeit|Brandflächen|[Vv]erbrennt)(sch[aä]den|effekt|\\b)",
+			"(?<!xg>)(Brand-?|Brandzeit|Brandflächen|[Vv]erbrennt|Feuer)(sch[aä]den|effekt|angriffen?|\\b)",
 			"(?<!xg>)(Zersetzung-?)(ssch[aä]den|\\b)",
 			"(?<!xg>)(Wucht-?)(sch[aä]den|\\b)",
-			"(?<!xg>)(Frost-?)(sch[aä]den|\\b)",
+			"(?<!xg>)(Frost-?|Eislanzen)(sch[aä]den|angriffen?|\\b)",
 			"(?<!xg>)(Stich-?)(sch[aä]den|\\b)",
 			"(?<!xg>)(Direkt-?|[Dd]irekte[rnm] )((Gift|Blutungs|Zeit)?[sS]chaden)",
 			"(?<!xg>)(Hieb-?)(sch[aä]den|\\b)",
@@ -1359,26 +1359,26 @@ class Entry {
 		
 	// Word Icon Rest
 	final static String[] damageTypeTargetWordsInfix = new String[] {
-		"<nobr><link=\"glossary://GlossaryEntry_Burning\">$1$2<space=0.7em><sprite=\"Inline\" name=\"cs_burn\" tint=1></link></nobr>",
-		"<nobr><link=\"glossary://GlossaryEntry_Corrode\">$1$2<space=0.7em><sprite=\"Inline\" name=\"cs_corrosive\" tint=1></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Burning\"><#e86a1d>$1$2</color><space=0.2em><size=120%><#d84315><voffset=-0.05em><sprite=\"Inline\" name=\"cs_burn\" tint=1></voffset></color></size><space=-4.6em><#ff9800><size=85%><sprite=\"Inline\" name=\"cs_burn\" tint=1></size></color><space=-2.9em><size=45%><#fff59d><sprite=\"Inline\" name=\"cs_burn\" tint=1></color></size></link><space=1em></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Corrode\"><#adc455>$1$2<#9ba967><space=0.3em><sprite=\"Inline\" name=\"cs_corrosive\" tint=1></color><space=-0.3em></color></link></nobr>",
 		"<nobr><link=\"glossary://GlossaryEntry_Crushing\">$1$2<space=0.7em><sprite=\"Inline\" name=\"cs_blunt\" tint=1></link></nobr>",
-		"<nobr><link=\"glossary://GlossaryEntry_Freezing\">$1$2<space=0.7em><sprite=\"Inline\" name=\"cs_freeze\" tint=1></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Freezing\"><#b3e5fc>$1$2<space=0.7em><sprite=\"Inline\" name=\"cs_freeze\" tint=1></color></link></nobr>",
 		"<nobr><link=\"glossary://GlossaryEntry_Piercing\">$1$2<space=0.7em><sprite=\"Inline\" name=\"cs_pierce\" tint=1></link></nobr>",
-		"<nobr><link=\"glossary://GlossaryEntry_Raw\">$1$2<space=0.7em><sprite=\"Inline\" name=\"cs_raw\" tint=1></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Raw\"><#ef5350>$1$2<space=0.3em><#b71c1c><sprite=\"Inline\" name=\"cs_raw\" tint=1></color><space=-3.8em><voffset=0.25em><size=60%><sprite=\"Inline\" name=\"cs_raw\" tint=1></size></voffset></color><space=0.5em></link></nobr>",
 		"<nobr><link=\"glossary://GlossaryEntry_Slashing\">$1$2<space=0.7em><sprite=\"Inline\" name=\"cs_slash\" tint=1></link></nobr>",
-		"<nobr><link=\"glossary://GlossaryEntry_Shock\">$1$2<space=0.3em><sprite=\"Inline\" name=\"cs_shock\" tint=1></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Shock\"><#fff151>$1$2<voffset=-0.1em><sprite=\"Inline\" name=\"cs_shock\" tint=1></voffset></color></link><space=-1em></nobr>",
 	};
 	
 	//  Icon Word Rest
 	final static String[] damageTypeTargetWordsPrefix = new String[] {
-		"<nobr><link=\"glossary://GlossaryEntry_Burning\"><sprite=\"Inline\" name=\"cs_burn\" tint=1><space=0.7em>$1$2</link></nobr>",
-		"<nobr><link=\"glossary://GlossaryEntry_Corrode\"><sprite=\"Inline\" name=\"cs_corrosive\" tint=1><space=0.7em>$1$2</link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Burning\"><space=-0.7em><size=120%><#d84315><voffset=-0.05em><sprite=\"Inline\" name=\"cs_burn\" tint=1></voffset></color></size><space=-4.6em><#ff9800><size=85%><sprite=\"Inline\" name=\"cs_burn\" tint=1></size></color><space=-2.9em><size=45%><#fff59d><sprite=\"Inline\" name=\"cs_burn\" tint=1></color></size><#e86a1d><space=1em>$1$2</color></link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Corrode\"><#9ba967><sprite=\"Inline\" name=\"cs_corrosive\" tint=1></color><#adc455><space=0.3em>$1$2</color></link></nobr>",
 		"<nobr><link=\"glossary://GlossaryEntry_Crushing\"><sprite=\"Inline\" name=\"cs_blunt\" tint=1><space=0.7em>$1$2</link></nobr>",
-		"<nobr><link=\"glossary://GlossaryEntry_Freezing\"><sprite=\"Inline\" name=\"cs_freeze\" tint=1><space=0.7em>$1$2</link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Freezing\"><#b3e5fc><sprite=\"Inline\" name=\"cs_freeze\" tint=1><space=0.7em>$1$2</color></link></nobr>",
 		"<nobr><link=\"glossary://GlossaryEntry_Piercing\"><sprite=\"Inline\" name=\"cs_pierce\" tint=1><space=0.7em>$1$2</link></nobr>",
-		"<nobr><link=\"glossary://GlossaryEntry_Raw\"><sprite=\"Inline\" name=\"cs_raw\" tint=1><space=0.7em>$1$2</link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Raw\"><space=-0.5em><#b71c1c><sprite=\"Inline\" name=\"cs_raw\" tint=1></color><space=-3.8em><voffset=0.25em><#ef5350><size=60%><sprite=\"Inline\" name=\"cs_raw\" tint=1></size></voffset></color><#b71c1c><space=1em>$1$2</color></link></nobr>",
 		"<nobr><link=\"glossary://GlossaryEntry_Slashing\"><sprite=\"Inline\" name=\"cs_slash\" tint=1><space=0.7em>$1$2</link></nobr>",
-		"<nobr><link=\"glossary://GlossaryEntry_Shock\"><sprite=\"Inline\" name=\"cs_shock\" tint=1><space=0.7em>$1$2</link></nobr>",
+		"<nobr><link=\"glossary://GlossaryEntry_Shock\"><space=-0.5em><#fff151><voffset=-0.1em><sprite=\"Inline\" name=\"cs_shock\" tint=1></voffset><space=-0.3em>$1$2</color></link></nobr>",
 	};
 	
 	public Entry replaceDamageTypeWithIcon(String targetLanguage) {
@@ -1450,8 +1450,8 @@ class Entry {
 			"(?<!xg>)(Willen?\\b|Willensverteidigung)",
 			"(?<!xg>)(Durchschlag|Durchschlagskraft)",
 			"(?<!xg>)(RW|Rüstungswert)",
-			"(?<!xg>)(Genauigkeit)",
-			"(?<!xg>)(Gesundheit)",
+			"(?<!xg>)(Nahkampfgenauigkeit|Fernkampfgenauigkeit|Schussgenauigkeit|Genauigkeit)",
+			"(?<!xg>)(Gesundheit|Heilungskreis|Heilung|Heileffekte?)",
 			
 			//fr
 			"",
@@ -1468,7 +1468,7 @@ class Entry {
 			"(?<!xg>)(Riflessi)",
 			"(?<!xg>)(Volontà)",
 			"(?<!xg>)(Penetrazione)",
-			"(?<!xg>)(Soglia di Danno)",
+			"(?<!xg>)(Sogli[ae] di Danno)",
 			"(?<!xg>)(Precisione)",
 			"(?<!xg>)(Salute)",
 			//es
@@ -1524,7 +1524,7 @@ class Entry {
 		"<nobr><link=\"glossary://GlossaryEntry_Penetration\"><sprite=\"Inline\" name=\"cs_penetration\" tint=1><space=0.7em>$1</link></nobr>",
 		"<nobr><link=\"glossary://GlossaryEntry_Armor_Rating\"><sprite=\"Inline\" name=\"cs_ar\" tint=1><space=0.7em>$1</link></nobr>",
 		"<nobr><link=\"glossary://GlossaryEntry_Accuracy\"><sprite=\"Inline\" name=\"cs_accuracy\" tint=1><space=0.7em>$1</link></nobr>",
-		"<nobr><link=\"glossary://GlossaryEntry_Health\"><voffset=0.1em><size=80%><#80e27e><sprite=\"Inline\" name=\"cs_health\" tint=1></color></size></voffset><space=-0.8em><voffset=0.8em><size=45%><#4caf50><sprite=\"Inline\" name=\"cs_health\" tint=1><space=0.7em>$1</color></size></voffset></link></nobr>"
+		"<nobr><link=\"glossary://GlossaryEntry_Health\"><voffset=0.1em><size=80%><#80e27e><sprite=\"Inline\" name=\"cs_health\" tint=1></color></size></voffset><space=-0.8em><voffset=0.8em><size=45%><#4caf50><sprite=\"Inline\" name=\"cs_health\" tint=1></size></voffset><space=0.7em>$1</color></link></nobr>"
 	};
 	
 	public Entry replaceDefenseWithIcon(String targetLanguage) {
