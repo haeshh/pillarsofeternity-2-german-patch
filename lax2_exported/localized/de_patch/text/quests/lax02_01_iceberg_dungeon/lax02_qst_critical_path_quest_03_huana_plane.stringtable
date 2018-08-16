@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_03_huana_plane</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>13</EntryCount>
+  <EntryCount>14</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -28,16 +28,16 @@ Wenn ich den Huana-Geist finden kann, der für diesen Ort verantwortlich ist, ka
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Die Bewohner dieses Reiches haben Angst vor mir. Sie halten mich für einen Eindringling. Wenn ich herausfinden will, was hier passiert ist, muss ich den König finden, der sie ins Exil schickte.
+      <DefaultText>Die Bewohner dieses Reiches haben Angst vor mir. Sie halten mich für einen Eindringling. Wenn ich herausfinden will, was hier passiert ist, muss ich den &lt;b&gt;König&lt;/b&gt; finden, der sie ins Exil schickte.
 
 Vielleicht kann ich von den im Wasser treibenden Seelenfragmenten mehr erfahren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Ich habe mehrere Fragmente der Seele eines alten Huana-Königs gesammelt.
+      <DefaultText>Ich habe mehrere Fragmente der Seele eines alten &lt;b&gt;Huana-Königs&lt;/b&gt; gesammelt.
 
-Wenn ich dem Geist wieder zu seiner Machtposition verhelfe, kann ich ihn vielleicht überzeugen, mir bei der Vernichtung von Neriscyrlas zu helfen.</DefaultText>
+Wenn ich dem Geist wieder zu seiner &lt;b&gt;Machtposition&lt;/b&gt; verhelfe, kann ich ihn vielleicht überzeugen, mir bei der Vernichtung von Neriscyrlas zu helfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -62,17 +62,22 @@ Wenn ich dem Geist wieder zu seiner Machtposition verhelfe, kann ich ihn viellei
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Ich überzeugte König Wingauro o Watūri I, sich mit seinem Versagen abzufinden. Er stimmte zu, dass es Zeit war, das Untergegangene Königreich zu verlassen, und so verstreute ich seine Essenz in das Nichts.</DefaultText>
+      <DefaultText>Ich überzeugte &lt;b&gt;König Wingauro o Watūri I&lt;/b&gt;, sich mit seinem Versagen abzufinden. Er stimmte zu, dass es Zeit war, das &lt;b&gt;Untergegangene Königreich&lt;/b&gt; zu verlassen, und so verstreute ich seine Essenz in das Nichts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Ich überzeugte König Wingauro o Watūri I, sich mit seinem Versagen abzufinden. Durch neu gefundenen Mut gestärkt, stimmte er zu, mir beim Kampf gegen den Drachen Neriscyrlas zu helfen.</DefaultText>
+      <DefaultText>Ich überzeugte &lt;b&gt;König Wingauro o Watūri I&lt;/b&gt;, sich mit seinem Versagen abzufinden. Durch neu gefundenen Mut gestärkt, stimmte er zu, mir beim Kampf gegen den Drachen &lt;b&gt;Neriscyrlas&lt;/b&gt; zu helfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Ich überzeugte König Wingauro o Watūri I, sich mit seinem Versagen abzufinden. Er stimmte zu, dass es Zeit war, das Untergegangene Königreich zu verlassen, und so absorbierte ich seine Seele, um sie an das Rad zurückzuführen.</DefaultText>
+      <DefaultText>Ich überzeugte &lt;b&gt;König Wingauro o Watūri I&lt;/b&gt;, sich mit seinem Versagen abzufinden. Er stimmte zu, dass es Zeit war, das &lt;b&gt;Untergegangene Königreich&lt;/b&gt; zu verlassen, und so absorbierte ich seine Seele, um sie an das Rad zurückzuführen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>[TEMP] Ich konnte &lt;b&gt;King Wingauro o Waturi I&lt;/b&gt; nicht davon überzeugen, sich mit seinem Versagen abzufinden. Er entschloss sich im &lt;b&gt;Untergegangene Königreich&lt;/b&gt; zu bleiben, bis er wohl vom Weißen Nichts verschlungen wird.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
