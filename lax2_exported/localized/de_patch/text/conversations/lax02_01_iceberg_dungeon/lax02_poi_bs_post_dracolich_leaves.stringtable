@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\lax02_01_iceberg_dungeon\lax02_poi_bs_post_dracolich_leaves</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>11</EntryCount>
+  <EntryCount>12</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -57,6 +57,11 @@
     <Entry>
       <ID>14</ID>
       <DefaultText>„Vielleicht hast du nicht hart genug auf es eingeprügelt, Edér.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>„Nein, da stimmt etwas nicht. Wenn wir Drachen töten, sollten sie eigentlich tot bleiben. Bin mir ziemlich sicher, dass es dafür ein Gesetz gibt.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
