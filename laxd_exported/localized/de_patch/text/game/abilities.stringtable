@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>23</EntryCount>
+  <EntryCount>25</EntryCount>
   <Entries>
     <Entry>
       <ID>4644</ID>
@@ -117,6 +117,16 @@
     <Entry>
       <ID>4758</ID>
       <DefaultText>Die tödlichen Schläge des Trägers machen ihn für kurze Zeit unsichtbar und gewähren ihm so die Gelegenheit zur Flucht oder zum erneuten Zuschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4895</ID>
+      <DefaultText>Increases the wearer's Hit to Crit Chance based on the party's current wealth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4897</ID>
+      <DefaultText>Increases the wearer's Resolve when the party has little currency.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

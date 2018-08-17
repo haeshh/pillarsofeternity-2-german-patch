@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>12</EntryCount>
+  <EntryCount>10</EntryCount>
   <Entries>
     <Entry>
       <ID>510</ID>
@@ -17,11 +17,6 @@
     <Entry>
       <ID>517</ID>
       <DefaultText>Vom Träger angegriffene Gegner brauchen einen zusätzlichen Verbündeten zum Flankieren</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>518</ID>
-      <DefaultText>Erhöht basierend auf dem aktuellen Vermögen der Gruppe die Chance des Trägers, Treffer in kritische Treffer zu verwandeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -42,11 +37,6 @@
     <Entry>
       <ID>527</ID>
       <DefaultText>Fügt Feinden mit Gesundheit über 50 % {0:value:percentbonus} Schaden zu</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>528</ID>
-      <DefaultText>Erhöht die Entschlossenheit des Trägers basierend darauf, wie wenig Geld die Gruppe hat</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
