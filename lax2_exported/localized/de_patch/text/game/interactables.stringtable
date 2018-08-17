@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\interactables</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>35</EntryCount>
+  <EntryCount>37</EntryCount>
   <Entries>
     <Entry>
       <ID>659</ID>
@@ -177,6 +177,16 @@
     <Entry>
       <ID>703</ID>
       <DefaultText>Die Luft ist erfüllt von strengem Tiergeruch, vermischt mit dem Gestank frisch erlegter Beute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>Das Weiße Nichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>Die andere Seite dieses Portals steht unter Wasser.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
