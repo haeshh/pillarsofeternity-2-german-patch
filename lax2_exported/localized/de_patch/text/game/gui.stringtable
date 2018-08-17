@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>72</EntryCount>
+  <EntryCount>73</EntryCount>
   <Entries>
     <Entry>
       <ID>4295</ID>
@@ -372,6 +372,11 @@ Priester von Rymrgand lernen die folgenden Zaubersprüche automatisch auf der je
     <Entry>
       <ID>4961</ID>
       <DefaultText>Willkommen in der Botenwacht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4994</ID>
+      <DefaultText>Hájo</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
