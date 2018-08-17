@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>109</EntryCount>
+  <EntryCount>108</EntryCount>
   <Entries>
     <Entry>
       <ID>4705</ID>
@@ -77,7 +77,7 @@ Die jüngste der Dutzenden, Ysly von Baelreach, hatte dem Duc fünf Jahre lang g
       <ID>5029</ID>
       <DefaultText>Sonnenuhren wie diese werden von Schäfern oder Bauern verwendet, die die meiste Zeit im Freien verbringen. Man misst mit ihnen die Zeit, indem man die zentrale Achse passend zum Monat ausrichtet, wodurch das Sonnenlicht durch ein winziges Loch gebündelt wird und auf eine Reihe von Zahlen fällt, die im Inneren des Ringes eingraviert sind.
 
-Waidwen muss diesen Gegenstand während des Krieges des Heiligen getragen haben, da die Luft um ihn herum vor Macht zittert.</DefaultText>
+Waidwen muss diesen Gegenstand während des Krieges des Heiligen getragen haben, da die Luft um ihn herum vor &lt;xg&gt;Macht&lt;/xg&gt; zittert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,7 +87,7 @@ Waidwen muss diesen Gegenstand während des Krieges des Heiligen getragen haben,
     </Entry>
     <Entry>
       <ID>5046</ID>
-      <DefaultText>Ein Kuaru-Schmied schmiedete sein Meisterstück, dem er den Namen Tangaloa gab und behauptete, dass es jeden Feind ins Maul des Großen Aals schicken würde. Nachdem er seine Handwerkskunst bei allen, die es hören wollten, in höchsten Tönen angepriesen hatte, redete Rikuhu im Schlaf zu ihm und drückte seine Enttäuschung darüber aus, dass er nicht beide Aspekte der Gottheit ehrte. Dadurch gleichermaßen gedemütigt wie erschrocken schmiedete der Schmied das Gegenstück Kohopa, um das Gebot des Gottes zu ehren. Er verband die beiden Waffen und drehte die Klingen ineinander.
+      <DefaultText>Ein Kuaru-Schmied schmiedete sein Meisterstück, dem er den Namen Tangaloa gab und behauptete, dass es jeden Feind ins Maul des Großen Aals schicken würde. Nachdem er seine Handwerkskunst bei allen, die es hören wollten, in höchsten Tönen angepriesen hatte, sprach Rikuhu im Schlaf zu ihm und drückte seine Enttäuschung darüber aus, dass er nicht beide Aspekte der Gottheit ehrte. Dadurch gleichermaßen gedemütigt wie erschrocken schmiedete der Schmied das Gegenstück Kohopa, um das Gebot des Gottes zu ehren. Er verband die beiden Waffen und drehte die Klingen ineinander.
 
 Dann verkaufte er die Waffe so schnell wie möglich und schmiedete nie wieder eine Waffe im Namen der Götter.</DefaultText>
       <FemaleText />
@@ -99,7 +99,7 @@ Dann verkaufte er die Waffe so schnell wie möglich und schmiedete nie wieder ei
     </Entry>
     <Entry>
       <ID>5059</ID>
-      <DefaultText>Der Legende zufolge schmiedete ein alter Wasserformer aus Ukaizo dieses Zepter auf dem Meeresboden. Den Schaft fertigte er aus dem feinsten Sandelholz. Für die Spitze suchte er eine seltene Perle, die über eintausend Jahre hinweg in einer Molluske groß wie ein Ruderboot geformt wurde. Nur durch Ondras Segen konnte der Wasserformer sie aus der Kreatur ziehen, ohne selbst von ihr verschlungen zu werden.
+      <DefaultText>Der Legende zufolge erschufen alte Wasserformer aus Ukaizo dieses Zepter auf dem Meeresboden. Den Schaft fertigten sie aus feinstem Sandelholz. Für die Spitze suchten sie eine seltene Perle, die über eintausend Jahre hinweg in einer Molluske groß wie ein Ruderboot geformt wurde. Nur durch Ondras Segen konnten die Wasserformer sie aus der Kreatur ziehen, ohne selbst von ihr verschlungen zu werden.
 
 Das Zepter war angeblich Teil eines Rituals, mit dem Ngati Vergnügen bereitet wurde, allerdings sind die Einzelheiten zu dieser unzüchtigen Angelegenheit mit der Zeit verloren gegangen.</DefaultText>
       <FemaleText />
@@ -280,7 +280,7 @@ Ob die Rüstung diese Segnungen des Weißen Nichts bereits hatte, als sie von de
       <ID>5334</ID>
       <DefaultText>Dieser aus Mjünbeeren gebrannte und leichte gewürzte trockene Likör hat einen hellrosa Farbton wie ein roher Lachs. Da es ihn im Ewigen Weiß nur selten gibt und er bei Glamfellen-Feierlichkeiten sehr beliebt ist, verlassen nur wenige Flaschen davon je dieses kalte Land.
 
-Einige extreme Glamfellen heben sich von jedem Jahr eine Flasche auf für die letzte Feier, die Ankunft der Bestie des Winters und das Ende aller Dinge.</DefaultText>
+Einige fundamentalistische Glamfellen heben sich von jedem Jahr eine Flasche auf für die letzte Feier, die Ankunft der Bestie des Winters und das Ende aller Dinge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -312,7 +312,7 @@ Einige extreme Glamfellen heben sich von jedem Jahr eine Flasche auf für die le
       <ID>5347</ID>
       <DefaultText>In seltenen Fällen brechen Eisfäulen in sich zusammen und fallen in eine Art Winterschlaf. Druiden und Zauberer haben Rituale entwickelt, um Fäulen in diesen Zustand zu versetzen und sie dann einzusperren. Wenn die Fäulen später freigesetzt werden, wüten sie blindlings und liefern willkommene Ablenkung oder Verbündete, um den Kampf für sich zu entscheiden.
 
-In ihrer versiegelten Form ähneln die Fäulen eine klaren, kristallinen Scherbe – nicht schmelzend, aber kalt, wenn man sie berührt.</DefaultText>
+In ihrer versiegelten Form ähneln die Fäulen einer klaren, kristallinen Scherbe – nicht schmelzend, aber kalt, wenn man sie berührt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,7 +441,7 @@ Das gefütterte Fell stinkt nach Verfall und die Raureif-Scherben, die es bedeck
 
 „Bin auf dem Eis ausgerutscht und habe mir beide Beine gebrochen. Vielleicht beeinflusst das Weiße Nichts meinen Verstand, aber ich bereue nichts. Ich habe eine Menge Schmerzen, aber ich bereue nichts.
 
-Lerne einen Beruf, sagten sie. Öffne einen Laden, sagten sie. Investiere in einen Wagen, sagten sie. Pflanze Pastinaken an, sagten sie.
+Lerne einen Beruf, sagten sie. Öffne einen Laden, sagten sie. Investiere in einen Wagen, sagten sie. Pflanze Pastinaken, sagten sie.
 
 Was einem nur zeigt, dass es jenen, die lieber im Schlaf sterben wollen, an Fantasie mangelt. Ich sterbe lieber laut schreiend auf dem Gipfel der Welt als wimmernd ganz unten. Möge das Schreien beginnen.“</DefaultText>
       <FemaleText />
@@ -456,11 +456,6 @@ Was einem nur zeigt, dass es jenen, die lieber im Schlaf sterben wollen, an Fant
       <DefaultText>Diese missgestaltete Metallscherbe pulsiert mit kaum zu haltender Macht. Sie strahlt außerdem Hitze aus und ist fast zu heiß, um sie mit bloßen Händen zu halten. Auch wenn es eindeutig nicht aus dem Weißen Nichts stammt, weist das Objekt keine Markierungen auf, die Aufschluss über seine Herkunft geben könnten, oder warum es den entropischen Kräften von Rymrgands Reich widerstehen kann.
 
 Neriscyrlas setzte ihre ganzen Hoffnungen und ihre Seele in dieses Objekt.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5439</ID>
-      <DefaultText>Zahn des Toamowhai</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -610,14 +605,14 @@ Da sie für das gemäßigte Klima der Botenwacht gefertigt wurden, sind diese Kl
       <ID>5489</ID>
       <DefaultText>Er kannte das Land nur aus Geschichten. Eine riesige weiße Leere, wie das blaue Meer rund um den Tempel, aber kalt und hart. Er stellte sich die Eisbären vor, eine gewaltige weiße Masse aus Fell und Muskeln, und die Walrosse, die mit ihren speerartigen Stoßzähnen das Eis nach Nahrung durchforsten, und er träumte von Schlittenfahrten über das zerklüftete gefrorene Land.
 
-Er würde es nie zu Gesicht bekommen. Sein Platz war hier, in diesem alten Tempel, wo er den Weißen Schlund bewachte, ihn vor jenen schützte, die ihn entweihen wollten, und die Werkzeuge und Waffen der weniger Göttlichen zurückschlug.</DefaultText>
+Er würde es nie zu Gesicht bekommen. Sein Platz war hier, in diesem alten Tempel, wo er den Weißen Schlund bewachte, ihn vor jenen schützte, die ihn entweihen wollten, und die &lt;xg&gt;Werkzeuge&lt;/xg&gt; und Waffen der weniger Göttlichen zurückschlug.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5490</ID>
       <DefaultText>Rynhaedr nahm ihn eines Nachmittags nach den Übungen zur Seite. Rymrgands Auserwählte war nur wenige Winter älter als er, aber sie war persönlich vom Winter ausgewählt worden, am Tor zu seinem Herrschaftsgebiet Wache zu stehen. Sie trug diese Autorität wie einen Mantel, Schultern zurückgezogen, Kinn erhoben. Selbstbewusst.
 
-Sie schickte ihn dann von der Insel weg – auf das Land. Wer das Land kennt, erklärte sie, kennt den Winter. Man konnte nicht das eine ohne das andere verstehen, und ein Wächter muss den Winter kennen wie seine Westentasche.
+Sie schickte ihn dann von der Insel weg – auf das Land. Wer das Land kennt, erklärte sie, kennt den Winter. Man könne nicht das eine ohne das andere verstehen, und ein Wächter müsse den Winter kennen wie seine Westentasche.
 
 Und so fand er sich mit rasendem Herzen, dick verpackt gegen die Kälte, auf dem nächsten Versorgungsschiff wieder, auf dem Weg in Richtung Süden.</DefaultText>
       <FemaleText />
@@ -628,7 +623,7 @@ Und so fand er sich mit rasendem Herzen, dick verpackt gegen die Kälte, auf dem
 
 Das Land hatte ihn aus Raureif neu geformt – ehemals weiche Hände waren hart wie Eis geworden, einst schlaksige Arme muskelbepackt, das früher glatte Gesicht nun mit einem dicken weißen Bart wie der Pelz eines Eisbären.
 
-Aber alle waren tot. Manche waren in Stücke gerissen worden, ihre Glieder verstreut und ihre Rippen aufgerissen. Andere standen gefroren auf ihren Posten. Rynhaedr selbst hielt den geöffneten Schlund, selbst im Untergang noch wachsam.
+Aber alle waren tot. Manche waren in Stücke gerissen worden, ihre Glieder verstreut und ihre Rippen aufgerissen. Andere standen gefroren auf ihren Posten. Rynhaedr selbst bewachte den geöffneten Schlund, selbst im Untergang noch wachsam.
 
 Er verspürte keine Traurigkeit, keine pochende Angst. Er verstand das Land und so verstand er auch den Winter. Als das Knurren aus dem Schlund aufstieg, wusste er, dass es ein Eindringling war. Er nahm seinen Speer und seinen Schild auf und schritt in das Nichts.</DefaultText>
       <FemaleText />
