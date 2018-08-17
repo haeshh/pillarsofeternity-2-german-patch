@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>39</EntryCount>
+  <EntryCount>40</EntryCount>
   <Entries>
     <Entry>
       <ID>992</ID>
@@ -199,6 +199,11 @@ Neriscyrlas’ Situation war vollkommen einzigartig und Eora wird möglicherweis
     <Entry>
       <ID>1059</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1062</ID>
+      <DefaultText>Ein formloser Ordhjóma-Gruß</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
