@@ -21,17 +21,17 @@
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>Erhalte alle {0:interval} {0:value:percent} Treffer zu kritischem Treffer. Diese Wirkung wird bei einem erfolgreichen kritischen Treffer zurückgesetzt.</DefaultText>
+      <DefaultText>Erhalte alle {0:interval} {0:value:percent} Treffer zu kritischem Treffer (Wirkung wird bei einem erzielten kritischen Treffer zurückgesetzt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>441</ID>
-      <DefaultText>(Aktueller Bonus: {0:value:percent}) Erhalte alle {0:interval} {0:value:percent} Treffer zu kritischem Treffer. Diese Wirkung wird bei einem erfolgreichen kritischen Treffer zurückgesetzt.</DefaultText>
+      <DefaultText>(Aktueller Bonus: {0:value:percent}) Erhalte alle {0:interval} {0:value:percent} Treffer zu kritischem Treffer (Wirkung wird bei einem erzielten kritischen Treffer zurückgesetzt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>448</ID>
-      <DefaultText>Angriffsgeschwindigkeit erhöht sich, wenn die Gesundheit nachlässt.</DefaultText>
+      <DefaultText>Angriffsgeschwindigkeit erhöht sich, wenn die Gesundheit nachlässt (Maximal {0:value:percentbonus} Aktionsgeschwindigkeit)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText>Nach erzieltem Treffer oder kritischem Treffer fügt der nächste erfolgreiche Angriff des Trägers zusätzlichen Frostschaden zu.</DefaultText>
+	  <DefaultText>Nach Erleiden eines Treffers oder kritischen Treffers, fügt der nächste erfolgreiche Angriff des Trägers mit Waffen {0:value:bonuspercentbonus} Frostschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>466</ID>
-      <DefaultText>Der nächste erfolgreiche Angriff des Trägers fügt zusätzlichen Frostschaden zu.</DefaultText>
+      <DefaultText>Der nächste erfolgreiche Angriff des Trägers mit Waffen fügt {0:value:bonuspercentbonus} Frostschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>556</ID>
-      <DefaultText>{0:value} Durchschlagskraft nach Erleiden von Frostschaden. Kann bis zu {0:extravalue:straight}-mal gestapelt werden.</DefaultText>
+      <DefaultText>{0:value} Durchschlagskraft nach Erleiden von Frostschaden (Kann bis zu {0:extravalue:straight}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,12 +86,12 @@
     </Entry>
     <Entry>
       <ID>562</ID>
-      <DefaultText>Waffenkunde in großen Schilden gewährt jetzt {0:value:percent} Chance, Frostschaden zu verursachen, wenn man im Nahkampf verfehlt wird.</DefaultText>
+      <DefaultText>Waffenkunde in großen Schilden gewährt jetzt {0:value:percent} Chance, Frostschaden zu verursachen, wenn man von einer Nahkampfwaffe verfehlt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>563</ID>
-      <DefaultText>{0:statuseffects} jedes Mal, wenn der Träger verfehlt wird. Wirkung vervielfacht sich 5 Mal.</DefaultText>
+      <DefaultText>{0:statuseffects} jedes Mal, wenn der Träger verfehlt wird (Kann bis zu {0:triggervalue:straight}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,32 +101,32 @@
     </Entry>
     <Entry>
       <ID>584</ID>
-      <DefaultText>Wird ein kritischer Treffer bei einem Feind erzielt, erleidet er reinen Schaden über Zeit. Wann immer dieser Feind Schaden zufügt, verlängert sich die Wirkungsdauer.</DefaultText>
+      <DefaultText>Wird ein kritischer Treffer erzielt, erleidet das Ziel {0:value:straight} direkten Schaden für {0:extravalue:duration} (Die Dauer verlängert sich, wenn das Ziel Schaden austeilt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Feinde, die unter der Wirkung von Waage der Gerechtigkeit getötet werden, fügen Feinden in der Nähe Schaden zu.</DefaultText>
+      <DefaultText>Feinde, die unter der Wirkung von Waage der Gerechtigkeit getötet werden, fügen Feinden in der Nähe {0:value:straight} direkten Schaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>586</ID>
-      <DefaultText>Feinde, die unter der Wirkung von Waage der Gerechtigkeit getötet werden, heilen Verbündete in der Nähe.</DefaultText>
+	  <DefaultText>Feinde, die unter der Wirkung von Waage der Gerechtigkeit getötet werden, stellen {0:value:straight} Gesundheit für alle Verbündete in der Nähe wieder her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>590</ID>
-      <DefaultText>{0:value:percent} Chance, bei erlittenem Treffer mit Waffen Korrosionsschaden über Zeit zuzufügen.</DefaultText>
+	  <DefaultText>{0:value:percent} Chance, bei erlittenem Treffer mit Waffen {0:extravalue:straight} Zersetzungsschaden alle {0:interval} für {0:triggervalue:duration} zuzufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>591</ID>
-      <DefaultText>Bonuschance, mit den Zwillingsaalen Treffer in kritische Treffer umzuwandeln. Die Chance wird durch die Religionsfertigkeit des Trägers erhöht.</DefaultText>
+      <DefaultText>{0:value:bonuspercentbonus} Chance Treffer mit Waffenangriffen in kritische Treffer umzuwandeln (Erhöht sich mit der Fertigkeit {0:skill})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>592</ID>
-      <DefaultText>Flächenheilung bei erzielter Tötung mit den Zwillingsaalen. Die Heilung wird durch die Religionsfertigkeit des Trägers verstärkt.</DefaultText>
+	  <DefaultText>{0:value:straight} Gesundheit wird bei einer erzielter Tötung bei allen Verbündeten in der Nähe wiederhergestellt (Erhöht sich mit der Fertigkeit {0:skill})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>601</ID>
-      <DefaultText>Der Träger erhält einen Bonus für die Angriffsbindung, wenn seine Gesundheit abnimmt.</DefaultText>
+	  <DefaultText>Der Träger erhält einen Bonus für die Angriffsbindung, wenn seine Gesundheit abnimmt (Maximal {0:value} Angriffsbindungen)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
