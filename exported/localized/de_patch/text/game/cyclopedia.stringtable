@@ -809,7 +809,7 @@ Hinweis: Es gibt einige Fähigkeiten, die Ausnahmen zu den üblichen Flankierung
 
 Die meisten passiven Boni stammen von ausgerüsteten Gegenständen (inklusive Waffen und Schilde) und passiven Fähigkeiten. Wenn ein Effekt über keine Dauer verfügt und nicht aktiviert oder deaktiviert werden muss, gilt er üblicherweise als passiver Bonus. &lt;b&gt;Alle passiven Boni werden miteinander addiert.&lt;/b&gt;
 
-Aktive Boni stammen von Zaubern, Gegenständen oder Fähigkeiten, die aktiviert werden müssen. Das beinhaltet modale Fähigkeiten, die auf der Aktionsleiste an- und ausgeschaltet werden müssen, wie etwa Waffen-Modalfähigkeiten, Paladin-Auren und Kämpfer-Haltungen.&lt;i&gt;Aktive Boni überschreiben alle gleichwertigen oder niedrigeren Boni.&lt;/i&gt;
+Aktive Boni stammen von Zaubern, Gegenständen oder Fähigkeiten, die aktiviert werden müssen. Das beinhaltet modale Fähigkeiten, die auf der Aktionsleiste an- und ausgeschaltet werden müssen, wie etwa Waffen-Modalfähigkeiten, Paladin-Auren und Kämpfer-Haltungen. &lt;i&gt;Aktive Boni überschreiben alle gleichwertigen oder niedrigeren Boni.&lt;/i&gt;
 
 Wenn beispielsweise ein Zauber +3 auf Abwehr und eine Paladin-Aura +5 auf Abwehr gewährt, ist der höchste dieser Boni +5, und dieser überschreibt den niedrigeren Bonus. Wenn derselbe Zauber außerdem einen Bonus auf Gewandtheit gewähren würde, würde dieser in Kraft treten, es sei denn, er würde &lt;i&gt;ebenfalls&lt;/i&gt; von einem höherwertigen Gewandtheits-Bonus aus einer aktiven/modalen Quelle überschrieben.</DefaultText>
       <FemaleText />
