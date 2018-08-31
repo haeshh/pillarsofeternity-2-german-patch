@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>465</ID>
-	  <DefaultText>Nach Erleiden eines Treffers oder kritischen Treffers, fügt der nächste erfolgreiche Angriff des Trägers mit Waffen {0:value:bonuspercentbonus} Frostschaden zu.</DefaultText>
+      <DefaultText>Nach Erleiden eines Treffers oder kritischen Treffers, fügt der nächste erfolgreiche Angriff des Trägers mit Waffen {0:value:bonuspercentbonus} Frostschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,12 +111,12 @@
     </Entry>
     <Entry>
       <ID>586</ID>
-	  <DefaultText>Feinde, die unter der Wirkung von Waage der Gerechtigkeit getötet werden, stellen {0:value:straight} Gesundheit für alle Verbündete in der Nähe wieder her.</DefaultText>
+      <DefaultText>Feinde, die unter der Wirkung von Waage der Gerechtigkeit getötet werden, stellen {0:value:straight} Gesundheit für alle Verbündete in der Nähe wieder her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>590</ID>
-	  <DefaultText>{0:value:percent} Chance, bei erlittenem Treffer mit Waffen {0:extravalue:straight} Zersetzungsschaden alle {0:interval} für {0:triggervalue:duration} zuzufügen.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei erlittenem Treffer mit Waffen {0:extravalue:straight} Zersetzungsschaden alle {0:interval} für {0:triggervalue:duration} zuzufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>592</ID>
-	  <DefaultText>{0:value:straight} Gesundheit wird bei einer erzielter Tötung bei allen Verbündeten in der Nähe wiederhergestellt (Erhöht sich mit der Fertigkeit {0:skill})</DefaultText>
+      <DefaultText>{0:value:straight} Gesundheit wird bei einer erzielter Tötung bei allen Verbündeten in der Nähe wiederhergestellt (Erhöht sich mit der Fertigkeit {0:skill})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>601</ID>
-	  <DefaultText>Der Träger erhält einen Bonus für die Angriffsbindung, wenn seine Gesundheit abnimmt (Maximal {0:value} Angriffsbindungen)</DefaultText>
+      <DefaultText>Der Träger erhält einen Bonus für die Angriffsbindung, wenn seine Gesundheit abnimmt (Maximal {0:value} Angriffsbindungen)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
