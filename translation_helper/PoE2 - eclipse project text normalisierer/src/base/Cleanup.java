@@ -99,10 +99,12 @@ public class Cleanup {
 		
 		// Trying to get the same via the regex from the english base
 		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\en_fixed\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.formatText(convertingBase, filesInFolder, "en", jaxbUnmarshaller, marshaller);
+		//cleanup.formatText(convertingBase, filesInFolder, "en", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get(baseFolderDeFiles + "\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.formatText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
+		// Für Aurelio, Alle Markups kicken
+		cleanup.stripMarkup(filesInFolder, jaxbUnmarshaller,marshaller, "de_clean");
+		//cleanup.formatText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
 		//Nope, not working cleanup.splitupText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\fr\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
@@ -113,7 +115,7 @@ public class Cleanup {
 		cleanup.stripMarkup(filesInFolder, jaxbUnmarshaller,marshaller, "it_fixed");
 		
 		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\it_fixed\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.formatText(convertingBase, filesInFolder, "it", jaxbUnmarshaller, marshaller);
+		//cleanup.formatText(convertingBase, filesInFolder, "it", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\es\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		//cleanup.colorupdate(convertingBase, filesInFolder, "es", jaxbUnmarshaller,marshaller);

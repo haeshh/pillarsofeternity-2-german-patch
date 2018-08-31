@@ -436,6 +436,11 @@ class Entry {
 				html++;
 			}
 		}
+		
+		if ((DefaultText.split("<.+?>", 99).length - 1) % 2 != 0) {
+			System.out.println("Found value, unbalanced Tags: " + DefaultText);
+			html++;
+		}
 
 		if (FemaleText.chars().filter(ch -> ch == '{').count() != FemaleText.chars().filter(ch -> ch == '}').count()) {
 			geschweift++;
@@ -460,6 +465,11 @@ class Entry {
 				System.out.println("Found value: " + m.group(0));
 				html++;
 			}
+		}
+		
+		if ((FemaleText.split("<.+?>", 99).length - 1) % 2 != 0) {
+			System.out.println("Found value, unbalanced Tags: " + FemaleText);
+			html++;
 		}
 
 		return new Pair<Long, Long>(geschweift, html);
