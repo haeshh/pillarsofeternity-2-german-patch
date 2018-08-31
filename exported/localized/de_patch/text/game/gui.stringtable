@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4438</EntryCount>
+  <EntryCount>4464</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -22358,7 +22358,7 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4893</ID>
-      <DefaultText>Youtube</DefaultText>
+      <DefaultText>YouTube</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22613,16 +22613,16 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4969</ID>
-      <DefaultText>Publish this mod to the Steam Workshop?
+      <DefaultText>Diesen Mod im Steam Workshop veröffentlichen?
 
-By publishing this mod, you agree to the Steam Workshop &lt;link="https://steamcommunity.com/sharedfiles/workshoplegalagreement"&gt;terms of service&lt;/link&gt;.
+Durch das Veröffentlichen dieses Mods stimmst du den &lt;link="https://steamcommunity.com/sharedfiles/workshoplegalagreement"&gt;Geschäftsbedingungen&lt;/link&gt; von Steam Workshop zu.
 
-You will have a chance to review the mod's Workshop page before making it visible to the public.</DefaultText>
+Du hast die Möglichkeit, die Workshop-Seite des Mods zu überprüfen, bevor sie für das Publikum sichtbar veröffentlicht wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4970</ID>
-      <DefaultText>Zum Steam Workshop hochladen</DefaultText>
+      <DefaultText>In Steam Workshop hochladen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22632,32 +22632,162 @@ You will have a chance to review the mod's Workshop page before making it visibl
     </Entry>
     <Entry>
       <ID>4972</ID>
-      <DefaultText>Briefly describe the changes made to your mod since the last version.</DefaultText>
+      <DefaultText>Beschreibe kurz die an deinem Mod durchgeführten Änderungen seit der letzten Version.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4973</ID>
-      <DefaultText>All files in this mod are my own creation, or I have permission to use them.</DefaultText>
+      <DefaultText>Alle Dateien in diesem Mod sind von mir erstellt oder ich habe die Erlaubnis, sie zu nutzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4975</ID>
-      <DefaultText />
+      <DefaultText>Einen Gegenstand zum Verzaubern auswählen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4976</ID>
-      <DefaultText />
+      <DefaultText>Keine Gegenstände zum Verzaubern vorhanden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4977</ID>
-      <DefaultText />
+      <DefaultText>Anforderungen für {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4978</ID>
       <DefaultText>Zutat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4979</ID>
+      <DefaultText>Eine Verzauberung auswählen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4980</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4981</ID>
+      <DefaultText>Desgant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4982</ID>
+      <DefaultText>Nasenalenet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4990</ID>
+      <DefaultText>Ausrüstung zerfällt mit der Zeit und muss über das Verzauberungsmenü repariert werden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4991</ID>
+      <DefaultText>Skaens Herausforderung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4992</ID>
+      <DefaultText>Abydons Herausforderung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4993</ID>
+      <DefaultText>{0} wurde beschädigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4995</ID>
+      <DefaultText>Das Hinzufügen von {0} verhindert, dass {1} {2} hinzufügt. Möchtest du {0} hinzufügen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4996</ID>
+      <DefaultText>{0} Nebel-Enthüllungsradius</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4997</ID>
+      <DefaultText>Gehaltene Lichtquellen erhöhen den Nebel-Enthüllungsradius</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4998</ID>
+      <DefaultText>Zufälliger Effekt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4999</ID>
+      <DefaultText>{2} hat {0} verstärkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5000</ID>
+      <DefaultText>{0} kann nicht an {1} gebunden werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5001</ID>
+      <DefaultText>Verwickelte Ziele</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5002</ID>
+      <DefaultText>Bedrohte Ziele</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5003</ID>
+      <DefaultText>Angreifer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5004</ID>
+      <DefaultText>Mein tierischer Gefährte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5005</ID>
+      <DefaultText>Rüstung beschädigt!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5006</ID>
+      <DefaultText>Rüstung zerstört!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5007</ID>
+      <DefaultText>Waffe beschädigt!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5008</ID>
+      <DefaultText>Waffe zerstört!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5009</ID>
+      <DefaultText>Schild beschädigt!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5010</ID>
+      <DefaultText>Schild zerstört!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5015</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5016</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
