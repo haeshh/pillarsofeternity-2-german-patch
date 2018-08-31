@@ -2601,7 +2601,7 @@
     </Entry>
     <Entry>
       <ID>587</ID>
-      <DefaultText>{0:value:percent} Chance to reduce enemy beneficial effects by {0:extravalue:duration} when Hit in Melee</DefaultText>
+      <DefaultText>{0:value:percent} Chance, vorteilhafte Effekte von Feinden um {0:extravalue:duration} zu reduzieren bei einem Treffer im Nahkampf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2611,7 +2611,7 @@
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText>{0:value:percent} chance to interrupt with attacks from Magran's Blessing on Hit</DefaultText>
+      <DefaultText>{0:value:percent} Chance bei Treffer mit Angriffen von Magrans Segnung zu unterbrechen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2631,7 +2631,7 @@
     </Entry>
     <Entry>
       <ID>605</ID>
-      <DefaultText>Afflicts wielder and foe with {0:value} Resolve on Hit (max 5 stacks)</DefaultText>
+      <DefaultText>Beeinflusst Träger und Feind mit {0:value} Entschlossenheit bei Treffer (Maximal fünfmal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2666,32 +2666,32 @@
     </Entry>
     <Entry>
       <ID>626</ID>
-      <DefaultText>Chance to Terrify when attacked with Melee Weapons</DefaultText>
+      <DefaultText>Chance zu Geschockt zu wirken, wenn man mit Nahkampfwaffen angegriffen wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>631</ID>
-      <DefaultText>{0:value:percent} Chance on scoring a kill with this weapon to &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Frenzy&lt;/link&gt; the wielder</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass beim Erzielen eines tödlichen Treffer mit dieser Waffe der Träger in &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Raserei&lt;/link&gt; verfällt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>632</ID>
-      <DefaultText>{0:value:percent} Chance on scoring a kill with this weapon to &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Frenzy&lt;/link&gt; the wielder (Without a Deflection penalty)</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass beim Erzielen eines tödlichen Treffer mit dieser Waffe der Träger in &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Raserei&lt;/link&gt; verfällt (ohne einen Abzug auf Abwehr)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>633</ID>
-      <DefaultText>{0:value:percent} Chance on receiving damage to &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Frenzy&lt;/link&gt; the wielder</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass beim erleiden von Schaden der Träger in &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Raserei&lt;/link&gt; verfällt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>634</ID>
-      <DefaultText>If the wielder's Might is {0:value:straight} or above, Critical Hits with this weapon cause {0:extravalue:percent} of base weapon damage in an area around the wielder</DefaultText>
+      <DefaultText>Wenn der Träger über {0:value:straight} oder mehr Macht verfügt, verursachen kritische Treffer mit dieser Waffe {0:extravalue:percent} grundlegenden Waffenschaden in einem Gebiet rings um den Träger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>635</ID>
-      <DefaultText>If the wielder's Might is {0:value:straight} or above, Critical Hits with this weapon cause {0:extravalue:percent} of base weapon damage in an area around the wielder (Enemies under {0:triggervalue:straight} Health are killed instantly)</DefaultText>
+      <DefaultText>Wenn der Träger über {0:value:straight} oder mehr Macht verfügt, verursachen Kritische Treffer mit dieser Waffe {0:extravalue:percent} grundlegenden Waffenschaden in einem Gebiet rings um den Träger (Feinde unter {0:triggervalue:straight} Gesundheit werden sofort getötet)</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
