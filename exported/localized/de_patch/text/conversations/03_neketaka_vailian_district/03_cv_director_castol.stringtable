@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\03_neketaka_vailian_district\03_cv_director_castol</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>658</EntryCount>
+  <EntryCount>659</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -3856,6 +3856,13 @@ Palleginas Ausbruch beschränkt sich auf ein einziges Wort, aber ihr Blick ist a
     <Entry>
       <ID>807</ID>
       <DefaultText>„Was für ein trauriges Ende dieser engagierten Personen. Und was für ein außerordentliches Glück, dass du überlebt hast, um uns davon zu berichten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>808</ID>
+      <DefaultText>„Ich dachte, es wäre am besten, wenn wir persönlich sprechen. Wächter sind selten hier im Todesfeuer.
+
+"Besonders jene mit einer solch illustren Geschichte wie deiner.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
