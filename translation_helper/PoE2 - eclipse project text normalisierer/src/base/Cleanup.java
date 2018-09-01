@@ -1,4 +1,4 @@
-package base;
+﻿package base;
 
 
 import java.io.File;
@@ -47,7 +47,7 @@ public class Cleanup {
 	/** The repo of enhanced user interfaces, contains all other languages which we have changed files for */
 	final static String baseFolderEnhanchedUiRepo = "C:\\Repositories\\pillarsofeternity-2-Enhanced-Ui\\PoE2-EnhancedUserInterface";
 	
-	/** The game directory, for any language whe have nothing handcrafted */
+	/** The game directory, for any language we have nothing handcrafted */
 	final static String baseGameFolder = "E:\\GOG Games\\Pillars of Eternity II Deadfire\\PillarsOfEternityII_Data";
 
 	public static void main(String[] args) throws JAXBException, SAXException, IOException {
@@ -95,26 +95,26 @@ public class Cleanup {
 		// Base files, the handpicked stuff from Spherikal
 		List<Path> convertingBase = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\en\\text")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		
-		cleanup.stripMarkup(convertingBase, jaxbUnmarshaller,marshaller, "en_fixed");
+		//cleanup.stripMarkup(convertingBase, jaxbUnmarshaller,marshaller, "en_from_spherical_no_markup");
 		
 		// Trying to get the same via the regex from the english base
-		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\en_fixed\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\en_from_spherical_no_markup\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		//cleanup.formatText(convertingBase, filesInFolder, "en", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get(baseFolderDeFiles + "\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		// Für Aurelio, Alle Markups kicken
-		cleanup.stripMarkup(filesInFolder, jaxbUnmarshaller,marshaller, "de_clean");
+		//cleanup.stripMarkup(filesInFolder, jaxbUnmarshaller,marshaller, "de_from_xaratas_no_markup");
 		//cleanup.formatText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
 		//Nope, not working cleanup.splitupText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\fr\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		//cleanup.colorupdate(convertingBase, filesInFolder, "fr", jaxbUnmarshaller,marshaller);
+		cleanup.formatText(convertingBase, filesInFolder, "fr", jaxbUnmarshaller,marshaller);
 		
 		// It fix von Kilay
 		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\it\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.stripMarkup(filesInFolder, jaxbUnmarshaller,marshaller, "it_fixed");
+		//cleanup.stripMarkup(filesInFolder, jaxbUnmarshaller,marshaller, "it_from_kilay_no_markup");
 		
-		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\it_fixed\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\it_from_kilay_no_markup\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		//cleanup.formatText(convertingBase, filesInFolder, "it", jaxbUnmarshaller, marshaller);
 		
 		filesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\es\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
@@ -217,8 +217,8 @@ public class Cleanup {
 				unwanted.a += count2.a;
 				//		entry.DocuHelper();
 				
-		//		entry.compareTags2();
-		//		allTags.addAll(entry.tagViewHelper());
+				entry.compareTags2();
+				allTags.addAll(entry.tagViewHelper());
 				
 				counter.addAll(entry.counter());
 				
@@ -275,9 +275,9 @@ public class Cleanup {
 		}
 		
 		System.out.println("Wordcount ");
-		for (java.util.Map.Entry<String, Integer> word : wordCount.entrySet()) {
-			System.out.println(String.format("%05d %s", word.getValue(), word.getKey()));
-		}
+		//for (java.util.Map.Entry<String, Integer> word : wordCount.entrySet()) {
+		//	System.out.println(String.format("%05d %s", word.getValue(), word.getKey()));
+		//}
 	}
 	
 	
@@ -340,7 +340,7 @@ public class Cleanup {
 									if(formattedEntry != null && !formattedEntry.getDefaultText().equals(plainEntry.getDefaultText())) {
 										changedStrings.getEntries().add(formattedEntry);
 									} else if(i == 1) {
-										System.out.println("Unchanged ID: " + plainEntry.getID() + "\n" + plainEntry.getDefaultText());
+										System.out.println(plain.getFileName().toString() + " unchanged ID: " + plainEntry.getID() + "\n" + colorfulEntry.getDefaultText() + "\n" + plainEntry.getDefaultText());
 									}
 									
 								}

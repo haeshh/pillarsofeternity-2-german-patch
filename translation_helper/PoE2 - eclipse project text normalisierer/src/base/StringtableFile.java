@@ -662,6 +662,7 @@ class Entry {
 		String bold = "(<b>)([\\s\\S]+?)(</b>)";
 		String underline = "(<u>)([\\s\\S]+?)(</u>)";
 		String german = "(<g>)([\\s\\S]+?)(</g>)";
+		String unlink = "(<xg>)([\\s\\S]+?)(</xg>)";
 		String link = "(<link=\"(glossary|stringtooltip|neutralvalue|gamedata)?://.*>)([\\s\\S]+?)(</link>)";
 		String color = "(<#[0-9a-fA-F]{6}>)([\\s\\S]+?)(</color>)";
 		String ispeech = "(<ispeech>)([\\s\\S]+?)(</ispeech>)";
@@ -675,6 +676,8 @@ class Entry {
 		String u2 = "</u>";
 		String g1 = "<g>";
 		String g2 = "</g>";
+		String x1 = "<xg>";
+		String x2 = "</xg>";
 		String l1 = "<link=";
 		String l2 = "</link>";
 		String c1 = "<#";
@@ -684,9 +687,9 @@ class Entry {
 		String s1 = "<sprite>";
 		String s2 = "";
 
-		String[] tagList = new String[] { italic, bold, underline, german, link, color, ispeech, sprite };
-		String[] tagListA = new String[] { i1, b1, u1, g1, l1, c1, p1, s1 };
-		String[] tagListE = new String[] { i2, b2, u2, g2, l2, c2, p2, s2 };
+		String[] tagList = new String[] { italic, bold, underline, german, unlink, link, color, ispeech, sprite };
+		String[] tagListA = new String[] { i1, b1, u1, g1, x1, l1, c1, p1, s1 };
+		String[] tagListE = new String[] { i2, b2, u2, g2, x2, l2, c2, p2, s2 };
 
 		for (int i = 0; i < tagList.length; i++) {
 			// Part 1 opening tag hat closing tag
@@ -866,27 +869,27 @@ class Entry {
 			// FR
 			// constitution
 			"(?<!xg>)(Dynamisme)", "(?<!xg>)(Vigueur)", "(?<!xg>)(Robustesse)",
-			"(?<!xg>)(Intoxication)(\\b)", "(?<!xg>)(Affaiblissement)(\\b)", "(?<!xg>)(Diminution)(\\b)",
+			"(?<!xg>)(contaminer|[iI]ntoxi)(cation|quent|que|qués|\\b)", "(?<!xg>)(Affaiblissement)(\\b)", "(?<!xg>)(Diminution)(\\b)",
 			
 			// Résolution
 			"(?<!xg>)(Détermination)", "(?<!xg>)(Opiniâtreté)", "(?<!xg>)(Courage)",
-			"(?<!xg>)(Frisson)(\\b)", "(?<!xg>)(Effroi)(\\b)", "(?<!xg>)(Terreur)(\\b)",
+			"(?<!xg>)([fF]risson)(\\b)", "(?<!xg>)(d'effrayer|Effroi)(\\b)", "(?<!xg>)([tT]err)(eur|ifient|ifier)",
 						
 			// Dextérité
 			"(?<!xg>)(Célérité)", "(?<!xg>)(Agilité)", "(?<!xg>)(Vélocité)",
-			"(?<!xg>)(Entrave)(\\b)", "(?<!xg>)(Immobilisation)(\\b)", "(?<!xg>)(Paralysie)(\\b)",
-			
+			"(?<!xg>)(Entrave)(\\b)", "(?<!xg>)([iI]mmobilis)(ation|e)", "(?<!xg>)([pP]aralysi?e)(r|\\b)",
+
 			// Intelligence
 			"(?<!xg>)(Sagacité)", "(?<!xg>)(Astuce)", "(?<!xg>)(Perspicacité)",
-			"(?<!xg>)(Confusion)(\\b)", "(?<!xg>)(Charme)(\\b)", "(?<!xg>)(Domination)(\\b)",
+			"(?<!xg>)([cC]onfusion)(\\b)", "(?<!xg>)([cC]harme)(r|\\b)", "(?<!xg>)(Domin)(ation|er|e)",
 			
 			// Puissance
 			"(?<!xg>)(Force)", "(?<!xg>)(Ténacité)", "(?<!xg>)(Tonus)",
-			"(?<!xg>)(Stupéfaction)(\\b)", "(?<!xg>)(Étourdissement)(\\b)", "(?<!xg>)(Assommement)(\\b)",
+			"(?<!xg>)(Stupéfaction)(\\b)", "(?<!xg>)(d'étourdir|Étourdissement)(\\b)", "(?<!xg>)([aA]ssomm)(ement|ant|e)",
 			
 			//Perception
 			"(?<!xg>)(Subtilité)", "(?<!xg>)(Conscience)", "(?<!xg>)(Intuition)",
-			"(?<!xg>)(Distraction)(\\b)", "(?<!xg>)(Désorientation)(\\b)", "(?<!xg>)(Aveuglement)(\\b)",
+			"(?<!xg>)([dD]istra)(ction|ire|it)", "(?<!xg>)(Désorientation)(\\b)", "(?<!xg>)([aA]veugl|cécité)(ement|ant|\\b)",
 			
 			
 			// IT
@@ -1188,22 +1191,22 @@ class Entry {
 			"(Körperwirkung(en)?)",
 
 			// fr
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
+			"(xxx)",
+			"([Aa]fflictions touchant la Constitution)",
+			"(xxx)",
+			"([Aa]fflictions touchant la Résolution)",
+			"(xxx)",
+			"([Aa]fflictions touchant la Dextérité|afflictions liées à la Dextérité)",
+			"(inspiration d'Intelligence)",
+			"([Aa]fflictions touchant l'Intelligence)",
+			"(inspiration de Puissance)",
+			"([Aa]fflictions touchant la Puissance)",
+			"(xxx)",
+			"([Aa]fflictions touchant la Perception)",
+			"(inspiration spirituelle)",
+			"(afflictions touchant l'Esprit|affliction mentale)",
+			"(xxx)",
+			"(afflictions corporelles)",
 			
 			// it
 			"(Ispirazion[ei] della Costituzione)",
@@ -1260,7 +1263,7 @@ class Entry {
 				i = genericAfflictionsTargetWordsPostfix.length * 1;
 				break;
 			case "fr":
-		//		i = genericAfflictionsTargetWordsPostfix.length * 2;
+				i = genericAfflictionsTargetWordsPostfix.length * 2;
 				break;
 			case "it":
 				i = genericAfflictionsTargetWordsPostfix.length * 3;
@@ -1318,14 +1321,15 @@ class Entry {
 			"(?<!xg>)(Schock-?)(sch[aä]den|\\b)",
 			
 			//fr
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
+			"(?<!xg>)([bB]rûl|feu)(ants?|ure|e|\\b)",
+			"(?<!xg>)([cC]orrosif)(s|\\b)",
+			"(?<!xg>)([cC]ontondant)(es|e|\\b)",
+			"(?<!xg>)([gG]ivrant|givre)(s|\\b)",
+			"(?<!xg>)([pP]erforant)(es|e|\\b)",
+			"(?<!xg>)(bruts)(\\b)",
+			"(?<!xg>)(lacérante?s|[tT]ranchante?s?)(\\b)",
+			"(?<!xg>)([éÉ]lectrique)(s|\\b)",
+			
 			//it            
             "(?<!xg>)(Ustion[ei])(ant[ei]|\\b)",
             "(?<!xg>)(Corrosi)(on[ei]|v[oi])",
@@ -1408,7 +1412,7 @@ class Entry {
 				i = damageTypeTargetWordsPrefix.length * 1;
 				break;
 			case "fr":
-		//		i = damageTypeTargetWordsPrefix.length * 2;
+				i = damageTypeTargetWordsPrefix.length * 2;
 				break;
 			case "it":
 				i = damageTypeTargetWordsPrefix.length * 3;
@@ -1464,14 +1468,15 @@ class Entry {
 			"(?<!xg>)(Gesundheit|Heilungskreis|Heilung|Heileffekte?)",
 			
 			//fr
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
+			"(###)",
+			"(?<!xg>)([Dd]éviation)",
+			"(?<!xg>)([Rr]éflexes?)",
+			"(?<!xg>)([Vv]olonté)",
+			"(?<!xg>)([Pp]énétration)",
+			"(?<!xg>)([Vv]aleurs? d'armure)",
+			"(?<!xg>)([Pp]récision)",
+			"(?<!xg>)([Ss]anté)",
+			
 			//it
 			"(?<!xg>)(Tempra)",
 			"(?<!xg>)(Deflessione)",
@@ -1554,7 +1559,7 @@ class Entry {
 				i = defenseTargetWordsPrefix.length * 1;
 				break;
 			case "fr":
-		//		i = defenseTargetWordsPrefix.length * 2;
+				i = defenseTargetWordsPrefix.length * 2;
 				break;
 			case "it":
 				i = defenseTargetWordsPrefix.length * 3;
@@ -1648,21 +1653,21 @@ class Entry {
 
 			// fr
 			"",
+			"afflictions touchant la Constitution",
 			"",
+			"afflictions touchant la Résolution",
 			"",
+			"afflictions touchant la Dextérité",
+			"inspiration d'Intelligence",
+			"afflictions touchant l'Intelligence",
+			"inspiration de Puissance",
+			"afflictions touchant la Puissance",
 			"",
+			"afflictions touchant la Perception",
+			"inspiration spirituelle",
+			"afflictions touchant l'Esprit",
 			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
+			"afflictions corporelles",
 			
 			// it
 			"Ispirazioni della Costituzione",
