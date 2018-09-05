@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\lax02_01_iceberg_dungeon\lax02_poi_bs_drowned_kingdom_arrival</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>7</EntryCount>
+  <EntryCount>24</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -37,6 +37,91 @@
     <Entry>
       <ID>15</ID>
       <DefaultText>„Das Wasser sieht ein bisschen zu tief für kurze Beine aus. Könnte mich nicht eins von euch strammen Mädels tragen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>„This script… it is written Seki. But how?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>„'I am Wingauro o Watūri the first, dragon of Deadfire, the great king of Ukaizo, the king of kings.'“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>„Some of these glyphs are familiar. I believe those on the left are Engwithan.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>„Ekera, you're right. And those words over there are Huana symbols. A most unusual pairing.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>„'By God's - ah, &lt;i&gt;Ondra's&lt;/i&gt; - will, these lands conform to my decrees.'“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>„Did my people come to this place? This Ukaizo?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>„But the storms… It would be many, many years in the past.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>„Can you be more precise? The fall of Ukaizo has been myth longer than it's been history.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>„How many is 'many' by your math, friend Rekke? The tribes seldom agree on the timeline of Ukaizo's fall.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>„Ten hundreds. More.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>„What does it say?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>„Stop staring at the floor, we have work to do.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>„It is an old style. One moment.“ He crouches down to get a better look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>„This is very strange.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>„Fine… gela kasiniw.“ Glowering at you, he turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Rekke runs his hand over the glyphs, a look of wonder on his face. After a long, silent moment, he stands and motions for the party to move on.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
