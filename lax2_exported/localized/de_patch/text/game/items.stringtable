@@ -2,11 +2,26 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>108</EntryCount>
+  <EntryCount>130</EntryCount>
   <Entries>
     <Entry>
       <ID>4705</ID>
       <DefaultText>Erleide {0} Schaden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4708</ID>
+      <DefaultText>Wende {0} Macht-Wirkungen an</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4709</ID>
+      <DefaultText>Wirke {0} Sängerbeschwörungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>Füge {0} reinen Schaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,6 +41,58 @@ Die jüngste der Dutzenden, Ysly von Baelreach, hatte dem Duc fünf Jahre lang g
     <Entry>
       <ID>4732</ID>
       <DefaultText>Ein Dutzend standen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4781</ID>
+      <DefaultText>Wende {0} Wahrnehmungswirkungen an</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4783</ID>
+      <DefaultText>Gewähre Gruppenmitgliedern {0} Inspirationen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4797</ID>
+      <DefaultText>Töte {0} Bestien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>Besitze 25 Stärke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4801</ID>
+      <DefaultText>Es lässt sich leicht verdrängen, dass man die Rüstung trägt. Es ist in der Tat einfach, viele Dinge zu vergessen. Erinnerungen, Reue, abstrakte Philosophien – diese Dinge haben nur wenig Platz auf der großen Jagd, jenen unendlich miteinander verknüpften Prüfungen, die jede Aktion in Eora definieren. Der Fokus des Lebens konzentriert sich bei jenen, die es zulassen, auf diese Herausforderung, auf die nächste Herausforderung, auf den Kampf, der jeden Zusammenhang liefert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4802</ID>
+      <DefaultText>Wende {0} Intelligenz-Wirkungen an</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4803</ID>
+      <DefaultText>Wirke {0} Druiden-Bestienzauber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4846</ID>
+      <DefaultText>Zeremonielles Obsidianmesser</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4858</ID>
+      <DefaultText>Kette der rechtmäßigen Autorität</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4861</ID>
+      <DefaultText>This necklace is the yield of combining a pair of bizarre artifacts into an elegant piece of jewelry. Though recovered worlds apart from each other, the pieces shared a common shape and aura of power. Separately, they thrummed with heat and bottled energy. Fused together, they feel somehow stronger than the sum of their parts. Distortions in the metal are likely the result of a fire.
+
+A section of the metal shows signs of a third piece missing, either melted or snapped free of its sister parts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -190,7 +257,7 @@ Wir erwarten mit großer Freude, deine Großartigkeit bei uns zu begrüßen.
 Mit Bewunderung deiner vielen Errungenschaften,
 
 Vatnir, Hoher Bote der Dämmerung“&lt;/i&gt;</DefaultText>
-      <FemaleText>Dieses Sendschreiben, das mit wie es aussieht getrocknetem Blut auf einem Stück gegerbten Leder geschrieben wurde, erreichte dich zusammengerollt und mit der Siegelmarke des Auerochsen versehen. Die Buchstaben sind krakelig und abgehackt, vermutlich hat der Verfasser beim Schreiben gezittert.
+      <FemaleText>Dieses Sendschreiben, das mit wie es aussieht getrocknetem Blut auf einem Stück gegerbten Leder geschrieben wurde, erreichte dich zusammengerollt und mit dem Wachssiegel des Auerochsen versehen. Die Buchstaben sind krakelig und abgehackt, vermutlich hat der Verfasser beim Schreiben gezittert.
 
 &lt;i&gt;„Hochverehrte Wächterin von Caed Nua,
 
@@ -202,7 +269,7 @@ Wir erwarten mit großer Freude, deine Großartigkeit bei uns zu begrüßen.
 
 Mit Bewunderung deiner vielen Errungenschaften,
 
-Vatnir, Hoher Bote von Dusk“&lt;/i&gt;</FemaleText>
+Vatnir, Hoher Bote der Dämmerung“&lt;/i&gt;</FemaleText>
     </Entry>
     <Entry>
       <ID>5154</ID>
@@ -325,6 +392,35 @@ In ihrer versiegelten Form ähneln die Fäulen einer klaren, kristallinen Scherb
       <DefaultText>Dieses Konstrukt ist klein und fühlt sich kalt an. Es war vielleicht ein Prototyp. Oder eine Bastelarbeit. Oder ein Spielzeug.
 
 Solange Frosty dir folgt, erhältst du einen Rüstungsbonus gegen Frostschaden und Frostangriffe deiner Gruppe profitieren von erhöhter Genauigkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5355</ID>
+      <DefaultText>Waels Wind ist eine Mischung aus verschiedenen Rumsorten (und jedem anderen starken Alkohol, der verfügbar ist) und tropischen Fruchtsäften. Es ist ein stets beliebter  Drink in den höllisch heißen Sommern im Todesfeuer. Das Getränk wurde von den Piraten der Príncipi sen Patrena erfunden, und wird traditionell in einer halben Kokosnussschale serviert. 
+
+Der Name Waels Wind kommt von der legendären Eigenschaft des Getränks, seine Trinker aus den Latschen zu heben und ihnen jegliche Erinnerung an den Abend zu rauben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5356</ID>
+      <DefaultText>Daibō o Osa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5357</ID>
+      <DefaultText>Dieses alkoholische Getränk gibt es klarer und leicht getrübter Form. Es wird aus zwei verschiedenen Reissorten (einer Kurzkorn, der andere Langkorn) und Wasser aus einer Bergquelle auf der Insel Osa gebraut. Daibō ist das stärkste alkoholische Getränk, das im Todesfeuer bekannt ist. Er wird meist warm serviert und ist besonders in der Handwerker-Kaste sehr beliebt. 
+
+In der Popkultur der Huana, besonders in Spielen und Liedern wird der Daibō o Osa regelmäßig erwähnt und in Diskussionen wird ihm stets vorgeworfen, die Jugend von Huana zu „ruinieren“.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5358</ID>
+      <DefaultText>Meppu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5360</ID>
+      <DefaultText>Vrer Chiora</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,6 +732,42 @@ Er verspürte keine Traurigkeit, keine pochende Angst. Er verstand das Land und 
     <Entry>
       <ID>5496</ID>
       <DefaultText>Dieses ungestüme Schneebärenjunges liebt es, Möwen hinterherzujagen und deine Reservestiefel anzuknabbern. Er ist beim Fressen wahrlich nicht wählerisch, aber gefrorener Ysae und verdorbenes Haifischfleisch gehören eindeutig zu seinen Lieblingsspeisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5600</ID>
+      <DefaultText>Precise Missive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5601</ID>
+      <DefaultText>This letter has been folded into a square with clean, diligent creases. 
+
+„[Player Name] walks the Deadfire carrying shards of heat-scorched metal. The significance of these items can't have escaped you, though the timing is a surprise to us all. 
+
+We should grasp this opportunity. Kill [Player Name]. Do not hide your act, for we work under the auspices of law. See to it that the metal gets into Izzia's hands. She wastes her potential in Periki's Overlook. 
+
+Praise the Exiled Queen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5602</ID>
+      <DefaultText>Hastily-Written Missive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5603</ID>
+      <DefaultText>This missive is speckled with coal dust and candle wax. 
+
+„These are words I never wished to write. The blackened shards have been recovered, and [Player Name] carries them - I pray out of ignorance or coincidence.
+
+We can get ahead of this if we act with haste. The Watcher may have already suffer the witch's corruption without realizing it. Let no thoughts of mercy stay your sword. 
+
+Once you recover the shards, &lt;i&gt;under no circumstances are they to be kept together.&lt;/i&gt; After you report in, they will be placed in separate vaults and bound in magic for as long as we endure. 
+
+See too that they are kept far from Periki's Overlook. Our enemies mutter about the craftswoman Izzia as if she has an air of destiny about her.
+
+For peace and Magran's honor, may you succeed.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
