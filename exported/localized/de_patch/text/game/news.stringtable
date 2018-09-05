@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\news</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>25</EntryCount>
+  <EntryCount>26</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -157,6 +157,16 @@ In dieser DLC:
     <Entry>
       <ID>24</ID>
       <DefaultText>Neue verbrauchbare Gegenstände und Mirke, ein neuer Helfer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Weit entfernt in den südlichsten Bereichen des Todesfeuer-Archipels haben sich Frost und Tod im Land der Lebenden ausgebreitet. Du, Wächter, hast eine Botschaft von den Bewohnern der Insel erhalten: Anbeter von Rymrgand, dem Gott der Entropie und des Desasters. Sie nennen dich Dämmersprecher, ein Vorbote des Endes, und beten, dass du dein Schicksal erfüllst.
+
+In diesem neuen DLC für Pillars of Eternity II: Todesfeuer,
+• Starte in ein Abenteuer, das dich zu Hel selbst führt. 
+• Schließe dich Vatnir an, einem Gottähnlichen des Endes und Priester von Rymrgand, um den Kampf zu den Monstern zu tragen, die im Jenseits umherstreifen. 
+• Fordere eine uralte Drachin heraus, die die Götter fürchten, bevor sie Eora ein eisiges Ende bringt.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
