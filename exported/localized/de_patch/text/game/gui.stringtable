@@ -2427,12 +2427,12 @@
     </Entry>
     <Entry>
       <ID>486</ID>
-      <DefaultText>Bergzwerge (Aptapo) stammen ursprünglich vom Kontinent Aedyr aus den Alten Reichen, verschwanden aber aus diesen Ländern, lang bevor Menschen und Elfen dort ankamen. Sie haben sich über das Jahrtausend hinweg aufgrund ihres instinktiven Drangs zum Erkunden und Umherziehen schnell auf der ganzen Welt ausgebreitet. Bergzwerge bilden selbst zwar auch Siedlungen und sogar kleine Nationen, man findet sie aber zahlreicher in anderen Kulturen, am häufigsten in Alt-Valia, den Vailianischen Republiken und im Dyrwald.</DefaultText>
+      <DefaultText>Bergzwerge (Aptapo) stammen ursprünglich vom Kontinent Aedyr aus den Alten Reichen, verschwanden aber aus diesen Ländereien, lang bevor Menschen und Elfen dort ankamen. Sie haben sich über das Jahrtausend hinweg aufgrund ihres instinktiven Drangs zum Erkunden und Umherziehen schnell auf der ganzen Welt ausgebreitet. Bergzwerge bilden selbst zwar auch Siedlungen und sogar kleine Nationen, man findet sie aber zahlreicher in anderen Kulturen, am häufigsten in Alt-Vailia, den Vailianischen Republiken und im Dyrwald.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>487</ID>
-      <DefaultText>Die meisten Nordzwerge (Enutanik) leben auf der abgeschiedenen südlichen Insel von Naasitaq, wo sie die felsige Tundra und die schneebedeckten Wälder mit den eingewanderten Bleichelfen und den küstennah fahrenden Schiffen der Aumauaner teilen. Wie ihre nördlichen Vettern teilen die Enutanik eine instinktive Liebe für Erkundungen. Nordzwergen begegnet man häufiger im Ewigen Weiß oder in den südlichen Gebieten des Todesfeuers, in anderen Ländern trifft man sie jedoch nur selten an.</DefaultText>
+      <DefaultText>Die meisten Nordzwerge (Enutanik) leben auf der abgeschiedenen südlichen Insel von Naasitaq, wo sie die felsige Tundra und die schneebedeckten Wälder mit den umherwandernden Bleichelfen und den küstennah fahrenden Schiffen der Aumauaner teilen. Wie ihre nördlichen Vettern wohnt den Enutanik eine instinktive Liebe für Erkundungen inne. Nordzwergen begegnet man häufiger im Ewigen Weiß oder in den südlichen Gebieten des Todesfeuers, in anderen Ländern trifft man sie jedoch nur selten an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2472,7 +2472,7 @@
     </Entry>
     <Entry>
       <ID>495</ID>
-      <DefaultText>Insel-Aumauaner stammen aus dem Todesfeuer-Archipel und sind über die Jahrtausende hinweg hauptsächlich dort geblieben. Obwohl sie mit ihren Küsten-Vetter physiologische Ähnlichkeiten teilen, unterscheidet sich die Färbung der Insel-Aumauaner – warme Rot- und Gelbtöne – sehr stark von der Färbung der Küsten-Aumauaner – kühle Blau- und Grüntöne. Nicht alle Insel-Aumauaner sind mit der ursprünglichen Huanakultur im Todesfeuer verbunden und man findet sie nur selten im Östlichen Abschnitt, und noch seltener in den Alten Reichen.</DefaultText>
+      <DefaultText>Insel-Aumauaner stammen aus dem Todesfeuer-Archipel und sind über die Jahrtausende hinweg hauptsächlich dort geblieben. Obwohl sie mit ihren Küsten-Vettern physiologische Ähnlichkeiten teilen, unterscheidet sich die Färbung der Insel-Aumauaner – warme Rot- und Gelbtöne – sehr stark von der Färbung der Küsten-Aumauaner – kühle Blau- und Grüntöne. Nicht alle Insel-Aumauaner sind mit der ursprünglichen Huanakultur im Todesfeuer verbunden und man findet sie nur selten im Östlichen Abschnitt, und noch seltener in den Alten Reichen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4942,7 +4942,7 @@ Legenden zufolge verließen die Rauatai, aufgrund einer schrecklichen Katastroph
     </Entry>
     <Entry>
       <ID>1102</ID>
-      <DefaultText>{0} Max Gesundheit</DefaultText>
+      <DefaultText>{0} Max. Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5597,7 +5597,7 @@ Legenden zufolge verließen die Rauatai, aufgrund einer schrecklichen Katastroph
     </Entry>
     <Entry>
       <ID>1259</ID>
-      <DefaultText>{0} Verteidigung bei Zurückziehen</DefaultText>
+      <DefaultText>{0} Verteidigung beim Absetzen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6217,7 +6217,7 @@ Legenden zufolge verließen die Rauatai, aufgrund einer schrecklichen Katastroph
     </Entry>
     <Entry>
       <ID>1397</ID>
-      <DefaultText>Das Abenteurleben bereitet viele mühen. Neben den Gefahren des tödlichen Kampfs müssen Abenteurer auch Mauern erklimmen, Flüsse überqueren und Gruben überspringen.
+      <DefaultText>Das Abenteurleben bereitet viele Mühen. Neben den Gefahren des tödlichen Kampfs müssen Abenteurer auch Mauern erklimmen, Flüsse überqueren und Gruben überspringen.
 Einmal pro Begegnung können Charaktere mit Athletik die Fähigkeit Neue Kraft einsetzen, um aufgebrauchte Gesundheit zu regenerieren. Je höher der Athletik-Wert, desto stärker die Wirkung von Neue Kraft.
 In Dialogen und geskripteten Interaktionen wird die Athletik für körperliche Aktivitäten wie Klettern, Schwimmen und Springen verwendet.</DefaultText>
       <FemaleText />
@@ -6891,7 +6891,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1535</ID>
-      <DefaultText>Wirkungsradius: {0}</DefaultText>
+      <DefaultText>Wirkungsbereich: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7141,7 +7141,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1590</ID>
-      <DefaultText>Wirkungsradius: {0}</DefaultText>
+      <DefaultText>Wirkungsbereich: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7206,7 +7206,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1603</ID>
-      <DefaultText>{0} Wirkungsradius</DefaultText>
+      <DefaultText>{0} Wirkungsbereich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7221,7 +7221,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1606</ID>
-      <DefaultText>Wirkungsradius</DefaultText>
+      <DefaultText>Wirkungsbereich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7751,7 +7751,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1715</ID>
-      <DefaultText>Dein {3} reicht nicht aus, um diesen Gegenstand einzusetzen (Erfordert: {0} {3}, {1} {3}: {2}).</DefaultText>
+      <DefaultText>Dein {3}-Wert reicht nicht aus, um diesen Gegenstand einzusetzen (Erfordert: {0} {3}, {1} {3}: {2}).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10379,7 +10379,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2250</ID>
-      <DefaultText>Der Modus &lt;b&gt;Geschichte&lt;/b&gt; ist für Spieler, die mehr daran interessiert sind, die Welt zu erforschen und die Geschichte voranzutreiben, als sich im Kampf zu messen. Wenn der Märchenstunde-Modus aktiv ist, ist die feindliche Zusammensetzung im Kampf identisch wie im Schwierigkeitsgrad Normal. Die Spielmechaniken sind aber zugunsten des Spielers verschoben.</DefaultText>
+      <DefaultText>Die &lt;b&gt;Märchenstunde&lt;/b&gt;-Schwierigkeitsstufe ist für Spieler gedacht, die mehr daran interessiert sind, die Welt zu erforschen und die Geschichte voranzutreiben, als sich im Kampf zu messen. Die Spielmechaniken sind stark zugunsten des Spielers verschoben, was Kämpfe extrem vereinfacht.</DefaultText></DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13034,7 +13034,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2792</ID>
-      <DefaultText>Die Schildträger von St. Elcga</DefaultText>
+      <DefaultText>Die Schildknappen der Heiligen Elcga</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13140,7 +13140,7 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     <Entry>
       <ID>2813</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Gewährt „Abendmahl des Fleisches“ – Suche einen feindlichen toten Gestandenen, Wilder oder eine Bestie und verschlingen deren Leiche, um den Barbaren zu heilen und ihm Zorn zu verschaffen.
+Gewährt „Abendmahl des Fleisches“ – Suche einen feindlichen toten Gestandenen, Wilder oder eine Bestie und verschlingen deren Leiche, um den Barbaren zu heilen und ihm Wut zu verschaffen.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Kosten aller Wut-Fähigkeiten um 1 erhöht.</DefaultText>
@@ -13505,7 +13505,7 @@ Die Priester von Wael lernen die folgenden Zaubersprüche automatisch auf der je
     <Entry>
       <ID>2847</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Immun gegen Verbundene Trauer.
+&lt;xg&gt;Immun&lt;/xg&gt; gegen Verbundene Trauer.
 
 Der tierische Gefährte ist immun gegen Angriffsbindung.
 
@@ -17807,12 +17807,12 @@ Willst du wirklich fortfahren?</DefaultText>
     </Entry>
     <Entry>
       <ID>3809</ID>
-      <DefaultText>bei ausgeteiltem kritischen Treffer</DefaultText>
+      <DefaultText>bei erzieltem kritischen Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3810</ID>
-      <DefaultText>bei ausgeteiltem Treffer mit einer Attacke</DefaultText>
+      <DefaultText>bei erzieltem Treffer mit einer Attacke</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21688,7 +21688,7 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4688</ID>
-      <DefaultText>Ist eine nette Geschichte. Dass du diesen alten Wachturm gerichtet und den Fluch gelöst hast.</DefaultText>
+      <DefaultText>Ist eine nette Geschichte. Dass du diesen alten Bergfried wiederhergerichtet und den Fluch gelöst hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
