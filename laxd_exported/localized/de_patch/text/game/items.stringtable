@@ -2,8 +2,215 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>48</EntryCount>
+  <EntryCount>81</EntryCount>
   <Entries>
+    <Entry>
+      <ID>4563</ID>
+      <DefaultText>Schädel der Gefallenen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4564</ID>
+      <DefaultText>Dieser ungewöhnliche Schädel, der vor spiritueller Essenz sprüht, ist mit religiösen Symbolen in alten Farbtönen versehen. Eine dicke, rote Flüssigkeit sickert aus dem Knochen und ist von der darin befindlichen Energie geschwängert.
+
+Neale denkt, du solltest etwas davon trinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4700</ID>
+      <DefaultText>Dieser Helm, der im Stile der Huana aus einem einzelnen Holzblock geschnitzt wurde, stellt die Gestalt des Keilers von Toamowhai dar. Helle Farben betonen die Schnauze und die Augen, während kleine Flecken, welche eine übernatürliche Wahrnehmung andeuten, Letztere umkreisen. Dieser mit Essenz infundierte Helm hält Hieben stand, die einen Baum fällen würden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4701</ID>
+      <DefaultText>Eine Rüstung beschützt. Eine Krone befiehlt. Der Überlebende dient all jenen, die leben und beschützen, wobei er den tödlichen Schlag abwendet und den vergifteten Pfeil ablenkt. Dieser Kopfschmuck mit seiner prächtigen Befiederung ist mehr als nur eine Schutzbekleidung – er führt.
+
+So singen es die Huana. So heulen es die Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4702</ID>
+      <DefaultText>Der hundertfache Pfad verzweigt sich einhunderthundert Male. Der Überlebende befiehlt nicht dem Beschützer, da er sich bereitwillig der Härte eines jeden Pfades stellen und sich während des Übergangs als überlegen erweisen würde. Daher dient der Reisende dem Überlebenden, der das Bollwerk gegen die schlimmsten Bedrohungen richtet.
+
+So singen es die Huana. So heulen es die Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4705</ID>
+      <DefaultText>Erleide {0} Schaden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4707</ID>
+      <DefaultText>Wirke {0} Priesterzauber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5006</ID>
+      <DefaultText>Herz des Titanen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5026</ID>
+      <DefaultText>Waidwens Sonnenuhr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5029</ID>
+      <DefaultText>Sonnenuhren wie diese werden von Schäfern oder Bauern verwendet, die die meiste Zeit im Freien verbringen. Man misst mit ihnen die Zeit, indem man die zentrale Achse passend zum Monat ausrichtet, wodurch das Sonnenlicht durch ein winziges Loch gebündelt wird und auf eine Reihe von Zahlen fällt, die im Inneren des Ringes eingraviert sind.
+
+Waidwen muss diesen Gegenstand während des Krieges des Heiligen getragen haben, da die Luft um ihn herum vor &lt;xg&gt;Macht&lt;/xg&gt; zittert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5045</ID>
+      <DefaultText>Die Zwillingsaale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5046</ID>
+      <DefaultText>Ein Kuaru-Schmied schmiedete sein Meisterstück, dem er den Namen Tangaloa gab und behauptete, dass es jeden Feind ins Maul des Großen Aals schicken würde. Nachdem er seine Handwerkskunst bei allen, die es hören wollten, in höchsten Tönen angepriesen hatte, sprach Rikuhu im Schlaf zu ihm und drückte seine Enttäuschung darüber aus, dass er nicht beide Aspekte der Gottheit ehrte. Dadurch gleichermaßen gedemütigt wie erschrocken schmiedete der Schmied das Gegenstück Kohopa, um das Gebot des Gottes zu ehren. Er verband die beiden Waffen und drehte die Klingen ineinander.
+
+Dann verkaufte er die Waffe so schnell wie möglich und schmiedete nie wieder eine Waffe im Namen der Götter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5058</ID>
+      <DefaultText>Eilige Strömung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5059</ID>
+      <DefaultText>Der Legende zufolge erschufen alte Wasserformer aus Ukaizo dieses Zepter auf dem Meeresboden. Den Schaft fertigten sie aus feinstem Sandelholz. Für die Spitze suchten sie eine seltene Perle, die über eintausend Jahre hinweg in einer Molluske groß wie ein Ruderboot geformt wurde. Nur durch Ondras Segen konnten die Wasserformer sie aus der Kreatur ziehen, ohne selbst von ihr verschlungen zu werden.
+
+Das Zepter war angeblich Teil eines Rituals, mit dem Ngati Vergnügen bereitet wurde, allerdings sind die Einzelheiten zu dieser unzüchtigen Angelegenheit mit der Zeit verloren gegangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5062</ID>
+      <DefaultText>Brosche des Unvermeidlichen Winters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5063</ID>
+      <DefaultText>Das matte Metall dieses Anhängers in Form eines Ochsenkopfs hat fast sämtlichen Glanz verloren. Er liegt schwer auf der Brust und seine Kälte beißt jedes Fleisch, das mit ihm in Berührung kommt. Die in die Augen des Auerochsen eingesetzten Edelsteine pulsieren schwach mit blauem Licht und gelegentlich flüstert dem Träger kaum hörbar eine leise Brise ins Ohr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5064</ID>
+      <DefaultText>Sog der Finalität</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5065</ID>
+      <DefaultText>Je tiefer jemand in die verführerisch leuchtenden Tiefen dieses Rings blickt, umso stärker zieht er dessen Sein an, wie Ranken, die an der Seele des Trägers zerren. Die Stunden scheinen im Flug zu vergehen, wenn man wie versunken in diesen Ring starrt, und auch nachdem man sich davon losgerissen hat, scheint die Welt finsterer zu sein.
+
+Der Ring scheint Hunger nach entropischen Splittern zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5069</ID>
+      <DefaultText>Fußstapfen der Bestie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5070</ID>
+      <DefaultText>Diese wie gespaltene Hufen geschusterten Stiefel verderben die Erde, die sie betreten. Der Glamfellen, der dieses ungewöhnliche Schuhwerk fertigte, schenkte sie der Priesterin seines Clans, die sie in Rymrgands Namen segnete. Dann schenkte sie diese Stiefel der mutigsten Kriegerin des Clans, damit sie sie zu Ehren der Bestie des Winters trage.
+
+Obwohl es mehrere Monate Übung brauchte, bis die Kriegerin in der Lage war, sich sicher mit den Stiefeln zu bewegen, wurde sie darin schließlich – vielleicht unvermeidlich – eine wahre Geißel auf dem Schlachtfeld.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5071</ID>
+      <DefaultText>Kleider des Hohen Boten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5072</ID>
+      <DefaultText>Auch wenn diese Kleider denen anderer Boten gleichen, haben sie eine auffällige Besonderheit: Den ekelhaften Gestank, der sie wie eine Aura umgibt. Das macht es nahezu unmöglich, dass irgendjemand außer Vatnir sie trägt, es sei denn, demjenigen fehlen jeglicher Geruchs- und Geschmackssinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5122</ID>
+      <DefaultText>Hörner des Auerochsen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5123</ID>
+      <DefaultText>Ein berüchtigter aumauanischer Räuber stieß auf eine kleine Schmiede von Abydons Dienern und metzelte alle nieder, bis auf eine Schmiedin, die sich in einer Vorratskiste verstecken konnte. Die Zwergin rief den Aumauaner und bot ihm einen Tausch an. Sie würde dem Räuber den besten Helm fertigen, den er je gesehen hatte, wenn er dafür ihr Leben verschonte. Der Räuber gab ihr eine Woche und verlangte, dass die Panzerung seinen Schutzgott ehrte – die Bestie des Winters.
+
+Die Schmiedin schuftete unablässig bis zum letzten Abend, als sie den Helm vor die unverschlossene Tür der Schmiede stellte. Am nächsten Morgen war der Helm verschwunden und das Heiligtum von Abydon wurde nie wieder geplündert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5147</ID>
+      <DefaultText>Korrodierte Armschienen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5148</ID>
+      <DefaultText>Unter den Wellen des Todesfeuers lauert ein massives Krebstier mit einer Schale härter als jeder von Gestandenen geschmiedeter Stahl. Es lauert in den Untiefen ahnungslose Schiffen auf, deren Besatzung dumm genug ist, sich seiner Schale zu nähern. Diese aus der abgeworfenen Kruste der Bestie gefertigten Panzerhandschuhe sind ebenso leicht wie überraschend haltbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5152</ID>
+      <DefaultText>Brief mit Wachssiegel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5153</ID>
+      <DefaultText>Dieses Sendschreiben, das mit wie es aussieht getrocknetem Blut auf einem Stück gegerbten Leder geschrieben wurde, erreichte dich zusammengerollt und mit dem Wachssiegel des Auerochsen versehen. Die Buchstaben sind krakelig und abgehackt, vermutlich hat der Verfasser beim Schreiben gezittert.
+
+&lt;i&gt;„Hochverehrter Wächter von Caed Nua,
+
+ich lade dich herzlich zu einem Festschmaus dir zu Ehren ein. Eine Gemeinschaft Gleichgesinnter versammelt sich in der Botenwacht, einem kleinen Außenposten im südlichen Todesfeuer-Meer, um die schnelle Ausbreitung der Toten Scholle zu erleben.
+
+Schon bald wird das Eis alles verschlingen, und Rymrgands Herrschaft über das tote Eora wird unangefochten sein.
+
+Wir erwarten mit großer Freude, deine Großartigkeit bei uns zu begrüßen.
+
+Mit Bewunderung deiner vielen Errungenschaften,
+
+Vatnir, Hoher Bote der Dämmerung“&lt;/i&gt;</DefaultText>
+      <FemaleText>Dieses Sendschreiben, das mit wie es aussieht getrocknetem Blut auf einem Stück gegerbten Leder geschrieben wurde, erreichte dich zusammengerollt und mit dem Wachssiegel des Auerochsen versehen. Die Buchstaben sind krakelig und abgehackt, vermutlich hat der Verfasser beim Schreiben gezittert.
+
+&lt;i&gt;„Hochverehrte Wächterin von Caed Nua,
+
+ich lade dich herzlich zu einem Festschmaus dir zu Ehren ein. Eine Gemeinschaft Gleichgesinnter versammelt sich in der Botenwacht, einem kleinen Außenposten im südlichen Todesfeuer-Meer, um die schnelle Ausbreitung der Toten Scholle zu erleben.
+
+Schon bald wird das Eis alles verschlingen, und Rymrgands Herrschaft über das tote Eora wird unangefochten sein.
+
+Wir erwarten mit großer Freude, deine Großartigkeit bei uns zu begrüßen. 
+
+Mit Bewunderung deiner vielen Errungenschaften,
+
+Vatnir, Hoher Bote der Dämmerung“&lt;/i&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5154</ID>
+      <DefaultText>Vatnirs Eispickel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5155</ID>
+      <DefaultText>Ein Paar einfache Eispickel mit Holzgriffen, die man zum Klettern über vereiste Oberflächen benutzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5190</ID>
+      <DefaultText>Verrat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5199</ID>
+      <DefaultText>Eishammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5205</ID>
+      <DefaultText>Amulett der verlorenen Reisen</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>5245</ID>
       <DefaultText>Halskette der Endlosen Möglichkeiten</DefaultText>
