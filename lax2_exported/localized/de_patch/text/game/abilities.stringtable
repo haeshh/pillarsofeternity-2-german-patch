@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>108</EntryCount>
+  <EntryCount>109</EntryCount>
   <Entries>
     <Entry>
       <ID>4146</ID>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>4676</ID>
-      <DefaultText>Eis verschließt die Gelenke der Rüstung, der Träger erhält einen Bonus auf Rüstung aber wird Bewegungsunfähig.</DefaultText>
+      <DefaultText>Eis verschließt die Gelenke der Rüstung, der Träger erhält einen Bonus auf Rüstung, wird aber Bewegungsunfähig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,7 +281,7 @@
     </Entry>
     <Entry>
       <ID>4721</ID>
-      <DefaultText>Das Winterzeit-Bollwerk bremst den Träger für kurze Zeit, erhöht aber dessen körperliche und mentale Verteidigung.</DefaultText>
+      <DefaultText>Während der Träger befallen ist, verhärtet sich das Winterzeit-Bollwerk und erhöht die Chance, dass feindliche Leichte Treffer zu Fehlschlägen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -552,6 +552,11 @@ Priester von Rymrgand lernen die folgenden Zaubersprüche automatisch auf der je
     <Entry>
       <ID>4825</ID>
       <DefaultText>Wenn Fjord die Gruppe begleitet, erhöht sich deine Verfassung und die Gruppe richtet mit jedem Nahkampfangriff zusätzlichen Frostschaden an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4917</ID>
+      <DefaultText>Gerechte Rache</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
