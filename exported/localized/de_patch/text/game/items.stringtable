@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2831</EntryCount>
+  <EntryCount>2902</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -6481,7 +6481,7 @@ Im Anschluss an diese Nachricht folgt eine detaillierte Beschreibung deines Schi
     </Entry>
     <Entry>
       <ID>3076</ID>
-      <DefaultText>Räucherrippchen am Rost</DefaultText>
+      <DefaultText>Räucherrippchen vom Rost</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7588,7 +7588,7 @@ Kaliwi verwendete diesen Zauberstab nicht nur zur Verteidigung gegen die überal
     </Entry>
     <Entry>
       <ID>3327</ID>
-      <DefaultText>9. Majestu 2816 AI – endlich habe ich sie gefunden: Die Grabstätte von Paira, einer Anführerin der antiken Huana. Von ihr ist nur noch bekannt, dass sie einst eine geschickte Ingenieurin war. Es wäre faszinierend zu sehen, was mit ihr begraben wurde. 10. Majestu – Verdammt. Ich hätte es besser wissen müssen. Alleine der Weg hierher war schon schlimm, aber wie es aussieht, wurde die Grabstätte so gebaut, dass sie keiner stört. Ich habe schon drei meiner Gefährten verloren und ein weiterer ist heute Nacht abgehauen. Ihn hat wohl die Angst gepackt. Jetzt bin ich auf mich allein gestellt. Wenn Paira diese Fallen entworfen hat, war sie wirklich gut … aber niemand würde so etwas ohne Hinterausgang bauen oder ohne Möglichkeit, die Fallen zu deaktivieren. Ich suche einfach weiter. 11. Majestu – In der Nacht fiel mir ein Ausdruck aus einer alten Geschichte wieder ein, „Händeschütteln mit den Göttern“. Also hier sind keine Götter, nur ein Raum voller giftiger Gase. 12. Majestu – Ein Fetzen Papier, in meinen Händen zerfallen. Konnte mit Mühe gerade einen Satz lesen: „Rikuhu ist der Anfang. Rikuhu ist das Ende.“</DefaultText>
+      <DefaultText>9. Majestu 2816 AI – endlich habe ich sie gefunden: Die Grabstätte von Paira, einer Anführerin der antiken Huana. Von ihr ist nur noch bekannt, dass sie einst eine geschickte Ingenieurin war. Es wäre faszinierend zu sehen, was mit ihr begraben wurde. 10. Majestu – Verdammt. Ich hätte es besser wissen müssen. Alleine der Weg hierher war schon schlimm, aber wie es aussieht, wurde die Grabstätte so gebaut, dass sie keiner stört. Ich habe schon drei meiner Gefährten verloren und ein weiterer ist heute Nacht abgehauen. Ihn hat wohl die Angst gepackt. Jetzt bin ich auf mich allein gestellt. Wenn Paira diese &lt;xg&gt;Fallen&lt;/xg&gt; entworfen hat, war sie wirklich gut … aber niemand würde so etwas ohne Hinterausgang bauen oder ohne Möglichkeit, die &lt;xg&gt;Fallen&lt;/xg&gt; zu deaktivieren. Ich suche einfach weiter. 11. Majestu – In der Nacht fiel mir ein Ausdruck aus einer alten &lt;xg&gt;Geschichte&lt;/xg&gt; wieder ein, „Händeschütteln mit den Göttern“. Also hier sind keine Götter, nur ein Raum voller giftiger Gase. 12. Majestu – Ein Fetzen Papier, in meinen Händen zerfallen. Konnte mit Mühe gerade einen Satz lesen: „Rikuhu ist der Anfang. Rikuhu ist das Ende.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8667,7 +8667,7 @@ Devio saß oben auf dem nahegelegenen Mausoleum und war genervt, dass die Glocke
     </Entry>
     <Entry>
       <ID>3554</ID>
-      <DefaultText>Zauberbuch der Träger des Zerrissenen Banners</DefaultText>
+      <DefaultText>Zerrissenes Bannerträger-Zauberbuch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12967,13 +12967,13 @@ Obwohl einige Magran-Tempel auch weiterhin Weihrauchfässer im Rahmen von Ritual
       <ID>4458</ID>
       <DefaultText>Dieser schmale Band berichtet die Geschichte der Tacan. Das war ein Volk, das in den fruchtbaren Ixamitl-Ebenen lebte, am Ufer des Flusses Aqui. Das Buch erzählt davon, wie dieses Volk in der Region aufstieg – und es erzählt von seiner Vernichtung durch seine althergebrachten Feinde, die Quechmatl.
 
-Ein großer Teil des Buches befasst sich mit der Untersuchung der Rolle des tacanischen Mönchsordens der Nalpazca in der Gesellschaft der Taca. Die Nalpazca glaubten daran, dass Erhabenheit nur dadurch erreicht werden konnte, dass die Menschen ihre persönliche Eitelkeit überwanden, ebenso wie den Wunsch nach weltlichen Genüssen und die Angst vor dem Tod. Zu diesem Zweck legten sie ein antisoziales Verhalten an den Tag, übten sich in verschiedenen Formen der Selbstverstümmelung und Meditation. Manchmal konsumierten sie dabei das Fleisch frisch Verstorbener.
+Ein großer Teil des Buches befasst sich mit der Untersuchung der Rolle des tacanischen Mönchsordens der Nalpazca in der Gesellschaft der Taca. Die Nalpazca glaubten daran, dass Erhabenheit nur dadurch erreicht werden konnte, dass die Menschen ihre persönliche Eitelkeit überwanden, ebenso wie den Wunsch nach weltlichen Genüssen und die Angst vor dem &lt;xg&gt;Tod&lt;/xg&gt;. Zu diesem Zweck legten sie ein antisoziales Verhalten an den Tag, übten sich in verschiedenen Formen der Selbstverstümmelung und Meditation. Manchmal konsumierten sie dabei das Fleisch frisch Verstorbener.
 
 Angeführt wurden die Nalpazca durch einen Anitlei oder Meisterkrieger. Der letzte dieser Meisterkrieger war ein Mann namens Ixepillo. Ixepillo hatte den Auftrag, sein Volk vor den Quechmatl und anderen Bedrohungen zu schützen. Doch in einer tragischen Schicksalswendung kam er ums Leben, bevor er sein Wissen an denjenigen weitergeben konnte, der seine Nachfolge antreten sollte.
 
 Das Buch beschreibt sehr ausführlich sein Versagen. Ganz offensichtlich war der Autor der Überzeugung, dass dieser eine Fehler den Quechmatl genau die Chance zum Angriff verschaffte, auf die sie gewartet hatten. Weiter lässt sich der Autor darüber aus, wie er noch versuchte, in seinem Volk einen Aufstand gegen die Quechmatl anzuzetteln. Seine Anstrengungen blieben jedoch erfolglos, denn die Taca waren durch die Zerstörung ihrer Kultur innerlich gebrochen und brachten die Energie für eine Gegenwehr nicht auf.
 
-Das Buch schließt mit einem Aufruf an die Leser, nicht den Niedergang der Taca zu betrauern, sondern aus dem zu lernen, was dieses Volk zu bieten hatte, und dieses Wissen dann an andere weiterzugeben.</DefaultText>
+Das Buch schließt mit einem Aufruf an die Leser ab, nicht den Niedergang der Taca zu betrauern, sondern aus dem zu lernen, was dieses Volk zu bieten hatte, und dieses Wissen dann an andere weiterzugeben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13990,8 +13990,63 @@ Als Symbol ihrer neuen Position überreichte man Pallegina diesen schimmernden B
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4705</ID>
+      <DefaultText>Erleide {0} Schaden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4707</ID>
+      <DefaultText>Wirke {0} Priesterzauber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4708</ID>
+      <DefaultText>Verursache {0} Macht-Wirkungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4709</ID>
+      <DefaultText>Wirke {0} Sängerbeschwörungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4710</ID>
+      <DefaultText>Wirke {0} Schutz- oder Wiederherstellung-Priesterzauber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4711</ID>
+      <DefaultText>Wirke {0} Bestien- oder Pflanzen-Druidenzauber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4712</ID>
       <DefaultText>Durch die See verwittertes Zauberbuch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4719</ID>
+      <DefaultText>Füge Feinden, die unter Wirkungen leiden, {0} Schaden zu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4720</ID>
+      <DefaultText>Füge flankierten Feinden {0} Schaden zu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4721</ID>
+      <DefaultText>Füge {0} Schaden mit Schredder-Mächten zu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>Füge {0} Reinen Schaden zu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4729</ID>
+      <DefaultText>Erhalte {0} Wirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14205,6 +14260,21 @@ Als Symbol ihrer neuen Position überreichte man Pallegina diesen schimmernden B
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4781</ID>
+      <DefaultText>Verursache {0} Wahrnehmungswirkungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4782</ID>
+      <DefaultText>Wirke {0} Druidenzauber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4783</ID>
+      <DefaultText>Gewähre Gruppenmitgliedern {0} Inspirationen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4784</ID>
       <DefaultText />
       <FemaleText />
@@ -14275,6 +14345,16 @@ Er stieg zu einem Ort hinab, der als die Endlosen Pfade von Od Nua bekannt ist. 
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4797</ID>
+      <DefaultText>Töte {0} Bestien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>Besitze 25 Stärke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4799</ID>
       <DefaultText>Tekēhus Abschied</DefaultText>
       <FemaleText />
@@ -14292,6 +14372,16 @@ Möge das Rad die Erinnerung an deine Taten in Vergessenheit mahlen. Mögest du 
 Lebe wohl, mein Kapitän.
 
 Tekēhu“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4802</ID>
+      <DefaultText>Verursache {0} Intelligenz-Wirkungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4803</ID>
+      <DefaultText>Wirke {0} Bestien-Druidenzauber</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14719,6 +14809,11 @@ Der wütende Drache schlug mit den Klauen nach ihr. Dabei entriss er ihr die Bru
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4930</ID>
+      <DefaultText>Reflektierter Angriff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4932</ID>
       <DefaultText>Nemnok</DefaultText>
       <FemaleText />
@@ -14736,6 +14831,11 @@ Der wütende Drache schlug mit den Klauen nach ihr. Dabei entriss er ihr die Bru
     <Entry>
       <ID>4935</ID>
       <DefaultText>Während der Obsidian-Lindwurm dir folgt, erhältst du einen Bonus auf Heimlichkeit und Fingerfertigkeit, und deine Gruppenmitglieder erhalten einen Bonus auf Genauigkeit gegen flankierte Gegner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4936</ID>
+      <DefaultText>Ring der entropischen Reflektion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14932,7 +15032,7 @@ Eine Seite scheint der Reiseplan eines Schiffs zu sein, mit einer Liste von Häf
 
 Die zweite Seite ist eine Liste von Namen. „Bearn“ erscheint darauf ungefähr in der Mitte. Ein Nachname wird nicht genannt.
 
-Es gibt auch eine Frachtliste, in der erfasst wurde, welche Fracht in jedem Hafen zu laden ist. Die meisten Waren, die in Neketaka geladen werden, sind Nahrungsmittel und Getränke, doch ein Artikel fällt aus dem Rahmen: „Gift, Aedyrische Baumviper.“ Die Menge ist in „Fläschchen“ angegeben und zählt mehrere Dutzend.
+Es gibt auch eine Frachtliste, in der erfasst wurde, welche Fracht in jedem Hafen zu laden ist. Die meisten Waren, die in Neketaka geladen werden, sind Nahrungsmittel und &lt;xg&gt;Getränke&lt;/xg&gt;, doch ein Artikel fällt aus dem Rahmen: „&lt;xg&gt;Gift&lt;/xg&gt;, Aedyrische Baumviper.“ Die Menge ist in „Fläschchen“ angegeben und zählt mehrere Dutzend.
 
 Letztlich gibt es noch eine Karte, die Orte zu markieren scheint, an denen Eothas auf den Inseln gesichtet wurde. Es wurde eine Linie gezogen, die diese Punkte miteinander verbindet. Sie führt auf einen Kurs nach Norden, über den Ort seiner jüngsten Sichtung hinaus und ein Punkt entlang dieser Linie wurde mit einem „X“ markiert.</DefaultText>
       <FemaleText />
@@ -15835,7 +15935,7 @@ Hazanui Sesquo</DefaultText>
     </Entry>
     <Entry>
       <ID>5163</ID>
-      <DefaultText>Des Wilddichters Kopf, praktisch verpackt. Dies wird keine Zweifel an seinem Tod lassen.</DefaultText>
+      <DefaultText>Des Wilddichters Kopf, praktisch verpackt. Dies wird keine Zweifel an seinem &lt;xg&gt;Tod&lt;/xg&gt; lassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15850,7 +15950,7 @@ Hazanui Sesquo</DefaultText>
     </Entry>
     <Entry>
       <ID>5166</ID>
-      <DefaultText>Die abgetrennten Köpfe der Nāga haben ihr postmortales Gebeiße und Gezucke endlich eingestellt. Ihre Reißzähne sind jedoch nach wie vor gefährlich. Dieser Leinensack sollte die Gefahr etwas verringern.</DefaultText>
+      <DefaultText>Der abgetrennte Kopf der Nāga hat sein postmortales Gebeiße und Gezucke endlich eingestellt. Ihre Reißzähne sind jedoch nach wie vor gefährlich. Dieser Leinensack sollte die Gefahr etwas verringern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16210,29 +16310,29 @@ Viel Glück,
     </Entry>
     <Entry>
       <ID>5210</ID>
-      <DefaultText>„Jeder Meter der See ist Ondras Blut, jeder Meter ihre Tränen und auch wenn es Amiras Atem sein wird, der uns hindurch bewegt, ist es nur durch Ondras Willen, dass wir nicht in ihren heiligen Eingeweiden ertrinken. Mache ihrem Zorn den Hof auf eigene Gefahr, weil sie die Bedeutung von Gnade nicht kennt.“
+      <DefaultText>„‚Jeder Meter der See ist Ondras Blut, jeder Meter ihre Tränen und auch wenn es der Atem von Amira sein wird, der uns hindurch bewegt, ist es nur durch den Willen von Ondra, dass wir nicht in ihren heiligen Eingeweiden ertrinken. Mache ihrem Zorn den Hof auf eigene Gefahr, weil sie die Bedeutung von Gnade nicht kennt.‘
 
 Ein alter Hase hat das mir erzählt, als ich das erste Mal aus einem Hafen herauskam, und dieser krustige Bastard hat nie gewusst, wenn er aufhören sollte zu blubbern, also habe ich nicht auf ihn gehört. &lt;i&gt;Ich&lt;/i&gt; habe nie selbst gesehen, wie die Göttin aus den Tiefen emporstieg und Hand an ein Schiff legte. Die Winde und Wellen – das waren &lt;i&gt;irdische&lt;/i&gt; Bedrohungen. Die Götter haben einen besseren Scheiß zu tun als uns zu quälen.
 
 Natürlich war das alles bevor ich anfing, auf der &lt;i&gt;Fischerkönigin&lt;/i&gt; zu schippern.
 
-Ein Wrack von einem Mann hat mich in der Mähre in Neketaka gefunden – ein Auge, Narben im ganzen Gesicht, ein echter Piraten–Pirat. Hat sich in der Bar an mich rangemacht als wären wir alte Freunde. „Siehst so aus, als würdest du dich in der Takelage eines Schiffes auskennen“, sagte er. Habe zuerst gedacht, er wollte mich mitnehmen und ich habe ihm das fast erlaubt. Stattdessen hat er gelacht. „Habe meinen Blick auf etwas Besonderes gerichtet“, sagte er, „und wir brauchten die Besten, die es gibt, um es zu erbeuten.“
+Ein Wrack von einem Mann hat mich in der Mähre in Neketaka gefunden – ein Auge, Narben im ganzen Gesicht, ein echter Piraten–Pirat. Hat sich in der Bar an mich rangemacht als wären wir alte Freunde. ‚Siehst so aus, als würdest du dich in der Takelage eines Schiffes auskennen‘, sagte er. Habe zuerst gedacht, er wollte mich mitnehmen und ich habe ihm das fast erlaubt. Stattdessen hat er gelacht. ‚Habe meinen Blick auf etwas Besonderes gerichtet‘, sagte er, ‚und wir werden die Besten brauchen, die es gibt, um es zu erbeuten.‘
 
-Nun, ich gebe keine zwei halben Cents auf Prestige. Blase mein Ego so sehr auf, wie du willst – welche Art Münze bietest du an? Er hat richtig gute Münze geboten. Also bin ich mit ihm gegangen. Dumme Sache das, aber was wusste ich schon? Nichts. Nicht ein gottverdammtes Ding. Das ist mir jetzt so klar wie der Morgen.
+Nun, ich schere mich einen feuchten Kehricht um Prestige. Blase mein Ego so sehr auf, wie du willst – welche Art Münze bietest du an? Er hat richtig gute Münze geboten. Also bin ich mit ihm gegangen. Dumme Sache das, aber was wusste ich schon? Nichts. Nicht ein gottverdammtes Ding. Das ist mir jetzt so klar wie der Morgen.
 
 Wir haben Jungfrauen gejagt. Jungfrauenfleisch, wirklich. War nirgendwo eine Delikatesse, aber mein neuer Freund, der einäugige Seemann, wollte gerne daraus eine machen. Wollte einen neuen Trend starten. Geld scheffeln. Von den Einheimischen eine nette kleine Insel kaufen. Seine verbleibenden Tage entspannt auf einem schwarzen Sandstrand mit einem Krug Palmwein in der einen Armbeuge und eine bereitwillige Liebhaberin in der anderen zu verbringen.
 
-Man hört ja so &lt;i&gt;Geschichten&lt;/i&gt; über diese Biester. Wir hören alle Geschichten. Seeleute, die von den Jungfrauen der Tiefe und ihren Dienerinnen in den Tod gezogen wurden, weil sie der Schönheit ihrer traurigen Lieder nicht widerstehen konnten. Klingt verrückt, oder?
+Man hört ja so &lt;i&gt;Geschichten&lt;/i&gt; über diese Biester. Jeder von uns hört Geschichten. Seeleute, die von den Jungfrauen der Tiefe und ihren Dienerinnen in den &lt;xg&gt;Tod&lt;/xg&gt; gezogen wurden, weil sie der Schönheit ihrer traurigen Lieder nicht widerstehen konnten. Klingt verrückt, oder?
 
-Wir haben eine Gruppe in der Nähe des Ofecchia–Kanals gefunden, wo sie Thunfisch jagten. Sie sahen aus der Ferne aus wie eine Gruppe hübscher Damen – Fischschwänze so lang wie eine stürmische Nacht und glatt wie ein von Salzwasser befeuchtetes Deck, mit Haaren wie Seegras und breiten, herzlichen Lächeln. Wir haben ein paar mit dem Netz eingefangen und sie an Deck gezogen. War gar nicht so schwer Hatte fast den Eindruck, sie wollten gefangen werden
+Wir haben eine Gruppe in der Nähe des Ofecchia–Kanals gefunden, wo sie Thunfisch jagten. Sie sahen aus der Ferne aus wie eine Gruppe hübscher Damen – Fischschwänze so lang wie eine stürmische Nacht und glatt wie ein von Salzwasser befeuchtetes Deck, mit Haaren wie Seegras und breitem, herzlichen Lächeln. Wir haben ein paar mit dem Netz eingefangen und sie an Deck gezogen. War gar nicht so schwer, hatte fast den Eindruck, sie wollten gefangen werden
 
-Sie zischten und schrien, als wir unsere Messer zückten und bald schon bemerkten wir unseren Fehler. Wir entdeckten ihre gezackten Haifischzähne und ausgehängte Kiefer erst, als eine von ihnen Yaryc ganz verschlang und wir bemerkten zu spät, dass sie an den Hüften giftige Widerhaken hatten – erst als Gavril mit zwei von ihnen kämpfte und begann, Klumpen geronnenen schwarzen Blutes zu spucken. Und das Glänzen in ihren Augen, denen die Lederhaut fehlte und die so dunkelblau und tief waren wie Ondras eigene Leere… Ich erfuhr dies, als mir eine von ihnen den Arm sauber am Ellenbogen abtrennte.
+Sie zischten und schrien, als wir unsere Messer zückten und bald schon bemerkten wir unseren Fehler. Wir entdeckten ihre gezackten Haifischzähne und ausgehängten Kiefer erst, als eine von ihnen Yaryc ganz verschlang und wir bemerkten zu spät, dass sie an den Hüften giftige Widerhaken hatten – erst als Gavril mit zwei von ihnen kämpfte und begann, Klumpen geronnenen schwarzen Blutes zu spucken. Und das Glänzen in ihren Augen, denen die Lederhaut fehlte und die so dunkelblau und tief waren wie Ondras eigene Leere … Ich erfuhr dies, als mir eine von ihnen den Arm sauber am Ellenbogen abtrennte.
 
 Und als wäre das nicht genug, konnte sich die Dame der Wehklage endlich an der &lt;i&gt;Fischerkönigin&lt;/i&gt; für unseren Übergriff rächen – wir verloren unseren Hauptmast, unser gesamtes Frischwasser und vier Männer gingen in einem Sturm über Bord, wie ich seitdem keinen mehr erlebt habe. Wir sind eine Woche lang auf dem Wasser getrieben, bevor uns ein vailianisches Handelsschiff gefunden hat.
 
-Und die Ironie der ganzen Sache … Die Jungfrauen haben scheiße geschmeckt.
+Und die Ironie der ganzen Sache … Die Jungfrauen haben scheiße geschmeckt.“
 
-- &lt;i&gt;Auszug aus dem Tagebuch eines unbekannten Piraten auf dem verlorenen Schiff&lt;/i&gt; Fischerkönigin</DefaultText>
+     &lt;i&gt;Auszug aus dem Tagebuch eines unbekannten Piraten auf dem verlorenen Schiff&lt;/i&gt; Fischerkönigin</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16896,6 +16996,11 @@ Wenn Sie Fragen oder Beschwerden zu meinem Dienst haben, wenden Sie sich bitte d
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5387</ID>
+      <DefaultText>Von Feinden {0} Mal verfehlt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5445</ID>
       <DefaultText>Siegel des Todes Schutzstein</DefaultText>
       <FemaleText />
@@ -16943,6 +17048,41 @@ Die Klinge wurde kunstvoll mit Seelenessenz versetzt und leuchtet in Verbundenhe
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5498</ID>
+      <DefaultText>Töte {0} Feinde, während des Erleidens einer Geist-Wirkung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5500</ID>
+      <DefaultText>Erleide {0} Schaden, während die Gesundheit unter 25% ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5501</ID>
+      <DefaultText>Lasse {0} feindliche Effekte während Kämpfen auslaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5502</ID>
+      <DefaultText>Füge Feinden {0} Schaden zu, während die Gesundheit unter 25% ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5503</ID>
+      <DefaultText>Verursache {0} Wirkungen bei Geistern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5504</ID>
+      <DefaultText>Suche den Tiefenjäger auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5505</ID>
+      <DefaultText>Suche den ältesten der Schwefelsteine auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5508</ID>
       <DefaultText>Essenz-Unterbrecher</DefaultText>
       <FemaleText />
@@ -16952,6 +17092,58 @@ Die Klinge wurde kunstvoll mit Seelenessenz versetzt und leuchtet in Verbundenhe
       <DefaultText>Kritiker der Seelenmanipulation verunglimpfen Beseelung als eine rücksichtslose Perversion der natürlichen Ordnung. Auch wenn diese Argumente oft politisch beeinflusst sind, so treffen sie doch manches Mal zu.
 Dies ist zum Beispiel der Fall mit dem Essenz-Unterbrecher, dem Produkt eines ehrgeizigen, aber unorthodoxen Ausgestoßenen des Brackenbury-Sanitariums. Der Erfinder nahm eine sichere Methode an, um Seelen der Gestandenen zu erwecken, indem er einen sofortigen Schock spirituellen Stimulus durch den Schädel jagte. Sobald er einen Jagdbogen so modifiziert hatte, dass damit Projektile mit geladener Adra und Kupfer abgeschossen werden konnten, hatte er einen Marktstand in Spirento aufgestellt, an dem er jedem, der an seiner Studie teilnehmen würde, eine Entschädigung versprach.
 Nachdem er in aller Seelenruhe Pfeile mitten zwischen die Augen von zwei Testsubjekten geschossen hatte, wurde der Beseeler festgenommen. Die Behörden konnten seinen Bogen nie finden, der bis heute etwas von der unmoralischen Ekzentrität seines Erfinders besitzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5528</ID>
+      <DefaultText>Mythical Adra Stone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5529</ID>
+      <DefaultText>Adra of this density and vibrancy is said to reside in the cores of only the strongest, healthiest pillars. Extraction is a delicate and specialized task, but the result is a mineral packed with so much malleable essence that it can draw new properties out of already remarkable tools.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5530</ID>
+      <DefaultText>Amra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5531</ID>
+      <DefaultText>Diese zweischneidige Axt hatte im Lauf der Jahr viele Namen - vor allem Bürde, Massive Schneide und die Unausgeglichene Klinge. Die meisten würden eine Waffe, die zu schwer ist, als eine Belastung ansehen und doch steht ihr Wert außer Frage. Die Piraten, die sie „Amra“ getauft hatten, versammelten sich um die Klinge als eine Art Standarte oder Totem, vermutlich wegen der ungewöhnlichen Weise, auf die sie zu dieser Waffe gekommen waren. Nachdem sie durch einen Strudel gesegelt waren, um Verfolgern zu entkommen, fanden sie Amra im Deck ihres Schiffes steckend vor. Sie haben sie dort jahrelang als eine Art Glücksbringer gelassen, aber welches Glück auch immer sich durch ihre Anwesenheit einstellte, währte offensichtlich nicht lange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5532</ID>
+      <DefaultText>Karabörü</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5533</ID>
+      <DefaultText>Diese Waffe wurde nach der Huana-Adligen benannt, die sie in die Schlacht trug. Auch wenn sie stolz darauf war, die Vorhut anzuführen und sich mit vermessenen Feinden zu umgeben, so machte Karabörü nichts mehr Freude als ihre Waffe in einem weiten Bogen zu schwingen und eine ganze Reihe Feinde niederzumähen. Sie liess einen Schutz am Griff absichtlich weg und behauptete, dass solche „Verzierungen“ nur ihre Balance beeinträchtigen würde, bereute jedoch später ihre Entscheidung als eine gut ausgeführte Parade Karabörü drei Finger an ihrer Kampfhand kostete. Sie fuhr damit fort, ihre Fertigkeiten mit anderen Waffen zu trainieren und legte ihre Klinge als eine weitere Erfahrung ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5534</ID>
+      <DefaultText>Abgenutzter Faustschild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5535</ID>
+      <DefaultText>Dieser bescheidene Faustschild ähnelt dem Übungsschild eines tolpatschigen Schülers. Das Holz wird von tiefen Furchen zerklüftet und lässt das Rätsel, wie er überhaupt noch zusammengehalten wird, weiterhin ungelöst. Eine kleine Inschrift ist auf der Rückseite eingeritzt und erzählt eine andere Geschichte, auch wenn sie im Laufe der Zeit verwittert ist.
+
+Der Bericht aus erster Hand stammt von einer Ritterin, die in Alt-Vailia zu Ruhm und Ehre kam und zu einem Gründungsmitglied der Darcozzi Paladini wurde, während sie diesen Schild am Arm trug. Ihre schützenden Instinkte hinterließen ein Zeichen in den Wäldern, das tiefer als jede Einkerbung reicht. Dieser Gegenstand wird andauernd übersehen und unterschätzt und war im Laufe der Jahre bei vielen Besitzern, seit er aus ihrer Waffenkammer entkommen ist. Immer wieder findet er ein Zuhause mit den Edlen und Adligen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5536</ID>
+      <DefaultText>Die Mundorgel der Mungbohne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5537</ID>
+      <DefaultText>Der Musiker Gil „Mungbohne“ Mungo trug seine Mundorgel während seiner schillernden Karriere immer um den Hals und setzte sie ein, um auf den Beginn einer Aufführung hinzuweisen. Sein nur wenigen bekanntes Geheimnis hinter seinem Erfolg bestand darin, einen Schlitz des Instruments mit pulverisiertem Rieselschwamm zu bestreuen, das dann in die Gesichter seiner nichtsahnenden Zuschauer geblasen wurde. Nachdem er mit seinen Touren und Tourneen zu Reichtum gekommen war, zog sich Mungo aus dem öffentlichen Leben zurück und heuerte in der Marine von Rauatai an. Seine Einheit wurde gefeiert für das Befrieden der Beziehungen zu den Huana-Stämmen des Todesfeuers und versammelte Gestandene aufgrund der gemeinsamen Liebe zur Musik und anderer, weniger offensichtlicher Vergnügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16965,27 +17157,194 @@ Nachdem er in aller Seelenruhe Pfeile mitten zwischen die Augen von zwei Testsub
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5540</ID>
-      <DefaultText>Amra</DefaultText>
+      <ID>5550</ID>
+      <DefaultText>Harmonie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5541</ID>
-      <DefaultText>[TEMP] Amra item description.
+      <ID>5551</ID>
+      <DefaultText>Dieser bescheidene Holzring wurde mit großer Sorgfalt und zahlreichen Details hergestellt.
 
-„This beast of a heavy axe was found amongst lost pirates found in the Deadfire Archipelago, that claimed to have come from another dimension when they fell through a maelstrom during a sea warfare. It was clear those men didn't have the strength required to manage such a brute weapon, so when people asked them and pointed to the axe, all they said war „Amra, Amra“.“</DefaultText>
+Die innenliegende Oberfläche ist mit einem Symbol zweier Berge verziert, denen sich ein Diamantmuster hinzugesellt, sowie den in das Holz eingebrannten Worten „Unsere Sterne vereint“. Der Ring ist mit einem schwachen Echo verbleibender Seelenessenz gefärbt. Erinnerungen an Zuneigung und Ergebenheit wirbeln umher und das Holz vibriert geradezu mit einer freudig-erregten Spannung. Jemand, der einst diesen Ring besaß, stand ganz im Bann einer nicht beantworteten Frage. Als diese Frage beantwortet wurde, war derjenige damit zufrieden, seine Sorgen dort zurückzulassen, wo sie sich heute noch befinden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5546</ID>
-      <DefaultText>Karabörü</DefaultText>
+      <ID>5554</ID>
+      <DefaultText>Chloë</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5547</ID>
-      <DefaultText>[TEMP] Karabörü item description.
+      <ID>5555</ID>
+      <DefaultText>Sheba</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5556</ID>
+      <DefaultText>Cajux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5557</ID>
+      <DefaultText>Dude, die sechszehige Katze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5558</ID>
+      <DefaultText>Epsilon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5559</ID>
+      <DefaultText>Ludde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5560</ID>
+      <DefaultText>Misty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5561</ID>
+      <DefaultText>Noah</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5562</ID>
+      <DefaultText>Zorro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5563</ID>
+      <DefaultText>Hati</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5564</ID>
+      <DefaultText>Levin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5565</ID>
+      <DefaultText>Pes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5566</ID>
+      <DefaultText>Rex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5567</ID>
+      <DefaultText>Ulk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5568</ID>
+      <DefaultText>Während Cajux dir folgt, erhältst du etwas Gesundheit, wenn du den Todesstoß gegen einen Gegner erzielst und deine Gruppenmitglieder bewegen sich im Kampf schneller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5569</ID>
+      <DefaultText>Während Chloë dir folgt, sind deine Nahkampfangriffe genauer und deine Gruppenmitglieder erhalten zusätzliche Verteidigung gegen Angriffe, die Wirkungen verwenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5570</ID>
+      <DefaultText>Während Dude, die sechszehige Katze, dir folgt, erhältst du etwas Gesundheit, wenn du den Todesstoß gegen einen Gegner erzielst, und die Wahrscheinlichkeit ist geringer, dass Gruppenmitglieder durch einen Angriff einen Treffer erleiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5571</ID>
+      <DefaultText>Während Epsilon dir folgt, wird dein Erholungsabzug auf Rüstung reduziert und deine Gruppenmitglieder bewegen sich im Kampf schneller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5572</ID>
+      <DefaultText>Während Ludde dir folgt, erhältst du Bonus-Wahrnehmung und die Wahrscheinlichkeit ist geringer, dass deine Gruppenmitglieder von Feinden Getroffen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5573</ID>
+      <DefaultText>Während Misty dir folgt, erhältst du zusätzliche Abwehr gegen Nahkampfangriffe und deine Gruppenmitglieder profitieren von einer erhöhten Größe bei Wirkungsbereich-Effekten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5574</ID>
+      <DefaultText>Während Noah dir folgt, bewegst du dich im Kampf schneller und die Angriffe deiner Gruppenmitglieder gehen weniger oft daneben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5575</ID>
+      <DefaultText>Während Zorro dir folgt, erhältst du zusätzliche Entschlossenheit und deine Gruppenmitglieder erhalten einen Bonus auf Reflexe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5576</ID>
+      <DefaultText>Während Hati dir folgt, erhältst du Bonus-Macht und deine Gruppenmitglieder erhalten einen Bonus auf Reflexe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5577</ID>
+      <DefaultText>Während Levin dir folgt, erhältst du einen Bonus auf Intelligenz und deine Gruppenmitglieder bewegen sich im Kampf schneller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5578</ID>
+      <DefaultText>Während Pes dir folgt, erhöht sich dein Nahkampfschaden und die Wahrscheinlichkeit ist höher, dass die Nahkampfangriffe deiner Gruppe kritisch treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5579</ID>
+      <DefaultText>Während Rex dir folgt, teilt dein Bereich für Effektangriffe mehr Schaden aus und die Wahrscheinlichkeit reduziert sich, dass deine Gruppenmitglieder von Gegnern getroffen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5580</ID>
+      <DefaultText>Während Sheba dir folgt, erhältst du einen Bonus auf Wahrnehmung und die Wahrscheinlichkeit erhöht sich, dass die Nahkampfangriffe deiner Gruppenmitglieder kritisch treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5581</ID>
+      <DefaultText>Während Ulk dir folgt, erhältst du einen Bonus auf Macht und die Wahrscheinlichkeit reduziert sich, dass deine Gruppenmitglieder von Feinden getroffen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5591</ID>
+      <DefaultText>Hervorragende Armbrust</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5592</ID>
+      <DefaultText>Leichentuch des Phantasmas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5593</ID>
+      <DefaultText>Das Gewebe dieses Umhangs scheint mit einer Art mystischer Muster bestickt zu sein, aber das Muster ändert sich mit den Bewegungen des Kleidungsstückes, so dass das Auge Dinge sieht, die nicht da sind. 
 
-„Made for some long forgotten warlord, Karabörü was designed with their powerful frame in mind. The slight reverse curve of its yatagan shape makes it a unique and noticeable weapon. It has no crossguard underlining its aggressive nature. Then the firest wielder eventually fell against some nightmarish beast, the sword was retired as an ornament, cowering visitors underneath its heft. As their fleeting dynasty fell to ruin, the sword was lost, making its way around Eora in the hands of many vanguard combatants, used against cavalry and even for execution. It has a savage history, the sole reminder of all its master's fell deeds.“</DefaultText>
+Schüler von Wael haben in aller Stille mit Illusionen experimentiert, da sie schon immer von Theorien fasziniert waren, dass die Welt rings um sie eine Illusion, ein Traum oder beides ist. In einem Jahr hat sich eine gesamte Klasse ehrgeiziger Lehrlinge um diese Idee gruppiert und formte einen verschwiegenen Zirkel existentieller Skeptiker. Sie trugen Umhänge wie diese, um sich außerhalb ihrer geheimen Treffen zu erkennen. 
+
+Ein Dutzend solcher Umhänge wurden später verlassen zwischen den Bücherregalen einer Bibliothek gefunden. Das Schicksal der Träger und ihrer Forschung ist unbekannt, aber die Umhänge zirkulierten seitdem als eine Art antiker Kuriositäten. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5594</ID>
+      <DefaultText>Zerstörte Rüstung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5595</ID>
+      <DefaultText>Zerstörter Schild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5596</ID>
+      <DefaultText>Zerstörte Waffe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5597</ID>
+      <DefaultText>Dieser Gegenstand wurde bereits viel zu oft verwendet, wobei er nie richtig gepflegt wurde. Er ist zerstört und es gibt keine Hoffnung, ihn zu reparieren.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
