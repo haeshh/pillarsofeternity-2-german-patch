@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>{0:value:percent} Chance, dass bei einem Treffer das Ziel Erschüttert wird</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass bei einem erzielten Treffer das Ziel Erschüttert wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Der Angriff mit einem Zauberspruch hat eine {0:value:percent} Chance, dass die Ziele Bezaubert werden</DefaultText>
+      <DefaultText>Angriffe mit einem Zauberspruch haben eine Chance von {0:value:percent}, dass die Ziele Bezaubert werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Treffer mit dieser Waffe haben eine {0:value:percent} Chance, bei einem Treffer dem Ziel die&lt;link="gamedata://ed93377c-66b3-4817-898c-833ff562ba70"&gt;Gestalt der hilflosen Bestie&lt;/link&gt; aufzuerlegen</DefaultText>
+      <DefaultText>Erzielte Treffer mit dieser Waffe haben eine Chance von {0:value:percent}, auf das Ziel die &lt;link="gamedata://ed93377c-66b3-4817-898c-833ff562ba70"&gt;Gestalt der hilflosen Bestie&lt;/link&gt; zu wirken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Der Angriff Erschüttert Gestandene oder Wilde bei einem kritischen Treffer</DefaultText>
+      <DefaultText>Der Angriff Erschüttert Gestandene oder Wilde bei einem erzielten kritischen Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>{0:value:percent} Chance, beim Ziel einen stapelbaren Fluch anzubringen und dadurch seinen erlittenen Schaden zu erhöhen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel mit einem stapelbaren Fluch zu belegen, was seinen erlittenen Schaden erhöht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Erzürnen, verschafft Flink und Hartnäckigkeit</DefaultText>
+      <DefaultText>Erzürnt, was Fingerfertig und Hartnäckig macht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,7 +236,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>{0:triggercount} direkter Schaden alle {0:value:duration} für die Dauer von {0:extravalue:duration} bei einem Treffer auf flankiertes Ziel</DefaultText>
+      <DefaultText>{0:triggercount} direkter Schaden alle {0:value:duration} für die Dauer von {0:extravalue:duration} bei einem erzielten Treffer auf flankiertes Ziel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,7 +391,7 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>{0:value:percentbonus} Wirkungsradius für Wiederherstellung und Inspirationsfähigkeiten. Der Bonus erhöht sich mit der Fertigkeit Religion.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Wirkungsbereich für Wiederherstellung und Inspirationsfähigkeiten. Der Bonus erhöht sich mit der Fertigkeit Religion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -531,7 +531,7 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Schockschaden im Wirkungsradius bei Bewusstlosigkeit</DefaultText>
+      <DefaultText>Schockschaden im Wirkungsbereich bei Bewusstlosigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -611,7 +611,7 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Lässt einen zufälligen Zaubertrank in einen leeren &lt;xg&gt;Schnell&lt;/xg&gt;-Slot entstehen</DefaultText>
+      <DefaultText>Beschwört einen zufälligen Zaubertrank in einen leeren Schnellauswahl-Slot</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -696,7 +696,7 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Lässt bei Beginn eines Kampfes einen zufälligen Zaubertrank in einen leeren &lt;xg&gt;Schnell&lt;/xg&gt;-Slot entstehen. Der Zaubertrank verschwindet wieder, wenn der Kampf endet.</DefaultText>
+      <DefaultText>Beschwört bei Beginn eines Kampfes einen zufälligen Zaubertrank in einen leeren Schnellauswahl-Slot. Der Zaubertrank verschwindet wieder, wenn der Kampf endet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>{0:value:percentbonus} Chance für einen kritischen Treffer bei einem Treffer. (Kann {0:triggercount}-mal gestapelt werden und wird bei kritischem Treffer zurückgesetzt)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Chance für einen kritischen Treffer bei einem Treffer. (Kann {0:extravalue}-mal gestapelt werden und wird bei kritischem Treffer zurückgesetzt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -846,12 +846,12 @@
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>{0:value:percent} Chance, dass das Ziel bei einem Treffer {0:extravalue:duration} lang erkrankt</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass das Ziel bei einem Treffer für {0:extravalue:duration} lang erkrankt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>{0:value:duration} lang die Inspiration Zäh für den Spieler selbst, wenn ein Verbündeter bewusstlos wird</DefaultText>
+      <DefaultText>Wenn ein Verbündeter bewusstlos wird, erhält der Träger {0:value:duration} lang die Inspiration Zäh</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
