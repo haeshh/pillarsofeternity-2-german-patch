@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>538</EntryCount>
+  <EntryCount>552</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2692,6 +2692,76 @@
     <Entry>
       <ID>635</ID>
       <DefaultText>Wenn der Träger über {0:value:straight} oder mehr Macht verfügt, verursachen Kritische Treffer mit dieser Waffe {0:extravalue:percent} grundlegenden Waffenschaden in einem Gebiet rings um den Träger (Feinde unter {0:triggervalue:straight} Gesundheit werden sofort getötet)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>Tödliche Treffer mit dieser Waffe gewähren {0:value:percent} Kritischen Treffer-Schaden (kann bis zu {0:extravalue:straight}-Mal gestapelt werden)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>Jedes Mal, wenn ein Verbündeter zu Boden geht, gewährt diese Waffe {0:value:percent} kritischen Treffer-Schaden (kann bis zu {0:extravalue:straight}-Mal gestapelt werden)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>Kritische Treffer mit dieser Waffe haben eine Chance von {0:value:percent}, einen Kegel-Wirkungsbereich auf das Ziel zu schleudern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>Kritische Treffer mit dieser Waffe haben eine Chance von {0:value:percent}, einen Kegel-Wirkungsbereich auf das Ziel zu schleudern (Wirkungsbereich lässt nun auch Feinde Erkrankt zurück)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>Kritische Treffer mit dieser Waffe haben eine Chance von {0:value:percent}, einen Kegel-Wirkungsbereich auf das Ziel zu schleudern (Wirkungsbereich verringert nun auch die feindliche Abwehr)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>{0:value:percent} Chance bei Erhalt von Schaden, nahen Verbündeten Standhaft zu gewähren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>{0:value:percent} Chance bei Erhalt von Schaden nahen Verbündeten Standhaft, Resolut oder Mutig zu gewähren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>{0:value} auf alle Drogen-Kraftstufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>Entfernt Flüstern der Toten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>Entfernt Standwachen-Unbeweglichkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>Entfernt Calmos Fluch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>{0:value} Chance bei Erhalt von Schaden die Inspiration Brillant zu erhalten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>Brandschaden-Vergeltungsangriff bei erlittenem Treffer im Nahkampf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
