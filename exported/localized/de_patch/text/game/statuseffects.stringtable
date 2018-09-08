@@ -1326,7 +1326,7 @@
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>Wenn das Ziel mit einer Entschlossenheitswirkung belegt ist, füge bei einem erzielten kritischen Treffer alle {0:extravalue:duration} für die Dauer von {0:value:duration} direkten Schaden zu</DefaultText>
+      <DefaultText>Wenn das Ziel mit einer Entschlossenheitswirkung belegt ist, füge bei einem erzielten kritischen Treffer alle {0:extravalue:duration} für die Dauer von {0:value:duration} {0:triggercount} direkten Schaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1386,7 +1386,7 @@
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer eine Wasserwelle mit Flächenschaden (Wucht) auf das Ziel auszulösen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten Treffer eine Wasserwelle mit Flächenschaden (Wucht) auf das Ziel auszulösen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
