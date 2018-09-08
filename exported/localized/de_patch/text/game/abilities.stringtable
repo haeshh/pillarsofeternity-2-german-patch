@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3325</EntryCount>
+  <EntryCount>3361</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -17014,6 +17014,186 @@ Keiner.</DefaultText>
     <Entry>
       <ID>4866</ID>
       <DefaultText>Verleiht dem Wirker die Wildheit eines Drachens und sorgt dafür, dass seine Nahkampfangiffe zusätzlichen Hieb- und Brandschaden austeilen. Wenn der Zauber aktiv ist, müssen die Feinde, die den Beschwörer mit Nahkampfwaffen angreifen, ihre Furcht im Zaum halten oder sie werden Geschockt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4868</ID>
+      <DefaultText>Zeitlos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4869</ID>
+      <DefaultText>Diese Aura verleiht dem Träger und nahen Verbündeten einen leichten Schutz gegen feindliche Effekte. In den Händen eines Darcozzi Paladini ist der Effekt viel größer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4870</ID>
+      <DefaultText>Zeitlose Flamme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4871</ID>
+      <DefaultText>(Zeitlose Flamme) – Verbündete erhalten nun auch Brand Rüstungswert (In den Händen eines Darcozzi Paladini ist der Effekt viel größer.)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4872</ID>
+      <DefaultText>Zeitlose Beharrlichkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4873</ID>
+      <DefaultText>(Zeitlose Beharrlichkeit) – Der Schutz gegen feindliche Effekte ist erhöht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4874</ID>
+      <DefaultText>Bindung der Liebenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4875</ID>
+      <DefaultText>Du und ein Verbündeter entschließen sich, eine &lt;xg&gt;Bindung&lt;/xg&gt; einzugehen und werden immun gegen Wirkungen auf Intellekt bis zum Ende des Kampfes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4876</ID>
+      <DefaultText>Verpflichtung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4877</ID>
+      <DefaultText>Gewährt zusätzliche Entschlossenheit, wenn in der Nähe eines verbundenen Verbündeten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4878</ID>
+      <DefaultText>Der Galgenbrecher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4879</ID>
+      <DefaultText>Nahe Verbündete profitieren von dem beruhigenden Ton der Mundharmonika und erhalten eine erhöhte Kraftstufe für drogenartige Konsumgüter. (Erhöhung ihrer vorteilhaften Dauer und der Zeit bis zu ihrer Absturz-Strafe)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4880</ID>
+      <DefaultText>Während Cajux dir folgt, erhältst du etwas Gesundheit, wenn du den Todesstoß gegen einen Gegner erzielst und deine Gruppenmitglieder bewegen sich im Kampf schneller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4881</ID>
+      <DefaultText>Während Chloë dir folgt, sind deine Nahkampfangriffe genauer und deine Gruppenmitglieder erhalten zusätzliche Verteidigung gegen Angriffe, die Wirkungen verwenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4882</ID>
+      <DefaultText>Während Dude, die sechszehige Katze, dir folgt, erhältst du etwas Gesundheit, wenn du den Todesstoß gegen einen Gegner erzielst, und die Wahrscheinlichkeit ist geringer, dass Gruppenmitglieder durch einen Angriff einen Treffer erleiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4883</ID>
+      <DefaultText>Während Epsilon dir folgt, wird dein Erholungsabzug auf Rüstung reduziert und deine Gruppenmitglieder bewegen sich im Kampf schneller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4884</ID>
+      <DefaultText>Während Ludde dir folgt, erhältst du Bonus-Wahrnehmung und die Wahrscheinlichkeit ist geringer, dass deine Gruppenmitglieder von Feinden Getroffen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4885</ID>
+      <DefaultText>Während Misty dir folgt, erhältst du zusätzliche Abwehr gegen Nahkampfangriffe und deine Gruppenmitglieder profitieren von einer erhöhten Größe bei Wirkungsbereich-Effekten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4886</ID>
+      <DefaultText>Während Noah dir folgt, bewegst du dich im Kampf schneller und die Angriffe deiner Gruppenmitglieder gehen weniger oft daneben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4887</ID>
+      <DefaultText>Während Zorro dir folgt, erhältst du zusätzliche Entschlossenheit und deine Gruppenmitglieder erhalten einen Bonus auf Reflexe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4888</ID>
+      <DefaultText>Während Hati dir folgt, erhältst du Bonus-Macht und deine Gruppenmitglieder erhalten einen Bonus auf Reflexe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4889</ID>
+      <DefaultText>Während Levin dir folgt, erhältst du einen Bonus auf Intelligenz und deine Gruppenmitglieder bewegen sich im Kampf schneller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4890</ID>
+      <DefaultText>Während Pes dir folgt, erhöht sich dein Nahkampfschaden und die Wahrscheinlichkeit ist höher, dass die Nahkampfangriffe deiner Gruppe kritisch treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4891</ID>
+      <DefaultText>Während Rex dir folgt, teilt dein Bereich für Effektangriffe mehr Schaden aus und die Wahrscheinlichkeit reduziert sich, dass deine Gruppenmitglieder von Gegnern getroffen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4892</ID>
+      <DefaultText>Während Sheba dir folgt, erhältst du einen Bonus auf Wahrnehmung und die Wahrscheinlichkeit erhöht sich, dass die Nahkampfangriffe deiner Gruppenmitglieder kritisch treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4893</ID>
+      <DefaultText>Während Ulk dir folgt, erhältst du einen Bonus auf Macht und die Wahrscheinlichkeit reduziert sich, dass deine Gruppenmitglieder von Feinden getroffen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4896</ID>
+      <DefaultText>Auskeilen mit einer Rückschwanzattacke und Austeilen von hohem Zerschmetterschaden an diejenigen, die sich in diesem Gebiet befinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4898</ID>
+      <DefaultText>Verschlagen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4899</ID>
+      <DefaultText>Erhalten von zusätzlicher Durchdringung beim Angriff desselben Ziel wie ein Verbündeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4901</ID>
+      <DefaultText>Wenn er nicht flankiert ist, besitzt der Träger Resistenz gegenüber Wirkungen auf Wahrnehmung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4902</ID>
+      <DefaultText>(Schwarze Jacke) - Reduziert die Menge regenerierter Gesundheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4906</ID>
+      <DefaultText>Lebende Illusionen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4907</ID>
+      <DefaultText>Konstruiert mehrere illusorische Bilder von dir selbst. Diese Bilder haben sehr wenig Gesundheit, werden aber in deinem Namen kämpfen und Feinde ablenken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4908</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4909</ID>
+      <DefaultText>Mystische Schnelligkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4910</ID>
+      <DefaultText>Wenn unter dem Einfluss einer Geistesinspiration, werden Zaubersprüche schneller gewirkt.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
