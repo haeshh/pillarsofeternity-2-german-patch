@@ -1566,27 +1566,27 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Einhändig bekommt {0:value:straight} {0:damagetype} Schaden alle {0:interval} für die Dauer von {0:extravalue:duration}</DefaultText>
+      <DefaultText>Angriffe mit Einhändern fügen {0:value:straight} {0:damagetype} Schaden alle {0:interval} für die Dauer von {0:extravalue:duration} zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>Zweihändig bekommt Taumeln für {0:extravalue:duration}</DefaultText>
+      <DefaultText>Angriffe mit Zweihändern fügen für {0:extravalue:duration} Taumelnd zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>Fernkampf bekommt {0:value} Durchschlagskraft</DefaultText>
+      <DefaultText>Fernkampf-Angriffe erhalten {0:value} Durchschlagskraft</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>Zweihändig bekommt Benommen für {0:extravalue:duration}</DefaultText>
+      <DefaultText>Angriffe mit Zweihändern fügen für {0:extravalue:duration} Benommen zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>Fernkampf bekommt {0:value} Durchschlagskraft und {0:extravalue:percentbonus} Bonusschaden</DefaultText>
+      <DefaultText>Fernkampf-Angriffe erhalten {0:value} Durchschlagskraft und {0:extravalue:percentbonus} Bonusschaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
