@@ -901,7 +901,7 @@
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>Wirft bei Tötung den Zauber der &lt;link="gamedata://46d4d7c5-0af5-4f6e-93b0-483b04184951"&gt;Geisterklingen&lt;/link&gt; über das Ziel und bringt Gesundheit zurück</DefaultText>
+      <DefaultText>Wirkt bei Tötung den Zauber der &lt;link="gamedata://46d4d7c5-0af5-4f6e-93b0-483b04184951"&gt;Geisterklingen&lt;/link&gt; und gewährt dem Träger Gesundheit, auf Grundlage des verursachten Schadens</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -981,7 +981,7 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>Das Ziel erkrankt bei einem kritischen Treffer, sobald Unreine Klinge {0:triggercount} Stapel hat.</DefaultText>
+      <DefaultText>Lässt das Ziel bei einem Kritischen Treffer Erkrankt zurück, sobald Unreine Klinge {0:triggercount} Stapel hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1066,7 +1066,7 @@
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>Die Zerstörung von zerstörbaren Dingen gewährt donnernde Schläge</DefaultText>
+      <DefaultText>Die Zerstörung von zerstörbaren Dingen gewährt &lt;link="gamedata://c65c8b7e-a50b-4c6d-a033-865d4822eb3b"&gt;donnernde Schläge&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1076,7 +1076,7 @@
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>{0:value:percent} Aktionsgeschwindigkeit gegen flankiertes Ziel bei einem Treffer. Kann {0:triggervalue:straight}-mal gestapelt werden</DefaultText>
+      <DefaultText>{0:value:percent} Aktionsgeschwindigkeit gegen flankiertes Ziel bei einem Treffer. Kann {0:extravalue:straight}-mal gestapelt werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1156,12 +1156,12 @@
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>Treffer mit dieser Waffe gewährt eine stapelbare {0:value:percentbonus} Erholungszeit mit Nahkampfwaffen für eine Dauer von {0:extravalue:duration}</DefaultText>
+      <DefaultText>Erzielte Treffer mit dieser Waffe gewährt eine stapelbare {0:value:percentbonus} Erholungszeit mit Nahkampfwaffen für eine Dauer von {0:extravalue:duration}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>Treffer mit dieser Waffe gewähren eine stapelbare {0:value:percentbonus} Erholungszeit für eine Dauer von {0:extravalue:duration}</DefaultText>
+      <DefaultText>Erzielte Treffer mit dieser Waffe gewähren eine stapelbare {0:value:percentbonus} Erholungszeit für eine Dauer von {0:extravalue:duration}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1186,7 +1186,7 @@
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>Ermächtigte Fähigkeiten mit der Waffe versetzen dem Ziel Verletzungen</DefaultText>
+      <DefaultText>Ermächtigte Fähigkeiten mit dieser Waffe versetzen dem Ziel Verletzungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1201,7 +1201,7 @@
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer Bewegungsunfähig zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem erzielten Treffer Bewegungsunfähig zu machen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1266,7 +1266,7 @@
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>Frostschaden von der Waffe reduziert die maximalen Gesundheit des Ziels um {0:value:percent} des ausgeteilten Schadens</DefaultText>
+      <DefaultText>Frostschaden von der Waffe reduziert die maximalen Gesundheit des Ziels um {0:extravalue:percent} des ausgeteilten Schadens</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
