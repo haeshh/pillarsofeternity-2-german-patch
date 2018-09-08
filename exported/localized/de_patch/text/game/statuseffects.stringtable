@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>552</EntryCount>
+  <EntryCount>551</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1731,7 +1731,7 @@
     </Entry>
     <Entry>
       <ID>356</ID>
-      <DefaultText>Gewährt zusätzliche Zauber, die verhängt werden können</DefaultText>
+      <DefaultText>Gewährt zusätzliche Zauberspruch-Einsätze</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1776,7 +1776,7 @@
     </Entry>
     <Entry>
       <ID>372</ID>
-      <DefaultText>{0:value:percentbonus} Wirkung und Inspiration während ermächtigter Angriffe</DefaultText>
+      <DefaultText>{0:value:percentbonus} Dauer von Wirkungen und Inspirationen bei ermächtigten Angriffen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1881,7 +1881,7 @@
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>Kritische Treffer können die Wirkungen Humpeln oder Erkrankt für {0:extravalue:duration} verursachen.</DefaultText>
+      <DefaultText>Kritische Treffer können die Wirkungen Humpelnd oder Erkrankt für {0:extravalue:duration} verursachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2051,7 +2051,7 @@
     </Entry>
     <Entry>
       <ID>433</ID>
-      <DefaultText>(Derzeitiger Bonus: {0:value:percentbonus}) {0:extravalue:percentbonus} Größe Wirkungsradius pro Fokus</DefaultText>
+      <DefaultText>(Derzeitiger Bonus: {0:value:percentbonus}) {0:extravalue:percentbonus} Größe des Wirkungsbereiches pro Fokus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2146,7 +2146,7 @@
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>Fügt Feinden bei einem Treffer einen stapelbaren Effekt zu. Bei einem kritischen Treffer verlieren alle Gegner im Wirkungsbereich sämtliche Stapel und erleiden pro Stapel {0:extravalue} Schockschaden.</DefaultText>
+      <DefaultText>Fügt Feinden bei einem erzielten Treffer einen stapelbaren Effekt zu. Bei einem kritischen Treffer verlieren alle Gegner im Wirkungsbereich sämtliche Stapel und erleiden pro Stapel {0:extravalue} Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2156,12 +2156,12 @@
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>{0:value} Sekunden Dauer des Effekts &lt;xg&gt;Tod&lt;/xg&gt; auf Raten</DefaultText>
+      <DefaultText>{0:value} Sekunden Dauer des Effekts &lt;xg&gt;Tod&lt;/xg&gt; durch 1000 Schnitte</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>458</ID>
-      <DefaultText>Gegner im Wirkungsradius werden für {0:extravalue:duration} Desorientiert.</DefaultText>
+      <DefaultText>Gegner im Wirkungsbereich werden für {0:extravalue:duration} Desorientiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2316,7 +2316,7 @@
     </Entry>
     <Entry>
       <ID>495</ID>
-      <DefaultText>Senkt den Wiederherstellungsmalus für Rüstung (je nach Rüstungsart unterschiedlich)</DefaultText>
+      <DefaultText>Senkt den durch Rüstungen verursachten Malus auf Erholung (je nach Rüstungsart unterschiedlich)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2526,7 +2526,7 @@
     </Entry>
     <Entry>
       <ID>552</ID>
-      <DefaultText>20 % Chance auf zusätzlichen Brandschaden im Wirkungsradius bei Treffer</DefaultText>
+      <DefaultText>20 % Chance auf zusätzlichen Brandschaden im Wirkungsbereich bei Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2617,11 +2617,6 @@
     <Entry>
       <ID>596</ID>
       <DefaultText>{0:value:percent} Chance, bei Tötung {0:extravalue} Eifer zu erhalten</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>597</ID>
-      <DefaultText>Erzeugt schwarze Schleime beim Bewegen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
