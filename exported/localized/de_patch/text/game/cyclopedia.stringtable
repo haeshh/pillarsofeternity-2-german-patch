@@ -622,17 +622,17 @@ Schaden, der nicht durch den Rüstungswert eines Charakters absorbiert wird, tri
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>Verletzungen sind langfristige Wirkungen. „Langfristig“ heißt, dass sie anhalten, bis der Charakter rastet und Nahrungsmittel zu sich nimmt. Verletzungen entstehen meist durch geskriptete Interaktionen oder wenn man im Kampf bewusstlos geschlagen wird. Wenn ein Charakter drei Verletzungen hat und eine weitere erhält, dann wird er getötet.</DefaultText>
+      <DefaultText>Verletzungen sind langfristige Wirkungen. „Langfristig“ heißt, dass sie anhalten, bis der Charakter rastet und Nahrungsmittel zu sich nimmt. Verletzungen entstehen meist durch geskriptete Interaktionen oder wenn man im Kampf bewusstlos geschlagen wird. Wenn ein Charakter drei Verletzungen hat und eine weitere erhalten würde, wird er getötet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Spähen</DefaultText>
+      <DefaultText>Heimlichkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>Der Spähmodus wird zum Schleichen verwendet. Schleichen kann dir einen taktischen Vorteil gegen schwierige Feinde verleihen oder um sie zu umgehen.</DefaultText>
+      <DefaultText>Der Heimlichkeits-Modus wird zum Schleichen verwendet. Schleichen kann dir einen taktischen Vorteil gegen schwierige Feinde verleihen - oder dir helfen, ihnen aus dem Weg zu gehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -698,7 +698,7 @@ Die modalen Fähigkeiten können an den taktischen Bedarf eines Kampfs angepasst
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>Wenn die Gesundheit eines Charakters in bestimmten Schwierigkeitsgraden auf 0 fällt, geht der Charakter zu Boden und wird verstümmelt – bzw. getötet, wenn er bereits verstümmelt war. Ein toter Charakter ist endgültig tot und kann nicht zurückgeholt werden.</DefaultText>
+      <DefaultText>Wenn ein Charakter drei Verletzungen hat und eine weitere erhalten würde, wird er endgültig getötet und kann nicht zurückgeholt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -857,9 +857,9 @@ Dietriche sind eine besondere Art von Werkzeug, die dazu dienen, Schlösser zu k
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>Viele Fähigkeiten verwenden entweder einen Vollen Angriff oder einen Primärangriff. Wenn solche Fähigkeiten eingesetzt werden, wendet der Charakter den Effekt entweder durch einen Angriff mit allen momentan ausgerüsteten Waffen (Voller Angriff) an oder durch einen Angriff mit seiner primären ausgerüsteten Waffe (Primärangriff).
+      <DefaultText>Viele Fähigkeiten werden darlegen, dass sie entweder einen Vollen Angriff oder einen Primärangriff nutzen. Wenn solche Fähigkeiten eingesetzt werden, wendet der Charakter den Effekt entweder durch einen Angriff mit allen momentan ausgerüsteten Waffen (Voller Angriff) an oder durch einen Angriff mit seiner primären ausgerüsteten Waffe (Primärangriff).
 
-Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der Schaden und andere Effekte.</DefaultText>
+Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der Schaden und andere Effekte, die sie bieten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1315,7 +1315,7 @@ Leereseher sind Schädel voller Essenz. Die ersten Berichte über Leereseher sta
       <ID>315</ID>
       <DefaultText>Seelengebundene Waffen sind einzigartige Gegenstände, die sich auf magische Weise mit der Seele eines einzelnen Charakters verbinden können. Ist eine solche Bindung einmal entstanden, kann die Waffe nur noch von diesem Charakter eingesetzt werden … bis die Bindung gekappt wird. Eine seelengebundene Waffe wird stärker, wenn ihr Besitzer gewisse Anforderungen erfüllt, die in der Beschreibung der Waffe angegeben sind.
 
-Die meisten seelengebundenen Waffen können sich nur mit Charakteren einer bestimmten Klasse verbinden. Unabhängig von der Art der Waffe sind seelengebundene Waffen aber immer für alle Talente oder Fähigkeiten des Charakters empfänglich, beispielsweise Waffenschwerpunkt und -spezialisierung. Wenn ein Kämpfer als Waffenschwerpunkt und -spezialisierung beispielsweise Raufbold besitzt, erhält er seine Vorteile auch dann, wenn er ein seelengebundenes Großschwert oder einen seelengebundenen Zauberstab einsetzt. Vorteile aus verschiedenen Talenten oder Fähigkeiten desselben Typs (z.B. Waffenschwerpunkt Raufbold und Bauer) werden nicht addiert.
+Die meisten seelengebundenen Waffen können sich nur mit Charakteren einer bestimmten Klasse verbinden.
 
 Wird die Verbindung zu einer seelengebundenen Waffe je gekappt, verliert sie alle Fähigkeiten, die sie mit der Zeit gewonnen hatte.</DefaultText>
       <FemaleText />
@@ -2522,7 +2522,7 @@ Es gibt unzählige Geschichten von Hunden, die so treu sind, dass sie noch bei i
     </Entry>
     <Entry>
       <ID>587</ID>
-      <DefaultText>Wael ist der Gott der Träume, der Geheimnisse, der Mysterien und der Offenbarung. Unergründlich selbst den anderen Göttern gegenüber hat Wael kein festgelegtes Geschlecht oder einheitliches Erscheinungsbild. Sein Symbol ist das Auge, doch das Aussehen und die Zahl der Augen ändern sich häufig. Wael wird angebetet, um sowohl die eigenen Geheimnisse zu bewahren als auch die Mysterien vor dir zu offenbaren. Nachfolger des Wael sind für viele eigenartige und ungewöhnliche Bräuche bekannt, möglicherweise aus guten Gründen, möglicherweise auch aus gar keinem Grund.</DefaultText>
+      <DefaultText>Wael ist der Gott der Träume, der Geheimnisse, der Mysterien und der Offenbarung. Unergründlich selbst den anderen Göttern gegenüber hat Wael kein festgelegtes Geschlecht oder einheitliches Erscheinungsbild. Sein Symbol ist das Auge, doch das Aussehen und die Zahl der Augen ändern sich häufig. Wael wird angebetet, um sowohl die eigenen Geheimnisse zu bewahren als auch die Mysterien vor einem zu offenbaren. Anhänger des Wael sind für viele eigenartige und ungewöhnliche Bräuche bekannt, möglicherweise aus guten Gründen, möglicherweise auch aus gar keinem Grund.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2902,12 +2902,12 @@ Legenden zufolge verließen die Rauatai, aufgrund einer schrecklichen Katastroph
     </Entry>
     <Entry>
       <ID>663</ID>
-      <DefaultText>Bergzwerge (Aptapo) stammen ursprünglich vom Kontinent Aedyr aus den Alten Reichen, verschwanden aber aus diesen Ländern, lang bevor Menschen und Elfen dort ankamen. Sie haben sich über das Jahrtausend hinweg aufgrund ihres instinktiven Drangs zum Erkunden und Umherziehen schnell auf der ganzen Welt ausgebreitet. Bergzwerge bilden selbst zwar auch Siedlungen und sogar kleine Nationen, man findet sie aber zahlreicher in anderen Kulturen, am häufigsten in Alt-Valia, den Vailianischen Republiken und im Dyrwald.</DefaultText>
+      <DefaultText>Bergzwerge (Aptapo) stammen ursprünglich vom Kontinent Aedyr aus den Alten Reichen, verschwanden aber aus diesen Ländereien, lang bevor Menschen und Elfen dort ankamen. Sie haben sich über das Jahrtausend hinweg aufgrund ihres instinktiven Drangs zum Erkunden und Umherziehen schnell auf der ganzen Welt ausgebreitet. Bergzwerge bilden selbst zwar auch Siedlungen und sogar kleine Nationen, man findet sie aber zahlreicher in anderen Kulturen, am häufigsten in Alt-Vailia, den Vailianischen Republiken und im Dyrwald.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>664</ID>
-      <DefaultText>Die meisten Nordzwerge (Enutanik) leben auf der abgeschiedenen südlichen Insel von Naasitaq, wo sie die felsige Tundra und die schneebedeckten Wälder mit den eingewanderten Bleichelfen und den küstennah fahrenden Schiffen der Aumauaner teilen. Wie ihre nördlichen Vettern teilen die Enutanik eine instinktive Liebe für Erkundungen. Nordzwergen begegnet man häufiger im Ewigen Weiß oder in den südlichen Gebieten des Todesfeuers, in anderen Ländern trifft man sie jedoch nur selten an.</DefaultText>
+      <DefaultText>Die meisten Nordzwerge (Enutanik) leben auf der abgeschiedenen südlichen Insel von Naasitaq, wo sie die felsige Tundra und die schneebedeckten Wälder mit den umherwandernden Bleichelfen und den küstennah fahrenden Schiffen der Aumauaner teilen. Wie ihren nördlichen Vettern wohnt den Enutanik eine instinktive Liebe für Erkundungen inne. Nordzwergen begegnet man häufiger im Ewigen Weiß oder in den südlichen Gebieten des Todesfeuers, in anderen Ländern trifft man sie jedoch nur selten an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3354,7 +3354,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>753</ID>
-      <DefaultText>Charaktere, die gegen einen Art von Wirkungen resistent sind, stufen die Effektivität der entsprechenden Wirkungen um 1 herab. Ein Charakter mit Resistenz gegen Machtwirkungen beispielsweise würde Betäubt zu Benommen herabstufen. Benommen würde zu Taumelnd herabgestuft, und Taumelnd würde nicht wirken.</DefaultText>
+      <DefaultText>Charaktere, die gegen eine Art von Wirkungen resistent sind, stufen die Effektivität der entsprechenden Wirkungen um 1 herab. Ein Charakter mit Resistenz gegen Machtwirkungen beispielsweise würde Betäubt zu Benommen herabstufen. Benommen würde zu Taumelnd herabgestuft, und Taumelnd würde nicht wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4724,7 +4724,7 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     </Entry>
     <Entry>
       <ID>1046</ID>
-      <DefaultText>Scelterfolc</DefaultText>
+      <DefaultText>Sceltrfolc</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
