@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2902</EntryCount>
+  <EntryCount>2910</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -6916,7 +6916,7 @@ Im Anschluss an diese Nachricht folgt eine detaillierte Beschreibung deines Schi
     </Entry>
     <Entry>
       <ID>3176</ID>
-      <DefaultText>Diese Streitaxt wurde von einem Krieger der im Feuer Geschmiedeten getragen, einer militanten Magranit-Truppe, und wurde im Krieg des Heiligen eingesetzt. Angeblich wurde es von Rufus Aechmont gefertigt, dem hochgeschätzten Waffenschmied der Sekte. Als die Waffe vom Schmieden noch rot glühte, soll Rufus Magran gebeten haben, die Waffe und ihren Schöpfer zu segnen. Als Rufus die Waffe abschreckte, entzündete sich das Öl. Rufus erlitt schwere Verletzungen und seine Werkstatt brannte nieder. Als Rufus später die Trümmer durchsuchte, fand er angeblich den Kopf der Axt – immer noch rot glühend. Die Klinge hat sich nie abgekühlt – ein eindeutiges Zeichen für Magrans Gunst.</DefaultText>
+      <DefaultText>Diese Streitaxt wurde von einem Krieger der im Feuer Geschmiedeten getragen, einer militanten Magranit-Truppe, und wurde im Krieg des Heiligen eingesetzt. Angeblich wurde es von Rufus Aechmont gefertigt, dem hochgeschätzten Waffenschmied der Sekte. Als die Waffe vom Schmieden noch rot glühte, soll Rufus Magran gebeten haben, die Waffe und ihren Schöpfer zu segnen. Als Rufus die Waffe abschreckte, entzündete sich das Öl. Rufus erlitt schwere &lt;xg&gt;Verletzungen&lt;/xg&gt; und seine Werkstatt brannte nieder. Als Rufus später die Trümmer durchsuchte, fand er angeblich den Kopf der Axt – immer noch rot glühend. Die Klinge hat sich nie abgekühlt – ein eindeutiges Zeichen für Magrans Gunst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8002,7 +8002,7 @@ Onekaza II</DefaultText>
     </Entry>
     <Entry>
       <ID>3407</ID>
-      <DefaultText>Erzeugt einen Energieball in der Hand des Lesers, der auf einen Gegner geschleudert werden kann und somit jedem im Wirkungsbereich Brand-, Frost-, Zersetzungs- oder Schockschaden zufügt. Fäule werden kontinuierlich aufgefüllt, bis der Zauber endet. </DefaultText>
+      <DefaultText>Erzeugt einen Energieball in der Hand des Lesers, der auf einen Gegner geschleudert werden kann und somit jedem im Wirkungsbereich Brand-, Frost-, Zersetzungs- oder Schockschaden zufügt. Fäule werden kontinuierlich aufgefüllt, bis der Zauber endet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8242,7 +8242,7 @@ Onekaza II</DefaultText>
     </Entry>
     <Entry>
       <ID>3460</ID>
-      <DefaultText>Diese eigenartigen Beeren haben eine empfindliche, gefiederte Oberfläche. Sie werden in der Herstellung von Svef verwendet, einer starken, halluzinogenen Droge. Gaensvef wurde zwar ursprünglich im fernen Tal Kness angebaut, dann wurden die Pflanzen zum Todesfeuer gebracht und angebaut. Dort verursachen abwechselnde Regen- und Trockenzeiten ideale Anbauverhältnisse. Während die Gaensvafvariante aus Tal Kness eine dünne, zarte Pflanze ist, sind die wildwachsenden vom Archipel recht zäh.</DefaultText>
+      <DefaultText>Diese eigenartigen Beeren haben eine empfindliche, gefiederte Oberfläche. Sie werden in der Herstellung von Svef verwendet, einer starken, halluzinogenen Droge. Gaensvef wurde zwar ursprünglich im fernen Tal Kness angebaut, dann wurden die Pflanzen ins Todesfeuer gebracht und angebaut. Dort verursachen abwechselnde Regen- und Trockenzeiten ideale Anbauverhältnisse. Während die Gaensvafvariante aus Tal Kness eine dünne, zarte Pflanze ist, sind die wildwachsenden vom Archipel recht zäh.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8386,7 +8386,7 @@ Es klingt alles furchtbar lächerlich und unglaubwürdig, nicht wahr? Und dennoc
     </Entry>
     <Entry>
       <ID>3495</ID>
-      <DefaultText>Speerwirker</DefaultText>
+      <DefaultText>Speerwerfer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8634,7 +8634,7 @@ und Wasser reinster Provenienz.</DefaultText>
     </Entry>
     <Entry>
       <ID>3549</ID>
-      <DefaultText>Arkemyrs aufschlussreiche Entdeckungen</DefaultText>
+      <DefaultText>Arkemyrs illuminierende Entdeckungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8779,7 +8779,7 @@ Ihr Säbel, eine antike Klinge exquisiter Handwerkskunst, wirbelt beim Schwingen
     </Entry>
     <Entry>
       <ID>3573</ID>
-      <DefaultText>Zauberbuch des auferstandenen Zauberers</DefaultText>
+      <DefaultText>Zauberbuch des untoten Zauberers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9082,7 +9082,7 @@ Des Weiteren solltet ihr nicht vergessen, dass wir NICHT als Plünderer hier sin
     </Entry>
     <Entry>
       <ID>3636</ID>
-      <DefaultText>Während Bernhard dir folgt, erhältst du einen Bonus auf Intellekt und deine Gruppe erhält einen Bonus auf Fernkampfwaffenschaden.</DefaultText>
+      <DefaultText>Während Bernhard dir folgt, erhältst du einen Bonus auf Intellekt und deine Gruppe erhält einen Bonus auf Schaden mit Fernkampfwaffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9112,7 +9112,7 @@ Des Weiteren solltet ihr nicht vergessen, dass wir NICHT als Plünderer hier sin
     </Entry>
     <Entry>
       <ID>3642</ID>
-      <DefaultText>Während Loki dir folgt, wird der Wirkungsradius deiner Wirkungsradiusangriffe erhöht. Darüber hinaus bewegt sich deine Gruppe im Kampf schneller.</DefaultText>
+      <DefaultText>Während Loki dir folgt, wird der Wirkungsbereich deiner Angriffe mit Wirkungsbereich erhöht. Darüber hinaus bewegt sich deine Gruppe im Kampf schneller.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9122,8 +9122,7 @@ Des Weiteren solltet ihr nicht vergessen, dass wir NICHT als Plünderer hier sin
     </Entry>
     <Entry>
       <ID>3644</ID>
-      <DefaultText>Während Peter dir folgt, verursachen deine Wirkungsradiusangriffe mehr Schaden und alle Gruppenmitglieder erhalten einen Bonus auf den Wirkungsradius ihrer Wirkungsradiusangriffe.
-</DefaultText>
+      <DefaultText>Während Peter dir folgt, verursachen deine Wirkungsbereich-Angriffe mehr Schaden und alle Gruppenmitglieder erhalten einen Bonus auf die Größe ihrer Wirkungsbereich-Angriffe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9173,7 +9172,7 @@ Des Weiteren solltet ihr nicht vergessen, dass wir NICHT als Plünderer hier sin
     </Entry>
     <Entry>
       <ID>3654</ID>
-      <DefaultText>Während Harley dir folgt, erhältst du einen Bonus auf Fernkampfschaden und deine Gruppenmitglieder erhalten einen Bonus auf Fernkampfwaffengenauigkeit.</DefaultText>
+      <DefaultText>Während Harley dir folgt, erhältst du einen Bonus auf Fernkampfschaden und deine Gruppenmitglieder erhalten einen Bonus auf Genauigkeit mit Fernkampfwaffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9193,7 +9192,7 @@ Des Weiteren solltet ihr nicht vergessen, dass wir NICHT als Plünderer hier sin
     </Entry>
     <Entry>
       <ID>3658</ID>
-      <DefaultText>Während Nikki dir folgt, erhöht sich die Wahrscheinlichkeit, dass Angriffe gegen dich zu Leichten Treffern werden, und deine Gruppenmitglieder erhalten einen Bonus auf Nahkampfwaffengenauigkeit.</DefaultText>
+      <DefaultText>Während Nikki dir folgt, erhöht sich die Wahrscheinlichkeit, dass Angriffe gegen dich als Leichte Treffer gewertet werden, und alle Gruppenmitglieder erhalten einen Bonus auf Genauigkeit mit Nahkampfwaffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9355,7 +9354,7 @@ Dieses Imperium blühte durch illegalen Handel, Schutzgelderpressung und – wie
     </Entry>
     <Entry>
       <ID>3695</ID>
-      <DefaultText>Während Xopn’aua dir folgt, erhältst du einen Bonus auf Einsicht und Metaphysik. Darüber hinaus erhält deine Gruppe einen Bonus auf Wille.</DefaultText>
+      <DefaultText>Während Xopn’aua dir folgt, erhältst du einen Bonus auf Tiefblick und Metaphysik. Darüber hinaus erhält deine Gruppe einen Bonus auf Wille.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10430,7 +10429,7 @@ Oderisi verabscheut diese Dinger und geht ihnen so weit wie möglich aus dem Weg
     </Entry>
     <Entry>
       <ID>3930</ID>
-      <DefaultText>Perlmutter kann von den äußeren Schichten von Perlen abgeschabt werden, wobei sie in den meisten Fällen von den Schalen bestimmter Muscheln und Meeresschnecken geerntet wird. Sie wird für ihr feines Schillern geschätzt und oft verwendet, um Schmuck herzustellen oder als eingelegtes Muster für Holzmöbel und Instrumente.</DefaultText>
+      <DefaultText>Perlmutt kann von den äußeren Schichten von Perlen abgeschabt werden, wobei es in den meisten Fällen von den Schalen bestimmter Muscheln und Meeresschnecken gewonnen wird. Es wird für sein feines Schillern geschätzt und oft verwendet, um Schmuck herzustellen oder als eingelegtes Muster für Holzmöbel und Instrumente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10939,7 +10938,7 @@ Kapitän Henqua</DefaultText>
     </Entry>
     <Entry>
       <ID>4022</ID>
-      <DefaultText>Liane</DefaultText>
+      <DefaultText>Rebe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12154,7 +12153,7 @@ Der trauernde Graf sandte kurz darauf einen Trupp, um den zu Angeber verhaften. 
     </Entry>
     <Entry>
       <ID>4282</ID>
-      <DefaultText>Während das Irrlicht dir folgt, haben Intellektwirkungen auf dich eine kürzere Dauer und alle Gruppenmitglieder haben erhöhte Genauigkeit bei ihren Angriffen gegen Geister.</DefaultText>
+      <DefaultText>Während das Irrlicht dir folgt, haben Intellektwirkungen auf dich eine kürzere Dauer und alle Gruppenmitglieder verfügen über erhöhte Genauigkeit bei ihren Angriffen gegen Geister.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12855,7 +12854,7 @@ Obwohl einige Magran-Tempel auch weiterhin Weihrauchfässer im Rahmen von Ritual
     </Entry>
     <Entry>
       <ID>4432</ID>
-      <DefaultText>Die Blätter des Federbusches sind weiß-grün und wachsartig. Wenn sie geschnitten werden, triefen sie eine durchsichtige, süßlich riechende Flüssigkeit, die in Medizin, Alchemie und auch als Luftauffrischer hochgeschätzt ist. Jedes Blatt spitzt sich zu einem feinen, starren Punkt zu. Dadurch ist der Busch eine ständige Gefahr für alle, die in kurzen Hosen durch das Unterholz laufen.</DefaultText>
+      <DefaultText>Die Blätter des Federbusches sind weiß-grün und wachsartig. Wenn sie geschnitten werden, triefen sie eine durchsichtige, süßlich riechende Flüssigkeit, die in &lt;xg&gt;Medizin&lt;/xg&gt;, Alchemie und auch als Luftauffrischer hochgeschätzt ist. Jedes Blatt spitzt sich zu einem feinen, starren Punkt zu. Dadurch ist der Busch eine ständige Gefahr für alle, die in kurzen Hosen durch das Unterholz laufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12965,7 +12964,7 @@ Obwohl einige Magran-Tempel auch weiterhin Weihrauchfässer im Rahmen von Ritual
     </Entry>
     <Entry>
       <ID>4458</ID>
-      <DefaultText>Dieser schmale Band berichtet die Geschichte der Tacan. Das war ein Volk, das in den fruchtbaren Ixamitl-Ebenen lebte, am Ufer des Flusses Aqui. Das Buch erzählt davon, wie dieses Volk in der Region aufstieg – und es erzählt von seiner Vernichtung durch seine althergebrachten Feinde, die Quechmatl.
+      <DefaultText>Dieser schmale Band berichtet die &lt;xg&gt;Geschichte&lt;/xg&gt; der Tacan. Das war ein Volk, das in den fruchtbaren Ixamitl-Ebenen lebte, am Ufer des Flusses Aqui. Das Buch erzählt davon, wie dieses Volk in der Region aufstieg – und es erzählt von seiner Vernichtung durch seine althergebrachten Feinde, die Quechmatl.
 
 Ein großer Teil des Buches befasst sich mit der Untersuchung der Rolle des tacanischen Mönchsordens der Nalpazca in der Gesellschaft der Taca. Die Nalpazca glaubten daran, dass Erhabenheit nur dadurch erreicht werden konnte, dass die Menschen ihre persönliche Eitelkeit überwanden, ebenso wie den Wunsch nach weltlichen Genüssen und die Angst vor dem &lt;xg&gt;Tod&lt;/xg&gt;. Zu diesem Zweck legten sie ein antisoziales Verhalten an den Tag, übten sich in verschiedenen Formen der Selbstverstümmelung und Meditation. Manchmal konsumierten sie dabei das Fleisch frisch Verstorbener.
 
@@ -13114,7 +13113,7 @@ Deshalb ließ er sie für sich arbeiten. Mit einem kleinen Teil seiner &lt;xg&gt
     </Entry>
     <Entry>
       <ID>4483</ID>
-      <DefaultText>Während Otto Starkatz dir folgt, werden deine Feuerzauber und -fähigkeiten gestärkt und deine Gruppenmitglieder erhalten einen Bonus auf Wirkungsradiusschaden.</DefaultText>
+      <DefaultText>Während Otto Starkatz dir folgt, werden deine Feuerzauber und -fähigkeiten gestärkt und deine Gruppenmitglieder erhalten einen Bonus auf Schaden von Wirkungsbereich-Angriffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13732,7 +13731,7 @@ Am Ende hat jemand Folgendes gekritzelt: „Für Eolina und Jun machen, wenn ich
     </Entry>
     <Entry>
       <ID>4641</ID>
-      <DefaultText>Während Corlagon dir folgt, verursachen deine Wirkungsradiusangriffe mehr Schaden und deine Gruppenmitglieder heilen effizienter mit Heilfähigkeiten und -tränken.</DefaultText>
+      <DefaultText>Während Corlagon dir folgt, verursachen deine Angriffe mit Wirkungsbereich mehr Schaden und deine Gruppenmitglieder heilen effizienter mit Heilfähigkeiten und -tränken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14746,7 +14745,7 @@ Giacolo</DefaultText>
     </Entry>
     <Entry>
       <ID>4915</ID>
-      <DefaultText>Während Luna dir folgt, erhältst du zusätzliche Gewandtheit und gegnerische Waffenangriffe auf deine Gruppenmitglieder werden öfter zu Streiftreffern.</DefaultText>
+      <DefaultText>Während Luna dir folgt, erhältst du zusätzliche Gewandtheit und gegnerische Waffenangriffe auf alle Gruppenmitglieder werden öfter als Leichter Treffer gewertet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14805,7 +14804,7 @@ Der wütende Drache schlug mit den Klauen nach ihr. Dabei entriss er ihr die Bru
     </Entry>
     <Entry>
       <ID>4929</ID>
-      <DefaultText>Während Halsabschneider-Cosmo dir folgt, wird dein Erholungsabzug auf Rüstung reduziert und deine Gruppenmitglieder verursachen mehr Schaden mit Gewehren.</DefaultText>
+      <DefaultText>Während Halsabschneider-Cosmo dir folgt, wird dein Erholungsabzug auf Rüstung reduziert und deine Gruppenmitglieder verursachen mehr Schaden mit Schusswaffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14820,7 +14819,7 @@ Der wütende Drache schlug mit den Klauen nach ihr. Dabei entriss er ihr die Bru
     </Entry>
     <Entry>
       <ID>4933</ID>
-      <DefaultText>Während Nemnok dir folgt, erhältst du einen zusätzlichen Ermächtigungspunkt und deine Gruppenmitglieder erhalten 1 zusätzlichen Zauber für Druiden, Priester und Zauberer.</DefaultText>
+      <DefaultText>Während Nemnok dir folgt, erhältst du einen zusätzlichen Ermächtigungspunkt und alle Gruppenmitglieder, die Druiden, Priester oder Zauberer sind, erhalten 1 zusätzlichen Einsatz für Zauber der Stufe 1.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14835,7 +14834,7 @@ Der wütende Drache schlug mit den Klauen nach ihr. Dabei entriss er ihr die Bru
     </Entry>
     <Entry>
       <ID>4936</ID>
-      <DefaultText>Ring der entropischen Reflektion</DefaultText>
+      <DefaultText>Ring der entropischen Reflexion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15212,7 +15211,7 @@ Okaya</DefaultText>
     </Entry>
     <Entry>
       <ID>5016</ID>
-      <DefaultText>Das Zauberbuch der dampfförmigen Zauberei</DefaultText>
+      <DefaultText>Zauberbuch der dampfförmigen Zauberei</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15262,7 +15261,7 @@ Hazanui Karū</DefaultText>
     </Entry>
     <Entry>
       <ID>5025</ID>
-      <DefaultText>Llengraths Meisterschaft der Kriegskunst</DefaultText>
+      <DefaultText>Llengraths meisterhafte Kriegskunst</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15593,7 +15592,7 @@ Als sich jedoch der Dyrwald vom Reich lossagte, war das Entsetzen bei Lethandria
 
 Seine extremen Praktiken wurden von seinen Klosterbrüdern mit Abstand toleriert. Als sich Endre jedoch zum Ersten unter Gleichen ausrief und den Gehorsam seiner Mitstreiter einforderte, prangerten diese unverzüglich seinen Fanatismus an. Endre sah sich als selbsternannter Anführer als Erstes dazu berufen, seine widerspenstigen Brüder unter Kontrolle zu bringen. Wenn sie nicht freiwillig bluten wollten, dann würde er sie eben bluten lassen.
 
-Das darauf folgende Handgemenge war eine blutige Angelegenheit. Offenbar hatte Endre durch sein Leiden doch große Macht erlangt. Trotz seiner Wunden waren seine Brüder nicht in der Lage, ihm das Wasser zu reichen. Der Kampf endete erst, als Endre von mehreren Pfeilen getroffen wurde. Er starb stehend, mit seinem blutgetränkten Flegel noch immer in der Hand.</DefaultText>
+Das darauf folgende Handgemenge war eine blutige Angelegenheit. Offenbar hatte Endre durch sein Leiden doch große &lt;xg&gt;Macht&lt;/xg&gt; erlangt. Trotz seiner Wunden waren seine Brüder nicht in der Lage, ihm das Wasser zu reichen. Der Kampf endete erst, als Endre von mehreren Pfeilen getroffen wurde. Er starb stehend, mit seinem blutgetränkten Flegel noch immer in der Hand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15612,7 +15611,7 @@ Die Bäume auf der Insel brannten wie Zunder, und der Sandstrand war zu einem Gl
     </Entry>
     <Entry>
       <ID>5097</ID>
-      <DefaultText>Diese Klinge scheint etwa jede Generation aufzutauchen und zu verschwinden. Viele große Adlige, Krieger und Abenteurer führten sie und vollbrachten großartige wie schreckliche Dinge mit ihrer Macht. Nur wenige sind namentlich bekannt; fast so, als wären sie bloß Beiwerk zur Waffe selbst. Es ist kein Eigentümer bekannt, der dieses Schwert lange Zeit behielt, da ausnahmslos alle ein gewaltsames Schicksal ereilte. Man sagt, dass das Schwert dem Herzen des jeweiligen Trägers ein seltsames Lied singe, dass ihn dazu antreibe, sich selbst an seine Grenzen und darüber hinaus zu bringen, was selten gut ausgeht. Daher ist sie schon durch viele Hände gegangen. Zuletzt wurde sie von der gefrorenen Leiche eines vailianischen Erkunders im Ewigen Weiß geborgen. Er habe das Schwert, so heißt es, in einem skelettierten Brustkorb eines schon lange toten Drachens gefunden, samt der verrosteten Überreste einer halbverdauten Rüstung. Wo und wie das unglückliche Opfer des Drachens an die Waffe kam, bleibt unklar, obwohl es naheliegt, dass es auf ähnlich makabere Art und Weise geschah.</DefaultText>
+      <DefaultText>Diese Klinge scheint etwa jede Generation aufzutauchen und zu verschwinden. Viele große Adlige, Krieger und Abenteurer führten sie und vollbrachten großartige wie schreckliche Dinge mit ihrer &lt;xg&gt;Macht&lt;/xg&gt;. Nur wenige sind namentlich bekannt; fast so, als wären sie bloß Beiwerk zur Waffe selbst. Es ist kein Eigentümer bekannt, der dieses Schwert lange Zeit behielt, da ausnahmslos alle ein gewaltsames Schicksal ereilte. Man sagt, dass das Schwert dem Herzen des jeweiligen Trägers ein seltsames Lied singe, dass ihn dazu antreibe, sich selbst an seine Grenzen und darüber hinaus zu bringen, was selten gut ausgeht. Daher ist es schon durch viele Hände gegangen. Zuletzt wurde es von der gefrorenen Leiche eines vailianischen Erkunders im Ewigen Weiß geborgen. Er habe das Schwert, so heißt es, in einem skelettierten Brustkorb eines schon lange toten Drachens gefunden, samt der verrosteten Überreste einer halbverdauten Rüstung. Wo und wie das unglückliche Opfer des Drachens an die Waffe kam, bleibt unklar, obwohl es naheliegt, dass es auf ähnlich makabere Art und Weise geschah.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15651,7 +15650,7 @@ Die plumpe Beschriftung fungierte als eine Art Glücksbringer für den armen Uls
       <ID>5102</ID>
       <DefaultText>Dieses im Rahmen eines rituellen Opfers geschmiedete Schwert gibt den heißen, metallischen Geruch von Angst und den versengten schwefligen Gestank des Zorns ab. Wenn du es hältst, schmeckst du Blut auf der Zunge und hörst die flüsternden Schreie des darin gefangenen Seelenfragments.
 
-Die verzauberte Klinge scheint sich fast selbst zu führen, um hungernd nach Fleisch zu suchen, das sie schneiden kann. Sie ist ein gieriges Ding mit einem unstillbaren Durst. Sobald sie ein Mal Blut geleckt hat, schlürft sie nur zu gern von der süßen überlaufenden Essenz darin.</DefaultText>
+Die verzauberte Klinge scheint sich fast selbst zu führen, um hungernd nach Fleisch zu suchen, das sie schneiden kann. Sie ist ein gieriges Ding mit einem unstillbaren Durst. Sobald sie ein Mal Blut geleckt hat, schlürft sie nur zu gern von der süßen überlaufenden &lt;xg&gt;Essenz&lt;/xg&gt; darin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16312,7 +16311,7 @@ Viel Glück,
       <ID>5210</ID>
       <DefaultText>„‚Jeder Meter der See ist Ondras Blut, jeder Meter ihre Tränen und auch wenn es der Atem von Amira sein wird, der uns hindurch bewegt, ist es nur durch den Willen von Ondra, dass wir nicht in ihren heiligen Eingeweiden ertrinken. Mache ihrem Zorn den Hof auf eigene Gefahr, weil sie die Bedeutung von Gnade nicht kennt.‘
 
-Ein alter Hase hat das mir erzählt, als ich das erste Mal aus einem Hafen herauskam, und dieser krustige Bastard hat nie gewusst, wenn er aufhören sollte zu blubbern, also habe ich nicht auf ihn gehört. &lt;i&gt;Ich&lt;/i&gt; habe nie selbst gesehen, wie die Göttin aus den Tiefen emporstieg und Hand an ein Schiff legte. Die Winde und Wellen – das waren &lt;i&gt;irdische&lt;/i&gt; Bedrohungen. Die Götter haben einen besseren Scheiß zu tun als uns zu quälen.
+Ein alter Hase hat das mir erzählt, als ich das erste Mal aus einem Hafen herauskam, und dieser krustige Bastard hat nie gewusst, wann er aufhören sollte zu blubbern, also habe ich nicht auf ihn gehört. &lt;i&gt;Ich&lt;/i&gt; habe nie selbst gesehen, wie die Göttin aus den Tiefen emporstieg und Hand an ein Schiff legte. Die Winde und Wellen – das waren &lt;i&gt;irdische&lt;/i&gt; Bedrohungen. Die Götter haben einen besseren Scheiß zu tun als uns zu quälen.
 
 Natürlich war das alles bevor ich anfing, auf der &lt;i&gt;Fischerkönigin&lt;/i&gt; zu schippern.
 
@@ -16324,7 +16323,7 @@ Wir haben Jungfrauen gejagt. Jungfrauenfleisch, wirklich. War nirgendwo eine Del
 
 Man hört ja so &lt;i&gt;Geschichten&lt;/i&gt; über diese Biester. Jeder von uns hört Geschichten. Seeleute, die von den Jungfrauen der Tiefe und ihren Dienerinnen in den &lt;xg&gt;Tod&lt;/xg&gt; gezogen wurden, weil sie der Schönheit ihrer traurigen Lieder nicht widerstehen konnten. Klingt verrückt, oder?
 
-Wir haben eine Gruppe in der Nähe des Ofecchia–Kanals gefunden, wo sie Thunfisch jagten. Sie sahen aus der Ferne aus wie eine Gruppe hübscher Damen – Fischschwänze so lang wie eine stürmische Nacht und glatt wie ein von Salzwasser befeuchtetes Deck, mit Haaren wie Seegras und breitem, herzlichen Lächeln. Wir haben ein paar mit dem Netz eingefangen und sie an Deck gezogen. War gar nicht so schwer, hatte fast den Eindruck, sie wollten gefangen werden
+Wir haben eine Gruppe in der Nähe des Ofecchia–Kanals gefunden, wo sie Thunfisch jagten. Sie sahen aus der Ferne aus wie eine Gruppe hübscher Damen – Fischschwänze so lang wie eine stürmische Nacht und glatt wie ein von Salzwasser befeuchtetes Deck, mit Haaren wie Seegras und breitem, herzlichen Lächeln. Wir haben ein paar mit dem Netz eingefangen und sie an Deck gezogen. War gar nicht so schwer, hatte fast den Eindruck, sie wollten gefangen werden.
 
 Sie zischten und schrien, als wir unsere Messer zückten und bald schon bemerkten wir unseren Fehler. Wir entdeckten ihre gezackten Haifischzähne und ausgehängten Kiefer erst, als eine von ihnen Yaryc ganz verschlang und wir bemerkten zu spät, dass sie an den Hüften giftige Widerhaken hatten – erst als Gavril mit zwei von ihnen kämpfte und begann, Klumpen geronnenen schwarzen Blutes zu spucken. Und das Glänzen in ihren Augen, denen die Lederhaut fehlte und die so dunkelblau und tief waren wie Ondras eigene Leere … Ich erfuhr dies, als mir eine von ihnen den Arm sauber am Ellenbogen abtrennte.
 
@@ -16418,13 +16417,13 @@ Nach seiner Pensionierung hatte sich Malloy im Dyrwald niedergelassen und ein ru
     </Entry>
     <Entry>
       <ID>5221</ID>
-      <DefaultText>Die Ankunft der Vailianer in Neketaka war nicht vollkommen unerwartet. Unsere Fischer haben beobachtet, wie sie monatelang an den Grenzen unseres Gebietes herumlungerten, ihre Schiffe wie die scharfen Augen eines Juweliers erscheinen, uns beobachten und bereits die Münze zählen, die sie mit einem solchen Preis wie dem Todesfeuer erzielen könnten. Sie waren nicht die ersten, die uns so beobachteten, und werden zweifelsohne nicht die letzten sein.
+      <DefaultText>Die Ankunft der Vailianer in Neketaka war nicht vollkommen unerwartet. Unsere Fischer haben beobachtet, wie sie monatelang an den Grenzen unseres Gebietes herumlungerten, ihre Schiffe die wie die scharfen Augen eines Juweliers erscheinen, uns beobachten und bereits die Münze zählen, die sie mit einer solchen Gabe wie dem Todesfeuer erzielen könnten. Sie waren nicht die ersten, die uns so beobachteten, und werden zweifelsohne nicht die letzten sein.
 
-Wir waren nicht sicher, was es war, das sie haben wollten, außer der Tatsache, dass es etwas war, das sich in unserem Besitz befand. Als Onekaza einen Gesandten von Mataru schickte, um mit ihnen zu sprechen, ließen sie sich über den Wunsch nach Handel und kulturellem Austausch aus. Was es genau war, mit dem sie handeln wollten oder welche Art kultureller Austausch uns ihrer Meinung nach anlocken könnte, war nicht direkt klar.
+Wir waren nicht sicher, was es war, das sie haben wollten, außer der Tatsache, dass es etwas war, das sich in unserem Besitz befand. Als Onekaza einen Mataru als Gesandten schickte, um mit ihnen zu sprechen, ließen sie sich über den Wunsch nach Handel und kulturellem Austausch aus. Was es genau war, mit dem sie handeln wollten oder welche Art kultureller Austausch uns ihrer Meinung nach interessieren könnte, war nicht direkt klar.
 
-Wir waren nicht naiv – wir wussten so sicher, dass ihre Ankunft Veränderungen für das Todesfeuer bedeuten würde, wie wir wissen, dass Regen während der Zeit des Monsuns fällt. Die Schwierigkeiten begannen damit, dass wir überlegten, wie wir mit dem Einfluss der Vailianer umgehen würden, wie wir ihn eingrenzen könnten. Besser dass sie uns als Partner ansehen und nicht als einfache Ziele – so überlegte man im Palast seinerzeit. Wir konnten keinen Krieg mit ihnen riskieren, so versprengt wie unser Volk war, auch da wir keine Hoffnung hatten, einen solchen Krieg gewinnen zu können, egal über welche Macht unsere Wasserformer verfügen.
+Wir waren nicht naiv – wir wussten so sicher, dass ihre Ankunft Veränderungen für das Todesfeuer bedeuten würde, wie wir wissen, dass Regen während der Zeit des Monsuns fällt. Die Schwierigkeiten begannen damit, dass wir überlegten, wie wir mit dem Einfluss der Vailianer umgehen würden, wie wir ihn eingrenzen könnten. Besser dass sie uns als Partner ansehen und nicht als einfache Ziele – so überlegte man im Palast seinerzeit. Wir konnten keinen Krieg mit ihnen riskieren, so versprengt wie unser Volk war, auch da wir keine Hoffnung hatten, einen solchen Krieg gewinnen zu können, egal über welche &lt;xg&gt;Macht&lt;/xg&gt; unsere Wasserformer verfügen.
 
-Als Anführerin der Kahanga entschied Onekaza für uns. Sie erlaubte es den Vailianern, im Ankerplatz der Königin Wurzeln zu schlagen und mit begrenzten Bergbauaktivitäten im Archipel zu beginnen. Sie schlug vor, dass dies vielleicht den Handel erleichtern und die Spannungen zwischen unseren Völkern und den ihren lösen würden, aber in Wahrheit wollte sie meiner Meinung nur ein Auge auf sie haben. Ich kann ihren Blickpunkt verstehen, ihn aber nicht gutheißen, weil Onekaza die Wahrheit der Wurzeln vergaß – dass sie die stillen, greifenden Hände der Bäume sind und dass ein einmal bestehender Baum nicht bewegt werden kann, ohne den Boden ringsherum zu zerstören.
+Als Anführerin der Kahanga entschied Onekaza für uns. Sie erlaubte es den Vailianern, im Ankerplatz der Königin Wurzeln zu schlagen und mit begrenzten Bergbauaktivitäten im Archipel zu beginnen. Sie schlug vor, dass dies vielleicht den Handel erleichtern und die Spannungen zwischen unseren Völkern und den ihren lösen würde, aber in Wahrheit wollte sie meiner Meinung nur ein Auge auf sie haben. Ich kann ihren Blickpunkt verstehen, ihn aber nicht gutheißen, weil Onekaza die Wahrheit der Wurzeln vergaß – dass sie die stillen, greifenden Hände der Bäume sind und dass ein einmal bestehender Baum nicht bewegt werden kann, ohne den Boden ringsherum zu zerstören.
 
 Aber es wurde umgesetzt. Die Vailianer fühlten sich bald wie zu Hause und der daraus resultierende Konflikt darüber, wer welche Rechte auf welche Inseln, welche Adra-Adern, welche Handelsrouten hat, führte nur dazu, dass die Huana weiter zerfielen.
 
@@ -16464,7 +16463,7 @@ Ngati führe uns in dieser schwierigen Zeit.
     </Entry>
     <Entry>
       <ID>5227</ID>
-      <DefaultText>Aedyrisches Kanalgewehr</DefaultText>
+      <DefaultText>Aedyrische Kanalkanone</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16907,6 +16906,52 @@ Hier endet das Logbuch abrupt. Der Rest der Seiten ist verbrannt und pulvergesch
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5354</ID>
+      <DefaultText>Waels Wind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5355</ID>
+      <DefaultText>Waels Wind ist eine Mischung aus verschiedenen Rumsorten (und jedem anderen starken Alkohol, der verfügbar ist) und tropischen Fruchtsäften. Es ist ein stets beliebter Drink in den höllisch heißen Sommern im Todesfeuer. Das Getränk wurde von den Piraten der Príncipi sen Patrena erfunden, und wird traditionell in einer halben Kokosnussschale serviert.
+
+Der Name Waels Wind kommt von der legendären Eigenschaft des Getränks, seine Trinker aus den Latschen zu heben und ihnen jegliche Erinnerung an den Abend zu rauben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5356</ID>
+      <DefaultText>Daibō o Osa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5357</ID>
+      <DefaultText>Dieses alkoholische Getränk gibt es klarer und leicht getrübter Form. Es wird aus zwei verschiedenen Reissorten (einer Kurzkorn, der andere Langkorn) und Wasser aus einer Bergquelle auf der Insel Osa gebraut. Daibō ist das stärkste alkoholische Getränk, das im Todesfeuer bekannt ist. Er wird meist warm serviert und ist besonders in der Handwerker-Kaste sehr beliebt.
+
+In der Popkultur der Huana, besonders in Spielen und Liedern wird der Daibō o Osa regelmäßig erwähnt und in Diskussionen wird ihm stets vorgeworfen, die Jugend von Huana zu "ruinieren".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5358</ID>
+      <DefaultText>Meppu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5359</ID>
+      <DefaultText>Meppu ist ein rauchiges braunes alkoholisches Getränk, das in Rauatai beliebt ist. Es wird aus Gerstenmalz gebraut und in Eichenfässern gereift. Normalerweise wird es mit Wasser in Raumtemperatur gemischt serviert, aber rauataianische Studenten fügen es oft heißem Tee hinzu. Egal wie, es wird häufig zu dunkler Schokolade oder anderen Süßigkeiten konsumiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5360</ID>
+      <DefaultText>Vrer Chiora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5361</ID>
+      <DefaultText>Diese Variante eines gewöhnlichen Kräuterlikörs aus den Vailianischen Republiken wurde mit leuchtendem Adra versetzt. Die Kombination aus gelbem Alkohol und pulverisiertem Adra ergibt ein schwach leuchtendes grünes Gebräu.
+
+Nur die reichsten vailianischen Händler können sich damit rühmen, mehr als eine Flasche von Chiora zu besitzen, und eine nach einem Abendessen zu entkorken, ist eine deutliche Art, seinen Gästen den eigenen Erfolg zu zeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5362</ID>
       <DefaultText>Palleginas Abschied</DefaultText>
       <FemaleText />
@@ -16997,7 +17042,7 @@ Wenn Sie Fragen oder Beschwerden zu meinem Dienst haben, wenden Sie sich bitte d
     </Entry>
     <Entry>
       <ID>5387</ID>
-      <DefaultText>Von Feinden {0} Mal verfehlt werden.</DefaultText>
+      <DefaultText>Von Feinden {0} mal verfehlt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17320,9 +17365,9 @@ Die innenliegende Oberfläche ist mit einem Symbol zweier Berge verziert, denen 
     </Entry>
     <Entry>
       <ID>5593</ID>
-      <DefaultText>Das Gewebe dieses Umhangs scheint mit einer Art mystischer Muster bestickt zu sein, aber das Muster ändert sich mit den Bewegungen des Kleidungsstückes, so dass das Auge Dinge sieht, die nicht da sind. 
+      <DefaultText>Das Gewebe dieses Umhangs scheint mit einer Art mystischer Muster bestickt zu sein, aber das Muster ändert sich mit den Bewegungen des Kleidungsstückes, so dass das Auge Dinge sieht, die nicht da sind.
 
-Schüler von Wael haben in aller Stille mit Illusionen experimentiert, da sie schon immer von Theorien fasziniert waren, dass die Welt rings um sie eine Illusion, ein Traum oder beides ist. In einem Jahr hat sich eine gesamte Klasse ehrgeiziger Lehrlinge um diese Idee gruppiert und formte einen verschwiegenen Zirkel existentieller Skeptiker. Sie trugen Umhänge wie diese, um sich außerhalb ihrer geheimen Treffen zu erkennen. 
+Schüler von Wael haben in aller Stille mit Illusionen experimentiert, da sie schon immer von Theorien fasziniert waren, dass die Welt rings um sie eine Illusion, ein Traum oder beides ist. In einem Jahr hat sich eine gesamte Klasse ehrgeiziger Lehrlinge um diese Idee gruppiert und formte einen verschwiegenen Zirkel existentieller Skeptiker. Sie trugen Umhänge wie diese, um sich außerhalb ihrer geheimen Treffen zu erkennen.
 
 Ein Dutzend solcher Umhänge wurden später verlassen zwischen den Bücherregalen einer Bibliothek gefunden. Das Schicksal der Träger und ihrer Forschung ist unbekannt, aber die Umhänge zirkulierten seitdem als eine Art antiker Kuriositäten. </DefaultText>
       <FemaleText />
