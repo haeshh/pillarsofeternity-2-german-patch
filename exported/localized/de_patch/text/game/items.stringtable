@@ -543,7 +543,7 @@ Aloths hübsche, sorgfältige Schönschrift bildet auf den Seiten einen ordentli
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>Pistolen sind kleine Schusswaffen. Sie sind nicht so mächtig wie Arkebusen, können dafür aber schneller nachgeladen werden. Wie alle Schusswaffen können auch Pistolen Kreaturen verletzen, die vom Schleier geschützt werden, so wie Geister und Kreaturen, die vom Arkanen Schleier eines Zauberers bedeckt sind.</DefaultText>
+      <DefaultText>Pistolen sind kleine Schusswaffen. Sie sind nicht so mächtig wie Arkebusen, können dafür aber schneller nachgeladen werden. Wie alle Schusswaffen können auch Pistolen Feinde verletzen, die vom Schleier geschützt werden, wie Geister und Feinde, die vom Arkanen Schleier eines Zauberers bedeckt sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2385,19 +2385,19 @@ Lass dich vom Feuer verschlingen.“</DefaultText>
       <ID>1559</ID>
       <DefaultText>„Das Archipel windet sich zwischen dem Großen Ostozean und dem Rastlosen Ozean – hunderte von kleinen Inseln mitten im Wasser. Nur wenige Mutige trotzen seinen gefährlichen Stromschnellen. Noch weniger kehren zurück, um von ihren Abenteuern zu berichten.“
 
-Es ist nahezu unmöglich, zwischen den zwei Ozeanen hindurchzureisen. Gewaltige Stürme wirbeln jedes Schiff herum, das töricht genug ist, den Versuch zu wagen. Das allein sollte als Abschreckung reichen, denn unzählige Schiffe sind bereits gegen die Felsen geworfen worden und gesunken. Doch das Wetter und die gefährlichen Felsen sind nur ein Vorbote des eigentlichen Schreckens des Archipels, des Grauens aus der Tiefe. Niemand weiß genau, wie viele Kreaturen in den Ozeanen hausen und nur darauf warten, dass ahnungslose Seeleute in ihre Gewässer getrieben werden. Aber wir kennen einige von ihnen.
+Es ist nahezu unmöglich, zwischen den zwei Ozeanen hindurchzureisen. Gewaltige Stürme wirbeln jedes Schiff umher, das töricht genug ist, den Versuch zu wagen. Das allein sollte als Abschreckung reichen, denn unzählige Schiffe sind bereits gegen die Felsen geworfen worden und gesunken. Doch das Wetter und die gefährlichen Felsen sind nur ein Vorbote des eigentlichen Schreckens des Archipels, des Grauens aus der Tiefe. Niemand weiß genau, wie viele Kreaturen in den Ozeanen hausen und nur darauf warten, dass ahnungslose Seeleute in ihre Gewässer getrieben werden. Aber wir kennen einige von ihnen.
 
-Zackenräuber
+Stacheliger Zerstörer
 
-Ein riesiger Hai, der passierende Schiffe rammt, um Matrosen über Deck zu werfen und ein Loch in den Rumpf zu schlagen. Aus seiner Seite und seinem Rücken ragen gewaltige Stachel heraus, die vermutlich giftig sind. Der größte Zackenräuber, der je (von Überlebenden) gesichtet wurde, war fast 10 Meter lang.
+Ein riesiger Hai, der passierende Schiffe rammt, um Matrosen über Deck zu werfen und ein Loch in den Rumpf zu schlagen. Aus seiner Seite und seinem Rücken ragen gewaltige Stachel heraus, die vermutlich giftig sind. Der größte Stachelige Zerstörer, der je (von Überlebenden) gesichtet wurde, war fast 10 Meter lang.
 
-Windeschlange
+Die sich windende Schlange
 
-Die Windeschlange ist dünner als der Zackenräuber, potenziell aber länger. Sie greift meist in kleinen Schwärmen von 3 bis 8 Tieren an. Sie besitzt einen langen, scharfen Kopf, der etwas an einen Barrakuda erinnert. Wie der Zackenräuber schlägt sie wiederholt gegen die Seite von Schiffen, um ein Leck zu schlagen oder jemanden von Deck zu werfen. Außerdem wurde beobachtet, wie sie hinab in die Tiefen taucht und dann aus dem Ozean herausschießt, auf dem Schiff landet, sich über das Deck windet und schlängelt und nach Matrosen schnappt, bevor sie wieder in den Ozean taucht.
+Die sich windende Schlange ist dünner als der Stachelige Zerstörer, potenziell aber länger. Sie greift meist in kleinen Schwärmen von 3 bis 8 Tieren an. Sie besitzt einen langen, scharfen Kopf, der etwas an einen Barrakuda erinnert. Wie der Stachelige Zerstörer schlägt sie wiederholt gegen die Seite von Schiffen, um ein Leck zu schlagen oder jemanden von Deck zu werfen. Außerdem wurde beobachtet, wie sie hinab in die Tiefen taucht und dann aus dem Ozean herausschießt, auf dem Schiff landet, sich über das Deck windet und schlängelt und nach Matrosen schnappt, bevor sie wieder in den Ozean taucht.
 
 Leviathan
 
-Man stelle sich den größten Wal vor, den man je gesehen hat. Der Leviathan ist mindestens zehnmal so groß. Wenn ein Schiff einen Leviathan erblickt, ist es bereits zu spät. Wenn er sich aus der Tiefe erhebt, beginnt das Wasser um ihn herum, sich zu drehen und abzusinken, und es entsteht ein Wirbel. Der Körper des Leviathans umkreist das unglückselige Schiff und hindert es an der Flucht. Wenn er wieder abtaucht, öffnet er sein gewaltiges Maul und zieht jeden an Bord in den nassen Tod.
+Man stelle sich den größten Wal vor, den man je gesehen hat. Der Leviathan ist mindestens zehnmal so groß. Wenn ein Schiff einen Leviathan erblickt, ist es bereits zu spät. Wenn er sich aus der Tiefe erhebt, beginnt das Wasser um ihn herum, sich zu drehen und abzusinken, und es entsteht ein Wirbel. Der Körper des Leviathans umkreist das unglückselige Schiff und hindert es an der Flucht. Wenn er wieder abtaucht, öffnet er sein gewaltiges Maul und zieht jeden an Bord in den nassen &lt;xg&gt;Tod&lt;/xg&gt;.
 
 Polpovir
 
@@ -2409,7 +2409,7 @@ Von der Hüfte aufwärts ähnelt der Polpovir auf den ersten Blick einem Mensche
 
 Man stelle sich einen Seemann vor, der des Nachts an Deck seines Schiffes steht und über das schwarze Wasser blickt … als plötzlich unzählige Lichter unter der Wasseroberfläche erscheinen und zu ihm aufsteigen, als der Polpovir-Schwarm sich aus dem Wasser erhebt.
 
-Da der Polpovir mehr Oktopus als Mensch zu sein scheint, kann er sich einrollen, wodurch er an Orte gelangen kann, an die kein Mensch je gelangen könnte. Sie können durch den kleinsten Riss im Rumpf, den kleinsten Spalt zwischen den Planken eindringen und eine gesamte Besatzung vom Laderaum bis zum Deck dahinmetzeln.
+Da der Polpovir mehr Oktopus als Mensch zu sein scheint, kann er sich einrollen, wodurch er an Orte gelangen kann, an die kein Mensch je gelangen könnte. Sie können durch den kleinsten Riss im Rumpf, den kleinsten Spalt zwischen den Planken eindringen und eine gesamte &lt;xg&gt;Besatzung&lt;/xg&gt; vom Laderaum bis zum Deck dahinmetzeln.
 
 Glücklicherweise scheinen sie sich bislang nicht zu weit jenseits des Archipels verbreitet zu haben. Allerdings kann der Tag kommen, an dem Polpovir-Angriffe alltäglich werden.</DefaultText>
       <FemaleText />
@@ -3216,18 +3216,18 @@ TORFAL: Das muss unglaublich starkes Svef sein! Ich habe noch nie gehört, dass 
       <DefaultText>„Sie gehen zurück zum ersten Ort und lassen den verhungernden Mann zurück. Sie nähern sich dem verletzten Mann, der seinen Kopf hebt und zusammenzuckt.
 
 VERLETZTER MANN: Ein Balsam? Eine Salbe? Sicherlich bist du barmherzig. Sicherlich kannst du irgendetwas mit mir teilen, um mir zu helfen, selbst deine Zeit!
-MÄNNLICH: Dieser Mann ist verletzt und kann sich nicht selbst helfen. Wenn nicht jemand Salben auf seine Wunden gibt und sie verbindet, wird er sicherlich sterben. Solche Barmherzigkeit könnte sein Leben retten.
-WEIBLICH: Du bist diesem Mann nichts schuldig. Seine Verletzungen sind sicherlich das Urteil seines Gottes. Er bekam ein Gerichtsverfahren und wurde für mangelhaft befunden. Du musst dich nicht um seine Bestrafung kümmern.
+MÄNNLICH: Dieser Mann ist verletzt und kann sich nicht selbst helfen. Wenn nicht jemand &lt;xg&gt;Salben&lt;/xg&gt; auf seine &lt;xg&gt;Wunden&lt;/xg&gt; gibt und sie verbindet, wird er sicherlich sterben. Solche Barmherzigkeit könnte sein Leben retten.
+WEIBLICH: Du bist diesem Mann nichts schuldig. Seine &lt;xg&gt;Verletzungen&lt;/xg&gt; sind sicherlich das Urteil seines Gottes. Er wurde beurteilt und wurde für unwürdig befunden. Seine Strafe sollte dich nicht kümmern.
 
 MÄNNLICH &amp; WEIBLICH: Was wirst du tun?
 
-Der Mann wägt seine Optionen ab und kniet sich dann neben den verletzten Mann hin. Er gibt Salben auf die Wunden des Mannes und umwickelt sie mit einem Verband.
+Der Mann wägt seine Optionen ab und kniet sich dann neben den verletzten Mann hin. Er gibt &lt;xg&gt;Salben&lt;/xg&gt; auf die &lt;xg&gt;Wunden&lt;/xg&gt; des Mannes und umwickelt sie mit einem Verband.
 
 VERLETZTER MANN: Gepriesen seist du! Möge dir deine Barmherzigkeit den Bedürftigen gegenüber für den Rest deiner Tage widerfahren!
 
-MÄNNLICH &amp; WEIBLICH: Warum hast du die Wunden des Verletzten versorgt?
+MÄNNLICH &amp; WEIBLICH: Warum hast du die &lt;xg&gt;Wunden&lt;/xg&gt; des Verletzten versorgt?
 
-MANN: Ich sah einen gebeugten und gebrochenen Mann. Es obliegt mir nicht zu sagen, dass er kein Recht auf seine Gesundheit hat, ich helfe nur, wenn ich dazu in der Lage bin. Ich habe die Zeit zu geben, also gebe ich. Wenn ich bei der Wiedergeburt eines Mannes helfen kann, dann ist es meine Pflicht, das auch zu tun.
+MANN: Ich sah einen gebeugten und gebrochenen Mann. Es obliegt mir nicht zu sagen, dass er kein Recht auf seine &lt;xg&gt;Gesundheit&lt;/xg&gt; hat, ich helfe nur, wenn ich dazu in der Lage bin. Ich habe die Zeit zu geben, also gebe ich. Wenn ich bei der Wiedergeburt eines Mannes helfen kann, dann ist es meine Pflicht, das auch zu tun.
 
 MÄNNLICH (zur Seite, zu Weiblich): Selbst in ihrer Verkleidung als verletzter erkennt er die Barmherzigkeit. Sein Geist ist willig.
 WEIBLICH (zur Seite, zu Männlich): Selbst jene mit willigem Geist können die Bedürftigen zurückweisen.
