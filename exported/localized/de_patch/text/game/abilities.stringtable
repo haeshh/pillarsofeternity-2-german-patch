@@ -831,7 +831,7 @@
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>Erzeugt Duplikate des Zauberwirkers zur Ablenkung der Feinde und gewährt einen großen Bonus auf Abwehr, der mit jedem erlittenem Treffer verringert wird.</DefaultText>
+      <DefaultText>Erzeugt Duplikate des Zauberwirkers zur Ablenkung der Feinde und gewährt einen großen Bonus auf Abwehr, der mit jedem erlittenem &lt;xg&gt;Treffer&lt;/xg&gt; verringert wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -921,7 +921,7 @@
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>Stellt eine mentale Verbindung zwischen dem Ziel und Feinden in der Nähe her, wodurch sie einen Teil allen Schadens erleiden, der dem Ziel zugefügt wird.</DefaultText>
+      <DefaultText>Stellt eine mentale Verbindung zwischen einem Verbündeten und Feinden in der Nähe her, wodurch sie einen Teil allen Schadens erleiden, der dem Verbündeten zugefügt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1011,7 +1011,7 @@
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>Bewirkt einen Schutzschild aus Magie, der die Abwehr des Zauberers erheblich steigert und ihm Konzentration gewährt. Der Arkane Schleier zeigt keine Wirkung bei schleierdurchdringenden Angriffen oder welchen die mit Schusswaffen ausgeführt werden.</DefaultText>
+      <DefaultText>Beschwört einen Schutzschild aus Magie, der die Abwehr des Zauberers erheblich steigert und ihm Konzentration gewährt. Der Arkane Schleier zeigt keine Wirkung bei schleierdurchdringenden Angriffen oder welchen die mit Schusswaffen ausgeführt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1211,7 +1211,7 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>Der Kämpfer lässt sich nicht besiegen. Wenn der Kämpfer das Bewusstsein verloren hat, steht er mit teilweise geheilter Gesundheit wieder auf. Außerdem erhält er vorübergehende Boni auf alle Verteidigungen und seinen Rüstungswert.</DefaultText>
+      <DefaultText>Der Kämpfer lässt sich nicht besiegen. Wenn der Kämpfer das Bewusstsein verliert, steht er mit teilweise geheilter Gesundheit wieder auf. Außerdem erhält er vorübergehende Boni auf alle Verteidigungen und seinen Rüstungswert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1336,7 +1336,7 @@
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>Führt dazu, dass sich die Wunden eines Feindes im Wirkungsbereich entzünden und bei jedem erlittenen Treffer zusätzlichen Brandschaden zufügen.</DefaultText>
+      <DefaultText>Führt dazu, dass sich die &lt;xg&gt;Wunden&lt;/xg&gt; von Feinden im Wirkungsbereich entzünden und bei jedem erlittenen Treffer zusätzlichen Brandschaden zufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1461,7 +1461,7 @@
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>Erzeugt eine Wolke aus ansteckendem Gift, die jedem innerhalb der Wolke alle paar Sekunden direkten Schaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt eine Wolke aus ansteckendem &lt;xg&gt;Gift&lt;/xg&gt;, die jedem innerhalb der Wolke alle paar Sekunden direkten Schaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1536,7 +1536,7 @@
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>Führt zu einer Explosion mit tödlicher Kraft um den Zauberwirker herum, durch die jeder Feind in unmittelbarer Umgebung Stichschaden erleidet – wobei sein Rüstungswert ignoriert wird.</DefaultText>
+      <DefaultText>Führt zu einer Explosion mit tödlicher Kraft um den Zauberwirker herum, durch die jeder Feind in unmittelbarer Umgebung Stichschaden erleidet – wobei sein Rüstungswert fast gänzlich ignoriert wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1616,7 +1616,7 @@
     </Entry>
     <Entry>
       <ID>483</ID>
-      <DefaultText>Gewährt Verbündeten die Inbrunst des Rechtschaffenden im Kampf, wodurch sie die Inspiration Stark erhalten. Wenn ein Verbündeter im Wirkungsbereich einen tödlichen Schlag ausführt, erhält er dafür Gesundheit.</DefaultText>
+      <DefaultText>Gewährt Verbündeten die Inbrunst des Rechtschaffenden im Kampf, wodurch sie die Inspiration Stark erhalten. Wenn ein Verbündeter im Wirkungsbereich einen tödlichen Schlag ausführt, regeneriert er Gesundheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1676,7 +1676,7 @@
     </Entry>
     <Entry>
       <ID>498</ID>
-      <DefaultText>Der Priester schleudert eine Kugel aus heiligem Feuer auf den Feind, die seinen Schutz aufhebt und seinen Untergang beschleunigt. Fügt kontinuierlich Brandschaden zu und beschleunigt die Zähler aller zuträglichen Effekte sowie aller kontinuierlichen Schadenseffekte auf dem Ziel und springt dann weitere Ziele in der Nähe über.</DefaultText>
+      <DefaultText>Der Priester schleudert eine Kugel aus heiligem Feuer auf den Feind, die seinen Schutz aufhebt und seinen Untergang beschleunigt. Fügt kontinuierlich Brandschaden zu und beschleunigt die Zähler aller zuträglichen Effekte sowie aller kontinuierlichen Schadenseffekte auf dem Ziel und springt dann auf weitere Ziele in der Nähe über.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1706,7 +1706,7 @@
     </Entry>
     <Entry>
       <ID>506</ID>
-      <DefaultText>Entzündet einen mächtigen Eifer in allen Verbündeten, der sich in einer Aura widerspiegelt, durch die alle Feinde in der Nähe Geschockt werden.</DefaultText>
+      <DefaultText>Entzündet einen mächtigen &lt;xg&gt;Eifer&lt;/xg&gt; in allen Verbündeten, der sich in einer Aura widerspiegelt, durch die alle Feinde in der Nähe Geschockt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1961,7 +1961,7 @@
     </Entry>
     <Entry>
       <ID>562</ID>
-      <DefaultText>Verfallener Schädel</DefaultText>
+      <DefaultText>Verfallene Schädel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2146,7 +2146,7 @@
     </Entry>
     <Entry>
       <ID>601</ID>
-      <DefaultText>Zerstört zielgenau die Erinnerung eines Feindes mit berechneter Genauigkeit, wodurch er Verwirrt und Benommen wird, bevor es schnell auf andere Feinde überspringt.</DefaultText>
+      <DefaultText>Zerstört zielgenau die Erinnerung eines Feindes mit berechneter Genauigkeit, wodurch er Verwirrt und Benommen wird, bevor sie schnell auf andere Feinde überspringt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2226,7 +2226,7 @@
     </Entry>
     <Entry>
       <ID>639</ID>
-      <DefaultText>Verstärkt den Brandeffekt bei allen Waffen von Verbündeten.</DefaultText>
+      <DefaultText>Verleiht allen Waffen von Verbündeten einen Brandeffekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2446,7 +2446,7 @@
     </Entry>
     <Entry>
       <ID>726</ID>
-      <DefaultText>Weniger Wunden</DefaultText>
+      <DefaultText>Kleinere Wunden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2611,7 +2611,7 @@
     </Entry>
     <Entry>
       <ID>819</ID>
-      <DefaultText>Lässt schnell einen Busch gewundener Reben wachsen, die jeden umschlängeln und einfangen, der so viel Pech hat, sich darin zu verfangen. Charaktere, die einen Fuß in den Wirkungsbereich setzen erleiden Humpelnd.</DefaultText>
+      <DefaultText>Lässt schnell einen Busch gewundener Reben wachsen, die jeden umschlängeln und einfangen, der so viel Pech hat, sich darin zu verfangen. Charaktere, die einen Fuß in den Wirkungsbereich setzen, leiden unter der Wirkung Humpelnd.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2636,7 +2636,7 @@
     </Entry>
     <Entry>
       <ID>824</ID>
-      <DefaultText>Formt ein mächtiges Schwert mit einer Klinge aus reinem Feuer in den Händen des Zauberwirkers, dessen Brandschaden nicht abgewehrt werden kann. Durch den Wechsel zu einer anderen Waffe endet der Zauber.</DefaultText>
+      <DefaultText>Formt ein mächtiges Schwert mit einer Klinge aus reinem Feuer in den Händen des Zauberwirkers, das Brandschaden verursacht. Durch den Wechsel zu einer anderen Waffe endet der Zauber.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2671,7 +2671,7 @@
     </Entry>
     <Entry>
       <ID>831</ID>
-      <DefaultText>Beschwört ein riesiges Hirschgeweih herauf, das das erste Ziel in seinem Weg angreift, Stichschaden zufügt und einen Malus auf Abwehr und Reflexe bewirkt.</DefaultText>
+      <DefaultText>Beschwört ein riesiges Hirschgeweih herauf, das das erste Ziel auf seinem Weg trifft, Stichschaden zufügt und einen Malus auf Abwehr und Reflexe bewirkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2741,7 +2741,7 @@
     </Entry>
     <Entry>
       <ID>850</ID>
-      <DefaultText>Gewährt dem Zauberwirker Zugriff auf einen „kostenlosen“ Zauber aus dem Zauberbuch des anvisierten Zauberers (Zauberer, Druide oder Priester), wodurch er für eine unbegrenzte Anzahl einen Zauber der Stufe 3 oder niedriger bewirken kann, der sich derzeit nicht in seinem Zauberbuch befindet.</DefaultText>
+      <DefaultText>Gewährt dem Zauberwirker Zugriff auf einen „kostenlosen“ Zauber aus der Zauberauswahl des anvisierten Ziels (Zauberer, Druide oder Priester), wodurch er für eine unbegrenzte Anzahl einen Zauber der Stufe 3 oder niedriger wirken kann, der sich derzeit nicht in seinem Zauberbuch befindet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2921,12 +2921,12 @@
     </Entry>
     <Entry>
       <ID>896</ID>
-      <DefaultText>Ein mächtiger Angriff, der das Ziel über eine beachtliche Entfernung zurückschlägt und es mit dem Effekt Niedergestreckt belegt.</DefaultText>
+      <DefaultText>Ein mächtiger Angriff, der das Ziel eine über beachtliche &lt;xg&gt;Distanz&lt;/xg&gt; zurückwirft und es mit dem Effekt Niedergestreckt belegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>897</ID>
-      <DefaultText>Indem bestimmte Punkte des Gegners anvisiert werden, kann der Mönch körperliche Schwäche hervorrufen. Bei Kritischen Treffern von Nahkampfwaffen wird das Ziel Geschwächt.</DefaultText>
+      <DefaultText>Indem bestimmte Punkte des Gegners anvisiert werden, kann der Mönch körperliche &lt;xg&gt;Schwäche&lt;/xg&gt; hervorrufen. Bei Kritischen Treffern von Nahkampfwaffen wird das Ziel Geschwächt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2936,7 +2936,7 @@
     </Entry>
     <Entry>
       <ID>899</ID>
-      <DefaultText>Der Mönch widmet all seinen Verstand der spirituellen Welt, wodurch er einen Bonus auf Intellekt für jede Wunde, die er besitzt, erhält.</DefaultText>
+      <DefaultText>Der Mönch widmet all seinen Verstand der spirituellen Welt, wodurch er für jede Wunde, die er besitzt, einen Bonus auf Intellekt erhält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2956,7 +2956,7 @@
     </Entry>
     <Entry>
       <ID>903</ID>
-      <DefaultText>Markiert einen Feind als den Fokus der rechtschaffenen Raserei des Paladins. Dadurch gewinnt dieser einen Schadensbonus gegen das Ziel, bis der Kampf endet oder das Ziel zu Boden geht.</DefaultText>
+      <DefaultText>Markiert einen Feind als den &lt;xg&gt;Fokus&lt;/xg&gt; der rechtschaffenen Raserei des Paladins. Dadurch gewinnt dieser einen Schadensbonus gegen das Ziel, bis der Kampf endet oder das Ziel zu Boden geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2966,7 +2966,7 @@
     </Entry>
     <Entry>
       <ID>905</ID>
-      <DefaultText>Der Waldläufer fügt dem Ziel eine Verletzung zu, die dafür sorgt, dass eine Spur hinterlassen wird und die ihm direkten Zeitschaden zufügt.</DefaultText>
+      <DefaultText>Der Waldläufer fügt dem Ziel eine &lt;xg&gt;Verletzung&lt;/xg&gt; zu, die dafür sorgt, dass eine Spur hinterlassen wird und die ihm direkten Schaden über Zeit zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2981,12 +2981,12 @@
     </Entry>
     <Entry>
       <ID>909</ID>
-      <DefaultText>Verstärkt die tierischen Instinkte des tierischen Gefährten des Waldläufers, wodurch sie einen Schadensbonus gegen jegliche Kreatur erhalten, die einen Zeitschadeneffekt erleidet.</DefaultText>
+      <DefaultText>Verstärkt die tierischen Instinkte des tierischen Gefährten des Waldläufers, wodurch er einen Schadensbonus gegen jegliche Kreaturen erhält, die einen Zeitschadeneffekt erleiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>911</ID>
-      <DefaultText>Weist den tierischen Gefährten des Waldläufers an, zu einem Ziel zu preschen damit es Niedergestreckt wird.</DefaultText>
+      <DefaultText>Weist den tierischen Gefährten des Waldläufers an, zu einem Ziel zu preschen, damit es Niedergestreckt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3031,7 +3031,7 @@
     </Entry>
     <Entry>
       <ID>924</ID>
-      <DefaultText>Der Schurke sucht im Kampf nach Gelegenheiten zum Konter. Bei eingehenden Nahkampfangriffen, die auf Abwehr zielen und verfehlen, besteht eine Chance auf einen sofortigen vollen Gegenschlag. (Erfordert eine Nahkampfwaffe)</DefaultText>
+      <DefaultText>Der Schurke sucht im Kampf nach Gelegenheiten zum &lt;xg&gt;Konter&lt;/xg&gt;. Bei eingehenden Nahkampfangriffen, die auf Abwehr zielen und verfehlen, besteht eine Chance auf einen sofortigen vergeltenden vollen Angriff. (Erfordert eine Nahkampfwaffe)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3091,7 +3091,7 @@
     </Entry>
     <Entry>
       <ID>953</ID>
-      <DefaultText>(Weniger Wunden) – Senkt die Wundresistenz des Mönchs, wodurch er oder sie schneller Wunden erleidet.</DefaultText>
+      <DefaultText>(Kleinere Wunden) – Senkt die Wundresistenz des Mönchs, wodurch er oder sie schneller Wunden erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3556,7 +3556,7 @@
     </Entry>
     <Entry>
       <ID>1139</ID>
-      <DefaultText>Erhöht den Schaden, der aus Heimlichkeit oder Unsichtbarkeit verursacht wird, dramatisch. Der Dieb kann Nahkampf- oder Fernkampfwaffen einsetzen, darf sich aber nicht weiter als 2 Meter vom Ziel entfernt befinden.</DefaultText>
+      <DefaultText>Erhöht den Schaden, der aus Heimlichkeit oder Unsichtbarkeit verursacht wird, dramatisch. Der Schurke kann Nahkampf- oder Fernkampfwaffen einsetzen, darf sich aber nicht weiter als 2 Meter vom Ziel entfernt befinden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3566,7 +3566,7 @@
     </Entry>
     <Entry>
       <ID>1143</ID>
-      <DefaultText>Opfert Fernkampf-Angriffsgeschwindigkeit zugunsten erhöhter Durchschlagskraft.</DefaultText>
+      <DefaultText>Opfert Fernkampf-Angriffsgeschwindigkeit zugunsten erhöhter Rüstungsdurchschlagskraft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
