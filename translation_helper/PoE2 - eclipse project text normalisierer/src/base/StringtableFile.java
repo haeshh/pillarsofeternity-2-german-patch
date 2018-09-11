@@ -822,7 +822,7 @@ class Entry {
 		return target;
 	}
 	
-	// 12 * 3 = 36 per language
+	// 12 * 3 + 1 = 37 per language
 	final static String[] replacementWords = new String[] { 
 			// EN
 			// constitution
@@ -833,7 +833,7 @@ class Entry {
 			"(?<!xg>)(Shaken)(\\b|s|ed|ing)", "(?<!xg>)(Frighten)(\\b|s|ed|ing)", "(?<!xg>)(Terrif)(\\b|ies|ied|ying|y)",
 			// dexterity
 			"(?<!xg>)(Quick\\b)", "(?<!xg>)(Nimble)", "(?<!xg>)(Swift)",
-			"(?<!xg>)(Hobbl)(\\b|ed|es|e|ing)", "(?<!xg>)(Immobiliz)(\\b|ed|e|ing)", "(?<!xg>)(Paralyz)(\\b|ed|es|e|ing|ation)",
+			"(?<!xg>)(Hobbl)(\\b|ed|es|e|ing)", "(?<!xg>)(Immobiliz)(\\b|ed|e|ing)", "(?<!xg>)(Paralyz)(\\b|ed|es|e|ing|ation)", "(?<!xg>)(Petrifi)(ing|ed)",
 			// intellect
 			"(?<!xg>)(Smart)", "(?<!xg>)(Acute)", "(?<!xg>)(Brilliant)",
 			"(?<!xg>)(Confus)(\\b|ed|es|e|ing)", "(?<!xg>)(Charm)(\\b|ed|ing)", "(?<!xg>)(Dominat)(\\b|ed|es|e|ing)",
@@ -854,7 +854,7 @@ class Entry {
 			"(?<!xg>)(Geschockt)(e|\\b)", "(?<!xg>)(Verängstig)(te|t|en)", "(?<!xg>)([Ee]rschütter)(ter|t|n)",
 			// Gewandheit
 			"(?<!xg>)(Schnelle?n?)", "(?<!xg>)(Flink(e)?)", "(?<!xg>)(Schwungvoll(e)?)",
-			"(?<!xg>)(Humpeln)(\\b|d\\b|de)", "(?<!xg>)(Bewegungsunfähig)(e|\\b)", "(?<!xg>)(G?e?[Ll]ähmt)(er|e|\\b)",
+			"(?<!xg>)(Humpeln)(\\b|d\\b|de)", "(?<!xg>)(Bewegungsunfähig)(e|\\b)", "(?<!xg>)(G?e?[Ll]ähmt)(er|e|\\b)", "(?<!xg>)(Versteiner)(ung|n|t|)",
 			// Intellekt
 			"(?<!xg>)(Klug(e)?)", "(?<!xg>)(Scharfsinnig(e)?)", "(?<!xg>)(Brillant(e)?)",
 			"(?<!xg>)(Verwirrt)(e|\\b)", "(?<!xg>)(Bezaubert)(er|e|\\b)", "(?<!xg>)(Beherrscht)(e|\\b)",
@@ -863,7 +863,7 @@ class Entry {
 			"(?<!xg>)(Taumeln)(de|d|\\b)", "(?<!xg>)(Benommen)(e|heit|\\b)", "(?<!xg>)(Betäub)(ung|en|te|t)",
 			// Wahrnehmung
 			"(?<!xg>)(Einsichtig(e)?)", "(?<!xg>)(Aufmerksam(e)?)", "(?<!xg>)(Intuitiv(e)?)",
-			"(?<!xg>)(Abgelenkt|Ablenkenden)(er|e|\\b)", "(?<!xg>)(Desorientier)(te|t|render|\\b)", "(?<!xg>)(G?e?blende|[Ee]rblinde)(te|t|n(?!d))",
+			"(?<!xg>)(Abgelenkt|Ablenkenden)(er|e|\\b)", "(?<!xg>)(Desorientier)(te|t|ender|\\b)", "(?<!xg>)(G?e?blende|[Ee]rblinde)(te|t|n(?!d))",
 			
 			
 			// FR
@@ -877,7 +877,7 @@ class Entry {
 						
 			// Dextérité
 			"(?<!xg>)(Célérité)", "(?<!xg>)(Agilité)", "(?<!xg>)(Vélocité)",
-			"(?<!xg>)(Entrave)(\\b)", "(?<!xg>)([iI]mmobilis)(ation|e)", "(?<!xg>)([pP]aralysi?e)(r|\\b)",
+			"(?<!xg>)(Entrave)(\\b)", "(?<!xg>)([iI]mmobilis)(ation|e)", "(?<!xg>)([pP]aralysi?e)(r|\\b)", "(?<!xg>)(xxxx)(\\b)",
 
 			// Intelligence
 			"(?<!xg>)(Sagacité)", "(?<!xg>)(Astuce)", "(?<!xg>)(Perspicacité)",
@@ -903,7 +903,7 @@ class Entry {
 			
 			// Destrezza
 			"(?<!xg>)(Velocizza(ndoli|nte|ndo|to)|Veloc[ei])(?!tà)", "(?<!xg>)(Lest[io])", "(?<!xg>)(Rapid[io])",
-			"(?<!xg>)(Azzoppa)(ndoli|ndo|to|re|ti|no|\\b)", "(?<!xg>)(Immobilizza)(ndolo|ndo|no|to|re)", "(?<!xg>)(Parali)(zzando|zzano|zzandoli|zzato|si|zza)",
+			"(?<!xg>)(Azzoppa)(ndoli|ndo|to|re|ti|no|\\b)", "(?<!xg>)(Immobilizza)(ndolo|ndo|no|to|re)", "(?<!xg>)(Parali)(zzando|zzano|zzandoli|zzato|si|zza)", "(?<!xg>)(xxxx)(\\b)",
 			 
 			// Acume
 			"(?<!xg>)(Argut[io])", "(?<!xg>)(Perspicac[ie])", "(?<!xg>)(Brillant[ie])",
@@ -929,7 +929,7 @@ class Entry {
 			
 			// Destreza
 			"(?<!xg>)(Rápido)", "(?<!xg>)(Sagaz)", "(?<!xg>)(Veloz)",
-			"(?<!xg>)(Atrapado)(\\b)", "(?<!xg>)(Inmovilizado)(\\b)", "(?<!xg>)(Paralizado)(\\b)",
+			"(?<!xg>)(Atrapado)(\\b)", "(?<!xg>)(Inmovilizado)(\\b)", "(?<!xg>)(Paralizado)(\\b)", "(?<!xg>)(xxxx)(\\b)",
 			
 			// Intelecto
 			"(?<!xg>)(Inteligente)", "(?<!xg>)(Agudo)", "(?<!xg>)(Brillante)",
@@ -955,7 +955,7 @@ class Entry {
 			
 			// Destreza
 			"(?<!xg>)(Rápido)", "(?<!xg>)(Ágil)", "(?<!xg>)(Veloz)",
-			"(?<!xg>)(Mancando)(\\b)", "(?<!xg>)(Imobilizado)(\\b)", "(?<!xg>)(Paralisado)(\\b)",
+			"(?<!xg>)(Mancando)(\\b)", "(?<!xg>)(Imobilizado)(\\b)", "(?<!xg>)(Paralisado)(\\b)", "(?<!xg>)(xxxx)(\\b)",
 			
 			// Intelecto
 			"(?<!xg>)(Esperto)", "(?<!xg>)(Sagaz)", "(?<!xg>)(Brilhante)",
@@ -982,7 +982,7 @@ class Entry {
            
             // zręczności
             "(?<!xg>)(szybkoś(ć|ci))(?! ataku)", "(?<!xg>)(lotnoś(c|ci))", "(?<!xg>)(zwinnoś(ć|ci))",
-            "(?<!xg>)(okulawieni)(e|a)", "(?<!xg>)(unieruch)(omieni(\\b|e|a)|omion(e|y)|amiając|amia(\\b|ją))", "(?<!xg>)([sS]?parali)(ż|żowany|żując|żuje|żują|żowanie)",
+            "(?<!xg>)(okulawieni)(e|a)", "(?<!xg>)(unieruch)(omieni(\\b|e|a)|omion(e|y)|amiając|amia(\\b|ją))", "(?<!xg>)([sS]?parali)(ż|żowany|żując|żuje|żują|żowanie)", "(?<!xg>)(xxxx)(\\b)",
            
             // intelektu
             "(?<!xg>)(mądroś(ć|ci))", "(?<!xg>)(bystroś(ć|ci))", "(?<!xg>)(geniusz(u))",
@@ -1009,7 +1009,7 @@ class Entry {
 			
 			// Ловкость
 			"(?<!xg>)(быстрота)", "(?<!xg>)(проворство)", "(?<!xg>)(стремительность)",
-			"(?<!xg>)(хромота)(\\b)", "(?<!xg>)(обездвиженность)(\\b)", "(?<!xg>)(паралич)(\\b)",
+			"(?<!xg>)(хромота)(\\b)", "(?<!xg>)(обездвиженность)(\\b)", "(?<!xg>)(паралич)(\\b)", "(?<!xg>)(xxxx)(\\b)",
 			
 			// Интеллект
 			"(?<!xg>)(ум)", "(?<!xg>)(сообразительность)", "(?<!xg>)(мудрость)",
@@ -1035,7 +1035,7 @@ class Entry {
 			
 			// 敏捷
 			"(?<!xg>)(快速)", "(?<!xg>)(灵巧)", "(?<!xg>)(身轻如燕)",
-			"(?<!xg>)(蹒跚)(\\b)", "(?<!xg>)(定身)(\\b)", "(?<!xg>)(麻痹)(\\b)",
+			"(?<!xg>)(蹒跚)(\\b)", "(?<!xg>)(定身)(\\b)", "(?<!xg>)(麻痹)(\\b)", "(?<!xg>)(xxxx)(\\b)",
 			
 			// 智力
 			"(?<!xg>)(聪慧)", "(?<!xg>)(聪慧)", "(?<!xg>)(才智过人)",
@@ -1077,7 +1077,8 @@ class Entry {
 		"<nobr><link=\"glossary://GlossaryEntry_Hobbled\"><#72da26>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_dexterity\" tint=1><space=0.3em><voffset=-0.35em><size=80%><font=\"EspinosaNova-Regular SDF\"><b>1</b></font></size></voffset></color></link></nobr>",
 		"<nobr><link=\"glossary://GlossaryEntry_Immobilized\"><#72da26>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_dexterity\" tint=1><space=0.3em><voffset=-0.35em><size=80%><b>2</b></size></voffset></color></link></nobr>",
 		"<nobr><link=\"glossary://GlossaryEntry_Paralyzed\"><#72da26>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_dexterity\" tint=1><space=0.3em><voffset=-0.35em><size=80%><b>3</b></size></voffset></color></link></nobr>",
-	                                 
+		"<nobr><link=\"glossary://GlossaryEntry_Petrified\"><#72da26>$1$2<space=0.7em><sprite=\"Inline\" name=\"attribute_dexterity\" tint=1><space=0.3em><voffset=-0.35em><size=80%><b>3+</b></size></voffset></color></link></nobr>",
+		
 		"<nobr><link=\"glossary://GlossaryEntry_Smart\"><#00a4ff>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_intellect\" tint=1><space=0.3em><voffset=0.35em><size=80%><font=\"EspinosaNova-Regular SDF\"><b>1</b></font></size></voffset></color></link></nobr>",
 		"<nobr><link=\"glossary://GlossaryEntry_Acute\"><#00a4ff>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_intellect\" tint=1><space=0.3em><voffset=0.35em><size=80%><b>2</b></size></voffset></color></link></nobr>",
 		"<nobr><link=\"glossary://GlossaryEntry_Brilliant\"><#00a4ff>$1<space=0.7em><sprite=\"Inline\" name=\"attribute_intellect\" tint=1><space=0.3em><voffset=0.35em><size=80%><b>3</b></size></voffset></color></link></nobr>",
@@ -1312,7 +1313,7 @@ class Entry {
 			
 			// DE
 			"(?<!xg>)(Brand-?|Brandzeit|Brandflächen|[Vv]erbrennt|Feuer)(sch[aä]den|effekt|angriffen?|\\b)",
-			"(?<!xg>)(Zersetzung-?)(ssch[aä]den|\\b)",
+			"(?<!xg>)(Zersetzung-?)(ssch[aä]den|s-|\\b)",
 			"(?<!xg>)(Wucht-?)(sch[aä]den|\\b)",
 			"(?<!xg>)(Frost-?|Eislanzen)(sch[aä]den|angriffen?|\\b)",
 			"(?<!xg>)(Stich-?)(sch[aä]den|\\b)",
@@ -1323,11 +1324,11 @@ class Entry {
 			//fr
 			"(?<!xg>)([bB]rûl|feu)(ants?|ure|e|\\b)",
 			"(?<!xg>)([cC]orrosif)(s|\\b)",
-			"(?<!xg>)([cC]ontondant)(es|e|\\b)",
+			"(?<!xg>)([cC]ontondant)(es|s|e|\\b)",
 			"(?<!xg>)([gG]ivrant|givre)(s|\\b)",
 			"(?<!xg>)([pP]erforant)(es|e|\\b)",
 			"(?<!xg>)(bruts)(\\b)",
-			"(?<!xg>)(lacérante?s|[tT]ranchante?s?)(\\b)",
+			"(?<!xg>)([tT]ranchante?s?)(\\b)",
 			"(?<!xg>)([éÉ]lectrique)(s|\\b)",
 			
 			//it            
@@ -1459,12 +1460,12 @@ class Entry {
 			
 			// DE 
 			"(?<!xg>)(Tapferkeitsverteidigung|Tapferkeit)", 
-			"(?<!xg>)(Abwehr)", 
+			"(?<!xg>)(Abwehr|Schildabwehr)", 
 			"(?<!xg>)(Reflexe|Reflexverteidigung)",
 			"(?<!xg>)(Willen?\\b|Willensverteidigung)",
 			"(?<!xg>)(Durchschlag|Durchschlagskraft)",
 			"(?<!xg>)(RW|Rüstungswert)",
-			"(?<!xg>)(Nahkampfgenauigkeit|Fernkampfgenauigkeit|Schussgenauigkeit|Genauigkeit)",
+			"(?<!xg>)(Nahkampfwaffengenauigkeit|Nahkampfgenauigkeit|Fernkampfwaffengenauigkeit|Fernkampfgenauigkeit|Schussgenauigkeit|Genauigkeit)",
 			"(?<!xg>)(Gesundheit|Heilungskreis|Heilung|Heileffekte?)",
 			
 			//fr

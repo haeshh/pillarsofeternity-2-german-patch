@@ -104,11 +104,12 @@ public class Cleanup {
 		filesInFolder = Files.walk(Paths.get(baseFolderDeFiles + "\\exported\\localized\\de_patch\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
 		// Für Aurelio, Alle Markups kicken
 		//cleanup.stripMarkup(filesInFolder, jaxbUnmarshaller,marshaller, "de_from_xaratas_no_markup");
-		//cleanup.formatText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
+		cleanup.formatText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
 		//Nope, not working cleanup.splitupText(convertingBase, filesInFolder, "de_patch", jaxbUnmarshaller, marshaller);
 		
-		filesInFolder = Files.walk(Paths.get(baseGameFolder + "\\exported\\localized\\fr\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
-		cleanup.formatText(convertingBase, filesInFolder, "fr", jaxbUnmarshaller,marshaller);
+		// Fr fix von r.e.d.
+		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\fr-fixed\\text\\")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+		//cleanup.formatText(convertingBase, filesInFolder, "fr-fixed", jaxbUnmarshaller,marshaller);
 		
 		// It fix von Kilay
 		filesInFolder = Files.walk(Paths.get(baseFolderEnhanchedUiRepo + "\\localized\\it\\text\\game")).filter(Files::isRegularFile).sorted().collect(Collectors.toList());
