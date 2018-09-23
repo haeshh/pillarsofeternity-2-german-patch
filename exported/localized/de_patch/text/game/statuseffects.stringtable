@@ -1271,7 +1271,7 @@
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>{0:value:percent} Chance, dass sich der Schuss teilt und {0:extravalue:straight} Geschosse abgefeuert werden</DefaultText>
+      <DefaultText>{0:extravalue:percent} Chance, dass sich der Schuss teilt und {0:value:straight} Geschosse abgefeuert werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2746,7 +2746,7 @@
     </Entry>
     <Entry>
       <ID>667</ID>
-      <DefaultText>{0:value} Chance bei Erhalt von Schaden die Inspiration Brillant zu erhalten</DefaultText>
+      <DefaultText>{0:value:percent} Chance bei Erhalt von Schaden die Inspiration Brillant zu erhalten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
