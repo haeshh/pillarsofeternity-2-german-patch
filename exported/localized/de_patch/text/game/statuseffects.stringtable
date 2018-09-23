@@ -1381,7 +1381,7 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Chance, dass das Ziel bei einem kritischen Treffer für 12,0 Sekunden erkrankt. Tapferkeit wirkt dem entgegen.</DefaultText>
+      <DefaultText>Chance, dass das Ziel bei einem kritischen Treffer für {0:extravalue:duration} erkrankt (Tapferkeit wirkt dem entgegen)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
