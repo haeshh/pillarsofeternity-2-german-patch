@@ -1136,7 +1136,7 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>{0:value} Genauigkeit für alle Waffen für {0:extravalue:duration} Sekunden bei einem erzielten Treffer. (Kann {0:triggercount}-mal gestapelt werden)</DefaultText>
+      <DefaultText>{0:value} Genauigkeit für alle Waffen für {0:extravalue:duration} Sekunden bei einem erzielten Treffer (Kann {0:triggercount}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2571,7 +2571,7 @@
     </Entry>
     <Entry>
       <ID>576</ID>
-      <DefaultText>Brandflächenschaden alle {0:interval}.</DefaultText>
+      <DefaultText>Brandflächenschaden alle {0:interval}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2606,12 +2606,12 @@
     </Entry>
     <Entry>
       <ID>588</ID>
-      <DefaultText>Gewährt die Inspiration Aufmerksam für {0:value:duration}, wenn ein naher Verbündeter einen Feind tötet.</DefaultText>
+      <DefaultText>Gewährt die Inspiration Aufmerksam für {0:value:duration}, wenn ein naher Verbündeter einen Feind tötet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText>{0:value:percent} Chance bei Treffer mit Angriffen von Magrans Segnung zu unterbrechen.</DefaultText>
+      <DefaultText>{0:value:percent} Chance bei Treffer mit Angriffen von Magrans Segnung zu unterbrechen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
