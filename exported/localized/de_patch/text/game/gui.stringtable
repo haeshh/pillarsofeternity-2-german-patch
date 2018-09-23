@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4464</EntryCount>
+  <EntryCount>4468</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -22787,7 +22787,27 @@ Du hast die Möglichkeit, die Workshop-Seite des Mods zu überprüfen, bevor sie
     </Entry>
     <Entry>
       <ID>5016</ID>
-      <DefaultText />
+      <DefaultText>Schließe jede kritische Pfadquast for einem bestimmten Datum oder vor Spielende ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5031</ID>
+      <DefaultText>Sucher, Schlächter, Überlebender – Installiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5032</ID>
+      <DefaultText>Sucher, Schlächter, Überlebender – Nicht installiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5035</ID>
+      <DefaultText>{0} rekrutieren?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5036</ID>
+      <DefaultText>Ohne Ausrüstung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
