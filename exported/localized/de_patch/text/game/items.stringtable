@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2910</EntryCount>
+  <EntryCount>2899</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -12447,32 +12447,6 @@ Du bist nicht sicher, woher die Augenklappe stammt, sie stinkt aber nach Rum.</D
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>4349</ID>
-      <DefaultText>Ingimyrks Rachen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4350</ID>
-      <DefaultText>Die alte Wölfin Ingimyrk pirschte eine Generation lang an den nördlichen Küsten des Ewigen Weißes und lauerte sowohl Gestandenen als auch Tieren auf. Die große, graue Jägerin schien wie ein Monster aus einer Legende, so flink wie der Wind und intelligent genug, um ihre Bewegungen mit dem Wetter zu verschleiern – ein Schatten in einem Schneesturm.
-
-Nachdem sein Vetter den Reißzähnen der Bestie zum Opfer gefallen war, ging der Held Jyrfe hinaus, um zu beweisen, dass er stärker war als der Sturm. Er verfolgte die Wölfin durch das Ewige Weiß, fand Unterschlupf bei Stämmen, die es bereits mit der Jägerin zu tun bekommen hatten, und sprach mit jenen, die Verwandte an Ingimyrk verloren hatten. Er studierte die Kreatur, wie man einen Feind studiert, und sammelte Erzählungen über ihre Angriffe. Mithilfe seiner gesammelten Informationen erkannte der Glamfellen, was niemand anderem aufgefallen war – jene, die von Ingimyrk getötet wurden, waren fast immer wichtige Persönlichkeiten ihrer Stämme.
-
-Jyrfe begab sich auf seine letzte Jagd, wobei seine Aufmerksamkeit einem der Händler galt, der zwischen den Lagern in den südlichen Landen verkehrte. Er kehrte mit einem Arm weniger zurück, brachte jedoch Ingimyrks Kopf als Entschädigung mit.
-
-Er machte daraus einen Helm, den er bis zu seinem Lebensende trug. Er vermachte ihn seiner Tochter Frygn, die später das Todesfeuer bereiste und die Legenden jener Lande aufzeichnete. Wenn sie zur ungewöhnlichen Kopfbedeckung befragt wurde, sprach Frygn ausführlich über die vielen Taten ihres Vaters, jedoch niemals über die Wölfin Ingimyrk. Einige Jagden, sagte sie, bleiben am besten unbesungen.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4351</ID>
-      <DefaultText>Umhänge wie dieser waren einst bei den erfahrensten Fischern und Haijägern der Huana-Stämme geläufig. Sie wurden aus Schichten dicker Robbenhäute genäht und zum Schutz vor den Elementen eingeölt. Sie dienten nicht nur dem praktischen Zweck, den Träger relativ warm und trocken zu halten und ihn von zuschnappenden Zähnen und peitschenden Tentakeln zu schützen, sondern waren auch ein Statussymbol: Wer in diese Häute gekleidet war, hatte sich in Ngatis unbarmherziges Reich vorgewagt, um den Stamm zu versorgen. Dieser spezifischer Umhang trägt die Spuren jahrelangen schweren Gebrauchs. Seine Nähte sind ausgefranst und seine Ränder zerfetzt. Trotz der deutlichen Abnutzung schützt der zähe Aufbau dieses Mantels immer noch vor Wasser und Kälte.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4352</ID>
-      <DefaultText>Hakoris Zuflucht</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>4353</ID>
       <DefaultText>Hörner</DefaultText>
       <FemaleText />
@@ -12500,11 +12474,6 @@ Er machte daraus einen Helm, den er bis zu seinem Lebensende trug. Er vermachte 
     <Entry>
       <ID>4358</ID>
       <DefaultText>Dieser Schlüssel wurde von Marihi, der Inhaberin von Marihis Metallschmiede in Perikis Aussichtspunkt erworben.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4359</ID>
-      <DefaultText>Schmelztiegel-Zeichen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12591,30 +12560,6 @@ Ironischerweise stellte Edér fest, dass sein Glaube in Eothas stärker wurde, n
     <Entry>
       <ID>4378</ID>
       <DefaultText>Dieses merkwürdige Nahrungsmittel ist eine Segnung von Hylea, weil du dein Versprechen ihr gegenüber eingehalten hast. Diese Nahrung wird dich wohl versorgen und trägt den Segen der Göttin.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4379</ID>
-      <DefaultText>Kāhako Nihi</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4380</ID>
-      <DefaultText>Selbst das Anlegen dieses Brigantinenumhangs erfordert viel Geschick. Seine gezackten Metallplatten ragen in seltsamen Winkeln zwischen Schichten eines ausgefransten Gambesons und punktiertem Leder hervor und verleihen der Rüstung ein raues, fast schäbiges Aussehen. Die scharfen Kanten sind jedoch ein Segen in den engen Grubenkämpfen und zerfetzen jeden Feind, der zu nahe kommt, oder beschädigen seine Waffe.
-
-Osara Haru, eine wohlhabende Anteilseignerin der Königlichen Todesfeuer-Gesellschaft und unerschrockene Schirmherrin des Schmelztiegels, gab Kāhako Nihi in ihrem Heimatland für eine Kämpferin in Auftrag, an der sie ein besonderes Interesse hatte, nur um herauszufinden, dass die Frau im Kampf gegen einen Drachen umgekommen war, bevor die Winde Harus Rückkehr ermöglichten. Haru war nicht bereit, Ressourcen zu vergeuden, und bot die Rüstung als Preis jenem Gladiator an, der ihr den Kopf des Drachens bringen würde.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4381</ID>
-      <DefaultText>Die beste Verteidigung</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4382</ID>
-      <DefaultText>Die blutrünstigen Wettkämpfer des Schmelztiegels waren für den Entwurf dieses brutalen Faustschilds verantwortlich. Ein mit Widerhaken versehener Stahldorn ragt aus der Mitte hervor und soll Platten, Ketten und Haut durchdringen, und die Blutflecken auf dem Schild lassen sich nicht entfernen, ganz egal wie oft man diesen schrubbt. Beim Anblick des Faustschilds zucken Kämpfer angsterfüllt zusammen und sanftmütigere Zuschauer verziehen das Gesicht, denn der Schild ruft ungewollte Erinnerungen an Erzählungen über scheinbar verlorene Kämpfe hervor, deren Ausgang durch einen rechtzeitig ausgeführten Schildschlag in Bauch, Leiste oder Auge gewendet wurde.
-
-Obwohl niemand zu wissen scheint, wer diesen Faustschild ursprünglich hergestellt hat, bezeugen die Bewohner von Kazuwari, dass er in im Lauf der Jahre von dutzenden Kämpfern in der Arena geführt wurde. Dass du den Schild geerbt hast, lässt vermuten, dass seine vorherigen Besitzer die grausame letzte Lektion des Schmelztiegels gelernt haben: Selbst die Kämpfer mit den besten Waffen zollen irgendwann der Grube Tribut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12814,18 +12759,6 @@ Solltest du die Mühe des Anstiegs nicht scheuen, könnte der Palast über Schla
 
 Mit freundlichen Grüßen
 Königin Onekaza II</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>4424</ID>
-      <DefaultText>Hüter der Flamme</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4425</ID>
-      <DefaultText>Moderne Magran-Priester bevorzugen Schwerter und Feuerwaffen, doch einige frühere Magranit-Krieger in Groß-Vailia trugen sogenannte Weihrauchfässer als Bewaffnung – robuste Rauchfässer, die an einem einfachen Griff über eine Kettenlänge hingen. Weihrauchfässer verbrannten eine Mischung aus Olivenöl und Rauchwerk, die sich über dem unglücklichen Ziel des magranitischen Zorns ergoss. Der Brennstoff spritzte fast unvermeidlich auch auf den Schwenker selbst – eine Buße, die von den Anbetern der Göttin der Flamme jedoch bereitwillig als Beweis ihrer Hingabe akzeptiert wurde.
-
-Obwohl einige Magran-Tempel auch weiterhin Weihrauchfässer im Rahmen von Ritualen verwenden, so gibt es nur noch wenige Beispiele für ihren Einsatz im Kampf.</DefaultText>
-      <FemaleText />
     </Entry>
     <Entry>
       <ID>4426</ID>
