@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\recipes</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>597</EntryCount>
+  <EntryCount>610</EntryCount>
   <Entries>
     <Entry>
       <ID>6</ID>
@@ -1251,7 +1251,7 @@
     </Entry>
     <Entry>
       <ID>418</ID>
-      <DefaultText>Calmos Fluch entfernen</DefaultText>
+      <DefaultText>Gebrochener Fluch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2921,7 +2921,7 @@
     </Entry>
     <Entry>
       <ID>798</ID>
-      <DefaultText>Flüstern der Toten entfernen</DefaultText>
+      <DefaultText>Stille des Todes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2965,11 +2965,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>816</ID>
-      <DefaultText>Mythisch</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>819</ID>
       <DefaultText>Gemäßigte Wut</DefaultText>
       <FemaleText />
@@ -2987,6 +2982,76 @@
     <Entry>
       <ID>822</ID>
       <DefaultText>Mutwilliges Blut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>823</ID>
+      <DefaultText>Wölfische Beharrlichkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>824</ID>
+      <DefaultText>Wölfische Wildheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>825</ID>
+      <DefaultText>Blutiges Chaos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>826</ID>
+      <DefaultText>Blutige Dynamik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>827</ID>
+      <DefaultText>Zeitlose Flamme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>828</ID>
+      <DefaultText>Zeitlose Beharrlichkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>829</ID>
+      <DefaultText>Symbol des Mutes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>830</ID>
+      <DefaultText>Leuchtfeuer der Inspiration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>831</ID>
+      <DefaultText>Reparieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>832</ID>
+      <DefaultText>Geringere Reparaturen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>833</ID>
+      <DefaultText>Moderate Reparaturen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>834</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>835</ID>
+      <DefaultText>Größere Reparaturen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>836</ID>
+      <DefaultText>Reparieren</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
