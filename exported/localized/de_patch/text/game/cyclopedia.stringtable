@@ -558,7 +558,7 @@ Es wird eine Zahl zwischen 1 und 100 generiert und zu der Differenz zwischen Gen
 
 In einem ausgeglichenen Angriff-/Verteidigung-Szenario werden die meisten Angriffe Treffer oder Fehlschläge sein. Wenn die Genauigkeit über der Verteidigung liegt, ist die Wahrscheinlichkeit von Kritischen Treffern höher. Wenn die Verteidigung über der Genauigkeit liegt, ist die Wahrscheinlichkeit von Fehlschlägen höher.
 
-Standardmäßig sind nur einige Angriffe zum Streifen in der Lage, außer wenn eine Fähigkeit oder ein Effekt dies andernfalls erlauben würden. Wenn ein Angriff in der Streif-Reichweite landet, aber nicht Streifen kann, wird er zu einem Fehlschlag.</DefaultText>
+Standardmäßig sind nur einige Angriffe in der Lage einen Leichten Treffer zu landen, außer wenn eine Fähigkeit oder ein Effekt dies andernfalls erlauben würden. Wenn ein Angriff im Wertebereich von Leichten Treffern landet, aber diese nicht erzielen kann, wird er zu einem Fehlschlag.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
