@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_face_seeker</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Das Suchende Gesicht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde ein &lt;b&gt;Artefakt des Suchers&lt;/b&gt; in der &lt;b&gt;Kōhatekana-Weite.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Erringe den Sieg bei der &lt;b&gt;Pfad des Suchenden&lt;/b&gt;-Prüfungsreihe im Schmelztiegel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;b&gt;Besiege die Stillen Fünf&lt;/b&gt; und werde zum Auserwählten des Suchenden Gesichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Wenn ich mir die Gunst des Suchenden Gesichts sichern will, muss ich die Forderungen der rätselhaften Statue erfüllen und den Sieg bei den &lt;b&gt;Sucher-Herausforderungen im Schmelztiegel&lt;/b&gt; erringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viele Möchtegern-Sucher verschwinden in der Kōhatekana-Weite – ein dichter Wald an der &lt;b&gt;Westküste von Kazuwari&lt;/b&gt;. Wenn ich mit einem &lt;b&gt;Artefakt der verlorenen Anwärter&lt;/b&gt;, die vor mir kamen, zurückkomme, werde ich die Gunst des Suchenden Gesichts erlangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Tief in der Kōhatekana-Weite habe ich den Schädel eines verstorbenen Forschers entdeckt, der vor Seelenenergie leuchtet.
+
+Ich sollte dieses Artefakt zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurückbringen, damit der Schmelztiegel die Erinnerungen aus diesem Gegenstand ziehen und Kämpfe aus diesen Eindrücken schmieden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe ein Artefakt entdeckt, das für das Suchende Gesicht von Bedeutung ist, und es dem Becken der Erinnerungen übergeben, wodurch ich mich für die Herausforderungen des Suchers qualifizierte.
+
+Ich kann nun den &lt;b&gt;Pfad des Suchers&lt;/b&gt; beschreiten, eine Reihe von Kämpfen, die weniger mit fairem Kampf zu tun haben als damit, &lt;b&gt;Feinde durch List zu besiegen&lt;/b&gt;. Wenn ich siegreich bin, werde ich die weitere Gunst des Suchenden Gesichts erlangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Meine Heldentaten im Schmelztiegel haben mir ein hohes Ansehen in den vielen Augen des Suchenden Gesichts verschafft.
+
+Nur ein anderes Rudel, die &lt;b&gt;Stillen Fünf&lt;/b&gt;, genießt das gleiche Ansehen. Wenn ich sie im Schmelztiegel besiegen kann, werde ich zum Auserwählten des Suchenden Gesichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die Kōhatekana-Weite an der Westküste von Kazuwari wird von Spinnen, dem auserwählten Tier des Suchenden Gesichts, überrannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Mein Weg hat sich mit dem einer anderen Gruppe von Anwärtern gekreuzt, welche ebenfalls die Gunst des Suchers erstreben – &lt;b&gt;die Stillen Fünf&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Stillen Fünf besiegt und wurde vom Suchenden Gesicht auserwählt. Ich sollte zur &lt;b&gt;Kammer der Erinnerungen&lt;/b&gt; zurückkehren, um zu sehen, welche weiteren Prüfungen auf mich warten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

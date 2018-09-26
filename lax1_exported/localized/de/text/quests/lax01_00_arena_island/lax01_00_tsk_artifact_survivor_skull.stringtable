@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_survivor_skull</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Suche des Überlebenden Gesichts nach dem Schädel der Matrone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beschaffe den &lt;b&gt;Schädel der Matrone&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bring den &lt;b&gt;Schädel der Matrone&lt;/b&gt; zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Das Überlebende Gesicht möchte, dass ich nach &lt;b&gt;Neketaka&lt;/b&gt; reise und nach jemandem oder etwas suche, das &lt;b&gt;fortbesteht, ohne zu überleben&lt;/b&gt;. Ich kann das Fundstück zurückbringen und dafür die Gunst des Keilers erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Engari entdeckte, dass der gesuchte Gegenstand zwischen den &lt;b&gt;Altären des Todes&lt;/b&gt; in Neketaka zu finden sei. Damit sind wahrscheinlich die &lt;b&gt;Grabkammern&lt;/b&gt; der Stadt gemeint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe den Schädel der Matrone in den hängenden Grabkammern gefunden – jedoch nicht ohne einige unerwartete Schwierigkeiten. Um auf seine spirituelle Geschichte zuzugreifen, muss ich ihn in das &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; legen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe den Schädel der Matrone in das Becken der Erinnerungen gelegt und dadurch weitere Herausforderungen im Schmelztiegel freigeschaltet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

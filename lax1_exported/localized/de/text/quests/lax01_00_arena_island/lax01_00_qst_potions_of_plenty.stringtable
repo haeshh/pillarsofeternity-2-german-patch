@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_potions_of_plenty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Tränke des Überflusses</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trage Neales &lt;b&gt;instabile Spule&lt;/b&gt; in Schmelztiegel-Kämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre mit der &lt;b&gt;instabilen Spule&lt;/b&gt; zu &lt;b&gt;Neale&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;b&gt;Kämpfe&lt;/b&gt; im Schmelztiegel, während du Neales &lt;b&gt;weniger instabile Spule&lt;/b&gt; trägst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre mit der &lt;b&gt;weniger instabilen Spule&lt;/b&gt; zu &lt;b&gt;Neale&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Trage Neales &lt;b&gt;am wenigsten instabile Spule&lt;/b&gt; bei den &lt;b&gt;härtesten Herausforderungen&lt;/b&gt; der Arena.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kehre mit der &lt;b&gt;am wenigsten instabilen Spule&lt;/b&gt; zu &lt;b&gt;Neale&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Neale, der Trankverkäufer der Arena, arbeitet an einem Projekt in Bezug auf Kazuwaris im Überfluss vorhandener Seelenessenz. Er sicherte sich meine Hilfe als Forschungsassistent und Probensammler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Neale möchte, dass ich einen &lt;b&gt;besonderen Gürtel&lt;/b&gt; in den &lt;b&gt;Kämpfen&lt;/b&gt; im Schmelztiegel trage. Mit dieser Vorrichtung kann ich Proben der Seelenessenz in der Umgebung sammeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Es ist mir gelungen, eine ausreichende Menge an Seelenessenz zu sammeln. Neale dürfte erfreut sein, wenn ich ihm den vollständig aufgeladenen Gürtel präsentiere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Wenn ich den verbesserten Gürtel trage, bedeutet dies, dass ich mich &lt;b&gt;härteren Herausforderungen&lt;/b&gt; stellen muss, um Seelenessenz zu sammeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Es ist mir gelungen, den &lt;b&gt;verbesserten Gürtel&lt;/b&gt; mit Essenz zu füllen. &lt;b&gt;Neale&lt;/b&gt; sollte mit den Ergebnissen zufrieden sein, wenn ich ihm das Gerät zeige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Unsere Arbeit ist fast getan. Neale möchte das vollständige Potenzial seiner Forschung testen, indem ich Seelenessenz während der &lt;b&gt;schwierigsten Herausforderungen&lt;/b&gt; der Arena sammle. Wie zuvor muss ich auch hier den &lt;b&gt;Gürtel&lt;/b&gt; während dieser Kämpfe tragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Die Sammlung von Essenzproben ist abgeschlossen. &lt;b&gt;Neale&lt;/b&gt; dürfte erfreut sein, wenn ich ihm den &lt;b&gt;vollständig aufgeladenen Forschungsgürtel&lt;/b&gt; zurückbringe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Neale schenkte mir diesen einzigartigen Gürtel, zuversichtlich, dass ich sein Vertrauen nicht missbrauchen würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Neale erwähnte, dass der Gürtel instabil sei und möglicherweise Energie ausstoßen kann, wenn der Träger schwer getroffen oder niedergeschlagen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Der Gürtel hat etwas Essenz aufgenommen. Er fühlt sich irgendwie schwerer an, fast voll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Der Gürtel nimmt Energie aus der Arena auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Der Gürtel ist schon fast mit Seelenessenz gefüllt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Der Gürtel nimmt Essenz auf, ist aber noch lange nicht voll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Der Gürtel hat weitere Seelenessenz aufgenommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Der Gürtel fühlt sich mehr als zur Hälfte mit Seelenessenz gefüllt an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Der Gürtel ist voller Energie. Es wird nicht mehr lange dauern, bis er voll ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich habe &lt;b&gt;Neales einzigartigen Gürtel&lt;/b&gt; verloren. Ich kann ihm nicht helfen, solange ich ihn nicht wiederhabe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich habe &lt;b&gt;Neales einzigartigen Gürtel&lt;/b&gt; verloren. Ich kann ihm nicht helfen, solange ich ihn nicht wiederhabe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Ich habe &lt;b&gt;Neales einzigartigen Gürtel&lt;/b&gt; verloren. Ich kann ihm nicht helfen, solange ich ihn nicht wiederhabe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Ich habe &lt;b&gt;Neales einzigartigen Gürtel&lt;/b&gt; verloren. Ich kann ihm nicht helfen, solange ich ihn nicht wiederhabe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Ich habe &lt;b&gt;Neales einzigartigen Gürtel&lt;/b&gt; verloren. Ich kann ihm nicht helfen, solange ich ihn nicht wiederhabe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Ich habe &lt;b&gt;Neales einzigartigen Gürtel&lt;/b&gt; verloren. Ich kann ihm nicht helfen, solange ich ihn nicht wiederhabe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Neale hat sein Experiment abgeschlossen und seinen endgültigen Entwurf für mich angefertigt. Er meint, er werde seine Forschung fortführen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Neales unbezahlbaren Gürtel verloren. Er hat die Nachricht nicht gut aufgenommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

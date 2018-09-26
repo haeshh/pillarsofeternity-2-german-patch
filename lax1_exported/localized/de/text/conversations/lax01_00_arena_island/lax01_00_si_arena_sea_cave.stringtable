@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_si_arena_sea_cave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>74</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine leichte, salzige Brise schlängelt sich aus der mit Ranken behangenen Passage vor dir und umspielt deine Nase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das Wasser um die Höhle herum wird ruhig, um dir den Weg durch die Passage zu erleichtern. 
+
+Nach einigen langen Minuten in der Dunkelheit der Höhle kehrst du aufs offene Meer zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Deine Besatzung sieht dich nervös an, während du das Schiff wieder in die Nähe der Höhle navigierst. Als du dich näherst, steigen die wogenden Wellen wieder auf und drücken dich zurück ins offene Meer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du kehrst zum versteckten Höhleneingang nach Kazuwari zurück, und die Wasser geleiten dich sicher durch die Passage in den See in der Mitte der Insel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Insel erstreckt sich mehrere Meilen nach Norden und Süden. Wellen prallen gegen die rauen, steinigen Klippen, während Meeresvögel wie herabfallende Speere auf ihre Beute im Wasser zurasen und dann wieder in die Lüfte emporsteigen. Ein dichter, leuchtend grüner Dschungel thront auf den Klippen, und Ranken fallen von ihm herab wie ein Schleier. Über dem Dschungel erhebt sich ein noch höherer Berg, der nach den Wolken zu greifen scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0] salutiert, als die Besatzung das Beiboot aus dem Wasser zieht.
+
+"Befehle, Kapitän?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Insel erstreckt sich mehrere Meilen nach Norden und Süden. Wellen prallen gegen die rauen, steinigen Klippen, während Meeresvögel wie herabfallende Speere auf ihre Beute im Wasser zurasen und dann wieder in die Lüfte emporsteigen. Ein dichter, leuchtend grüner Dschungel thront auf den Klippen, und Ranken fallen von ihm herab wie ein Schleier. Über dem Dschungel erhebt sich ein noch höherer Berg, der nach den Wolken zu greifen scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Specified 1] steht neben dir und gestikuliert in Richtung des dunklen Schattens, der sich an der Seite der Klippe hinabzieht wie eine klaffende Wunde. Etwas blaues Wasser fließt aus ihr, als wäre es Blut.
+
+"Das ist eine Höhle, und nicht gerade eine kleine. Das dunkle Wasser lässt eine gewisse Tiefe vermuten – möglicherweise eine Art Graben. Könnte sich als natürlicher Wasserweg erweisen, wenn du das Risiko eingehen möchtest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Volle Fahrt voraus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Deine Meinung, [Specified 0]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ist das eine Falle der Príncipi, Serafen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Weggehen] "Nein. Wir segeln in tiefere Gewässer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Dein Befehl hallt durch den Bauch des Schiffes, und die Maschinen erwachen ächzend zum Leben, als die [Player Ship] sich ihren Weg in die dunklen Wasser bahnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Das ist nichts, was ich schon einmal gemacht hätte ... Aber sowas kommt öfter vor, seit ich unter deiner Flagge segle, Kapitän."
+
+Mit gerunzelter Stirn sieht [Specified 0] über das Wasser hinweg.
+
+"Ich würde sagen, es ist sicher, solange wir es langsam und behutsam angehen lassen."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Nee, Käpt'n. Zumindest keine, von der ich gehört hätte."
+
+Der Orlaner überdacht seine Augen mit einer Hand und sucht die Klippen ab.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Willst du deinen Vogel vorschicken und spähen lassen, Maia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Vogel, mach dich nützlich." Maia zeigt in eine Richtung und Ishiza fliegt unter motiviertem Krächzen los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du beobachtest, wie Ishizas Gestalt mit dem dunklen Schatten des Kliffs verschmilzt. Einige Minuten später kommt er zurückgeflitzt und setzt sich auf Maias ausgestreckten Unterarm. Sie zieht ihn zu sich, und Ishiza vergräbt seinen Kopf in Maias Brust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Etwas hat ihm Angst eingejagt, Kapitän. Der Kleine zittert wie eine Palme im Sturm." Maia runzelt die Stirn und füttert Ishizwa mit einer Extraportion Hasenfleisch aus ihrer Tasche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Dein Befehl hallt über die Planken hinweg und die Takelage knarzt, während die [Player Ship] sich ihren Weg in die dunklen Wasser bahnt. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die Klippen kommen näher, und das Rauschen des Wassers, das von der Küste fällt, erhebt sich über dem Deck ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ein Schwall Wasser fegt von der Insel über das Schiff hinweg und bringt es damit zum Schaukeln und Schwanken, was deine Besatzung schreiend über das Deck purzeln lässt. Dir rutscht das Herz in die Hose, als du ein gewaltiges Krachen und ein höchst unangenehmes Kratzen hörst. Jetzt weißt du, dass das Schiff auf die Seite des Grabens aufgelaufen ist.
+
+Du siehst zu, während die Insel sich von dir zurückzuziehen scheint ... Du wurdest auf die offene See zurückgespült.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Süße Ondra, hab Erbarmen!" schreit [Specified 2] um den Mast geklammert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Was in Waels heiligem Namen war das?" murmelt [Specified 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich sage, diese Wellen haben ihren Ursprung nicht in meiner Mutter. Das ist das Werk von Wasserformern." Tekēhu gestikuliert über die Reling hinweg zu den wallenden Wassermassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Deine Besatzung wartet auf deine Befehle ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Sind wir in Gefahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Glaubst du, dass du etwas dagegen tun kannst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Sind die Wasserformer da draußen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Wenn sie uns hätten versenken wollen, dann hätten sie es getan, sage ich." Tekēhu reibt sich am Kinn und grübelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Nein, kann ich nicht. Es müssen mehrere Wasserformer sein, die zusammenarbeiten, und das kann selbst Ngatis Lieblingssohn nicht übertrumpfen." Tekēhu seufzt und zuckt mit den Achseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Falls sie von der Gilde ausgesandt wurden, hat mir niemand davon erzählt. Es sei denn, hier geht etwas ganz anderes vor sich. Sehr beunruhigend, sage ich." Tekēhu seufzt durch seine Nase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Specified 1] steht neben dir und gestikuliert in Richtung des dunklen Schattens, der sich an der Seite der Klippe hinabzieht wie eine klaffende Wunde. Etwas blaues Wasser fließt aus ihr, als wäre es Blut.
+
+"Das ist eine Höhle, und nicht gerade eine kleine. Das dunkle Wasser lässt eine gewisse Tiefe vermuten – möglicherweise eine Art Graben. Könnte sich als natürlicher Wasserweg erweisen, wenn du das Risiko eingehen möchtest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Die Gesichter sollten uns sicher zum Ziel bringen. Voraus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Deine Meinung, [Specified 0]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Weggehen] "Nein. Wir segeln in tiefere Gewässer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Das ist nichts, was ich schon einmal gemacht hätte ... Aber sowas kommt öfter vor, seit ich unter deiner Flagge segle, Kapitän."
+
+Mit gerunzelter Stirn sieht [Specified 0] über das Wasser hinweg.
+
+"Ich würde sagen, es ist sicher, solange wir es langsam und behutsam angehen lassen."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>In der Dunkelheit der Höhle kannst du etwas erkennen, das sich bewegt. Kurz darauf ein kaltes, schimmerndes Licht, wie das der Sonne, das von der Oberfläche des Meeres reflektiert wird. Das Wasser wird auf der Stelle ruhig und glatt wie die Oberfläche von Glas. Das Schiff nimmt Fahrt auf, während es von der Strömung sanft in die Höhle getrieben wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Dein Befehl hallt durch den Bauch des Schiffes, und die Maschinen erwachen ächzend zum Leben, als die [Player Ship] sich ihren Weg in die dunklen Wasser bahnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Dein Befehl hallt über die Planken hinweg und die Takelage knarzt, während die [Player Ship] sich ihren Weg in die dunklen Wasser bahnt. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Die Klippen kommen näher, und das Rauschen des Wassers, das von der Küste fällt, erhebt sich über dem Deck ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Du gelangst in das Innere einer riesigen Höhle, deren Decke so hoch ist, dass sie keine Gefahr darstellt. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Schluss mit diesem abergläubischen Geschwätz, Seemann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Hüte deine Zunge, [Specified 2], bevor ich dich ihrer entledige!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Nicht mehr lange, Leute. Bewahrt Ruhe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Die Höhle wird erleuchtet, und ein immenser Riss aus Licht erscheint hinter einer Biegung. Du segelst problemlos durch ihn hindurch und zum See im Innern der Insel. Klippen türmen sich über dir auf, geschmückt mit wilden Pflanzen, und die Geräusche der Natur erfüllen die Umgebung.
+
+Du befiehlst, dass das Schiff vor Anker gehen soll und lässt ein Beiboot vorbereiten, um an Land zu gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Ein dunkler Schatten teilt die Klippe wie eine hässliche Wunde, und ein dunkelblauer Strom aus Wasser fließt an ihm herunter wie Blut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Bring uns wieder ins offene Meer, [Specified 0]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Gab es Ärger, während ich an Land war?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich glaube, ich sollte zur Insel zurückkehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Aye-aye, Kapitän!" [Specified 0] salutiert erneut stramm. "Alle Mann an Deck, wir lichten den Anker!"
+
+Jubelschreie fegen über das Deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Nee, nich' ein Piepser, Kapitän." 
+
+"Da war dieser gottverdammte Vogel!" schreit [Specified 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 0] runzelt die Stirn. "Aye, das war da. Hatte einen Falken oder sowas, Flügelspanne von der Länge eines Aumauaner-Arms. Hat einige der Seemänner angegriffen, während sie am Angeln waren. Seltsam, ja, aber [Specified 2] hat ihn mit einem Balken vertrieben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Specified 0] blinzelt. "A... Aye, Kapitän. Das Beiboot liegt im Handumdrehen wieder im Wasser."
+
+Du kehrst an Land zurück.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Vom See im Landesinneren aus liegt der Durchgang zum Meer halb hinter einem dichten Teppich aus Ranken versteckt. Als du dich ihm näherst, scheint das Wasser ruhiger zu werden und sich dann in die Dunkelheit zurückzuziehen.
+
+Dein Schiff gewinnt an Geschwindigkeit, während es in die Höhle eindringt.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Specified 3] schielt zu dir herüber. "Bin mir nicht sicher, ob ich mich jemals an sowas gewöhnen werde, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Kurs halten, [Specified 0]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Reiß dich zusammen, [Specified 3]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Genug seltsames Gerede von dir, [Specified 4]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Aye-aye, Kapitän." [Specified 0] sieht die anderen beiden Seemänner mit einem düsteren Blick an. Sie sagen nichts weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I-Ich hab keine Angst!" stottert [Specified 3]. "Sage ja nur, dass es mir seltsam vorkommt."
+
+Einige der Seemänner lachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 4] grinst nur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Nach einigen Minuten der Dunkelheit dringt das Schiff aus dem Durchgang hervor. Das offene Meer breitet sich vor dir aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Bring uns raus aufs Meer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ich kehre zur Küste zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Ein dunkler Schatten zerschneidet die Klippe wie eine hässliche Wunde, und ein dunkelblauer Strom aus Wasser fließt an ihm herunter wie Blut.
+
+Eine Höhle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Zurückgehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Du hörst ein Grollen wie von Donner, und unter dir reißt das Deck weit auf. Einen Augenblick lang scheint sich alles um dich zu drehen, dann stürzt du ins Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Wie betäubt versuchst du mühsam, den Kopf über der Wasseroberfläche zu halten. Um dich herum versinken Stücke von Holz und Stahl. Du bist zu schwach, um zu schwimmen, sinkst hinab, siehst die Oberfläche immer weiter sich entfernen.
+
+Dunkelheit umgibt dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Süße, gnädige Ondra", murmelt [Specified 2] neben dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Specified 4] gluckst vor sich hin und zieht damit einige nervöse Blicke anderer Besatzungsmitglieder auf sich. "Das ist nichts im Vergleich zu den Gefahren, die noch auf uns warten."
+
+"Ganz toll", murmelt [Specified 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

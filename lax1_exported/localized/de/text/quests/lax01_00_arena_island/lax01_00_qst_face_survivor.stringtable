@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_face_survivor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Das Überlebende Gesicht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Erkunde &lt;b&gt;Tiebe o Waiapu&lt;/b&gt; auf der Suche nach einem &lt;b&gt;Artefakt&lt;/b&gt; des Überlebenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Überstehe die &lt;b&gt;Widerstand des Überlebenden&lt;/b&gt;-Reihe von Ereignissen in der Schmelztiegel-Arena.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Besiege die &lt;b&gt;Truppe des Bären&lt;/b&gt; und werde zum Auserwählten des Überlebenden Gesichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Wenn ich mir die Gunst des Überlebenden Gesichts sichern will, muss ich die Forderungen der uralten Statue meistern und den Sieg bei den &lt;b&gt;Überlebenden-Herausforderungen im Schmelztiegel&lt;/b&gt; erringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Gebirgslandschaft von Kazuwari, das als Tiebe o Waiapu bekannt ist, ist Berichten zufolge die Heimat &lt;b&gt;wilder Keiler&lt;/b&gt; von ungewöhnlicher Bösartigkeit. Wenn ich mit einem Beweis, dass ich diese Reise in die Wildnis gewagt habe, in die Arena des Schmelztiegels zurückkehre, sollte ich mir die Gunst des Überlebenden Gesichts sichern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Nachdem ich die unwirtliche Landschaft (und die aggressiven Schweine) von Tiebe o Waiapu überlebt habe, habe ich eine kleine Halskette als Lohn für meine Mühen erhalten.
+
+Ich sollte dieses Artefakt dem &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; übergeben und sehen, welche Herausforderungen der Schmelztiegel daraus ziehen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Der Schmelztiegel hat mich mit weiteren Gelegenheiten belohnt, Leib und Leben zu verlieren.
+
+Ich kann jetzt beim &lt;b&gt;Widerstand des Überlebenden&lt;/b&gt; antreten, einer Reihe von Kämpfen, deren Schwerpunkt auf Ausdauer und Widerstandsfähigkeit liegt. 
+
+Sollte ich siegreich sein, werde ich die weitere Gunst des Überlebenden Gesichts erlangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Meine Heldentaten im Schmelztiegel haben mir ein hohes Ansehen in den Augen des Überlebenden Gesichts verschafft.
+
+Nur ein anderes Rudel, die &lt;b&gt;Truppe des Bären&lt;/b&gt;, genießt das gleiche Ansehen. Wenn ich sie im Schmelztiegel besiegen kann, werde ich zum Auserwählten des Überlebenden Gesichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Mein Weg hat sich mit dem einer anderen Gruppe von Anwärtern gekreuzt, welche die Prüfungen des Überlebenden Gesichts wagen – die Truppe des Bären.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Truppe des Bären besiegt und wurde zum Auserwählten des Überlebenden Gesichts. Ich sollte zur &lt;b&gt;Kammer der Erinnerungen&lt;/b&gt; zurückkehren, um zu sehen, welche weiteren Prüfungen auf mich warten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

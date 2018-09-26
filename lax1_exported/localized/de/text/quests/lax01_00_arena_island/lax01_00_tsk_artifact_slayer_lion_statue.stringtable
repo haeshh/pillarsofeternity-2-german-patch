@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_slayer_lion_statue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Suche des Schlachtenden Gesichts nach dem Kopf des Jägers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beschaffe den &lt;b&gt;Kopf des Jägers&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bring den &lt;b&gt;Kopf des Jägers&lt;/b&gt; zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Das Schlachtende Gesicht verwies mich auf ein anderes Artefakt für das Becken der Erinnerungen – &lt;b&gt;den fehlenden Kopf einer Statue&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Engari erfuhr von einer &lt;b&gt;zerbrochenen Statue&lt;/b&gt; in irgendwelchen &lt;b&gt;Huana-Ruinen&lt;/b&gt;. Der Kopf der Statue dürfte einfach zu erkennen sein. 
+
+Das Denkmal war einem großen Jäger gewidmet und die Ruinen wurden überschwemmt und überwuchert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe den Kopf des Jägers in Motare o Kōzi gefunden und muss ihn nun zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurückbringen, wenn ich einen neuen Kampf daraus beziehen möchte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe den Kopf des Jägers in das Becken der Erinnerungen gelegt und dadurch eine weitere Herausforderung von den Gesichtern der Jagd freigeschaltet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

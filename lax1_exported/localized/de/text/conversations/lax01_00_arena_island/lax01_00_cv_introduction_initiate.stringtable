@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_introduction_initiate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>59</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du stolperst in einen Raum, der nur im Vergleich zu dem Tunnel, aus dem du gekommen bist, hell erleuchtet ist. Ein Mann mit weichen Gesichtszügen und runden Augen blinzelt stumm, bevor er sich räuspert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Das macht keinerlei Unterschied, du bist endlich hier. Das reicht. Die Menge wird unruhig, wenn man sie warten lässt. Am besten gehst du raus in die Arena."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich glaube, du hast mich mit jemandem verwechselt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wo bin ich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Du bist in der Kammer des Herausforderers, ok? Das macht dich zum Herausforderer. Alles andere? Ist komplett irrelevant."</DefaultText>
+      <FemaleText>"Du bist in der Kammer des Herausforderers, ok? Das macht dich zur Herausforderin. Alles andere? Ist komplett irrelevant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Er starrt dich verständnislos an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Mich in Aktion sehen? Das hier ist kein Bordell, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich habe meine Habseligkeiten in der Höhle gelassen. Da sind alle meine besten Tränke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Schau an, du hast ganz wackelige Knie im Angesicht des Todes, ich verstehe das. Aber du hättest vorher daran denken sollen, bevor du die Arena betreten hast!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Der Aumauaner stößt einen Finger Richtung Torbogen, macht dann einen Schritt zurück und streicht mit einer Hand über eine Säule. Die Tür schließt sich zwischen euch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Er seufzt, zieht einen Beutel aus seinem Gürtel und schiebt ihn dir in die Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Jeder ist ganz begierig, dich mal in Aktion zu sehen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Humaire möchte, dass du ihr dein Ohr leihst. Geh und such sie in der Halle der Erinnerung auf, geradeaus an mir vorbei."
+
+Er runzelt die Stirn, reibt sich den Hinterkopf und räuspert sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Darüber hinaus ... hm ... Tut mir leid wegen vorher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ekera, die Wand! &lt;i&gt;Was&lt;/i&gt; zum Kuckuck ist da unten?"
+
+Er verdreht sich den Hals und blickt über deine Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Moment, was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Arena! Geh in Arena!"
+
+Er zeigt mit dem Daumen zu einer Tür in der Nähe.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Das macht auch keinen Unterschied. Ich bin der Gestandene, der &lt;i&gt;dich&lt;/i&gt; vor die Menge bringen soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Hast du Hintergedanken wegen dem Ritus? Stopp. Es ist zu spät. "
+
+Er gestikuliert scharf zum Portal hinter ihm.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich gehe nicht in deine verdammte Arena!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Was geht hier vor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Nächstes Mal ... vergiss weniger!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Was? Nein! Geh einfach da raus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Du lieferst da draußen eine Show ab, das ist los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Gut! Dann geh nicht rein! Verschwinde einfach wieder in deinem Loch!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Er schnaubt und stampft zurück durch den Torboden und streicht mit seiner Hand über eine Säule. Die Tür schließt sich zwischen euch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die Wache von vorhin reibt sich etwas verlegen seinen kahlen Hinterkopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Keine Entschuldigung notwendig, aber zeige mir denjenigen, der hier das Sagen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ich muss mit der Person sprechen, die hier das Sagen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Oh. Oh! Dann gelobt sei Toamowhai, da in dir der Geist eines Kriegers wohnt! Du bist zum richtigen Ort gekommen, um diesen Durst zu stillen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ja, natürlich. Toamowhai beherrscht wirklich diesen Ort, aber Humaire kümmert sich um Angelegenheiten, die mit niederen Gestandenen zu tun haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Du bist am Leben ... Gepriesen sei Toamowhai! Ich habe nicht ... uh ... Ich hätte nicht ... uh ... Ich hätte prüfen sollen, dass du dich wirklich unseren Schmelztiegel-Spielen anschließen wolltest anstatt ... uh ... äh ..."
+
+Die Wache stampft mit dem Fuß auf, als seine Worte in einem Stammeln enden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Anstatt mich in eure blutige Arena zu stoßen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Zuletzt als ich sie gesehen habe, war Humaire oben und hat sich die Kämpfe angesehen. Du solltest mit ihr sprechen. Sie wird mehr wissen als ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ich hatte nicht so viel Spaß, seit ich das letzte Mal etwas umgebracht habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Einige Herausforderer zögern vor dem Moment des Kampfes, sie verstehen nur dann, was auf sie zukommt." Er schluckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Deine aufrichtige Verwirrung, ich dachte an kalte Füße. Ich entschuldige mich hundert Male! Aber du stehst hier jetzt. Es muss so sein, wie Toamowhai es bestimmt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ekera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Wäre kein Problem, wenn es so wäre. Kazuwari gelüstet es schon lange nach einem edlen Bordell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Alle Bordelle sind Arenen, Kapitän, aber nicht alle Arenen sind Bordelle. Eine Lektion, die man am besten früh lernt, meine ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Riecht genauso wie die Wilde Mähre, oder? Wie Ställe der gehobenen Klasse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Richtig freundlich, oder nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ich lasse dich das dann mal regeln." Konstanten bringt dich soweit wie möglich zwischen sich selbst und den Mann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Verrate mir nur, wo ich am besten etwas zu trinken finde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Dann brauchst du wohl Corrin. Du findest ihn in der Nähe der Treppe." Er deutet quer durch den Raum Richtung Norden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Aber du solltest mit Humaire sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Aye, dieser Meinung bin ich auch ganz stark. Nichts funktioniert besser, um den Durst eines alten Seebären zu stillen als dem Tod zu trotzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Du legst besser ein paar Münzen hin für das Bier, das du mir schuldest, während du grad dabei bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Wir sind ein bisschen mehr als nur ein paar Herausforderer, aber es ist süß, dass du das denkst." 
+
+Maia sieht lang genug vom Ölen ihres Gewehrs hoch, um zu lächeln. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Rekke nickt heftig während sich sein vernarbtes Gesicht zu einem breiten Grinsen verzieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Aye, Mädchen. Möchte es nicht erleben, dass du mich für einen Schuldner hältst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Das ist so ungefähr das Beste, was du hier als Entschuldigung bekommst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Sieht so aus, als könntest du im Kampf deinen Mann stehen. Das ist gut! Wirklich nützlich, um nicht zu sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Jetzt sprichst du meine Sprache, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Es ist besser, du streitest dich nicht mit ihm, Wächter. Einige von diesen Leuten haben ein ziemlich hitziges Temperament und sind mit dem Schwert schnell bei der Hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Willkommen im Tempel des Toamowhai, Wächter! Trautes Heim, Glück allein ..."</DefaultText>
+      <FemaleText>"Willkommen im Tempel des Toamowhai, Wächterin! Trautes Heim, Glück allein ..."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

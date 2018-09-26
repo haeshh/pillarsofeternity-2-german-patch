@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_seeker_adra_pearl</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Suche des Suchenden Gesichts nach der Adra-Perle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beschaffe die &lt;b&gt;Adra-Perle&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bring die &lt;b&gt;Adra-Perle&lt;/b&gt; zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Das Suchende Gesicht möchte, dass ich zum Todesfeuer reise und nach einer &lt;b&gt;seltenen Adra-Sphäre&lt;/b&gt; suche, die aus den Tiefen des Ozeans geholt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Engari erfuhr, dass sich eine Perle in den Klauen einer &lt;b&gt;Kreatur&lt;/b&gt; befindet, die in irgendwelchen Ruinen &lt;b&gt;unterhalb von Neketaka&lt;/b&gt; lauert. Vielleicht kann die Kreatur aus seiner &lt;b&gt;Grube&lt;/b&gt; geködert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Nachdem ich die &lt;b&gt;Adra-Perle&lt;/b&gt; aus den Tiefen von Neketakas Altstadt geborgen habe, kann ich sie nun in das &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; legen und auf die darin enthaltene spirituelle Geschichte zugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Adra-Perle in das Becken der Erinnerungen gelegt und dadurch neue Herausforderungen von den Gesichtern der Jagd freigeschaltet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

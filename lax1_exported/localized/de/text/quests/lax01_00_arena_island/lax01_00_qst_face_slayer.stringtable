@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_face_slayer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Das Schlachtende Gesicht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beschaffe das &lt;b&gt;Artefakt des Schlächters&lt;/b&gt; aus dem &lt;b&gt;Whakupoko-Tiefland&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Richte Chaos und Verwüstung an in der &lt;b&gt;Bestie des Schlächters&lt;/b&gt;-Reihe von Ereignissen in der Schmelztiegel-Arena.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;b&gt;Besiege die Drachenjäger&lt;/b&gt; und werde zum Auserwählten des Schlachtenden Gesichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Wenn ich mir die Gunst des Schlachtenden Gesichts sichern will, muss ich die Forderungen der blutdürstigen Statue erfüllen und den Sieg bei den &lt;b&gt;Schlächter-Herausforderungen im Schmelztiegel&lt;/b&gt; erringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Diebe haben ein &lt;b&gt;Artefakt&lt;/b&gt; aus dem Archiv des Schmelztiegels gestohlen, das dem Schlächter heilig ist.
+
+Berichte legen nahe, dass die Diebe es nicht von der Insel Kazuwari geschafft haben, sondern sich &lt;b&gt;westlich des Schmelztiegels&lt;/b&gt; in einem Gebiet in Kazuwari verstecken, das man als &lt;b&gt;Whakupoko-Tiefland&lt;/b&gt; kennt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe das Artefakt des Schlächters aus den Tiefen des vor Stelgaer wimmelnden Whakupoko-Tieflands beschafft.
+
+Wenn ich dieses Artefakt dem &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; übergebe, sollte der Schmelztiegel basierend auf den Erinnerungen des Artefakts neue Herausforderungen manifestieren können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Jetzt, nachdem ich das Artefakt des Schlächters dem Becken der Erinnerungen übergeben habe, werde ich als würdig erachtet, die Herausforderungen des Schlächters in Angriff zu nehmen.
+
+
+
+Wenn ich weiterhin die Gunst des Schlachtenden Gesichts gewinnen möchte, muss ich &lt;b&gt;bei diesen brutalen Duellen&lt;/b&gt; antreten. Wenn ich bereit bin, wird das Becken der Erinnerungen den Schmelztiegel für den Kampf vorbereiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Der Sieg in der Arena des Schmelztiegels hat mir die Gunst des Schlachtenden Gesichts gesichert.
+
+Nur ein anderes Rudel, die &lt;b&gt;Drachenjäger&lt;/b&gt;, genießt das gleiche Ansehen in den blitzenden Augen des Schlächters. Wenn ich sie im Schmelztiegel besiegen kann, werde ich zum Auserwählten des Schlachtenden Gesichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Mein Weg hat sich mit dem einer anderen Gruppe von Anwärtern gekreuzt, die im Namen des Schlächters Blut vergießen – die Drachenjäger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Drachenjäger besiegt und wurde vom Schlachtenden Gesicht auserwählt. Ich sollte zur &lt;b&gt;Kammer der Erinnerungen&lt;/b&gt; zurückkehren, um zu sehen, welche weiteren Prüfungen auf mich warten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

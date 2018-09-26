@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3974</ID>
+      <DefaultText>Der Träger beschwört einen mächtigen Jungdrachen, der für die Gruppe kämpft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3975</ID>
+      <DefaultText>Jungdrachenkommando</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3989</ID>
+      <DefaultText>Der Träger springt auf seine Beute zu, macht sie bewegungsunfähig und verursacht Blutungsschaden über Zeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3994</ID>
+      <DefaultText>Geringeren Sumpfschleim beschwören</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4001</ID>
+      <DefaultText>Giftsalve</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4002</ID>
+      <DefaultText>Vergiftete Pfeile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4012</ID>
+      <DefaultText>Drahtweben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4017</ID>
+      <DefaultText>Süßes Aroma</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4018</ID>
+      <DefaultText>Ein süßes Aroma, das vom Streitflegel ausgeht, erzeugt eine Aura, die die Genauigkeit von Verbündeten in der Nähe erhöht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4019</ID>
+      <DefaultText>Bezauberndes Aroma</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4020</ID>
+      <DefaultText>Ein bezauberndes Aroma, das vom Streitflegel ausgeht, erzeugt eine Aura, die die Willens-Abwehr von Gegnern in der Nähe senkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4021</ID>
+      <DefaultText>Zerfleischender Schwung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4022</ID>
+      <DefaultText>Huftritt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4023</ID>
+      <DefaultText>Stampede</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4024</ID>
+      <DefaultText>Widerliches Aroma</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4025</ID>
+      <DefaultText>Ein widerliches Aroma, das vom Streitflegel ausgeht, erzeugt eine Aura, die die Genauigkeit von Gegnern in der Nähe senkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4026</ID>
+      <DefaultText>Blinde Wut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4027</ID>
+      <DefaultText>Alarmruf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4032</ID>
+      <DefaultText>Versteckter Jäger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4035</ID>
+      <DefaultText>Lähmende Wunden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4036</ID>
+      <DefaultText>Sprungangriff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4037</ID>
+      <DefaultText>Urschrei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4038</ID>
+      <DefaultText>Verwüsten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4039</ID>
+      <DefaultText>Ungeschlagen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4040</ID>
+      <DefaultText>Schwanzpeitsche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4041</ID>
+      <DefaultText>Gallenspucke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4042</ID>
+      <DefaultText>Flankenreißer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4047</ID>
+      <DefaultText>Aspekt des Wildschweins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4048</ID>
+      <DefaultText>Ausdauer des Wildschweins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4049</ID>
+      <DefaultText>Ansturm des Wildschweins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4050</ID>
+      <DefaultText>Der Träger wirft seinen Kopf zurück, um seinem Gegner eine Kopfnuss zu verpassen. Der Gegner erleidet heftigen Wucht-Schaden und wird Betäubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4053</ID>
+      <DefaultText>Schlückchen der Gefallenen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4054</ID>
+      <DefaultText>Flüssiger Adra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4055</ID>
+      <DefaultText>Die instabile Flüssigkeit in dieser Phiole kann Energie aus dem Schmelztiegel absorbieren, um andere Effekte magischer Tränke zu replizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4061</ID>
+      <DefaultText>Defensive Tentakel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4065</ID>
+      <DefaultText>Sturzangriff des Stelgaer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4066</ID>
+      <DefaultText>Wirbel der Spinne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4067</ID>
+      <DefaultText>Der Träger führt mehrere Stichangriffe nach vorne aus, richtet damit Schaden an und macht getroffene Ziele Bewegungsunfähig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4068</ID>
+      <DefaultText>Der Träger springt auf einen Gegner zu, richtet schweren Schaden and und schlägt getroffene Ziele nieder. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4071</ID>
+      <DefaultText>Unabhängigkeit des Stelgaer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4081</ID>
+      <DefaultText>Voltschild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4084</ID>
+      <DefaultText>Pfeilwirbel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4086</ID>
+      <DefaultText>Letzter Schock</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4103</ID>
+      <DefaultText>Verbundenheit der Spinne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4104</ID>
+      <DefaultText>Gewährt einen Bonus auf Angriffsgeschwindigkeit, wenn der Träger sich in der Nähe seines Tierischen Gefährten aufhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4105</ID>
+      <DefaultText>Unantastbarkeit des Schattens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4106</ID>
+      <DefaultText>Heilende Netze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4109</ID>
+      <DefaultText>Säureschild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4120</ID>
+      <DefaultText>Feurige Aura</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4250</ID>
+      <DefaultText>Vielpelz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4251</ID>
+      <DefaultText>Beschwört eine zufällige Bestie von Galawain zu Beginn eines Kampfes, die nicht kämpft. Jede Bestie verfügt über eine Aura, die allen Verbündeten in ihrer Nähe einen Bonus gewährt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4252</ID>
+      <DefaultText>Lektionen des Wechselbalgs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4253</ID>
+      <DefaultText>Verwandelt den Träger in eine der Formen des Wechselbalgs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4271</ID>
+      <DefaultText>(Pfeilwirbel) – Treffer von Windlied auf Zielen, die dem Tode nahe sind, können diese Ablenken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4358</ID>
+      <DefaultText>Treue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4477</ID>
+      <DefaultText>Erholung der Mutter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4497</ID>
+      <DefaultText>Arkaner Schutz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4498</ID>
+      <DefaultText>Naturschutz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4515</ID>
+      <DefaultText>Von der Jagd erfüllt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4531</ID>
+      <DefaultText>Störspirale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4537</ID>
+      <DefaultText>Studienzimmer des Suchers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4538</ID>
+      <DefaultText>Lounge des Schlächters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4539</ID>
+      <DefaultText>Höhle des Überlebenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4544</ID>
+      <DefaultText>Forschungsnotizen verbrennen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4545</ID>
+      <DefaultText>Zorn des Erzmagiers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4649</ID>
+      <DefaultText>Wiederaufbau – Platte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4691</ID>
+      <DefaultText>Form des Herausforderers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4749</ID>
+      <DefaultText>Der Träger zeigt auf einen Feind und beherrscht ihn für eine kurze Zeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4852</ID>
+      <DefaultText>Wenn sich keine Verbündeten in der Nähe befinden, verursacht der Träger zusätzlichen Reinen Schaden mit seinen Waffenangriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4853</ID>
+      <DefaultText>Wenn der Träger zum ersten Mal in einem Kampf schwer verletzt wird, erhält er vorübergehend eine zügige Heilung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4854</ID>
+      <DefaultText>Wenn der Träger Bewusstlos wird, beschwört er den Geist des Wildschweins, wodurch er wiederbelebt wird und all seine Verletzungen geheilt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4867</ID>
+      <DefaultText>Während Drago dir folgt, verfügst du über erhöhtes Vorwärtskommen und deine Gruppe erhält einen Bonus auf Abwehr gegen Absetzenangriffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4903</ID>
+      <DefaultText>Kazuwaris Ruf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4904</ID>
+      <DefaultText>Der Träger fordert einen Gegner heraus und verursacht zusätzlichen Schaden an diesem während er gleichsam weniger Schaden durch dessen Angriffe erleidet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4905</ID>
+      <DefaultText>Gegenreaktion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4916</ID>
+      <DefaultText>Blubbernder Kelch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4917</ID>
+      <DefaultText>Gerechte Rache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4991</ID>
+      <DefaultText>Muātus Hilfe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4992</ID>
+      <DefaultText>Der Wirker beschwört Muātu an seine Seite. Muātus Angriffe heilen den Wirker, wenn er in der Nähe ist und er wird stärker, weil er von den Seelen im Schmelztiegel gekräftigt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5027</ID>
+      <DefaultText>Beraths Gabe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5028</ID>
+      <DefaultText>Dass die Seele von Porokoa zum Rad zurückgebracht wurde, hat die Gunst des Wächters bei Berath erhöht und die Genauigkeit des Wächters gegen Geister gesteigert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5029</ID>
+      <DefaultText>(Rymrgands Gabe) - Wenn du mehr Seelen vernichtest, wird die Genauigkeit gegen Gefäße erhöht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5030</ID>
+      <DefaultText>Galawains Zorn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5031</ID>
+      <DefaultText>Die Seelen des Schmelztiegels Galawain zu geben, hat die Gunst des Wächters bei Galawain erhöht und die Genauigkeit des Wächters gegen Bestien gesteigert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5032</ID>
+      <DefaultText>(Galawains Gabe) - Wenn du Galawain mehr Seelen gibst, erhöht dies Genauigkeit gegen Bestien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5033</ID>
+      <DefaultText>Rymrgands Gabe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5034</ID>
+      <DefaultText>Die Seelen des Schmelztiegels zu zerstören, hat die Gunst des Wächters bei Rymrgand erhöht und die Genauigkeit des Wächters gegen Gefäße gesteigert.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

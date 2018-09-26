@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>129</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4349</ID>
+      <DefaultText>Ingimyrks Rachen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4350</ID>
+      <DefaultText>Die alte Wölfin Ingimyrk pirschte eine Generation lang an den nördlichen Küsten des Ewigen Weißes und lauerte sowohl Gestandenen als auch Tieren auf. Die große, graue Jägerin schien wie ein Monster aus einer Legende, so flink wie der Wind und intelligent genug, um ihre Bewegungen mit dem Wetter zu verschleiern – ein Schatten in einem Schneesturm.
+
+Nachdem sein Vetter den Reißzähnen der Bestie zum Opfer gefallen war, ging der Held Jyrfe hinaus, um zu beweisen, dass er stärker war als der Sturm. Er verfolgte die Wölfin durch das Ewige Weiß, fand Unterschlupf bei Stämmen, die es bereits mit der Jägerin zu tun bekommen hatten, und sprach mit jenen, die Verwandte an Ingimyrk verloren hatten. Er studierte die Kreatur, wie man einen Feind studiert, und sammelte Erzählungen über ihre Angriffe. Mithilfe seiner gesammelten Informationen erkannte der Glamfellen, was niemand anderem aufgefallen war – jene, die von Ingimyrk getötet wurden, waren fast immer wichtige Persönlichkeiten ihrer Stämme.
+
+Jyrfe begab sich auf seine letzte Jagd, wobei seine Aufmerksamkeit einem der Händler galt, der zwischen den Lagern in den südlichen Landen verkehrte. Er kehrte mit einem Arm weniger zurück, brachte jedoch Ingimyrks Kopf als Entschädigung mit. 
+
+Er machte daraus einen Helm, den er bis zu seinem Lebensende trug. Er vermachte ihn seiner Tochter Frygn, die später das Todesfeuer bereiste und die Legenden jener Lande aufzeichnete. Wenn sie zur ungewöhnlichen Kopfbedeckung befragt wurde, sprach Frygn ausführlich über die vielen Taten ihres Vaters, jedoch niemals über die Wölfin Ingimyrk. Einige Jagden, sagte sie, bleiben am besten unbesungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4351</ID>
+      <DefaultText>Umhänge wie dieser waren einst bei den erfahrensten Fischern und Haijägern der Huana-Stämme geläufig. Sie wurden aus Schichten dicker Robbenhäute genäht und zum Schutz vor den Elementen eingeölt. Sie dienten nicht nur dem praktischen Zweck, den Träger relativ warm und trocken zu halten und ihn von zuschnappenden Zähnen und peitschenden Tentakeln zu schützen, sondern waren auch ein Statussymbol: Wer in diese Häute gekleidet war, hatte sich in Ngatis unbarmherziges Reich vorgewagt, um den Stamm zu versorgen. Dieser spezifischer Umhang trägt die Spuren jahrelangen schweren Gebrauchs. Seine Nähte sind ausgefranst und seine Ränder zerfetzt. Trotz der deutlichen Abnutzung schützt der zähe Aufbau dieses Mantels immer noch vor Wasser und Kälte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4352</ID>
+      <DefaultText>Hakoris Zuflucht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4359</ID>
+      <DefaultText>Schmelztiegel-Marke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4360</ID>
+      <DefaultText>Wird jenen gewährt, die den Übergangsritus des Schmelztiegels absolvieren. Diese Symbol wird jenen Kriegern verliehen, die von den Gesichtern der Jagd, den geheimnisvollen Patronen, welche die Spiele überwachen, als würdig betrachtet werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4379</ID>
+      <DefaultText>Kāhako Nihi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4380</ID>
+      <DefaultText>Selbst das Anlegen dieses Brigantinenumhangs erfordert viel Geschick. Seine gezackten Metallplatten ragen in seltsamen Winkeln zwischen Schichten eines ausgefransten Gambesons und punktiertem Leder hervor und verleihen der Rüstung ein raues, fast schäbiges Aussehen. Die scharfen Kanten sind jedoch ein Segen in den engen Grubenkämpfen und zerfetzen jeden Feind, der zu nahe kommt, oder beschädigen seine Waffe. 
+
+Osara Haru, eine wohlhabende Anteilseignerin der Königlichen Todesfeuer-Gesellschaft und unerschrockene Schirmherrin des Schmelztiegels, gab Kāhako Nihi in ihrem Heimatland für eine Kämpferin in Auftrag, an der sie ein besonderes Interesse hatte, nur um herauszufinden, dass die Frau im Kampf gegen einen Drachen umgekommen war, bevor die Winde Harus Rückkehr ermöglichten. Haru war nicht bereit, Ressourcen zu vergeuden, und bot die Rüstung als Preis jenem Gladiator an, der ihr den Kopf des Drachens bringen würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4381</ID>
+      <DefaultText>Die beste Verteidigung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4382</ID>
+      <DefaultText>Die blutrünstigen Wettkämpfer des Schmelztiegels waren für den Entwurf dieses brutalen Faustschilds verantwortlich. Ein mit Widerhaken versehener Stahldorn ragt aus der Mitte hervor und soll Platten, Ketten und Haut durchdringen, und die Blutflecken auf dem Schild lassen sich nicht entfernen, ganz egal wie oft man diesen schrubbt. Beim Anblick des Faustschilds zucken Kämpfer angsterfüllt zusammen und sanftmütigere Zuschauer verziehen das Gesicht, denn der Schild ruft ungewollte Erinnerungen an Erzählungen über scheinbar verlorene Kämpfe hervor, deren Ausgang durch einen rechtzeitig ausgeführten Schildschlag in Bauch, Leiste oder Auge gewendet wurde.
+
+Obwohl niemand zu wissen scheint, wer diesen Faustschild ursprünglich hergestellt hat, bezeugen die Bewohner von Kazuwari, dass er in im Lauf der Jahre von dutzenden Kämpfern in der Arena geführt wurde. Dass du den Schild geerbt hast, lässt vermuten, dass seine vorherigen Besitzer die grausame letzte Lektion des Schmelztiegels gelernt haben: Selbst die Kämpfer mit den besten Waffen zollen irgendwann der Grube Tribut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4417</ID>
+      <DefaultText>Großer, gravierter Fels</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4424</ID>
+      <DefaultText>Hüter der Flamme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4425</ID>
+      <DefaultText>Moderne Magran-Priester bevorzugen Schwerter und Feuerwaffen, doch einige frühere Magranit-Krieger in Groß-Vailia trugen sogenannte Weihrauchfässer als Bewaffnung – robuste Rauchfässer, die an einem einfachen Griff über eine Kettenlänge hingen. Weihrauchfässer verbrannten eine Mischung aus Olivenöl und Rauchwerk, die sich über dem unglücklichen Ziel des magranitischen Zorns ergoss. Der Brennstoff spritzte fast unvermeidlich auch auf den Schwenker selbst – eine Buße, die von den Anbetern der Göttin der Flamme jedoch bereitwillig als Beweis ihrer Hingabe akzeptiert wurde.
+
+Obwohl einige Magran-Tempel auch weiterhin Weihrauchfässer im Rahmen von Ritualen verwenden, so gibt es nur noch wenige Beispiele für ihren Einsatz im Kampf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4445</ID>
+      <DefaultText>Dieses massive Steinrad wäre so gut wie unbeweglich, wäre die Außenkante nicht glatt genug, um über einer Oberfläche zu rollen. Es ist eine schreckliche Aufgabe, es herumzutragen, jedoch eine, die eine deftige Übungsdosis bietet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4468</ID>
+      <DefaultText>Der gesuchte Schädel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4469</ID>
+      <DefaultText>Aschensplitter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4470</ID>
+      <DefaultText>Scharlachroter Kristall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4490</ID>
+      <DefaultText>Helm des Meisters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4491</ID>
+      <DefaultText>Diese ungewöhnliche Galea erinnert an die Gesichtszüge eines Steinkolosses, der auf die Arena des Schmelztiegels herabblickt. Nur die erfolgreichsten Meister tragen Helme dieser Art, allesamt verdient durch in der Arena vergossenes Blut und Dutzende beinahe tödliche Schläge in den brutalsten Kämpfen, die das Todesfeuer jemals gesehen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4492</ID>
+      <DefaultText>Schreckensklaue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4493</ID>
+      <DefaultText>Vor 700 Jahren beauftrage der vailianische Duc Alfan med Roca eine Gruppe von Goldpakt-Rittern damit, einen Drachen in den an seine Lande angrenzenden Bergen zu erschlagen. Die Anführerin der Gruppe, Pietra Vives, kehrte drei Wochen später als einzige Überlebende zurück.
+
+Obwohl der Drache schlimme &lt;xg&gt;Wunden&lt;/xg&gt; davongetragen hatte, wurde er doch nicht erschlagen, behauptete sie, und somit konnte sie ihre Aufgabe nicht als erledigt betrachten. Sie stellte eine neue Gruppe von Jägern zusammen, jeder einzelne ebenso berühmt im Umgang mit Schwert oder Bogen wie sie, bezahlte sie aus ihrer eigenen Tasche und machte sich erneut auf.
+
+Diesmal kehrte sie mit dem Kopf des Drachen zurück und schleifte ihn hinter ihrem Ross her.
+
+Laut der Legende führte Pietra einen Meisterschmied in die Berge, um den Drachenkörper zu finden. Er fertigte aus jeder der massiven Klauen einen Säbel an und Pietra übergab die Waffen den Familien ihrer gefallenen Männer zusammen mit ihrem Anteil an der Belohnung. Diese besondere Klinge wurde in der Familie Segreto weitergegeben und folgte schließlich ihrer Flucht aus dem zusammenbrechenden Vailia zum Todesfeuer und in die Reihen der aufstrebenden Príncipi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4494</ID>
+      <DefaultText>Rüstung des Herausforderers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4495</ID>
+      <DefaultText>Diese Rüstung ruft das Bild der Kazuwari-Arena hervor. Ein Kürass aus behandeltem Holz schützt einen dicken und aus vernietetem Leder bestehenden Galerus. Abstrakte Verzierungen der vielen Raubtiere aus dem Todesfeuer schmücken die Schulterstücke und Beinschienen. Den Kürass selbst ziert eine Szene von Geistern auf der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4496</ID>
+      <DefaultText>Leichtes zeremonielles Gewand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4497</ID>
+      <DefaultText>Ein verziertes Ledergeschirr hält einen gebogenen Galerus aus dick geschichtetem Leder an einer Schulter. Brust und Rücken sind jedoch vollkommen ungeschützt. Obwohl dieses Design beispiellose Beweglichkeit für eine Rüstung dieser Größe gewährt, erfordert es doch profundes Können, um effektiv eingesetzt zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4498</ID>
+      <DefaultText>Ngatis Stoßzahn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4501</ID>
+      <DefaultText>Kriegsbogen der Giftnāga</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4563</ID>
+      <DefaultText>Schädel der Gefallenen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4564</ID>
+      <DefaultText>Dieser ungewöhnliche Schädel, der vor spiritueller Essenz sprüht, ist mit religiösen Symbolen in alten Farbtönen versehen. Eine dicke, rote Flüssigkeit sickert aus dem Knochen und ist von der darin befindlichen Energie durchflutet.
+
+Neale denkt, du solltest etwas davon trinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4565</ID>
+      <DefaultText>Blubbernder Kelch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4566</ID>
+      <DefaultText>Kupfer ist um den Boden dieses Kelchs gewunden, bevor er hinauf zum Mundstück und in die Abblendung im Kelch verläuft. Obwohl sie lediglich eine schwache, angenehme Wärme abstrahlt, scheint die klare Flüssigkeit in dem Kelch ständig zu brodeln.
+
+Die Flüssigkeit schmeckt leicht säuerlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4569</ID>
+      <DefaultText>Windlied</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4574</ID>
+      <DefaultText>Dieses solide Stück polierten Wacholderholzes scheint unglaublich schlank zu sein, seine aufwendig gewundenen Wurfarme vermitteln das Bild von gefiederten Flügeln im Flug, wodurch eine Fraktur nahezu heraufbeschwört wird. Und dennoch gibt der Bogen bereitwillig und ohne Anzeichen von Sprödigkeit nach, wenn der Bogenschütze den festen Seidensehne spannt.
+
+Wenn er gespannt wird, scheinen die gefiederten Wurfarme des Bogens sich zu sträuben, während der Griff so fest klammert wie der Bogenschütze den Bogen. Der Blick entlang eines eingelegten Pfeils verschärft das Ziel und verbessert die Sicht des Schützen wie die eines Fischadlers.
+
+Das Pfeifen des abgefeuerten Geschosses durch die Luft schrillt wie der kreischende Schrei eines Vogels.
+
+Mataru-Priester singen vom Falken bei Dämmerung, einer Frau, die angeblich zweifach von Amira gesegnet worden ist und die Insel vor den Kreaturen des Dschungels und des Meeres beschützte. Sie glitt in der Zeit vor der Ankunft von Engwith auf den Winden und nahm die Gestalt eines Vogels an, um die Feinde der Aumauaner zu jagen, wobei sie sich auf hohen Vorsprüngen niederließ und einen Pfeilregen auf ihre Opfer herabfeuerte. Als ein riesiger Kraken eine Flotte angriff, blendete sie ihn mit zwei geschickten Schüssen, sprang anschließend zwischen seine dreschenden Arme, schnitt durch gummiartiges Fleisch und verfärbte das Meer mit Tinte und Blut.
+
+Einige behaupten, sie sei an jenem Tag ums Leben gekommen. Andere sagen, Amira hätte sie ins Jenseits geholt und sie in ihre Chorgruppe eingeladen. Ungeachtet der Erzählung blieb lediglich ihr Bogen zurück, der von jenen geborgen wurde, welche den Platz der Heldin beanspruchen wollten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4578</ID>
+      <DefaultText>Klaue des Schlächters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4579</ID>
+      <DefaultText>Reißzahn des Suchers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4580</ID>
+      <DefaultText>Die patinagrüne Visage einer Dschungelkatze, deren Reißzähne zwischen den Lippen entblößt sind, beherrscht diese Huana-Axt. Vollständig aus Bronze geschmiedet – mit Ausnahme des Leders, welches um ihren Griff gewunden ist – stürzt sich die Klinge dieser Waffe mit jedem Schwung schwer herab, wie der Panther, der diese ziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4581</ID>
+      <DefaultText>Glatt, und doch gezackt, geriffelt und unmöglich scharf – es ist schwierig zu sagen, ob diese Klinge aus irgendeinem exotischen Metall geschmiedet oder aus dem Bein eines riesigen Spinnentieres geformt wurde. Sie schneidet mühe- und geräuschlos durch die Luft und durchdringt Metall so leicht wie Fleisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4631</ID>
+      <DefaultText>Flüssiger Adra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4632</ID>
+      <DefaultText>Dieses gravierte Adra-Fläschchen fühlt sich bei Berührung gleichzeitig warm und kalt an, während sich derweil die Härchen auf deinen Armen aufrichten. Ihre Innenseite schwitzt eine dünne Flüssigkeit aus, mit der Opazität von Met und den schillernden Farben einer Perle.
+
+Sie schmeckt salzig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4652</ID>
+      <DefaultText>Instabile Spule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4653</ID>
+      <DefaultText>Kupferdrähte und fein abgekantete Zahnräder wurden in diesen breiten Ledergürtel genäht. Der Gürtel erinnert an eine engwithanische Maschine, obwohl er entweder in jüngster Vergangenheit angefertigt wurde oder jemand großen Aufwand betrieben hat, um das Leder im Laufe der Jahrhunderte zu konservieren und das Kupfer frei von Korrosion zu bewahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4654</ID>
+      <DefaultText>Weniger instabile Spule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4655</ID>
+      <DefaultText>Am wenigsten instabile Spule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4699</ID>
+      <DefaultText>Stoßzähne des Überlebenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4700</ID>
+      <DefaultText>Dieser Helm, der im Stile der Huana aus einem einzelnen Holzblock geschnitzt wurde, stellt die Gestalt des Keilers von Toamowhai dar. Helle Farben betonen die Schnauze und die Augen, während kleine Flecken, welche eine übernatürliche &lt;xg&gt;Wahrnehmung&lt;/xg&gt; andeuten, Letztere umkreisen. Dieser mit Essenz infundierte Helm hält Hieben stand, die einen Baum fällen würden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4701</ID>
+      <DefaultText>Eine Rüstung beschützt. Eine Krone befiehlt. Der Überlebende dient all jenen, die leben und beschützen, wobei er den tödlichen Schlag abwendet und den vergifteten Pfeil ablenkt. Dieser Kopfschmuck mit seiner prächtigen Befiederung ist mehr als nur eine Schutzbekleidung – er führt.
+
+So singen es die Huana. So heulen es die Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4702</ID>
+      <DefaultText>Der hundertfache Pfad verzweigt sich einhunderthundert Mal. Der Überlebende befiehlt nicht dem Beschützer, da er sich bereitwillig der Härte eines jeden Pfades stellen und sich während des Übergangs als überlegen erweisen würde. Daher dient der Reisende dem Überlebenden, der das Bollwerk gegen die schlimmsten Bedrohungen richtet.
+
+So singen es die Huana. So heulen es die Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4704</ID>
+      <DefaultText>Der Überlebende beschützt den Beschützer. Von Morgendämmerung bis Morgendämmerung, wie ein Schiff durch die kräuselnde Brandung, kartieren einhunderthundert Reisende einhunderthundert Passagen entlang des hundertfachen Pfades. Von Morgendämmerung bis Morgendämmerung führt der Überlebende jeden Reisenden gegen jede Herausforderung an jeder Gabelung.
+
+Der Überlebende überlebt. Hier und anderswo.
+
+So singen es die Huana. So heulen es die Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4706</ID>
+      <DefaultText>Überstehe jeden Kampf der Stellung des Überlebenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4713</ID>
+      <DefaultText>Eine Waffe verletzt. Eine Falle schwächt. Der Sucher dient dem Suchenden, wobei er den Herzen und Augen von sechsundsechzig Feinden eine Falle stellt und den hundertfachen Pfad vor dem Reisenden verwirrt. Dieser Dolch, der leise genug ist, um Aufmerksamkeit zu vermeiden, und durchdringend genug, um sich unvermiedener Aufmerksamkeit zu stellen, er mordet nicht nur – er verwirrt.
+
+So singen es die Huana. So heulen es die Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4714</ID>
+      <DefaultText>Der hundertfache Pfad verzweigt sich einhunderthundert Mal. Der Sucher wird die Suchenden nicht leiten, da er bereitwillig jeden Pfad auf- und wieder abschreiten wird, wobei er alle Dinge so erlebt, wie sie waren und sein werden. Daher dient der Reisende dem Sucher, der Potentiale und Möglichkeiten mit seinen scharfsinnigen Entscheidungen eingrenzt.
+
+So singen es die Huana. So heulen es die Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4715</ID>
+      <DefaultText>Der Sucher sucht den Suchenden. Von Morgendämmerung bis Morgendämmerung, wie eine Nadel in einem Stoff, weben einhunderthundert Reisende einhunderthundert Umhänge aus dem hundertfachen Pfad. Von Morgendämmerung bis Morgendämmerung verwirrt der Sucher jeden Feind an jeder Gabelung.
+
+Der Sucher sucht hier und anderswo.
+
+So singen es die Huana. So heulen es die Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4717</ID>
+      <DefaultText>Überstehe jeden Kampf des Pfads des Suchers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4723</ID>
+      <DefaultText>Eine Waffe verletzt. Ein Werkzeug dient. Der Schlächter dient dem Schleichenden, wobei er schwere Dschungellianen trennt und dichtes, sumpfiges Ried aufteilt und somit den hundertfachen Pfad vor dem Reisenden räumt. Diese Axt ist robust genug, um lockeres Gestein abzubrechen, und scharf genug, um Jäger abzuwehren. Sie beschützt nicht nur – sie eskortiert.
+
+So singen es die Huana. So heulen es die Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4724</ID>
+      <DefaultText>Der hundertfache Pfad verzweigt sich einhunderthundert mal. Der Schlächter wird den Schleichenden nicht verführen, da er bereitwillig die wilden Tiere entlang eines jeden Pfades jagen und jede mögliche Beute erlegen wird. Daher dient der Reisende dem Schlächter, wobei er die andernfalls willkürliche Kante des Todes führt.
+
+So singen es die Huana. So heulen es die Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4725</ID>
+      <DefaultText>Der Schlächter schleicht sich an den Schleichenden an. Von Morgendämmerung bis Morgendämmerung, wie ein Beil, das zum Baumstamm geführt wird, spalten einhunderthundert Reisende einhunderthundert Zweige aus dem hundertfachen Pfad. Von Morgendämmerung bis Morgendämmerung eskortiert der Schlächter jeden Reisenden bis zu jeder Gabelung.
+
+Der Schlächter schlachtet – hier und anderswo.
+
+So singen es die Huana. So heulen es die Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4730</ID>
+      <DefaultText>Überstehe jeden Kampf der Bestien des Schlächters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4734</ID>
+      <DefaultText>Leichter Arena-Lederhelm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4735</ID>
+      <DefaultText>Dieser einfache Helm gehört zur Ausrüstung der Wärter der Schmelztiegel-Arena. Die Aufnahme in ihre ehrenhaften Ränge umfasst das Aufspüren eines seltenen Vogels in den Tiefen der Kazuwari-Wildnis und den Raub von ausreichend Federn für die dekorative Befiederung ihres Helms. Einige Anwärter versuchen törichterweise, diesen Ritus zu überspringen, indem sie ihre eigenen Feder einfärben oder kaufen. Die Ältesten erkennen den Unterschied jedoch immer. Der Trick besteht darin, den Wärter zu studieren. Einer, der mit Stolz zurückkehrt, wird als Betrüger abgelehnt. Einer, der mit Bescheidenheit zurückkehrt, ist wahrheitsgetreu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4736</ID>
+      <DefaultText>Arena-Lederrüstung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4737</ID>
+      <DefaultText>Diese Rüstung besteht aus unzähligen breiten Streifen aus behandeltem Leder und bietet einen angemessenen Schutz, ohne dabei die Bewegungsfreiheit einzuschränken. Grobe Verzierungen der vielen Jäger aus dem Todesfeuer schmücken die Schulterstücke und Beinschienen. Den Kürass selbst ziert eine Szene eines großen Hundes auf der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4779</ID>
+      <DefaultText>Die Rüstung des Wechselbalgs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4780</ID>
+      <DefaultText>Wenn sie nicht getragen wird, scheint diese Rüstung kaum mehr als der Haufen von entsorgten Pelzen eines Fallenstellers zu sein. Sie scheint Stückwerk zu sein – Stelgaer-Haut, die über Bärenhaut und Wolfspelz gezogen wurde, alles mit einer Schicht dunkler Reptilienschuppen überzogen, die mit den Zähnen von unzähligen Raubtieren beschlagen sind.
+
+Wenn er das Kleidungsstück jedoch anlegt, bemerkt der Träger eine organische Wärme darin. Es verschiebt sich eigenständig und passt sich der Statur des Besitzers an, wobei es sich eng an den Seiten und unter den Armen anschmiegt, und dennoch eine Bewegungsfreiheit bietet, die es mit feinem Duellleder aufnehmen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4796</ID>
+      <DefaultText>Die Rüstung sitzt wie eine zweite Haut ... vielleicht sogar wie eine erste. Er dehnt sich ganz einfach bei jeder Bewegung und versteift sich zum Schutz vor Schlägen. Er schmiegt sich eng an die Extremitäten, wie eine Reihe äußerer Muskeln, um die Hiebe des Trägers zu verstärken.
+
+Das Fell knistert leicht, wenn die Emotionen aufkochen, und ein gar nicht unangenehmer Moschusduft haftet den sich kräuselnden Schuppen an. Die fremdartige Wärme ist verschwunden – stattdessen fühlt sich die Rüstung nun so bequem an, als trage man gar nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>Verfüge über 25 Macht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4801</ID>
+      <DefaultText>Es lässt sich leicht verdrängen, dass man die Rüstung trägt. Es ist in der Tat einfach, viele Dinge zu vergessen. Erinnerungen, Reue, abstrakte Philosophien – diese Dinge haben nur wenig Platz auf der großen Jagd, jenen unendlich miteinander verknüpften Prüfungen, die jede Aktion in Eora definieren. Der &lt;xg&gt;Fokus&lt;/xg&gt; des Lebens konzentriert sich bei jenen, die es zulassen, auf die derzeitige Herausforderung, auf die nächste Herausforderung, auf den Kampf, der jeden Zusammenhang liefert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4804</ID>
+      <DefaultText>Das &lt;xg&gt;Überleben&lt;/xg&gt; war niemals genug. Auskommen ist &lt;xg&gt;Überleben&lt;/xg&gt;. Man kann überleben und dennoch niemals den Bau verlassen, sofern &lt;xg&gt;Nahrung&lt;/xg&gt; und Wasser vorhanden sind. So macht es das Haustier. So macht es das Vieh, das für das Schlachthaus gezüchtet wird. Das Überleben erfordert keine Jagd.
+
+Überlebe nicht nur gerade so, Sucher. Fordere alles heraus. Überwältige jeden Moment, drücke ihn gegen den Boden und erhebe einen Anspruch darauf. Trinke von seinem heißen Blut. Iss von seinem Fleisch. Schlucke seine Lektionen.
+
+Du verdienst, was du dir nimmst.
+
+Erhebe dich, versammle das Rudel, ziehe los, jage Beute, verspritze Blut, fordere Stärke und Wohlstand und Weisheit. Trinke, schmause, ficke und lass dich wieder in einen Schlummer fallen.
+
+Wiederhole es.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4805</ID>
+      <DefaultText>Absolviere die Prüfung des Wechselbalgs im Schmelztiegel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4846</ID>
+      <DefaultText>Zeremonielles Obsidianmesser</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4847</ID>
+      <DefaultText>Die Schneide dieser einst feingeschliffenen Klinge ist durch den dauerhaften Einsatz verschlissen. Flecken von getrocknetem Blut sind über die Oberfläche verteilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4848</ID>
+      <DefaultText>Blutiges, zeremonielles Obsidianmesser</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4849</ID>
+      <DefaultText>Brief an Engari: Sucher-Artefakte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4850</ID>
+      <DefaultText>Brief an Engari: Schlächter-Artefakte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4851</ID>
+      <DefaultText>Brief an Engari: Überlebender-Artefakte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4852</ID>
+      <DefaultText>"Engari, 
+
+Meine Jungs haben ein paar Spuren gefunden. Hier sind ein paar seltene und ungewöhnliche Entdeckungen. 
+
+- Eine Gruppe von allzu selbstsicheren Banditen hat sich mit dem ‚brennenden Stahl‘ aus dem Staub gemacht, dieses Ding ist aber durch so viele Hände gewandert, dass ich bezweifle, dass sie noch lange genug leben werden, um es zu genießen.
+- Einer meiner Kumpels hat einen Betrunkenen in Port Maje belauscht, der etwas von einer Glücksmünze murmelte. Und du hast daran gezweifelt, dass mein Netzwerk überall seine Augen hat. 
+- Der einzige Steinkopf, den ich gefunden habe und der deiner Beschreibung entspricht, befindet sich in einer überschwemmten Huana-Ruine. Die drei Damen sind von Eindringlingen möglicherweise nicht begeistert, sollten sie noch dort verweilen. 
+- Das Herz des Titanen befindet sich in einer Messingfestung. Versuche nicht, in das Vipernnest der Rauataianer zu stechen. Ihre Schiffe machen uns schon genug Ärger, wenn sie nicht auf der Jagd sind. 
+
+Hast du schon einen Käufer gefunden? Achte darauf, dass diesmal ein Teil des Gewinns seinen Weg in meine Tasche findet. 
+
+~ Ein Partner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4853</ID>
+      <DefaultText>"Engari,
+
+Ich hatte es ja gesagt - meine Jungs und ich werden &lt;i&gt;alles&lt;/i&gt; aufspüren, was du brauchst, doch irgendwann musst du mir zuerst sagen, wo du das alles erfährst. Also gut:
+
+- Du findest den Kristall in den Bergen von Kazuwari, umgeben von einem Wurf von temperamentvollen Wildferkeln. 
+- Noch ein Schädel? Wenn du meinst. Dieser hier wurde in Neketaka begraben. Wo erwartest du, ihn zu finden?
+- Ich kann einen Handel über ungeschliffene Edelsteine für dich arrangieren, derjenige, den du suchst, befindet sich aber unter einer Palme in einer offenen Wüste. 
+- Ich kann&lt;i&gt;auch&lt;/i&gt; einen Handel über abgetrennte Finger arrangieren, der große Stein, den du wolltest, befindet sich jedoch in den Tiefen einer schaurigen Pyramide. 
+
+Wenn du ‚traditionellere‘ Waren auf dem Markt suchst, weißt du ja, wo du mich findest. 
+
+~ Ein Partner." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4854</ID>
+      <DefaultText>"Engari,
+
+Du hast mich in der Vergangenheit ja häufig damit beauftragt, ein paar &lt;i&gt;seltsame&lt;/i&gt; Schmuckstücke zu finden, aber diese hier ... bist du sicher, dass du nicht meine Zeit verschwendest? Oder sind das Komponenten für irgendein Ritual? Weißt du was? Vergiss die Frage. Ich habe den Eindruck, dass ich es besser nicht wissen sollte. 
+
+- Der Schädel, nach dem du suchst, befindet sich in den Fängen von irgendwelchen Netzspinnern an der Westküste von Kazuwari. 
+- Diese Adra-Perle fand ihren Weg in die Tiefen von Neketaka, in den darunterliegenden Ruinen. 
+- Du wolltest ein Ohr, das die Zukunft hören kann? Nun, es gibt da eine Holzpuppe in Neketaka mit diesem besonderen Talent. Bring ein gutes Messer mit. 
+- Dieser alte Wandteppich, den du suchst, ist Piraten in die Hände gefallen. Jetzt dient er als Staubfänger in einem Land am Strand. 
+
+Suche nach Hilfe, alter Freund. 
+
+~ Ein Partner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4858</ID>
+      <DefaultText>Kette der rechtmäßigen Autorität</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4861</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4870</ID>
+      <DefaultText>In den Jahren vor der Ankunft der Königlichen Todesfeuer-Gesellschaft führte der Wahaki-Jäger Metani unzählige sagenumwobene Jagden auf der Insel an. Metani, der angeblich von Ngati mit unnatürlicher Gerissenheit gesegnet worden war, bevorzugte Hinterlist bei seinen Jagden und lockte riesige Seemonster in seine sorgfältig ausgelegten &lt;xg&gt;Fallen&lt;/xg&gt;. Mit einer solchen List erlangte er diese Trophäe, eine aus dem längsten Stoßzahn eines Qilutaaliks geschnitzte Harpune. Im Laufe der Zeit ritzte er auf seiner ganzen Länge Bilder der Kreaturen ein, die mit ihm besiegt wurden.
+
+Als die Rauatainer in das Todesfeuer strömten, setzte Metani Ngatis Stoßzahn gegen sie ein, begierig darauf, seine Tapferkeit gegen die Eindringlinge auf die Probe zu stellen. Er war jedoch in keiner Weise auf die eiserne Armada vorbereitet, und sein kleines Boot verschwand in der Explosion einer Wasserbombe. Der Stoßzahn war verloren – die See hatte ihn sich zurückgeholt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4871</ID>
+      <DefaultText>Umhang des Meisters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4872</ID>
+      <DefaultText>Dieser Umhang, der mit stilisierten Stelgaer, Spinnen und Wildschweinen bestickt ist, wurde dir nach deiner Ernennung zum Meister der Jagd bei den Kazuwari Schmelztiegel-Spielen verliehen. Obwohl der traditionelle Preis für den Sieger ein Helm ist, bist du nicht der erste Gottähnliche, der die Spiele gewinnt. Meistern mit von den Göttern berührten Augenbrauen wie deine wird dieser Umhang in Einheitsgröße statt des üblichen Helms verliehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4873</ID>
+      <DefaultText>Helm des Herausforderers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4874</ID>
+      <DefaultText>Dieser gekrönte Helm schützt nicht nur den Kopf, das Gesicht und den Hals seines Trägers sondern kennzeichnet auch jene, die in Rang und Ansehen im Schmelztiegel aufgestiegen sind. Dekorative Gravierungen verleihen dem Träger ein stoisches Aussehen, und die offenen Gucklöcher unterstreichen die Notwendigkeit, die Augen aus der Hitze des Gefechts zu halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4980</ID>
+      <DefaultText>Schädel der Matrone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4981</ID>
+      <DefaultText>Dieser Schädel, der grob die Größe und Form eines Ogerschädels hat, wurde tatsächlich sorgsam aus glattem, grauem Marmor gemeißelt. Ein beachtlicher Adra-Klumpen ersetzt das eine Auge, während das andere die aufwendige Kupferarbeit enthüllt, die innerhalb des Steins verborgen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4990</ID>
+      <DefaultText>Ungeschliffener Edelstein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4991</ID>
+      <DefaultText>Als der sprichwörtliche Rohdiamant funkelt dieser ungeschliffene Edelstein von innen heraus vor Seelenenergie – und fühlt sich sogar schwerer an als er aussieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4992</ID>
+      <DefaultText>Finger der vertriebenen Königin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4993</ID>
+      <DefaultText>Dieser schwere Steinfinger ist länger als dein Arm und auch wesentlich schwerer. Er kringelt sich leicht nach innen, als ob er – selbst nachdem er von seinem Körper getrennt wurde – nach Gerechtigkeit und Autorität greift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4994</ID>
+      <DefaultText>Die Adra-Perle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4995</ID>
+      <DefaultText>Diese Kugel aus glattem, weißem Adra hat grob die Größe deiner Faust und fühlt sich viel schwerer an als sie den Anschein hat. Ein salziger Duft – wie der frische Geruch des Todesfeuermeeres, der vom widerlichen Gestank von verfaulendem Fisch durchdrungen ist – haftet ihr hartnäckig an.
+
+Obwohl er inaktiv ist, bewahrt der Adra einen Teil seines Schimmers, möglicherweise der spirituellen Essenz geschuldet, die er enthält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4996</ID>
+      <DefaultText>Die Suche nach dem Dienstmädchen des Haemneg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4997</ID>
+      <DefaultText>Dieser alles andere als gut erhaltene Wandteppich ist in der Mitte verblichen und an den Rändern ausgefranst, wodurch die Bestimmung seines Themas zur Übung in kreativer Interpretation wird.
+
+Sein Titel spielt auf eine alte aedyranische Legende über eine alte Menschenfrau an, die in einem gemischten Haus von Menschen und Elfen diente. Ihre Herrin, die lange Zeit eifersüchtig auf die herzerweichende Stimme des Mädchens war, gelangt zu der Überzeugung, dass ihr Menschen-Ehemann das Dienstmädchen zur Konkubine nahm. In einem Wutanfall schickt die Dame des Hauses das Mädchen in ein Grab in der Umgebung, angeblich um nach einem seltenen Gewürz zu suchen, das für das Festmahl für einen besuchenden Priester benötigt wird.
+
+Als der Bruder des Mädchens von der List der Dame erfährt, wagt er sich in das Grab mit seinen unzähligen &lt;xg&gt;Fallen&lt;/xg&gt;, um seine geliebte Schwester zu retten. Ihr Schicksal veränderte sich mit den Erzählungen im Laufe der Jahrhunderte – in einigen Ausführungen bringt er das Mädchen sicher wieder zum Haus zurück; sie heiratet den Herren des Hauses, und er setzt dem Haemneg mit der intriganten Elfe ein Ende. In anderen Versionen findet der Bruder seine Schwester in dem Moment, als sie auf jene Falle tritt, die sie das Leben kostet.
+
+Die undeutlichen &lt;xg&gt;Figuren&lt;/xg&gt;, die auf diesem Wandteppich dargestellt sind, sind möglicherweise der Bruder und seine Gruppe, als sie sich in das unterirdische Hügelgrab wagen, es könnten aber genauso gut die Elfe und ihr Dienstmädchen, der Herr und der erfundene Priester, oder irgendeine andere Kombination von Charakteren aus der Erzählung sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4998</ID>
+      <DefaultText>Ohr des Wahrsagers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4999</ID>
+      <DefaultText>Das hölzerne Ohr von Ifren, des Wahrsagers im Dunklen Schrank von zweifelhaftem Talent, ist rau und splittert durch die Abtrennung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5000</ID>
+      <DefaultText>Die Pechmünze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5001</ID>
+      <DefaultText>Man würde nicht wissen, dass diese Münze, die in den Republiken geprägt worden ist, eine Silber-Lusce war, ohne zuvor ihre schwarze Patina anzukratzen. Bei normaler Untersuchung findet man nur wenig über diese Münze heraus, sie fühlt sich in deiner Hand jedoch ungewöhnlich kalt an. Eine Untersuchung der Münze mit den Sinnen eines Wächters enthüllt jedoch, dass sie vollständig mit den Resten von Seelen getränkt wurde, die in den groben Launen des Todesfeuers verloren gingen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5002</ID>
+      <DefaultText>Der Kopf des Jägers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5003</ID>
+      <DefaultText>Der Kopf eines Tigers, der im Stil des alten Volkes der Huana in Stein gefasst wurde. Verwittert und mit Algen bedeckt scheint er ein passender Begleiter für die Statue der Gesichter der Jagd in der Arena zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5006</ID>
+      <DefaultText>Herz des Titanen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5007</ID>
+      <DefaultText>Dieser tränenförmige Klumpen Adra ruht in den korrodierten Überresten eines Kupferrahmens. Ein haarfeiner Riss verläuft durch den Stein entzwei, ansonsten ist der Adra in hervorragendem Zustand.
+
+Obwohl er bereits vor Jahrhunderten oder noch länger aus dem Boden gewonnen wurde, bewahrt der Adra einen schwachen, leuchtenden Schimmer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5325</ID>
+      <DefaultText>Dieser Schädel, gänzlich gefüllt mit Seelen, ruht schwer in deiner Hand. Man weiß nicht, ob es der Gegenstand ist, der frühere Sucher in den Wald führte, oder ob es nur die Überreste eines einzelnen Suchers sind, der den Wald nicht mehr verlassen hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5326</ID>
+      <DefaultText>Die aggressive Seelenenergie, die in diesem dünnen Stahlstreifen wütet, scheint ihn von innen zu erwärmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5327</ID>
+      <DefaultText>Lederbänder sichern dieses Stück verdorbenen Adras an seiner Schnur. Bemerkenswert ist, dass für dieses Zubehörteil kein Kupfer verwendet wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5387</ID>
+      <DefaultText>Von Feinden {0} Mal verfehlt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5439</ID>
+      <DefaultText>Zahn des Toamowhai</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5440</ID>
+      <DefaultText>Dieser angespitzte Metallsplitter klimpert vor unverbrauchter Energie. Goldbänder flimmern und erlöschen regelmäßig wie lebendige Asche, die unter seiner Onyx-Oberfläche gefangen ist. Ein zerbrochener Rand deutet darauf hin, dass er entweder abgeschlagen wurde oder durch irgendein größeres Objekt geschmolzen ist. Was es war, und wie es so wurde, ist ein Geheimnis.
+
+In jüngerer Vergangenheit wurde er als Zahn von Toamowhai bezeichnet und verwendet, um eine Adra-Säule zu zerschlagen. Das Ausmaß seiner Macht kann nur vermutet werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5498</ID>
+      <DefaultText>Töte {0} Feinde, während du an einer Verstand-Wirkung leidest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5500</ID>
+      <DefaultText>Erleide {0} Schaden, während deine Gesundheit unter 25 % liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5501</ID>
+      <DefaultText>Lasse {0} feindliche Effekte während eines Gefechts auslaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5502</ID>
+      <DefaultText>Verursache {0} Schaden bei Feinden, während deine Gesundheit unter 25 % liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5503</ID>
+      <DefaultText>Wende {0} Wirkungen bei Geistern an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5504</ID>
+      <DefaultText>Mach den Tiefenjäger ausfindig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5505</ID>
+      <DefaultText>Mach den Uralten des Schwefels ausfindig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5506</ID>
+      <DefaultText>Mechanisches Wunder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5507</ID>
+      <DefaultText>Viele Jahre lang galt die Innovation der traditionellen Arbaleste als stagnierend. All dies änderte sich an dem Tag, an dem zwei Karren miteinander kollidierten – der eine wurde von einem Beseeler gefahren, der eine schwere Fracht von Kupferfedern beförderte, der andere von einem unternehmerischen Arbaleste-Enthusiasten. Zur Offenbarung kam es, als sich der Staub gelegt hatte und die vom Schicksal bestimmten Reisenden versuchten, ihre zerstreute Fracht zu entwirren. 
+
+Ab diesem Tag wurde das Paar zu untrennbaren Geschäftspartnern – die ihre gefederte Verbesserung der Arbaleste an Waffenhändler in den vailianischen Republiken vermarkteten. Andere versuchten, ihren Entwurf zu kopieren, dieses Gerät gilt jedoch als Originalprototyp, der großartige Veränderungen in der Waffenherstellung und eine noch größere Freundschaft ermöglichte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5542</ID>
+      <DefaultText>Porokoas Auge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5543</ID>
+      <DefaultText>Dieses große, leuchtende Auge zuckt manchmal, worin sich ein Hauch von Wachsamkeit erkennen lässt. Obwohl es unbeweglich und leblos ist, fühlt es sich matschig und glitschig an und schwappt unter dem Gewicht seines erstarrten Glaskörpers hin und her. Der Porokoa ist für seine unbestechliche Aufmerksamkeit und Geduld während der Jagd bekannt, und am Auge allein lässt sich erkennen, dass dieses Organ von einem meisterhaften Jäger stammen muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5544</ID>
+      <DefaultText>Drago</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5545</ID>
+      <DefaultText>Drago gehört zu einer Rasse von Wüstenschlangen, die auf den Inseln des Todesfeuers geläufig ist. Diese freundliche Kreatur wurde wahrscheinlich von Hand von seinem vorherigen Besitzer großgezogen, und er macht sich Sorgen, wenn er zu lange außerhalb deiner Sichtweite ist.
+
+Drago ist häufig an einem sonnigen Flecken oberhalb deiner Gruppe zu finden, während er sich nachts lieber eng am Fuße deines Schlafsacks zusammenrollt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5600</ID>
+      <DefaultText>Exaktes Sendschreiben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5601</ID>
+      <DefaultText>Dieser Brief wurde sauber zu einem Quadrat gefaltet. 
+
+"[Player Name] geht durch das Todesfeuer mit Scherben von verbranntem Metall. Die Bedeutung dieser Gegenstände kann dir nicht entgangen sein, auch wenn der Zeitpunkt für uns alle überraschend ist. 
+
+Wir sollten diese Gelegenheit ergreifen. Töte [Player Name]. Vertusche deine Tat nicht, wir haben das Gesetz auf unserer Seite. Sorge dafür, dass das Metall in Izzias Hände gelangt. Sie verschwendet ihr Potenzial in Perikis Aussichtspunkt. 
+
+Lobet die vertriebene Königin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5602</ID>
+      <DefaultText>Eilig geschriebenes Sendschreiben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5603</ID>
+      <DefaultText>Das Papier ist von Kohlenstaub und Kerzenwachs übersät. 
+
+"Ich hoffte, diese Wort nie schreiben zu müssen. Die geschwärzten Scherben wurden gefunden, und [Player Name] trägt sie mit sich herum – ich bete, dass es aus Unwissenheit oder Zufall geschah.
+
+Wir können es noch retten, indem wir schnell handeln. Der Wächter leidet vielleicht schon unter der Verdorbenheit der Hexe, ohne es zu ahnen. Kein Gedanke von Gnade soll dein Schwert ruhen lassen. 
+
+Sobald du die Scherben wiederhast, &lt;i&gt;dürfen sie unter keinen Umständen zusammenbleiben.&lt;/i&gt; Sobald du es meldest, werden sie in verschiedenen Gruften platziert und durch Zauber gebunden, solange es uns gibt. 
+
+Sorge auch dafür, dass sie weit entfernt von Perikis Aussichtspunkt gehalten werden. Unsere Feinde murren über die Handwerkerin Izzia als hätte sie einen Hauch Schicksal an sich.
+
+Für Frieden und Magrans Ehre, mögest du Erfolg haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5640</ID>
+      <DefaultText>Muātus Kopf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5641</ID>
+      <DefaultText>Dieser abgetrennte Kopf fühlt sich so schwer wie eine Kokosnuss an. Er riecht ein wenig nach Einbalsamierungskräutern, wobei Thymian und Lavendel aus dem dezenten Duft hervorstechen.
+
+Eine mit dem verwesenden Fleisch verbundene Seele ruht in einem inaktiven Zustand, aber der richtige Impuls könnte sie für eine begrenzte Zeit wieder ins Bewusstsein holen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5656</ID>
+      <DefaultText>Dieser Stein brummt mit gefangener Seelenessenz und hallt die letzten Sekunden eines siegreichen Duells wider. Hält man ihn sich nah ans Ohr, hört man das Johlen der Menge und die Musik von Stahl. Wird er richtig umgelenkt, könnte der Geist des Kampfes aus dem Stein kommen und einen Ausrüstungsgegenstand verstärken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5657</ID>
+      <DefaultText>Stein des Höhepunkts</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

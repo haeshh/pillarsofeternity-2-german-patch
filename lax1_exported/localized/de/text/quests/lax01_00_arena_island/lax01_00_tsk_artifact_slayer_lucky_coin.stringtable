@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_slayer_lucky_coin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Suche des Schlachtenden Gesichts nach der Pechmünze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beschaffe die &lt;b&gt;Pechmünze&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bring die &lt;b&gt;Pechmünze&lt;/b&gt; zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Das Schlachtende Gesicht möchte, dass ich eine &lt;b&gt;verfluchte Münze&lt;/b&gt; wiederbeschaffe und zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurückbringe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Engaris Informationen deuten darauf hin, dass die gesuchte Münze im &lt;b&gt;Krakenauge&lt;/b&gt; in &lt;b&gt;Port Maje&lt;/b&gt; zu finden sei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe die Münze gefunden, die das Schlachtende Gesicht sucht. Um auf ihre spirituelle Geschichte zuzugreifen, muss ich sie in das &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; legen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Pechmünze in das Becken der Erinnerungen gelegt und dadurch weitere Herausforderungen von den Gesichtern der Jagd freigeschaltet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

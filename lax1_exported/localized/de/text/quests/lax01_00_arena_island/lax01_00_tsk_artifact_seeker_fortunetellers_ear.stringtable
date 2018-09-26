@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_seeker_fortunetellers_ear</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Suche des Suchenden Gesichts nach dem Ohr des Wahrsagers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beschaffe das &lt;b&gt;Ohr des Wahrsagers&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bring das &lt;b&gt;Ohr des Wahrsagers&lt;/b&gt; zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Das Suchende Gesicht möchte, dass ich zum Todesfeuer reise, um nach dem &lt;b&gt;Ohr des Wahrsagers&lt;/b&gt; zu suchen, das möglicherweise tatsächlich ein Ohr eines tatsächlichen Wahrsagers ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Engari entdeckte, dass der Träger des Ohres des Wahrsagers sich möglicherweise unter den Händlern von Neketaka befindet. Die Ladengeschäfte von &lt;b&gt;Perikis Aussichtspunkt&lt;/b&gt; könnten ein guter Ausgangspunkt für meine Suche sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Da ich nun im Besitz des Ohres des Wahrsagers bin, muss ich es in das &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; legen, um auf die darin enthaltene spirituelle Geschichte zuzugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Ohr gefunden und zum Becken der Erinnerungen gebracht, wodurch sich mir eine weitere Herausforderung von den Gesichtern der Jagd eröffnete.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

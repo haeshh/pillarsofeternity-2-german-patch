@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tooltips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Engwithaner konstruierten Cignath Mór, um die Verwandlung von Kreaturen in Monster mit schrecklichen Ausmaßen zu erforschen. Du hast es gegen Galawains Proteste überflutet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Engwithaner konstruierten Cignath Mor, um die Verwandlung von Kreaturen in Monster mit schrecklichen Ausmaßen zu erforschen. Du hast es auf Galawains Bitte hin erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Engwithaner konstruierten Cignath Mor, um die Verwandlung von Kreaturen in Monster mit schrecklichen Ausmaßen zu erforschen. Du hast es auf Anweisung von Flottenmeister Okaya besucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

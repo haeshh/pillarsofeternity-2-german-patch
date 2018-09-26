@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_slayer_titan_heart</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Suche des Schlachtenden Gesichts nach dem Herz des Titanen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beschaffe das &lt;b&gt;Herz des Titanen&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bring das &lt;b&gt;Herz des Titanen&lt;/b&gt; zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Das Schlachtende Gesicht identifizierte das &lt;b&gt;Herz eines antiken Kriegers&lt;/b&gt; und beauftragte mich mit dessen Beschaffung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Engaris Informationen deuten darauf hin, dass das Herz eines antiken Kriegers innerhalb einer &lt;b&gt;Festung aus Messing&lt;/b&gt; gehalten wird. Ich muss in die Festung eindringen, um das Herz zu beschaffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Da ich nun im Besitz des Herzens des Titans aus der Messingzitadelle bin, kann ich sein Potenzial im &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; entfesseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Herz des Titanen in das Becken der Erinnerungen gelegt. Ich kann nun auf einen neuen Kampf von den Gesichtern der Jagd zugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

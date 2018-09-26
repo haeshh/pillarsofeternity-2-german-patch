@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>96</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3975</ID>
+      <DefaultText>Huaba-Māha-Tiefen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3982</ID>
+      <DefaultText>Kōhatekana-Weite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3983</ID>
+      <DefaultText> Whakupoko-Tiefland</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4002</ID>
+      <DefaultText>Rutura-Whēkeke-Fälle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4033</ID>
+      <DefaultText>Hiuahariki-Rücken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4034</ID>
+      <DefaultText>Pingaka-Schlucht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4035</ID>
+      <DefaultText>Tiebe o Waiapu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4075</ID>
+      <DefaultText>Halle der Erinnerungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4076</ID>
+      <DefaultText>Zuschauerplatz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4077</ID>
+      <DefaultText>Gasthaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4078</ID>
+      <DefaultText>Hafen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4147</ID>
+      <DefaultText>Becken der Erinnerungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4148</ID>
+      <DefaultText>Verfügbare Herausforderungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4171</ID>
+      <DefaultText>Artefaktopfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4172</ID>
+      <DefaultText>Ausgewählte Herausforderung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4173</ID>
+      <DefaultText>Sucher, Schlächter, Überlebender</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4174</ID>
+      <DefaultText>Herausfordern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4177</ID>
+      <DefaultText>Der Pfad des Suchers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4178</ID>
+      <DefaultText>Bestien des Schlächters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4179</ID>
+      <DefaultText>Gefecht des Überlebenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4180</ID>
+      <DefaultText>Meister der Jagd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4181</ID>
+      <DefaultText>Der Übergangsritus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4182</ID>
+      <DefaultText>Wettbewerb des Überlebenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4183</ID>
+      <DefaultText>Von Eir Glanfath stammend ist die Bande des Bären eine Gruppe von Waldläufern und Druiden, die sich unter ihrer Hingabe für alles Bärenartige vereinen. Mit seinen gezähmten Hausbären und seinem Gestaltwandlungszauber ist das Team eher eine wilde Naturkraft als eine traditionelle Söldnerbande.
+
+Obwohl du dich für alle drei Wettbewerbe (Sucher, Schlächter und Überlebender) qualifizieren kannst, kannst du nur an einem dieser Wettbewerbe teilnehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4184</ID>
+      <DefaultText>Wettbewerb des Schlächters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4185</ID>
+      <DefaultText>Die Drachenjäger behaupten von sich, die letzten verbleibenden Mitglieder des seit langer Zeit aufgelösten Ordens des verbrannten Stahls zu sein, einer Bruderschaft von selbst ernannten Drachenjägern. Indem er ihre Lieblingsbeute nachahmt, kann der Lautmaler, unter dessen Führung die Drachenjäger agieren, Flammen auf ihre Feinde herabregnen lassen. Darüber hinaus können sie mit den grausamen Waffen, die sie für die Drachenjagd nutzen, gleichermaßen einfach das Fleisch von Gestandenen wie auch Reptilienschuppen durchschneiden.
+
+Obwohl du dich für alle drei Wettbewerbe (Sucher, Schlächter und Überlebender) qualifizieren kannst, kannst du nur an einem dieser Wettbewerbe teilnehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4186</ID>
+      <DefaultText>Wettbewerb des Suchers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4187</ID>
+      <DefaultText>Die stillen Fünf sind nicht dafür bekannt, um den heißen Brei zu reden – oder überhaupt zu reden. Diese Gruppe von Medien lebt und trainiert das ganze Jahr über als einzelne Einheit, und ihre Bindung der stillen Kommunikation ermöglicht es ihnen, als zusammenhaltende, koordinierte Bedrohung zu kämpfen.
+
+Obwohl du dich für alle drei Wettbewerbe (Sucher, Schlächter und Überlebender) qualifizieren kannst, kannst du nur an einem dieser Wettbewerbe teilnehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4188</ID>
+      <DefaultText>Erinnerungen eines Wahnsinnigen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4189</ID>
+      <DefaultText>Der dritte Kampf im Rahmen des Übergangsritus stellt gewöhnlich einen Herausforderer gegen einen Gegner, der aus seinen eigenen Erinnerungen stammt. In deinem Fall hat der Schmelztiegel beschlossen, dass du gegen Maerwald kämpfen musst. Je nachdem, wie du mit dem alten Meister von Caed Nua fertig geworden bist, wird Maerwalds Zorn möglicherweise durch Misshandlung angeheizt oder durch Gnade beruhigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4190</ID>
+      <DefaultText>Die Agonie der Elemente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4191</ID>
+      <DefaultText>Bevor ein Jäger andere lebende Wettstreiter in der Schmelztiegel-Arena töten kann, muss er zuerst den Übergangsritus abschließen. Alle neuen Wettkämpfer werden durch eine Prüfung gegen die Elemente initiiert. Wenn ein Möchtegern-Jäger nicht gegen eine Kombination aus primitiven Fäulen bestehen kann, welche Art von Herausforderung würde er einem ordentlichen Kämpfer bieten?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4192</ID>
+      <DefaultText>Der Aderlass</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4193</ID>
+      <DefaultText>Im vierten und letzten Kampf eines Übergangsritus treten zwei Rotten von Wettstreitern gegeneinander an. Zwei Teams betreten den Schmelztiegel, doch nur ein Team wird den Segen von Toamowhai erhalten und die Arena lebendig verlassen. Es gibt keinen Sieg, indem das andere Team zur Kapitulation unterworfen wird – der Schmelztiegel fordert ein Opfer, und nur durch den Tod des Verlierers kommt der Sieger voran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4194</ID>
+      <DefaultText>Prüfung der Nāga</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4195</ID>
+      <DefaultText>Herausforderer, welche die Elemente überleben, müssen als Nächstes eine Jagd durch die Nāga überstehen. Obwohl sie von der Größe und Stärke her mit einzelnen Gestandenen vergleichbar sind, kämpfen Nāga-Krieger, -Bogenschützen und -Schamanen als einheitliches Rudel und können so kurzen Prozess mit unglücklichen Feinden machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4198</ID>
+      <DefaultText>Schatten des Suchers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4199</ID>
+      <DefaultText>Der Kampf stellt den letzten Kampf eines Sucher-Herausforderers dar, der von den Schattenhandlangern seines Rivalen getötet wurde. In dem Wissen, dass sein Feind ein wilder und frenetischer Schläger war, der dazu neigte, in das und aus dem Schlachtgewühl herauszuspringen, gab der Assassine seinen Schatten besondere Anweisungen, welche darauf ausgelegt waren, die Wildheit und den unvorhersehbaren Kampfstil seines Feindes zu kontern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4200</ID>
+      <DefaultText>Konflikt des Feuertitanen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4201</ID>
+      <DefaultText>Während die meisten Krieger schließlich dem Zyklus der Jahreszeiten zum Opfer fallen, ist der engwithanische Titan ein Konstrukt zeitloser Tapferkeit. Jahrhunderte können weder den Zweck trüben noch die Ausdauer dieser massiven, aus Animat bestehenden Statuen verkommen lassen. Dieser Kampf erinnert an eine vom Unglück verfolgte Expedition in engwithanische Ruinen und die kurze, wilde Auseinandersetzung mit dem zeitlosen Wächter der antiken Stadt, der den Erkundern das Leben kostete.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4202</ID>
+      <DefaultText>Taktische Oger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4204</ID>
+      <DefaultText>Tanz des Wechselbalgs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4205</ID>
+      <DefaultText>Der Tanz des Wechselbalgs, der ein beständiger Favorit der Massen ist, fordert Herausforderer dazu auf, ihre Macht auf die Probe zu stellen, wobei sie eine Gestalt annehmen, die nicht ihre eigene ist. Ein Krieger, der dies übersteht, obwohl er seiner Kernstärken beraubt wurde, ist wahrlich von Toamowhai gesegnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4206</ID>
+      <DefaultText>Ausdauerprüfung – Gul-Ärger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4207</ID>
+      <DefaultText>Stelle deine Standhaftigkeit gegen eine überwältigende Flut an wütenden Gulen auf die Probe. Die Masse von Gulen, die nach Fleisch hungert und keine Gnade kennt, ist bekannt dafür, weniger fähige Streiter in ihrer einer Heuschreckenplage gleichenden Orgie des Konsums von Gestandenen vollständig zu verschlingen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4208</ID>
+      <DefaultText>Geheimnisse des Schleims</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4209</ID>
+      <DefaultText>Sumpfschleime sind von Natur aus territorial und beschützen die Umgebung, in der sie sich angesiedelt haben, bis in den Tod. Einige Schleime entwickeln eine symbiotische Affinität zu magischen Schutzen, was es schwieriger werden lässt, sich ihrer zu entledigen. Angehende Sucher müssen lernen, mit ihren wilden Feinden umzugehen, während sie den Gefahren aus dem Weg gehen, die aktive Schutze mit sich bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4210</ID>
+      <DefaultText>Dunkle Beharrlichkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4211</ID>
+      <DefaultText>Bereite dich auf einen Feind vor, der seine Stärke aus seinen eigenen Niederlagen bezieht. Erlebe den Niedergang von Jorrean do Aldres wieder, einer ehrgeizigen Sängerin, die bei dem Versuch, zunehmend herausragende Gegner zu beschwören und sich mit ihnen zu messen, eine Gruppe von Sparringspartnern heraufbeschwor, die weit härter waren, als sie es erwartet hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4212</ID>
+      <DefaultText>Ausdauerprüfung – Skelettmannschaft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4213</ID>
+      <DefaultText>Während jeder Herausforderer, der den Übergangsritus überlebt, ein oder zwei Skelette niederstrecken kann, so erfordert es doch einen fähigen Krieger, um in einer nahezu endlosen Mauer dieser furchtlosen, wahnsinnigen Gefäße zu überleben. Stelle deine verbleibende Macht in diesem Kampf gegen unzählige Horden von Skelettgegnern auf die Probe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4214</ID>
+      <DefaultText>Das Spinnennetz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4215</ID>
+      <DefaultText>Zwei Spinnen-Matriarchinnen und ihre jeweilige Brut haben ihren Hinterhalt gewoben und warten nun darauf, dass mutige (oder dumme) Herausforderer in ihre Falle tappen. Obwohl es ihnen an jeglichem Verstand eines Gestandenenjägers mangelt, so haben die Spinnen ihre eigene wilde List, und viele Jäger wurden von den Ausgewählten des Suchers bereits getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4216</ID>
+      <DefaultText>Eine Prüfung mit Fangzähnen und Fell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4217</ID>
+      <DefaultText>Obwohl Stelgaer und andere Wildkatzen selten gemeinsam mit ihren Vettern jagen, so sind viele Jäger in Länder vorgedrungen, in denen sich Territorien überschneiden, und haben den vereinten Zorn der schwer zu fassenden Stelgaer und ihrer geschmeidigen Vettern zu spüren bekommen. Stelle deine Macht gegen solch eine tödliche Begegnung mit Raubkatzen jeder Größe auf die Probe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4270</ID>
+      <DefaultText>Hand anschneiden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4277</ID>
+      <DefaultText>Wildschweinrotte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4278</ID>
+      <DefaultText>Während der gewöhnliche Keiler selbst ein störrisches Tier ist, sind die massiven Keiler von Kazuwari mit Toamowhais Tapferkeit und Wildheit gesegnet. Im Laufe der Jahrhunderte sind unzählige Jäger dieser Insel auf der Suche nach Schweinefleisch ums Leben gekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4279</ID>
+      <DefaultText>Die Lagufaeth-Rasse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4280</ID>
+      <DefaultText>Die wilden und unerbittlichen Lagufaeth stellen eine beachtenswerte Herausforderung dar, wenn man auf ein einzelnes Exemplar stößt, und sind ein herausragender Feind als kampfbereite Rotte. Dieser Kampf erinnert an einen vom Unglück verfolgten Angriff auf eine Lagufaeth-Brutmutter und ihre bösartigen Lakaien. Herausforderer werden die Brut in einer wehrhaften, vorbereiteten Stellung vorfinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4287</ID>
+      <DefaultText>Xaurip-Chronik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4288</ID>
+      <DefaultText>Obwohl der törichte Xaurip alleine jagt, ziehen erfolgreichere Schwärme Dracos von klein auf groß und richten ihre Reptilienverwandten so ab, dass sie ihre Xaurip-Herren mit kaltblütiger Entschlossenheit verteidigen. Dieser Kampf zeigt die Jagdgesellschaft bestehend aus Xaurips und Dracos, die vor der Ankunft der Huana über diese Insel pirschte. Wäre die Geschichte anders verlaufen, würden die Xaurips diese Insel noch immer halten und wäre der Schmelztiegel möglicherweise niemals errichtet worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4295</ID>
+      <DefaultText>Krone kombinieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4296</ID>
+      <DefaultText>Mach dich auf den Aufprall gefasst, während du ein Geplänkel gegen eine Mannschaft von Ogerpiraten wieder erlebst. Der Oger ist doppelt so groß und um ein Vielfaches robuster als jeder Gestandene und die lebende Verkörperung des schlachtenden Gesichts. Selbst ein einzelner Oger kann unglaublich viel Schmerz erleiden wie auch zufügen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4361</ID>
+      <DefaultText>Battle Royale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4362</ID>
+      <DefaultText>Die diesjährigen auserwählten des Suchers, Schlächters und Überlebenden haben ihren Wert unter Beweis gestellt. Es ist an der Zeit, dass die drei Teams um den Titel des Meisters der Jagd kämpfen. In diesem Kampf, alle gegen alle, tritt jede Gruppe gegeneinander an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4433</ID>
+      <DefaultText>Kult des Nāga-Schamanen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4434</ID>
+      <DefaultText>In diesem Kampf treten die Herausforderer gegen eine Gruppe von Giftnāga an, die von einem mächtigen Giftschamanen angeführt werden, welcher Verstärkungen heraufbeschwören und die Kräfte seiner giftigen Verbündeten verbessern kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4473</ID>
+      <DefaultText>Ausdauerprüfung – Die Torheit des Beseelers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4474</ID>
+      <DefaultText>Erlebe die letzten Augenblicke der auf verheerende Weise erfolgreichen Experimente eines Beseelers wieder. In diesem Kampf treten die Herausforderer gegen eine überwältigende Horde von Konstrukten an, wobei lediglich die schlecht durchdachte Ausfallsicherung des Beseelers für ausgeglichene Verhältnisse sorgen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4475</ID>
+      <DefaultText>Die Brüder des Buches und des Zweigs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4476</ID>
+      <DefaultText>Dieser Kampf stellt das letzte Gefecht der Waidyo-Brüder nach. Die beiden Brüder, die in ihren jeweiligen Gebieten der Magie brillant waren, teilten ihre Forschungen so auf, dass sie ihre eigenen Fertigkeiten beherrschten und den Zauber ihres Bruders kontern konnten. Als sie während eines Labortest der jeweils anderen Verteidigung angegriffen wurden, zog jeder Bruder vor seinem Tod mit Glanz und Gloria zahllose Angreifer mit sich in das Rad.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4481</ID>
+      <DefaultText>In Verteidigung des geschriebenen Worts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4482</ID>
+      <DefaultText>Beschütze die Forschungsnotizen, bevor die widerspenstigen Imps des Erzmagiers das Werk ihres Meisters zerstören können. Obwohl ein einzelner Imp keine wirkliche Bedrohung darstellt, so führt die Zerstörung eines jedes Satzes von Forschungsnotizen durch die Imps zu einem zunehmend schleichenden Tod der Nicht-Imp-Teilnehmer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4487</ID>
+      <DefaultText>Grab des Vathor Cadhu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4488</ID>
+      <DefaultText>Erlebe die Plünderung des Grabes von Vathor Cashu wieder. Wo die ursprünglichen Diebe auf der Suche nach den Reichtümern in diesem mit Fallen bespickten Mausoleum nur Tod und Vernichtung fanden, wirst du bei dieser Nachstellung des Schmelztiegels dieser tödlichen, fehlgeschlagenen Schatzsuche vielleicht mehr Erfolg haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4494</ID>
+      <DefaultText>Ketē o Pungā</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4495</ID>
+      <DefaultText>Prüfung des Wechselbalgs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4496</ID>
+      <DefaultText>Galawains vielgesichtige Inkarnation, die als das Wechselbalg bekannt ist, gab eine Herausforderung gegen den Träger seines gleichnamigen Relikts, der Rüstung des Wechselbalgs, bekannt ... und dieser Träger bist ganz zufällig du. Verteidige deine Ehre und deinen Titel gegen diesen mächtigen Avatar des Fürsten der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4558</ID>
+      <DefaultText>Rebūtara-Pass</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4580</ID>
+      <DefaultText>Ehrenrettung der Königin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4726</ID>
+      <DefaultText>Vox Machina – Grog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4727</ID>
+      <DefaultText>Vox Machina – Vexahlia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>Vox Machina – Keyleth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4729</ID>
+      <DefaultText>Vox Machina – Percival De Rolo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4730</ID>
+      <DefaultText>Vox Machina – Pike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4731</ID>
+      <DefaultText>Vox Machina – Scanlan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4732</ID>
+      <DefaultText>Vox Machina – Shaun Gilmore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4733</ID>
+      <DefaultText>Vox Machina – Vaxildan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5011</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5012</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5018</ID>
+      <DefaultText>&lt;b&gt;Sucher, Schlächter, Überlebender &lt;/b&gt; wurde installiert. Du beginnst automatisch die erste Quest dieses Abenteuers, wenn der Hüter mit dir Kontakt aufnimmt, nachdem du in Pillars of Eternity II: Deadfire weit genug vorangekommen bist, um Kazuwari zu erreichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5020</ID>
+      <DefaultText>Der Hüter möchte mit dir sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5130</ID>
+      <DefaultText>Ilo</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_survivor_woedica_finger_statue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Suche des Überlebenden Gesichts nach dem Finger der verbannten Königin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beschaffe den &lt;b&gt;Finger der verbannten Königin&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bring den &lt;b&gt;Finger der verbannten Königin&lt;/b&gt; zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Das Überlebende Gesicht möchte, dass ich in einen &lt;b&gt;Tempel von Woedica&lt;/b&gt; eindringe und &lt;b&gt;einen Teil einer Statue&lt;/b&gt; entwende, welche der Göttin des Urteils gewidmet ist. Was kann da schon schiefgehen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Das Überlebende Gesicht respektiert Woedicas Durchhaltevermögen im Zuge ihres Niedergangs. Dennoch möchte der Keiler, dass ich &lt;b&gt;einen Teil einer Statue&lt;/b&gt; von einem &lt;b&gt;der Göttin gewidmeten Ort&lt;/b&gt; beschaffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe den Finger der verbannten Königin auf der obersten Ebene des Heiligtums des Eidbinders gefunden. Wenn ich ihn nutzen will, muss ich ihn zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurückbringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe den Finger der verbannten Königin in das Becken der Erinnerungen gelegt und dadurch neue Herausforderungen von den Gesichtern der Jagd freigeschaltet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Erhöht jedes Mal, wenn ein Gruppenmitglied niedergeschlagen wird, Macht und Entschlossenheit bis zum Ende des Kampfes um {0:triggervalue:straight}. Wirkung kann bis zu 4-mal gestapelt werden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Bezaubere umstehende Bestien, um {0:extravalue:duration} auf erzielten Bestien-Kill zu erhalten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>{0:value:percent} Chance, bei einem erlittenen Treffer mit einer Nahkampfwaffe, Stichschaden beim Angreifer zu verursachen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>{0:value:straight} Brandschaden bei allen im Umkreis des Ziels bei einem erzielten Treffer (skaliert mit {0:skill}-Fertigkeit)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>{0:value:percent} Chance, bei erlittenem kritischem Treffer durch eine Nahkampfwaffe, die Durchschlagskraft des Angreifers um {0:extravalue} zu ändern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>{0:triggervalue:bonuspercentbonus} Aktionsgeschwindigkeit und Waffenschaden für jeden Feind, der den Träger angreift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Machtinspirationen, die auf den Träger angewandt werden, werden um 1 Stufe erhöht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>{0:extravalue:percentbonus} Erholung je {0:skill}-Fertigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>{0:Value} Rüstungswert. Erhöht sich mit der Athletik-Fertigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Kann nicht durch einen Naturschutz beeinträchtigt werden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Kann nicht durch einen arkanen Schutz beeinträchtigt werden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>Verursacht Schockschaden und {0:extravalue:duration} lang Betäubt bei Allen in der Nähe des Trägers, wenn er das bewusstsein verliert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>Erhalte {0:extravalue:duration} lang eine zufällige Inspiration, nachdem du einen ermächtigten Zauber oder eine ermächtigte Fähigkeit angewendet hast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>Vergeltung mit Korrosionsschaden bei einem Treffer im Nahkampf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten kritischen Treffer, {0:triggervalue:duration} lang {0:extravalue:straight} Lindwürmer zu beschwören</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>Chance von {0:value:percent}, jedes Mal, wenn der Träger einen Treffer im Zustand Geisterwandel erzielt, {0:extravalue:duration} lang Stark zu erhalten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>Bei eingehenden Nahkampfangriffen, die auf Abwehr zielen und verfehlen, besteht eine Chance von {0:value:percent} auf einen sofortigen primären Gegenangriff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten kritischen Treffer, Feinden in einer Linie Frostschaden zuzufügen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>Den Wind entfesseln lässt Feinde nun {0:extravalue:duration} lang Humpelnd zurück</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>Der durch Den Wind entfesseln verursachte Schaden wird erhöht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>{0:value:duration} lang {0:statuseffects} auf das Ziel bei einem erzielten kritischen Treffer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>{0:value:percent} Chance, bei einer erzielten Tötung {0:extravalue:duration} lang umstehenden Feinden Erkrankt zuzufügen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>{0:value:percent} Chance, bei einer erzielten Tötung {0:extravalue:duration} lang umstehende Feinde Geschockt zurückzulassen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten Treffer {0:extravalue:duration} lang {0:extravalue} Abwehr zuzufügen ({0:triggercount} Mal stapelbar)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten kritischen Treffer {0:extravalue:duration} lang {0:extravalue} Rüstungswert zuzufügen ({0:triggercount} Mal stapelbar)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>{0:value:percent} Chance, bei erlittenem kritischen Treffer mit einer Nahkampfwaffe, alle {0:interval} beim Angreifer {0:triggervalue:duration} lang {0:extravalue:straight} Reinen Blutungsschaden zu verursachen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>Stellt bei einer erzielten Tötung {0:extravalue:straight} Gesundheit wieder her</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>Fügt umstehenden Feinden bei einer erzielten Tötung Reinen-Schaden zu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>Chance von {0:value:percent}, bei einem Treffer {0:triggervalue:duration} lang {0:extravalue} Durchschlagskraft zu erhalten ({0:triggercount} Mal stapelbar)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>Fügt bei einem erzielten kritischen Treffer {0:extravalue:duration} lang alle {0:interval} Reinen-Schaden zu (Schaden wird mit aktuellem Fokus des Mediums skaliert)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>Erhält nach einem Angriff aus der Heimlichkeit {0:triggervalue:duration} lang {0:extravalue:percentbonus} Vorwärtskommen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>Nachdem du eine Gewandtheits-Wirkung ausgelöst hast, wirst du  {0:extravalue:duration} lang immun gegenüber Angriffsbindungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>{0:value:percent} Chance, nach dem Wirken einer Sängerbeschwörung {0:extravalue:duration} lang umstehenden Feinden Abgelenkt zuzufügen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>Erhält nach erfolgreichem Treffer mit Blutbad bei Bestienzielen {0:extravalue:duration} lang {0:value:percentbonus} Aktionsgeschwindigkeit ({0:triggercount} Mal stapelbar)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>Chance von {0:value:percent}, das Ziel bei einem Treffer {0:extravalue:duration} lang mit der Wirkung Bewegungsunfähig zu belegen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>Chance von {0:value:percent}, bei einem Treffer mit einer Waffe gegen Bestienziele {0:extravalue:duration} lang Erschüttert zu wirken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>{0:Value:PercentBonus} Schaden gegen den herausgeforderten Feind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>{0:value:percentbonus} Schaden gegen den Herausforderer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>Dieses Schild kann als Waffe verwendet werden, um Hieb- und Wucht-Schaden anzurichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>Gewahrt die Effekte eines zufälligen Trankes oder einer zufälligen Salbe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>Windlieds Waffenkunde-Modal gewährt eine {0:extravalue:percent}-Chance darauf, Gegner, die dem Tode nahe sind, bei einem Treffer {0:value:duration} lang abzulenken</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

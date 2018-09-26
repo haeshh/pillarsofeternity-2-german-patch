@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_steward_stone</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Dürfte ich einen Moment Eurer Zeit beanspruchen, Wächter … wenn dies genehm ist."
+
+Die Stimme der Burgvogtin von Caed Nua ertönt gleichmäßig und sanft aus ihrer zerbrochenen Büste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wie gelangte eine Kiste unbemerkt auf mein Schiff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Leider verfügt das Schiff nicht über die Verteidigungsmaßnahmen und Befestigungen von Caed Nua. Eine Kiste hätte in allen Häfen, in denen wir angelegt haben, an Bord gebracht werden können. Vorausgesetzt sie wurde nicht unter unsere Waren gemischt, als wir Vorräte aufgenommen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Welche Art Kiste?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Sie steht ungefähr ein Meter seitwärts und ist mit ‚Bohnen‘ beschriftet. Die Matrosen, die sie bemerkt haben, hatten vom Koch den Auftrag, Zutaten für den abendlichen Eintopf zu holen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Matrosen haben die Kiste im Lagerraum gelassen, falls Ihr sie untersuchen wollt."
+
+Die Büste versinkt in Schweigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ja, Burgvogtin?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Was ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Jetzt nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Einige der Matrosen haben eine ungewöhnliche Kiste im Lagerraum des Schiffes bemerkt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Entschuldigung. Ich dachte, Ihr möchtet über die Kiste Bescheid wissen, die auf mysteriöse Art und Weise im Lagerraum unseres Schiffes aufgetaucht ist, aber wenn Ihr anderweitig beschäftigt seid, lasst Euch von solchen trivialen Dingen nicht ablenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Weggehen] "Ich sehe mir das später an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Weggehen] "Ich danke dir, Burgvogtin. Ich werde nachschauen, was es ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Also keine Bohnen in der Kiste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Eine Welle der Zustimming, ausgehend von der Burgvogtin, erfasst dich, das spirituelle Äquivalent eines Nicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

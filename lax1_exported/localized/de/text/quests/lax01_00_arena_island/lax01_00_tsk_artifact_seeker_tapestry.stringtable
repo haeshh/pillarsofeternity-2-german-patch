@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_seeker_tapestry</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Suche des Suchenden Gesichts nach der Suche nach dem Dienstmädchen des Haemneg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Stiehl &lt;b&gt;Die Suche nach dem Dienstmädchen des Haemneg&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bring &lt;b&gt;Die Suche nach dem Dienstmädchen des Haemneg&lt;/b&gt; zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Das Suchende Gesicht beauftragte mich mit der Rückführung eines gestohlenen Wandteppichs, der sich irgendwo im Todesfeuer befindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Engari erfuhr, dass der Wandteppich gestohlen wurde und nun in einem &lt;b&gt;Laden auf dem Wasser&lt;/b&gt; hängt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe den Wandteppich aus der Schatztruhe im Strahlenden Hof von Stauholz entwendet. Um auf seine spirituelle Geschichte zuzugreifen, muss ich ihn in das &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; legen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Die Suche nach dem Dienstmädchen des Haemneg in das Becken der Erinnerungen gelegt, wodurch ich neue Herausforderungen von den Gesichtern der Jagd freischalten konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_survivor_diamond</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Suche des Überlebenden Gesichts nach dem ungeschliffenen Edelstein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beschaffe den &lt;b&gt;ungeschliffenen Edelstein&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bring den &lt;b&gt;ungeschliffenen Edelstein&lt;/b&gt; zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Das Überlebende Gesicht möchte, dass ich einen &lt;b&gt;Stein&lt;/b&gt; finde, der "im Herzen der Welt" in einer &lt;b&gt;Wüste&lt;/b&gt; geschmiedet wurde, und ihn zum Becken der Erinnerungen zurückbringe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Engari erfuhr, dass der Stein bei einem &lt;b&gt;einsamen Überlebenden&lt;/b&gt;, der sich in einer &lt;b&gt;unwirtlichen Wüste&lt;/b&gt; an sein Leben klammert, gefunden werden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe den ungeschliffenen Edelstein außerhalb von Poko Kohara gefunden. Um auf seine spirituelle Geschichte zuzugreifen, muss ich ihn in das &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; legen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe den ungeschliffenen Edelstein in das Becken der Erinnerungen gelegt und dadurch eine weitere Herausforderung von den Gesichtern der Jagd freigeschaltet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

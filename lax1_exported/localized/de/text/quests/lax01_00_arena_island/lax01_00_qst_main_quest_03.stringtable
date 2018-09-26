@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_main_quest_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der Schmelztiegel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>&lt;b&gt;Finde ein Artefakt&lt;/b&gt;, das entweder für den Sucher, den Schlächter oder den Überlebenden von Wert ist, und &lt;b&gt;übergib es dem Becken der Erinnerungen&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kehre zur &lt;b&gt;Kammer der Erinnerungen&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Engari&lt;/b&gt; über die &lt;b&gt;Artefakte&lt;/b&gt; der Gesichter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Erlange die Gunst des &lt;b&gt;Suchenden Gesichts, des Schlachtenden Gesichts oder des Überlebenden Gesichts&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Da ich nun ein Anwärter des &lt;b&gt;Schmelztiegels&lt;/b&gt; bin, werde ich mich seinen &lt;b&gt;Prüfungen&lt;/b&gt; unterziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Gesichter der Jagd gewähren ihre Gunst jenen, die sich in den Schmelztiegel-Spielen bewähren.
+
+Ich muss zuerst zum Schmelztiegel beitragen, indem ich ein &lt;b&gt;Artefakt&lt;/b&gt; in &lt;b&gt;der Wildnis von Kazuwari&lt;/b&gt; finde. Anschließend kann ich mich einer Herausforderung stellen, welche die Gesichter der Jagd aus diesem Artefakt ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich wurde von einem der Gesichter der Jagd auserwählt. Ich kann nun zum &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; zurückkehren, um ihren Segen zu empfangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Wenn ich &lt;b&gt;Relikte&lt;/b&gt; sammle, die mit Erinnerungen an Konflikte beladen sind, kann der Schmelztiegel diese zu neuen Prüfungen umwandeln.
+
+Ich werde mit &lt;b&gt;Engari&lt;/b&gt; sprechen müssen, da er einiges über jene Artefakte zu wissen scheint, die den Gesichtern der Jagd so wichtig sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Wenn ich ein Artefakt in das &lt;b&gt;Becken der Erinnerungen&lt;/b&gt; gebe, kann ich einen Kampf bestreiten, der aus den Erinnerungen an die Vergangenheit gezogen wird.
+
+Wenn ich &lt;b&gt;weitere Artefakte&lt;/b&gt; beschaffe und mich ihren Herausforderungen stelle, erlange ich die Gunst der Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich wurde zu einem Auserwählten der Gesichter der Jagd. Ich muss nur noch den letzten Kampf um den Titel des Meisters der Jagd bestreiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_main_quest_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Prüfung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Öffne das &lt;b&gt;seltsame Paket&lt;/b&gt;, das du auf deinem Schiff gefunden hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Segle nach &lt;b&gt;Kazuwari&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Wage dich tiefer nach &lt;b&gt;Kazuwari&lt;/b&gt; hinein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Humaire&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sprich mit der Burgvogtin im Laderaum deines Schiffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Burgvogtin hat mich informiert, dass die Mannschaft ein Stück &lt;b&gt;Fracht&lt;/b&gt; &lt;b&gt;tief im Rumpf der [Player Ship]&lt;/b&gt; gefunden hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich sollte zur &lt;b&gt;[Player Ship]&lt;/b&gt; zurückkehren, um diese geheimnisvolle Fracht zu untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Das Paket enthielt den abgetrennten Kopf eines Aumauaners namens Muātu. Sein Geist erbat meine Hilfe als Wächter. 
+
+Er möchte mich zur Insel &lt;b&gt;Kazuwari&lt;/b&gt; begleiten, wo sich irgendeine Art spiritueller Krise abspielen soll. 
+
+Ich kann mich über einen &lt;b&gt;Wasserfall&lt;/b&gt; an der &lt;b&gt;Südküste&lt;/b&gt; der Insel nähern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Muātu bat mich, zum &lt;b&gt;Herzen der Insel&lt;/b&gt; zu reisen, wo ich &lt;b&gt;Humaire&lt;/b&gt; treffen und Kazuwaris Problem angehen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich fand mich plötzlich in irgendeiner Art von Turnier wieder, das von zahlreichen Zuschauern besucht war. Man sagte mir, &lt;b&gt;Humaire&lt;/b&gt; hätte die Aufsicht über diesen Ort und könnte mir womöglich Antworten in Bezug auf die seltsame Einladung liefern. Sie ist derzeit &lt;b&gt;oben&lt;/b&gt; und verfolgt die Veranstaltungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Die Burgvogtin teilte mir mit, dass ein geheimnisvolles Paket irgendwie auf mein Schiff gelangt sei. Ich sollte mit ihr sprechen, um mehr darüber zu erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Nach der Landung traf ich auf eine Kakophonie von Seelenessenzen. Zudem hatte ich die Vision einer großen Statue in der Mitte der Insel. Unruhige Seelen drängen sich um die Statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Eine Kreatur von beachtlicher Größe stieß mit der [Player Ship] zusammen, als ich mich Kazuwari näherte. Bevor sie nach Norden entlang der Inselküste verschwand, warnte mich &lt;b&gt;Galawain, der Gott der Jagd&lt;/b&gt; davor, Kazuwari fernzubleiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;Humaire&lt;/b&gt; wies mich an, in der &lt;b&gt;Kammer der Erinnerungen&lt;/b&gt; an der &lt;b&gt;Westseite des Tempels&lt;/b&gt; unterhalb der Arena mit ihr zu sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Sie schien mich fälschlicherweise für einen Initiierten in irgendeinem Turnier zu halten. Ich werde entweder einen anderen Weg nach draußen finden oder &lt;b&gt;das Tor der Arena&lt;/b&gt; nehmen müssen und sehen, was mich dort erwartet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Laut Humaire kann ich Kazuwari helfen und meinen eigenen Ruhm vergrößern, indem ich im Schmelztiegel kämpfe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe entschieden, dass der Tod für das Volk von Kazuwari besser wäre, also habe ich sie angegriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
