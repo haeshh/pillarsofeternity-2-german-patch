@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5305</ID>
+      <DefaultText>Platte des Wächters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5524</ID>
+      <DefaultText>Mundwerkzeuge der Spinnenkaiserin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5525</ID>
+      <DefaultText>Aus diesen haarigen Mundwerkzeugen tropft ständig ein klebriges Gift. Entweder haben die Drüsen nichts vom Hinscheiden der Kaiserin mitbekommen oder es wurde von ihnen erwartet, dass sie auch nach dem Tod weiter funktionieren. Das Gift macht die Beute bewegungsunfähig, aber aus einem zweiten Reservoir werden auch schlafende Spinneneier übertragen. Die Konsequenzen dieses zusammengesetzten biologischen Systems sind wenig erfreulich und unvergesslich für jene, die es live erlebt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5582</ID>
+      <DefaultText>Die Fallen des Todesfeuers Band 1 – Die Kristallkaiserin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5583</ID>
+      <DefaultText>Dieser Reiseführer wird zum Wohle der Neuankömmlinge im Todesfeuer-Archipel verteilt. Ein Abschnitt sticht heraus:
+
+"VERMEIDE UM JEDEN PREIS die Spinne Belranga. Sie ist eine Bedrohung für die Inseln, ein vor Gift triefender Horror mit legendären Ausmaßen. Ihre FRESSGIERIGEN Jungen fallen über unvorsichtige Reisende her, und ihre Wut ist NAHEZU UNERMESSLICH, wenn auch nur einem Jungtier etwas passieren sollte. Suche sie AUF EIGENES RISIKO. 
+
+Die Todesfeuer-Gesellschaft für Besucherpflege übernimmt keine Verantwortung für Schäden, die durch bewusstes Ignorieren dieser Warnungen entstehen, und jede erdenkliche Maßnahme wurde ergriffen, um Reisende von den folgenden Koordinaten fernzuhalten: 8° 53' N 45° 25' E." 
+
+Eine Karte von Belrangas Position wurde mit einem Wachssiegel in Totenkopfform versehen. Er zeigt auf eine Insel westlich von Ondras Mörser.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

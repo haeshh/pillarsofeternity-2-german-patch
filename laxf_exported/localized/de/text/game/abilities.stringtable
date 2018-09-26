@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4836</ID>
+      <DefaultText>Zerschmetterndes Kreischen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4837</ID>
+      <DefaultText>Konsumieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4838</ID>
+      <DefaultText>Katalysierendes Gift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4839</ID>
+      <DefaultText>Schlüpflinge rufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4851</ID>
+      <DefaultText>Zorn der Kaiserin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4861</ID>
+      <DefaultText>Versteinerndes Gift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4862</ID>
+      <DefaultText>Gift aus den Mundwerkzeugen tritt in den Körper des Opfers ein, und versteinert es. Stirbt das Opfer im versteinerten Zustand, brechen kristallfressende Spinnenjungtiere aus seinem Körper und machen einige Zeit beim Fest mit.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
