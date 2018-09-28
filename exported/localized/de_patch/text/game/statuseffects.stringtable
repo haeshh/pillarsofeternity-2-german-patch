@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Bei einem Treffer erhält das Ziel {0:extravalue:duration} lang {0:value:percentbonus} Aktionsgeschwindigkeit. Effekt ist {0:triggercount}-fach stapelbar</DefaultText>
+      <DefaultText>Bei einem Treffer erhält das Ziel {0:extravalue:duration} lang {0:value:percentbonus} Aktionsgeschwindigkeit (Effekt ist {0:triggercount}-fach stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Treffer auf Ziele, die Dem Tode nahe sind, fügen auch Gegnern in der Nähe Schaden zu.</DefaultText>
+      <DefaultText>Treffer auf Ziele, die Dem Tode nahe sind, fügen auch Gegnern in der Nähe Schaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Feuert mehrere Geschosse bei leicht verringertem Schaden ab.</DefaultText>
+      <DefaultText>Feuert mehrere Geschosse bei leicht verringertem Schaden ab</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,7 +191,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>{0:value:percentbonus} Nahkampfschaden bei angegriffenen Zielen.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Nahkampfschaden bei angegriffenen Zielen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Bei kritischem Treffer alle 3 Sekunden 5 direkter Blutungsschaden für die Dauer von 9 Sekunden.</DefaultText>
+      <DefaultText>Bei kritischem Treffer alle 3 Sekunden 5 direkter Blutungsschaden für die Dauer von 9 Sekunden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,12 +291,12 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Chance, dass das Ziel bei einem Treffer Abgelenkt wird.</DefaultText>
+      <DefaultText>Chance, dass das Ziel bei einem Treffer Abgelenkt wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Immun gegen einen Kater vom Alkohol, falls beim Trinken getragen</DefaultText>
+      <DefaultText>Immun gegen einen Kater vom Alkohol, falls beim Trinken getragen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,7 +316,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>{0:value:percent} Chance, dass das Ziel bei einem Treffer Abgelenkt wird.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass das Ziel bei einem Treffer Abgelenkt wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -341,17 +341,17 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Feuert zwei Schüsse ab, bevor nachgeladen werden muss, hat aber verringerte Reichweite.</DefaultText>
+      <DefaultText>Feuert zwei Schüsse ab, bevor nachgeladen werden muss, hat aber verringerte Reichweite</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>{0:value:percent} Schaden ausgeteilt und empfangen bei Tötung bis zur Ruhepause. (Kann bis zu {0:extravalue:straight}-mal gestapelt werden)</DefaultText>
+      <DefaultText>{0:value:percent} Schaden ausgeteilt und empfangen bei Tötung bis zur Ruhepause (Kann bis zu {0:extravalue:straight}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>{0:value} Wille auf Ziel für {0:extravalue:duration} bei einem Treffer ({0:triggercount}-mal stapelbar).</DefaultText>
+      <DefaultText>{0:value} Wille auf Ziel für {0:extravalue:duration} bei einem Treffer ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>{0:value} Abwehr. Erhöht sich mit der Fertigkeit Einschüchtern.</DefaultText>
+      <DefaultText>{0:value} Abwehr. Erhöht sich mit der Fertigkeit Einschüchtern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,12 +426,12 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Bei mehr als {0:triggervalue:percent} Gesundheit besteht bei eingehenden Angriffen mit Fernkampfwaffen eine Chance von {0:extravalue:percent}, nur {0:value:percent} Schaden anzurichten.</DefaultText>
+      <DefaultText>Bei mehr als {0:triggervalue:percent} Gesundheit besteht bei eingehenden Angriffen mit Fernkampfwaffen eine Chance von {0:extravalue:percent}, nur {0:value:percent} Schaden anzurichten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Angriffe unter Einsatz von Heimlichkeit Betäuben das Ziel.</DefaultText>
+      <DefaultText>Angriffe unter Einsatz von Heimlichkeit Betäuben das Ziel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -491,7 +491,7 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Bei allen Schäden aus einem Säure- oder Giftangriff besteht eine Chance von {0:extravalue:percent}, für den Träger in {0:value:percent} Gesundheit umgewandelt zu werden.</DefaultText>
+      <DefaultText>Bei allen Schäden aus einem Säure- oder Giftangriff besteht eine Chance von {0:extravalue:percent}, für den Träger in {0:value:percent} Gesundheit umgewandelt zu werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,7 +516,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Startet die Fähigkeit, wenn man Schwer verletzt ist</DefaultText>
+      <DefaultText>Startet die Fähigkeit, wenn man Schwer verletzt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,7 +526,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Gewährt die Fähigkeit, wenn man Dem Tode nahe ist</DefaultText>
+      <DefaultText>Gewährt die Fähigkeit, wenn man Dem Tode nahe ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -546,7 +546,7 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem im Nahkampf erlittenem kritischen Treffer, einen unterbrechenden Flächenzauber mit Wuchtschaden zu wirken.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem im Nahkampf erlittenem kritischen Treffer, einen unterbrechenden Flächenzauber mit Wuchtschaden zu wirken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -586,7 +586,7 @@
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>{0:value:percentbonus} Vorwärtskommen (Der Bonus erhöht sich mit der Fertigkeit Überleben).</DefaultText>
+      <DefaultText>{0:value:percentbonus} Vorwärtskommen (Der Bonus erhöht sich mit der Fertigkeit Überleben)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -626,12 +626,12 @@
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Verschafft dir bei Unbeweglichkeit einen stapelbaren Aktionsgeschwindigkeits-Bonus von {0:value:percent} bei einem Treffer mit einer Nahkampfwaffe ({0:extravalue:straight}-mal stapelbar).</DefaultText>
+      <DefaultText>Verschafft dir bei Unbeweglichkeit einen stapelbaren Aktionsgeschwindigkeits-Bonus von {0:value:percent} bei einem Treffer mit einer Nahkampfwaffe ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Verschafft dir bei Unbeweglichkeit {0:value:percent} Nahkampfschaden beim Erleiden eines Treffers im Nahkampf ({0:extravalue:straight}-mal stapelbar).</DefaultText>
+      <DefaultText>Verschafft dir bei Unbeweglichkeit {0:value:percent} Nahkampfschaden beim Erleiden eines Treffers im Nahkampf ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -706,7 +706,7 @@
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit für Angreifer für {0:extravalue:duration}, wenn Träger im Nahkampf getroffen wird.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit für Angreifer für {0:extravalue:duration}, wenn Träger im Nahkampf getroffen wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>{0:value:percentbonus} Chance für einen kritischen Treffer bei einem Treffer. (Kann {0:extravalue}-mal gestapelt werden und wird bei kritischem Treffer zurückgesetzt)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Chance für einen kritischen Treffer bei einem Treffer (Kann {0:extravalue}-mal gestapelt werden und wird bei kritischem Treffer zurückgesetzt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -836,7 +836,7 @@
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Bei kritischem Treffer wird der Angriff Niederstrecken auf Ziel ausgeführt.</DefaultText>
+      <DefaultText>Bei kritischem Treffer wird der Angriff Niederstrecken auf Ziel ausgeführt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -946,7 +946,7 @@
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>Das Ziel wird bei einem kritischen Treffer für {0:extravalue:duration} Gelähmt, wenn der Vereiste Klinge {0:value:straight} Stapel besitzt.</DefaultText>
+      <DefaultText>Das Ziel wird bei einem kritischen Treffer für {0:extravalue:duration} Gelähmt, wenn der Vereiste Klinge {0:value:straight} Stapel besitzt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -981,32 +981,32 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>Lässt das Ziel bei einem Kritischen Treffer Erkrankt zurück, sobald Unreine Klinge {0:triggercount} Stapel hat.</DefaultText>
+      <DefaultText>Lässt das Ziel bei einem Kritischen Treffer Erkrankt zurück, sobald Unreine Klinge {0:triggercount} Stapel hat</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>{0:value:percent} Aktionsgeschwindigkeit für {0:extravalue:duration} Sekunden für das Ziel bei einem Treffer. {0:triggervalue:straight}-mal stapelbar</DefaultText>
+      <DefaultText>{0:value:percent} Aktionsgeschwindigkeit für {0:extravalue:duration} Sekunden für das Ziel bei einem Treffer ({0:triggervalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>{0:value:percentbonus} Nahkampfschaden für jedes angegriffene Ziel.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Nahkampfschaden für jedes angegriffene Ziel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>{0:value} Nahkampf-Genauigkeit für jedes angegriffene Ziel.</DefaultText>
+      <DefaultText>{0:value} Nahkampf-Genauigkeit für jedes angegriffene Ziel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>{0:extravalue:percent} Aktionsgeschwindigkeit für jedes angegriffene Ziel.</DefaultText>
+      <DefaultText>{0:extravalue:percent} Aktionsgeschwindigkeit für jedes angegriffene Ziel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>{0:value:percentbonus} Nahkampfschaden für jedes angegriffene Ziel.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Nahkampfschaden für jedes angegriffene Ziel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1016,7 +1016,7 @@
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>Verstärkt bei einer Tötung mit dem Schlüsselbrecher alle Verteidigungen von Verbündeten in der Nähe {0:extravalue:duration} lang um {0:value}. Nur die Abwehr ist davon ausgenommen.</DefaultText>
+      <DefaultText>Verstärkt bei einer Tötung mit dem Schlüsselbrecher alle Verteidigungen von Verbündeten in der Nähe {0:extravalue:duration} lang um {0:value}. Nur die Abwehr ist davon ausgenommen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1076,7 +1076,7 @@
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>{0:value:percent} Aktionsgeschwindigkeit gegen flankiertes Ziel bei einem Treffer. Kann {0:extravalue:straight}-mal gestapelt werden</DefaultText>
+      <DefaultText>{0:value:percent} Aktionsgeschwindigkeit gegen flankiertes Ziel bei einem Treffer (Kann {0:extravalue:straight}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1166,7 +1166,7 @@
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>-25 % Erholungszeit bei Nahkampfwaffen für 30,0 Sekunden bei einem erzielten Treffer</DefaultText>
+      <DefaultText>-25 % Erholungszeit bei Nahkampfwaffen für 30,0 Sekunden bei einem erzielten Treffer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1176,7 +1176,7 @@
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>50 % Chance, den Angreifer für 10,0 Sekunden zu blenden, wenn mit einem Blick-Angriff verfehlt </DefaultText>
+      <DefaultText>50 % Chance, den Angreifer für 10,0 Sekunden zu blenden, wenn mit einem Blick-Angriff verfehlt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1221,7 +1221,7 @@
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>{0:value:percentbonus} Schaden. (Erhöht sich mit der Fertigkeit Überleben)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Schaden (Erhöht sich mit der Fertigkeit Überleben)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1316,7 +1316,7 @@
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>{0:value:percent} Schaden ausgeteilt bei Tötung bis zur Ruhepause. ({0:extravalue:straight}-mal stapelbar)</DefaultText>
+      <DefaultText>{0:value:percent} Schaden ausgeteilt bei Tötung bis zur Ruhepause ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1401,12 +1401,12 @@
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>{0:value:percentbonus} Heilung erzeugt. Erhöht sich mit der Fertigkeit Religion.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Heilung erzeugt. Erhöht sich mit der Fertigkeit Religion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>{0:value:percent} Chance, eingehenden Zaubersprüchen zu widerstehen. Erhöht sich mit der Fertigkeit Religion.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, eingehenden Zaubersprüchen zu widerstehen. Erhöht sich mit der Fertigkeit Religion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1416,7 +1416,7 @@
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit für {0:extravalue:duration} in der Nähe eines erschlagenen Feindes (erhöht sich mit der Fertigkeit Religion).</DefaultText>
+      <DefaultText>{0:value:percentbonus} Aktionsgeschwindigkeit für {0:extravalue:duration} in der Nähe eines erschlagenen Feindes (erhöht sich mit der Fertigkeit Religion)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1431,7 +1431,7 @@
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Gibt für {0:value:duration} nach dem Beginn des Angriffs {0:extravalue:percent} des empfangenen Nahkampfschadens an die Angreifer als direkten Schaden zurück.</DefaultText>
+      <DefaultText>Gibt für {0:value:duration} nach dem Beginn des Angriffs {0:extravalue:percent} des empfangenen Nahkampfschadens an die Angreifer als direkten Schaden zurück</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1526,7 +1526,7 @@
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>Verwandelt {0:value:percent} Treffer mit Fernkampfwaffen für {0:extravalue:duration} in kritische Treffer, wenn ein Angriff mit Fernkampfwaffen danebenging.</DefaultText>
+      <DefaultText>Verwandelt {0:value:percent} Treffer mit Fernkampfwaffen für {0:extravalue:duration} in kritische Treffer, wenn ein Angriff mit Fernkampfwaffen danebenging</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1551,12 +1551,12 @@
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>Rüstungswert erhöht sich, wenn der Träger an Gesundheit verliert. Maximal {0:extravalue} Rüstungswert</DefaultText>
+      <DefaultText>Rüstungswert erhöht sich, wenn der Träger an Gesundheit verliert (Maximal {0:extravalue} Rüstungswert)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>319</ID>
-      <DefaultText>+5 % Schaden durch Nahkampfwaffe. Erhöht sich, wenn der Träger an Gesundheit verliert. Maximal +150 % Schaden</DefaultText>
+      <DefaultText>+5 % Schaden durch Nahkampfwaffe. Erhöht sich, wenn der Träger an Gesundheit verliert (Maximal +150 % Schaden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1686,7 +1686,7 @@
     </Entry>
     <Entry>
       <ID>346</ID>
-      <DefaultText>{0:value} Genauigkeit im Nahkampf für {0:interval} bis zum Ende des Kampfes. ({0:extravalue:straight}-mal stapelbar)</DefaultText>
+      <DefaultText>{0:value} Genauigkeit im Nahkampf für {0:interval} bis zum Ende des Kampfes ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1696,7 +1696,7 @@
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>+1 Verfassung bei kritischem Treffer. Der Effekt ist fünfmal stapelbar.</DefaultText>
+      <DefaultText>{0:value} Verfassung bei erzieltem kritischen Treffer (Der Effekt ist {0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1851,7 +1851,7 @@
     </Entry>
     <Entry>
       <ID>392</ID>
-      <DefaultText>Strahlenkranz der Seele verleiht für kurze Zeit die Inspirationen Stark und Klug</DefaultText>
+      <DefaultText>Strahlenkranz der Seele verleiht für {0:value:duration} die Inspirationen Stark und Klug</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1886,7 +1886,7 @@
     </Entry>
     <Entry>
       <ID>400</ID>
-      <DefaultText>Bei Bewusstlosigkeit wird ein Flächenzauber gewirkt, der Verbündeten für {0:extravalue:duration} Standhaft verleiht und einen vollen Angriff gegen Gegner durchführt.</DefaultText>
+      <DefaultText>Bei Bewusstlosigkeit wird ein Flächenzauber gewirkt, der Verbündeten für {0:extravalue:duration} Standhaft verleiht und einen vollen Angriff gegen Gegner durchführt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1926,7 +1926,7 @@
     </Entry>
     <Entry>
       <ID>408</ID>
-      <DefaultText>Gilt als Nebenhandwaffe.</DefaultText>
+      <DefaultText>Gilt als Nebenhandwaffe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2086,7 +2086,7 @@
     </Entry>
     <Entry>
       <ID>442</ID>
-      <DefaultText>{0:value:percent} Chance auf Unterbrechung bei einem Treffer.</DefaultText>
+      <DefaultText>{0:value:percent} Chance auf Unterbrechung bei einem Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2131,12 +2131,12 @@
     </Entry>
     <Entry>
       <ID>452</ID>
-      <DefaultText>Heilt für kurze Zeit alle {0:extravalue:duration} {0:value:percent} des zugefügten Waffenschadens.</DefaultText>
+      <DefaultText>Heilt für kurze Zeit alle {0:extravalue:duration} {0:value:percent} des zugefügten Waffenschadens</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>453</ID>
-      <DefaultText>Nach dem Töten eines Gegners mit der Waffe werden Gegner in der Nähe {0:value:duration} lang Abgelenkt.</DefaultText>
+      <DefaultText>Nach dem Töten eines Gegners mit der Waffe werden Gegner in der Nähe {0:value:duration} lang Abgelenkt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2201,12 +2201,12 @@
     </Entry>
     <Entry>
       <ID>470</ID>
-      <DefaultText>{0:value} Abwehr für 45,0 Sekunden auf Ziel bei einem Treffer. Der Effekt ist fünfmal stapelbar.</DefaultText>
+      <DefaultText>{0:value} Abwehr für 45,0 Sekunden auf Ziel bei einem Treffer. Der Effekt ist fünfmal stapelbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>471</ID>
-      <DefaultText>{0:value:percentbonus} Erholungszeit auf Ziel bei einem Treffer. Der Effekt ist fünfmal stapelbar.</DefaultText>
+      <DefaultText>{0:value:percentbonus} Erholungszeit auf Ziel bei einem Treffer. Der Effekt ist fünfmal stapelbar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
