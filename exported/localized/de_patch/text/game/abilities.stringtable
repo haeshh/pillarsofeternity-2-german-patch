@@ -14206,7 +14206,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>3969</ID>
-      <DefaultText>Während Otto Starkatz dir folgt, werden deine Feuerzauber und -fähigkeiten gestärkt und deine Gruppenmitglieder erhalten einen Bonus auf Wirkungsradiusschaden.</DefaultText>
+      <DefaultText>Während Otto Starkatz dir folgt, werden deine Feuerzauber und -fähigkeiten gestärkt und deine Gruppenmitglieder erhalten einen Bonus auf Schaden von Wirkungsbereich-Angriffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14536,7 +14536,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4096</ID>
-      <DefaultText>Während Corlagon dir folgt, verursachen deine Wirkungsradiusangriffe mehr Schaden und deine Gruppenmitglieder heilen effizienter mit Heilfähigkeiten und -tränken.</DefaultText>
+      <DefaultText>Während Corlagon dir folgt, verursachen deine Angriffe mit Wirkungsbereich mehr Schaden und deine Gruppenmitglieder heilen effizienter mit Heilfähigkeiten und -tränken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15556,7 +15556,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4392</ID>
-      <DefaultText>Während Luna dir folgt, erhältst du zusätzliche Gewandtheit und gegnerische Waffenangriffe auf deine Gruppenmitglieder werden öfter zu Leichten Treffern.</DefaultText>
+      <DefaultText>Während Luna dir folgt, erhältst du zusätzliche Gewandtheit und gegnerische Waffenangriffe auf alle Gruppenmitglieder werden öfter als Leichter Treffer gewertet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15726,7 +15726,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4426</ID>
-      <DefaultText>Gewährt die Fähigkeit, Fernkampfzauber über längere Distanzen hinweg zu wirken.</DefaultText>
+      <DefaultText>Gewährt die Fähigkeit, Zauber mit Reichweite über längere Distanzen hinweg zu wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15766,7 +15766,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4434</ID>
-      <DefaultText>Erhöht die Max Gesundheit, die du mit jeder Stufe erhältst.</DefaultText>
+      <DefaultText>Erhöht die maximale Gesundheit, die du mit jeder Stufe erhältst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15876,7 +15876,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4456</ID>
-      <DefaultText>Ermächtigte Angriffe erhalten erhöhten Schaden.</DefaultText>
+      <DefaultText>Ermächtigte Angriffe verursachen erhöhten Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16211,7 +16211,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4563</ID>
-      <DefaultText>Der erste Angriff auf einen Gegner in einem Kampf unterbricht das Ziel.</DefaultText>
+      <DefaultText>Die erste Angriffsbindung mit einem Gegner in einem Kampf unterbricht das Ziel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16778,7 +16778,7 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4774</ID>
-      <DefaultText>Man erhält die Inspiration Aufmerksam, sobald ein naher Verbündeter einen Feind tötet.</DefaultText>
+      <DefaultText>Man erhält die Inspiration Aufmerksam immer dann, wenn ein naher Verbündeter einen tödlichen Schlag erzielt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16808,7 +16808,7 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4780</ID>
-      <DefaultText>(Reinigendes Flammenschild) – Der Gegenschlag reduziert zusätzlich die Dauer von positiven Effekten.</DefaultText>
+      <DefaultText>(Reinigendes Flammenschild) – Feinde, die von den Vergeltungsangriff geschädigt werden, erleiden eine Verringerung der Dauer ihrer vorteilhaften Effekte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17023,7 +17023,7 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4889</ID>
-      <DefaultText>Während Levin dir folgt, erhältst du einen Bonus auf Intelligenz und deine Gruppenmitglieder bewegen sich im Kampf schneller.</DefaultText>
+      <DefaultText>Während Levin dir folgt, erhältst du einen Bonus auf Intellekt und deine Gruppenmitglieder bewegen sich im Kampf schneller.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
