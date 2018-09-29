@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\newgamebonuses</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>51</EntryCount>
+  <EntryCount>59</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -257,6 +257,46 @@
     <Entry>
       <ID>50</ID>
       <DefaultText>Beginne das Spiel mit Boni für Macht, Verfassung, Gewandtheit, Intellekt, Wahrnehmung und Entschlossenheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Handwerker-Rabatt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Die Kosten fürs Fertigen und Verzaubern sind reduziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Gefüllte Taschen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Taschen werden mit mehr und selteneren Gegenständen gefüllt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Legendäre Mannschaft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Drei einzigartige und erfahrene Seeleute können in der Taverne Krakenauge (zu einem Vorzugspreis) angeheuert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Mythische Entdeckung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Ein mythischer Adrastein erscheint im Kleiderschrank des Prologs.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
