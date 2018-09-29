@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1094</EntryCount>
+  <EntryCount>1095</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -641,7 +641,7 @@
     </Entry>
     <Entry>
       <ID>520</ID>
-      <DefaultText>Champion-Auftakt</DefaultText>
+      <DefaultText>Auftakt des Gefährten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3646,7 +3646,7 @@
     </Entry>
     <Entry>
       <ID>1191</ID>
-      <DefaultText>Die Schwachen keulen</DefaultText>
+      <DefaultText>Die Schwachen ausmerzen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3696,7 +3696,7 @@
     </Entry>
     <Entry>
       <ID>1208</ID>
-      <DefaultText>Den Wind loslassen</DefaultText>
+      <DefaultText>Den Wind entfesseln</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5472,6 +5472,11 @@
     <Entry>
       <ID>1721</ID>
       <DefaultText>Amra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1723</ID>
+      <DefaultText>Nebula</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
