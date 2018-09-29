@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>97</EntryCount>
+  <EntryCount>98</EntryCount>
   <Entries>
     <Entry>
       <ID>253</ID>
@@ -297,6 +297,11 @@
     <Entry>
       <ID>1557</ID>
       <DefaultText>Megäre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1588</ID>
+      <DefaultText>König Wingauro o Watūri I</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
