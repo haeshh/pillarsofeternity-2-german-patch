@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4467</EntryCount>
+  <EntryCount>4545</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -22776,6 +22776,11 @@ Du hast die Möglichkeit, die Workshop-Seite des Mods zu überprüfen, bevor sie
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5014</ID>
+      <DefaultText>Länge: Waffenreichweite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5015</ID>
       <DefaultText>Herausforderung von Eothas</DefaultText>
       <FemaleText />
@@ -22783,6 +22788,26 @@ Du hast die Möglichkeit, die Workshop-Seite des Mods zu überprüfen, bevor sie
     <Entry>
       <ID>5016</ID>
       <DefaultText>Schließe jede kritische Pfadquast for einem bestimmten Datum oder vor Spielende ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5021</ID>
+      <DefaultText>Galawains Herausforderung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5022</ID>
+      <DefaultText>Bestien erhalten zufällig mächtige Effekte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5025</ID>
+      <DefaultText>Ermöglicht dem Wirker, Wirkungsradiuszauber zu gestalten, und dabei den Radius und die Stärke anzupassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5026</ID>
+      <DefaultText>Abenteurer importieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22803,6 +22828,375 @@ Du hast die Möglichkeit, die Workshop-Seite des Mods zu überprüfen, bevor sie
     <Entry>
       <ID>5036</ID>
       <DefaultText>Ohne Ausrüstung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5056</ID>
+      <DefaultText>Exportieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5057</ID>
+      <DefaultText>Exportierte Charaktere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5059</ID>
+      <DefaultText>Keine exportierten Charaktere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5065</ID>
+      <DefaultText>Diesen Charakter im Steam Workshop veröffentlichen?
+
+Durch das Veröffentlichen dieses Charakters stimmst du den &lt;link="https://steamcommunity.com/sharedfiles/workshoplegalagreement"&gt;Geschäftsbedingungen&lt;/link&gt; von Steam Workshop zu.
+
+Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bevor sie für das Publikum sichtbar veröffentlicht wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5066</ID>
+      <DefaultText>Diesen Charakter im Steam Workshop aktualisieren?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5067</ID>
+      <DefaultText>Die Ausrüstung dieses Charakters beinhaltet einzigartige Gegenstände. Der Import eines Charakters mit einzigartigen Gegenständen, kann sich auf die Schwierigkeit des Spiels auswirken. Weiter?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5068</ID>
+      <DefaultText>Dieser Charakter wurde aus einem Spiel mit aktivierten Cheats exportiert. Der Import dieses Charakters kann sich auf die Schwierigkeit des Spiels auswirken. Weiter?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5069</ID>
+      <DefaultText>{0} wurde erfolgreich exportiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5073</ID>
+      <DefaultText>Herunterladen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5086</ID>
+      <DefaultText>Tötungskamera</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5087</ID>
+      <DefaultText>Tötungskamera verwenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5088</ID>
+      <DefaultText>Tötungskamera globale Abklingzeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5089</ID>
+      <DefaultText>Feind Todeshäufigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5090</ID>
+      <DefaultText>Feind Pulverisierungshäufigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5091</ID>
+      <DefaultText>Häufigkeit der Niederschläge von Freunden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5092</ID>
+      <DefaultText>Freunde Todeshäufigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5093</ID>
+      <DefaultText>Abklingzeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5094</ID>
+      <DefaultText>Tötungskamera Reiztext zeigen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5095</ID>
+      <DefaultText>Bei Ein erzeugt die Tötungskamera Aufnahmen basierend auf den wesentlichen Kampfmomenten und den vom Benutzer gewählten Kameraeinstellungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5096</ID>
+      <DefaultText>Wie viel Zeit zwischen zwei Aufnahmen der Tötungskamera liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5097</ID>
+      <DefaultText>Bestimme die Häufigkeit, mit der eine Kampfhandlung eine Aufnahme der Tötungskamera auslöst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5098</ID>
+      <DefaultText>Die Zeit, die zwischen zwei Ereignissen derselben Art liegen muss, damit die Tötungskamera erneut eine Aufnahme auslöst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5099</ID>
+      <DefaultText>Sieg!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5100</ID>
+      <DefaultText>Triumph!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5101</ID>
+      <DefaultText>Besiegt!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5102</ID>
+      <DefaultText>Niederlage!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5103</ID>
+      <DefaultText>{0} ist gestorben!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5104</ID>
+      <DefaultText>{0} wurde niedergestreckt!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5105</ID>
+      <DefaultText>Ausradiert!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5106</ID>
+      <DefaultText>Ausgelöscht!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5107</ID>
+      <DefaultText>Zerstörung!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5108</ID>
+      <DefaultText>Erschlagen!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5109</ID>
+      <DefaultText>Eliminiert!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5110</ID>
+      <DefaultText>Fertiggemacht!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5111</ID>
+      <DefaultText>Ursprüngliche Stufe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5112</ID>
+      <DefaultText>Eigene Stufe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5113</ID>
+      <DefaultText>Die Stufe dieses Charakters ist zu hoch, damit du ihn auf seiner ursprünglichen Stufe rekrutieren kannst.</DefaultText>
+      <FemaleText>Die Stufe dieses Charakters ist zu hoch, damit du ihn auf seiner ursprünglichen Stufe rekrutieren kannst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5114</ID>
+      <DefaultText>Immer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5115</ID>
+      <DefaultText>Nur die Letzten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5116</ID>
+      <DefaultText>Nie anzeigen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5117</ID>
+      <DefaultText>Häufig genutzte Fähigkeiten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5118</ID>
+      <DefaultText>Hotkeys und häufig genutzte Fähigkeiten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5119</ID>
+      <DefaultText>Kampfverhalten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5122</ID>
+      <DefaultText>Auto-Angriff als Standardaktion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5124</ID>
+      <DefaultText>Nächstes Ziel angreifen, wenn kein Kriterium eines Entscheidungsbaumes passt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5126</ID>
+      <DefaultText>Kamera</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5127</ID>
+      <DefaultText>Bei Ein zeigt die Tötungskamera Reiztext, der mit dem auslösenden Event in Zusammenhang steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5131</ID>
+      <DefaultText>Zeige häufig verwendete Fähigkeiten an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5132</ID>
+      <DefaultText>Wenn diese Option aktiviert ist, wird eine Leiste mit häufig verwendeten Fähigkeiten über der Fähigkeiten-Leiste angezeigt. Sie zeigt automatisch deine 5 am häufigsten verwendeten Fähigkeiten und deine zuletzt verwendete Fähigkeit an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5133</ID>
+      <DefaultText>Reaktive Musik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5134</ID>
+      <DefaultText>When off, exploration music will be a single track of music that doesn't change when stealthing, in conversation, and represents the full piece of music as it was intended. Turning on this option changes how any given piece of exploration music behaves during stealth, non-stealth, and conversations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5135</ID>
+      <DefaultText>All Events</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5136</ID>
+      <DefaultText>Party Events Only</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5137</ID>
+      <DefaultText>Enemy Events Only</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5138</ID>
+      <DefaultText>{0} is a quest item that cannot be exported. Unequip the item before exporting this character.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5139</ID>
+      <DefaultText>Created with Cheats</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5140</ID>
+      <DefaultText>Out Of Combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5141</ID>
+      <DefaultText>Ability Bar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5142</ID>
+      <DefaultText>Action Bar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5143</ID>
+      <DefaultText>Combat Log</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5145</ID>
+      <DefaultText>Combat Tooltip</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5147</ID>
+      <DefaultText>Nur Pause</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5149</ID>
+      <DefaultText>Set when to display certain HUD components when in and out of combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5152</ID>
+      <DefaultText>Spoils After</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5153</ID>
+      <DefaultText>Spoiled</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5159</ID>
+      <DefaultText>Ein Charakter kann während des Kampfes nicht exportiert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5161</ID>
+      <DefaultText>Importierte Character</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5162</ID>
+      <DefaultText>Importieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5163</ID>
+      <DefaultText>Starte von vorne an</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5164</ID>
+      <DefaultText>Choose a pre-made character to start with and modify it as you like.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5165</ID>
+      <DefaultText>Create a brand-new character.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5169</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
