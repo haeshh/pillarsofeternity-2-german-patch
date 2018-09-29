@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>Deine Seele erleidet durch einen Angriff anhaltenden Schaden, während dein Geist verschleiert ist.</DefaultText>
+      <DefaultText>Deine Seele erleidet durch einen Angriff anhaltenden Schaden, während dein Geist verschleiert ist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>461</ID>
-      <DefaultText>Gehen hinterlässt einen kleinen Wirkungsradius, der Gegner humpeln lässt.</DefaultText>
+      <DefaultText>Gehen hinterlässt einen kleinen Wirkungsradius, der Gegner humpeln lässt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText>Nach Erleiden eines Treffers oder kritischen Treffers, fügt der nächste erfolgreiche Angriff des Trägers mit Waffen {0:value:bonuspercentbonus} Frostschaden zu.</DefaultText>
+      <DefaultText>Nach Erleiden eines Treffers oder kritischen Treffers, fügt der nächste erfolgreiche Angriff des Trägers mit Waffen {0:value:bonuspercentbonus} Frostschaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>466</ID>
-      <DefaultText>Der nächste erfolgreiche Angriff des Trägers mit Waffen fügt {0:value:bonuspercentbonus} Frostschaden zu.</DefaultText>
+      <DefaultText>Der nächste erfolgreiche Angriff des Trägers mit Waffen fügt {0:value:bonuspercentbonus} Frostschaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,12 +61,12 @@
     </Entry>
     <Entry>
       <ID>557</ID>
-      <DefaultText>Waffenangriffe fügen Wuchtschaden/Frostschaden zu (je nachdem, was besser ist).</DefaultText>
+      <DefaultText>Waffenangriffe fügen Wuchtschaden/Frostschaden zu (je nachdem, was besser ist)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>558</ID>
-      <DefaultText>{0:value:percent} Chance, einem Feind in der Nähe eine zufällige Stufe 1-Wirkung zuzufügen, wenn der Träger mit einer Wirkung belegt wird.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, einem Feind in der Nähe eine zufällige Stufe 1-Wirkung zuzufügen, wenn der Träger mit einer Wirkung belegt wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,17 +76,17 @@
     </Entry>
     <Entry>
       <ID>560</ID>
-      <DefaultText>Kritische Treffer haben eine Chance von {0:value:percent}, den Feind für {0:extravalue:duration} einzufrieren.</DefaultText>
+      <DefaultText>Kritische Treffer haben eine Chance von {0:value:percent}, den Feind für {0:extravalue:duration} einzufrieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>{0:value:percent} Chance, beim Erzielen eines kritischen Treffers Feinden rund um das Ziel Frost-/Hiebschaden zuzufügen.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, beim Erzielen eines kritischen Treffers Feinden rund um das Ziel Frost-/Hiebschaden zuzufügen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>562</ID>
-      <DefaultText>Waffenkunde in großen Schilden gewährt jetzt {0:value:percent} Chance, Frostschaden zu verursachen, wenn man von einer Nahkampfwaffe verfehlt wird.</DefaultText>
+      <DefaultText>Waffenkunde in großen Schilden gewährt jetzt {0:value:percent} Chance, Frostschaden zu verursachen, wenn man von einer Nahkampfwaffe verfehlt wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>583</ID>
-      <DefaultText>Muss mit beiden Händen geführt werden, fügt aber mehr Schaden zu.</DefaultText>
+      <DefaultText>Muss mit beiden Händen geführt werden, fügt aber mehr Schaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,17 +106,17 @@
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Feinde, die unter der Wirkung von Waage der Gerechtigkeit getötet werden, fügen Feinden in der Nähe {0:value:straight} direkten Schaden zu.</DefaultText>
+      <DefaultText>Feinde, die unter der Wirkung von Waage der Gerechtigkeit getötet werden, fügen Feinden in der Nähe {0:value:straight} direkten Schaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>586</ID>
-      <DefaultText>Feinde, die unter der Wirkung von Waage der Gerechtigkeit getötet werden, stellen {0:value:straight} Gesundheit für alle Verbündete in der Nähe wieder her.</DefaultText>
+      <DefaultText>Feinde, die unter der Wirkung von Waage der Gerechtigkeit getötet werden, stellen {0:value:straight} Gesundheit für alle Verbündete in der Nähe wieder her</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>590</ID>
-      <DefaultText>{0:value:percent} Chance, bei erlittenem Treffer mit Waffen {0:extravalue:straight} Zersetzungsschaden alle {0:interval} für {0:triggervalue:duration} zuzufügen.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei erlittenem Treffer mit Waffen {0:extravalue:straight} Zersetzungsschaden alle {0:interval} für {0:triggervalue:duration} zuzufügen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,22 +131,22 @@
     </Entry>
     <Entry>
       <ID>594</ID>
-      <DefaultText>{0:value:percent} Chance, bei Erzielen eines kritischen Treffers einen unterbrechenden Wucht-Flächenschaden auszulösen.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei Erzielen eines kritischen Treffers einen unterbrechenden Wucht-Flächenschaden auszulösen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>595</ID>
-      <DefaultText>{0:value:percent} Chance, bei Erzielen eines kritischen Treffers einen unterbrechenden und lähmenden Wucht-Flächenschaden auszulösen.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei Erzielen eines kritischen Treffers einen unterbrechenden und lähmenden Wucht-Flächenschaden auszulösen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>598</ID>
-      <DefaultText>{0:value:percent} Chance nach erzieltem kritischem Treffer mit Nahkampfwaffe, die Durchschlagskraft der gegnerischen Waffe {0:triggervalue:duration} lang um {0:extravalue} zu verringern.</DefaultText>
+      <DefaultText>{0:value:percent} Chance nach erzieltem kritischem Treffer mit Nahkampfwaffe, die Durchschlagskraft der gegnerischen Waffe {0:triggervalue:duration} lang um {0:extravalue} zu verringern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>599</ID>
-      <DefaultText>Wird der Träger bewusstlos geschlagen, fügt er Feinden in der Nähe erheblichen Brandschaden zu.</DefaultText>
+      <DefaultText>Wird der Träger bewusstlos geschlagen, fügt er Feinden in der Nähe erheblichen Brandschaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>610</ID>
-      <DefaultText>{0:value:percent} Chance, gegnerische kritische Treffer in Treffer mit nicht schleierdurchdringenden Angriffen umzuwandeln.</DefaultText>
+      <DefaultText>{0:value:percent} Chance, gegnerische kritische Treffer in Treffer mit nicht schleierdurchdringenden Angriffen umzuwandeln</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
