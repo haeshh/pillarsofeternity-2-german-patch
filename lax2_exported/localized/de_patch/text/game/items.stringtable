@@ -2,13 +2,8 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>130</EntryCount>
+  <EntryCount>123</EntryCount>
   <Entries>
-    <Entry>
-      <ID>4705</ID>
-      <DefaultText>Erleide {0} Schaden</DefaultText>
-      <FemaleText />
-    </Entry>
     <Entry>
       <ID>4708</ID>
       <DefaultText>Verursache {0} Macht-Wirkungen</DefaultText>
@@ -60,12 +55,12 @@ Die jüngste der Dutzenden, Ysly von Baelreach, hatte dem Duc fünf Jahre lang g
     </Entry>
     <Entry>
       <ID>4798</ID>
-      <DefaultText>Besitze 25 Stärke</DefaultText>
+      <DefaultText>Verfüge über 25 Macht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4801</ID>
-      <DefaultText>Es lässt sich leicht verdrängen, dass man die Rüstung trägt. Es ist in der Tat einfach, viele Dinge zu vergessen. Erinnerungen, Reue, abstrakte Philosophien – diese Dinge haben nur wenig Platz auf der großen Jagd, jenen unendlich miteinander verknüpften Prüfungen, die jede Aktion in Eora definieren. Der Fokus des Lebens konzentriert sich bei jenen, die es zulassen, auf diese Herausforderung, auf die nächste Herausforderung, auf den Kampf, der jeden Zusammenhang liefert.</DefaultText>
+      <DefaultText>Es lässt sich leicht verdrängen, dass man die Rüstung trägt. Es ist in der Tat einfach, viele Dinge zu vergessen. Erinnerungen, Reue, abstrakte Philosophien – diese Dinge haben nur wenig Platz auf der großen Jagd, jenen unendlich miteinander verknüpften Prüfungen, die jede Aktion in Eora definieren. Der &lt;xg&gt;Fokus&lt;/xg&gt; des Lebens konzentriert sich bei jenen, die es zulassen, auf die derzeitige Herausforderung, auf die nächste Herausforderung, auf den Kampf, der jeden Zusammenhang liefert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -395,35 +390,6 @@ Solange Frosty dir folgt, erhältst du einen Rüstungsbonus gegen Frostschaden u
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5355</ID>
-      <DefaultText>Waels Wind ist eine Mischung aus verschiedenen Rumsorten (und jedem anderen starken Alkohol, der verfügbar ist) und tropischen Fruchtsäften. Es ist ein stets beliebter Drink in den höllisch heißen Sommern im Todesfeuer. Das Getränk wurde von den Piraten der Príncipi sen Patrena erfunden, und wird traditionell in einer halben Kokosnussschale serviert. 
-
-Der Name Waels Wind kommt von der legendären Eigenschaft des Getränks, seine Trinker aus den Latschen zu heben und ihnen jegliche Erinnerung an den Abend zu rauben.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5356</ID>
-      <DefaultText>Daibō o Osa</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5357</ID>
-      <DefaultText>Dieses alkoholische Getränk gibt es klarer und leicht getrübter Form. Es wird aus zwei verschiedenen Reissorten (einer Kurzkorn, der andere Langkorn) und Wasser aus einer Bergquelle auf der Insel Osa gebraut. Daibō ist das stärkste alkoholische Getränk, das im Todesfeuer bekannt ist. Er wird meist warm serviert und ist besonders in der Handwerker-Kaste sehr beliebt. 
-
-In der Popkultur der Huana, besonders in Spielen und Liedern wird der Daibō o Osa regelmäßig erwähnt und in Diskussionen wird ihm stets vorgeworfen, die Jugend von Huana zu „ruinieren“.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5358</ID>
-      <DefaultText>Meppu</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5360</ID>
-      <DefaultText>Vrer Chiora</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>5364</ID>
       <DefaultText>Frostkonstrukt-Flüssigkeit</DefaultText>
       <FemaleText />
@@ -463,11 +429,6 @@ Die jüngsten Bilder zeigen eine Insel aus Eis, die sich langsam im Norden von N
     <Entry>
       <ID>5386</ID>
       <DefaultText>Gletscherbann</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5387</ID>
-      <DefaultText>Von Feinden {0} Mal verfehlt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -736,38 +697,38 @@ Er verspürte keine Traurigkeit, keine pochende Angst. Er verstand das Land und 
     </Entry>
     <Entry>
       <ID>5600</ID>
-      <DefaultText>Precise Missive</DefaultText>
+      <DefaultText>Exaktes Sendschreiben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5601</ID>
-      <DefaultText>This letter has been folded into a square with clean, diligent creases. 
+      <DefaultText>Dieser Brief wurde sauber zu einem Quadrat gefaltet. 
 
-„[Player Name] walks the Deadfire carrying shards of heat-scorched metal. The significance of these items can't have escaped you, though the timing is a surprise to us all. 
+„[Player Name] geht durch das Todesfeuer mit Scherben von verbranntem Metall. Die Bedeutung dieser Gegenstände kann dir nicht entgangen sein, auch wenn der Zeitpunkt für uns alle überraschend ist. 
 
-We should grasp this opportunity. Kill [Player Name]. Do not hide your act, for we work under the auspices of law. See to it that the metal gets into Izzia's hands. She wastes her potential in Periki's Overlook. 
+Wir sollten diese Gelegenheit ergreifen. Töte [Player Name]. Vertusche deine Tat nicht, wir haben das Gesetz auf unserer Seite. Sorge dafür, dass das Metall in Izzias Hände gelangt. Sie verschwendet ihr Potenzial in Perikis Aussichtspunkt. 
 
-Praise the Exiled Queen.“</DefaultText>
+Lobet die vertriebene Königin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5602</ID>
-      <DefaultText>Hastily-Written Missive</DefaultText>
+      <DefaultText>Eilig geschriebenes Sendschreiben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5603</ID>
-      <DefaultText>This missive is speckled with coal dust and candle wax. 
+      <DefaultText>Das Papier ist von Kohlenstaub und Kerzenwachs übersät. 
 
-„These are words I never wished to write. The blackened shards have been recovered, and [Player Name] carries them – I pray out of ignorance or coincidence.
+„Ich hoffte, diese Wort nie schreiben zu müssen. Die geschwärzten Scherben wurden gefunden, und [Player Name] trägt sie mit sich herum – ich bete, dass es aus Unwissenheit oder Zufall geschah.
 
-We can get ahead of this if we act with haste. The Watcher may have already suffer the witch's corruption without realizing it. Let no thoughts of mercy stay your sword. 
+Wir können es noch retten, indem wir schnell handeln. Der Wächter leidet vielleicht schon unter der Verdorbenheit der Hexe, ohne es zu ahnen. Kein Gedanke von Gnade soll dein Schwert ruhen lassen. 
 
-Once you recover the shards, &lt;i&gt;under no circumstances are they to be kept together.&lt;/i&gt; After you report in, they will be placed in separate vaults and bound in magic for as long as we endure. 
+Sobald du die Scherben wiederhast, &lt;i&gt;dürfen sie unter keinen Umständen zusammenbleiben.&lt;/i&gt; Sobald du es meldest, werden sie in verschiedenen Gruften platziert und durch Zauber gebunden, solange es uns gibt. 
 
-See too that they are kept far from Periki's Overlook. Our enemies mutter about the craftswoman Izzia as if she has an air of destiny about her.
+Sorge auch dafür, dass sie weit entfernt von Perikis Aussichtspunkt gehalten werden. Unsere Feinde murren über die Handwerkerin Izzia als hätte sie einen Hauch Schicksal an sich.
 
-For peace and Magran's honor, may you succeed.“</DefaultText>
+Für Frieden und Magrans Ehre, mögest du Erfolg haben.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
