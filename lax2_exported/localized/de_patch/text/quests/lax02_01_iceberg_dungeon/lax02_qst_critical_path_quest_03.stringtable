@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_03</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>25</EntryCount>
+  <EntryCount>26</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -87,6 +87,11 @@ Jetzt bleibt mir keine andere Wahl, als mich der Drachin zu stellen, die &lt;b&g
     <Entry>
       <ID>20000</ID>
       <DefaultText>Ich fand &lt;b&gt;König Wingauro o Watūri I&lt;/b&gt; im &lt;b&gt;Untergegangenen Königreich&lt;/b&gt; und zwang ihn, sich den Konsequenzen seines Tuns zu stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
