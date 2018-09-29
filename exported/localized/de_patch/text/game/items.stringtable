@@ -513,7 +513,7 @@ Aloths hübsche, sorgfältige Schönschrift bildet auf den Seiten einen ordentli
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>Das Großschwert ist für seine Fähigkeit berühmt, selbst fürchterlichen Biestern tödliche Wunden zuzufügen. Obwohl diese Waffe relativ langsam zu führen ist und beide Hände erfordert, kann ein geübter Krieger mit ihr verheerende Wirkung entfalten.</DefaultText>
+      <DefaultText>Das Großschwert ist für seine Fähigkeit berühmt, selbst fürchterlichen Biestern tödliche &lt;xg&gt;Wunden&lt;/xg&gt; zuzufügen. Obwohl diese Waffe relativ langsam zu führen ist und beide Hände erfordert, kann ein geübter Krieger mit ihr verheerende Wirkung entfalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1625,7 +1625,7 @@ Dieser einfache Speer ist mit Federn und Perlen verziert.</DefaultText>
     </Entry>
     <Entry>
       <ID>1340</ID>
-      <DefaultText>Das Großschwert ist für seine Fähigkeit berühmt, selbst fürchterlichen Biestern tödliche Wunden zuzufügen. Obwohl diese Waffe relativ langsam zu führen ist und beide Hände erfordert, kann ein geübter Krieger mit ihr verheerende Wirkung entfalten.
+      <DefaultText>Das Großschwert ist für seine Fähigkeit berühmt, selbst fürchterlichen Biestern tödliche &lt;xg&gt;Wunden&lt;/xg&gt; zuzufügen. Obwohl diese Waffe relativ langsam zu führen ist und beide Hände erfordert, kann ein geübter Krieger mit ihr verheerende Wirkung entfalten.
 
 Die Klinge dieses durch mächtige Magie beschworenen Schwerts scheint eine lange Flammenzunge zu sein.</DefaultText>
       <FemaleText />
@@ -13654,7 +13654,7 @@ Am Ende hat jemand Folgendes gekritzelt: „Für Eolina und Jun machen, wenn ich
     </Entry>
     <Entry>
       <ID>4639</ID>
-      <DefaultText>Während Bonnie dir folgt, werden manche gegnerische Treffer an dir zu Leichten Treffern und manche gegnerische Waffenangriffe an deinen Gruppenmitgliedern zu Treffern anstelle von kritischen Treffern.</DefaultText>
+	  <DefaultText>Während Bonnie dir folgt, werden manche gegnerische Treffer an dir als Leichter Treffer gezählt und manche gegnerische Waffenangriffe gegen Gruppenmitglieder als Treffer anstelle von Kritischer Treffer gewertet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13968,7 +13968,7 @@ Als Symbol ihrer neuen Position überreichte man Pallegina diesen schimmernden B
     </Entry>
     <Entry>
       <ID>4721</ID>
-      <DefaultText>Füge {0} Schaden mit Schredder-Mächten zu</DefaultText>
+      <DefaultText>Füge {0} Schaden mit Fetzen-Fähigkeiten zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14283,7 +14283,7 @@ Er stieg zu einem Ort hinab, der als die Endlosen Pfade von Od Nua bekannt ist. 
     </Entry>
     <Entry>
       <ID>4798</ID>
-      <DefaultText>Besitze 25 Stärke</DefaultText>
+      <DefaultText>Verfüge über 25 Macht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16981,37 +16981,37 @@ Die Klinge wurde kunstvoll mit Seelenessenz versetzt und leuchtet in Verbundenhe
     </Entry>
     <Entry>
       <ID>5498</ID>
-      <DefaultText>Töte {0} Feinde, während des Erleidens einer Geisteswirkung.</DefaultText>
+      <DefaultText>Töte {0} Feinde, während du an einer Geisteswirkung leidest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5500</ID>
-      <DefaultText>Erleide {0} Schaden, während die Gesundheit unter 25% ist.</DefaultText>
+      <DefaultText>Erleide {0} Schaden, während deine Gesundheit unter 25 % ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5501</ID>
-      <DefaultText>Lasse {0} feindliche Effekte während Kämpfen auslaufen.</DefaultText>
+      <DefaultText>Lasse {0} feindliche Effekte während eines Gefechts auslaufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5502</ID>
-      <DefaultText>Füge Feinden {0} Schaden zu, während die Gesundheit unter 25% ist.</DefaultText>
+      <DefaultText>Verursache {0} Schaden bei Feinden, während deine Gesundheit unter 25 % liegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5503</ID>
-      <DefaultText>Verursache {0} Wirkungen bei Geistern.</DefaultText>
+      <DefaultText>Wende {0} Wirkungen bei Geistern an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5504</ID>
-      <DefaultText>Suche den Tiefenjäger auf.</DefaultText>
+      <DefaultText>Mach den Tiefenjäger ausfindig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5505</ID>
-      <DefaultText>Suche den ältesten der Schwefelsteine auf.</DefaultText>
+      <DefaultText>Mach den Uralten des Schwefels ausfindig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
