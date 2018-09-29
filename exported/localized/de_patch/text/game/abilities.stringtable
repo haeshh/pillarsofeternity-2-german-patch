@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3341</EntryCount>
+  <EntryCount>3363</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -3471,7 +3471,7 @@
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>Der Barbar führt einen gewaltigen Hieb aus, der die Wahrscheinlichkeit und den Schaden von Kritischen Treffern erhöht und Blutbad in einem größeren Bereich anrichtet.</DefaultText>
+      <DefaultText>Der Barbar führt einen gewaltigen Hieb aus, der mit höherer Wahrscheinlichkeit Kritische Treffer verursacht, den Schaden von Kritischen Treffern erhöht und Blutbad in einem größeren Gebiet anrichtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12919,7 +12919,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3702</ID>
-      <DefaultText>Würge-Angriff, der Gelähmt auf das Ziel anwendet.</DefaultText>
+      <DefaultText>Würge-Angriff, der Gelähmt auf das Ziel anwendet und direkten Schaden über Zeit zufügt. Wenn die Wirkung endet, ist das Ziel niedergestreckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15276,7 +15276,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4330</ID>
-      <DefaultText>Auftakt des Champions</DefaultText>
+      <DefaultText>Auftakt des Gefährten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17094,6 +17094,116 @@ Keiner.</DefaultText>
     <Entry>
       <ID>4910</ID>
       <DefaultText>Wenn unter dem Einfluss einer Geistesinspiration, werden Zaubersprüche schneller gewirkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4911</ID>
+      <DefaultText>Vampirisch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4912</ID>
+      <DefaultText>Unaufhaltsam</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4913</ID>
+      <DefaultText>Reflektierend</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4914</ID>
+      <DefaultText>Erhaben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4915</ID>
+      <DefaultText>Rachsüchtig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4918</ID>
+      <DefaultText>Klaue des Jägers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4919</ID>
+      <DefaultText>Der Waldläufer schlägt wie ein Spitzenjäger beim Nahkampf zu – er beobachtet seine Beute und lernt, wie er sie am besten bezwingt. Bei der ersten Verwendung erhält der Waldläufer zusätzliche Genauigkeit gegen die Rasse seines Ziels. Dieser Bonus vervielfacht sich mit jedem Treffer mit dieser Fähigkeit gegen Kreaturen derselben Rasse (bis zu einer Grenze). Hat der Waldläufer sich für eine Rasse als Beute entschieden, kann er keine neue Rasse als Beute wählen, bis er eine Pause macht – dann werden alle Stapel zurückgesetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4920</ID>
+      <DefaultText>Klaue der Bestie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4921</ID>
+      <DefaultText>(Klaue der Bestie) – Jeder Stapel erhöht auch die Verteidigung gegen die gewählte Rasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4922</ID>
+      <DefaultText>Reißzahn des Jägers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4923</ID>
+      <DefaultText>(Reißzahn des Jägers) - Jeder Stapel erhöht auch den Schaden gegen die gewählte Rasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4924</ID>
+      <DefaultText>Vereinte Furie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4925</ID>
+      <DefaultText>Der Waldläufer ruft seinen tierischen Gefährten, was bei ihm einen Urzorn auslöst und ihnen für längere Zeit mehrere mächtige Inspirationen gewährt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4926</ID>
+      <DefaultText>Herzsucher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4927</ID>
+      <DefaultText>Der Waldläufer feuert einen starken, zielsicheren Schuss mit seiner Fernkampfwaffe ab und trifft alle Charaktere in seiner Bahn mit erhöhtem Schaden und stärkerer Durchschlagskraft und schwächt sie dabei noch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5025</ID>
+      <DefaultText>Im Kampf wird Nebula regelmäßig einem Charakter eine Inspiration schenken. Wenn du Dem Tode nahe bist und und angegriffen wirst, besteht bei Nebula auch eine kleine Chance, Rückzug oder Rückruf der Agonie auf dich zu wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5026</ID>
+      <DefaultText>Nebulas Segnung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5065</ID>
+      <DefaultText>Beschleunigt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5066</ID>
+      <DefaultText>Bullisch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5067</ID>
+      <DefaultText>Gehärtet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5068</ID>
+      <DefaultText>Schleichen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5069</ID>
+      <DefaultText>Brisant</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
