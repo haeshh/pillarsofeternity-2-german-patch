@@ -2,8 +2,63 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>10</EntryCount>
+  <EntryCount>19</EntryCount>
   <Entries>
+    <Entry>
+      <ID>4710</ID>
+      <DefaultText>Wirke {0} Schutz- oder Wiederherstellung-Priesterzauber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4711</ID>
+      <DefaultText>Wirke {0} Bestien- oder Pflanzen-Druidenzauber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4713</ID>
+      <DefaultText>Eine Waffe verletzt. Eine Falle schwächt. Der Sucher dient dem Suchenden, wobei er den Herzen und Augen von achtundachtzig Feinden eine Falle stellt und den hundertfachen Pfad vor dem Reisenden verwirrt. Dieser Dolch, der leise genug ist, um Aufmerksamkeit zu vermeiden, und durchdringend genug, um sich unvermiedener Aufmerksamkeit zu stellen, er mordet nicht nur – er verwirrt.
+
+So singen es die Huana. So heulen es die Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4714</ID>
+      <DefaultText>Der hundertfache Pfad verzweigt sich einhunderthundert Mal. Der Sucher wird die Suchenden nicht leiten, da er bereitwillig jeden Pfad auf- und wieder abschreiten wird, wobei er alle Dinge so erlebt, wie sie waren und sein werden. Daher dient der Reisende dem Sucher, der Potentiale und Möglichkeiten mit seinen scharfsinnigen Entscheidungen eingrenzt.
+
+So singen es die Huana. So heulen es die Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4715</ID>
+      <DefaultText>Der Sucher sucht den Suchenden. Von Morgendämmerung bis Morgendämmerung, wie eine Nadel in einem Stoff, weben einhunderthundert Reisende einhunderthundert Umhänge aus dem hundertfachen Pfad. Von Morgendämmerung bis Morgendämmerung verwirrt der Sucher jeden Feind an jeder Gabelung.
+
+Der Sucher sucht hier und anderswo.
+
+So singen es die Huana. So heulen es die Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4719</ID>
+      <DefaultText>Füge Feinden, die unter Wirkungen leiden, {0} Schaden zu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4720</ID>
+      <DefaultText>Füge flankierten Feinden {0} Schaden zu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4721</ID>
+      <DefaultText>Füge {0} Schaden mit Fetzen-Fähigkeiten zu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4723</ID>
+      <DefaultText>Eine Waffe verletzt. Ein Werkzeug dient. Der Schlächter dient dem Schleichenden, wobei er schwere Dschungellianen trennt und dichtes, sumpfiges Ried aufteilt und somit den hundertfachen Pfad vor dem Reisenden räumt. Diese Axt ist robust genug, um lockeres Gestein abzubrechen, und scharf genug, um Jäger abzuwehren. Sie beschützt nicht nur – sie eskortiert.
+
+So singen es die Huana. So heulen es die Gesichter der Jagd.</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>5454</ID>
       <DefaultText>Lebender Stahlanker</DefaultText>
