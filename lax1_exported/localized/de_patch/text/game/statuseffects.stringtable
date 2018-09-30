@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>277</ID>
-      <DefaultText>Erhöht jedes Mal, wenn ein Gruppenmitglied niedergeschlagen wird, Macht und Entschlossenheit bis zum Ende des Kampfes um {0:triggervalue:straight}. Wirkung kann bis zu 4-mal gestapelt werden</DefaultText>
+      <DefaultText>Erhöht jedes Mal, wenn ein Gruppenmitglied niedergestreckt wird, Macht und Entschlossenheit bis zum Ende des Kampfes um {0:triggervalue:straight}. Wirkung kann bis zu 4-mal gestapelt werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>374</ID>
-      <DefaultText>{0:Value} Rüstungswert. Erhöht sich mit der Athletik-Fertigkeit</DefaultText>
+      <DefaultText>{0:Value} Rüstungswert. Erhöht sich mit der Fertigkeit Athletik</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>492</ID>
-      <DefaultText>Verursacht Schockschaden und {0:extravalue:duration} lang Betäubt bei Allen in der Nähe des Trägers, wenn er das bewusstsein verliert</DefaultText>
+      <DefaultText>Verursacht Schockschaden und {0:extravalue:duration} lang Betäubt bei Allen in der Nähe des Trägers, wenn er das Bewusstsein verliert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>542</ID>
-      <DefaultText>Vergeltung mit Korrosionsschaden bei einem Treffer im Nahkampf</DefaultText>
+      <DefaultText>Vergeltung mit Zersetzungsschaden bei einem Treffer im Nahkampf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>647</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem erzielten Treffer {0:extravalue:duration} lang {0:extravalue} Abwehr zuzufügen ({0:triggercount} Mal stapelbar)</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten Treffer {0:extravalue:duration} lang {0:extravalue} Abwehr zuzufügen ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>649</ID>
-      <DefaultText>{0:value:percent} Chance, bei erlittenem kritischen Treffer mit einer Nahkampfwaffe, alle {0:interval} beim Angreifer {0:triggervalue:duration} lang {0:extravalue:straight} Reinen Blutungsschaden zu verursachen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei erlittenem kritischen Treffer mit einer Nahkampfwaffe, alle {0:interval} beim Angreifer {0:triggervalue:duration} lang {0:extravalue:straight} direkten Blutungsschaden zu verursachen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,12 +141,12 @@
     </Entry>
     <Entry>
       <ID>651</ID>
-      <DefaultText>Fügt umstehenden Feinden bei einer erzielten Tötung Reinen-Schaden zu</DefaultText>
+      <DefaultText>Fügt umstehenden Feinden bei einer erzielten Tötung direkten Schaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>652</ID>
-      <DefaultText>Chance von {0:value:percent}, bei einem Treffer {0:triggervalue:duration} lang {0:extravalue} Durchschlagskraft zu erhalten ({0:triggercount} Mal stapelbar)</DefaultText>
+      <DefaultText>Chance von {0:value:percent}, bei einem Treffer {0:triggervalue:duration} lang {0:extravalue} Durchschlagskraft zu erhalten ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>656</ID>
-      <DefaultText>Nachdem du eine Gewandtheits-Wirkung ausgelöst hast, wirst du  {0:extravalue:duration} lang immun gegenüber Angriffsbindungen.</DefaultText>
+      <DefaultText>Nachdem du eine Gewandtheitswirkung ausgelöst hast, wirst du  {0:extravalue:duration} lang immun gegenüber Angriffsbindungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,7 +171,7 @@
     </Entry>
     <Entry>
       <ID>660</ID>
-      <DefaultText>Erhält nach erfolgreichem Treffer mit Blutbad bei Bestienzielen {0:extravalue:duration} lang {0:value:percentbonus} Aktionsgeschwindigkeit ({0:triggercount} Mal stapelbar)</DefaultText>
+      <DefaultText>Erhält nach erfolgreichem Treffer mit Blutbad bei Bestienzielen {0:extravalue:duration} lang {0:value:percentbonus} Aktionsgeschwindigkeit ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>666</ID>
-      <DefaultText>Dieses Schild kann als Waffe verwendet werden, um Hieb- und Wucht-Schaden anzurichten.</DefaultText>
+      <DefaultText>Dieses Schild kann als Waffe verwendet werden, um Hieb- und Wuchtschaden anzurichten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>671</ID>
-      <DefaultText>Windlieds Waffenkunde-Modal gewährt eine {0:extravalue:percent}-Chance darauf, Gegner, die dem Tode nahe sind, bei einem Treffer {0:value:duration} lang abzulenken</DefaultText>
+      <DefaultText>Windlieds Waffenkunde-Modal gewährt eine {0:extravalue:percent}-Chance darauf, Gegner, die Dem Tode nahe sind, bei einem Treffer {0:value:duration} lang abzulenken</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
