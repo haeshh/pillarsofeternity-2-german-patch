@@ -125,10 +125,9 @@ Du ziehst dich selbst am Felsvorsprung hoch.
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Mit einem Aufschrei rutscht [Skillcheck 0] aus und greift im Fallen nach deinem Bein. Ihr beide fallt mit einem Platschen in das Wasser unter euch.
+      <DefaultText>Mit einem Aufschrei rutscht [SkillCheck 0] aus und greift im Fallen nach deinem Bein. Ihr beide fallt mit einem Platschen in das Wasser unter euch.
 
-Ihr schafft es, auf den Rand zu klettern, wobei [Skillcheck 0] hinkt.
-</DefaultText>
+Ihr schafft es, auf den Rand zu klettern, wobei [SkillCheck 0] hinkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,7 +285,7 @@ Wachen dieser Quelle vielleicht.
     <Entry>
       <ID>68</ID>
       <DefaultText>„Schon eine Weile her, seit ich eine Glaubensprobe vollzogen habe. Überlass das mir, Wächter.“ Mit zusammengebissenem Kiefer und leicht bebenden Nasenflügeln rollt Xoti ihre Ärmel hoch.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Schon eine Weile her, seit ich eine Glaubensprobe vollzogen habe. Überlass das mir, Wächterin.“ Mit zusammengebissenem Kiefer und leicht bebenden Nasenflügeln rollt Xoti ihre Ärmel hoch.</FemaleText>
     </Entry>
     <Entry>
       <ID>69</ID>
@@ -377,7 +376,7 @@ Du bemerkst einen zutage tretenden Stein in der Nähe, der aus dem Wasser emporr
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Als du dich umschaust, bemerkst du, dass der felsige Vorsprung tiefer in die die Dunkelheit anziehende Höhle hineinführt.</DefaultText>
+      <DefaultText>Als du dich umschaust, bemerkst du, dass der felsige Vorsprung tiefer in die, die Dunkelheit anziehende, Höhle hineinführt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
