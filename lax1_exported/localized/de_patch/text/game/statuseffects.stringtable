@@ -121,12 +121,12 @@
     </Entry>
     <Entry>
       <ID>647</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem erzielten Treffer {0:extravalue:duration} lang {0:extravalue} Abwehr zuzufügen ({0:triggercount}-mal stapelbar)</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten Treffer, wenn man unbewaffnet ist, {0:triggervalue:duration} lang {0:extravalue} Abwehr zuzufügen ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>648</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem erzielten kritischen Treffer {0:extravalue:duration} lang {0:extravalue} Rüstungswert zuzufügen ({0:triggercount} Mal stapelbar)</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten kritischen Treffer, wenn man unbewaffnet ist, {0:triggervalue:duration} lang {0:extravalue} Rüstungswert zuzufügen ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>666</ID>
-      <DefaultText>Dieses Schild kann als Waffe verwendet werden, um Hieb- und Wuchtschaden anzurichten.</DefaultText>
+      <DefaultText>Dieser Schild kann als Waffe verwendet werden, um Hieb- und Wuchtschaden anzurichten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
