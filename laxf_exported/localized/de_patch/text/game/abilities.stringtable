@@ -2,8 +2,28 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>7</EntryCount>
+  <EntryCount>13</EntryCount>
   <Entries>
+    <Entry>
+      <ID>4797</ID>
+      <DefaultText>Verschmelzen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4800</ID>
+      <DefaultText>Koppelbindung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4801</ID>
+      <DefaultText>Ätzendes Lösungsmittel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4806</ID>
+      <DefaultText>Symbiont</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>4836</ID>
       <DefaultText>Zerschmetterndes Kreischen</DefaultText>
@@ -27,6 +47,16 @@
     <Entry>
       <ID>4851</ID>
       <DefaultText>Zorn der Kaiserin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4857</ID>
+      <DefaultText>Verschmelzen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4858</ID>
+      <DefaultText>Der Trägher verschmilzt mit dem anvisierten Verbündeten und gewährt ihm einen grossen Bonus auf Kraftstufe und Gesundheit, entfernt ihn aber aus dem Kampf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
