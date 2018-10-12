@@ -2,11 +2,21 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>5</EntryCount>
+  <EntryCount>9</EntryCount>
   <Entries>
     <Entry>
       <ID>5305</ID>
       <DefaultText>Platte des Wächters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5522</ID>
+      <DefaultText>When a group of oozes gathers into one distinct entity, their metabolism sublimates the indigestible bones, dirt, and debris of their travels into a slimy byproduct reminiscent of a pearl. These items tend to dissolve with the death of their host, but in rare cases they can be recovered whole and put on display as trophies. In even rarer cases, an ooze pearl will absorb some latent quality of their host, allowing those who carry such objects to manifest some objectively horrifying talents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5523</ID>
+      <DefaultText>Mountainous Ooze Droppings</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,6 +43,24 @@
 Die Todesfeuer-Gesellschaft für Besucherpflege übernimmt keine Verantwortung für Schäden, die durch bewusstes Ignorieren dieser Warnungen entstehen, und jede erdenkliche Maßnahme wurde ergriffen, um Reisende von den folgenden Koordinaten fernzuhalten: 8° 53' N 45° 25' E.“
 
 Eine Karte von Belrangas Position wurde mit einem Wachssiegel in Totenkopfform versehen. Er zeigt auf eine Insel westlich von Ondras Mörser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5584</ID>
+      <DefaultText>Die Fallen des Todesfeuers Band 2 – Der gefräßige Berg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5585</ID>
+      <DefaultText>Dieser Reiseführer wird zum Wohle der Neuankömmlinge im Todesfeuer-Archipel verteilt. Ein Abschnitt sticht heraus:
+
+„Do NOT dispose of sick livestock by feeding them to Hauani O Whe. That PRIMORDIAL ABOMINATION has grown to the size of a mountain already thanks to misguided pilgrims worshipping it as a god.
+
+A DIRE warning - Hauani O Whe vomits forth a symbiote that &lt;i&gt;injures&lt;/i&gt; a motionless host and &lt;i&gt;reproduces&lt;/i&gt; on a moving one. Simply AVOIDING the creature at all costs will prevent GRAVE PERIL, &lt;i&gt;INFESTATION,&lt;/i&gt; AND PROBABLE DEATH. 
+
+Die Todesfeuer-Gesellschaft für Besucherpflege übernimmt keine Verantwortung für Schäden, die durch bewusstes Ignorieren dieser Warnungen entstehen, und jede erdenkliche Maßnahme wurde ergriffen, um Reisende von den folgenden Koordinaten fernzuhalten: 25° 52' S 34° 22' E.“ 
+
+Eine Karte von Hauani O Whe's Position wurde mit einem Wachssiegel in Totenkopfform versehen. Er zeigt auf eine Lagune südlich von Stauholz.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
