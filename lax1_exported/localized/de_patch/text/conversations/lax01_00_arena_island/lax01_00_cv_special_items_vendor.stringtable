@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\lax01_00_arena_island\lax01_00_cv_special_items_vendor</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>208</EntryCount>
+  <EntryCount>209</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1107,7 +1107,7 @@ Der Geist steht über dir und hat seine Arme auf seine spektral wirkenden Hüfte
     <Entry>
       <ID>229</ID>
       <DefaultText>„Nicht ganz. Eigentlich habe ich ihn eher hierher gebracht. Auf Befehl von Humaire?“</DefaultText>
-      <FemaleText>„Nicht ganz. Eigentlich habe ich sie eher hierher gebracht/ Auf Befehl von Humaire?“</FemaleText>
+      <FemaleText>„Nicht ganz. Eigentlich habe ich sie eher hierher gebracht. Auf Befehl von Humaire?“</FemaleText>
     </Entry>
     <Entry>
       <ID>230</ID>
@@ -1115,6 +1115,11 @@ Der Geist steht über dir und hat seine Arme auf seine spektral wirkenden Hüfte
 
 Die Seele schüttelt heftig seinen Kopf.</DefaultText>
       <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>„Kazuwari braucht dich, Meister! Geh! Rette sie!“</DefaultText>
+      <FemaleText>„Kazuwari braucht dich, Meisterin! Geh! Rette sie!“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

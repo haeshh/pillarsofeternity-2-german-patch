@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\lax01_00_arena_island\lax01_00_si_ancient_well</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>109</EntryCount>
+  <EntryCount>110</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -574,6 +574,11 @@ Ein Podium aus Stein, das durch Wurzeln zerbrochen und mit Moos und Schmutz übe
     <Entry>
       <ID>127</ID>
       <DefaultText>„Schade, ich dachte, es wäre lauter.“ Rekke lehnt sich über den Rand des Brunnens hinaus und sieht stirnrunzelnd in die Dunkelheit hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Deine Arme geben nach und mit einem Keuchen durchdringst du die Dunkelheit. Ein schrecklicher Moment der Schwerelosigkeit endet in einem wässrigen Krachen, dein Rücken wird von Schmerz durchzuckt.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
