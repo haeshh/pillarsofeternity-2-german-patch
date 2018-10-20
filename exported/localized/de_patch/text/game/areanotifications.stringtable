@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\areanotifications</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>178</EntryCount>
+  <EntryCount>168</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -425,21 +425,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>84</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>85</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>86</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>87</ID>
       <DefaultText>Etwas Schimmerndes zieht im Wasser deine Aufmerksamkeit auf sich.</DefaultText>
       <FemaleText />
@@ -540,11 +525,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>107</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>108</ID>
       <DefaultText>Etwas fühlt sich auf dieser Insel nicht richtig an.</DefaultText>
       <FemaleText />
@@ -562,11 +542,6 @@
     <Entry>
       <ID>111</ID>
       <DefaultText>Während der Dschungel immer dichter wird, erkennst du einige Territorialmarkierungen der Lagufaeth.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>112</ID>
-      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -760,11 +735,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>151</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>153</ID>
       <DefaultText>Du hörst, wie zwei Besatzungsmitglieder sich an Deck streiten.</DefaultText>
       <FemaleText />
@@ -820,11 +790,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>164</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>165</ID>
       <DefaultText>Eine patzige Stimme ruft nach dir. „Den Göttern sei dank, dass du hier bist, wir sind gerettet.“</DefaultText>
       <FemaleText />
@@ -850,11 +815,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>170</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>171</ID>
       <DefaultText>Eine Flotte nähert sich.</DefaultText>
       <FemaleText />
@@ -877,16 +837,6 @@
     <Entry>
       <ID>184</ID>
       <DefaultText>Sturm!</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>185</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>192</ID>
-      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
