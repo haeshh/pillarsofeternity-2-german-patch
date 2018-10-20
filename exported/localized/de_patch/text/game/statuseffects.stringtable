@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>555</EntryCount>
+  <EntryCount>553</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2622,16 +2622,6 @@
     <Entry>
       <ID>604</ID>
       <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>605</ID>
-      <DefaultText>Beeinflusst Träger und Feind mit {0:value} Entschlossenheit bei Treffer (Maximal fünfmal stapelbar)</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>609</ID>
-      <DefaultText>Gewährt {0:value} Macht, wenn ein Gruppenmitglied KO geht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
