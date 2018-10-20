@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\newgamebonuses</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>59</EntryCount>
+  <EntryCount>63</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -260,6 +260,16 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>51</ID>
+      <DefaultText>Schändliche Vergangenheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Beginne mit dem berüchtigten Kapitän passiv (als hättest du gerade eine Meuterei überlebt).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>53</ID>
       <DefaultText>Handwerker-Rabatt</DefaultText>
       <FemaleText />
@@ -287,6 +297,16 @@
     <Entry>
       <ID>58</ID>
       <DefaultText>Drei einzigartige und erfahrene Seeleute können in der Taverne Krakenauge (zu einem Vorzugspreis) angeheuert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>… kann ich ihn trotzdem streicheln?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Eder schaltet den Haustier-Slot frei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
