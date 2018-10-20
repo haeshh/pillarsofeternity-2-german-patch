@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\companiontopics</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>91</EntryCount>
+  <EntryCount>92</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -457,6 +457,11 @@
     <Entry>
       <ID>96</ID>
       <DefaultText>{0:Name} mag keine Ehrerbietung für oder Bewunderung von Gottähnlichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>{0:Name} glaubt, dass die Gottähnlichen von Natur aus vorteilhafte Einflüsse auf Eora haben und Religion und Gesellschaft zum Besseren verändern.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
