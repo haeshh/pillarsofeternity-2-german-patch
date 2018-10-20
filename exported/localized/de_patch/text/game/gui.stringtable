@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4544</EntryCount>
+  <EntryCount>4562</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -22822,7 +22822,7 @@ Du hast die Möglichkeit, die Workshop-Seite des Mods zu überprüfen, bevor sie
     </Entry>
     <Entry>
       <ID>5035</ID>
-      <DefaultText>{0} rekrutieren?</DefaultText>
+      <DefaultText>{0} auf Stufe {1} rekrutieren?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22866,7 +22866,7 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     </Entry>
     <Entry>
       <ID>5068</ID>
-      <DefaultText>Dieser Charakter wurde aus einem Spiel mit aktivierten Cheats exportiert. Der Import dieses Charakters kann sich auf die Schwierigkeit des Spiels auswirken. Weiter?</DefaultText>
+      <DefaultText>Dieser Charakter wurde aus einem Spiel mit aktivierten Cheats exportiert. Du musst Cheats aktivieren, um diesen Charakter zu importieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22921,7 +22921,7 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     </Entry>
     <Entry>
       <ID>5094</ID>
-      <DefaultText>Tötungskamera Reiztext zeigen</DefaultText>
+      <DefaultText>Tötungskamera Reiztext</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23076,12 +23076,12 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     </Entry>
     <Entry>
       <ID>5131</ID>
-      <DefaultText>Zeige häufig verwendete Fähigkeiten an.</DefaultText>
+      <DefaultText>Häufig verwendete Fähigkeiten anzeigen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5132</ID>
-      <DefaultText>Wenn diese Option aktiviert ist, wird eine Leiste mit häufig verwendeten Fähigkeiten über der Fähigkeiten-Leiste angezeigt. Sie zeigt automatisch deine 5 am häufigsten verwendeten Fähigkeiten und deine zuletzt verwendete Fähigkeit an.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, wird eine Leiste mit häufig verwendeten Fähigkeiten über der Fähigkeitenleiste angezeigt. Sie zeigt automatisch deine 5 am häufigsten verwendeten Fähigkeiten und deine zuletzt verwendete Fähigkeit an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23096,52 +23096,52 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     </Entry>
     <Entry>
       <ID>5135</ID>
-      <DefaultText>All Events</DefaultText>
+      <DefaultText>Alle Events</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5136</ID>
-      <DefaultText>Party Events Only</DefaultText>
+      <DefaultText>Nur Gruppen-Events</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5137</ID>
-      <DefaultText>Enemy Events Only</DefaultText>
+      <DefaultText>Nur gegnerische Events</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5138</ID>
-      <DefaultText>{0} is a quest item that cannot be exported. Unequip the item before exporting this character.</DefaultText>
+      <DefaultText>{0} ist ein Quest-Gegenstand, der nicht exportiert werden kann. Lege diesen Gegenstand ab, bevor du diesen Charakter exportierst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5139</ID>
-      <DefaultText>Created with Cheats</DefaultText>
+      <DefaultText>Mit Cheats erstellt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5140</ID>
-      <DefaultText>Out Of Combat</DefaultText>
+      <DefaultText>Kein Kampf mehr</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5141</ID>
-      <DefaultText>Ability Bar</DefaultText>
+      <DefaultText>Fähigkeitenleiste</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5142</ID>
-      <DefaultText>Action Bar</DefaultText>
+      <DefaultText>Aktionsleiste</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5143</ID>
-      <DefaultText>Combat Log</DefaultText>
+      <DefaultText>Kampfprotokoll</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5145</ID>
-      <DefaultText>Combat Tooltip</DefaultText>
+      <DefaultText>Kampf-Tooltip</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23151,27 +23151,42 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     </Entry>
     <Entry>
       <ID>5149</ID>
-      <DefaultText>Set when to display certain HUD components when in and out of combat.</DefaultText>
+      <DefaultText>Stelle ein, wie bestimmte HUD-Komponenten angezeigt werden sollen, wenn du dich im Kampf befindest oder nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5150</ID>
+      <DefaultText>Rymrgands Herausforderung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5151</ID>
+      <DefaultText>Nahrungsmittel verderben nach einer gewissen Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5152</ID>
-      <DefaultText>Spoils After</DefaultText>
+      <DefaultText>Verdirbt nach</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5153</ID>
-      <DefaultText>Spoiled</DefaultText>
+      <DefaultText>Verdorben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5154</ID>
+      <DefaultText>Hyleas Herausforderung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5159</ID>
-      <DefaultText>Ein Charakter kann während des Kampfes nicht exportiert werden.</DefaultText>
+      <DefaultText>Kann im Kampf keine Charaktere exportieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5161</ID>
-      <DefaultText>Importierte Character</DefaultText>
+      <DefaultText>Charakter importieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23181,17 +23196,92 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     </Entry>
     <Entry>
       <ID>5163</ID>
-      <DefaultText>Starte von vorne an</DefaultText>
+      <DefaultText>Von vorne anfangen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5164</ID>
-      <DefaultText>Choose a pre-made character to start with and modify it as you like.</DefaultText>
+      <DefaultText>Wähle einen vorgefertigten Charakter und ändere ihn nach deinem Geschmack.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5165</ID>
-      <DefaultText>Create a brand-new character.</DefaultText>
+      <DefaultText>Erstelle einen brandneuen Charakter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5182</ID>
+      <DefaultText>Pet Sacrifice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5183</ID>
+      <DefaultText>Pet Creation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5184</ID>
+      <DefaultText>Pets Available for Sacrifice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5185</ID>
+      <DefaultText>Pets Available for Creation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5186</ID>
+      <DefaultText>Drag in Pet to Sacrifice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5187</ID>
+      <DefaultText>Look to be Added</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5188</ID>
+      <DefaultText>Bonuses to be Added</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5189</ID>
+      <DefaultText>Drag in a Pet Sleeve</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5190</ID>
+      <DefaultText>Drag in Pet for Bonuses</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5191</ID>
+      <DefaultText>Sacrifice Pet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5192</ID>
+      <DefaultText>Create Pet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5193</ID>
+      <DefaultText>Vela follows the Watcher and must be kept alive or the game ends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5194</ID>
+      <DefaultText>Combat Tooltip</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5196</ID>
+      <DefaultText>Ne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5197</ID>
+      <DefaultText>Lady of Lament</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
