@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3363</EntryCount>
+  <EntryCount>3360</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -17137,6 +17137,18 @@ Keiner.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4939</ID>
+      <DefaultText>Zauberspruchformen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4940</ID>
+      <DefaultText>Erhalte bei einem gezielten Wirkungsradiuszauber die Fähigkeit, die Größe des Bereichs auf Kosten oder Vorteilen des Machtgrads zu erhöhen.
+
+(Verwende Zoom-Kontrollen beim Zielen eines Zaubers, um ihnen zu formen. Manche Zaubersprüche lassen sich jedoch nicht formen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5025</ID>
       <DefaultText>Im Kampf wird Nebula regelmäßig einem Charakter eine Inspiration schenken. Wenn du Dem Tode nahe bist und angegriffen wirst, besteht bei Nebula auch eine kleine Chance, Rückzug oder Rückruf der Agonie auf dich zu wirken.</DefaultText>
       <FemaleText />
@@ -17147,13 +17159,18 @@ Keiner.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5062</ID>
+      <DefaultText>Ängstlich</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5065</ID>
       <DefaultText>Beschleunigt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5066</ID>
-      <DefaultText>Bullisch</DefaultText>
+      <DefaultText>Zuversichtlich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17163,12 +17180,17 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>5068</ID>
-      <DefaultText>Schleichen</DefaultText>
+      <DefaultText>Herumstreifend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5069</ID>
-      <DefaultText>Brisant</DefaultText>
+      <DefaultText>Sprunghaft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5115</ID>
+      <DefaultText>Ondras Gunst</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
