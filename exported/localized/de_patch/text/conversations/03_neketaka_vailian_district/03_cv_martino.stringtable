@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\03_neketaka_vailian_district\03_cv_martino</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>92</EntryCount>
+  <EntryCount>93</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -487,6 +487,11 @@ Martino sieht Maia an und sein schiefes Lächeln wird hart.</DefaultText>
     <Entry>
       <ID>182</ID>
       <DefaultText>„Ac, ich komme. Merla, mein Rücken …“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>„Wenn du nicht hier bist, um zu helfen, bleibt nur noch wenig zu sagen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

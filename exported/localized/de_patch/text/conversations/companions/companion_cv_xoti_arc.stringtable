@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_xoti_arc</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>434</EntryCount>
+  <EntryCount>436</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -2300,6 +2300,16 @@ Doch dann scheint die Vision zu vergehen.</DefaultText>
     <Entry>
       <ID>450</ID>
       <DefaultText>[Sag nichts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>„Nicht jetzt, Xoti.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>Mit einem Schulterzucken lässt sie ihre Hand wieder fallen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
