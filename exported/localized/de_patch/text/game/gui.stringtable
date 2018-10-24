@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4562</EntryCount>
+  <EntryCount>4567</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -22787,7 +22787,7 @@ Du hast die Möglichkeit, die Workshop-Seite des Mods zu überprüfen, bevor sie
     </Entry>
     <Entry>
       <ID>5016</ID>
-      <DefaultText>Schließe jede kritische Pfadquast for einem bestimmten Datum oder vor Spielende ab.</DefaultText>
+      <DefaultText>Schließe jede kritische Pfadquest vor einem bestimmten Datum ab oder das Spiel endet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22802,7 +22802,7 @@ Du hast die Möglichkeit, die Workshop-Seite des Mods zu überprüfen, bevor sie
     </Entry>
     <Entry>
       <ID>5025</ID>
-      <DefaultText>Ermöglicht dem Wirker, Wirkungsradiuszauber zu gestalten, und dabei den Radius und die Stärke anzupassen.</DefaultText>
+      <DefaultText>Ermöglicht dem Wirker, den Wirkungsradius von Zaubern zu formen, und dabei den Radius und die Stärke anzupassen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23006,7 +23006,7 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     </Entry>
     <Entry>
       <ID>5111</ID>
-      <DefaultText>Ursprüngliche Stufe</DefaultText>
+      <DefaultText>Urstufe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23121,7 +23121,7 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     </Entry>
     <Entry>
       <ID>5140</ID>
-      <DefaultText>Kein Kampf mehr</DefaultText>
+      <DefaultText>Außerhalb von Kämpfen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23181,7 +23181,7 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     </Entry>
     <Entry>
       <ID>5159</ID>
-      <DefaultText>Kann im Kampf keine Charaktere exportieren.</DefaultText>
+      <DefaultText>Charaktere können während eines Kampfes nicht exportiert werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23236,7 +23236,7 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     </Entry>
     <Entry>
       <ID>5187</ID>
-      <DefaultText>Look to be Added</DefaultText>
+      <DefaultText>Erscheinungsbild muss noch hinzugefügt werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23266,12 +23266,12 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     </Entry>
     <Entry>
       <ID>5193</ID>
-      <DefaultText>Vela follows the Watcher and must be kept alive or the game ends.</DefaultText>
+      <DefaultText>Vela folgt dem Wächter und muss am Leben erhalten werden, sonst ist das Spiel vorbei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5194</ID>
-      <DefaultText>Combat Tooltip</DefaultText>
+      <DefaultText>Kampf-Tooltip</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23281,7 +23281,32 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     </Entry>
     <Entry>
       <ID>5197</ID>
-      <DefaultText>Lady of Lament</DefaultText>
+      <DefaultText>Dame der Wehklage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5209</ID>
+      <DefaultText>Dein Cloud-Speicher ist voll. Lösche zuerst einige Spielständer oder exportierte Charaktere, und probiere es noch einmal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5210</ID>
+      <DefaultText>Verfügbarer Speicherplatz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5211</ID>
+      <DefaultText>Das Vorschaubild ist größer als 1 MB.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5212</ID>
+      <DefaultText>Ondra Herausforderung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5214</ID>
+      <DefaultText>Mythisch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
