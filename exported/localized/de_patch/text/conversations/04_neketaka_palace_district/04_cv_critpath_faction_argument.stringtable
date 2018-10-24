@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\04_neketaka_palace_district\04_cv_critpath_faction_argument</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>152</EntryCount>
+  <EntryCount>154</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -909,6 +909,18 @@ Nirro winkt freundlich.</FemaleText>
       <ID>235</ID>
       <DefaultText>„Du machst einen Fehler, Wächter. In Zeiten wie diesen sind vertrauenswürdige Verbündete das wertvollste Gut.“</DefaultText>
       <FemaleText>„Du machst einen Fehler, Wächterin. In Zeiten wie diesen sind vertrauenswürdige Verbündete das wertvollste Gut.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>„Wir haben keine Zeit dafür! Eothas hat sich zum Aschgrauen Rachen in Magrans Zähnen begeben, also muss ich folgen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Schweigen breitet sich im Saal aus. Höflinge und Delegierte betrachten einander. Offensichtlich warten alle nur darauf, wer als Erster in Lachen ausbricht. 
+
+Ein strenger Blick von Königin Onekaza verwandelt jeden, der einen fragenden Blick wagt, zu Stein.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
