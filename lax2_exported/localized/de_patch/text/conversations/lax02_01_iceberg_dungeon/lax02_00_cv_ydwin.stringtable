@@ -7,12 +7,12 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>„Kapitän?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Kapitänin?“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>„Ado, Kapitän.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ado, Kapitänin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -21,40 +21,42 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Seid erneut gegrüßt, Kapitän.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Erneut hallo, Kapitän.“</DefaultText>
+      <FemaleText>„Erneut hallo, Kapitänin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>„Benötigst Du meine Fachkenntnis?“</DefaultText>
+      <DefaultText>„Brauchst du meine Erfahrung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>„Kapitän.“
 
-Ydwin blickt von einem Buch auf und ihre karminroten Augen richten sich auf dich.</DefaultText>
-      <FemaleText />
+Ydwin blickt von einem Buch auf und ihre karminroten Augen bleiben an dir hängen.</DefaultText>
+      <FemaleText>„Kapitänin.“
+
+Ydwin blickt von einem Buch auf und ihre karminroten Augen bleiben an dir hängen.</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>„Oder soll ich dich einfach 'Wächter von Caed Nua' nennen? Ich gestehe, der Titel ist etwas sperrig.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Oder sollte ich dich 'Wächter von Caed Nua' nennen? Ich muss zugeben, dass dieser Titel nicht gerade leicht von der Zunge geht.“</DefaultText>
+      <FemaleText>„Oder sollte ich dich 'Wächterin von Caed Nua' nennen? Ich muss zugeben, dass dieser Titel nicht gerade leicht von der Zunge geht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>„Ich schließe daraus, du hast schon von mir gehört.“</DefaultText>
+      <DefaultText>„Ich nehme an, dass du schon von mir gehört hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>„Caed Nua gibt es nicht mehr. Ich bin nur noch Kapitän.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Caed Nua gibt es nicht mehr. Ich bin nur noch Kapitänin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>„Die meisten nennen mich einfach 'Wächter.'“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Die meisten nennen mich einfach 'Wächter'.“</DefaultText>
+      <FemaleText>„Die meisten nennen mich einfach 'Wächterin'.“</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -63,14 +65,14 @@ Ydwin blickt von einem Buch auf und ihre karminroten Augen richten sich auf dich
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>„Tun sie das? Ich glaube nicht, dass mir es gefallen würde, wenn die Leute mich immer 'Beseeler' nennen würden.“
+      <DefaultText>„Tun sie das? Ich glaube nicht, dass mir es gefallen würde, wenn die Leute mich immer 'Beseelerin' nennen würden.“
 
-Sie schüttelt ihren Kopf.</DefaultText>
+Sie schüttelt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Egal. Ich möchte nicht unbedingt sein wie die 'meisten Leute', oder?“</DefaultText>
+      <DefaultText>„Aber was soll's. Ich möchte nicht unbedingt sein wie die 'meisten Leute', oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +80,9 @@ Sie schüttelt ihren Kopf.</DefaultText>
       <DefaultText>„Dann eben Kapitän.“
 
 Sie hebt leicht das Kinn, während sie durch ihre Brillengläser späht.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Dann eben Kapitänin.“
+
+Sie hebt leicht das Kinn, während sie durch ihre Brillengläser späht.</FemaleText>
     </Entry>
     <Entry>
       <ID>29</ID>
@@ -102,22 +106,22 @@ Sie hebt leicht das Kinn, während sie durch ihre Brillengläser späht.</Defaul
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>„Als du mich an Bord nahmst, hattest du vergessen zu erwähnen, dass du auf der Verfolgung einer wütenden Gottheit warst.“</DefaultText>
+      <DefaultText>„Als du mich an Bord genommen hast, vergaßt du zu erwähnen, dass du eine randalierende Gottheit verfolgst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>„Es tut mir leid. Ich hätte dir erzählen sollen, was los ist.“</DefaultText>
+      <DefaultText>„Tut mir leid. Ich hätte dir erklären sollen, was Sache ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>„Upps.“</DefaultText>
+      <DefaultText>„Ups.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>„Ich könnte dich jederzeit bei Neketaka absetzen.“</DefaultText>
+      <DefaultText>„Ich kann dich jederzeit in Neketaka zurücklassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,7 +151,7 @@ Sie hebt leicht das Kinn, während sie durch ihre Brillengläser späht.</Defaul
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>„Da wir gerade davon sprechen, lass uns damit weitermachen, ja?“
+      <DefaultText>„Da wir gerade davon sprechen, lass uns damit weitermachen, já?“
 
 Sie verbeugt sich zum Abschied leicht aus der Hüfte heraus.</DefaultText>
       <FemaleText />
@@ -164,7 +168,7 @@ Sie verbeugt sich zum Abschied leicht aus der Hüfte heraus.</DefaultText>
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>„Wie bist du in den Vailianischen Republiken gelandet?</DefaultText>
+      <DefaultText>„Wie bist du in den Vailianischen Republiken gelandet?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,7 +262,7 @@ Sie kichert über verschränkten Fingern.</DefaultText>
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>„Das Tauchboot ist wahrhaftig ein Wunder. Vielleicht können wir es aus Rauatai befreien.“</DefaultText>
+      <DefaultText>„Das Tauchboot ist wahrhaftig ein Wunder. Vielleicht können wir es von Rauatai entwenden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -358,7 +362,9 @@ Ydwin grinst ihn an.</DefaultText>
       <DefaultText>„Natürlich, Kapitän.“
 
 Sie verbeugt sich leicht aus der Hüfte heraus.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Natürlich, Kapitänin.“
+
+Sie verbeugt sich leicht aus der Hüfte heraus.</FemaleText>
     </Entry>
     <Entry>
       <ID>90</ID>
@@ -384,7 +390,7 @@ Sie sieht dich stirnrunzelnd an.</DefaultText>
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>„Genau so ist es. Auch wenn ich denke, dass du jemanden finden können solltest, der besser geeignet ist, dir davon zu erzählen.“</DefaultText>
+      <DefaultText>„Natürlich, sogar sehr. Auch wenn ich denke, dass du jemanden finden können solltest, der besser geeignet ist, dir davon zu erzählen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -468,7 +474,7 @@ Ihre Nase kräuselt sich leicht.</DefaultText>
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>„Da wir gerade davon sprechen, lass uns sehen, was hinter dem Horizont liegt, ja?“</DefaultText>
+      <DefaultText>„Da wir gerade davon sprechen, lass uns sehen, was hinter dem Horizont liegt, já?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -527,7 +533,7 @@ Sie kichert leise vor sich hin.</DefaultText>
       <ID>130</ID>
       <DefaultText>„Das kommt darauf an, wen du fragst.“
 
-Sie schüttelt ihren Kopf.</DefaultText>
+Sie schüttelt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -569,7 +575,7 @@ Sie schüttelt den Kopf und zuckt mit den Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>„Was auch immer es ist, wie auch immer er es geschafft hat… Vielleicht können wir beide es zusammen herausfinden.“</DefaultText>
+      <DefaultText>„Was auch immer er ist, wie auch immer er es geschafft hat … Vielleicht können wir beide es zusammen herausfinden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -594,7 +600,7 @@ Sie schüttelt den Kopf und zuckt mit den Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>„Warum ist das so?“</DefaultText>
+      <DefaultText>„Warum das denn?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -604,7 +610,7 @@ Sie schüttelt den Kopf und zuckt mit den Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>„Einige meiner… Kollegen… hatten ein persönliches Interesse an einem Modell der Welt, in der es eine inhärente Hierarchie der Gestandenen gibt.“</DefaultText>
+      <DefaultText>„Einige meiner … Kollegen … hatten ein persönliches Interesse an einem Modell der Welt, in der es eine inhärente Hierarchie der Gestandenen gibt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -634,12 +640,12 @@ Sie schüttelt den Kopf und zuckt mit den Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>„Vielleicht später. Wir haben Arbeit zu erledigen, ja?“</DefaultText>
+      <DefaultText>„Vielleicht später. Wir haben Arbeit zu erledigen, já?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>„Psychologische Trägheit? Wie wenn Menschen immer wieder und wieder dasselbe denken?“</DefaultText>
+      <DefaultText>„Psychologische Trägheit? Wie wenn Gestandene immer wieder und wieder dasselbe denken?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -652,7 +658,7 @@ Ihr Grinsen lässt sie beinahe auftauen.
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>„Nah dran.“ Sie nickt wertschätzend.</DefaultText>
+      <DefaultText>„Nah dran.“ Sie nickt abwägend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -732,7 +738,7 @@ Ydwin verschränkt die Arme und tippt sich auf die Ellenbogen.</DefaultText>
     <Entry>
       <ID>169</ID>
       <DefaultText>„Manchmal kannst du ein schönes Stück Scheiße sein, Kapitän Wächter.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Manchmal kannst du ein schönes Stück Scheiße sein, Kapitänin Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>170</ID>
@@ -744,7 +750,9 @@ Ydwin verschränkt die Arme und tippt sich auf die Ellenbogen.</DefaultText>
       <DefaultText>„Es war wie immer eine angenehme Ablenkung, Kapitän. Sollen wir uns wieder an die Arbeit machen?“
 
 Ydwin wendet sich ab, ohne auf deine Antwort zu warten.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Es war wie immer eine angenehme Ablenkung, Kapitänin. Sollen wir uns wieder an die Arbeit machen?“
+
+Ydwin wendet sich ab, ohne auf deine Antwort zu warten.</FemaleText>
     </Entry>
     <Entry>
       <ID>172</ID>
@@ -763,7 +771,7 @@ Ydwin wendet sich ab, ohne auf deine Antwort zu warten.</DefaultText>
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>„Da hast du nicht unrecht…“</DefaultText>
+      <DefaultText>„Da hast du nicht unrecht …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -785,17 +793,17 @@ Ydwin wendet sich ab, ohne auf deine Antwort zu warten.</DefaultText>
       <ID>179</ID>
       <DefaultText>„Zeig mir jemanden, der es nicht schwer hatte.“
 
-Sie zuckt die Schultern.</DefaultText>
+Sie zuckt mit den Achseln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>„Ich werde höflich zu ihm sein. Vorausgesetzt, er provoziert mich nicht.“</DefaultText>
+      <DefaultText>„Ich werde höflich zu ihm sein. Solange er mich nicht provoziert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>Sie grinst.</DefaultText>
+      <DefaultText>Sie schmunzelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -825,7 +833,7 @@ Sie zuckt die Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>„Und doch sind wir noch hier. Bemerkenswert, ja?“</DefaultText>
+      <DefaultText>„Und doch sind wir noch hier. Bemerkenswert, já?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -833,12 +841,14 @@ Sie zuckt die Schultern.</DefaultText>
       <DefaultText>„Vielleicht solltest du dir jemanden anderen zum Zeitvertreib suchen, Kapitän.“
 
 Sie verneigt sich knapp an der Hüfte und wendet sich von dir ab.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Vielleicht solltest du dir jemanden anderen zum Zeitvertreib suchen, Kapitänin.“
+
+Sie verneigt sich knapp an der Hüfte und wendet sich von dir ab.</FemaleText>
     </Entry>
     <Entry>
       <ID>189</ID>
       <DefaultText>„Ich hoffe, du verstehst, was du dir eingebrockt hat, als du dich angeboten hast, als sein Agent zu arbeiten.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich hoffe, du verstehst, was du dir eingebrockt hat, als du dich angeboten hast, als seine Agentin zu arbeiten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>190</ID>
@@ -970,7 +980,7 @@ Sie verschränkt ihre Arme und mustert dich über ihren Brillenrand hinweg.</Def
     <Entry>
       <ID>216</ID>
       <DefaultText>„Leb wohl, Kapitän.“ Sie verbeugt sich knapp, dreht sie sich auf der Stelle um und geht.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Leb wohl, Kapitänin.“ Sie verbeugt sich knapp, dreht sie sich auf der Stelle um und geht.</FemaleText>
     </Entry>
     <Entry>
       <ID>217</ID>
@@ -979,7 +989,7 @@ Sie verschränkt ihre Arme und mustert dich über ihren Brillenrand hinweg.</Def
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>„Meinen Zustand?“ Sie blickt finster.</DefaultText>
+      <DefaultText>„Meinen Zustand?“ Sie runzelt grimmig die Stirn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
