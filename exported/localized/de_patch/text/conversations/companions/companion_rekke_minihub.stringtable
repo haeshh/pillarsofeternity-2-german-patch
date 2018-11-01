@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_rekke_minihub</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>188</EntryCount>
+  <EntryCount>187</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -957,11 +957,6 @@ Dann atmet er tief durch, schürzt seine Lippen und sein Blick trifft deinen, di
     <Entry>
       <ID>229</ID>
       <DefaultText>Als du dich abwendest, spürst du ein leichtes Ziehen an deinem Ärmel. Du drehst dich um und siehst, dass Rekke dich mit erhobener Augenbraue und einem beginnenden Grinsen auf den Lippen ansieht.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>230</ID>
-      <DefaultText>[Alle nicken.]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

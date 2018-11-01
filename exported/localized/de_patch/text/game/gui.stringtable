@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4567</EntryCount>
+  <EntryCount>4559</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -23210,61 +23210,6 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>5182</ID>
-      <DefaultText>Pet Sacrifice</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5183</ID>
-      <DefaultText>Pet Creation</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5184</ID>
-      <DefaultText>Pets Available for Sacrifice</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5185</ID>
-      <DefaultText>Pets Available for Creation</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5186</ID>
-      <DefaultText>Drag in Pet to Sacrifice</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5187</ID>
-      <DefaultText>Erscheinungsbild muss noch hinzugefügt werden</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5188</ID>
-      <DefaultText>Bonuses to be Added</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5189</ID>
-      <DefaultText>Drag in a Pet Sleeve</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5190</ID>
-      <DefaultText>Drag in Pet for Bonuses</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5191</ID>
-      <DefaultText>Sacrifice Pet</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5192</ID>
-      <DefaultText>Create Pet</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>5193</ID>
       <DefaultText>Vela folgt dem Wächter und muss am Leben erhalten werden, sonst ist das Spiel vorbei.</DefaultText>
       <FemaleText />
@@ -23307,6 +23252,21 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     <Entry>
       <ID>5214</ID>
       <DefaultText>Mythisch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5220</ID>
+      <DefaultText>Kann keine Nicht-Zauberfähigkeiten verwenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5224</ID>
+      <DefaultText>Woedicas Herausforderung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5225</ID>
+      <DefaultText>Zubereitete Mahlzeiten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
