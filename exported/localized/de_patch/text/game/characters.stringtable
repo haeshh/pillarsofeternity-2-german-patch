@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1512</EntryCount>
+  <EntryCount>1519</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -7563,6 +7563,41 @@
     <Entry>
       <ID>1762</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1778</ID>
+      <DefaultText>KTG Schiff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1779</ID>
+      <DefaultText>[TEMP] Generic KTG Low Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1782</ID>
+      <DefaultText>[TEMP] Generic KTG Mid Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1783</ID>
+      <DefaultText>[TEMP] Generic KTG High Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1784</ID>
+      <DefaultText>[TEMP] Generic Principi Low Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1785</ID>
+      <DefaultText>[TEMP] Generic Principi Mid Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1786</ID>
+      <DefaultText>[TEMP] Generic Principi High Rank Captain</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

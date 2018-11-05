@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3360</EntryCount>
+  <EntryCount>3361</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -17191,6 +17191,11 @@ Keiner.</DefaultText>
     <Entry>
       <ID>5115</ID>
       <DefaultText>Ondras Gunst</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5134</ID>
+      <DefaultText>Selbstzerstörung</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
