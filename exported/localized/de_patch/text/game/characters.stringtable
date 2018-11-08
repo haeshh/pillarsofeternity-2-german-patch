@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1519</EntryCount>
+  <EntryCount>1527</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -7598,6 +7598,46 @@
     <Entry>
       <ID>1786</ID>
       <DefaultText>[TEMP] Generic Principi High Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1787</ID>
+      <DefaultText>[TEMP] Generic Huana Low Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1788</ID>
+      <DefaultText>[TEMP] Generic Huana Mid Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1789</ID>
+      <DefaultText>[TEMP] Generic Huana High Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1790</ID>
+      <DefaultText>[TEMP] Generic VHG Low Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1791</ID>
+      <DefaultText>[TEMP] Generic VHG Mid Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1792</ID>
+      <DefaultText>[TEMP] Generic VHG High Rank Captain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1794</ID>
+      <DefaultText>[TEMP] Huana Schiff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1795</ID>
+      <DefaultText>[TEMP] Principi Schiff</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
