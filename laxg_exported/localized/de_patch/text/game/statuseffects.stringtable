@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>Instabil</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>{0:value} Durchschlagskraft, wenn du ein Ziel angreifst, das nicht von einem Verbündeten angegriffen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText>{0:value:percent} des verursachten Schadens werden als Heilung zurückerhalten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>{0:value:percent} Chance, Treffer gegen verzauberte Ziele in kritische Treffer zu verwandeln</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>Wenn der Level {0:value:straight} oder mehr beträgt, wird gleichzeitig auch eine zufällige {0:extravalue:straight} Körperinspiration verhängt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText>{0:value:percent} des bei betroffenen Zielen ausgelösten Waffenschadens wird als Heilung zurückgegeben </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>Wirkungen erfüllter Zaubersprüche gewinnen {0:value} Genauigkeit (erhöht sich mit Arkana)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>{0:value} Genauigkeit, wenn nicht ein Angriff der folgenden Kategorie: Erfüllen / Elemente / Feuer / Frost / Säure / Elektrizität / Zauberspruch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>{0:value} Wunden, wenn die feindliche Wirkung endet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>{0:value} Gesundheit, wenn die feindliche Wirkung endet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>Beschwörungen löschen alle Sätze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>Beschwörungen gewähren {0:extravalue:duration} lang eine Kraftstufe auf der Grundlage der verwendeten Sätze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>Kann nicht ermächtigen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>Variabler eigener reiner Schaden, um eine im Verhältnis dem Schaden entsprechende Stufe der Zauberspruch-Ressource wiederherzustellen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>{0:value:percent} Verwandeln eines Treffers in einen leichten Treffer, solange du keinen Wirkungen unterliegst</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>{0:value} Genauigkeit, wenn du ein Ziel angreifst, das nicht von einem Verbündeten angegriffen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

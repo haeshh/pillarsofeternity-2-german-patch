@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>95</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4802</ID>
+      <DefaultText>Trommelfeuer aus Hel-Feuer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4803</ID>
+      <DefaultText>Magnetisches Übersteuern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4804</ID>
+      <DefaultText>Eisen aus Hel-Feuer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4821</ID>
+      <DefaultText>Hel-Sturm aufladen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4822</ID>
+      <DefaultText>Brutales Aufschlitzen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4840</ID>
+      <DefaultText>Standhalten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4841</ID>
+      <DefaultText>Siegelangriff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4842</ID>
+      <DefaultText>Gemeinschaftlicher Angriff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4843</ID>
+      <DefaultText>Endloser Angriff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4844</ID>
+      <DefaultText>Kugel der Unverwundbarkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4845</ID>
+      <DefaultText>Letzter Trick</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4855</ID>
+      <DefaultText>Kern aufladen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4856</ID>
+      <DefaultText>Der Träger lädt den Kern auf. Dadurch wird der Kern instabil, doch der Träger gewinnt einen Bonus für seine Kraftstufe. Kurz nach der Aktivierung des Kerns explodiert der Benutzer und fügt allen Feinden in der Nähe Feuerschaden zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4859</ID>
+      <DefaultText>Arkane Katastrophe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4860</ID>
+      <DefaultText>Rasch blättert der Zauberer durch die Seiten des Zauberbuchs und verhängt über das Ziel eine Reihe zufälliger Zaubersprüche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4894</ID>
+      <DefaultText>Helsturm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4941</ID>
+      <DefaultText>Taktiker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4942</ID>
+      <DefaultText>Diejenigen, denen es auch in der Hitze des Gefechts gelingt, einen kühlen Kopf zu bewahren, sind als „Taktiker“ bekannt. Diese Krieger betrachten alle Formen des Kampfs lediglich als Schachfiguren, die sich bewegen. Taktiker übernehmen innerhalb eines strukturierten Militärs oft Führungspositionen. Sie setzen ihre eigene Klugheit als Waffe ein und schärfen konstant ihre Erfahrung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4943</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Erfolgreiche Unterbrechung feindlicher Handlungen stellen Disziplin wieder her.
+
+Gewährt &lt;link="gamedata://b1bf5832-b633-49fa-8ea2-b74ea720af0a"&gt;Brillanter Taktiker&lt;/link&gt;.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Verringerte Durchschlagskraft und Genauigkeit gegen ein Ziel, das nicht von einem Verbündeten angegriffen wird.
+
+Gewährt &lt;link="gamedata://b6cd697b-176e-4fc3-b538-ae80a78d1ef3"&gt;Taktisches Dilemma&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4944</ID>
+      <DefaultText>Taktisches Dilemma</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4945</ID>
+      <DefaultText>Fügt, solange sie flankiert werden, Erschüttert und Verwirrt zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4946</ID>
+      <DefaultText>Brillanter Taktiker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4947</ID>
+      <DefaultText>Gewährt die Inspiration Brillant, solange alle Feinde, jedoch keine Verbündeten flankiert sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4949</ID>
+      <DefaultText>Zornformer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4950</ID>
+      <DefaultText>Zornformer tragen eine Bürde von Traumata aus ihren vergangenen Leben mit sich herum. Sie leiden, wenn diese vergangenen Gefühle auf unerklärliche Weise ihre aktuelle Seele erfassen. Diese seltenen Individuen können ihren Gefühlen eine greifbare, physische Form verleihen und dadurch ihren Zorn, ihren Schrecken oder ihren Wahnsinn der Welt auferlegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4951</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Gewährt &lt;link="gamedata://17093a31-44c6-45e4-ac71-78463307d496"&gt;Schutz formen: Raserei&lt;/link&gt; auf Kraftstufe 1.
+
+Gewährt &lt;link="gamedata://f45a289b-c363-4281-aa56-e4a2d81d0ccd"&gt;Schutz formen: Angst&lt;/link&gt; auf Kraftstufe 4.
+
+Gewährt &lt;link="gamedata://bfa3f85c-ea51-466c-912b-56d43304bc63"&gt;Schutz formen: Blut&lt;/link&gt; auf Kraftstufe 8.
+
+Gewährt einen Genauigkeits-Bonus gegen Geister.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Wenn ein Schutz zerstört wird, fügt dies sofortigen Reinen Schaden und einen Abzug der Kraftstufe zu, bis der Kampf endet.
+
+Der Wille ist verringert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4952</ID>
+      <DefaultText>Schutz formen: Raserei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4953</ID>
+      <DefaultText>Forme auf dem Schlachtfeld einen Schutz, der bei deinen Verbündeten Zorn auslöst und ihnen Aktionsgeschwindigkeit verschafft, solange dieses Totem besteht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4954</ID>
+      <DefaultText>Raserei-Schutz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4955</ID>
+      <DefaultText>Schutz zerstört</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4956</ID>
+      <DefaultText>Macht des Totems</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4957</ID>
+      <DefaultText>Schutz formen: Blut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4958</ID>
+      <DefaultText>Forme auf dem Schlachtfeld einen Schutz, der einen Blutrausch auslöst und den Verbündeten Gesundheit entsprechend dem Schaden gewährt, den sie anrichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4959</ID>
+      <DefaultText>Blut-Schutz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4960</ID>
+      <DefaultText>Furcht-Schutz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4961</ID>
+      <DefaultText>Forme auf dem Schlachtfeld einen Schutz, der Horrorbilder hervorruft und die Feinde in der Nähe in Angst und Schrecken versetzt, solange das Totem besteht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4962</ID>
+      <DefaultText>Schutz formen: Furcht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4963</ID>
+      <DefaultText>Debonaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4964</ID>
+      <DefaultText>Diese Schurken sind so charmant wie sie hinterlistig sind. Sie setzen Klugheit und Diplomatie ein, um ihre Ziele zu erreichen. Sie handeln oft ausschließlich im eigenen Interesse. Man weiß von ihnen, dass sie im Auftrag Diebstähle in der hohen Gesellschaft ausführen, Skandale enthüllen und sogar den einen oder anderen Meuchelmord begehen - ohne sich dabei die Finger schmutzig zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4965</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Beschaffe dir die Fähigkeit, Treffer gegen verzauberte Ziele mit hoher Wahrscheinlichkeit in kritische Treffer zu verwandeln.
+
+Beschaffe dir die Fähigkeit des &lt;link="gamedata://b75184f8-63d7-44e3-901d-9c9205ad538c"&gt;Schurkischen Charmes&lt;/link&gt;.
+
+Gewinne das Verwandeln eines Treffers in einen leichten Treffer, solange du keinen Wirkungen unterliegst
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Können nicht angegriffen werden
+
+Gain &lt;link="gamedata://26890e79-a660-4593-ae57-08607d5cf296"&gt;Cowardice&lt;/link&gt; ability.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4966</ID>
+      <DefaultText>Feigheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4967</ID>
+      <DefaultText>Wenn keine Verbündeten in der Nähe sind, trägt dir das einen Abzug bei Genauigkeit und Verteidigungen ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4968</ID>
+      <DefaultText>Schurkischer Charme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4969</ID>
+      <DefaultText>Überzeuge einen bestimmten Gestandenen davon, zu deiner Seite überzuwechseln und seine Verbündeten anzugreifen. Wenn es sich um einen Schurken einer höheren Stufe handelt, gewinnt das Ziel bei einer Verzauberung Körperinspirationen. Je höher die Stufe, desto mächtiger die Inspirationen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4970</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Heilung im Umfang eines Bruchteils des den betroffenen Zielen zugefügten Schadens.
+
+Gewährt die Fähigkeit &lt;link="gamedata://ec3c9d53-7a1b-404d-a037-ff133f1e17a0"&gt;Garrote&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4971</ID>
+      <DefaultText>Die Stahl-Garrotte ist ein gefürchteter Paladin-Orden, der sich ganz Woedica verschrieben hat. Der Orden arbeitet mit mächtigen Einzelpersonen und geschäftlichen Interessen, um diejenigen aufzuspüren, die gegen Verträge verstoßen. Dies gilt besonders dann, wenn diese Verträge von einer Priesterin der vertriebenen Königin bestätigt wurden. Gegründet wurde der Orden im aedyrischen Imperium. Er ist in der gesamten Region aktiv, und seine Aktivitäten erstrecken sich sogar bis in den Dyrwald und die Vailianischen Republiken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4972</ID>
+      <DefaultText>Arkane Bogenschützen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4973</ID>
+      <DefaultText>Ein paar ganz Wenige erleben es, mit sowohl physischen Fähigkeiten als auch den eher geistigen arkanen Talenten gesegnet zu sein. Arkane Bogenschützen gehören zu diesen Wenigen. Sie setzen ihre angeborene Begabung für Magie ein, indem sie ihre Projektile mit Zaubersprüchen belegen, die eine vorübergehende Wirkung zeigen. Diese begabten Personen, die man am häufigsten unter reisenden Künstlern oder bei Bogenschieß-Wettkämpfen findet, werden für ihre Fähigkeiten sowohl bewundert als auch beschimpft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4974</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Die Wirkungen erfüllter Zaubersprüche gewinnen aus Arkana-Fähigkeiten erhöhte Genauigkeit.
+
+Beschaffe dir &lt;link="gamedata://710a9a69-d47b-45e7-9134-432d13e2bcc0"&gt;Erfüllen: Geschosse&lt;/link&gt; auf Kraftstufe 1.
+
+Beschaffe dir &lt;link="gamedata://87004a21-bb5d-48b6-b75a-6ca2fc5d5f2e"&gt;Erfüllen: Netz&lt;/link&gt; auf Kraftstufe 3.
+
+Beschaffe dir &lt;link="gamedata://3b4b619b-8d35-4ee2-b19c-d8155faf9f07"&gt;Erfüllen: Feuerball&lt;/link&gt; auf Kraftstufe 5.
+
+Beschaffe dir &lt;link="gamedata://76d00207-79d6-425b-81ba-401a7c0ef494"&gt;Erfüllen: Eora&lt;/link&gt; auf Kraftstufe 7.
+
+Beschaffe dir &lt;link="gamedata://e8b4e221-e29b-4758-91c7-6d8f121d7c8b"&gt;Erfüllen: Tod&lt;/link&gt; auf Kraftstufe 9.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Trägt dir bei Angriffen, die nicht den nachfolgenden Arten angehören, einen Abzug an Genauigkeit ein: Erfüllen, Elemente, Feuer, Frost, Säure, Elektrizität und Zauberspruch.
+
+Die maximale Gesundheit wird verringert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4975</ID>
+      <DefaultText>(Erfüllen: Geschosse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4976</ID>
+      <DefaultText>Speichere für kurze Zeit einen Zauberspruch in der &lt;xg&gt;Munition&lt;/xg&gt; deiner Fernkampfwaffe und führe dann einen primären Angriff durch, bei dem die Magie mit dem Auftreffen freigesetzt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4977</ID>
+      <DefaultText>(Erfüllen: Geschosse) - speichert den Zauberspruch &lt;link="gamedata://d8c72c57-398e-4d66-818e-11124fe01494"&gt;Minolettas kleine Fluggeschosse&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4978</ID>
+      <DefaultText>(Erfüllen: Netz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4979</ID>
+      <DefaultText>(Erfüllen: Netz) - speichert den Zauberspruch &lt;link="gamedata://a4b94f17-90fd-4a56-9aa5-d1beb2937821"&gt;Bindendes Netz&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4980</ID>
+      <DefaultText>(Erfüllen: Feuerball</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4981</ID>
+      <DefaultText>(Erfüllen: Feuerball) - speichert den Zauberspruch &lt;link="gamedata://04ece2da-d1a8-4627-a48d-2fa6b2549583"&gt;Feuerball&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4982</ID>
+      <DefaultText>(Erfüllen: Eora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4983</ID>
+      <DefaultText>(Erfüllen: Eora) - speichert den Zauberspruch &lt;link="gamedata://0ae68702-a844-45bd-a7e5-0726a1a05194"&gt;Eoras Anziehung&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4984</ID>
+      <DefaultText>(Erfüllen: Tod</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4985</ID>
+      <DefaultText>(Erfüllen: &lt;xg&gt;Tod&lt;/xg&gt;) - speichert den Zauberspruch &lt;link="gamedata://dbb1f8c8-0977-4dd0-aadd-c29f75120670"&gt;Todesring&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4986</ID>
+      <DefaultText>Verbotene Faust</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4987</ID>
+      <DefaultText>Diese Mönche, Anhänger kryptischer Lehren aus einer dunklen Vergangenheit, sind unter den wenigen, die mit dem Wissen verbotener Techniken gesegnet - oder verflucht - sind. Die kriegerische Macht der verbotenen Techniken korrumpiert, so heißt es, den Träger bis tief in seine Seele hinein.  Diese Mönche sind davon überzeugt, dass große und schreckliche Ereignisse den Einsatz verbotener Techniken rechtfertigen. Sie reisen auf Eora umher und wägen jeweils zwischen der Reinheit ihrer Seele und der Notwendigkeit eines Konflikts ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4988</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Gewährt Wunden und Gesundheit, wenn feindlichen Wirkungen auslaufen.
+
+Gewährt die Fähigkeit &lt;link="gamedata://0f99851c-d970-4661-9d8b-a394e3951c3d"&gt;Verbotene Faust&lt;/link&gt;.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Verhindert, dass durch erlittenen Schaden Wunden entstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4989</ID>
+      <DefaultText>Setze eine verbotene Technik ein, die einen Teil der Seele in einer Explosion reiner Kraft schleudert. Diejenigen, die davon getroffen werden, sind anschließend Unterbrochen und Entkräftet. Der Schaden, den diese Wirkung auslöst, erhöht sich dann wesentlich, wenn die Seele des Mönches verflucht ist.
+
+Nach jedem Einsatz verbotener Techniken ist die Seele eines Mönches eine gewisse Zeit verflucht. Dies erhöht die Kosten der Wunden und des Schadens der Verbotenen Faust ebenso, wie es die Dauer bestehender Verfluchungen verlängert. Jeder Fluch, der sich auf die Seele des Mönches auswirkt, fügt kontinuierlich Schaden zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4990</ID>
+      <DefaultText>Verbotener Fluch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4993</ID>
+      <DefaultText>(Verbotene Faust) - stattdessen treten die Wunden auf, wenn die feindlichen Wirkungen beendet sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4994</ID>
+      <DefaultText>Brüller</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4995</ID>
+      <DefaultText>Brüller finden sich oft in Gemeinschaften, in denen harte Bedingungen herrschen, und zwar insbesondere dort, wo sich erst kürzlich ein Unglück ereignet hat. Die Geschichten, die die Brüller erzählen, ähneln eher einer Ansammlung von ausschweifenden Beschwerden und Geschwafel schlüssigen Berichten. Ihre Namen haben ihren Ursprung in seltenen, gewalttätigen und leidenschaftlichen Explosionen einer furchterregenden Magie. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4996</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Beschwörungen gewähren einen kurzen Bonus auf die Kraftstufe (und profitieren davon). Wie hoch der Bonus ist, richtet sich nach der Anzahl der enthaltenen Phrasen.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Beschwörungen verbrauchen alle verbleibenden Phrasen.
+
+Der Radius von Gesängen ist verringert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4997</ID>
+      <DefaultText>Priester und Priesterinnen der vertriebenen Königin üben ihren Glauben als Anwälte und Richter in Städten und auf dem Land aus. Die Bekanntesten unter ihnen haben als Berater des Königshofes gedient. Besondere Bedeutung besitzen sie im Imperium von Aedyr, wo alle geschäftlichen Verträge ihrer Bestätigung bedürfen. Die Anhänger von Woedica finden sich üblicherweise in den höheren Klassen. Aber in ihrem Glauben ist Raum für jeden, der Traditionen hochhält und sich nach längst vergangenen Zeiten sehnt. „Wenn Woedica sich ihren Thron zurückholt“ - dieser Spruch ist unter ihren Anhängern oft zu hören. Er spielt auf eine utopische Zukunft an, in der die Gesellschaft erneut von Ordnung beherrscht wird und Woedica ihren rechtmäßigen Platz als Herrscherin über die Götter wieder einnimmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4998</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Lerne die folgenden Priesterzauber automatisch auf neuen Kraftstufen:
+1. &lt;link="gamedata://6886f71a-3f91-4598-9ded-e6a27f76aac1"&gt;Verbot der Angriffsbindung&lt;/link&gt;
+2. Spirituelle Waffe
+3. &lt;link="gamedata://bc919a2c-54e1-41fc-9a6c-5f69a7827211"&gt;Verbot des Verbrauchs&lt;/link&gt;
+4. Göttlicher Schrecken
+5. &lt;link="gamedata://e2874808-4832-4210-8509-de912b940b0e"&gt;Kriegsverbot&lt;/link&gt;
+6. Säule des Heiligen Feuers
+7. &lt;link="gamedata://4bfb191a-2f1c-400d-98ff-67ca2b606a02"&gt;Verbot der Zauberei&lt;/link&gt;
+8. Hand von Wohl und Weh
+9. &lt;link="gamedata://8d941565-acc3-4cd1-9c63-7904e4fac905"&gt;Writ of Mending&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5000</ID>
+      <DefaultText>Lenkt die göttliche Befehlsauthorität, auf dass allen in einem bestimmten Bereich Kampfaktivitäten verboten sind. Dadurch werden die Ziele in Taumeln versetzt und sind außerstande, in irgendeiner Weise zu kämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5001</ID>
+      <DefaultText>Lenkt die göttliche Befehlsauthorität, auf dass allen in einem bestimmten Bereich der Verbrauch verboten ist. Dadurch werden die Ziele krank und sind außerstande, Tränke oder Schriftrollen einzusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5002</ID>
+      <DefaultText>Lenkt die göttliche Befehlsauthorität, auf dass allen in einem bestimmten Bereich der Krieg verboten ist. Dadurch werden die Ziele erschüttert und sind außerstande, in irgendeiner Weise nicht auf Zaubersprüche bezogene Aktivitäten auszuüben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5003</ID>
+      <DefaultText>Lenkt die göttliche Befehlsauthorität, auf dass allen in einem bestimmten Bereich die Zauberei verboten ist. Dadurch werden die Ziele verwirrt und sind außerstande, in irgendeiner Weise Zaubersprüche zu verhängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5004</ID>
+      <DefaultText>Lenkt die göttliche Befehlsauthorität, auf dass allen in einem bestimmten Bereich die Heilung verboten ist. Dadurch werden die Ziele entkräftet und sind in der Möglichkeit eingeschränkt, in irgendeiner Weise Heilung zu empfangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5005</ID>
+      <DefaultText>Psion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5006</ID>
+      <DefaultText>Psione sind ziemlich selten. Sie finden ihren Ursprung oft in freigebigen jungen Köpfen, die langsam nach und nach die Geheimnisse erschließen, die selbst von den weisesten Gelehrten als unverständlich erachtet werden. Ihre Kräfte verlangen nach intensiven Meditationen, können jedoch auch die Macht verleihen, das Bewusstsein zu manipulieren oder Gegenstände mit unglaublicher Wucht zu bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5007</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Gewährt die passive Fähigkeit &lt;link="gamedata://cadd44b6-1499-4b09-8c42-dd483bb48b6f"&gt;Seelenverstand&lt;/link&gt;.
+
+Gewährt die Fähigkeit &lt;link="gamedata://4c07ccd0-1907-4490-9165-98b83196097f"&gt;Telekinetische Explosion&lt;/link&gt;.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Verliert Zugang zur Fähigkeit &lt;link="gamedata://f057dd2e-953f-442a-abad-fc34bfa39b26"&gt;Seelenpeitsche&lt;/link&gt;.
+
+Erlittener Schaden deaktiviert kurzzeitig Seelenverstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5008</ID>
+      <DefaultText>Seelenverstand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5009</ID>
+      <DefaultText>Wenn der Verstand des Mediums frei ist, sich zu konzentrieren, schärft er sich und wird dadurch in die Lage versetzt, auf verborgene Mächte zuzugreifen und auf passive Weise Fokus zu erschaffen. Diese Wirkung wird jedoch kurzzeitig deaktiviert, wenn das Medium Schaden erleidet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5010</ID>
+      <DefaultText>Telekinetische Explosion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5011</ID>
+      <DefaultText>Löst eine psionische Energie-Explosion aus dem Verstand des Ziels heraus aus. Die Explosion unterbricht das Ziel und wirft all diejenigen zurück, die sich in seiner Nähe befinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5012</ID>
+      <DefaultText>Blutmagier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5013</ID>
+      <DefaultText>In der festen Überzeugung, dass Blut ein Träger der Macht der Seele ist, begeben Blutmagier sich auf einen schmerzhaften Pfad zur arkanen Meisterschaft, der in Selbstzerstörung endet. Auch wenn angesehene Beseeler den Glauben der Blutmagier in Verruf gebracht haben, können dennoch die wenigen, die jemals Zeugen von Blutmagie waren, es nicht leugnen: Die willkürliche Selbstschädigung kann tatsächlich unglaubliche - und oft schreckliche - magische Ereignisse auslösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5014</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Beschaffe dir die Fähigkeit des &lt;link="gamedata://9d3e2b8d-1fdd-496f-acc1-51d6d3836e59"&gt;Blutopfers&lt;/link&gt;.
+
+Beschaffe dir passive Wiederherstellung der Gesundheit
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Ermächtigung kann nicht eingesetzt werden.
+
+Alle Verteidigungen gegen schwer verletzte Angreifer sind verringert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5015</ID>
+      <DefaultText>Blutopfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5016</ID>
+      <DefaultText>Nutze deine eigene Lebenskraft, um deine Magie zu fördern, wenn alles andere versagt. Empfange eine variable Menge an reinem Schaden, um eine Stufe der Zaubersprüche wiederherzustellen, die dem Verhältnis des empfangenen Schadens entspricht oder darunter liegt.
+
+Nach der Verwendung gewinnen die Zaubersprüche eine kurze Zeit lang einen Bonus für die Kraftstufe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5017</ID>
+      <DefaultText>Altehrwürdig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5018</ID>
+      <DefaultText>Nicht alle Altehrwürdigen sind in ihrer Form ehrenhaft. Aber viele weilen schon seit Hunderten von Jahren auf Eora. Von ihrer Natur her primitiv, neigen diese Fanatiker Galawains dazu, sich in Wäldern und extremen Umgebungen aufzuhalten. Sie verweigern Reisenden den Zugang und üben sich in ungezähmter Magie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5019</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Verschaffe dir mithilfe von Tier- und Pflanzenzaubersprüchen eine Bonus-Kraftstufe
+
+Lerne die folgenden Druidenzauber automatisch auf neuen Kraftstufen:
+1. &lt;link="gamedata://48d74cf1-89b9-4e26-8c6a-bc7e5f522890"&gt;Sporlinge herbeirufen&lt;/link&gt;
+2. &lt;link="gamedata://c1592be9-f39e-4e5d-9609-435c6bcc59db"&gt;Bestien anhalten&lt;/link&gt;
+3. &lt;link="gamedata://f0e6cfe6-e68b-4ce2-9142-be79d4f776bd"&gt;Wildes Wachstum&lt;/link&gt;
+4. &lt;link="gamedata://794774fa-234a-4358-8746-195eefdbd76b"&gt;Form der Delemgan&lt;/link&gt;
+5. &lt;link="gamedata://9fa747f0-d845-4198-aee9-a84a42e9d4c5"&gt;Wand aus Dornen&lt;/link&gt;
+6. &lt;link="gamedata://13c453a0-d369-4f4c-8ccc-f2214d94a5b1"&gt;Giftblühen&lt;/link&gt;
+7. &lt;link="gamedata://71c248be-5f7a-4e6c-a69d-fe6bc7e08fd6"&gt;Anruf der Primitiven&lt;/link&gt;
+8. &lt;link="gamedata://a944cbbd-408d-4c1b-9123-9f87536fd537"&gt;Feuerhirsch&lt;/link&gt;
+9. &lt;link="gamedata://050aeb12-6903-466d-a296-8e107a8cbc76"&gt;Aspekt von Galawain&lt;/link&gt;
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Verringerte Verteidigung gegen Schleier durchbohrende Angriffe
+
+Von Schiffen wird erhöhter Schaden empfangen
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5021</ID>
+      <DefaultText>Ruft zwei Sporlinge auf das Schlachtfeld, die für den Druiden kämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5022</ID>
+      <DefaultText>Sporlinge herbeirufen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5023</ID>
+      <DefaultText>Wildes Wachstum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5024</ID>
+      <DefaultText>Injiziert einer herbeigerufenen Bestie oder einem Primitiven natürliche Energie. Dadurch gewinnen Bestien oder Primitive die Inspiration Robust und gewinnen an Größe.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
