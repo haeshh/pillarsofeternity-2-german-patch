@@ -28,7 +28,7 @@ Eine mit Schmutz und abblätternder Kriegsbemalung bedeckte Frau streckt den Arm
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Ich bin eine Wahaki. Das Todesfeuer ist mein Heimatland, und eines Tages werde ich diese Sklavenhändler dafür umbringen, dass sie meine Heimat besudelt haben. Kapiert?“ Sie zerrt an einem der Gitterstäbe. Der Stab gibt zwar nicht nach, doch ein durchdringender, metallisches Ächzen ist zu hören.</DefaultText>
+      <DefaultText>„Ich bin eine Wahaki. Das Todesfeuer ist mein Heimatland, und eines Tages werde ich diese Sklavenhändler dafür umbringen, dass sie meine Heimat besudelt haben. Kapiert?“ Sie zerrt an einem der Gitterstäbe. Der Stab gibt zwar nicht nach, doch ein durchdringendes, metallisches Ächzen ist zu hören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -372,7 +372,9 @@ Verzweifelt suchen ihre Augen in deinem Gesicht.</DefaultText>
       <DefaultText>„Vergib mir, Fremder. Aber du musst uns helfen. Wenn du kannst, meine ich …“
 
 Ihre Hände klammern sich so fest an die Gitterstäbe, dass die Muskeln in ihren Armen hervortreten. Sie neigt den Kopf, und betrachtet dich eingehend mit einer Mischung aus Argwohn und Hoffnung.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Vergib mir, Fremde. Aber du musst uns helfen. Wenn du kannst, meine ich …“
+
+Ihre Hände klammern sich so fest an die Gitterstäbe, dass die Muskeln in ihren Armen hervortreten. Sie neigt den Kopf, und betrachtet dich eingehend mit einer Mischung aus Argwohn und Hoffnung.</FemaleText>
     </Entry>
     <Entry>
       <ID>75</ID>
