@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>553</EntryCount>
+  <EntryCount>554</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2767,6 +2767,11 @@
     <Entry>
       <ID>697</ID>
       <DefaultText>{0:value:percent} Chance, beim Besitzer &lt;link="gamedata://179fdaea-68b2-4323-bde7-4193bc8d9ba7"&gt;Rückzug&lt;/link&gt; oder &lt;link="gamedata://5432fc17-3a73-42cc-9a64-fa09949ec031"&gt;Rückruf der Agonie&lt;/link&gt; zu wirken, wenn während Dem Tode nahe angegriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

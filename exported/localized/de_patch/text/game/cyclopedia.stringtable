@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>892</EntryCount>
+  <EntryCount>897</EntryCount>
   <Entries>
     <Entry>
       <ID>43</ID>
@@ -4785,6 +4785,31 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     <Entry>
       <ID>1093</ID>
       <DefaultText>Der vailianischer Ausdruck für „nein.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1097</ID>
+      <DefaultText>Action Speed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1098</ID>
+      <DefaultText>Characters with higher Action Speed will complete all of their actions more quickly and will Recover faster afterwards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1100</ID>
+      <DefaultText>Nilkzenze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1101</ID>
+      <DefaultText>A pleasant Ixamitl greeting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1102</ID>
+      <DefaultText>Languages, Ixamitl</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

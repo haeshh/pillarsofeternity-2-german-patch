@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4559</EntryCount>
+  <EntryCount>4569</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -23260,6 +23260,16 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>5221</ID>
+      <DefaultText>Die Stürme im Todesfeuer sind zahlreich und gefährlicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5222</ID>
+      <DefaultText>Die Schiffe im Todesfeuer sind erfahrener und segeln bei einer Verfolgung schneller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>5224</ID>
       <DefaultText>Woedicas Herausforderung</DefaultText>
       <FemaleText />
@@ -23267,6 +23277,46 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     <Entry>
       <ID>5225</ID>
       <DefaultText>Zubereitete Mahlzeiten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5226</ID>
+      <DefaultText>Die Ressourcen pro Begegnung werden zu pro Rast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5227</ID>
+      <DefaultText>Die Gesundheit der Betroffenen erholt sich nicht länger zwischen den Kämpfen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5228</ID>
+      <DefaultText>Nur „Zubereitete Mahlzeiten“ stellen Verletzungen und Ressourcen wieder her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5238</ID>
+      <DefaultText>Waels Herausforderung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5242</ID>
+      <DefaultText>Sogut wie alle Zahlen und Werte sind nicht sichtbar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5283</ID>
+      <DefaultText>Hafen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5284</ID>
+      <DefaultText>The Forgotten Sanctum - Installiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5285</ID>
+      <DefaultText>The Forgotten Sanctum - Nicht installiert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3361</EntryCount>
+  <EntryCount>3362</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -11492,7 +11492,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3358</ID>
-      <DefaultText>Kriegsmacht</DefaultText>
+      <DefaultText>Verbot des Krieges</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17196,6 +17196,17 @@ Keiner.</DefaultText>
     <Entry>
       <ID>5134</ID>
       <DefaultText>Selbstzerstörung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5168</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Startet mit einem zusätzlichen Waffenset und Waffenschwerpunkt.
+
+Das Wechseln von Waffen ist eine Freie Aktion.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Konstante &lt;xg&gt;Erholung&lt;/xg&gt; ist weniger effektiv.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
