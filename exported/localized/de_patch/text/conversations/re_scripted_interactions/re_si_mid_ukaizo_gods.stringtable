@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\re_scripted_interactions\re_si_mid_ukaizo_gods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>99</EntryCount>
+  <EntryCount>94</EntryCount>
   <Entries>
     <Entry>
       <ID>47</ID>
@@ -413,23 +413,8 @@ Sie spricht offen und direkt. Ein Ausdruck, der Sanftheit ähnelt, umspielt ihre
 „Wähle deine Worte mit Bedacht.“</FemaleText>
     </Entry>
     <Entry>
-      <ID>328</ID>
-      <DefaultText>[Eine andere Antwort auswählen.]</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>329</ID>
-      <DefaultText>„Nun, Wächter, jetzt kennst du unseren Standpunkt. Was glaubst du?“</DefaultText>
-      <FemaleText>„Nun, Wächterin, jetzt kennst du unseren Standpunkt. Was glaubst du?“</FemaleText>
-    </Entry>
-    <Entry>
       <ID>330</ID>
       <DefaultText>[Sag nichts.]</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>331</ID>
-      <DefaultText>[Zu den anderen Antworten zurückkehren.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -552,16 +537,6 @@ Sie spricht offen und direkt. Ein Ausdruck, der Sanftheit ähnelt, umspielt ihre
 
 „Wenn Eothas weise wäre, würde er allem ein Ende setzen. Dem Leben, der Reinkarnation, dem &lt;i&gt;Tod&lt;/i&gt;.“</DefaultText>
       <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>357</ID>
-      <DefaultText>„Nun, Wächter, jetzt kennst du unseren Standpunkt. Was glaubst du?“</DefaultText>
-      <FemaleText>„Nun, Wächterin, jetzt kennst du unseren Standpunkt. Was glaubst du?“</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>358</ID>
-      <DefaultText>„Nun, Wächter, jetzt kennst du unseren Standpunkt. Was glaubst du?“</DefaultText>
-      <FemaleText>„Nun, Wächterin, jetzt kennst du unseren Standpunkt. Was glaubst du?“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
