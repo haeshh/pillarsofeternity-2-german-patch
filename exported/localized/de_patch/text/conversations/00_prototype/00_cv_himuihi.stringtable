@@ -292,7 +292,7 @@ Sie nimmt den Gürtel ab und gibt ihn dir. In ihren Augen spiegeln sich bitters�
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>„Als sie zuvor vor mir wegliefen, dachte sich, sie hätten nur vor meiner Waffe Angst.“ Sie lacht wieder und fällt dann in nachdenkliche Stille.</DefaultText>
+      <DefaultText>„Als sie zuvor vor mir wegliefen, dachte ich, sie hätten nur vor meiner Waffe Angst.“ Sie lacht wieder und fällt dann in nachdenkliche Stille.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -658,8 +658,9 @@ Grinsend hakt sie ihren Daumen in den Ledergürtel an ihrer Taille.</DefaultText
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>„Eine Kapitänin? Wenn du wirklich mit dem Wind im Rücken von der Insel losgesegelt wärst, wärst du jetzt nicht hier, sage ich.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Ein Kapitän? Wenn du wirklich mit dem Wind im Rücken von der Insel losgesegelt wärst, wärst du jetzt nicht hier, sage ich.“</DefaultText>
+      <FemaleText>„Eine Kapitänin? Wenn du wirklich mit dem Wind im Rücken von der Insel losgesegelt wärst, wärst du jetzt nicht hier, sage ich.“</FemaleText>
+
     </Entry>
     <Entry>
       <ID>238</ID>
