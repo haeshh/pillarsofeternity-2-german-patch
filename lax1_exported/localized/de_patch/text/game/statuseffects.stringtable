@@ -2,11 +2,11 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>41</EntryCount>
+  <EntryCount>42</EntryCount>
   <Entries>
     <Entry>
       <ID>277</ID>
-      <DefaultText>Erhöht jedes Mal, wenn ein Gruppenmitglied niedergestreckt wird, Macht und Entschlossenheit bis zum Ende des Kampfes um {0:triggervalue:straight}. Wirkung kann bis zu 4-mal gestapelt werden</DefaultText>
+      <DefaultText>Erhöht jedes Mal, wenn ein Gruppenmitglied niedergestreckt wird, Macht und Entschlossenheit bis zum Ende des Kampfes um {0:triggervalue:straight} ({0:value:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -207,6 +207,11 @@
     <Entry>
       <ID>671</ID>
       <DefaultText>Windlieds Waffenkunde-Modal gewährt eine {0:extravalue:percent}-Chance darauf, Gegner, die Dem Tode nahe sind, bei einem Treffer {0:value:duration} lang abzulenken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>{0:extravalue:percentbonus} Initiative je {0:skill}-Fertigkeit</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
