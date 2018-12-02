@@ -30,6 +30,7 @@ Here are a few easy to use clients:
 - Aurelio
 - Bonekit
 - Glurak
+- Haeshh
 - Karinon
 - Madscientist
 - Pseudohalogen
