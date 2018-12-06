@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>87</EntryCount>
+  <EntryCount>88</EntryCount>
   <Entries>
     <Entry>
       <ID>3974</ID>
@@ -387,6 +387,11 @@
     <Entry>
       <ID>4917</ID>
       <DefaultText>Gerechte Rache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4938</ID>
+      <DefaultText>Seelenschmettern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
