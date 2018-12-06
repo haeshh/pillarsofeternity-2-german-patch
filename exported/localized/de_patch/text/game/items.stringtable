@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2896</EntryCount>
+  <EntryCount>2897</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -17302,6 +17302,11 @@ Ein Dutzend solcher Umhänge wurden später verlassen zwischen den Bücherregale
     <Entry>
       <ID>5747</ID>
       <DefaultText>Ermächtige {0} Fähigkeiten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5938</ID>
+      <DefaultText>So laut und untersetzt wie sein Besitzer verbindet dieser Handmörser den kurzen breiten Lauf einer Donnerbüchse mit dem geringen Gewicht einer Pistole. Echte Handmörser feuern Granaten ab und sind auf Schiffen (und auch sonstwo) unbeliebt, da es unheimlich gefährlich ist, einen Sprengstoff durch das Entzünden eines anderen anzutreiben.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
