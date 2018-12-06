@@ -32,12 +32,12 @@
     <Entry>
       <ID>5028</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Erfolgreiche Unterbrechung feindlicher Handlungen stellen Disziplin wieder her.
+Stelle durch eine erfolgreiche Unterbrechung einer feindlichen Handlung die Disziplin wieder her.
 
-Gewährt &lt;link="gamedata://b1bf5832-b633-49fa-8ea2-b74ea720af0a"&gt;Brillanter Taktiker&lt;/link&gt;.
+Beschaffe dir einen &lt;link="gamedata://b1bf5832-b633-49fa-8ea2-b74ea720af0a"&gt;Brillanten Taktiker&lt;/link&gt;.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Verringerte Durchschlagskraft und Genauigkeit gegen ein Ziel, das nicht von einem Verbündeten angegriffen wird.
+Durchschlagskraft und Genauigkeit werden verringert, wenn du ein Ziel angreifst, das nicht von einem Verbündeten angegriffen wird.
 
 Gewährt &lt;link="gamedata://b6cd697b-176e-4fc3-b538-ae80a78d1ef3"&gt;Taktisches Dilemma&lt;/link&gt;.</DefaultText>
       <FemaleText />
@@ -72,16 +72,16 @@ Der Wille ist verringert.</DefaultText>
     <Entry>
       <ID>5038</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Beschaffe dir die Fähigkeit, Treffer gegen verzauberte Ziele mit hoher Wahrscheinlichkeit in kritische Treffer zu verwandeln.
+Gewährt die Fähigkeit, Treffer gegen verzauberte Ziele mit hoher Wahrscheinlichkeit in kritische Treffer zu verwandeln.
 
-Beschaffe dir die Fähigkeit des &lt;link="gamedata://b75184f8-63d7-44e3-901d-9c9205ad538c"&gt;Schurkischen Charmes&lt;/link&gt;.
+Gewährt die Fähigkeit &lt;link="gamedata://b75184f8-63d7-44e3-901d-9c9205ad538c"&gt;Schurkischer Charme&lt;/link&gt;.
 
-Gewinne das Verwandeln eines Treffers in einen leichten Treffer, solange du keinen Wirkungen unterliegst
+Gewährt das Verwandeln von Treffern in leichte Treffer, wenn frei von Wirkungen.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Können nicht angegriffen werden
+Kann nicht angegriffen werden.
 
-Gain &lt;link="gamedata://26890e79-a660-4593-ae57-08607d5cf296"&gt;Cowardice&lt;/link&gt; ability.</DefaultText>
+Gewährt die Fähigkeit &lt;link="gamedata://26890e79-a660-4593-ae57-08607d5cf296"&gt;Feigheit&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -100,20 +100,20 @@ Gewährt die Fähigkeit &lt;link="gamedata://ec3c9d53-7a1b-404d-a037-ff133f1e17a
     <Entry>
       <ID>5041</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Die Wirkungen erfüllter Zaubersprüche gewinnen aus Arkana-Fähigkeiten erhöhte Genauigkeit.
+Die Effekte der erfüllten Fähigkeiten gewinnen durch die Arkana-Fertigkeit erhöhte Genauigkeit.
 
-Beschaffe dir &lt;link="gamedata://710a9a69-d47b-45e7-9134-432d13e2bcc0"&gt;Erfüllen: Geschosse&lt;/link&gt; auf Kraftstufe 1.
+Gewährt &lt;link="gamedata://710a9a69-d47b-45e7-9134-432d13e2bcc0"&gt;Erfüllen: Geschosse&lt;/link&gt; auf Kraftstufe 1.
 
-Beschaffe dir &lt;link="gamedata://87004a21-bb5d-48b6-b75a-6ca2fc5d5f2e"&gt;Erfüllen: Netz&lt;/link&gt; auf Kraftstufe 3.
+Gewährt &lt;link="gamedata://87004a21-bb5d-48b6-b75a-6ca2fc5d5f2e"&gt;Erfüllen: Netz&lt;/link&gt; auf Kraftstufe 3.
 
-Beschaffe dir &lt;link="gamedata://3b4b619b-8d35-4ee2-b19c-d8155faf9f07"&gt;Erfüllen: Feuerball&lt;/link&gt; auf Kraftstufe 5.
+Gewährt &lt;link="gamedata://3b4b619b-8d35-4ee2-b19c-d8155faf9f07"&gt;Erfüllen: Feuerball&lt;/link&gt; auf Kraftstufe 5.
 
-Beschaffe dir &lt;link="gamedata://76d00207-79d6-425b-81ba-401a7c0ef494"&gt;Erfüllen: Eora&lt;/link&gt; auf Kraftstufe 7.
+Gewährt &lt;link="gamedata://76d00207-79d6-425b-81ba-401a7c0ef494"&gt;Erfüllen: Eora&lt;/link&gt; auf Kraftstufe 7.
 
-Beschaffe dir &lt;link="gamedata://e8b4e221-e29b-4758-91c7-6d8f121d7c8b"&gt;Erfüllen: Tod&lt;/link&gt; auf Kraftstufe 9.
+Gewährt &lt;link="gamedata://e8b4e221-e29b-4758-91c7-6d8f121d7c8b"&gt;Erfüllen: Tod&lt;/link&gt; auf Kraftstufe 9.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Trägt dir bei Angriffen, die nicht den nachfolgenden Arten angehören, einen Abzug an Genauigkeit ein: Erfüllen, Elemente, Feuer, Frost, Säure, Elektrizität und Zauberspruch.
+Fügt bei Angriffen, die nicht den nachfolgenden Arten angehören, einen Abzug auf Genauigkeit zu: Erfüllen, Elemente, Feuer, Frost, Säure, Elektrizität und Zauberspruch.
 
 Die maximale Gesundheit wird verringert.</DefaultText>
       <FemaleText />
@@ -201,14 +201,14 @@ Erlittener Schaden deaktiviert kurzzeitig Seelenverstand.</DefaultText>
     <Entry>
       <ID>5075</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Beschaffe dir die Fähigkeit des &lt;link="gamedata://9d3e2b8d-1fdd-496f-acc1-51d6d3836e59"&gt;Blutopfers&lt;/link&gt;.
+Gewährt die Fähigkeit &lt;link="gamedata://9d3e2b8d-1fdd-496f-acc1-51d6d3836e59"&gt;Blutopfer&lt;/link&gt;.
 
-Beschaffe dir passive Wiederherstellung der Gesundheit
+Gewährt passive Wiederherstellung der Gesundheit.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Ermächtigung kann nicht eingesetzt werden.
 
-Alle Verteidigungen gegen schwer verletzte Angreifer sind verringert</DefaultText>
+Alle Verteidigungen gegen schwer verletzte Angreifer sind verringert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
