@@ -26,12 +26,16 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Als du dich näherst, öffnen sich die Vorhänge der zwei näheren Zelte. Aus ihnen treten ein geschmeidiger Waldelf in aedyrischer Pracht, eine massige Aumauanerin mit himmelsblauer Haut sowie ein Savannenbewohner, der eine große Armbrust auf dein Herz zielt, heraus. „Kein weiterer Schritt, Fremder“, sagt er.
+      <DefaultText>Als du dich näherst, öffnen sich die Vorhänge der zwei näheren Zelte. Aus ihnen treten ein geschmeidiger Waldelf in aedyrischer Pracht, eine massige Aumauanerin mit himmelblauer Haut sowie ein Savannenbewohner, der eine große Armbrust auf dein Herz zielt, heraus. „Kein weiterer Schritt, Fremder“, sagt er.
 
 Der Elf lächelt dich warm an, was die Aussage recht unklar macht.
 
 Die Gestalt in der Robe im Lager bewegt sich keinen Zentimeter.</DefaultText>
-      <FemaleText />
+      <FemaleText>Als du dich näherst, öffnen sich die Vorhänge der zwei näheren Zelte. Aus ihnen treten ein geschmeidiger Waldelf in aedyrischer Pracht, eine massige Aumauanerin mit himmelblauer Haut sowie ein Savannenbewohner, der eine große Armbrust auf dein Herz zielt, heraus. „Kein weiterer Schritt, Fremde“, sagt er.
+
+Der Elf lächelt dich warm an, was die Aussage recht unklar macht.
+
+Die Gestalt in der Robe im Lager bewegt sich keinen Zentimeter.</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -114,7 +118,7 @@ Der Vorderste, eine stark gebräunte Zwergin, erhebt eine Hand zum Gruße. „Ko
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Du trittst in das Lager und lässt dich neben einem Feuer nieder. Obwohl es so scheint, als wollten sie es ausmachen, bevor du gekommen bist, legt die Aumauanerin noch einen Scheitel nach.
+      <DefaultText>Du trittst in das Lager und lässt dich neben einem Feuer nieder. Obwohl es so scheint, als wollten sie es ausmachen, bevor du gekommen bist, legt die Aumauanerin noch ein Scheit nach.
 
 Die Zwergin zeigt auf einen Topf, der über dem Feuer hängt. „Da ist noch ’was vom Eintopf übrig. Fisch und Gemüse, nichts Besonderes.“</DefaultText>
       <FemaleText />
