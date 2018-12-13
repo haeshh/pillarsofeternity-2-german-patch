@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_qst_03_llengrath_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Wurzel und Zweig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde in den Archiven weitere Bände der Annalen von Llengrath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bringe Llengrath die gesammelten Annalen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>(Optional) Sprich mit Tayn über die Annalen von Llengrath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>(Optional) Gib Tayn die Annalen von Llengrath zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Bringe Llengrath die gesammelten Annalen, an denen sich Tayn zu schaffen gemacht hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In den &lt;b&gt;Archiven&lt;/b&gt; habe ich ein ungewöhnliches Buch gefunden. Es trägt den Titel 'Die Annalen von Llengrath'.
+
+Der Buchtitel lässt vermuten, dass es insgesamt fünf Bände davon gibt. Ich sollte die Augen nach den anderen Bänden offenhalten, während ich die Archive weiter erkunde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Als ich den ersten Band aufnahm, hat eine Stimme zu mir gesprochen. Es klang so, als sei es die erste Person, die jemals den Namen 'Llengrath' getragen hat.
+
+Wenn ich die ganze Geschichte erfahren will, muss ich &lt;b&gt;die vier weiteren Bände finden&lt;/b&gt;, die in den &lt;b&gt;Archiven&lt;/b&gt; versteckt sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Das letzte Buch befand sich im Besitz einer Kolonie Sporen, die ein Bewusstsein entwickelt hatte und davon überzeugt war, Llengrath zu sein. Ich habe die Sporenkolonie vernichtet und mir das letzte Buch geholt. Jetzt muss ich die gesammelten Annalen nur noch &lt;b&gt;Llengrath&lt;/b&gt; bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>&lt;b&gt;Tayn&lt;/b&gt; hat sicherlich ein paar interessante Erkenntnisse über die Natur der Annalen von Llengrath beizutragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Tayn hat mich gewarnt, Llengrath nicht zu trauen. Ich weiß nicht, was sie mit diesen Büchern vorhat, aber es könnte nichts Gutes sein. Wenn ich die Bücher allesamt zu Tayn bringen würde, hätte er vielleicht ein paar Ideen, was man damit anstellen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Tayn hat in die gesammelten Annalen von Llengrath falsche Erinnerungen eingepflanzt. Wenn ich &lt;b&gt;Llengrath&lt;/b&gt; das Buch bringe, wird es ihr Verständnis ihrer Vergangenheit - und ihrer Herkunft - für immer verändern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe den zweiten Band der Annalen von Llengrath gefunden. Erneut hat die Stimme zu mir gesprochen, die ich hörte, als ich das erste Buch in die Hand nahm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe den dritten Band der Annalen von Llengrath gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe den vierten Band der Annalen von Llengrath gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe Llengrath das Buch gezeigt. Sie war skeptisch, was dessen Echtheit betrifft, aber auch fasziniert davon. Falls ich sie finden sollte, würde sie auch gerne den Rest der Bücher sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe Llengrath das Buch gezeigt, ihr jedoch nicht erlaubt, es näher zu untersuchen. Sie würde dennoch auch gerne den Rest der Bücher sehen, falls ich sie finden sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die gesammelten Annalen von Llengrath gefunden und sie Llengrath zurückgebracht. Sie ist jetzt nicht länger von den Erinnerungen ihrer Vorgänger abgeschnitten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Tayn hat an den gesammelten Annalen von Llengrath ein arkanes Ritual vorgenommen, das Llengraths Fähigkeit beeinflussen sollte, die Erinnerungen ihrer Vorgänger korrekt abzurufen. Danach habe ich Llengrath den Folianten zurückgegeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich entschied mich, die gesammelten Annalen von Llengrath selbst zu behalten. Llengrath war davon gar nicht begeistert. Ich bezweifle stark, dass sie jemals wieder mit mir zusammenarbeiten wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Llengrath getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Während ich die Archive erkundete, habe ich alle fünf Bände der Annalen von Llengrath gefunden. Anschließend habe ich sie Llengrath gebracht, damit sie sie untersuchen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

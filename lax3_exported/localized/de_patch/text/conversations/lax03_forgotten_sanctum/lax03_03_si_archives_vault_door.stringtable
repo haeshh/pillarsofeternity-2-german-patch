@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_03_si_archives_vault_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du weißt nicht mal, wo du &lt;i&gt;anfangen&lt;/i&gt; solltest, dieses Schloss aufzubrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Gravuren untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Den Mechanismus untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Es sein lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Dieses Gerät scheint das Werk eines Wahnsinnigen zu sein. Manche Teile wirken völlig redundant, während andere von Mechanismen abhängen, die wiederum von ihnen abhängen. 
+
+Das ist kein einfaches Schloss. Es ist ein Rätsel - ein Labyrinth für den Geist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Das Schloss knacken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Nach einer Stunde schweißtreibender, schwerer Arbeit verkündet das Geräusch scheppernder Mechanismen ... irgendetwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Eine schwierige, frustrierende Stunde später bist du dem Öffnen der Tür keinen Deut näher gekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 0] verbringt eine Stunde schweißtreibender, schwerer Arbeit, dann verkündet das Geräusch scheppernder Mechanismen ... irgendetwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du erkennst das ungewöhnliche Siegel als das Zeichen der Okkulten Hand, ein Geheimbund von Historikern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 0] beugt sich vor, um die Gravuren besser sehen zu können. "Sieht aus wie das Zeichen der Okkulten Hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Das Siegel sieht wie eine Hand aus, aber du kannst ihre Bedeutung nicht erkennen. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0] blickt die Gravuren stirnrunzelnd an. "Sieht aus wie eine Hand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Die Beschwörungsformel sagen.] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Der komplizierte Mechanismus scheint beinahe zu verschwinden. Er sinkt in die Tür, bis er vollkommen flach ist - nur noch eine oberflächliche Gravur. Nur ein Hebel verbleibt. Du betätigst ihn und die Tür setzt sich in Bewegung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Die Teile der Tür verschieben sich vor dir, während sich die Stäbe des Mechanismus zurückziehen und den Weg freigeben ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ein unglaublich komplexer Mechanismus versiegelt die Tür, die sich undurchdringlich vor dir aufbaut. Die Zahnräder, Stäbe und Trommeln sind ebenso kompliziert angeordnet wie das Innere eines Konstrukts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[SkillCheck 0] pfeift und schüttelt ratlos den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Gegen die Tür treten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du verstauchst dir deinen Zeh.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

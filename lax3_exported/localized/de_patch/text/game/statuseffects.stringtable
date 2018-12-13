@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Erhöht jedes Mal, wenn ein Gruppenmitglied niedergeschlagen wird, Macht und Entschlossenheit bis zum Ende des Kampfes um {0:triggervalue:straight} ({0:value:straight}-mal stapelbar).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>{0:extravalue:duration} lang nach Wirken eines Zauberspruchs {0:value:bonuspercentbonus} Chance, im Nahkampf Treffer in kritische Treffer umzuwandeln </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>Das Erzielen eines kritischen Treffers wirkt {0:extravalue:duration} lang Standhaft auf die Verbündeten in der Nähe des Ziels</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>{0:value} Durchschlagskraft, wenn unter {0:extravalue:straight} Macht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem Treffer zu Boden zu schlagen, wenn über {0:extravalue:straight} Macht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>{0:value} Macht bis zum Ende des Kampfes, wenn ein Gruppenmitglied bewusstlos wird ({0:triggercount}-mal stapelbar)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten kritischen Treffer mit einer Nahkampfwaffe {0:extravalue:duration} lang Geschockt auszulösen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>{0:value:percent} Chance, beim Töten eines Gegners {0:extravalue:duration} lang Scharfsinnig zu erhalten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>{0:triggervalue} Wille pro {0:interval} (Derzeitiger Abzug: {0:value})</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten kritischen Treffer die Abwehr des Feindes {0:extravalue:duration} lang um {0:triggervalue} zu verringern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten kritischen Treffer die Abwehr des Feindes {0:extravalue:duration} lang um {0:triggervalue} zu verringern (Erhöht sich mit der Fertigkeit {0:skill})</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer den Feinden in der Nähe nach kurzer Verzögerung reinen Schaden zuzufügen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>Gewährt, nach dem erleiden von Schaden, {0:extravalue:duration} lang {0:value} Rüstungswert gegen diese Schadensart (Entfernt alle anderen Boni vom Gedächtnismaterial)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>Wirft, nach der Ermächtigung einer Fähigkeit, gezielte feindliche Zaubersprüche zurück auf deren Wirker (bis insgesamt {0:value:straight} Stufen abgewehrt werden)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>Verlängere nach der Ermächtigung eines Medium-Zaubers {0:extravalue:duration} die Dauer der verursachten Wirkung um {0:value:bonuspercentbonus}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>Nach der Ermächtigung einer Fähigkeit erhalten Verbündete in der Nähe {0:extravalue:duration} lang Brillant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer ein Siegel zu hinterlassen, das Feinden reinen Schaden zufügt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText>Nach der Ermächtigung einer Fähigkeit wird die Erholung des Trägers sofort aufgefrischt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer beim Ziel {0:extravalue:duration} lang Verwirrt zu verursachen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText>Gewinne nach der Ermächtigung einer Fähigkeit {0:extravalue:duration} lang {0:value} Kraftstufe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText>Nach der Ermächtigung eines Priester-Zauberspruchs erhält der Träger {0:extravalue:duration} lang Mutig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>Nach der Ermächtigung einer Beschwörung verstreichen die Phrasen der Sänger {0:extravalue:duration} lang um {0:value:percent} schneller</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>Erhalte nach der Ermächtigung einer Fähigkeit {0:extravalue:duration} lang {0:value} Abwehr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>Erhalte nach der Ermächtigung einer Fähigkeit {0:value} Abwehr bis zum Ende des Kampfes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>{0:value:percent} Chance, den Angreifer zu bezaubern, wenn du mit einer Waffe getroffen wirst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>Feuert 3 Geschosse, jedoch mit geringerem Schaden und geringerer Durchschlagskraft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>{0:value:percent} Chance, einen Zauberspruch ein zweites Mal zu wirken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>{0:value} Macht und um {0:extravalue:percentbonus} verlängerte Dauer zuträglicher Effekte bis zum Ende des Kampfes, wann immer ein Mitglied der Gruppe K.O. geht (Vervielfacht sich bis zu {0:triggercount} Mal)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>{0:value} Macht und um {0:extravalue:percentbonus} verlängerte Dauer von feindlichen Effekten bis zum Ende des Kampfes, wann immer ein Mitglied der Gruppe K.O. geht (Vervielfacht sich bis zu {0:triggercount} Mal)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>Alle {0:interval} {0:value:duration} lang Betäubt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten Treffer mit einer Waffe {0:extravalue:duration} lang eine zufällige Wirkung der Stufe 1 auszulösen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>{0:value:percent} Chance, {0:extravalue:duration} lang eine zufällige Inspiration der Stufe 1 zu erhalten, wenn ein Treffer mit einer Waffe erlitten wird</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

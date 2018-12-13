@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_01_cv_oracle_puzzle_section_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das Licht, das auf das Buch auf diesem Sockel leuchtet, scheint die Worte auf dem Einband zu verdunkeln. 
+
+Das Geschriebene wird glitschig und undeutlich, und läuft irgendwann die geneigten Seiten hinunter und aus dem Folianten heraus in einen am Boden vor dem Pult stehenden Trog zum Auffangen. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Memoiren von Heldr auf dem Pult platzieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Es sein lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Licht schimmert auf den Folianten, und die Worte von Weyc Heldr schmelzen dahin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Tinte fließt ebenfalls zwischen den Seiten heraus und man könnte meinen, dass das Buch weint.
+
+Als der letzte Tropfen Tinte aus dem Buch geflossen ist, sind die Seiten völlig leer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Das Pult der Trübung steht leer vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

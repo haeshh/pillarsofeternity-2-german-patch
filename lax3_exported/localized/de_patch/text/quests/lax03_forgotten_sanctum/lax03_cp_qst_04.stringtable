@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_cp_qst_04</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Inneren Mysterien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Betritt Waels Körper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Spüle Waels Galle heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Steige hinab in das Herz der Mysterien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Biete der Trephine im Skriptorium die korrekte Erinnerung an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Stelle dich dem Orakel von Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Fyonlecg&lt;/b&gt;, ein mächtiger Zauberer, ist in den &lt;b&gt;gigantischen lebenden Körper&lt;/b&gt; der Gottheit Wael hinabgestiegen. Wenn ich verhindern will, dass Mauras Mörder das Wesen seinem Willen unterwirft, muss ich ihn &lt;b&gt;finden&lt;/b&gt;, bevor er noch mehr Schaden anrichten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Meine Opfergabe hat mir den Eintritt in den &lt;b&gt;Körper von Wael&lt;/b&gt; ermöglicht. Nun kann ich &lt;b&gt;Fyonlecg verfolgen.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Fyonlecg ist durch einen Kanal, der &lt;b&gt;mittlerweile mit ätzender Galle gefüllt ist&lt;/b&gt;, &lt;b&gt;tiefer in den Körper vorgedrungen&lt;/b&gt;. Wenn ich ihn finden will, muss ich zunächst &lt;b&gt;den Weg freimachen&lt;/b&gt;. Vielleicht kann ich &lt;b&gt;den Zufluss&lt;/b&gt; der Galle in den Kanal unterbinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe den Kanal, der in die Tiefe führt, von seiner &lt;b&gt;gefährlichen Galle&lt;/b&gt; gereinigt. Jetzt kann ich &lt;b&gt;Fyonlecg ins Herz der Mysterien folgen&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>&lt;b&gt;Um den Körper von Wael zu betreten&lt;/b&gt;, muss ich &lt;b&gt;der Trephine&lt;/b&gt; im Skriptorium &lt;/b&gt;die Erinnerungen darbieten&lt;/b&gt;, die ich in der Sammlung gefunden habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Fyonlecg hat dem Orakel von Wael &lt;b&gt;die Kontrolle entrissen&lt;/b&gt; und es irgendwie geschafft, seine eigene Seele in die mit Augen übersäte Monstrosität zu übertragen. Jetzt &lt;b&gt;muss ich ihren Angriffen standhalten&lt;/b&gt; – dieser Kampf wird das &lt;b&gt;Schicksal von Waels Körper&lt;/b&gt; entscheiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe einen großen – und sehr robusten – Leitkörper entdeckt, der die Galle direkt in den Hauptkanal befördert. Möglicherweise finde ich &lt;b&gt;einen Weg, um ihn zu zerstören&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;Ein großes Auge&lt;/b&gt; leitet die ätzende Galle in eine Kammer in den westlichen Eingeweiden. Ich muss einen Weg finden, &lt;b&gt;es davon abzuhalten&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Der Körper pumpt Gallenflüssigkeit aus einem &lt;b&gt;Becken in einer Kammer im Osten&lt;/b&gt;. Mit dem Becken selbst lässt sich nicht machen, aber vielleicht &lt;b&gt;finde ich einen Weg, um die Galle zu verändern&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe den Leitkörper in den südlichen Eingeweiden durch geschickten Einsatz von Bomben zerstört.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe das riesige Auge ausgeschaltet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe die Gallenflüssigkeit im östlichen Becken gerinnen lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe eine Flasche &lt;b&gt;antiseptische Salbe&lt;/b&gt; erhalten. Wenn ich &lt;b&gt;sie mit etwas anderem kombiniere&lt;/b&gt;, könnte ich damit vielleicht die natürlichen Prozesse des Körpers unterbinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>In den Notizen eines Wärters wurde erwähnt, dass &lt;b&gt;die Kombination aus antiseptischer Salbe und einer Pilz-Zutat&lt;/b&gt; ein &lt;b&gt;starkes Gerinnungsmittel&lt;/b&gt; erzeugen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich habe sowohl die &lt;b&gt;antiseptische Salbe&lt;/b&gt; als auch die &lt;b&gt;Pilz-Zutat&lt;/b&gt;. Wenn ich in der östlichen Kammer &lt;b&gt;beides ins Becken gebe&lt;/b&gt;, sollte es die Zuflüsse verstopfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich habe eine &lt;b&gt;alchemistische Ladung&lt;/b&gt; erhalten, mit deren Hilfe das Vulkangestein auf den Schwarzen Inseln zerstört wurde. Es wird gewiss ausreichen, um &lt;b&gt;den Galleleitkörper&lt;/b&gt; zu zerstören.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Orakel von Wael zerstört und damit den riesigen Körper des Gottes getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe das Orakel von Wael verschont. Der riesige Körper des Gottes sollte wieder in tiefen und ungestörten Schlaf fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Wael davon überzeugt, mir mit seinem riesigen Körper auf der Jagd nach Eothas zu helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe das Orakel von Wael getötet und den materiellen Körper des Gottes den Sporen der Archive überlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich habe das Orakel von Wael verschont und den massiven Körper des Gottes dem Erzmagier Concelhaut überlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

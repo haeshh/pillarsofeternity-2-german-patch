@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_poi_bs_body_access</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Das wird sich nicht wieder senken, wenn wir draufstehen, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Nun, das sieht ja &lt;i&gt;überhaupt nicht&lt;/i&gt; unsicher aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Du zuerst, Ishi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Merla. Du weißt, dass ich nicht fliegen kann, ac, Wächter?"</DefaultText>
+      <FemaleText>"Merla. Du weißt, dass ich nicht fliegen kann, ac, Wächterin?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Auch nicht schlimmer, als auf einen Mast zu klettern, aye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Denkst du, das geht bis nach Hel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Da hab ich schon schlimmere Öffnungen gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Wächter! Hast du das gesehen?"</DefaultText>
+      <FemaleText>"Wächterin! Hast du das gesehen?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Das sieht nicht gerade hygienisch aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Lass mich nicht in diesem stinkenden Loch verrecken. Da lasse ich mich ja noch lieber von Imps zerfetzen." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ja, ja, steigen wir ruhig in den Magen eines Gottes hinab. Sparen wir ihm die Mühe, uns erst zu fressen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Wie originell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich würde dich ja gerne begleiten, aber ich habe diese Angst davor, verdaut zu werden. Das verstehst du bestimmt." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

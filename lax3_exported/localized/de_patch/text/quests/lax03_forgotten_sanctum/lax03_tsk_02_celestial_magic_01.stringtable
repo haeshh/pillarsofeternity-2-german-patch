@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_tsk_02_celestial_magic_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Schwindender Verstand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sprich mit &lt;b&gt;Bekarna&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Finde eine Möglichkeit, Bekarnas Erinnerung wiederherzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Bring &lt;b&gt;Bekarna&lt;/b&gt; das Buch 'Fortgeschrittene sehnsüchtige Sterndeutung'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Sprich mit Bekarna im &lt;b&gt;Tempel der Offenbarung&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In der Sammlung fand ich eine gefangene Zauberin namens &lt;b&gt;Bekarna&lt;/b&gt;. Die lange Gefangenschaft scheint sie schwer verwirrt zu haben. Sie ist nicht mehr im Vollbesitz ihrer geistigen Kräfte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich kann nur dann mehr über Bekarna erfahren, wenn ich mit ihr spreche und herausfinde, was diese Benebelung ihres Geistes hervorgerufen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Bekarna hat mich angefleht, "ihr zu helfen, den Himmel wiederzufinden". Sie scheint voll und ganz auf diese Vorstellung fixiert zu sein. Fast so, als wäre es ein Anker für ihre Gedanken. Vielleicht findet sich in der &lt;b&gt;Sammlung&lt;/b&gt; etwas, was ihren Verstand wieder klarer machen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe &lt;b&gt;ein Buch mit Informationen&lt;/b&gt; über die Sterne entdeckt. Wenn Bekarna den Himmel wiederfinden möchte, ist das vielleicht &lt;b&gt;genau das, was sie braucht&lt;/b&gt;, um ihren Verstand wiederherzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Nachdem sie ihren Verstand wiedererlangt hatte, hatte Bekarna es verständlicherweise höchst eilig, der Sammlung zu entfliehen. Ich kann sie &lt;b&gt;im Tempel der Offenbarung finden&lt;/b&gt; und mir meine Belohnung von ihr holen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Bekarna ist tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Als sie ihren Verstand wiedererlangt hatte, verließ Bekarna die Sammlung.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

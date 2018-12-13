@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_04_cv_spore_hive</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>&lt;ispeech&gt;Llengrath erkennt dein Lied. Gefällt dir dieser Garten? Lässt jede aufblühende Pustel deine Eier in Vorfreude anschwellen?&lt;/ispeech&gt; Die Sporenkolonie zuckt und bebt, als du dich näherst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;ispeech&gt;Dein Lied ist zu schön, um zuzulassen, dass ein Hindernis sein Wachstum behindert. Erlaube uns, ein Beet der Dankbarkeit zu düngen.&lt;/ispeech&gt; 
+
+Waels Fleisch zuckt und bebt, als dicke Pilzranken herauskommen, um einen Weg freizuräumen. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sieht aus, als hättet ihr euch ziemlich weit ausbreiten können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ihr braucht vielleicht etwas Nachhilfeunterricht, was die Biologie der Gestandenen angeht. Nichts von alldem stimmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Aus dem Weg. Ich habe keine Zeit für Pilzgespräche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>&lt;ispeech&gt;Dankbarkeit. Im Moment ist der Fleischgarten ein stiller Teich. Ein kleiner Stein wirft große Wellen.&lt;/ispeech&gt; Die Kappe eines Pilzes verfärbt sich rosa, fast als wolle er üben, wie man errötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>&lt;ispeech&gt;Ein Tausend Entschuldigungsdrüsen. Wir sind vor Freude über diesen Garten ganz fleckig, können in deinem Lied jedoch hören, dass du tiefer vordringen möchtest.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

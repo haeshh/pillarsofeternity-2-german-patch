@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_tsk_03_celestial_magic_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein aufgehender Stern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Durchsuche die &lt;b&gt;Archive&lt;/b&gt; nach &lt;b&gt;Bekarnas Zauberbuch.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Gib &lt;b&gt;Bekarna&lt;/b&gt; das Zauberbuch zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Stelle &lt;b&gt;Bekarnas Zauberbuch&lt;/b&gt; wieder her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;Bekarna&lt;/b&gt; hat ihr Zauberbuch in den Verschleierten Hallen verloren. Sie vermutet, dass es inzwischen irgendwo in den &lt;b&gt;Archiven&lt;/b&gt; katalogisiert wurde. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>In den Verschleierten Hallen scheinen am Ende alle Bücher in den &lt;b&gt;Archiven&lt;/b&gt; zu landen. Auch Bekarnas Zauberbuch muss den Weg dorthin gefunden haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Das Licht der Sterne hat Bekarnas Zauberbuch wiederhergestellt Sie wird zweifellos dankbar sein, ihr Zauberbuch zurückzubekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Bekarnas Zauberbuch wirkt leblos, wie seiner arkanen Energie beraubt. Vielleicht gibt es eine Möglichkeit, es wiederherzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Eine Notiz in den Archiven erwähnte ein ungewöhnliches Zauberbuch, das eine Reaktion zeigte, als es in den &lt;b&gt;östlichen Bereich des Oratoriums von Wael&lt;/b&gt; getragen wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Der Notiz zufolge, die ich gefunden habe, könnte es die Kräfte des Zauberbuchs wiederherstellen, wenn ich es in den &lt;b&gt;östlichen Bereich des Oratoriums von Wael&lt;/b&gt; bringe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Der &lt;b&gt;östliche Bereich des Oratoriums von Wael&lt;/b&gt; weist an der Decke einen breiten Riss auf, durch den Licht von außen in den Raum eindringt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Bekarna sagte, dass ihr Zauberbuch sich vom Sternenlicht nährt. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Als ich das Zauberbuch dem Tageslicht aussetzte, geschah nichts. Ich könnte es zu einer anderen Zeit versuchen. Bekarna könnte mir vielleicht auch weiterhelfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Der &lt;b&gt;östliche Bereich des Oratoriums von Wael&lt;/b&gt; weist an der Decke einen breiten Riss auf, durch den Licht von außen in den Raum eindringt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Bekarna ist tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Bekarnas Zauberbuch wurde zurückgegeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

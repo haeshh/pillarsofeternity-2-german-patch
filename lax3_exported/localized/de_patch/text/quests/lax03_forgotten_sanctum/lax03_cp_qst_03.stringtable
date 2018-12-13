@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_cp_qst_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Unter Beobachtung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Betritt die &lt;b&gt;Sammlung&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde einen Weg zur eigentlichen Sammlung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Erkunde die Tiefen der &lt;b&gt;Sammlung&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Töte den &lt;b&gt;Erinnerungssammler&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Etwas scheint auf gewaltsame Weise aus dem Flügel der Verschleierten Hallen entkommen zu sein, der die &lt;b&gt;Sammlung&lt;/b&gt; enthält. Wenn ich diesen Flügel eingehender erkunde, könnte mir das mehr über diese Anlage verraten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Sammlung befindet sich direkt &lt;b&gt;südwestlich vom Tempel der Offenbarungen&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Das scheint nicht die Sammlung zu sein. Es muss hier einen Weg nach unten geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich bin nun in dem Stockwerk der Sammlung mit den &lt;b&gt;Gehegen&lt;/b&gt;. Wenn ich mich &lt;b&gt;noch weiter nach unten begebe&lt;/b&gt;, finde ich vielleicht heraus, was es mit diesem Flügel auf sich hat und wer hier das Sagen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe den Verwalter dieser albtraumhaften Menagerie gefunden. Die Kreatur ist selbst ein Gefangener und hat mir keine andere Wahl gelassen, als mich zu verteidigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Aus einem tieferen Stockwerk hallte ein Schrei, der mir das Blut in den Adern gefrieren ließ. Nichts, das natürlich oder noch bei Sinnen ist, kann so schreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ein weiterer Schrei drang aus den Tiefen, dieser noch viel lauter. Anscheinend nähere ich mich der Quelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Der Erinnerungssammler ist tot. Von seiner dem irdischen Körper entfliehenden Seele habe ich erfahren, dass ein Trephine genanntes Gerät den Weg zum Körper von Wael öffnet.  Und irgendwie wurde mir das Wissen zuteil, wie ich dieses Gerät aktivieren kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

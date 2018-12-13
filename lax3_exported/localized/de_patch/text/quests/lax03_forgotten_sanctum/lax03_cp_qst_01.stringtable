@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_cp_qst_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Versteckte Tiefen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit Llengrath im Saal der Unsichtbaren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Folge Llengrath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die &lt;b&gt;Erzmagierin Llengrath&lt;/b&gt; hat mich auf meinem Schiff besucht und vor einer drohenden Gefahr auf den &lt;b&gt;Schwarzen Inseln&lt;/b&gt; gewarnt. Sie erbat meine Hilfe bei der Suche nach der Erzmagierin &lt;b&gt;Maura&lt;/b&gt;, die nach einem Weg suchte, um Eothas aufzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Llengrath erwartet mich im &lt;b&gt;Saal der Unsichtbaren&lt;/b&gt;, einer Ruine auf den Schwarzen Inseln, die &lt;b&gt;direkt südlich von Tikawara liegen.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Llengrath ist in eine erst vor Kurzem geöffnete Kammer &lt;b&gt;unter dem Saal der Unsichtbaren&lt;/b&gt; hinabgestiegen. Sie bat mich, sie zu begleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe mich Llengrath im Tempel der Offenbarung angeschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

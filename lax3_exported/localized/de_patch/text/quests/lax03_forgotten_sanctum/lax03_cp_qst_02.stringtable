@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_cp_qst_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kommentierte Geschichte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Betritt die Archive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Verfolge Maura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Tritt Maura gegenüber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Tritt Fyonlecg gegenüber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Finde das Buch, das Maura im Oratorium von Wael gesucht hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Verwende die Beschwörungen der Hand, um die Tür zur Schatzkammer zu öffnen, die zum Oratorium von Wael führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Betritt das Oratorium von Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Erzmagierin &lt;b&gt;Maura&lt;/b&gt; hat die Verschleierten Halle auf der Suche nach etwas betreten, das Eothas auf seiner zerstörerischen Reise aufhalten könnte.
+
+Aufgrund der Hinweise, die Maura im Tempel der Offenbarung hinterlassen hat, denken Tayn und Llengrath, dass sie sich möglicherweise in die &lt;b&gt;Archive&lt;/b&gt; vorgewagt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich muss einen Weg in die &lt;b&gt;Archive&lt;/b&gt; finden, wenn ich auch nur den Funken einer Chance haben will, &lt;b&gt;Maura&lt;/b&gt; zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Als ich in den Archiven eintraf, sah ich die Leichen mehrerer toter Bibliothekare. Und einen Überlebenden, der ungerührt das Chaos beseitigte.
+
+Der Bibliothekar sagte mir, &lt;b&gt;Maura&lt;/b&gt; sei in die &lt;b&gt;Quarantänesektion&lt;/b&gt; geflohen und eine &lt;b&gt;maskierte Gestalt&lt;/b&gt; habe sie verfolgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Die schattenhafte Gestalt, die Maura verfolgte, hat sie vor mir gefunden - und jetzt ist sie tot.
+
+Aber nicht ganz. Die &lt;b&gt;Sporenkolonie&lt;/b&gt;, die sich in den Archiven niedergelassen hat, scheint die Kontrolle über das übernommen zu haben, was von ihrem Verstand noch übriggeblieben ist.
+
+Mal sehen, was dieser Rest ihres Verstandes zu sagen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich kam zu spät. Die schattenhafte Gestalt, die Maura verfolgte, hat sie umgebracht. Anscheinend heißt er 'Fyonlecg' und ist furchtbar aufgebracht.
+
+Ich werde mich &lt;b&gt;mit Fyonlecg befassen&lt;/b&gt; müssen, bevor ich herausfinden kann, &lt;b&gt;wonach Maura gesucht hat&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Beim Lesen in Mauras Seele erfuhr ich, dass sie nach einem Buch suchte, das ihr Anweisungen geben konnte, wie sie in Waels Körper gelangen konnte.
+
+Sie war sich sicher, dass das &lt;b&gt;Buch&lt;/b&gt; irgendwo &lt;b&gt;in diesem Stockwerk&lt;/b&gt; sein müsste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Ich habe ein Buch mit Beschwörungen der Okkulten Hand gefunden. Darin ist sich auch ein Zauberspruch, der ein Schloss weit komplizierter aussehen lassen kann, als es tatsächlich ist.
+
+Vielleicht hilft mir das, &lt;b&gt;die Tür zur Schatzkammer der zentralen Stapel zu überwinden&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Ich habe die Tür zur Schatzkammer geöffnet. Ich sollte mich &lt;b&gt;eilends nach oben ins Oratorium von Wael begeben&lt;/b&gt; - dorthin muss auch &lt;b&gt;Maura&lt;/b&gt; gegangen sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Der &lt;b&gt;Bibliothekar&lt;/b&gt; wies mich darauf hin, dass das Betreten der &lt;b&gt;oberen Stapel&lt;/b&gt; in den Archiven &lt;b&gt;für Unbefugte verboten&lt;/b&gt; sind. Ich sollte mich also unauffällig bewegen, wenn ich &lt;b&gt;in diesem Bereich nach Maura suche&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich finde mich in der &lt;b&gt;gesperrten Sektion&lt;/b&gt; wieder. Vielleicht kann ich hier einen Hinweis darauf finden, wie ich die &lt;b&gt;Tür zur Schatzkammer&lt;/b&gt; überwinden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Das &lt;b&gt;Schloss der Schatzkammertür&lt;/b&gt; ist zu kompliziert, als dass ich es mit meinem Wissen öffnen könnte. Vielleicht finde ich in den &lt;b&gt;Archiven&lt;/b&gt; Informationen darüber, wie ich die Tür überwinden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>In der &lt;b&gt;Ausleihbibliothek&lt;/b&gt; der &lt;b&gt;Archive&lt;/b&gt; habe ich drei Pulte entdeckt. Alle drei stellen ein Rätsel und haben eine Vertiefung, die aussieht, als könnte man ein Buch hineinlegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Die &lt;b&gt;Sporenkolonie&lt;/b&gt; scheint eine Auseinandersetzung mit &lt;b&gt;Maura&lt;/b&gt; gehabt zu haben. Die Kolonie hat mir verraten, dass Maura in &lt;b&gt;südliche Richtung&lt;/b&gt; durch eine &lt;b&gt;verschlossene Tür&lt;/b&gt; gegangen ist, und war so nett, mir den Schlüssel zu dieser Tür zu geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Nachdem ich die &lt;b&gt;Sporenkolonie&lt;/b&gt; getötet hatte, fand ich &lt;b&gt;Mauras Zauberbuch&lt;/b&gt; an der Leiche der Kolonie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich bin in der &lt;b&gt;Quarantänesektion&lt;/b&gt; der &lt;b&gt;Archive&lt;/b&gt; auf ein paar von &lt;b&gt;Mauras Tentakeln&lt;/b&gt; gestoßen. Sie kann nicht mehr weit entfernt sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Das Schloss zur &lt;b&gt;Tür der Schatzkammer der zentralen Stapel&lt;/b&gt; weist das &lt;b&gt;Symbol einer Hand mit einem Auge&lt;/b&gt; in der Mitte auf. Wenn ich dieses Symbol noch anderswo in den &lt;b&gt;Archiven&lt;/b&gt; finden kann, gibt mir das vielleicht einen Hinweis darauf, wie das Schloss funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Maura hat eine Möglichkeit entdeckt, in den Körper von Wael zu schlüpfen. Man muss dazu einer Trephine genannten Maschine eine bestimmte Erinnerung opfern. Sie wusste allerdings nicht, wie man das Gerät benutzt. Ich dagegen weiß es dank meiner Begegnung mit dem Erinnerungssammler in der Sammlung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Maura hat eine Möglichkeit entdeckt, in den Körper von Wael zu schlüpfen. Man muss dazu einer Trephine genannten Maschine eine bestimmte Erinnerung opfern. Leider weiß ich nicht, wie man ein solches Gerät bedient. Die Antworten müssen irgendwo hier an diesem heiligen Ort zu finden sein. Allerdings anscheinend nicht in den Archiven.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Ich bin am Eingang der &lt;b&gt;Archive&lt;/b&gt; über eine grausige Szene gestolpert - eine Gruppe abgeschlachtete Bibliothekare. War das womöglich &lt;b&gt;Mauras&lt;/b&gt; Werk?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Ich habe die zentrale Treppe gefunden, die zum &lt;b&gt;Oratorium von Wael&lt;/b&gt; führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40003</ID>
+      <DefaultText>Die merkwürdige Inschrift auf der &lt;b&gt;Tür zur Schatzkammer der zentralen Stapel&lt;/b&gt; ist wahrscheinlich das Werk der Okkulten Hand. Angesichts der schieren Menge an Büchern in dieser merkwürdigen Bibliothek muss es doch auch eines geben, das sich mit außergewöhnlichen Schlössern befasst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40004</ID>
+      <DefaultText>Ich sehe zwei Pulte, die eine verschlossene Tür flankieren. Die Oberfläche der Pulte ist mit Rätseln beschrieben. Vielleicht finde ich in den &lt;b&gt;Büchern in diesem Stockwerk&lt;/b&gt; die Antworten, die ich brauche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40005</ID>
+      <DefaultText>Ich habe herausgefunden, dass das komplizierte Schloss an der &lt;b&gt;Tür zur Schatzkammer der zentralen Stapel&lt;/b&gt; bloß eine Illusion war. Nachdem dieses Rätsel nun gelöst ist, kann ich mich endlich auf die Suche nach der &lt;b&gt;merkwürdigen Gestalt&lt;/b&gt; machen, die Maura auf den Fersen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_tsk_04_celestial_magic_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Aus den ewigen Weiten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde in den &lt;b&gt;Verschleierten Hallen&lt;/b&gt; ein Stück &lt;b&gt;Sternenmetall&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bringe &lt;b&gt;Bekarna&lt;/b&gt; das &lt;b&gt;Sternenmetall&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Jetzt, wo &lt;b&gt;Bekarna&lt;/b&gt; wieder im Besitz ihres Zauberbuchs ist, erinnert sie sich auch daran, warum sie ursprünglich zu den Schwarzen Inseln gekommen ist. Sie wollte eine Sternschnuppe an sich bringen. Mithilfe dieses kleinen Stücks &lt;b&gt;Sternenmetall&lt;/b&gt; kann sie einen einzigartigen Zauberspruch aufschreiben. Sie verspricht, die Ergebnisse ihrer Forschung mit mir zu teilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Bekarna ist ganz sicher, dass sich irgendwo in den Verschleierten Hallen ein himmlischer Katalysator – ein Stück aufgeladenes &lt;b&gt;Sternenmetall&lt;/b&gt; – befindet. Auf diesen Ort ist vor Kurzem eine Sternschnuppe herabgefallen. Vielleicht muss ich also &lt;b&gt;weiter unten&lt;/b&gt; suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe gefunden, wonach Bekarna gesucht hat. Sie wird sich sehr freuen, wenn ich es ihr bringe. Sie hält sich derzeit im &lt;b&gt;Tempel der Offenbarung&lt;/b&gt; auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Einem Buch zufolge, das ich gefunden habe, könnten dem Sternenmetall ungewöhnliche Geister innewohnen, die es vehement verteidigen. Vielleicht kann ich sie besänftigen, indem ich ihnen ein wenig von meiner Essenz anbiete.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Bekarna ist tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Bekarna konnte ihren eigenen Zauberspruch erfolgreich aufschreiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

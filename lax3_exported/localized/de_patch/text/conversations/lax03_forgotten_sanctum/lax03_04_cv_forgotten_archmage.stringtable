@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_04_cv_forgotten_archmage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>192</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du erkennst die vertrauten Roben von Fyonlecg, der mit dem Rücken zu dir steht. Er hat die Arme seitlich ausgestreckt und kanalisiert die unglaublichen Reserven an Umgebungsessenz im Herzen von Waels Titan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du bist nicht mehr als ein Einbrecher. Diese Archive werden deine Seele in ihren Katalog aufnehmen."</DefaultText>
+      <FemaleText>"Du bist nicht mehr als eine Einbrecherin. Diese Archive werden deine Seele in ihren Katalog aufnehmen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ernsthaft? &lt;i&gt;Das&lt;/i&gt; ist der Schlüssel des Titanen? Das doch ist absurd!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Warte, das kenne ich. Wie vertraut ..."
+
+Die Gestalt in der Robe wendet sich dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Nein. Noch ein Fremder. Das Orakel muss seine Wachen verstärken."</DefaultText>
+      <FemaleText>"Nein. Noch eine Fremde. Das Orakel muss seine Wachen verstärken."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Sei wachsam. Dieser Mann ist ein Zauberer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Dieser hier verströmt ein gewisses Maß an Autorität. Das gefällt mir nicht." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Dann sag, wer du bist. Raus damit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich bin [Player Name], der Wächter von Caed Nua."</DefaultText>
+      <FemaleText>"Ich bin [Player Name], die Wächterin von Caed Nua."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich bin hier im Auftrag des Zirkels der Erzmagier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Geh von dem großen, grauen Maul weg, bevor noch jemand zu Schaden kommt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich habe hier nach Maura gesucht. Du scheinst sie vor mir gefunden zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Du hast sie umgebracht! Dafür wirst du bezahlen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Was in Waels Namen &lt;i&gt;ist&lt;/i&gt; dieses Ding?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Hier und jetzt? Das bezweifle ich doch sehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Er spottet. "Hältst du mich für einen Dummkopf? Maerwald ist der Wächter von Caed Nua, dieser armseligen Hütte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Maura glaubte, sie habe ein Anrecht auf Macht, die ihren Horizont übersteigt. Ich habe sie eines Besseren belehrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ah. Das ist der Erinnerungssammler. Eines der kleinen Projekte des Orakels. Er macht jene gefügig, die von der Okkulten Hand eingesammelt wurden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Aber glaube nicht, dass ich auf deinen Ablenkungsversuch hereinfallen würde. Wer bist du? Warum bist du hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Angreifen] "Das hört jetzt auf. Mach dich bereit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Wie bitte?"
+
+Er schaut zwischen dir und dem vielgesichtigen Wesen hin und her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Bist du das? Hoffentlich hatten sie wenigstens den Anstand, dich dafür zu entlohnen, anstatt dich einfach zu zwingen, ihnen zu dienen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Lebe wohl, Wächter von Caed Nua."</DefaultText>
+      <FemaleText>"Lebe wohl, Wächterin von Caed Nua."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Maerwald ist vor Jahren gestorben. Ich habe seine Festung übernommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Vor Jahren? Tatsächlich."
+
+Er streicht sachte mit einem behandschuhten Finger über seine Maske.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Spielt keine Rolle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Zieht eure Klingen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ich wusste, dass es so enden würde." Mit einem Zähneknirschen zieht Fassina ihre Waffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Au, Scheiße, Käpt'n. Jetzt geht's los!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Entschuldigung nicht angenommen." Maia greift nach ihrer Waffe. Ishizas Feder zittert in freudiger Erwartung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Aye, jetzt sprichst du meine Sprache, Käpt'n." Serafen leckt sich die Lippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich hoffe, du bist mit deinem Schöpfer im Reinen, denn du wirst ihm in Kürze begegnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Hast sie auch richtig schön herausgeputzt. Allerdings kann man nicht behaupten, dass sie derzeit besonders viel hergibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ah, der Sammler scheint sich zu rühren. Angenehme Träume, Fremder."</DefaultText>
+      <FemaleText>"Ah, der Sammler scheint sich zu rühren. Angenehme Träume, Fremde."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ah. Oh, ihr Götter. Ich sehe – nein – ich &lt;i&gt;fühle&lt;/i&gt; alles!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Fyonlecg!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Willst du uns alle umbringen?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ich freue mich darauf, dich in kleine Zaubererstückchen zu schneiden, Arschloch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Hier endet deine Geschichte, fürchte ich. Und keiner wird sich an sie erinnern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Abwarten und beobachten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Er versteift sich. "Wir haben wohl einen Gast."
+
+Er wendet sich dir zu. Ohne Maske scheinen die Gesichtszüge des Elfen halb weggewischt zu sein, wie von der Hand eines Bildhauers. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Der Erzmagier wirbelt zu dir herum. Ohne Maske scheinen die Gesichtszüge des Elfen halb weggewischt zu sein, wie von der Hand eines Bildhauers. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ich fürchte, wir – ich – kann nicht zulassen, dass du dich hier einmischt, [Player Name]. Wir sind zu nah dran, um jetzt noch einen Rückzieher zu machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Zu nah dran an was genau? Was willst du hier erreichen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Hör dir nur mal zu. Du verlierst deine eigene Identität! Du wirst subsumiert in – was auch immer das ist!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Die Vereinigung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Angreifen] "Götter, ich freue mich so darauf, dich zu töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Die Vereinigung."
+
+Sein Lächeln erinnert an ein Blatt, das sich ans Feuer gehalten zusammenrollt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Das ganze Wissen in diesen Hallen – alle Erinnerungen – alles sinkt hinab und fließt in diese titanische Form."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ich habe mich bereits lange bevor ich den Titanen betrat verloren. Aber durch den Titanen kann ich mich wiederherstellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Noch nie von dir gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ich kann mit großer Gewissheit sagen, dass die Geschichte keinen solchen Erzmagier kennt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Oh, du bist &lt;i&gt;dieser&lt;/i&gt; Fyonlecg! Warum hast du das nicht gleich gesagt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>&lt;ispeech&gt;Sag es uns, Eindringling. An was erinnerst du dich?&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>&lt;ispeech&gt;Alle kannten uns! Wenn schon für sonst nichts, dann für die Zauber, die unseren Namen trugen! Fyonlecgs Flammenwand. Fyonlecgs Wand aus vielen Farben. Fyonlecgs makellose Barriere.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Sehr beeindruckend. Und was ist passiert, dass eine so illustre Persönlichkeit so tief gesunken ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Also hauptsächlich Wandzeug."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Nun, heute sind diese Zauber namenlos und du bist ein Niemand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Was hat die Okkulte Hand damit zu tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Fyonlecg war eine der führenden Gestalten im Zirkel der Erzmagier. Ein Genie, das auf mysteriöse Weise verschwand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Du warst für diesen einen Zauber verantwortlich, stimmt's? Der mit deinem Namen dran?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ok, vielleicht kenne ich dich doch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Die Augenstiele des Orakels beben, als konzentrierte Frustration sich über dich ergießt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Er trug eine Maske?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Serafen sieht dich von der Seite an und schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Die Augenstiele des Orakels beben vor Vergnügen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>&lt;ispeech&gt;Unser Ruf überdauert, selbst bei den Ungelehrten.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>&lt;ispeech&gt;Unsere heißgeliebte Zauberei. Unsere Wand aus vielen Farben. Unsere Flammenwand. Unsere unüberwindbare Barriere. Das sorgte im Zirkel für offene Münder.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Die Augenstiele des Orakels erstarren fast. Jedes einzelne Auge hat dich fest im Blick. Der große zentrale Augapfel verengt sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>&lt;ispeech&gt;Nein. Man wird sich an uns erinnern. Wir verlangen die Anerkennung, die wir verdient haben.&lt;/ispeech&gt;
+
+Seine Wut trifft dein Gesicht wie die Hitze eines Hochofens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>&lt;ispeech&gt;Wandzeug? Wandzeug!&lt;/ispeech&gt;
+
+Ungezügelte Feindseligkeit lässt die Luft knistern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>&lt;ispeech&gt;Wenn das die Jugend von heute ist, weinen wir um Eora.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Wenn du den Wächter schon für degeneriert hältst, solltest du mal Tayn sehen."</DefaultText>
+      <FemaleText>"Wenn du die Wächterin schon für degeneriert hältst, solltest du mal Tayn sehen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Der Hochmut der Akademiker." Fassina seufzt und schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>&lt;ispeech&gt;Wir – Ich – Ich habe mich der Okkulten Hand angeschlossen. Ich diente Wael treu und wurde in immer tiefere Zirkel der Enthüllung eingeweiht.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>&lt;ispeech&gt;Sie machten mich zum Weyc. Dem Hohezauberer, Seher und Arkanist. Da haben wir – habe ich – die Wahrheit entdeckt.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Maura?"
+
+Die Maske verrutscht ein wenig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Maura hat also doch die Wahrheit gesagt."
+
+Er seufzt und schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Gestatte mir eine Frage. Hast du schon einmal von dem Erzmagier Fyonlecg gehört?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Darüber haben wir nicht gesprochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ich mache das zum Wohle des Todesfeuers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Freunde unter den Erzmagiern zu haben, kann nie schaden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ich will nicht über Geld reden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ein bisschen was von beidem, würde ich sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Nicht überraschend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ah. So einer bist du also?"</DefaultText>
+      <FemaleText>"Ah. So eine bist du also?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Du hast wohl noch nicht viel mit Erzmagiern zu tun gehabt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ah, also haben sie dich gezwungen. Entschuldige, wenn ich Salz in deine Wunden gestreut habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Genau hier und jetzt. Wir sind ein ziemlich impulsiver Haufen." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Dieser Arsch bettelt darum, anständig abgemurkst zu werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Angreifen] "Etwas sagt mir, dass ich das hier genießen werde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Erzmagier haben keine Freunde. Für sie ist die Welt wie ein Schachbrett und alle anderen sind entweder Bauern oder Gegner." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Das geht dich gar nichts an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Die maskierte Gestalt starrt dich ein paar Sekunden lang schweigend an, bevor sie kaum merklich mit der Schulter zuckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Ein außerordentlich unangenehmer Vorgang, versichere ich dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Nie gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"In den geschichtlichen Aufzeichnungen des Zirkels gibt es keinen Erzmagier mit diesem Namen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Das bist du, nehme ich an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Nur in den Notizen der Verrückten, die überall in diesem Gefängnis hier herumliegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Spielt es eine Rolle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Oh ja. In den Regalen unten war ein Buch über seine Heldentaten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Das kann nicht sein. Egal, ob Jahre vergangen sind oder nicht, die Hand hätte mich nie so schnell aus der Geschichte tilgen können."
+
+Er starrt auf seine offenen Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Er stößt einen langen Seufzer aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Nichts könnte wichtiger sein."
+
+Er beugt sich vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Den Kopf schütteln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Er stößt einen langen Seufzer aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Du erkennst mich tatsächlich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ich habe die Geschichte des Zirkels in meiner Zeit in Bragganhyl ausführlich studiert und dein Name ist da nie aufgetaucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Arkemyr erwähnte den Namen nie, und er redete sonst wie besessen über seine Kollegen." Fassina verdreht die Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Dann ist die Wirkung nicht nur lokal. Und auch nicht beschränkt auf meinen Verstand oder den von Maura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Es sei denn, vielleicht ... Könnte es sein, dass die Okkulte Hand eine Art Ansteckung entwickelt hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Wovon sprichst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Gut möglich. Ich spüre selbst ein leichtes Kratzen im Hals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Ihn zu Ende überlegen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Angreifen] "Machen wir das Ganze einfacher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Sein stilles Lachen wird von der Maske fast vollständig gedämpft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Du vermutest, dass irgendein Effekt dazu führt, dass die Leute dich vergessen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Seine Aufmerksamkeit fällt wieder auf dich. Sein Gesichtsausdruck bleibt hinter der Maske verborgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Nein, nein. Das würde Niedergeschriebenes nicht betreffen. Aber habe ich mich selbst davon überzeugt, dass Niedergeschriebenes tatsächlich betroffen ist? Nein, ich habe nur Zeugen – und keine unparteiischen noch dazu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"So etwas ist gewiss möglich. Wir haben vielleicht bereits darüber gelesen, aber unsere Erinnerung daran wurde unterdrückt."
+
+Sie blickt den Mann in den Roben stirnrunzelnd an. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ich kannte mal jemanden, der von der Welt vergessen wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ich bitte um Verzeihung. Das ist alles sehr verwirrend. Aber zumindest du wirst die Dinge nicht noch komplizierter machen."
+
+Er zieht einen Stab hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Lebe wohl, Fremder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Da sind wir, mein Freund. Öffne dich und empfange mich."</DefaultText>
+      <FemaleText>"Da sind wir, meine Freundin. Öffne dich und empfange mich."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Habe ich dich nicht in Würmer verwandelt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Du hast mir nicht gesagt, dass du Maura getötet hast. Du hättest mir viel Zeit ersparen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Wächter von Caed Nua. Herold von Berath. Meister der Jagd. Dämmersprecher."</DefaultText>
+      <FemaleText>"Wächterin von Caed Nua. Herold von Berath. Meisterin der Jagd. Dämmersprecherin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Wächter von Caed Nua. Herold von Berath. Dämmersprecher."</DefaultText>
+      <FemaleText>"Wächterin von Caed Nua. Herold von Berath. Dämmersprecherin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Wächter von Caed Nua. Herold von Berath. Meister der Jagd."</DefaultText>
+      <FemaleText>"Wächterin von Caed Nua. Herold von Berath. Meisterin der Jagd."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Wächter von Caed Nua. Herold von Berath."</DefaultText>
+      <FemaleText>"Wächterin von Caed Nua. Herold von Berath."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Aber jetzt mal ernsthaft. Ich dachte, du würdest aus Würmern bestehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Na toll. Jetzt habe ich Durst. Danke auch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Du hast einen falschen Fyonlecg überwältigt. Ein Trugbild. Ein Hirngespinst. Ganz einfache Zauberei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>&lt;ispeech&gt;Wir erinnern uns an alles. An alles, was wir je wussten. An alles, was wir nie wussten.&lt;/ispeech&gt;
+
+Die Gedanken des Zauberers hallen zwischen deinen eigenen und hämmern gegen deinen Verstand wie ein Oger gegen eine verschlossene Tür.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Woher kennst du all diese Titel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Wissen durchströmt uns, wie das Wasser durch ein Rohr, über ein Rad und in ein Becken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Soweit ich weiß, sind Trugbilder herbeigezauberte Essenz, nicht herbeigezauberte Würmer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Trugbild oder nicht, du bist für Mauras Tod verantwortlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Wozu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Oh, das wissen wir. Wir wissen so viele Dinge"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Vollführst du deshalb dieses Befehlsritual?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Wenn du denkst, du könntest deine Essenz dem Titanen einflößen und so die Kontrolle über ihn erlangen, wirst du bitter enttäuscht werden. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Die Seele des Titanen ist wie ein Ozean. Tief und tosend. Sie würde dich überwältigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Ich bin mir nicht sicher, ob er dieser Kreatur wirklich seinen Willen aufzwingen will ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Seid ihr bereit, Leute? Das hier könnte brutal werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Wir haben wohl kaum eine andere Wahl, wenn wir hier lebend herauskommen wollen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Wir standen schon Schlimmerem gegenüber als einem Mann in schicken Klamotten. Er wird doch hoffentlich nicht irgendwelche Statuen zum Leben erwecken, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ich habe immer die Hoffnung, dass wir irgendwann auf einen würdigen Gegner treffen werden. Aber nicht heute." Maia gibt Ishiza ein Zeichen und zieht ihre Waffe. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Wir wissen nicht, zu was er fähig ist, Wächter. Sei auf alles vorbereitet."</DefaultText>
+      <FemaleText>"Wir wissen nicht, zu was er fähig ist, Wächterin. Sei auf alles vorbereitet."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Irgendetwas an der Sache bereitet mir Kopfschmerzen, Käpt'n. Wie ein gottverdammter Mahlstrom."
+
+Er hält sich die Schläfe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Es wird doch immer brutal, oder? Ausnahmsweise halte ich es diesmal auch für notwendig." Tekēhu atmet langsam aus und bewegt sich wie das Wasser, als der Zauberer näherkommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Ich dachte schon, du würdest niemals fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Merla! Wir sind vielleicht zu spät, um das noch abzuwenden, Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Ich bin direkt hinter dir, Wächter!"</DefaultText>
+      <FemaleText>"Ich bin direkt hinter dir, Wächterin!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Dieser Unhold ist eine Perversion der Natur, die beseitigt werden muss. Bringen wir es schnell hinter uns." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Ich werde dir nicht von der Seite weichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Ja. Stopfen wir diesem Zauberer das Maul, Dämmersprecher."</DefaultText>
+      <FemaleText>"Ja. Stopfen wir diesem Zauberer das Maul, Dämmersprecherin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"&lt;i&gt;Ich&lt;/i&gt; bin bereit, Wächter. Die anderen Idioten müssen selbst sehen, wo sie bleiben."</DefaultText>
+      <FemaleText>"&lt;i&gt;Ich&lt;/i&gt; bin bereit, Wächterin. Die anderen Idioten müssen selbst sehen, wo sie bleiben."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Auch das Ich, das wir zuvor waren. Ich spüre es dort. Wie einen Herzschlag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Wir können dir helfen, Fyonlecg. Aber nicht, wenn du dich verlierst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Ich kann das nicht zulassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>[Angreifen] "Bereiten wir dem ein Ende!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>&lt;ispeech&gt;Wir erinnern uns an den jungen Fyonlecg, ein vielversprechender Schüler aus dem Cythwald. Unbezwingbarer Fyonlecg, der arkane Ritter. Fyonlecg der Unverdorbene, Erzmagier des Zirkels. Fyonlecg, Weyc der Okkulten Hand.&lt;/ispeech&gt;
+
+Die Namen, Titel und Erinnerungen – und die Gefühle, die damit verbunden sind – brechen über dir herein wie eine Brandung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Hat der Bleierne Schlüssel etwas wie das, Aloth? Vielleicht können sie dich in eine große schwebende Krone verwandeln?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Hast du vergessen, dass das alles damit anfing, dass &lt;i&gt;dein&lt;/i&gt; Gott aus dem Keller kletterte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Konzentriert euch, ihr beide. Das hier ist nicht der Kupferweg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>&lt;ispeech&gt;Du kennst unsere Arbeit? Seltsam. Dies ist ein vergessener Ort. Ein Heiligtum für verlorene Dinge.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Das riesige zentrale Auge des Wesens dreht sich in seiner Höhle und richtet seinen Blick auf dich. Die Pupille erweitert sich und saugt deinen Anblick ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>[Angreifen] "Es wird Zeit zu sterben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Das riesige zentrale Auge des Wesens dreht sich in seiner Höhle und richtet seinen Blick auf dich. Die Pupille erweitert sich und saugt deinen Anblick ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>[Angreifen] "Er wurde in den Augapfel gestochen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Das Wesen blinzelt, als du angreifst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Seine Transformation hat seine geistige Verfassung nicht gerade verbessert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Belfetto. Jetzt ist er nicht nur verrückt, sondern auch noch wütend." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Die Augenstiele des Orakels erstarren fast. Jedes einzelne Auge hat dich fest im Blick. Der große zentrale Augapfel verengt sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>&lt;ispeech&gt;Man wird uns nicht zum Schweigen bringen können. Wael wird uns nicht begraben, wie er es mit denen getan hat, die zuvor kamen.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>&lt;ispeech&gt;Du kennst sie auch. Wir sehen das Geheimnis in deinem Verstand leuchten. Die große Lüge. Wie ein Stern am leeren Firmament.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Was meinst du mit 'die zuvor kamen'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Die große Lüge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Das spielt keine Rolle. Ich kann dich den Titanen nicht haben lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>[Angreifen] "Ich habe genug gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>&lt;ispeech&gt;Die Geburt der Götter.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>&lt;ispeech&gt;Du glaubst doch nicht etwa, dass die Engwithaner die Ersten waren, oder? Oder dass sie allein waren? Von den Huana weißt du bereits. Und es gab noch andere.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>&lt;ispeech&gt;Du hast hier nichts zu entscheiden, kleiner Eindringling. Wir sind eins.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>&lt;ispeech&gt;Wir können dich nicht gehen lassen. Zu viele Geheimnisse beschmutzen dich, wie sie Fyonlecg beschmutzt haben. Du musst gereinigt werden.&lt;/ispeech&gt;
+
+Die Kreatur erhebt sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>&lt;ispeech&gt;Engwith hat globalen Einfluss erlangt, nicht ewige Vorherrschaft.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Sag mir, wenn ich ihn schlagen soll, Wächter, und ich werde es liebend gerne tun."</DefaultText>
+      <FemaleText>"Sag mir, wenn ich ihn schlagen soll, Wächterin, und ich werde es liebend gerne tun."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Das ist tatsächlich sehr fortgeschrittene Zauberei ..." Seine Stimme zittert und er starrt dich mit großen angsterfüllten Augen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Klingt ein wenig wie deine Geschichte, Aloth, ein paar Titel hin oder her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Ich bin &lt;i&gt;ganz und gar nicht&lt;/i&gt; wie er."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Wächter, glaubst du, er meint ..."</DefaultText>
+      <FemaleText>"Wächterin, glaubst du, er meint ..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Psst, Rekke. Dafür ist jetzt nicht die richtige Zeit." Aloth legt seine Hand auf den Mund des jungen Mannes, um ihn zum Schweigen zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

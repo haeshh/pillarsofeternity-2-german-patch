@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_poi_bs_cages_experiments</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wir vergraben diesen Ort beim Rausgehen, ja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Für diese Gräuel gibt es keine Rechtfertigung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Zu viele leere Käfige. Arme Teufel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Lass uns diesen Ort säubern, Wächter."</DefaultText>
+      <FemaleText>"Lass uns diesen Ort säubern, Wächterin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Der Tod ist noch zu gut für diese dreimal verdammten Bastarde, Käpt'n."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"An diesem Ort muss dringend geerntet werden, Wächter."</DefaultText>
+      <FemaleText>"An diesem Ort muss dringend geerntet werden, Wächterin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sie halten ihre Skalpelle nicht mal scharf. Als ob das besser wäre ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Lass uns nicht länger hierbleiben als unbedingt nötig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Diese Experimente sehen aus wie das wirre Tun eines Kindes. Oder eines Aedyraners."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ein Heiligtum für die einen, ein Schlachthaus für die anderen." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Lasst niemand Zweifel an Rymrgands Gnade haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

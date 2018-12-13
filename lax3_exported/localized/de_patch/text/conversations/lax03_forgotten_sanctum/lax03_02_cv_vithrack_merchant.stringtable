@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_02_cv_vithrack_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Vithrack schwebt vor dir. Ihre Mundwerkzeuge zittern leicht, während sie dich mit starren Augen mustert, die wie gefasste Edelsteine in ihrem Kopf sitzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;ispeech&gt;Willkommen zurück, verbündeter Gestandener.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Zeig mir, was du zu verkaufen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Hast du schon immer hier unten gelebt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Gehen] "Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>&lt;ispeech&gt;In der Tat. Bin in der Dunkelheit geschlüpft. Diese hier erfüllt den Vertrag, wie die Kolonie es bereits seit Generationen tut.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>&lt;ispeech&gt;Komm, wirf einen Blick darauf. Diese hier hat viel davon selbst gemacht.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>&lt;ispeech&gt;Sissak sagt dieser hier, dass du die Kolonie aus ihrer Knechtschaft befreit hast. Diese hier ist dankbar und entschuldigt sich für - etwaige frühere Missverständnisse.&lt;/ispeech&gt; 
+
+Ihre Mundwerkzeuge klicken leise. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Mit einer ausladenden Geste ihrer Spinnenfinger deutet sie auf die neben ihr gestapelten Objekte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Entschuldigung angenommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Tja, ich bin auch kein Kind von Traurigkeit, also Schwamm drüber, ja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Eine Entschuldigung allein reicht nicht. Wie willst du es wiedergutmachen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Grunzen und mit den Achseln zucken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>&lt;ispeech&gt;Die Kolonie bekommt nicht besonders viel von der Oberfläche, aber diese hier hat Güter in der Anlage gesammelt und hergestellt.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>&lt;ispeech&gt;Diese hier stellt sie dem verbündeten Gestandenen gerne zur Verfügung, im Austausch für Vorräte oder Geld. &lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>&lt;ispeech&gt;Das heißt aber nicht, dass diese hier nie weg war. Manchmal sind auf der Oberfläche Arbeiten zu erledigen.&lt;/ispeech&gt;
+
+Sie zuckt mit den Schultern und mit den Armen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>&lt;ispeech&gt;Aber der kleine Gestandene hat uns von diesem Joch befreit. Diese hier ist dir immer noch dankbar.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Aber die kleine Gestandene hat uns von diesem Joch befreit. Diese hier ist dir immer noch dankbar.&lt;/ispeech&gt;</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Wozu brauchst du hier unten Geld?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>&lt;ispeech&gt;Das ist das stille Geheimnis von dieser hier und geht den Gestandenen nichts an.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tooltips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Llengrath ist eine Erzmagierin, die für ihre Zaubersprüche der Verteidigung bekannt ist. Sie ist nicht die Erste, die den Titel 'Llengrath' trägt, und sie wird auch nicht die Letzte sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Llengrath ist eine Erzmagierin, die für ihre Zaubersprüche der Verteidigung bekannt ist. Sie ist nicht die Erste, die den Titel 'Llengrath' trägt, und sie wird auch nicht die Letzte sein. Am Mowrghek Îen hast du nach der Begegnung mit dem Lich Concelhaut eine Abmachung mit ihr getroffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Llengrath ist eine Erzmagierin, die für ihre Zaubersprüche der Verteidigung bekannt ist. Sie ist nicht die Erste, die den Titel 'Llengrath' trägt, und sie wird auch nicht die Letzte sein. Du hast sie nach der Begegnung mit dem Lich Concelhaut am Mowrghek Îen umgebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

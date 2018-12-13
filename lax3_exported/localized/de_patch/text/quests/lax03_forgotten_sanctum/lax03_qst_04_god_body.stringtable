@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_qst_04_god_body</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Samen der Täuschung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Betritt den Körper von Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Betritt Waels Körper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Suche den Körper von Wael nach dem Artefakt ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Suche das Herz der Mysterien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bringe den Gottessamen zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Llengrath bat mich, im &lt;b&gt;Körper von Wael&lt;/b&gt; &lt;b&gt;nach einem uralten arkanen Artefakt von Engwith&lt;/b&gt; zu suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich kann den Körper nicht erkunden, wenn ich keinen &lt;b&gt;Weg hinein finde&lt;/b&gt;. Ich muss mir Zugang zu der riesigen Gestalt verschaffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich &lt;b&gt;habe Zugang&lt;/b&gt; zu dem massiven Wesen unten erhalten. Jetzt kann ich &lt;b&gt;in seine fleischigen Tiefen&lt;/b&gt; hinabsteigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Jetzt, wo ich Waels Körper betreten habe, kann ich &lt;b&gt;nach dem Artefakt suchen&lt;/b&gt;.
+
+Ich sollte lieber nicht zu viel darüber nachdenken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe zwei Teile des Artefakts gefunden, aber &lt;b&gt;der Kern&lt;/b&gt; scheint noch zu fehlen. Vielleicht finde ich ihn &lt;b&gt;tiefer im Körper&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe das &lt;b&gt;vollständige Artefakt&lt;/b&gt; gefunden. Jetzt sollte ich es dem Erzmagier oder der Erzmagierin zurückbringen.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe etwas gefunden, das ein Teil eines arkanen Artefaktes sein könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe den zweiten Teil des Artefaktes gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Tayn den Gottessamen übergeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Llengrath den Gottessamen übergeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe das Schema dem Orakel von Wael zurückgegeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe die Teile des Gottessamens für mich behalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Angesichts dessen, wie ich die Sache mit Waels Körper gelöst habe, spricht Llengrath nicht mehr mit mir. Dann gehört das Gottessamen-Artefakt jetzt wohl mir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Tayn möchte, dass ich &lt;b&gt;ein Artefakt aus dem Körper von Wael&lt;/b&gt; berge. Es wird &lt;b&gt;Gottessamen&lt;/b&gt; genannt und ist der Mechanismus und Bauplan, den man benötigt, um den Körper eines Gottes zu erschaffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

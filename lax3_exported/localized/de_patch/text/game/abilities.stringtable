@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>130</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4358</ID>
+      <DefaultText>Treue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4649</ID>
+      <DefaultText>Wiederaufbau – Platte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4739</ID>
+      <DefaultText>Abscheulichkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4740</ID>
+      <DefaultText>Gesichter der Vergangenheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4741</ID>
+      <DefaultText>Identität stehlen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4742</ID>
+      <DefaultText>Schimmerschritt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4743</ID>
+      <DefaultText>Durch Träume schlagen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4744</ID>
+      <DefaultText>Von Nachtmahren umschwärmt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4749</ID>
+      <DefaultText>Der Träger zeigt auf einen Feind und beherrscht ihn für eine kurze Zeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4795</ID>
+      <DefaultText>Gletscherschlag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4796</ID>
+      <DefaultText>Schneehammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>Frostfell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4799</ID>
+      <DefaultText>Gebrüll des Schneesturms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4807</ID>
+      <DefaultText>Kolossal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4808</ID>
+      <DefaultText>Belastet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4810</ID>
+      <DefaultText>Konzentrieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4811</ID>
+      <DefaultText>Arkemyrs Auge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4812</ID>
+      <DefaultText>Concelhauts Auge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4813</ID>
+      <DefaultText>Kalakoths Auge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4814</ID>
+      <DefaultText>Minolettas Auge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4815</ID>
+      <DefaultText>Ninagauths Auge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4816</ID>
+      <DefaultText>Ryngrims Auge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4817</ID>
+      <DefaultText>Rückschau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4818</ID>
+      <DefaultText>Trauern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4847</ID>
+      <DefaultText>Gelage der Träume</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4848</ID>
+      <DefaultText>Der Träger versetzt ein Ziel in den Schlaf und begibt sich in dessen Träume. Während er schläft, heilt sich der Träger mit der Zeit und ist unangreifbar, kann jedoch selbst auch nicht agieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4849</ID>
+      <DefaultText>Langsam kommt der Wahnsinn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4850</ID>
+      <DefaultText>Der Träger erhält zu Beginn des Kampfes einen beträchtlichen Bonus auf Willen, verliert jedoch über die Zeit langsam Willen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4917</ID>
+      <DefaultText>Gerechte Rache</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4928</ID>
+      <DefaultText>Schwarm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4929</ID>
+      <DefaultText>Schwäche: Körperwirkungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4930</ID>
+      <DefaultText>Spinnenstrom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4931</ID>
+      <DefaultText>Abnehmende Zahl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4932</ID>
+      <DefaultText>Mondfinsternis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4933</ID>
+      <DefaultText>Mondspinnenessenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4934</ID>
+      <DefaultText>Mondspinnenglanz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4935</ID>
+      <DefaultText>Mondphasen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4936</ID>
+      <DefaultText>Segen des Mondes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4937</ID>
+      <DefaultText>Wand der Wucherung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4938</ID>
+      <DefaultText>Seelenschmettern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5035</ID>
+      <DefaultText>Psychische Zerstreuung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5036</ID>
+      <DefaultText>Trostlosigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5037</ID>
+      <DefaultText>Seelenecho</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5038</ID>
+      <DefaultText>Psychische Barriere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5040</ID>
+      <DefaultText>Überhandnehmender Wahnsinn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5042</ID>
+      <DefaultText>Psychische Qual</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5043</ID>
+      <DefaultText>Stille</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5044</ID>
+      <DefaultText>Tiefes Lernen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5045</ID>
+      <DefaultText>Sickernde Sporen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5046</ID>
+      <DefaultText>Eingeflossene Kontrolle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5047</ID>
+      <DefaultText>Verseuchte Galle </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5048</ID>
+      <DefaultText>Verseuchte Unterwürfigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5049</ID>
+      <DefaultText>Llengraths Lehren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5050</ID>
+      <DefaultText>Blinde Wut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5051</ID>
+      <DefaultText>Giftspritze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5052</ID>
+      <DefaultText>Speichernde Magie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5053</ID>
+      <DefaultText>Schwere Schläge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5054</ID>
+      <DefaultText>Doppelwurf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5055</ID>
+      <DefaultText>Benebelt von den Vergessenen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5056</ID>
+      <DefaultText>Flexibler Verstand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5057</ID>
+      <DefaultText>Furchtlos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5058</ID>
+      <DefaultText>Elementare Klarheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5059</ID>
+      <DefaultText>Ewige Segnung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5060</ID>
+      <DefaultText>Explosive Präsenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5061</ID>
+      <DefaultText>Inspirierender Anführer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5063</ID>
+      <DefaultText>Präzision</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5064</ID>
+      <DefaultText>Geist des Kriegers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5071</ID>
+      <DefaultText>Der Träger überlädt den Fokus und erhöht die Reichweite des Schilds, um anderen nahen Verbündeten einen Bonus auf Abwehr zu verleihen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5072</ID>
+      <DefaultText>Verstärkte Schildvergrößerung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5073</ID>
+      <DefaultText>(Vielfältige Schildvergrößerung) - Verbündete erhalten statt auf Abwehr einen Bonus auf alle Verteidigungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5074</ID>
+      <DefaultText>Vielfältige Schildvergrößerung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5075</ID>
+      <DefaultText>(Verstärkte Schildvergrößerung) - Verbündete erhalten mehr Abwehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5076</ID>
+      <DefaultText>Schildvergrößerung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5077</ID>
+      <DefaultText>Verschleiernde Kutte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5078</ID>
+      <DefaultText>Einmal pro Begegnung erhält der Träger den Effekt des Zaubers "Arkaner Schleier", wenn er zum ersten Mal angegriffen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5079</ID>
+      <DefaultText>Lass die Schreie los</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5080</ID>
+      <DefaultText>Fliehen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5081</ID>
+      <DefaultText>Sicherheitssystem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5084</ID>
+      <DefaultText>Orgelmund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5085</ID>
+      <DefaultText>Vergiftet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5086</ID>
+      <DefaultText>Bekarnas Tagtraum um Mitternacht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5087</ID>
+      <DefaultText>Bei jeder Begegnung hat der Träger eine Chance, nach einem erlittenen kritischen Treffer in Raserei zu verfallen. Der Träger erhält die Inspirationen Stark und Fit sowie einen Bonus auf Aktionsgeschwindigkeit. Während der Raserei erleidet der Träger einen Abzug auf Abwehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5088</ID>
+      <DefaultText>Überlebender</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5089</ID>
+      <DefaultText>Optimistische Präsenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5090</ID>
+      <DefaultText>Während der durch die Purpurrotes Rüstung ausgelösten Raserei erhält der Träger einen Schild, der einen Teil des erlittenen Schadens absorbiert. Je höher die Überlebensfähigkeit des Trägers, desto höher der absorbierte Schaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5091</ID>
+      <DefaultText>(Optimistische Präsenz) – Alle Verbündeten in der Nähe des Trägers erhalten den Schild ebenfalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5092</ID>
+      <DefaultText>Solange Ooblit der Gruppe folgt, halten alle auf dich gewirkten positiven Effekte 3 Sekunden länger an und die Gruppe erhält erhöhte Absetzverteidigung. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5093</ID>
+      <DefaultText>Solange Schmächtiger Jim der Gruppe folgt, richten deine Flächenangriffe und Flächenzauber erhöhten Schaden an und die Verteidigung der Gruppe gegen solche Angriffe und Zauber ist erhöht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5094</ID>
+      <DefaultText>Solange Lucero der Gruppe folgt, hast du Widerstand gegen Wirkungen auf Gewandtheit und die Erholungszeit der Gruppe nach dem Einsatz von Schnellauswahl-Gegenständen ist verkürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5095</ID>
+      <DefaultText>Solange Blinky der Gruppe folgt, verfügst du über Resistenz gegen Wirkungen auf Wahrnehmung und die Gruppe hat erhöhte Genauigkeit im Nahkampf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5096</ID>
+      <DefaultText>Solange Retina der Gruppe folgt, ist ein zusätzlicher Gegner nötig, um dich zu flankieren, und die Gruppe hat erhöhte Genauigkeit im Fernkampf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5097</ID>
+      <DefaultText>Solange Geschenkeinwicklerin der Gruppe folgt, erhältst du zusätzlichen Rüstungswert und die Gruppe heilt sich über die Zeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5098</ID>
+      <DefaultText>Solange Amanita der Gruppe folgt, hast du eine Chance, angreifende Gegner zu bezaubern und die Gruppe fügt zusätzlichen Zersetzungsschaden zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5099</ID>
+      <DefaultText>Tayns chaotische Geschosse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5100</ID>
+      <DefaultText>Erzeugt in der Hand des Benutzers kleine Kugeln aus purem Chaos. Wenn sie geworfen werden, springen sie zwischen Gegnern hin und her und verursachen eine Reihe nachteiliger Wirkungen, darunter Taumelnd, Erkrankt, Humpeln, Abgelenkt, Verwirrt und Erschüttert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5101</ID>
+      <DefaultText>Belastung ist ein wahrhaft gewaltiges Schwert und erfordert große Macht, um effektiv geschwungen zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5104</ID>
+      <DefaultText>Verleugnung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5105</ID>
+      <DefaultText>Trauern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5106</ID>
+      <DefaultText>Schuld</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5107</ID>
+      <DefaultText>Der Schock beim Tod von Verbündeten setzt beim Träger zusätzliche Kräfte frei, wodurch Belastung leichter geschwungen werden kann. Jedes Mal, wenn ein Verbündeter niedergeschlagen wird, erhält der Träger bis zum Ende des Kampfes einen Bonus auf Macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5108</ID>
+      <DefaultText>(Schuld) – Jedes Mal, wenn ein Verbündeter niedergeschlagen wird, verlängert sich die Dauer zuträglicher Effekte bis zum Ende des Kampfes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5109</ID>
+      <DefaultText>(Verleugnung) – Jedes Mal, wenn ein Verbündeter niedergeschlagen wird, verkürzt sich die Dauer nachteiliger Effekte bis zum Ende des Kampfes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5110</ID>
+      <DefaultText>Llengraths Schutz-Totem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5111</ID>
+      <DefaultText>Der Benutzer stellt das Totem auf den Boden und erschafft einen kleinen Schild rund um diesen Bereich. Alle auf den Benutzer gewirkten feindlichen Zauber, werden reflektiert, wenn er sich nahe dem Totem aufhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5112</ID>
+      <DefaultText>Mauras tastendes Tentakel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5113</ID>
+      <DefaultText>Beschwört ein riesiges Tentakel, das sich zwar nicht bewegen kann, aber Charakteren in der Nähe Zersetzungsschaden zufügen und feindliche Gestandene packen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5114</ID>
+      <DefaultText>Ätzende Aura</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5116</ID>
+      <DefaultText>Ein Blitz aus himmlischer Energie zuckt zwischen den Verbündeten hin und her und verleiht ihnen eine zufällige Inspiration, entweder Hartnäckig, Zäh, Fingerfertig, Bewusst, Scharfsinnig oder Resolut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5117</ID>
+      <DefaultText>Diener der Sterne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5118</ID>
+      <DefaultText>Der Benutzer lässt die im Sternenmetall eingeschlossenen Geister frei. Jedes Mal, wenn einer dieser Geister getötet wird, erhält der Träger eine zufällige Inspiration, entweder Stark, Fit, Schnell, Einsichtig, Klug oder Standhaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5119</ID>
+      <DefaultText>Vom Donner gerührt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5120</ID>
+      <DefaultText>Hilferuf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5121</ID>
+      <DefaultText>Imp-Spray-Essenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5122</ID>
+      <DefaultText>Eine faulige Flüssigkeit schießt aus dem Fläschchen heraus und setzt sich an allem im Bereich fest. Wer davon befleckt ist, wird in regelmäßigen Abständen betäubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5123</ID>
+      <DefaultText>Nova</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5125</ID>
+      <DefaultText>Kontrolle verlieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5126</ID>
+      <DefaultText>Leichter Schlummer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5127</ID>
+      <DefaultText>Tiefer Schlummer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5128</ID>
+      <DefaultText>Belebende Albträume</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5129</ID>
+      <DefaultText>Bezaubernde Benommenheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5130</ID>
+      <DefaultText>Feuer schüren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5131</ID>
+      <DefaultText>Leichen auferstehen lassen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5132</ID>
+      <DefaultText>Knochen beseelen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5133</ID>
+      <DefaultText>Solange Boras der Gruppe folgt, sind deine Geschichte- und Metaphysik-Fertigkeiten sowie die Genauigkeit der Gruppe beim Wirken von Zaubern erhöht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5135</ID>
+      <DefaultText>Meister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5136</ID>
+      <DefaultText>Blutgeschenk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5137</ID>
+      <DefaultText>Alte Weisheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5138</ID>
+      <DefaultText>Immunität: Sicherheitssystem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5169</ID>
+      <DefaultText>Höchste Treue</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

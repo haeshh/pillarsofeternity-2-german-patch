@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_01_cv_oracle_puzzle_section_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese Feuerschale brennt so hell vor dir und die Hitze ist so intensiv, dass sie dich aus einigen Metern Entfernung verbrühen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Heldrs Horn in die Flammen werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Es sein lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die gottähnlichen Hörner leuchten – erst violett, dann in kräftigem Rot – bevor sie in einen Funkenregen ausbrechen, der rund um die Feuerschale auf den Boden niederprasselt. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Die Flamme berühren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Diese Feuerschale brennt hell vor dir, und die Hitze ist so intensiv, dass sogar &lt;i&gt;du&lt;/i&gt; sie spürst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Mit zitternder Hand berührst du das Feuer und ziehst sie sofort schmerzerfüllt zurück. Die Haut auf deiner angesengten Gliedmaße bildet Blasen und nasse, offene Wunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Deine Hand zittert und dir läuft Schweiß über die Stirn. 
+
+Du schaffst es nicht, deine Hand ins Feuer zu halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

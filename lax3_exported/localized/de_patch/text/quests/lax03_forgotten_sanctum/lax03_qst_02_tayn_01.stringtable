@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_qst_02_tayn_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein Schrei in der Dunkelheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Betritt &lt;b&gt;die Sammlung&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>(Optional) Sprich mit &lt;b&gt;Llengrath&lt;/b&gt; über Tayns Quest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Finde die &lt;b&gt;Quelle der Schreie&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Verwende das &lt;b&gt;Organ des Erinnerungssammlers&lt;b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>(Optional) Verwende &lt;b&gt;Llengraths Schriftrolle&lt;/b&gt; statt der von &lt;b&gt;Tayn.&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Tayn&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Kehre zu &lt;b&gt;Llengrath&lt;/b&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Tayn will, dass ich die in der Sammlung der Verschleierten Hallen gefangenen Gestandenen befreie. Er hat mir eine &lt;b&gt;Schriftrolle&lt;/b&gt; überreicht, die deren Erinnerungen und Willenskraft wiederherstellen kann. Ich muss sie lediglich den betäubten Gefangenen &lt;b&gt;laut vorlesen&lt;/b&gt;, und zwar &lt;b&gt;an einem Ort, an dem mich alle gleichzeitig hören können&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Sammlung befindet sich direkt &lt;b&gt;südwestlich vom Tempel der Offenbarungen&lt;/b&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Tayn will, dass ich die betäubten Gefangenen in der Sammlung befreie. Llengrath ist vielleicht anderer Auffassung darüber, wie das gehandhabt werden sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Etwas in den &lt;b&gt;Tiefen der Sammlungen&lt;/b&gt; schreit so laut, dass es &lt;b&gt;im gesamten Flügel nachhallt&lt;/b&gt;. Merkwürdigerweise scheint das die Gefangenen zu beruhigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Die &lt;b&gt;Versammlung der Echos&lt;/b&gt; im &lt;b&gt;untersten Stockwerk&lt;/b&gt; der Sammlung birgt ein Gerät, das in der Lage ist, meine Stimme zu übertragen. Das wäre der ideale Ort, um &lt;b&gt;Tayns Schriftrolle&lt;/b&gt; vorzulesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Llengrath möchte, dass ich den Gefangenen mit ihrer Schriftrolle den Gnadentod beschere und so ihre Seelen von diesem unseligen Dasein befreie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich habe Tayns Schriftrolle direkt vor dem Organ des Erinnerungssammlers laut vorgelesen. So konnte ich die Gefangenen befreien. Tayn sollte dankbar dafür sein, dass ich seinen Wunsch erfüllt habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Die Gefangenen in der Sammlung sind tot. Llengrath dürfte sich freuen. Tayn ist jedoch wahrscheinlich enttäuscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Alternativ kann ich auch &lt;b&gt;Llengraths Schriftrolle&lt;/b&gt; laut vorlesen und den betäubten Gefangenen einen gnädigen Tod bescheren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Tayns Zauberspruch eingesetzt, um die Gefangenen in der Sammlung zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Llengraths Zauberspruch eingesetzt, um den Gefangenen in der Sammlung den Gnadentod zu bescheren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe die Gefangenen in der Sammlung getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
