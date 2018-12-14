@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Verschafft dir {0:value:straight} Konzentration alle 6 Sekunden, wenn du 4 m oder weiter von deinem nächsten Verbündeten entfernt bist</DefaultText>
+      <DefaultText>Verschafft dir alle {0:extravalue:duration} {0:value:straight} Konzentration (wenn 0), wenn du 4 m oder weiter vom nächsten Verbündeten entfernt bist</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Bei kritischem Treffer alle 3 Sekunden 5 direkter Blutungsschaden für die Dauer von 9 Sekunden</DefaultText>
+      <DefaultText>Bei kritischem Treffer {0:extravalue:duration} lang {0:value:straight} direkter Schaden alle {0:triggervalue:duration}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,7 +336,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer für 8,0 Sekunden unsichtbar zu werden</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer für {0:extravalue:duration} unsichtbar zu werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +386,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Chance, bei einem kritischen Treffer beim Ziel Humpelnd, Niedergestreckt, direkten Schaden über Zeit für 12,0 Sekunden zu verursachen – oder eine Verringerung der Aktionsgeschwindigkeit um 25 %</DefaultText>
+      <DefaultText>Chance, bei einem kritischen Treffer beim Ziel Humpelnd, Niedergestreckt, direkten Schaden über Zeit für {0:extravalue:duration} zu verursachen – oder eine Verringerung der Aktionsgeschwindigkeit um 25 %</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1331,7 +1331,7 @@
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Direkter Blutungsschaden über Zeit für 12,0 Sekunden beim Ziel, wenn ein kritischer Treffer erzielt wurde</DefaultText>
+      <DefaultText>Direkter Blutungsschaden über Zeit für {0:extravalue:duration} beim Ziel, wenn ein kritischer Treffer erzielt wurde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
