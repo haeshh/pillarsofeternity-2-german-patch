@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>88</EntryCount>
+  <EntryCount>89</EntryCount>
   <Entries>
     <Entry>
       <ID>3974</ID>
@@ -442,6 +442,11 @@
     <Entry>
       <ID>5034</ID>
       <DefaultText>Die Seelen des Schmelztiegels zu zerstören, hat die Gunst des Wächters bei Rymrgand erhöht und die Genauigkeit des Wächters gegen Gefäße gesteigert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5169</ID>
+      <DefaultText>Höchste Treue</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
