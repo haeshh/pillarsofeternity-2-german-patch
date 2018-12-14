@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\re_scripted_interactions\re_si_ship_combat</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>173</EntryCount>
+  <EntryCount>180</EntryCount>
   <Entries>
     <Entry>
       <ID>3</ID>
@@ -195,7 +195,7 @@ Als das Schiff die Spitze einer Welle erreicht hat, feuern deine Kanoniere eine 
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>&lt;sprite="Inline" name="action_full_sail" tint=1&gt; "Segel voll öffnen!"</DefaultText>
+      <DefaultText>&lt;sprite="Inline" name="action_full_sail" tint=1&gt; „Segel voll öffnen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -936,6 +936,45 @@ Ein raues Gejohle ertönt aus den Kehlen von [ShipDuel_Opponent]s Mannschaft. �
     </Entry>
     <Entry>
       <ID>324</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Das nervöse Murmeln der Besatzung hallt durch das Schiff, als du den Befehl gibst, vorzudringen. Die [ShipDuel_PlayerShip] wird so leichtes Ziel für Harkendes Feuer, was das Risiko auf Verletzungen erhöht:
+
+[ShipDuel_CloseToBoardCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>[Weiter vordringen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>„Andererseits, wenn ich noch einmal darüber nachdenke …“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Du erteilst deiner Mannschaft den Befehl zur schnellen Flucht.
+
+Das gegnerische Schiff fällt hinter euch zurück, bis es schließlich am Horizont verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
       <DefaultText />
       <FemaleText />
     </Entry>
