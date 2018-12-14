@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4569</EntryCount>
+  <EntryCount>4570</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -23231,7 +23231,7 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     </Entry>
     <Entry>
       <ID>5209</ID>
-      <DefaultText>Dein Cloud-Speicher ist voll. Lösche zuerst einige Spielständer oder exportierte Charaktere, und probiere es noch einmal.</DefaultText>
+      <DefaultText>Dein Cloud-Speicher ist voll. Lösche zuerst einige Spielstände oder exportierte Charaktere und versuche es dann erneut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23301,7 +23301,7 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     </Entry>
     <Entry>
       <ID>5242</ID>
-      <DefaultText>Sogut wie alle Zahlen und Werte sind nicht sichtbar</DefaultText>
+      <DefaultText>Fast alle Zahlen und Werte werden ausgeblendet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23317,6 +23317,11 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     <Entry>
       <ID>5285</ID>
       <DefaultText>The Forgotten Sanctum - Nicht installiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5287</ID>
+      <DefaultText>Der Ultimate</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
