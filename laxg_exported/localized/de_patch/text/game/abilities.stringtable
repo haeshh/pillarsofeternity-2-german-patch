@@ -404,7 +404,7 @@ Nach jedem Einsatz verbotener Techniken ist die Seele eines Mönches eine gewiss
     <Entry>
       <ID>4996</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Beschwörungen gewähren einen kurzen Bonus auf die Kraftstufe (und profitieren davon). Wie hoch der Bonus ist, richtet sich nach der Anzahl der enthaltenen Phrasen.
+Beschwörungen gewähren basierend auf der Anzahl der gehaltenen Phrasen einen kurzen Bonus auf die Kraftstufe (und profitieren davon).
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Beschwörungen verbrauchen alle verbleibenden Phrasen.
@@ -487,7 +487,7 @@ Erlittener Schaden deaktiviert kurzzeitig Seelenverstand.</DefaultText>
     </Entry>
     <Entry>
       <ID>5009</ID>
-      <DefaultText>Wenn der Verstand des Mediums frei ist, sich zu konzentrieren, schärft er sich und wird dadurch in die Lage versetzt, auf verborgene Mächte zuzugreifen und auf passive Weise Fokus zu erschaffen. Diese Wirkung wird jedoch kurzzeitig deaktiviert, wenn das Medium Schaden erleidet.</DefaultText>
+      <DefaultText>Wenn der Verstand des Mediums frei ist, um sich zu konzentrieren, schärft er sich, wodurch das Medium auf verborgene Kräfte zuzugreifen und passiv Fokus generieren kann. Diese Wirkung wird jedoch kurzzeitig außer Kraft gesetzt, wenn das Medium durch einen Angriff Schaden erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
