@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>700</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer den Feinden in der Nähe nach kurzer Verzögerung reinen Schaden zuzufügen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer den Feinden in der Nähe nach kurzer Verzögerung direkten Schaden zuzufügen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>705</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer ein Siegel zu hinterlassen, das Feinden reinen Schaden zufügt</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer ein Siegel zu hinterlassen, das Feinden direkten Schaden zufügt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
