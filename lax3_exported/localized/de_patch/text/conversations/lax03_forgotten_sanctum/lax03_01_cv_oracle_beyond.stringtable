@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„Dieser schreckliche Ort wäre nicht vollständig ohne einen ebenso schrecklichen Aufseher. Ich spüre kein Mitgefühlt in dieser Kreatur, Kapitän.“ Tekēhu umarmt sich selbst und zittert.</DefaultText>
+      <DefaultText>„Dieser schreckliche Ort wäre nicht vollständig ohne einen ebenso schrecklichen Aufseher. Ich spüre kein Mitgefühl in dieser Kreatur, Kapitän.“ Tekēhu umarmt sich selbst und zittert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Ah, ein Diener des Gottes von nichts echt zerrte uns in das Reich Nichts Echt.“</DefaultText>
+      <DefaultText>„Ah, ein Diener des Gottes von nichts Realem zerrte uns in das Reich von nichts Realem.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,12 +116,12 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Ein Orlaner, eindeutig! Schau dir das Fell an! Die Ohren! Das nicht annähernd so groß wie du!“</DefaultText>
+      <DefaultText>„Ein Orlaner, eindeutig! Schau dir das Fell an! Die Ohren! Das nicht annähernd so groß wie du sein!“</DefaultText>
       <FemaleText>„Eine Orlanerin, eindeutig! Schau dir das Fell an! Die Ohren! Das nicht annähernd so groß wie du sein!“</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>&lt;ispeech&gt;Du dringst in die Ruhestätte von Wael ein, und beschmutzt diese Sammlung mit deinen dreckigen Fingern.&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;Du dringst in die Ruhestätte von Wael ein und beschmutzt diese Sammlung mit deinen dreckigen Fingern.&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,8 +136,8 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>&lt;ispeech&gt;Wir meinten nicht deine Spezies, Gott-berührter.&lt;/ispeech&gt;</DefaultText>
-      <FemaleText>&lt;ispeech&gt;Wir meinten nicht deine Spezies, Gott-berührte.&lt;/ispeech&gt;</FemaleText>
+      <DefaultText>&lt;ispeech&gt;Wir meinten nicht deine Spezies, Gott-Berührter.&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Wir meinten nicht deine Spezies, Gott-Berührte.&lt;/ispeech&gt;</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
@@ -167,7 +167,7 @@
     <Entry>
       <ID>37</ID>
       <DefaultText>&lt;ispeech&gt;Wir möchten wissen – bist du noch ein Zauberer, der nach unverdienter Macht strebt? Oder etwas anderes?&lt;/ispeech&gt;</DefaultText>
-      <FemaleText>&lt;ispeech&gt;Wir möchten wissen – bist du noch eine Zaubererin, die nach unverdienter Macht strebt? Oder etwas anderes?&lt;/ispeech&gt;</FemaleText>
+      <FemaleText>&lt;ispeech&gt;Wir möchten wissen – bist du noch eine Zauberin, die nach unverdienter Macht strebt? Oder etwas anderes?&lt;/ispeech&gt;</FemaleText>
     </Entry>
     <Entry>
       <ID>38</ID>
@@ -192,7 +192,7 @@
     <Entry>
       <ID>42</ID>
       <DefaultText>„Nur was ich zuvor sagte. Monsterkiller. Kapitän. Schatzsucher.“</DefaultText>
-      <FemaleText>„Nur was ich zuvor sagte. Monsterkillerin. Kapitän. Schatzsucherin.“</FemaleText>
+      <FemaleText>„Nur was ich zuvor sagte. Monsterkillerin. Kapitänin. Schatzsucherin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>43</ID>
@@ -206,8 +206,8 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>„Wächter!“ Aloth schaut dich seitlich an und verzieht das Gesicht, um diskret 'Nein' zu sagen.</DefaultText>
-      <FemaleText>„Wächterin!“ Aloth schaut dich seitlich an und verzieht das Gesicht, um diskret 'Nein' zu sagen.</FemaleText>
+      <DefaultText>„Wächter!“ Aloth schaut dich seitlich an und verzieht das Gesicht, um diskret ‚Nein‘ zu sagen.</DefaultText>
+      <FemaleText>„Wächterin!“ Aloth schaut dich seitlich an und verzieht das Gesicht, um diskret ‚Nein‘ zu sagen.</FemaleText>
     </Entry>
     <Entry>
       <ID>46</ID>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Die massiven Augen des Wesens verengen sich, während seine Augenstiele auf dich drehen.</DefaultText>
+      <DefaultText>Die massiven Augen des Wesens verengen sich, während seine Augenstiele sich zu dir drehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Denkst du, es sagt 'wir' damit es nicht 'Ich' sagen muss?“ Er tippt sich mit dem Finger unterhalb seines rechten Auges.</DefaultText>
+      <DefaultText>„Denkst du, es sagt ‚wir‘, damit es nicht ‚ich‘ sagen muss?“ Er tippt sich mit dem Finger an eine Stelle unterhalb seines rechten Auges.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Ydwin kichert leise, und versteckt ihr Grinsen hinter geschlossener Hand.</DefaultText>
+      <DefaultText>Ydwin kichert leise und versteckt ihr Grinsen hinter geschlossener Hand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -419,7 +419,7 @@ Die Augenstiele des Wesens zittern.</DefaultText>
       <ID>89</ID>
       <DefaultText>&lt;ispeech&gt;Sie werden dich reinigen.&lt;/ispeech&gt;
 
-Die Tentakel des Wesens verlagern sich darunter, und winden sich in kleinen Halbkreisen um ihre Extremitäten.</DefaultText>
+Die Tentakel des Wesens verlagern sich darunter und winden sich in kleinen Halbkreisen um ihre Extremitäten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -529,7 +529,7 @@ Seine Augen zucken, als du ein statisches Kribbeln auf deiner Haut spürst.</Def
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>„Freaks wie du geben Göttern einen schlechten Namen.“</DefaultText>
+      <DefaultText>„Freaks wie du bringen Götter in Verruf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
