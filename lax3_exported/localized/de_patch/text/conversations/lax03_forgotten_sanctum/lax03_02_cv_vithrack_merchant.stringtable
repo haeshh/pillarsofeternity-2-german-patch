@@ -12,7 +12,7 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>&lt;ispeech&gt;Willkommen zurück, verbündeter Gestandener.&lt;/ispeech&gt;</DefaultText>
-      <FemaleText />
+      <FemaleText>&lt;ispeech&gt;Willkommen zurück, verbündete Gestandene.&lt;/ispeech&gt;</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -79,7 +79,7 @@ Ihre Mundwerkzeuge klicken leise.</DefaultText>
     <Entry>
       <ID>15</ID>
       <DefaultText>&lt;ispeech&gt;Diese hier stellt sie dem verbündeten Gestandenen gerne zur Verfügung, im Austausch für Vorräte oder Geld. &lt;/ispeech&gt;</DefaultText>
-      <FemaleText />
+      <FemaleText>&lt;ispeech&gt;Diese hier stellt sie der verbündeten Gestandenen gerne zur Verfügung, im Austausch für Vorräte oder Geld. &lt;/ispeech&gt;</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -101,7 +101,7 @@ Sie zuckt mit den Schultern und mit den Armen.</DefaultText>
     <Entry>
       <ID>19</ID>
       <DefaultText>&lt;ispeech&gt;Das ist das stille Geheimnis von dieser hier und geht den Gestandenen nichts an.&lt;/ispeech&gt;</DefaultText>
-      <FemaleText />
+      <FemaleText>&lt;ispeech&gt;Das ist das stille Geheimnis von dieser hier und geht die Gestandene nichts an.&lt;/ispeech&gt;</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
