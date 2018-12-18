@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>702</ID>
-      <DefaultText>Wirft, nach der Ermächtigung einer Fähigkeit, gezielte feindliche Zaubersprüche zurück auf deren Wirker (bis insgesamt {0:value:straight} Stufen abgewehrt werden)</DefaultText>
+      <DefaultText>Wirft, nach der Ermächtigung einer Fähigkeit, gezielte feindliche Zaubersprüche zurück auf deren Wirker (bis insgesamt {0:value:straight} Stufen abgewehrt wurden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,12 +141,12 @@
     </Entry>
     <Entry>
       <ID>718</ID>
-      <DefaultText>{0:value} Macht und um {0:extravalue:percentbonus} verlängerte Dauer zuträglicher Effekte bis zum Ende des Kampfes, wann immer ein Mitglied der Gruppe K.O. geht (Vervielfacht sich bis zu {0:triggercount} Mal)</DefaultText>
+      <DefaultText>{0:value} Macht und um {0:extravalue:percentbonus} verlängerte Dauer zuträglicher Effekte bis zum Ende des Kampfes, wann immer ein Mitglied der Gruppe k.o. geht (Vervielfacht sich bis zu {0:triggercount} Mal)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>719</ID>
-      <DefaultText>{0:value} Macht und um {0:extravalue:percentbonus} verlängerte Dauer von feindlichen Effekten bis zum Ende des Kampfes, wann immer ein Mitglied der Gruppe K.O. geht (Vervielfacht sich bis zu {0:triggercount} Mal)</DefaultText>
+      <DefaultText>{0:value} Macht und um {0:extravalue:percentbonus} verlängerte Dauer von feindlichen Effekten bis zum Ende des Kampfes, wann immer ein Mitglied der Gruppe k.o. geht (Vervielfacht sich bis zu {0:triggercount} Mal)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
