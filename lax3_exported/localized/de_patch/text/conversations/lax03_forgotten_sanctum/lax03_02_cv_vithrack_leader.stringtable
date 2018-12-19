@@ -35,17 +35,17 @@ Die telepathisch übermittelten Worte des Vithrack werden von einem durchdringen
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„Was ich mache geht dich gar nichts an!“</DefaultText>
+      <DefaultText>„Was ich mache, geht dich gar nichts an!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>&lt;ispeech&gt;Meine Person beklagt sich über das schlechte Urteilsvermögen des Gestandenen!&lt;/ispeech&gt;</DefaultText>
-      <FemaleText />
+      <FemaleText>&lt;ispeech&gt;Meine Person beklagt sich über das schlechte Urteilsvermögen der Gestandenen!&lt;/ispeech&gt;</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>&lt;ispeech&gt;„Angehen, angehen … Das Wort hat Sissak noch nie gehört. Aber ich weiß ein Wort, das Sissak gefällt. 'Eindringen'. Und noch eines – Festschmaus!“&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;„Angehen, angehen … Das Wort hat Sissak noch nie gehört. Aber ich weiß ein Wort, das Sissak gefällt. ‚Eindringen‘. Und noch eines – Festschmaus!“&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,10 +60,12 @@ Die telepathisch übermittelten Worte des Vithrack werden von einem durchdringen
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>&lt;ispeech&gt;Der Gestandene winkt diese Tierhaut mit großer Begeisterung. Lass Sissak lesen, ja?&lt;/ispeech&gt;
+      <DefaultText>&lt;ispeech&gt;Der Gestandene schwenkt diese Tierhaut mit großer Begeisterung. Lass Sissak lesen, ja?&lt;/ispeech&gt;
 
 Sissaks Blick fliegt über die Zeilen des Vertrags.</DefaultText>
-      <FemaleText />
+      <FemaleText>&lt;ispeech&gt;Die Gestandene schwenkt diese Tierhaut mit großer Begeisterung. Lass Sissak lesen, ja?&lt;/ispeech&gt;
+
+Sissaks Blick fliegt über die Zeilen des Vertrags.</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
@@ -79,8 +81,8 @@ Und dieses dumme, dumme Papier behauptet, wir müssen bleiben? Nein!&lt;/ispeech
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>&lt;ispeech&gt;Das Gelege meiner Wenigkeit wird dem Gestandenen ab sofort keinen Ärger mehr machen!&lt;/ispeech&gt;</DefaultText>
-      <FemaleText />
+      <DefaultText>&lt;ispeech&gt;Feh. Das Gelege meiner Wenigkeit wird dem Gestandenen ab sofort keinen Ärger mehr machen!&lt;/ispeech&gt;</DefaultText>
+      <FemaleText>&lt;ispeech&gt;Feh. Das Gelege meiner Wenigkeit wird der Gestandenen ab sofort keinen Ärger mehr machen!&lt;/ispeech&gt;</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
@@ -142,7 +144,7 @@ Sissak wühlt in seiner geräumigen Robe. Er zieht mehrere Handvoll Münzen und,
     <Entry>
       <ID>68</ID>
       <DefaultText>&lt;ispeech&gt;Der kleine Gestandene spricht von den Sichtlosen? Sie greifen sich von oben Gestandene, die den Kopf voller Gedanken haben, und sperren sie in Käfige.&lt;/ispeech&gt;</DefaultText>
-      <FemaleText />
+      <FemaleText>&lt;ispeech&gt;Die kleine Gestandene spricht von den Sichtlosen? Sie greifen sich von oben Gestandene, die den Kopf voller Gedanken haben, und sperren sie in Käfige.&lt;/ispeech&gt;</FemaleText>
     </Entry>
     <Entry>
       <ID>69</ID>
@@ -151,7 +153,7 @@ Sissak wühlt in seiner geräumigen Robe. Er zieht mehrere Handvoll Münzen und,
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>„Der Text bezieht sich auf das &lt;i&gt;Leben&lt;/i&gt; von Wael, nicht auf seine Existenz. Waels Körper ist schon vor zweitausend Jahren 'gestorben'. Dieser Vertrag war niemals rechtlich bindend.“</DefaultText>
+      <DefaultText>„Der Text bezieht sich auf das &lt;i&gt;Leben&lt;/i&gt; von Wael, nicht auf seine Existenz. Waels Körper ist schon vor zweitausend Jahren ‚gestorben‘. Dieser Vertrag war niemals rechtlich bindend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +218,7 @@ Seine vielen Augen leuchten und er lässt einen Freudenschrei los, so hoch, dass
     <Entry>
       <ID>109</ID>
       <DefaultText>&lt;ispeech&gt;Der Gestandene wird sofort damit aufhören, seine nasse Zunge flattern zu lassen. Sonst reißt Sissak sie dir heraus und verschlingt sie!&lt;/ispeech&gt;</DefaultText>
-      <FemaleText />
+      <FemaleText>&lt;ispeech&gt;Die Gestandene wird sofort damit aufhören, ihre nasse Zunge flattern zu lassen. Sonst reißt Sissak sie dir heraus und verschlingt sie!&lt;/ispeech&gt;</FemaleText>
     </Entry>
     <Entry>
       <ID>123</ID>
@@ -226,12 +228,12 @@ Seine vielen Augen leuchten und er lässt einen Freudenschrei los, so hoch, dass
     <Entry>
       <ID>124</ID>
       <DefaultText>&lt;ispeech&gt;Der Gestandene scheint ein wenig verwirrt zu sein. Nun, Sissak wird ihm das nicht übelnehmen.&lt;/ispeech&gt;</DefaultText>
-      <FemaleText />
+      <FemaleText>&lt;ispeech&gt;Die Gestandene scheint ein wenig verwirrt zu sein. Nun, Sissak wird ihr das nicht übelnehmen.&lt;/ispeech&gt;</FemaleText>
     </Entry>
     <Entry>
       <ID>126</ID>
       <DefaultText>&lt;ispeech&gt;Der Gestandene ist nichts als eine leckere Mahlzeit, die dem Nest des Sammelwütigen entkommen ist. Das hätte sich meine Wenigkeit gleich denken können.&lt;/ispeech&gt;</DefaultText>
-      <FemaleText />
+      <FemaleText>&lt;ispeech&gt;Die Gestandene ist nichts als eine leckere Mahlzeit, die dem Nest des Sammelwütigen entkommen ist. Das hätte sich meine Wenigkeit gleich denken können.&lt;/ispeech&gt;</FemaleText>
     </Entry>
     <Entry>
       <ID>127</ID>
@@ -241,7 +243,7 @@ Seine vielen Augen leuchten und er lässt einen Freudenschrei los, so hoch, dass
     <Entry>
       <ID>129</ID>
       <DefaultText>&lt;ispeech&gt;Der kleine Gestandene spricht gut, aber seine Gedanken sind wie schlecht geknüpfte Knoten in Sissaks innerem Ohr!&lt;/ispeech&gt; Er klingt amüsiert. Der Vithrack gibt einen abgehackten Schrei von sich.</DefaultText>
-      <FemaleText />
+      <FemaleText>&lt;ispeech&gt;Die kleine Gestandene spricht gut, aber ihre Gedanken sind wie schlecht geknüpfte Knoten in Sissaks innerem Ohr!&lt;/ispeech&gt; Er klingt amüsiert. Der Vithrack gibt einen abgehackten Schrei von sich.</FemaleText>
     </Entry>
     <Entry>
       <ID>130</ID>
@@ -332,14 +334,16 @@ Als Gegenleistung dafür tötet Sissak die Gestandenen-Eindringlinge.&lt;/ispeec
     <Entry>
       <ID>158</ID>
       <DefaultText>&lt;ispeech&gt;Dann könnte der stinkende Gestandene die Geschichte von seinem eigenen Tod nachlesen, bevor er ihn erlebt.&lt;/ispeech&gt;</DefaultText>
-      <FemaleText />
+      <FemaleText>&lt;ispeech&gt;Dann könnte die stinkende Gestandene die Geschichte von ihrem eigenen Tod nachlesen, bevor sie ihn erlebt.&lt;/ispeech&gt;</FemaleText>
     </Entry>
     <Entry>
       <ID>159</ID>
       <DefaultText>&lt;ispeech&gt;Nein. Wenn der Gestandene mich verlässt, um nach dem Papier zu suchen, hat Sissak seine Pflicht gegenüber dem Blinden Auge versäumt. Das bedeutet, Sissaks Schlüpflinge müssen hungern.
 
 Der Gestandene wird jetzt sterben!&lt;/ispeech&gt;</DefaultText>
-      <FemaleText />
+      <FemaleText>&lt;ispeech&gt;Nein. Wenn die Gestandene mich verlässt, um nach dem Papier zu suchen, hat Sissak seine Pflicht gegenüber dem Blinden Auge versäumt. Das bedeutet, Sissaks Schlüpflinge müssen hungern.
+
+Die Gestandene wird jetzt sterben!&lt;/ispeech&gt;</FemaleText>
     </Entry>
     <Entry>
       <ID>160</ID>
@@ -368,7 +372,9 @@ Sissaks Vorfahr hat sogar diesen blöden, hauchdünnen Fetzen Papier unterschrie
       <DefaultText>&lt;ispeech&gt;Sissak ist dem Eindringling dankbar! Das Gelege meiner Wenigkeit wird dem Gestandenen ab sofort keinen Ärger mehr bereiten!&lt;/ispeech&gt;
 
 Sissak wühlt in seiner geräumigen Robe. Er zieht mehrere Handvoll Münzen und, merkwürdigerweise, eine Halskette hervor.</DefaultText>
-      <FemaleText />
+      <FemaleText>&lt;ispeech&gt;Sissak ist dem Eindringling dankbar! Das Gelege meiner Wenigkeit wird der Gestandenen ab sofort keinen Ärger mehr bereiten!&lt;/ispeech&gt;
+
+Sissak wühlt in seiner geräumigen Robe. Er zieht mehrere Handvoll Münzen und, merkwürdigerweise, eine Halskette hervor.</FemaleText>
     </Entry>
     <Entry>
       <ID>168</ID>
@@ -378,7 +384,7 @@ Sissak wühlt in seiner geräumigen Robe. Er zieht mehrere Handvoll Münzen und,
     <Entry>
       <ID>169</ID>
       <DefaultText>„Das ist nicht in Ordnung, Wächter. Gibt es etwas, das wir tun können, um zu helfen?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Das ist nicht in Ordnung, Wächterin. Gibt es etwas, das wir tun können, um zu helfen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>171</ID>
@@ -394,7 +400,7 @@ Das Feuer tanzt auf deiner Hand. Als es schließlich ausgeht, lässt es bloß ei
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>Sissak springt mit einem schrillen Hissen zurück. Als nichts weiter passiert, kommt er langsam wieder näher und starrt auf das Häufchen Asche in deiner Hand.</DefaultText>
+      <DefaultText>Sissak springt mit einem schrillen Zischen zurück. Als nichts weiter passiert, kommt er langsam wieder näher und starrt auf das Häufchen Asche in deiner Hand.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

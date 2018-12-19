@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Die Entität kollabiert in einem Haufen faltigen Fleisches und klaffender Lücken und entlässt ein letztes Mal einen stinkenden Atem tief aus seinem Innern. 
+      <DefaultText>Die Entität kollabiert in einem Haufen faltigen Fleisches und klaffender Lücken und entlässt ein letztes Mal einen stinkenden Atem tief aus ihrem Innern. 
 
 Essenz umgibt dich und eine Stimme hallt am Rande des Hörbaren.</DefaultText>
       <FemaleText />
@@ -23,7 +23,7 @@ Essenz umgibt dich und eine Stimme hallt am Rande des Hörbaren.</DefaultText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Du schläfst ohne zu träumen, sagt eine dritte Stimme, es klingt wie ein leises Flüstern.</DefaultText>
+      <DefaultText>„Du schläfst ohne zu träumen,“ sagt eine dritte Stimme, es klingt wie ein leises Flüstern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,7 +123,7 @@ Essenz umgibt dich und eine Stimme hallt am Rande des Hörbaren.</DefaultText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>„Du schreitest dort, was niemand sehen sollte!“</DefaultText>
+      <DefaultText>„Du schreitest an einem Ort, den niemand sehen sollte!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,7 +138,7 @@ Essenz umgibt dich und eine Stimme hallt am Rande des Hörbaren.</DefaultText>
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Die grauenhafte Kreatur türmt sich vor dir auf. Ihre Gliedmaßen – kaum mehr als verschlungene Streifen muskulöser Ranken – winden sich und pulsieren, während die Dutzend Gesichter, die über sein Fleisch huschen, starren und kreischen.</DefaultText>
+      <DefaultText>Die grauenhafte Kreatur türmt sich vor dir auf. Ihre Gliedmaßen – kaum mehr als verschlungene Streifen muskulöser Ranken – winden sich und pulsieren, während das Dutzend Gesichter, die über sein Fleisch huschen, starren und kreischen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,7 +248,9 @@ Aber du weißt nicht, welche Erinnerung den Weg in die Tiefen freimachen wird. &
       <DefaultText>„Ein weiteres abscheuliches Werkzeug der Götter vernichtet. Gut gemacht, Wächter.“
 
 Sie wischt das Blut von ihrer Klinge.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ein weiteres abscheuliches Werkzeug der Götter vernichtet. Gut gemacht, Wächterin.“
+
+Sie wischt das Blut von ihrer Klinge.</FemaleText>
     </Entry>
     <Entry>
       <ID>57</ID>
@@ -287,7 +289,7 @@ Sie wischt das Blut von ihrer Klinge.</DefaultText>
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>„Ernsthaft? &lt;i&gt;Das&lt;/i&gt; ist der Schlüssel des Titanen? Das doch ist absurd!“</DefaultText>
+      <DefaultText>„Ernsthaft? &lt;i&gt;Das&lt;/i&gt; ist der Schlüssel des Titanen? Das ist doch absurd!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
