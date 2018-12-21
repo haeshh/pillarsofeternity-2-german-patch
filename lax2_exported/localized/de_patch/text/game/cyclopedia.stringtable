@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>40</EntryCount>
+  <EntryCount>41</EntryCount>
   <Entries>
     <Entry>
       <ID>992</ID>
@@ -204,6 +204,11 @@ Neriscyrlas’ Situation war vollkommen einzigartig und Eora wird möglicherweis
     <Entry>
       <ID>1062</ID>
       <DefaultText>Ein formloser Ordhjóma-Gruß</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1113</ID>
+      <DefaultText>An Ordhjóma term for an elite class of temple guards renowned for laying down their lives in the service of protecting holy sites.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
