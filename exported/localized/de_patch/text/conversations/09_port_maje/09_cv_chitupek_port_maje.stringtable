@@ -9,14 +9,18 @@
       <DefaultText>„Es ist schön, dich wohlauf zu sehen, Wächter. Die Wildschweine waren wohl auf einfaches Fleisch aus.“
 
 Chitupec grüßt dich mit einem erleichterten Nicken und überprüft die Pistole an seiner Hüfte.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Es ist schön, dich wohlauf zu sehen, Wächterin. Die Wildschweine waren wohl auf einfaches Fleisch aus.“
+
+Chitupec grüßt dich mit einem erleichterten Nicken und überprüft die Pistole an seiner Hüfte.</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>„Wächter? Bist du das?“
 
 Die geisterhafte Gestalt wendet sich dir zu. Ihre Stimme wird lauter und erwartungsvoll.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wächterin? Bist du das?“
+
+Die geisterhafte Gestalt wendet sich dir zu. Ihre Stimme wird lauter und erwartungsvoll.</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -120,12 +124,12 @@ Chitupec schüttelt den Kopf und seufzt.</DefaultText>
     <Entry>
       <ID>20</ID>
       <DefaultText>„Pass auf die Wildschweine auf, Wächter! Ich kann sie nicht aufhalten!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Pass auf die Wildschweine auf, Wächterin! Ich kann sie nicht aufhalten!“</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>„Wächter! Hier drüben!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wächterin! Hier drüben!“</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -135,7 +139,7 @@ Chitupec schüttelt den Kopf und seufzt.</DefaultText>
     <Entry>
       <ID>25</ID>
       <DefaultText>„Ich wurde gewarnt, dass jenen, die dir folgen, seltsame Dinge zustoßen, Wächter.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich wurde gewarnt, dass jenen, die dir folgen, seltsame Dinge zustoßen, Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -212,7 +216,9 @@ Chitupec schüttelt den Kopf und seufzt.</DefaultText>
       <DefaultText>„Ich dachte, das Ende würde anders kommen.“
 
 „Du bist ein Wächter. Und somit unser Kapitän. Sag mir, wohin soll ich gehen?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich dachte, das Ende würde anders kommen.“
+
+„Du bist eine Wächterin. Und somit unser Kapitän. Sag mir, wohin soll ich gehen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>40</ID>
@@ -242,7 +248,7 @@ Chitupec schüttelt den Kopf und seufzt.</DefaultText>
     <Entry>
       <ID>45</ID>
       <DefaultText>„Danke, Wächter. Ich werde eine Weile bei dir bleiben. Bis mein Pfad klar ist.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Danke, Wächterin. Ich werde eine Weile bei dir bleiben. Bis mein Pfad klar ist.“</FemaleText>
     </Entry>
     <Entry>
       <ID>46</ID>
