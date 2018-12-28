@@ -115,7 +115,9 @@ Furrante winkt mit einer Hand dem Orlaner an seiner Seite zu.</DefaultText>
       <DefaultText>„Du wirst das nicht bereuen, Wächter. Zumindest solange du uns ordentlich mit Grog und nur wenig mit Zwiebeln versorgst. Diese schmutzigen Scheißäpfel konnte ich noch nie vertragen, und ich vermute, das wird sich auch nie ändern.“
 
 Er klopft sich auf den Bauch, als er sich zu dir neigt.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Du wirst das nicht bereuen, Wächterin. Zumindest solange du uns ordentlich mit Grog und nur wenig mit Zwiebeln versorgst. Diese schmutzigen Scheißäpfel konnte ich noch nie vertragen, und ich vermute, das wird sich auch nie ändern.“
+
+Er klopft sich auf den Bauch, als er sich zu dir neigt.</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -247,7 +249,7 @@ Aber dann lächelt er listig und neigt dir seinen Kopf zu, als wolle er dich in 
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„Warum sollen nicht-Vailianer in die Príncipi aufgenommen werden, wenn sie Probleme verursachen werden?“</DefaultText>
+      <DefaultText>„Warum sollen Nicht-Vailianer in die Príncipi aufgenommen werden, wenn sie Probleme verursachen werden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -315,7 +317,7 @@ Mit vorsichtigen, langsamen Bewegungen holt er einen Beutel Münzen unter seiner
     <Entry>
       <ID>84</ID>
       <DefaultText>„Ehrlich gesagt bist du der erste Drachentöter, den ich je traf – außerhalb seines Grabes.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ehrlich gesagt bist du die erste Drachentöterin, die ich je traf – außerhalb ihres Grabes.“</FemaleText>
     </Entry>
     <Entry>
       <ID>85</ID>
@@ -330,14 +332,16 @@ Mit vorsichtigen, langsamen Bewegungen holt er einen Beutel Münzen unter seiner
     <Entry>
       <ID>90</ID>
       <DefaultText>„Als Verbündeter der Schmelztiegelritter wollte dich Benweth wohl etwas vom hohen Pferd holen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Als Verbündete der Schmelztiegelritter wollte dich Benweth wohl etwas vom hohen Pferd holen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>91</ID>
       <DefaultText>„Willst du behaupten, wenn wir dich ärgern, wirst du keine Bedrohung für uns sein? Eccosi – entschuldige, wenn ich dir das nicht glaube, Drachentöter.“
 
 Der Kapitän lacht und reibt sich den Rüschenkragen an seiner Kehle.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Willst du behaupten, wenn wir dich ärgern, wirst du keine Bedrohung für uns sein? Eccosi – entschuldige, wenn ich dir das nicht glaube, Drachentöterin.“
+
+Der Kapitän lacht und reibt sich den Rüschenkragen an seiner Kehle.</FemaleText>
     </Entry>
     <Entry>
       <ID>93</ID>
@@ -352,7 +356,7 @@ Der Kapitän lacht und reibt sich den Rüschenkragen an seiner Kehle.</DefaultTe
     <Entry>
       <ID>99</ID>
       <DefaultText>„Als einer mit einer – sagen wir mal – ‚Doemenel-Denkweise‘ verstehst du das sicher gut.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Als eine mit einer – sagen wir mal – ‚Doemenel-Denkweise‘ verstehst du das sicher gut.“</FemaleText>
     </Entry>
     <Entry>
       <ID>100</ID>
@@ -446,7 +450,7 @@ Er erhebt sich von einer tiefen Verbeugung, die du nicht gesehen hast, und du bi
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>&lt;i&gt;Würfel werden geworfen, Rattern und Drachenaugen, Felicia in Kielraum mit Arno, donnernde Wellen – sollte man ignorieren – Kapitän Furrante an seinem Schreibtisch, ein Handspiegel haltend, zupft sich die Haare von seinen Ohren. Nach außen, Serafen!
+      <DefaultText>&lt;i&gt;Würfel werden geworfen, Rattern und Drachenaugen, Felicia in Kielraum mit Arno, donnernde Wellen – sollte man ignorieren – Kapitän Furrante an seinem Schreibtisch, einen Handspiegel haltend, zupft sich die Haare von seinen Ohren. Nach außen, Serafen!
 
 Nach außen, dann drehen, und da, zu hell und zu entzweit, folge dem Faden zu einem Flüstern, dunkel und hart, verpackt in einen zerfetzten Orkan, alle an Bord eines Schiffs namens:&lt;/i&gt; Defiant.
 
@@ -521,7 +525,7 @@ Serafen dreht sich zu dir und verbeugt sich wieder.</DefaultText>
     <Entry>
       <ID>142</ID>
       <DefaultText>„Aye, es gibt ganze Schiffsladungen, die ich dir nicht erzähle, Wächter. Ich werde nichts von dem Mädel erzählen, das ich in Todeslicht hatte. Ich werde dir auch nicht erzählen, was wir beim letzten Mal gemacht oder nicht gemacht haben. Und ganz sicher erzähle ich dir nichts von dem geheimen Piratenhandschlag, der dir die Tür öffnet.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Aye, es gibt ganze Schiffsladungen, die ich dir nicht erzähle, Wächterin. Ich werde nichts von dem Mädel erzählen, das ich in Todeslicht hatte. Ich werde dir auch nicht erzählen, was wir beim letzten Mal gemacht oder nicht gemacht haben. Und ganz sicher erzähle ich dir nichts von dem geheimen Piratenhandschlag, der dir die Tür öffnet.“</FemaleText>
     </Entry>
     <Entry>
       <ID>149</ID>
@@ -626,7 +630,9 @@ Er grinst breit.</DefaultText>
       <DefaultText>„Wie du willst, Kapitän Wächter. Hoffen wir, dass die Defiant ein richtig starkes Oger-knackendes Schiff ist.“
 
 Die Lippen des Orlaners verziehen sich zu einem Schmunzeln und er zuckt mit den Schultern, Hände offen nach oben haltend.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wie du willst, Kapitän Wächterin. Hoffen wir, dass die Defiant ein richtig starkes Oger-knackendes Schiff ist.“
+
+Die Lippen des Orlaners verziehen sich zu einem Schmunzeln und er zuckt mit den Schultern, Hände offen nach oben haltend.</FemaleText>
     </Entry>
     <Entry>
       <ID>171</ID>
@@ -668,7 +674,7 @@ Die Lippen des Orlaners verziehen sich zu einem Schmunzeln und er zuckt mit den 
     <Entry>
       <ID>181</ID>
       <DefaultText>„Du warst eine Weile auf See, dein Verstand spielt dir schon einige Streiche, was? Meiner spielt auch Streiche, mit anderen. Ist zwar meist nicht viel, vielleicht einen Schatten sehen, ein paar Geräusche hören. Außer, die Person ist sensibel. Wie ein Wächter, zum Beispiel.“ Er zwinkert.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Du warst eine Weile auf See, dein Verstand spielt dir schon einige Streiche, was? Meiner spielt auch Streiche, mit anderen. Ist zwar meist nicht viel, vielleicht einen Schatten sehen, ein paar Geräusche hören. Außer, die Person ist sensibel. Wie eine Wächterin, zum Beispiel.“ Er zwinkert.</FemaleText>
     </Entry>
     <Entry>
       <ID>182</ID>
