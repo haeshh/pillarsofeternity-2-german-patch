@@ -25,7 +25,7 @@ Mit einem Schlag streckt sich die Energie nach dir aus.</DefaultText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Die Engwithan-Ruine um dich herum zerbirst, zerbricht in inkohärente Formen, löst sich in Staub auf und fällt in einen unendlichen tiefen Brunnen dunkelgrauen Rauchs. Sogar der Boden selbst löst sich in Nichts auf. Übrig bleiben nur die trübe Weite des Zwischenreichs, die Adrasäule und ein Strang goldener Fäden, die in der Säule verwurzelt sind und sich weit in die Ferne erstrecken.</DefaultText>
+      <DefaultText>Die engwithanische Ruine um dich herum zerbirst, zerbricht in inkohärente Formen, löst sich in Staub auf und fällt in einen unendlich tiefen Brunnen dunkelgrauen Rauchs. Sogar der Boden selbst löst sich in Nichts auf. Übrig bleiben nur die trübe Weite des Zwischenreichs, die Adrasäule und ein Strang goldener Fäden, die in der Säule verwurzelt sind und sich weit in die Ferne erstrecken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -49,7 +49,7 @@ Eine heftige Kraft reißt dich mit unglaublicher Geschwindigkeit entlang des Sei
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Eothas wird langsamer und bleibt stehen. Sein Kopf dreht sich langsam, bis seine großen brennenden Auge zurück entlang des Seils blicken.
+      <DefaultText>Eothas wird langsamer und bleibt stehen. Sein Kopf dreht sich langsam, bis seine großen brennenden Augen zurück entlang des Seils blicken.
 
 Als eure Blicke sich treffen, wallt unglaubliche Freude vermischt mit tiefer Traurigkeit in dir auf. Eine ähnliche Verzweiflung hast du in verlorenen Seelen gespürt, aber nie in dieser Intensität.
 
@@ -58,7 +58,7 @@ Eine beruhigende Stimme driftet in deine Gedanken.</DefaultText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Das Zwischenreich wird dunkel. Eine Sekunde lang fühlst du eine Mischung aus Übelkeit und einem Gefühl, als ob du dich drehen und fallen würdest. Dann ist der Moment vorbei. Dein Bewusstsein ist in die Engwithan-Arena zurückgekehrt.
+      <DefaultText>Das Zwischenreich wird dunkel. Eine Sekunde lang fühlst du eine Mischung aus Übelkeit und einem Gefühl, als ob du dich drehen und fallen würdest. Dann ist der Moment vorbei. Dein Bewusstsein ist in die engwithanische Arena zurückgekehrt.
 
 Die Welt liegt auf der Seite und die Adrasäule steht auf dem Kopf. Das Gefühl, auf der Decke zu stehen, lässt dich zusammenzucken. Die Desorientierung überwältigt dich und du sinkst neben der leuchtenden Adrasäule auf die Knie.</DefaultText>
       <FemaleText />
@@ -123,7 +123,9 @@ Die Seelen spüren deine Anwesenheit und schreien weiter verzweifelt nach dir.</
       <DefaultText>Das Zwischenreich zu durchschreiten, erfordert eine Menge Mut, selbst für einen Wächter.
 
 Eine Woge an Bewunderung breitet sich aus dem Herzen des Gottes aus, so kräftig, dass sie dich für einen Moment überwältigt.</DefaultText>
-      <FemaleText />
+      <FemaleText>Das Zwischenreich zu durchschreiten, erfordert eine Menge Mut, selbst für eine Wächterin.
+
+Eine Woge an Bewunderung breitet sich aus dem Herzen des Gottes aus, so kräftig, dass sie dich für einen Moment überwältigt.</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -155,7 +157,7 @@ Ein gewaltiges Licht scheint aus Eothas’ Stirn heraus, so hell, dass selbst di
     <Entry>
       <ID>31</ID>
       <DefaultText>„Die Zeit kann für keinen von uns anhalten, Wächter. Nicht einmal für mich.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Die Zeit kann für keinen von uns anhalten, Wächterin. Nicht einmal für mich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
@@ -169,12 +171,12 @@ Du hörst die Seelen in ihm für einen Moment noch aufschreien, bevor dein Bewus
     <Entry>
       <ID>33</ID>
       <DefaultText>Die Sonne wird wieder aufgehen, Wächter. Du musst nur warten, bis ihr Licht kommt.</DefaultText>
-      <FemaleText />
+      <FemaleText>Die Sonne wird wieder aufgehen, Wächterin. Du musst nur warten, bis ihr Licht kommt.</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>„Ich benötige es immer noch, aber habe keine Angst, Wächter. Die Morgendämmerung wird rechtzeitig für uns alle kommen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich benötige es immer noch, aber habe keine Angst, Wächterin. Die Morgendämmerung wird rechtzeitig für uns alle kommen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>
