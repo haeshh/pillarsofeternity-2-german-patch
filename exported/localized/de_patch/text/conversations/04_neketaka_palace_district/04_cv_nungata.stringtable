@@ -14,12 +14,12 @@ Du bewegst dich durch ihr Blickfeld. Sie blinzelt und richtet sich noch weiter a
     <Entry>
       <ID>3</ID>
       <DefaultText>„Was sagst du, Freund?“ Mit einem Grinsen bedeutet Nungata dir weiterzugehen.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Was sagst du, Freundin?“ Mit einem Grinsen bedeutet Nungata dir weiterzugehen.</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>„Jäger oder Gejagter? Hmm.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Jägerin oder Gejagte? Hmm.“</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -130,14 +130,16 @@ Nungata legt den Kopf beiseite und übergibt dir die vereinbarte Bezahlung.</Def
     <Entry>
       <ID>27</ID>
       <DefaultText>„Jäger. Es ist mir immer ein Vergnügen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Jägerin. Es ist mir immer ein Vergnügen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>„Du erledigst gute Arbeit, Jäger – aber es gibt einfach keine Kopfgelder mehr zu vergeben.“
 
 „Dies ist eine Quelle, die sich nach einer gewissen Zeit immer wieder von selbst auffüllt, behaupte ich einmal.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Du erledigst gute Arbeit, Jägerin – aber es gibt einfach keine Kopfgelder mehr zu vergeben.“
+
+„Dies ist eine Quelle, die sich nach einer gewissen Zeit immer wieder von selbst auffüllt, behaupte ich einmal.“</FemaleText>
     </Entry>
     <Entry>
       <ID>38</ID>
@@ -161,7 +163,7 @@ Sie zwinkert.</DefaultText>
     <Entry>
       <ID>41</ID>
       <DefaultText>„Ha! &lt;i&gt;Kopfgelder&lt;/i&gt;, du wilder Steinbock!“ Sie lacht leise in sich hinein und wendet sich ab. Dabei hebt sie die Hand, um ihr Erröten zu verbergen.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ha! &lt;i&gt;Kopfgelder&lt;/i&gt;, du wilde Bergziege!“ Sie lacht leise in sich hinein und wendet sich ab. Dabei hebt sie die Hand, um ihr Erröten zu verbergen.</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -229,7 +231,7 @@ Sie atmet tief aus und legt die Hand zurück in den Schoß.</DefaultText>
     <Entry>
       <ID>63</ID>
       <DefaultText>„Was meinst du … Jäger?“ Mit einem Zwinkern winkt Nungata dich herbei.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Was meinst du … Jägerin?“ Mit einem Zwinkern winkt Nungata dich herbei.</FemaleText>
     </Entry>
     <Entry>
       <ID>64</ID>
@@ -249,7 +251,7 @@ Sie atmet tief aus und legt die Hand zurück in den Schoß.</DefaultText>
     <Entry>
       <ID>67</ID>
       <DefaultText>„Das vermutest du richtig, Jäger.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Das vermutest du richtig, Jägerin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>68</ID>
@@ -294,7 +296,7 @@ Sie atmet tief aus und legt die Hand zurück in den Schoß.</DefaultText>
     <Entry>
       <ID>76</ID>
       <DefaultText>„Frag nur, Jäger.“ Nungata dreht die Hand mit der Handfläche nach oben und beugt sich vor.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Frag nur, Jägerin.“ Nungata dreht die Hand mit der Handfläche nach oben und beugt sich vor.</FemaleText>
     </Entry>
     <Entry>
       <ID>77</ID>
@@ -432,7 +434,7 @@ Sie atmet tief aus und legt die Hand zurück in den Schoß.</DefaultText>
     <Entry>
       <ID>104</ID>
       <DefaultText>„Gute Arbeit, Jäger! Du musst dich einer wahrhaft guten Gesundheit erfreuen, wenn du Vessalis Gift überleben konntest.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Gute Arbeit, Jägerin! Du musst dich einer wahrhaft guten Gesundheit erfreuen, wenn du Vessalis Gift überleben konntest.“</FemaleText>
     </Entry>
     <Entry>
       <ID>105</ID>

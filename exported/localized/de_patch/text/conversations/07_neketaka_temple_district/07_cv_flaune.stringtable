@@ -26,7 +26,9 @@ Mit ein paar schnellen Bewegungen winkt sie dich herbei.</DefaultText>
       <DefaultText>„Wächter? [Player Name]? Kannst du mich hören?“
 
 Du hebst den Kopf – und findest dich umgeben von ängstlichen Gesichtern. Flaune zieht den Finger wieder zurück, mit dem sie an deine Schläfe getippt hat, und stolpert beinahe rückwärts.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wächterin? [Player Name]? Kannst du mich hören?“
+
+Du hebst den Kopf – und findest dich umgeben von ängstlichen Gesichtern. Flaune zieht den Finger wieder zurück, mit dem sie an deine Schläfe getippt hat, und stolpert beinahe rückwärts.</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -69,7 +71,7 @@ Elette seufzt.</FemaleText>
     <Entry>
       <ID>11</ID>
       <DefaultText>„Wofür auch immer du gekommen bist, Wächter – du kommst zu spät.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wofür auch immer du gekommen bist, Wächterin – du kommst zu spät.“</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
@@ -84,7 +86,7 @@ Elette seufzt.</FemaleText>
     <Entry>
       <ID>14</ID>
       <DefaultText>„Ich hoffe, du bist beschäftigt, Wächter. Wir müssen noch ein paar kleine Tests anstellen. Noch sind wir nicht ganz bereit für die wahre Sache.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich hoffe, du bist beschäftigt, Wächterin. Wir müssen noch ein paar kleine Tests anstellen. Noch sind wir nicht ganz bereit für die wahre Sache.“</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -99,7 +101,7 @@ Elette seufzt.</FemaleText>
     <Entry>
       <ID>17</ID>
       <DefaultText>„Es sind Qualitäten, zu deren Erkundung ein Wächter auf geradezu einzigartige Weise geeignet ist. Du bist genau das, was uns gefehlt hat.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Es sind Qualitäten, zu deren Erkundung eine Wächterin auf geradezu einzigartige Weise geeignet ist. Du bist genau das, was uns gefehlt hat.“</FemaleText>
     </Entry>
     <Entry>
       <ID>18</ID>
@@ -240,7 +242,7 @@ Flaune seufzt. „Wir werden hier aufräumen. Uns um die Verwundeten kümmern. D
       <ID>45</ID>
       <DefaultText>„Ich kann es nicht glauben, dass sie alle …“
 
-„Schau mal, am besten gehst du zurück zum Hauptquartier.“ Sag denen Bescheid, was passiert ist. Ich … Ich werde in der Zwischenzeit hier aufräumen.</DefaultText>
+„Schau mal, am besten gehst du zurück zum Hauptquartier. Sag denen Bescheid, was passiert ist. Ich … Ich werde in der Zwischenzeit hier aufräumen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,7 +332,7 @@ Nachdem nun feststeht, dass du sicher bist, verwandelt Flaunes Mitgefühl sich r
     <Entry>
       <ID>66</ID>
       <DefaultText>„Sientere, Wächter, wirklich. Anscheinend haben wir deinen Geist weiter fort gesendet als geplant, und der Rest von dir ist nicht mitgekommen. Das liegt nicht ganz außerhalb unserer Vorhersagen, aber es ist auch nicht das Ergebnis, das wir angestrebt haben.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Sientere, Wächterin, wirklich. Anscheinend haben wir deinen Geist weiter fort gesendet als geplant, und der Rest von dir ist nicht mitgekommen. Das liegt nicht ganz außerhalb unserer Vorhersagen, aber es ist auch nicht das Ergebnis, das wir angestrebt haben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>67</ID>
@@ -432,7 +434,7 @@ Flaune zuckt mit den Schultern, aber ihr resignierter Gesichtsausdruck verhärte
     <Entry>
       <ID>88</ID>
       <DefaultText>„Mach dich davon, Wächter. Ich glaube, wir sind hier fertig, oder etwa nicht?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Mach dich davon, Wächterin. Ich glaube, wir sind hier fertig, oder etwa nicht?“</FemaleText>
     </Entry>
     <Entry>
       <ID>89</ID>
@@ -479,7 +481,7 @@ Sie lacht.</DefaultText>
     <Entry>
       <ID>101</ID>
       <DefaultText>„Wenn allerdings jemand in der Lage wäre, diese Essenz des Zwischenreichs zu spüren, sie vielleicht sogar zu manipulieren … Jemand wie ein Wächter zum Beispiel …“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wenn allerdings jemand in der Lage wäre, diese Essenz des Zwischenreichs zu spüren, sie vielleicht sogar zu manipulieren … Jemand wie eine Wächterin zum Beispiel …“</FemaleText>
     </Entry>
     <Entry>
       <ID>105</ID>
@@ -735,7 +737,9 @@ Elette schnaubt.</DefaultText>
       <DefaultText>„Ach, Wächter … Sientere, ich habe keine Zeit für Artigkeiten. Wir haben die Anweisung erhalten, die Stadt einstweilen zu verlassen.“
 
 „Wenigstens bis es wieder sicher ist. Was aber bedeutet, wir können ebenso gut gleich nach Hause zurücksegeln.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ach, Wächterin … Sientere, ich habe keine Zeit für Artigkeiten. Wir haben die Anweisung erhalten, die Stadt einstweilen zu verlassen.“
+
+„Wenigstens bis es wieder sicher ist. Was aber bedeutet, wir können ebenso gut gleich nach Hause zurücksegeln.“</FemaleText>
     </Entry>
     <Entry>
       <ID>161</ID>
@@ -774,7 +778,7 @@ Kopfschüttelnd wirft Elette einen düsteren Blick auf die Ausrüstung.</Default
     <Entry>
       <ID>168</ID>
       <DefaultText>„Wir müssen uns beeilen. Per Complanca, Wächter, lass … Lass uns einfach in Frieden.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wir müssen uns beeilen. Per Complanca, Wächterin, lass … Lass uns einfach in Frieden.“</FemaleText>
     </Entry>
     <Entry>
       <ID>169</ID>
@@ -789,7 +793,7 @@ Kopfschüttelnd wirft Elette einen düsteren Blick auf die Ausrüstung.</Default
     <Entry>
       <ID>171</ID>
       <DefaultText>„Ac, und genau auf dieses Ziel hin arbeiten wir. Lebe wohl, Wächter.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ac, und genau auf dieses Ziel hin arbeiten wir. Lebe wohl, Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>172</ID>
@@ -799,7 +803,7 @@ Kopfschüttelnd wirft Elette einen düsteren Blick auf die Ausrüstung.</Default
     <Entry>
       <ID>174</ID>
       <DefaultText>„Ich fürchte, hier wirst du nichts finden, Wächter.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich fürchte, hier wirst du nichts finden, Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>175</ID>
@@ -921,7 +925,7 @@ Flaune macht eine lässige, beruhigende Geste.</DefaultText>
     <Entry>
       <ID>200</ID>
       <DefaultText>„Ich fürchte nur, hier laufen leider keine Ersatz-Wächter herum. Wir haben eine neue Grenze erreicht, und momentan bist du der Einzige, der sie erforschen kann.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich fürchte nur, hier laufen leider keine Ersatz-Wächter herum. Wir haben eine neue Grenze erreicht, und momentan bist du die Einzige, die sie erforschen kann.“</FemaleText>
     </Entry>
     <Entry>
       <ID>201</ID>
@@ -954,7 +958,7 @@ Flaune legt die Hand gegen die Brust und fächert sich mit der anderen Luft zu.<
       <ID>206</ID>
       <DefaultText>„Bis dahin wollen unsere Freunde im Hauptquartier bestimmt das Neueste erfahren, da bin ich mir sicher. Und sie werden sichergehen wollen, dass ich dir keinen ernsthaften Schaden zugefügt habe.“
 
-„Wir sagen Ihnen Bescheid, wenn wir hier bereit sind.“</DefaultText>
+„Wir sagen ihnen Bescheid, wenn wir hier bereit sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -985,7 +989,7 @@ Flaune legt die Hand gegen die Brust und fächert sich mit der anderen Luft zu.<
     <Entry>
       <ID>213</ID>
       <DefaultText>„Agracima, Wächter. Ich habe dir mein Leben zu verdanken. Glaube nicht, dass ich das vergessen hätte. Ich zittere immer noch.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Agracima, Wächterin. Ich habe dir mein Leben zu verdanken. Glaube nicht, dass ich das vergessen hätte. Ich zittere immer noch.“</FemaleText>
     </Entry>
     <Entry>
       <ID>215</ID>
@@ -1038,7 +1042,7 @@ Sie kneift die Augen zusammen.</DefaultText>
     <Entry>
       <ID>223</ID>
       <DefaultText>„Du bist nicht einer unserer Patienten. Ah, Madiccho – du! Du bist dieser Wächter. Sientere – es tut mir leid. Wir waren hier sehr beschäftigt.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Du bist nicht eine unserer Patienten. Ah, Madiccho – du! Du bist diese Wächterin. Sientere – es tut mir leid. Wir waren hier sehr beschäftigt.“</FemaleText>
     </Entry>
     <Entry>
       <ID>224</ID>
@@ -1077,7 +1081,7 @@ Sie grinst boshaft und zwinkert dir an Pallegina vorbei zu.</DefaultText>
     <Entry>
       <ID>230</ID>
       <DefaultText>„In Ordnung, Wächter. Und denk daran – konzentriere dich auf den Lichtstrahl!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„In Ordnung, Wächterin. Und denk daran – konzentriere dich auf den Lichtstrahl!“</FemaleText>
     </Entry>
     <Entry>
       <ID>232</ID>
@@ -1165,7 +1169,7 @@ Flaune schmunzelt.</DefaultText>
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Es liegt natürlich ganz bei dir. Ich kann dich nur bitten. Und das tue ich – schamlos.
+      <DefaultText>„Es liegt natürlich ganz bei dir. Ich kann dich nur bitten. Und das tue ich – schamlos.“
 
 „Denk doch nur an die Möglichkeiten, die sich dadurch eröffnen! An all die Dinge, die wir gemeinsam erreichen könnten!“</DefaultText>
       <FemaleText />
@@ -1328,7 +1332,9 @@ Diesmal ist der Strang aus Energie, der an dir zieht, zwar kraftvoll, aber steue
       <DefaultText>„… In Ordnung. Ich wusste, ich hätte nicht fragen sollen.“
 
 „Und wie passt du in das Ganze hinein, Wächter?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„… In Ordnung. Ich wusste, ich hätte nicht fragen sollen.“
+
+„Und wie passt du in das Ganze hinein, Wächterin?“</FemaleText>
     </Entry>
     <Entry>
       <ID>292</ID>
@@ -1365,12 +1371,12 @@ Diesmal ist der Strang aus Energie, der an dir zieht, zwar kraftvoll, aber steue
     <Entry>
       <ID>298</ID>
       <DefaultText>„Ich weiß, ich bin nur eine einfache Priesterin von Gaun. Ich glaube nur wenig oder gar nicht an Beseeler. Aber der Wächter sagt, du bist unsere beste Hoffnung für ein Überleben.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich weiß, ich bin nur eine einfache Priesterin von Gaun. Ich glaube nur wenig oder gar nicht an Beseeler. Aber die Wächterin sagt, du bist unsere beste Hoffnung für ein Überleben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>299</ID>
       <DefaultText>„Sieh mal, ich bin nicht gerade begeistert, dass ich die Zukunft der Welt ein paar Beseelern anvertrauen soll. Aber der Wächter ist fest überzeugt, wir müssen zusammenarbeiten, wenn wir das überleben wollen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Sieh mal, ich bin nicht gerade begeistert, dass ich die Zukunft der Welt ein paar Beseelern anvertrauen soll. Aber die Wächterin ist fest überzeugt, wir müssen zusammenarbeiten, wenn wir das überleben wollen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>300</ID>
@@ -1390,7 +1396,7 @@ Diesmal ist der Strang aus Energie, der an dir zieht, zwar kraftvoll, aber steue
     <Entry>
       <ID>303</ID>
       <DefaultText>„Wächter! Du weißt genau, ich kann es nicht leiden, wenn du mich vor Fremden aufziehst!“ Sie errötet und fühlt sich sichtlich unbehaglich.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wächterin! Du weißt genau, ich kann es nicht leiden, wenn du mich vor Fremden aufziehst!“ Sie errötet und fühlt sich sichtlich unbehaglich.</FemaleText>
     </Entry>
     <Entry>
       <ID>305</ID>
@@ -1462,7 +1468,7 @@ Diesmal ist der Strang aus Energie, der an dir zieht, zwar kraftvoll, aber steue
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>„Ich hatte um erfahrene Forscher gebeten, und wen schickt man mir? Caedman Azo, die Schande von Brackenbury … Merla, wen habe ich denn bloß beleidigt?“</DefaultText>
+      <DefaultText>„Ich hatte um erfahrene Forscher gebeten, und wen schickt man mir? Caedman Azo, die Schande von Farnheim … Merla, wen habe ich denn bloß beleidigt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
