@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\lax02_01_iceberg_dungeon\lax02_00_cv_ydwin</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>189</EntryCount>
+  <EntryCount>198</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -1000,6 +1000,51 @@ Sie verschränkt ihre Arme und mustert dich über ihren Brillenrand hinweg.</Def
     <Entry>
       <ID>220</ID>
       <DefaultText>„Und vermutlich niemals.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>„Solltest du deine Meinung ändern, kannst du mit mir darüber sprechen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>„Ich weiß das zu schätzen, aber ich versichere dir, dass ich meine Meinung nicht ändern werde.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>„Ich verlange, dass du mir das sagst. Ich muss wissen, mit wem ich unterwegs bin.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>„Dann verlangst du, dass ich gehe?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>„Wenn es dir so wichtig ist, dann behalt es eben für dich.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>„Wenn du die Frage nicht beantwortest, kannst du gleich gehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Ihre roten Augen verengen sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>„Leb wohl, Kapitän.“ Sie verbeugt sich knapp, dreht sie sich auf der Stelle um und geht.</DefaultText>
+      <FemaleText>„Leb wohl, Kapitänin.“ Sie verbeugt sich knapp, dreht sie sich auf der Stelle um und geht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>„Gut, dann behalt’s für dich.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
