@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2897</EntryCount>
+  <EntryCount>2898</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -12444,6 +12444,11 @@ Du bist nicht sicher, woher die Augenklappe stammt, sie stinkt aber nach Rum.</D
     <Entry>
       <ID>4348</ID>
       <DefaultText>Mitgenommene Kutte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4351</ID>
+      <DefaultText>Umhänge wie dieser waren einst bei den erfahrensten Fischern und Haijägern der Huana-Stämme geläufig. Sie wurden aus Schichten dicker Robbenhäute genäht und zum Schutz vor den Elementen eingeölt. Sie dienten nicht nur dem praktischen Zweck, den Träger relativ warm und trocken zu halten und ihn von zuschnappenden Zähnen und peitschenden Tentakeln zu schützen, sondern waren auch ein Statussymbol: Wer in diese Häute gekleidet war, hatte sich in Ngatis unbarmherziges Reich vorgewagt, um den Stamm zu versorgen. Dieser spezifischer Umhang trägt die Spuren jahrelangen schweren Gebrauchs. Seine Nähte sind ausgefranst und seine Ränder zerfetzt. Trotz der deutlichen Abnutzung schützt der zähe Aufbau dieses Mantels immer noch vor Wasser und Kälte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
