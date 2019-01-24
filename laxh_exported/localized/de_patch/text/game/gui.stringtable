@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5169</ID>
+      <DefaultText>Runde beenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5170</ID>
+      <DefaultText>Genutzte Aktion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5171</ID>
+      <DefaultText>{0} pro Runde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5173</ID>
+      <DefaultText>Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5174</ID>
+      <DefaultText>Aktionstyp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5175</ID>
+      <DefaultText>Frei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5176</ID>
+      <DefaultText>Standard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5177</ID>
+      <DefaultText>Wirken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5178</ID>
+      <DefaultText>Rundenbasierter Modus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5179</ID>
+      <DefaultText>Freie Aktion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5180</ID>
+      <DefaultText>Standardaktion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5181</ID>
+      <DefaultText>Wirken-Aktion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5195</ID>
+      <DefaultText>Keine Bewegung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5199</ID>
+      <DefaultText>Spielmodus wählen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5200</ID>
+      <DefaultText>Echtzeit-Modus mit Pause</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5201</ID>
+      <DefaultText>Rundenbasierter Modus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5202</ID>
+      <DefaultText>Der rundenbasierte Modus ist eine alternative Spielart, bei der Charakter in jeder Kampfrunde der Reihe nach drankommen.
+
+•&lt;indent=2.5em&gt;Alternativer Spielmodus.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Betont taktische Kampfelemente.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Bietet ein Spielerlebnis in einem überschaubarem Tempo.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Für Spieler empfohlen, die rundenbasierte Spiele mögen.&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5203</ID>
+      <DefaultText>Der Echtzeit-Modus mit Pause ist der klassische Spielmodus von Deadfire. Hierbei läuft der Kampf in Echtzeit ab.
+
+•&lt;indent=2.5em&gt;Klassischer Spielmodus.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Rasanter, actionreicherer Kampf.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Kann jederzeit pausiert werden, wenn das Tempo zu schnell wird.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Für Spieler empfohlen, die die klassische Spielerfahrung mit pausierbaren Echtzeitkämpfen bevorzugen.&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5205</ID>
+      <DefaultText>Verfügbare Aktion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5206</ID>
+      <DefaultText>Verfügbare Bewegung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5207</ID>
+      <DefaultText>Aktuelle Runde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5208</ID>
+      <DefaultText>Nächste Runde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5229</ID>
+      <DefaultText>{0:Value:PercentBonus} Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5230</ID>
+      <DefaultText>{0:Value:PercentBonus} Initiative mit Fernkampfwaffen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5231</ID>
+      <DefaultText>{0:Value:InvertPercentBonus} Initiative bei Fernkampf wenn in Bewegung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5232</ID>
+      <DefaultText>{0:Value:PercentBonus} Initiative mit Gegenständen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5233</ID>
+      <DefaultText>{0:Value:PercentBonus} Waffeninitiative beim Tragen von zwei Waffen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5234</ID>
+      <DefaultText>{0} Nachlade-Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5235</ID>
+      <DefaultText>Echtzeit-Modus mit Pause wählen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5236</ID>
+      <DefaultText>Rundenbasierten Modus wählen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5237</ID>
+      <DefaultText>Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5239</ID>
+      <DefaultText>•&lt;indent=2.5em&gt;Charaktere können nur in ihrer Runde agieren.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Erholungszeit wird zu „Initiative“ – Niedrigere Initiative bedeutet, dass in einer Runde früher agiert wird.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Die Nachladezeit ändert die „Initiative“, und diese Waffen werden zwischen Runden nachgeladen.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Das Wirken von Sprüchen mit längeren Wirkzeiten wird später in der Zugreihenfolge beenden.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Automatische Angriffe mit zwei Waffen sind jetzt volle Angriffe, die sich nicht mehr auf die Erholungszeit auswirken.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Dauer wird in die letzte Anzahl von „Runden“ konvertiert.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Bei Effekten, die ticken, pulsieren, oder über die Zeit auftreten, wird die Wirkung skaliert, um sie dem Wert pro Runde anzupassen.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Magrans Herausforderung führt bei Runden eine Zeitbegrenzung anstelle einer Begrenung des Pausierens ein.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;KI der Truppenmitglieder und erneutes Zielen sind deaktiviert.&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5240</ID>
+      <DefaultText>•&lt;indent=2.5em&gt;Charaktere können alle gleichzeitig agieren.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Mit Pause erhältst du bei schwierigen Entscheidungen mehr Zeit.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Die Mechanik der Erholungszeit bestimmt, wie häufig Charaktere Aktionen durchführen können.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Der Countdown für die Wirkungsdauer von Effekten läuft in Echtzeit ab.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Gruppenmitglieder-KI ist verfügbar, um die Aktionen von Charakteren zu automatisieren.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Erneutes Zielen ist verfügbar, um das Ziel für einen Zauber oder eine Fähigkeit zu ändern, nachdem das Wirken begonnen wurde.&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5241</ID>
+      <DefaultText>Nach Aktion Runde beenden ein/aus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5243</ID>
+      <DefaultText>{0} • {1} Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5244</ID>
+      <DefaultText>Gegnerische Runde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5245</ID>
+      <DefaultText>Deine Runde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5246</ID>
+      <DefaultText>Verbündeten-Runde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5247</ID>
+      <DefaultText>Nächste Initiative löschen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5248</ID>
+      <DefaultText>Waffensets wechseln ist eine Freie Aktion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5250</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Startet mit einem zusätzlichen Waffenset und Waffenschwerpunkt.
+
+Waffe wechseln ist eine freie Aktion.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Konstante &lt;xg&gt;Erholung&lt;/xg&gt; ist weniger effektiv.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5251</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Wenn der Straßenkämpfer Flankiert oder Blutig Geschlagen ist, sind Schleichangriffe tödlicher und die Initiative vermindert.
+
+Wenn der Straßenkämpfer Flankiert und Blutig Geschlagen ist, erhöht sich der Kritische Schaden.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Wenn der Straßenkämpfer weder flankiert noch verletzt ist, wird Initiative abgezogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5252</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Bonus auf Umwandlung von Treffern zu Kritischen Treffern bei Angriffen auf Ziele, die mehr als 4 m entfernt sind.
+
+Bonus auf Durchschlagskraft bei Angriffen auf Ziele, die weniger als 4 m entfernt sind.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Initiativenabzug.
+
+Verringerte Abwehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5253</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Erhält erhöhte Kraftstufe bei Beschwörungszaubern.
+
+Erhält den Zauber „Schutzgeist beschwören“ : Ruft eine Kreatur herbei, die den Zauberer unterstützt. Schutzgeister können nur schlecht kämpfen, gewähren ihrem Meister jedoch passive Boni.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Verliert Zugang zu Zaubern der Hervorrufungs- und Illusionsschule.
+Erhöhte Initiative für Zaubersprüche, die nicht der Beschwörungsschule zugeordnet sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5254</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Erhält erhöhte Kraftstufe bei Verzauberungszaubern.
+
+Erhält die passive Fähigkeit „Freie Aktion“: Wenn der Zauberer von einer Wirkung auf Gewandtheit betroffen ist, macht er sich ein Mal pro Begegnung von diesem Effekt frei und wird vorübergehend immun gegen Wirkungen auf Gewandtheit.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Verliert Zugang zu Zaubern der Illusions- und Transmutationsschule.
+
+Erhöhte Initiative für Zaubersprüche, die nicht der Verzauberungsschule zugeordnet sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5255</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Erhält erhöhte Kraftstufe bei Hervorrufungsszaubern.
+
+Deine Hervorrufungszauber haben eine geringe Chance, ihre Effekte und ihren Schaden sofort erneut auf ihre Ziele zu wirken.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Verliert Zugang zu Zaubern der Transmutations- und Beschwörungsschule.
+
+Erhöhte Initiative für Zaubersprüche, die nicht der Hervorrufungsschule zugeordnet sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5256</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Erhält erhöhte Kraftstufe bei Illusionsszaubern.
+
+Erhält die passive Fähigkeit „Reflektierender Spiegel“: Einmal pro Begegnung erhält der Zauberer, wenn er zum ersten Mal angegriffen wird, die Effekte des Zaubers „Spiegelbild“.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Verliert Zugang zu Zaubern der Beschwörungs- und Verzauberungsschule.
+
+Erhöhte Initiative für Zaubersprüche, die nicht der Illusionsschule zugeordnet sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5257</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Erhält erhöhte Kraftstufe bei Transmutationszaubern.
+
+Erhält den Zauber „Gestalt des einschüchternden Grobians“: Verwandelt den Zauberer in einen Oger. In dieser Gestalt sind Zauber deaktiviert, aber körperliche Attribute erhöht.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Verliert Zugang zu Zaubern der Verzauberungs- und Hervorrufungsschule.
+
+Erhöhte Initiative für Zaubersprüche, die nicht der Transmutationsschule zugeordnet sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5267</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} Dauer abträglicher Effekte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5268</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} Dauer zuträglicher Effekte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5269</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} {0:AfflictionType} Wirkungsdauer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5280</ID>
+      <DefaultText>Im rundenbasierten Modus laufen Runden der Gruppe nach {0} automatisch ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5304</ID>
+      <DefaultText>Runde verzögern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5305</ID>
+      <DefaultText>Beta</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5139</ID>
+      <DefaultText>Das Schwingen des Säbels in großen bogenartigen Hieben erhöht die Durchschlagskraft auf Kosten der Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5140</ID>
+      <DefaultText>Schlage mit kraftvollen Hieben zu und erhalte zusätzliche Durchschlagskraft auf Kosten der Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5141</ID>
+      <DefaultText>Der Stab greift mit größerer Energie an. Er verlangsamt die Initiative des Trägers, trifft jedoch auch Gegner rings um das Ziel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5142</ID>
+      <DefaultText>Der Charakter schwingt den Streitkolben mit gewaltiger Kraft und beschädigt die Rüstung des Ziels auf Kosten der Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5143</ID>
+      <DefaultText>Visiere mit deinem Rapier gezielt Schwachstellen an und sichere dir den Sieg. Dieser Kampfstil erhöht die Genauigkeit auf Kosten der Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5144</ID>
+      <DefaultText>Ziele sorgfältig auf Schwachstellen in der Rüstung deiner Gegner und erhöhe deine Durchschlagskraft auf Kosten der Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5145</ID>
+      <DefaultText>Schlage mit kräftigen, durchdringenden Hieben zu und erhalte zusätzliche Durchschlagskraft auf Kosten der Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5146</ID>
+      <DefaultText>Verwende deinen kleinen Schild, um Angriffe mit Nahkampfwaffen auf Kosten der Initiative besser abwehren und kontern zu können. Wenn du von Nahkampfwaffen verfehlt wirst, erhältst du erhöhte Genauigkeit für deinen nächsten Waffenangriff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5147</ID>
+      <DefaultText>Nutze deinen Schild, um gegnerische Waffenangriffe auf Kosten der Initiative zu blocken und (falls erfolgreich) dem Angriff vollständig zu widerstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5148</ID>
+      <DefaultText>Schwinge den Kampfstab, um gegnerische Schläge abzuwehren, und erhöhe deine Abwehr gegen Nahkampfwaffen auf Kosten der Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5149</ID>
+      <DefaultText>Nachdem ein Gegner getötet wurde, wird die Initiative des Barbaren sofort gelöscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5150</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Erhält erhöhte Kraftstufe bei Beschwörungszaubern.
+
+Erhält den Zauber „Schutzgeist beschwören“ : Ruft eine Kreatur herbei, die den Zauberer unterstützt. Schutzgeister können nur schlecht kämpfen, gewähren ihrem Meister jedoch passive Boni.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Verliert Zugang zu Zaubern der Hervorrufungs- und Illusionsschule.
+Erhöhte Initiative für Zaubersprüche, die nicht der Beschwörungsschule zugeordnet sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5151</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Erhält erhöhte Kraftstufe bei Verzauberungszaubern.
+
+Erhält die passive Fähigkeit „Freie Aktion“: Wenn der Zauberer von einer Wirkung auf Gewandtheit betroffen ist, macht er sich ein Mal pro Begegnung von diesem Effekt frei und wird vorübergehend immun gegen Wirkungen auf Gewandtheit.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Verliert Zugang zu Zaubern der Illusions- und Transmutationsschule.
+
+Erhöhte Initiative für Zaubersprüche, die nicht der Verzauberungsschule zugeordnet sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5152</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Erhält erhöhte Kraftstufe bei Hervorrufungsszaubern.
+
+Deine Hervorrufungszauber haben eine geringe Chance, ihre Effekte und ihren Schaden sofort erneut auf ihre Ziele zu wirken.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Verliert Zugang zu Zaubern der Transmutations- und Beschwörungsschule.
+
+Erhöhte Initiative für Zaubersprüche, die nicht der Hervorrufungsschule zugeordnet sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5153</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Erhält erhöhte Kraftstufe bei Illusionsszaubern.
+
+Erhält die passive Fähigkeit „Reflektierender Spiegel“: Einmal pro Begegnung erhält der Zauberer, wenn er zum ersten Mal angegriffen wird, die Effekte des Zaubers „Spiegelbild“.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Verliert Zugang zu Zaubern der Beschwörungs- und Verzauberungsschule.
+
+Erhöhte Initiative für Zaubersprüche, die nicht der Illusionsschule zugeordnet sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5154</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Erhält erhöhte Kraftstufe bei Transmutationszaubern.
+
+Erhält den Zauber „Gestalt des einschüchternden Grobians“: Verwandelt den Zauberer in einen Oger. In dieser Gestalt sind Zauber deaktiviert, aber körperliche Attribute erhöht.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Verliert Zugang zu Zaubern der Verzauberungs- und Hervorrufungsschule.
+
+Erhöhte Initiative für Zaubersprüche, die nicht der Transmutationsschule zugeordnet sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5155</ID>
+      <DefaultText>(Zu Brei schlagen) – Wenn der Barbar das Ziel tötet, wird seine Initiative sofort gelöscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5156</ID>
+      <DefaultText>(Mobhaltung) – Jeder Gegner in der Nähe des Kriegers verringert seine Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5157</ID>
+      <DefaultText>Der Kämpfer kann problemlos auch sperrige Rüstungen tragen, wodurch sein Initiativenabzug durch Rüstung deutlich verringert wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5158</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Bonus auf Umwandlung von Treffern zu Kritischen Treffern bei Angriffen auf Ziele, die mehr als 4 m entfernt sind.
+
+Bonus auf Durchschlagskraft bei Angriffen auf Ziele, die weniger als 4 m entfernt sind.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Initiativenabzug.
+
+Verringerte Abwehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5159</ID>
+      <DefaultText>Die Nachlade-Initiative für Armbrüste, Arbalesten und alle Feuerwaffen wird verringert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5160</ID>
+      <DefaultText>Verringert den Initiativenabzug beim Wechseln von Waffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5161</ID>
+      <DefaultText>Der Initiativenabzug bei Bewegung wird für Fernwaffen reduziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5162</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Wenn der Straßenkämpfer Flankiert oder Blutig Geschlagen ist, sind Schleichangriffe tödlicher und die Initiative vermindert.
+
+Wenn der Straßenkämpfer Flankiert und Blutig Geschlagen ist, erhöht sich der Kritische Schaden.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Wenn der Straßenkämpfer weder flankiert noch verletzt ist, wird Initiative abgezogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5163</ID>
+      <DefaultText>Während Halsabschneider-Cosmo dir folgt, wird dein Initiativenabzug durch Rüstung reduziert und deine Gruppe verursacht mehr Schaden mit Gewehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5164</ID>
+      <DefaultText>Solange Lucero der Gruppe folgt, hast du Widerstand gegen Wirkungen auf Gewandtheit und die Initiative der Gruppe nach dem Einsatz von Schnellauswahl-Gegenständen ist verkürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5165</ID>
+      <DefaultText>Während Epsilon dir folgt, wird dein Initiativenabzug durch Rüstung reduziert und deine Gruppe bewegt sich im Kampf schneller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5166</ID>
+      <DefaultText>Während Abraham dir folgt, wird dein Initiativenabzug durch Rüstung verringert und deine Gruppenmitglieder erhalten Gesundheit zurück, wenn sie einen Gegner töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5167</ID>
+      <DefaultText>Während Nalvi dir folgt, erhältst du einen Bonus auf Entschlossenheit und deine Gruppenmitglieder erhalten einen verringerten Initativenabzug durch ihre Rüstung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5168</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Startet mit einem zusätzlichen Waffenset und Waffenschwerpunkt.
+
+Waffe wechseln ist eine freie Aktion.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Konstante &lt;xg&gt;Erholung&lt;/xg&gt; ist weniger effektiv.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5170</ID>
+      <DefaultText>Kann sich nicht bewegen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5171</ID>
+      <DefaultText>Mäßigung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5173</ID>
+      <DefaultText>Verringert nachts die Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

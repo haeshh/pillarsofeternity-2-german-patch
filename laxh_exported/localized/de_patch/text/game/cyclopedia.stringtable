@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\cyclopedia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1084</ID>
+      <DefaultText>Im Rundenmodus nutzt eine Wirken-Aktion den Aktionspunkt des Charakters. Der Charakter wird sofort mit dem Wirken der Fähigkeit beginnen. Er wird später in derselben Runde mit dem Wirken der Fähigkeit aufhören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1085</ID>
+      <DefaultText>Im Rundenmodus verbraucht eine Freie Aktion keine Aktionspunkte des Charakters. Ein Charakter kann in seiner Runde neben einer &lt;link="glossary://GlossaryEntry_StandardAction"&gt;Standard-&lt;/link&gt; oder &lt;link="glossary://GlossaryEntry_CastAction"&gt;Wirk-&lt;/link&gt;Aktion beliebig viele Freie Aktionen durchführen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1086</ID>
+      <DefaultText>Im Rundenmodus sind Standardaktionen die häufigsten Aktionsarten. Eine Standardaktion verwendet den Aktionspunkt des Charakters in der Runde und wird sofort ausgeführt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1096</ID>
+      <DefaultText>Im Rundenmodus bestimmt die Initiative, wer in der Runde zuerst handelt. Charaktere mit niedrigeren Initiativewerten agieren vor anderen Charakteren und wirken Zaubersprüche schneller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1099</ID>
+      <DefaultText>Charaktere mit höherer Aktionsgeschwindigkeit beenden Wirken-Aktionen schneller und haben niedrigere Initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1103</ID>
+      <DefaultText>Wirkung auf Wahrnehmung. Geblendete Charaktere leiden unter -5 Wahrnehmung, gelten als Flankiert, erhalten +50 % Initiative, -10 Genauigkeit und die Reichweite aller Fernkampfangriffe wird halbiert. Geblendete Charaktere können keine Blick-Angriffe nutzen oder von ihnen betroffen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1104</ID>
+      <DefaultText>Wirkung auf Wahrnehmung. Desorientierte Charaktere erhalten -5 Wahrnehmung, gelten als Flankiert und haben +50 % Initiative nach ihren Aktionen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

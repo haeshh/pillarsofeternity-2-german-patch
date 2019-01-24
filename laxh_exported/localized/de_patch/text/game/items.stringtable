@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5933</ID>
+      <DefaultText>Solange Lucero der Gruppe folgt, hast du Widerstand gegen Wirkungen auf Gewandtheit und die Initiative der Gruppe nach dem Einsatz von Schnellauswahl-Gegenständen ist verkürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5934</ID>
+      <DefaultText>Während Abraham dir folgt, wird dein Initiativenabzug durch Rüstung verringert und deine Gruppenmitglieder erhalten Gesundheit zurück, wenn sie einen Gegner töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5935</ID>
+      <DefaultText>Während Epsilon dir folgt, wird dein Initiativenabzug durch Rüstung reduziert und deine Gruppe bewegt sich im Kampf schneller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5936</ID>
+      <DefaultText>Während Halsabschneider-Cosmo dir folgt, wird dein Initiativenabzug durch Rüstung reduziert und deine Gruppe verursacht mehr Schaden mit Gewehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5937</ID>
+      <DefaultText>Während Nalvi dir folgt, erhältst du einen Bonus auf Entschlossenheit und deine Gruppenmitglieder erhalten einen verringerten Initativenabzug durch ihre Rüstung.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
