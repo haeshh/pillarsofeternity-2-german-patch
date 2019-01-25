@@ -4126,7 +4126,7 @@
     </Entry>
     <Entry>
       <ID>1477</ID>
-      <DefaultText>Dieser Zauber beschwört einen mächtigen Kampfstab, der die Abwehr erhöht und Feinde bei jedem erfolgreichen Angriff wegstößt und Humpelnd zurücklässt. Die Beschwörung des Stabes selbst stößt jeden aus der Nähe des Zauberwirkers fort (auch Verbündete).</DefaultText>
+      <DefaultText>Dieser Zauber beschwört einen mächtigen Kampfstab, der Feinde bei jedem erfolgreichen Angriff wegstößt und Humpelnd zurücklässt. Die Beschwörung des Stabes selbst stößt jeden aus der Nähe des Zauberwirkers fort (auch Verbündete).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5721,7 +5721,7 @@ Einhändig: Direkter Schaden über Zeit</DefaultText>
     </Entry>
     <Entry>
       <ID>2051</ID>
-      <DefaultText>(Glockengeläut) – Einhändige Zeitschadenseffekte dauern nun doppelt so lang an.</DefaultText>
+      <DefaultText>(Glockengeläut) – Einhändige Zeitschadenseffekte dauern nun länger an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16216,7 +16216,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4564</ID>
-      <DefaultText>Jeder in deiner Gruppe erhält einen zusätzlichen Fertigkeits-Bonus ihrer Klasse oder Klassen.</DefaultText>
+      <DefaultText>Jeder in deiner Gruppe erhält einen doppelten normalen Fertigkeits-Bonus ihrer Klasse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17200,7 +17200,7 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>5170</ID>
-      <DefaultText>Cannot Move</DefaultText>
+      <DefaultText>Kann sich nicht bewegen</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

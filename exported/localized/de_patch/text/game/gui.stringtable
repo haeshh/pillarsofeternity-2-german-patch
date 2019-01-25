@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4569</EntryCount>
+  <EntryCount>4570</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -23317,6 +23317,11 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     <Entry>
       <ID>5285</ID>
       <DefaultText>Das Vergessene Heiligtum – Nicht installiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5305</ID>
+      <DefaultText>Beta</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

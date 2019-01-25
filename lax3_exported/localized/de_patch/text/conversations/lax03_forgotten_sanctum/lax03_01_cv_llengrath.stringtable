@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\lax03_forgotten_sanctum\lax03_01_cv_llengrath</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>576</EntryCount>
+  <EntryCount>578</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -3008,6 +3008,16 @@ Eine … Nische.“ Er verzieht das Gesicht.</DefaultText>
     <Entry>
       <ID>945</ID>
       <DefaultText>[Ihr die geänderten Annalen von Llengrath zeigen.] „Ich habe sie alle beisammen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>947</ID>
+      <DefaultText>Sie ignoriert dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>948</ID>
+      <DefaultText>[Weggehen] „Ich habe es mir anders überlegt. Vergiss es.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

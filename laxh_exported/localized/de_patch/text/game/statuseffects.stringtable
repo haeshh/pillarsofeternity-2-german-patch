@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>Treffer mit dieser Waffe gewähren eine stapelbare {0:value:percentbonus} Initiative für eine Dauer von {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>Treffer mit dieser Waffe gewähren eine stapelbare {0:value:percentbonus} Initiative mit Nahkampfwaffen für eine Dauer von {0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>{0:value:percentbonus} Initiative auf Angreifer (max. {0:extravalue:straight}-fach)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>{0:value:percentbonus} Initiative (max. {0:extravalue:straight}-fach)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>{0:extravalue:percentbonus} Initiative je {0:skill}-Fertigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>2 Gesundheit pro {0:triggervalue:duration} für {0:extravalue:duration} bei erlittenem kritischen Treffer (Heilung wird stärker, wenn Träger Gesundheit verliert)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>{0:value:percent} Chance, dem Angreifer beim Treffer mit einer Nahkampfwaffe kleinen Wuchtschaden zuzufügen und ihn für {0:extravalue:duration} zu betäuben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>Erhalte alle {0:interval} 6 % Treffer zu kritischem Treffer (Effekt wird bei erfolgreichem kritischen Treffer zurückgesetzt).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText>{0:value:percent} Chance, beim Erzielen eines Treffers 2 Runden lang Initiative zu löschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>{0:value:percent} Chance, beim Erzielen einen Treffers Initiative zu löschen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>{0:value:percentbonus} Initiative mit zweihändigen Nahkampfwaffen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>Nach der Ermächtigung einer Fähigkeit wird die Initiative des Trägers gelöscht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>{0:value} Ressourcenkosten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>Senkt den Initiativenabzug für Rüstung (je nach Rüstungsart unterschiedlich)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>741</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} Dauer des Effekts &lt;xg&gt;Tod&lt;/xg&gt; durch 1000 Schnitte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>Verleiht kurzfristig {0:value} Rüstungswert, {0:value} Durchschlagskraftbonus oder {0:extravalue:percentbonus} Initiative, wenn ein Gegner angegriffen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>{0:value:percent} Chance auf sofortiges Löschen von Initiative beim Erzielen eines kritischen Treffers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText>{0:value:percent} Chance auf sofortiges Löschen von Initiative beim Erzielen eines kritischen Treffers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>{0:Value:PercentBonus} Phrasen-Verweildauer</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
