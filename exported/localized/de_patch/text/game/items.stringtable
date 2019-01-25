@@ -16814,7 +16814,7 @@ Und solltest du dir jemals eine Pause von all den Abenteuern und dem Zündeln g�
     </Entry>
     <Entry>
       <ID>5339</ID>
-      <DefaultText>Dieser Gegenstand gewährt dem Träger die Fähigkeit, sich vor den unzähligen Gefahren der Welt von Eora zu schützen. Gaun, ein Aspekt des Gottes Eothas, repräsentiert die Ernte der alten Zeiten, hier symbolisiert durch die vielen ineinandergreifenden Sicheln, die den Ring bilden. So wie Gaun hilft, die Würde des Alters zu schützen, verpflichten sich seine Anhänger, junges Leben davor zu bewahren, vor ihrer Zeit geerntet zu werden.</DefaultText>
+      <DefaultText>Dieser Gegenstand gewährt dem Träger die Fähigkeit, sich vor den unzähligen Gefahren der Welt von Eora zu schützen. Gaun, ein Aspekt des Gottes Eothas, repräsentiert die Ernte der alten Zeiten, hier symbolisiert durch die vielen ineinandergreifenden Sicheln, die den Ring bilden. So wie Gaun hilft, die Würde des Alters zu schützen, verpflichten sich seine Anhänger, junge Leben davor zu bewahren, vor ihrer Zeit geerntet zu werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16882,7 +16882,11 @@ Hier endet das Logbuch abrupt. Der Rest der Seiten ist verbrannt und pulvergesch
 Ich bedauere Ihnen mitteilen zu müssen, dass ich aufgrund Ihrer jüngsten feindseligen Handlungen gegen die Vailianische Handelsgesellschaft verpflichtet bin, zu meinen Vorgesetzten zurückzukehren und ihnen vollständigen Bericht über unsere gemeinsame Zeit zu erstatten. Ich werde nicht zurückkehren.
 
 Wenn Sie Fragen oder Beschwerden zu meinem Dienst haben, wenden Sie sich bitte direkt an Fürstin Spirento.</DefaultText>
-      <FemaleText />
+      <FemaleText>Pallegina mes Rèi, Frermà Guone do Frermàs mes Canc Suolias an die Wächterin von Caed Nua, zuletzt von Neketaka,
+
+Ich bedauere Ihnen mitteilen zu müssen, dass ich aufgrund Ihrer jüngsten feindseligen Handlungen gegen die Vailianische Handelsgesellschaft verpflichtet bin, zu meinen Vorgesetzten zurückzukehren und ihnen vollständigen Bericht über unsere gemeinsame Zeit zu erstatten. Ich werde nicht zurückkehren.
+
+Wenn Sie Fragen oder Beschwerden zu meinem Dienst haben, wenden Sie sich bitte direkt an Fürstin Spirento.</FemaleText>
     </Entry>
     <Entry>
       <ID>5368</ID>
@@ -16911,7 +16915,7 @@ Wenn Sie Fragen oder Beschwerden zu meinem Dienst haben, wenden Sie sich bitte d
     </Entry>
     <Entry>
       <ID>5375</ID>
-      <DefaultText>Schlüssel von Iolfrs Gewänder</DefaultText>
+      <DefaultText>Schlüssel von Iolfrs Gewändern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16921,7 +16925,7 @@ Wenn Sie Fragen oder Beschwerden zu meinem Dienst haben, wenden Sie sich bitte d
     </Entry>
     <Entry>
       <ID>5377</ID>
-      <DefaultText>Schlüssel vom dunklen Schrank</DefaultText>
+      <DefaultText>Schlüssel vom Dunklen Schrank</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16986,7 +16990,7 @@ Wenn Sie Fragen oder Beschwerden zu meinem Dienst haben, wenden Sie sich bitte d
     </Entry>
     <Entry>
       <ID>5483</ID>
-      <DefaultText>Dieses Relikt ähnelt einem formellen Abzeichen oder Insignien aus militärischen Dekorationsbeständen, auch wenn das Symbol mit keiner bekannten Gruppe assoziiert wird. Zeit und Abnutzung, deren Spuren man auf dem Metall sieht, legen nahe, dass es sehr alt und weit gereist ist. Den Einfluss, den es auf eine eng verbundene Gruppe Kämpfer ausübt, deutet darauf hin, dass ein einflussreicher Ritter oder General es als einen Zauber benutzt hat, um ihre Truppen zu inspirieren und sie aufmerksam zu halten. Abgesehen von den Informationen, die man über seine Kraft ableiten kann, sind seine Ursprünge immer noch geheimnisvoll.</DefaultText>
+      <DefaultText>Dieses Relikt ähnelt einem formellen Abzeichen oder Insignien aus militärischen Dekorationsbeständen, auch wenn das Symbol mit keiner bekannten Gruppe assoziiert wird. Zeit und Abnutzung, deren Spuren man auf dem Metall sieht, legen nahe, dass es sehr alt und weit gereist ist. Der Einfluss, den es auf eine eng verbundene Gruppe Kämpfer ausübt, deutet darauf hin, dass ein einflussreicher Ritter oder General es als einen Zauber benutzt hat, um seine Truppen zu inspirieren und sie aufmerksam zu halten. Abgesehen von den Informationen, die man über seine Kraft ableiten kann, sind seine Ursprünge immer noch geheimnisvoll.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17054,8 +17058,8 @@ Die Klinge wurde kunstvoll mit Seelenessenz versetzt und leuchtet in Verbundenhe
     <Entry>
       <ID>5509</ID>
       <DefaultText>Kritiker der Seelenmanipulation verunglimpfen Beseelung als eine rücksichtslose Perversion der natürlichen Ordnung. Auch wenn diese Argumente oft politisch beeinflusst sind, so treffen sie doch manches Mal zu.
-Dies ist zum Beispiel der Fall mit dem Essenz-Unterbrecher, dem Produkt eines ehrgeizigen, aber unorthodoxen Ausgestoßenen des Brackenbury-Sanitariums. Der Erfinder nahm eine sichere Methode an, um Seelen der Gestandenen zu erwecken, indem er einen sofortigen Schock spirituellen Stimulus durch den Schädel jagte. Sobald er einen Jagdbogen so modifiziert hatte, dass damit Projektile mit geladener Adra und Kupfer abgeschossen werden konnten, hatte er einen Marktstand in Spirento aufgestellt, an dem er jedem, der an seiner Studie teilnehmen würde, eine Entschädigung versprach.
-Nachdem er in aller Seelenruhe Pfeile mitten zwischen die Augen von zwei Testsubjekten geschossen hatte, wurde der Beseeler festgenommen. Die Behörden konnten seinen Bogen nie finden, der bis heute etwas von der unmoralischen Ekzentrität seines Erfinders besitzt.</DefaultText>
+Dies ist zum Beispiel der Fall mit dem Essenz-Unterbrecher, dem Produkt eines ehrgeizigen, aber unorthodoxen Ausgestoßenen des Farnheim-Sanitariums. Der Erfinder nahm eine sichere Methode an, um Seelen der Gestandenen zu erwecken, indem er einen sofortigen Schock spirituellen Stimulus durch den Schädel jagte. Sobald er einen Jagdbogen so modifiziert hatte, dass damit Projektile mit geladener Adra und Kupfer abgeschossen werden konnten, hatte er einen Marktstand in Spirento aufgestellt, an dem er jedem, der an seiner Studie teilnehmen würde, eine Entschädigung versprach.
+Nachdem er in aller Seelenruhe Pfeile mitten zwischen die Augen von zwei Testsubjekten geschossen hatte, wurde der Beseeler festgenommen. Die Behörden konnten seinen Bogen nie finden, der bis heute etwas von der unmoralischen Exzentrizität seines Erfinders besitzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17085,7 +17089,7 @@ Nachdem er in aller Seelenruhe Pfeile mitten zwischen die Augen von zwei Testsub
     </Entry>
     <Entry>
       <ID>5533</ID>
-      <DefaultText>Diese Waffe wurde nach der Huana-Adligen benannt, die sie in die Schlacht trug. Auch wenn sie stolz darauf war, die Vorhut anzuführen und sich mit vermessenen Feinden zu umgeben, so machte Karabörü nichts mehr Freude als ihre Waffe in einem weiten Bogen zu schwingen und eine ganze Reihe Feinde niederzumähen. Sie liess einen Schutz am Griff absichtlich weg und behauptete, dass solche „Verzierungen“ nur ihre Balance beeinträchtigen würde, bereute jedoch später ihre Entscheidung als eine gut ausgeführte Parade Karabörü drei Finger an ihrer Kampfhand kostete. Sie fuhr damit fort, ihre Fertigkeiten mit anderen Waffen zu trainieren und legte ihre Klinge als eine weitere Erfahrung ab.</DefaultText>
+      <DefaultText>Diese Waffe wurde nach der Huana-Adligen benannt, die sie in die Schlacht trug. Auch wenn sie stolz darauf war, die Vorhut anzuführen und sich mit vermessenen Feinden zu umgeben, so machte Karabörü nichts mehr Freude als ihre Waffe in einem weiten Bogen zu schwingen und eine ganze Reihe Feinde niederzumähen. Sie ließ einen Schutz am Griff absichtlich weg und behauptete, dass solche „Verzierungen“ nur ihre Balance beeinträchtigen würde, bereute jedoch später ihre Entscheidung, als eine gut ausgeführte Parade Karabörü drei Finger an ihrer Kampfhand kostete. Sie fuhr damit fort, ihre Fertigkeiten mit anderen Waffen zu trainieren und legte ihre Klinge als eine weitere Erfahrung ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17095,9 +17099,9 @@ Nachdem er in aller Seelenruhe Pfeile mitten zwischen die Augen von zwei Testsub
     </Entry>
     <Entry>
       <ID>5535</ID>
-      <DefaultText>Dieser bescheidene Faustschild ähnelt dem Übungsschild eines tolpatschigen Schülers. Das Holz wird von tiefen Furchen zerklüftet und lässt das Rätsel, wie er überhaupt noch zusammengehalten wird, weiterhin ungelöst. Eine kleine Inschrift ist auf der Rückseite eingeritzt und erzählt eine andere Geschichte, auch wenn sie im Laufe der Zeit verwittert ist.
+      <DefaultText>Dieser bescheidene Faustschild ähnelt dem Übungsschild eines tollpatschigen Schülers. Das Holz wird von tiefen Furchen zerklüftet und lässt das Rätsel, wie er überhaupt noch zusammengehalten wird, weiterhin ungelöst. Eine kleine Inschrift ist auf der Rückseite eingeritzt und erzählt eine andere Geschichte, auch wenn sie im Laufe der Zeit verwittert ist.
 
-Der Bericht aus erster Hand stammt von einer Ritterin, die in Alt-Vailia zu Ruhm und Ehre kam und zu einem Gründungsmitglied der Darcozzi Paladini wurde, während sie diesen Schild am Arm trug. Ihre schützenden Instinkte hinterließen ein Zeichen in den Wäldern, das tiefer als jede Einkerbung reicht. Dieser Gegenstand wird andauernd übersehen und unterschätzt und war im Laufe der Jahre bei vielen Besitzern, seit er aus ihrer Waffenkammer entkommen ist. Immer wieder findet er ein Zuhause mit den Edlen und Adligen.</DefaultText>
+Der Bericht aus erster Hand stammt von einer Ritterin, die in Alt-Vailia zu Ruhm und Ehre kam und zu einem Gründungsmitglied der Darcozzi Paladini wurde, während sie diesen Schild am Arm trug. Ihre schützenden Instinkte hinterließen ein Zeichen in den Wäldern, das tiefer als jede Einkerbung reicht. Dieser Gegenstand wird andauernd übersehen und unterschätzt und war im Laufe der Jahre bei vielen Besitzern, seit er aus ihrer Waffenkammer verschwunden ist. Immer wieder findet er ein Zuhause bei den Edlen und Adligen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17107,7 +17111,7 @@ Der Bericht aus erster Hand stammt von einer Ritterin, die in Alt-Vailia zu Ruhm
     </Entry>
     <Entry>
       <ID>5537</ID>
-      <DefaultText>Der Musiker Gil „Mungbohne“ Mungo trug seine Mundorgel während seiner schillernden Karriere immer um den Hals und setzte sie ein, um auf den Beginn einer Aufführung hinzuweisen. Sein nur wenigen bekanntes Geheimnis hinter seinem Erfolg bestand darin, einen Schlitz des Instruments mit pulverisiertem Rieselschwamm zu bestreuen, das dann in die Gesichter seiner nichtsahnenden Zuschauer geblasen wurde. Nachdem er mit seinen Touren und Tourneen zu Reichtum gekommen war, zog sich Mungo aus dem öffentlichen Leben zurück und heuerte in der Marine von Rauatai an. Seine Einheit wurde gefeiert für das Befrieden der Beziehungen zu den Huana-Stämmen des Todesfeuers und versammelte Gestandene aufgrund der gemeinsamen Liebe zur Musik und anderer, weniger offensichtlicher Vergnügen.</DefaultText>
+      <DefaultText>Der Musiker Gil „Mungbohne“ Mungo trug seine Mundorgel während seiner schillernden Karriere immer um den Hals und setzte sie ein, um auf den Beginn einer Aufführung hinzuweisen. Sein nur wenigen bekanntes Geheimnis hinter seinem Erfolg bestand darin, einen Schlitz des Instruments mit pulverisiertem Rieselschwamm zu bestreuen, der dann in die Gesichter seiner nichtsahnenden Zuschauer geblasen wurde. Nachdem er mit seinen Touren und Tourneen zu Reichtum gekommen war, zog sich Mungo aus dem öffentlichen Leben zurück und heuerte in der Marine von Rauatai an. Seine Einheit wurde gefeiert für das Befrieden der Beziehungen zu den Huana-Stämmen des Todesfeuers und versammelte Gestandene aufgrund der gemeinsamen Liebe zur Musik und anderer, weniger offensichtlicher Vergnügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17284,11 +17288,11 @@ Die innenliegende Oberfläche ist mit einem Symbol zweier Berge verziert, denen 
     </Entry>
     <Entry>
       <ID>5593</ID>
-      <DefaultText>Das Gewebe dieses Umhangs scheint mit einer Art mystischer Muster bestickt zu sein, aber das Muster ändert sich mit den Bewegungen des Kleidungsstückes, sodass das Auge Dinge sieht, die nicht da sind.
+      <DefaultText>Das Gewebe dieses Umhangs scheint mit einer Art mystischem Muster bestickt zu sein, aber das Muster ändert sich mit den Bewegungen des Kleidungsstückes, sodass das Auge Dinge sieht, die nicht da sind.
 
-Schüler von Wael haben in aller Stille mit Illusionen experimentiert, da sie schon immer von Theorien fasziniert waren, dass die Welt rings um sie eine Illusion, ein Traum oder beides ist. In einem Jahr hat sich eine gesamte Klasse ehrgeiziger Lehrlinge um diese Idee gruppiert und formte einen verschwiegenen Zirkel existentieller Skeptiker. Sie trugen Umhänge wie diese, um sich außerhalb ihrer geheimen Treffen zu erkennen.
+Schüler von Wael haben in aller Stille mit Illusionen experimentiert, da sie schon immer von Theorien fasziniert waren, dass die Welt rings um sie eine Illusion, ein Traum oder beides ist. In einem Jahr hat sich eine gesamte Klasse ehrgeiziger Lehrlinge um diese Idee gruppiert und formte einen verschwiegenen Zirkel existenzieller Skeptiker. Sie trugen Umhänge wie diesen, um sich außerhalb ihrer geheimen Treffen zu erkennen.
 
-Ein Dutzend solcher Umhänge wurden später verlassen zwischen den Bücherregalen einer Bibliothek gefunden. Das Schicksal der Träger und ihrer Forschung ist unbekannt, aber die Umhänge zirkulierten seitdem als eine Art antiker Kuriositäten.</DefaultText>
+Ein Dutzend solcher Umhänge wurde später verlassen zwischen den Bücherregalen einer Bibliothek gefunden. Das Schicksal der Träger und ihrer Forschung ist unbekannt, aber die Umhänge zirkulierten seitdem als eine Art antiker Kuriositäten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
