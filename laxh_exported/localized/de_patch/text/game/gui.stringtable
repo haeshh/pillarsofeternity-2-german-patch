@@ -86,11 +86,11 @@
     </Entry>
     <Entry>
       <ID>5202</ID>
-      <DefaultText>Der rundenbasierte Modus ist eine alternative Spielart, bei der Charakter in jeder Kampfrunde der Reihe nach drankommen.
+      <DefaultText>Der rundenbasierte Modus ist eine alternative Spielart, bei der Charaktere in jeder Kampfrunde der Reihe nach drankommen.
 
 •&lt;indent=2.5em&gt;Alternativer Spielmodus.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;Betont taktische Kampfelemente.&lt;/indent&gt;
-•&lt;indent=2.5em&gt;Bietet ein Spielerlebnis in einem überschaubarem Tempo.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Bietet ein Spielerlebnis in einem überschaubaren Tempo.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;Für Spieler empfohlen, die rundenbasierte Spiele mögen.&lt;/indent&gt;</DefaultText>
       <FemaleText />
     </Entry>
@@ -174,12 +174,12 @@
       <DefaultText>•&lt;indent=2.5em&gt;Charaktere können nur in ihrer Runde agieren.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;Erholungszeit wird zu „Initiative“ – Niedrigere Initiative bedeutet, dass in einer Runde früher agiert wird.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;Die Nachladezeit ändert die „Initiative“, und diese Waffen werden zwischen Runden nachgeladen.&lt;/indent&gt;
-•&lt;indent=2.5em&gt;Das Wirken von Sprüchen mit längeren Wirkzeiten wird später in der Zugreihenfolge beenden.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Das Wirken von Sprüchen mit längeren Wirkzeiten wird später in der Zugreihenfolge beendet.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;Automatische Angriffe mit zwei Waffen sind jetzt volle Angriffe, die sich nicht mehr auf die Erholungszeit auswirken.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;Dauer wird in die letzte Anzahl von „Runden“ konvertiert.&lt;/indent&gt;
-•&lt;indent=2.5em&gt;Bei Effekten, die ticken, pulsieren, oder über die Zeit auftreten, wird die Wirkung skaliert, um sie dem Wert pro Runde anzupassen.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Bei Effekten, die ticken, pulsieren oder über die Zeit auftreten, wird die Wirkung skaliert, um sie dem Wert pro Runde anzupassen.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;Magrans Herausforderung führt bei Runden eine Zeitbegrenzung anstelle einer Begrenung des Pausierens ein.&lt;/indent&gt;
-•&lt;indent=2.5em&gt;KI der Truppenmitglieder und erneutes Zielen sind deaktiviert.&lt;/indent&gt;</DefaultText>
+•&lt;indent=2.5em&gt;KI der Gruppenmitglieder und erneutes Zielen sind deaktiviert.&lt;/indent&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -267,7 +267,7 @@ Verringerte Abwehr.</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Erhält erhöhte Kraftstufe bei Beschwörungszaubern.
 
-Erhält den Zauber „Schutzgeist beschwören“ : Ruft eine Kreatur herbei, die den Zauberer unterstützt. Schutzgeister können nur schlecht kämpfen, gewähren ihrem Meister jedoch passive Boni.
+Erhält den Zauber „Schutzgeist beschwören“: Ruft eine Kreatur herbei, die den Zauberer unterstützt. Schutzgeister können nur schlecht kämpfen, gewähren ihrem Meister jedoch passive Boni.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Verliert Zugang zu Zaubern der Hervorrufungs- und Illusionsschule.
