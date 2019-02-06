@@ -2,13 +2,13 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>905</EntryCount>
+  <EntryCount>906</EntryCount>
   <Entries>
     <Entry>
       <ID>43</ID>
       <DefaultText>Käfer sind nicht ganz so groß wie ein Mann, aber aufgrund ihres einschüchternden Äußeren verscheuchen sie die meisten Reisenden. Der größtenteils unbewohnte Todesfeuer-Archipel bietet Käfern viel Platz, um sich zu vermehren. Die erfolgreichsten großen Käferarten können sich nicht nur in ihrer Umgebung tarnen, sondern sich auch Rückenpanzer aus gewöhnlichen und widerstandsfähigen Materialien wie Holz, Stein und Adra wachsen lassen.
 
-Obwohl allem Anschein nach das Gegenteil zutrifft, wohnt dem gemeinen Käfer eine vielschichtige Komplexität inne. Wenn sie sich für ein Material entscheiden, aus dem sie ihren Panzer wachsen lassen, tun sie dies derart bewusst, dass es an Kunst grenzt. Waldkäfer graben häufig komplizierte Löcher in ihre Rückenpanzer. Indem sie Luft durch diese behelfsmäßigen Röhren blasen, spielen sie eine unheimliche Musik, mit der sie Geschlechtspartner anlocken. Steinkäfer tragen rudimentäre Hauer und Hörner, mit denen sie sich verteidigen und Beute angreifen können. Die Feinheiten von Adra–Käfer sind noch nicht sonderlich gut bekannt – man weiß eigentlich nur, dass sie nur schwer zu töten sind.</DefaultText>
+Obwohl allem Anschein nach das Gegenteil zutrifft, wohnt dem gemeinen Käfer eine vielschichtige Komplexität inne. Wenn sie sich für ein Material entscheiden, aus dem sie ihren Panzer wachsen lassen, tun sie dies derart bewusst, dass es an Kunst grenzt. Waldkäfer graben häufig komplizierte Löcher in ihre Rückenpanzer. Indem sie Luft durch diese behelfsmäßigen Röhren blasen, spielen sie eine unheimliche Musik, mit der sie Geschlechtspartner anlocken. Steinkäfer tragen rudimentäre Hauer und Hörner, mit denen sie sich verteidigen und Beute angreifen können. Die Feinheiten von Adra–Käfern sind noch nicht sonderlich gut bekannt – man weiß eigentlich nur, dass sie nur schwer zu töten sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -474,7 +474,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Ein kritischer Treffer ist jeder Angriffswurf von 100 oder mehr. Ein kritischer Treffer, der Schaden verursacht, erhöht den verursachten Gesamtschaden um 25% und die Durchschlagskraft um 50%. Ein kritischer Treffer bei Effekten mit einer Dauer (meistens Wirkungen wie Erkrankt oder Gelähmt) erhöht die Dauer um 25%.</DefaultText>
+      <DefaultText>Ein kritischer Treffer ist jeder Angriffswurf von [Crit Min Roll] oder mehr. Ein kritischer Treffer, der Schaden verursacht, erhöht den verursachten Gesamtschaden um 25% und die Durchschlagskraft um 50%. Ein kritischer Treffer bei Effekten mit einer Dauer (meistens Wirkungen wie Erkrankt oder Gelähmt) erhöht die Dauer um 25%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -484,7 +484,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Ein Leichter Treffer ist jeder Angriffswurf zwischen 25 und 50. Dauer und Schaden eines Leichten Treffers sind um 50 % reduziert.</DefaultText>
+      <DefaultText>Ein Leichter Treffer ist jeder Angriffswurf zwischen [Graze Min Roll] und [Graze Max Roll]. Dauer und Schaden eines Leichten Treffers sind um 50 % reduziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -494,7 +494,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>Ein Treffer ist jeder Angriffswurf zwischen 50 und 99. Wenn ein Angriff einen Treffer verursacht, richtet dieser Treffer normalen Schaden an und hat eine normale Dauer.</DefaultText>
+      <DefaultText>Ein Treffer ist jeder Angriffswurf zwischen [Hit Min Roll] und [Hit Max Roll]. Wenn ein Angriff einen Treffer verursacht, richtet dieser Treffer normalen Schaden an und hat eine normale Dauer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -554,7 +554,7 @@ Z.B. sind Waldelfen resistent gegen Gewandtheitswirkungen. Ein Waldelf, der von 
       <ID>154</ID>
       <DefaultText>Alle Angriffe in Pillars of Eternity vergleichen den Genauigkeitswert des Angreifers mit einer von vier Verteidigungen: Abwehr (direkte Nah– und Fernkampfangriffe), Tapferkeit (Angriffe gegen das Immunsystem wie Gift oder Krankheit), Reflexe (Wirkungsbereichsangriffe) und Wille (mentale Angriffe).
 
-Es wird eine Zahl zwischen 1 und 100 generiert und zu der Differenz zwischen Genauigkeit und Verteidigung addiert, um das Ergebnis des Angriffs zu berechnen. Weniger als 25 = Fehlschlag, 25 – 49 = Leichter Treffer, 50-99 = Treffer, ab 100 = Kritischer Treffer.
+Es wird eine Zahl zwischen 1 und 100 generiert und zu der Differenz zwischen Genauigkeit und Verteidigung addiert, um das Ergebnis des Angriffs zu berechnen. Weniger als [Graze Min Roll] = Fehlschlag, [Graze Min Roll] – [Graze Max Roll] = Leichter Treffer, [Hit Min Roll] - [Hit Max Roll] = Treffer, ab [Hit Max Roll] = Kritischer Treffer.
 
 In einem ausgeglichenen Angriff-/Verteidigung-Szenario werden die meisten Angriffe Treffer oder Fehlschläge sein. Wenn die Genauigkeit über der Verteidigung liegt, ist die Wahrscheinlichkeit von Kritischen Treffern höher. Wenn die Verteidigung über der Genauigkeit liegt, ist die Wahrscheinlichkeit von Fehlschlägen höher.
 
@@ -4262,7 +4262,7 @@ Gaun ist ein Beantworter allen Unrechts und aller Ungleichheiten. Dies hat nicht
     </Entry>
     <Entry>
       <ID>932</ID>
-      <DefaultText>Der Toamowhai, der hauptsächlich von einer kleinen Teilgruppe von im Todesfeuer heimischen Animisten-Aumauaner verehrt werden, werden auch manchmal die Gesichter der Jagd genannt und allgemein von Reisenden von außerhalb des Archipels mit Galawain vereint.</DefaultText>
+      <DefaultText>Der Toamowhai, der hauptsächlich von einer kleinen Teilgruppe von im Todesfeuer heimischen Animisten-Aumauanern verehrt wird, wird auch manchmal „Die Gesichter der Jagd“ genannt und allgemein von Reisenden von außerhalb des Archipels mit Galawain zusammengefasst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4850,6 +4850,11 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     <Entry>
       <ID>1112</ID>
       <DefaultText>Geistesinspiration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1116</ID>
+      <DefaultText>Ein Leichter Treffer ist jeder Angriffswurf zwischen 1 und 50. Dauer und Schaden eines Leichten Treffers sind um 50 % reduziert.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

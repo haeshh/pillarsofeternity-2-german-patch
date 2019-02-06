@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>54</EntryCount>
+  <EntryCount>60</EntryCount>
   <Entries>
     <Entry>
       <ID>5169</ID>
@@ -354,6 +354,36 @@ Erhöhte Initiative für Zaubersprüche, die nicht der Transmutationsschule zuge
     <Entry>
       <ID>5305</ID>
       <DefaultText>Beta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5306</ID>
+      <DefaultText>Nicht deine Runde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5307</ID>
+      <DefaultText>Auf Gegner zentrieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5308</ID>
+      <DefaultText>Zentriere die Kamera auf Gruppenmitglieder, wenn diese am Zug sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5309</ID>
+      <DefaultText>Zentriere die Kamera auf Gegner, wenn diese am Zug sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5310</ID>
+      <DefaultText>Auf Freunde zentrieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5311</ID>
+      <DefaultText>Zentriere die Kamera auf befreundete Charaktere, wenn diese am Zug sind.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
