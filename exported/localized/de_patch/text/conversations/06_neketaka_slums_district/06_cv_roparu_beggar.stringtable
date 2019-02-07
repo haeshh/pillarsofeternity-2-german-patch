@@ -129,7 +129,7 @@ Sie blickt zu einer Seite hin und streicht mit diesen knochigen Fingern über di
       <ID>26</ID>
       <DefaultText>„Tust du das nicht?“
 
-Ihre Haare fallen wirr auf ihre Schulter als sie ihren Kopf schüttelt.</DefaultText>
+Ihre Haare fallen wirr auf ihre Schulter, als sie ihren Kopf schüttelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -139,7 +139,7 @@ Ihre Haare fallen wirr auf ihre Schulter als sie ihren Kopf schüttelt.</Default
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Glaubst du, dass es eine gute Idee ist, mich zu berühren, ‚niemand‘, der Rakara ist?“</DefaultText>
+      <DefaultText>„Glaubst du, dass es eine gute Idee ist, mich zu berühren, ‚niemand‘, die Rakara ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -239,7 +239,9 @@ Ihr zitternder Arm zeigt Richtung Südosten.</DefaultText>
       <DefaultText>„Du glaubst, die Händler werden an die Roparu verkaufen? Du glaubst, dass die Mataru – selbst wenn sie das tun – mir das lassen, was ich gekauft habe?“
 
 „Du bist hier noch nicht lang, Fremder.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Du glaubst, die Händler werden an die Roparu verkaufen? Du glaubst, dass die Mataru – selbst wenn sie das tun – mir das lassen, was ich gekauft habe?“
+
+„Du bist hier noch nicht lang, Fremde.“</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
@@ -285,7 +287,7 @@ Ihr zitternder Arm zeigt Richtung Südosten.</DefaultText>
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>„Aber. Vielleicht weist der Älteste des Dorfes dich auf den richtigen Pfad. Er wird Enoi genannt, du findest ihn bei sich zu Hause.“</DefaultText>
+      <DefaultText>„Aber … Vielleicht weist der Älteste des Dorfes dich auf den richtigen Pfad. Er wird Enoi genannt, du findest ihn bei sich zu Hause.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -318,7 +320,7 @@ Sie hat Angst vor dir.</DefaultText>
     <Entry>
       <ID>69</ID>
       <DefaultText>„Ich danke dir, Reisender, ich danke dir. Ich wusste doch, dass du ein guter Mensch bist.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich danke dir, Reisende, ich danke dir. Ich wusste doch, dass du ein guter Mensch bist.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

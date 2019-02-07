@@ -74,7 +74,7 @@ Sie atmet es ein und lächelt.</DefaultText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>„Kann mir nicht viel vorstellen, dass es billig war. Nimm das hier… Es ist nicht viel, ist aber alles, was ich habe.“</DefaultText>
+      <DefaultText>„Kann mir nicht vorstellen, dass es billig war. Nimm das hier… Es ist nicht viel, ist aber alles, was ich habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,7 +108,7 @@ Sie sieht den blutroten Sprenkel auf ihrem Handgelenk an.</DefaultText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>„Schwer sie ruhig zu halten.“
+      <DefaultText>„Schwer, sie ruhig zu halten.“
 
 Sie lässt einen weiteren Hustenanfall hören, der dieses Mal laut genug ist, um in der kleinen Behausung widerzuhallen.
 
@@ -154,19 +154,19 @@ Sie bricht in einen Hustenanfall aus. Als sie versucht, wieder zu Atem zu kommen
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>„Pitli? Gütiger Gaun, ich habe dich fast nicht erkannt! Du siehst vom Tod ausgespuckter und aufgewärmter aus als Dämmerstern.“</DefaultText>
+      <DefaultText>„Pitli? Gütiger Gaun, ich habe dich fast nicht erkannt! Du siehst eher wie vom Tod ausgespuckt und aufgewärmt aus als nach einem Dämmerstern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Gibt hier nichts, was es wert wäre verkauft oder gestohlen zu werden. Du gehst lieber.“
+      <DefaultText>„Gibt hier nichts, was es wert wäre, verkauft oder gestohlen zu werden. Du gehst lieber.“
 
 Sie unterdrückt ein raues Husten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Du hörst unterdrücktes Hacken und den unbeständigen Rhythmus von mühsamen, pfeifenden Atemzügen, die aus dem hinteren Teil des Raumes zu dir dringen.</DefaultText>
+      <DefaultText>Du hörst unterdrückten trockenen Husten und den unbeständigen Rhythmus von mühsamen, pfeifenden Atemzügen, die aus dem hinteren Teil des Raumes zu dir dringen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@ Sie unterdrückt ein raues Husten.</DefaultText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Sie lacht, wodurch ein anderer Hustenanfall ausgelöst wird.</DefaultText>
+      <DefaultText>Sie lacht, wodurch ein weiterer Hustenanfall ausgelöst wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -244,7 +244,7 @@ Sie unterdrückt ein raues Husten.</DefaultText>
     <Entry>
       <ID>55</ID>
       <DefaultText>„Warte, du bist derjenige, der eine Szene an den Anlegestellen am Ankerplatz der Königin gemacht hast.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Warte, du bist diejenige, die eine Szene an den Anlegestellen am Ankerplatz der Königin gemacht hast.“</FemaleText>
     </Entry>
     <Entry>
       <ID>56</ID>
@@ -456,7 +456,7 @@ Sie hustet in ihre Faust.</DefaultText>
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>„Einige sagen, er wäre ein alter vailianischer Traditionalist. Einige sagen, er sei ein Schläger mit gutem Geschmack.“ Sie streckt ihre Hände aus und bewegt ihre offenen Handflächen wie Plattformen auf einer Waage.</DefaultText>
+      <DefaultText>„Einige sagen, er wäre ein alter vailianischer Traditionalist. Einige sagen, er sei ein Schläger mit gutem Geschmack.“ Sie streckt ihre Hände aus und bewegt ihre offenen Handflächen wie Plattformen an einer Waage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -827,7 +827,7 @@ Sie dreht sich wieder zu dir um.</DefaultText>
     <Entry>
       <ID>191</ID>
       <DefaultText>„Wächter, wie konntest du nur! Auch wenn sie krank war, vielleicht hätten wir sie retten können!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wächterin, wie konntest du nur! Auch wenn sie krank war, vielleicht hätten wir sie retten können!“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
