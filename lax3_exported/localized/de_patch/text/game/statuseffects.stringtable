@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>32</EntryCount>
+  <EntryCount>33</EntryCount>
   <Entries>
     <Entry>
       <ID>277</ID>
@@ -162,6 +162,11 @@
     <Entry>
       <ID>722</ID>
       <DefaultText>{0:value:percent} Chance, {0:extravalue:duration} lang eine zufällige Inspiration der Stufe 1 zu erhalten, wenn ein Treffer mit einer Waffe erlitten wird</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>Betäubt für {0:extravalue:duration} alle {0:interval}</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
