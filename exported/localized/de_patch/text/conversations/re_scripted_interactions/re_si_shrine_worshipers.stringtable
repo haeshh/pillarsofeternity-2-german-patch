@@ -219,7 +219,9 @@ Kurz darauf hörst du hinter dir Schritte. Eine Gruppe von fies grinsenden Sklav
       <DefaultText>Du stehst auf, um zu antworten. Ein anderer Aumauaner meldet sich zu Wort. „Weswegen brüllst du die Leute denn bloß so an? Ich möchte mal behaupten, dieser Anbeter stammt ebenso von den Inseln wie du.“
 
 Der erste blickt finster. „Für mich sieht der nicht wie ein Huana aus.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Du stehst auf, um zu antworten. Ein anderer Aumauaner meldet sich zu Wort. „Weswegen brüllst du die Leute denn bloß so an? Ich möchte mal behaupten, diese Betende stammt ebenso von den Inseln wie du.“
+
+Der erste blickt finster. „Für mich sieht die nicht wie eine Huana aus.“</FemaleText>
     </Entry>
     <Entry>
       <ID>101</ID>
@@ -231,7 +233,7 @@ Tekēhu tritt zwischen dich und den Huana und hebt dabei beschwichtigend die Han
     <Entry>
       <ID>102</ID>
       <DefaultText>Du erhebst dich, um zu antworten, doch ein anderer der Aumauaner fällt dir mit einem bösen Knurren ins Wort, bei dem er seine scharfen Zähne zeigt. „Du bist hier nicht gerade willkommen, Fremder. Verlasse diesen Ort!“</DefaultText>
-      <FemaleText />
+      <FemaleText>Du erhebst dich, um zu antworten, doch ein anderer der Aumauaner fällt dir mit einem bösen Knurren ins Wort, bei dem er seine scharfen Zähne zeigt. „Du bist hier nicht gerade willkommen, Fremde. Verlasse diesen Ort!“</FemaleText>
     </Entry>
     <Entry>
       <ID>103</ID>
@@ -473,13 +475,17 @@ Sie folgen dem Orlaner in den Wald.</DefaultText>
 „Was wirst du tun, wenn sie ihn fangen? Warte – wir werden es doch &lt;i&gt;nicht&lt;/i&gt; zulassen, dass sie ihn fangen, oder?“
 
 Nervös nagt sie an ihrer Lippe, bis sie blutet.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wächterin, ich finde deinen Witz nicht sehr lustig und ich glaube ebenfalls nicht, dass er Serafen gefallen hat.“
+
+„Was wirst du tun, wenn sie ihn fangen? Warte – wir werden es doch &lt;i&gt;nicht&lt;/i&gt; zulassen, dass sie ihn fangen, oder?“
+
+Nervös nagt sie an ihrer Lippe, bis sie blutet.</FemaleText>
     </Entry>
     <Entry>
       <ID>147</ID>
       <DefaultText>Pallegina wendet sich dir zu, die inneren Membranen ihrer Augen blinzeln.
 
-„Ich weiß nicht, ob du es ernst meint oder Spaß machst, aber ich kann mir nicht vorstellen, wie das hier deiner Meinung nach ausgehen soll.“</DefaultText>
+„Ich weiß nicht, ob du es ernst meinst oder Spaß machst, aber ich kann mir nicht vorstellen, wie das hier deiner Meinung nach ausgehen soll.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -504,7 +510,9 @@ Die anderen nicken und nähern sich.</DefaultText>
       <DefaultText>Du stehst auf, um zu antworten. Ein anderer Aumauaner meldet sich zu Wort. „Weswegen brüllst du die Leute denn bloß so an? Ich behaupte mal, dieser Anbeter hat den Huana immer geholfen.“
 
 Der erste blickt finster. „Der da? Der ist doch von derselben Sorte wie die Leute am Ankerplatz der Königin, behaupte ich jetzt mal!“</DefaultText>
-      <FemaleText />
+      <FemaleText>Du stehst auf, um zu antworten. Ein anderer Aumauaner meldet sich zu Wort. „Weswegen brüllst du die Leute denn bloß so an? Ich behaupte mal, diese Betende hat den Huana immer geholfen.“
+
+Der erste blickt finster. „Die da? Die ist doch von derselben Sorte wie die Leute am Ankerplatz der Königin, behaupte ich jetzt mal!“</FemaleText>
     </Entry>
     <Entry>
       <ID>154</ID>
