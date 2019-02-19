@@ -17,7 +17,7 @@ Es sind rauataianische Kriegsschiffe, vollgestopft mit Kanonen, und sie bewegen 
 
 „Klare Himmel, [Player Name], und gut gemacht. Wir kümmern uns um die Verteidigungsanlagen des Hafens.“
 
-Die auf Deck versammelten rauataianische Soldaten tragen schwere Panzerhemden, und an ihrer Seite glitzern und funkeln die Klingen. Sie sehen aus, als seien sie für alles bereit.</DefaultText>
+Die auf Deck versammelten rauataianischen Soldaten tragen schwere Panzerhemden, und an ihrer Seite glitzern und funkeln die Klingen. Sie sehen aus, als seien sie für alles bereit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -27,7 +27,7 @@ Die auf Deck versammelten rauataianische Soldaten tragen schwere Panzerhemden, u
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Atsura hat keine rauataianische Schiffe erwähnt.“</DefaultText>
+      <DefaultText>„Atsura hat keine rauataianischen Schiffe erwähnt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -64,7 +64,9 @@ Die Truppen hinter ihm verschränken wie ein Mann ihre Arme.</DefaultText>
       <DefaultText>„Wächter! Bist du es wirklich?“
 
 Kana Rua grinst dich mit unverfrorenem Entzücken an, stößt den konfusen Kapitän des Schiffes mit den Schultern zur Seite, um sich über die Reling zu beugen.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wächterini! Bist du es wirklich?“
+
+Kana Rua grinst dich mit unverfrorenem Entzücken an, stößt den konfusen Kapitän des Schiffes mit den Schultern zur Seite, um sich über die Reling zu beugen.</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -151,7 +153,9 @@ Maia grinst ihn an. Ishiza sitzt auf der Reling und krächzt freudig.</DefaultTe
       <DefaultText>„Ja, wir müssen beide Verantwortung übernehmen. Kannst du das glauben? Ich und Verantwortung.“ Kana kichert leise in sich hinein.
 
 „Das, und der Kapitän wird nervös. Pass auf dich auf, mein Freund. Wir schreiben dir zu Ehren ein Seemannslied!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ja, wir müssen beide Verantwortung übernehmen. Kannst du das glauben? Ich und Verantwortung.“ Kana kichert leise in sich hinein.
+
+„Das, und der Kapitän wird nervös. Pass auf dich auf, meine Freundin. Wir schreiben dir zu Ehren ein Seemannslied!“</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -170,10 +174,10 @@ Maia grinst ihn an. Ishiza sitzt auf der Reling und krächzt freudig.</DefaultTe
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>„Ich halte ihn von der offenen See fern, mach dir keine Sorgen du großer Feigling.“
+      <DefaultText>„Ich halte ihn von der offenen See fern, mach dir keine Sorgen, du großer Feigling.“
 
 Maia grinst Kana an.</DefaultText>
-      <FemaleText>„Ich halte sie von der offenen See fern, mach dir keine Sorgen du großer Feigling.“
+      <FemaleText>„Ich halte sie von der offenen See fern, mach dir keine Sorgen, du großer Feigling.“
 
 Maia grinst Kana an.</FemaleText>
     </Entry>
@@ -231,7 +235,7 @@ Maia zeigt auf ihn und hebt warnend die Augenbraue.</DefaultText>
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„nur damit du von einem riesigen Fuß zerdrückt wirst? Absurd. So ist die Geschichte aber nicht.“ Kana verschränkt die Arme.</DefaultText>
+      <DefaultText>„Nur damit du von einem riesigen Fuß zerdrückt wirst? Absurd. So ist die Geschichte aber nicht.“ Kana verschränkt die Arme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,12 +270,12 @@ Maia zwinkert dir zu.</DefaultText>
 
 „Klare Himmel, [Player Name], und gut gemacht. Wir kümmern uns um die Verteidigungsanlagen des Hafens.“
 
-Die auf Deck versammelten rauataianische Soldaten tragen schwere Panzerhemden, und an ihrer Seite glitzern und funkeln die Klingen. Sie sehen aus, als seien sie für alles bereit.</DefaultText>
+Die auf Deck versammelten rauataianischen Soldaten tragen schwere Panzerhemden, und an ihrer Seite glitzern und funkeln die Klingen. Sie sehen aus, als seien sie für alles bereit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Kana folgt dem Beispiel ein paar Sekunden später, und verzieht verlegen das Gesicht.</DefaultText>
+      <DefaultText>Kana folgt dem Beispiel ein paar Sekunden später und verzieht verlegen das Gesicht.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
