@@ -13,14 +13,14 @@ Eine Frau mit einem steifen, geraden Rücken fuchtelt wie wild mit den Armen umh
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Dann bedeutet die Versteigerin hastig dem letzten Sklaven mit einer Bewegung ihres pedantisch steifen Handgelenks vorzutreten.
+      <DefaultText>Dann bedeutet die Auktionatorin hastig dem letzten Sklaven mit einer Bewegung ihres pedantisch steifen Handgelenks vorzutreten.
 
 Er ist eine bärenstarke Missgeburt mit einem hässlichen Gesicht. Bei jedem seiner schweren Schritte klirren die Ketten, mit denen er gefesselt ist, und die Planken der Tribüne ächzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Was für ein übles Ding!“ Die Worte sind schneidend und gemein, doch der Strohfächer der Sprecherin schnippt dennoch sofort in die Höhe.</DefaultText>
+      <DefaultText>„Was für ein übles Ding!“ Die Worte sind schneidend und gemein, doch der Strohfächer des Sprechers schnippt dennoch sofort in die Höhe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -52,7 +52,7 @@ Ein anderer Fächer öffnet sich mit einem schnappenden Laut, und ein heiseres L
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Die Menge zuckt angesichts deines so wesentlich erhöhten Gebots zusammen, doch die Versteigerin hält nur kurz inne, um Luft zu holen, bevor sie das neue Gebot laut verkündet.</DefaultText>
+      <DefaultText>Die Menge zuckt angesichts deines so wesentlich erhöhten Gebots zusammen, doch die Auktionatorin hält nur kurz inne, um Luft zu holen, bevor sie das neue Gebot laut verkündet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,9 +87,9 @@ Ein anderer Fächer öffnet sich mit einem schnappenden Laut, und ein heiseres L
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>„Wir haben achthundert siebenundfünfzig. Wie sieht es mit neunhundert aus? Wer bietet neunhundert?“
+      <DefaultText>„Wir haben achthundert fünfundsiebzig. Wie sieht es mit neunhundert aus? Wer bietet neunhundert?“
 
-Die Versteigerin deutet mit einer Handbewegung auf die Menge und wartet auf das nächste höhere Gebot.</DefaultText>
+Die Auktionatorin deutet mit einer Handbewegung auf die Menge und wartet auf das nächste höhere Gebot.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -99,7 +99,7 @@ Die Versteigerin deutet mit einer Handbewegung auf die Menge und wartet auf das 
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Falls das überhaupt noch möglich ist, rattert die Versteigerin ihre Zahlen nur noch schneller herunter. Sie verbreitet Aufregung wie von einem Trommelwirbel. Mit jedem Wort bewegt ihre Hand sich, als ob diese auf dem Rhythmus der Worte reiten würde.
+      <DefaultText>Falls das überhaupt noch möglich ist, rattert die Auktionatorin ihre Zahlen nur noch schneller herunter. Sie verbreitet Aufregung wie von einem Trommelwirbel. Mit jedem Wort bewegt ihre Hand sich, als ob diese auf dem Rhythmus der Worte reiten würde.
 
 Der Preis ist jetzt auf eintausend Pires gestiegen.</DefaultText>
       <FemaleText />
@@ -115,7 +115,7 @@ Nummer 24 schüttelt den Kopf. Andere aus der Menge murmeln ihre Zustimmung.</De
       <ID>23</ID>
       <DefaultText>„Elf, einhundert. Haben wir zwei? Bekomme ich zwei?“
 
-Jetzt ziemlich ungeduldig, bedeutet die Versteigerin dem Gottgleichen des Todes, den Kopf zu senken. Wahrscheinlich möchte sie seine glänzenden, zurückgebogenen Hörner vorführen. Stattdessen starrt er sie nur an. Er sieht aus, als würde er am liebsten Gift spucken.</DefaultText>
+Jetzt ziemlich ungeduldig, bedeutet die Auktionatorin dem Gottgleichen des Todes, den Kopf zu senken. Wahrscheinlich möchte sie seine glänzenden, zurückgebogenen Hörner vorführen. Stattdessen starrt er sie nur an. Er sieht aus, als würde er am liebsten Gift spucken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,7 +163,7 @@ Die Frau lächelt begierig und voller Schadenfreude.</DefaultText>
     <Entry>
       <ID>35</ID>
       <DefaultText>„Und jetzt haben wir elf, zweihundert, von dem Bieter ohne Nummer. Wie merkwürdig! Ein reizvolles Rätsel, Gliente. Elf, zweihundert – bekomme ich drei?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Und jetzt haben wir elf, zweihundert, von der Bieterin ohne Nummer. Wie merkwürdig! Ein reizvolles Rätsel, Gliente. Elf, zweihundert – bekomme ich drei?“</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -175,7 +175,9 @@ Die Frau lächelt begierig und voller Schadenfreude.</DefaultText>
       <DefaultText>„Zum Ersten! Zum Zweiten! Und verkauft! An unseren mysteriösen Bieter, den Kunden mit den vollen Taschen.“
 
 Ihre Lippen verzerren sich zu einem habgierigen Grinsen.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Zum Ersten! Zum Zweiten! Und verkauft! An unsere mysteriöse Bieterin, die Kundin mit den vollen Taschen.“
+
+Ihre Lippen verzerren sich zu einem habgierigen Grinsen.</FemaleText>
     </Entry>
     <Entry>
       <ID>38</ID>
@@ -201,7 +203,7 @@ Nummer 24 schüttelt den Kopf. Andere aus der Menge murmeln ihre Zustimmung.</De
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Die Versteigerin neigt den Kopf in Richtung des gefesselten Gottgleichen.</DefaultText>
+      <DefaultText>Die Auktionatorin neigt den Kopf in Richtung des gefesselten Gottgleichen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,7 +214,7 @@ Nummer 24 schüttelt den Kopf. Andere aus der Menge murmeln ihre Zustimmung.</De
     <Entry>
       <ID>45</ID>
       <DefaultText>„Elf, zweihundert Pires. Zum Ersten, zum Zweiten – und verkauft an unseren mysteriösen Bieter!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Elf, zweihundert Pires. Zum Ersten, zum Zweiten – und verkauft an unsere mysteriöse Bieterin!“</FemaleText>
     </Entry>
     <Entry>
       <ID>47</ID>
@@ -265,7 +267,7 @@ Ihr Auftreten ist jetzt auf einmal kalt und hart und scharf wie die Schneide ein
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Die Menge wiegt sich hin und her. Köpfe werden geschüttelt, und Murmeln kommt auf, wird lauter. Die Stimmung wandelt sich von Verärgerung zu misstrauischer Neugier. Beunruhigt klatscht die Versteigerin einmal in die Hände, um den Abschluss des Kaufs zu signalisieren.</DefaultText>
+      <DefaultText>Die Menge wiegt sich hin und her. Köpfe werden geschüttelt, und Murmeln kommt auf, wird lauter. Die Stimmung wandelt sich von Verärgerung zu misstrauischer Neugier. Beunruhigt klatscht die Auktionatorin einmal in die Hände, um den Abschluss des Kaufs zu signalisieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -275,7 +277,7 @@ Ihr Auftreten ist jetzt auf einmal kalt und hart und scharf wie die Schneide ein
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>„Krummsporn braucht doch nicht so viele Waffen, um ein paar Sklaven im Zaum zu halten! Welche legalen Geschäften sollten wohl eine so starke Sicherheit erfordern?“</DefaultText>
+      <DefaultText>„Krummsporn braucht doch nicht so viele Waffen, um ein paar Sklaven im Zaum zu halten! Welche legalen Geschäfte sollten wohl eine so starke Sicherheit erfordern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,7 +304,7 @@ Sie schüttelt ihren zierlichen Arm, um ihn aufzulockern. Dann zieht sie rasch e
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Die Menge reagiert gereizt auf den Ausbruch, doch die Versteigerin macht einfach weiter. Ihre einzige Reaktion ist ein schneidender Blick in deine Richtung.</DefaultText>
+      <DefaultText>Die Menge reagiert gereizt auf den Ausbruch, doch die Auktionatorin macht einfach weiter. Ihre einzige Reaktion ist ein schneidender Blick in deine Richtung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -312,7 +314,7 @@ Sie schüttelt ihren zierlichen Arm, um ihn aufzulockern. Dann zieht sie rasch e
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Endlich bricht das zwitschernde Endlosgerede der Versteigerin ab. Sie schweigt.</DefaultText>
+      <DefaultText>Endlich bricht das zwitschernde Endlosgerede der Auktionatorin ab. Sie schweigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -373,7 +375,7 @@ Sie dreht sich, um zur Seite zu blicken. Ein Mundwinkel ist zu einem bitteren L�
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>„Eine höchst seltene Frucht – ein wahrer Augenschmaus!“ Die Lippen der Versteigerin verziehen sich zu einem grausamen Lächeln.</DefaultText>
+      <DefaultText>„Eine höchst seltene Frucht – ein wahrer Augenschmaus!“ Die Lippen der Auktionatorin verziehen sich zu einem grausamen Lächeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -385,7 +387,7 @@ Sie deutet auf die jeweiligen Bieter, die ihre mit Zahlen versehenen Strohfäche
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Schweigen breitet sich in der Menge aus. Auch die Versteigerin hat ihre endlosen Ankündigungen eingestellt. Sie starrt dich direkt an. Einen einzelnen Atemzug lang schweigt sie.</DefaultText>
+      <DefaultText>Schweigen breitet sich in der Menge aus. Auch die Auktionatorin hat ihre endlosen Ankündigungen eingestellt. Sie starrt dich direkt an. Einen einzelnen Atemzug lang schweigt sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -395,12 +397,12 @@ Sie deutet auf die jeweiligen Bieter, die ihre mit Zahlen versehenen Strohfäche
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Die Versteigerin kichert. Es ist ein schneidender, höhnischer Laut.</DefaultText>
+      <DefaultText>Die Auktionatorin kichert. Es ist ein schneidender, höhnischer Laut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>„Unsinn! Eine völlige Dummheit! Dann sag uns doch, Postenago – woher kommst du? Und ich würde dir raten bei deiner Angabe sehr genau zu sein.“</DefaultText>
+      <DefaultText>„Unsinn! Eine völlige Dummheit! Dann sag uns doch, Postenago – woher kommst du? Und ich würde dir raten, bei deiner Angabe sehr genau zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,7 +538,7 @@ Ohne sich weiter mit dem Sklaven aufzuhalten, wendet sie sich wieder dir zu.</Fe
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>Die Gewinnerin tritt vor, um ihren Sklaven in Empfang zu nehmen. Die Versteigerin betrachtet die Menge, die sich langsam auflöst, bis ihr Blick auf dich fällt.</DefaultText>
+      <DefaultText>Die Gewinnerin tritt vor, um ihren Sklaven in Empfang zu nehmen. Die Auktionatorin betrachtet die Menge, die sich langsam auflöst, bis ihr Blick auf dich fällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -569,7 +571,9 @@ Ohne sich weiter mit dem Sklaven aufzuhalten, wendet sie sich wieder dir zu.</Fe
       <DefaultText>„Bist du jetzt völlig durchgedreht, Kapitän Wächter?“
 
 Serafen fixiert dich mit seinem grünen Starren.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Bist du jetzt völlig durchgedreht, Kapitän Wächterin?“
+
+Serafen fixiert dich mit seinem grünen Starren.</FemaleText>
     </Entry>
     <Entry>
       <ID>119</ID>
@@ -619,7 +623,7 @@ Nummer 24 schüttelt den Kopf. Andere aus der Menge murmeln ihre Zustimmung.</De
       <ID>127</ID>
       <DefaultText>„Elf, einhundert. Haben wir einhundertfünzig? Kriege ich einhundertfünfzig?“
 
-Jetzt ziemlich ungeduldig bedeutet die Versteigerin dem Gottähnlichen des Todes, den Kopf zu senken. Wahrscheinlich möchte sie seine glänzenden, zurückgebogenen Hörner vorführen. Stattdessen starrt er sie nur an. Er sieht aus, als würde er am liebsten Gift spucken.</DefaultText>
+Jetzt ziemlich ungeduldig bedeutet die Auktionatorin dem Gottähnlichen des Todes, den Kopf zu senken. Wahrscheinlich möchte sie seine glänzenden, zurückgebogenen Hörner vorführen. Stattdessen starrt er sie nur an. Er sieht aus, als würde er am liebsten Gift spucken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -659,8 +663,8 @@ Jetzt ziemlich ungeduldig bedeutet die Versteigerin dem Gottähnlichen des Todes
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>„Verkauft! An den geheimen Bieter ohne Nummer. Bitte tritt vor, um dein Eigentum in Empfang zu nehmen.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Verkauft! An den geheimnisvollen Bieter ohne Nummer. Bitte tritt vor, um dein Eigentum in Empfang zu nehmen.“</DefaultText>
+      <FemaleText>„Verkauft! An die geheimnisvolle Bieterin ohne Nummer. Bitte tritt vor, um dein Eigentum in Empfang zu nehmen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>137</ID>
