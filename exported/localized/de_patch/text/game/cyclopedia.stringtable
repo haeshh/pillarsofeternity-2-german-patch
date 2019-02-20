@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>906</EntryCount>
+  <EntryCount>907</EntryCount>
   <Entries>
     <Entry>
       <ID>43</ID>
@@ -4855,6 +4855,11 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     <Entry>
       <ID>1116</ID>
       <DefaultText>Ein Leichter Treffer ist jeder Angriffswurf zwischen 1 und 50. Dauer und Schaden eines Leichten Treffers sind um 50 % reduziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1117</ID>
+      <DefaultText>Schiffsverteidiger helfen beim Kampf gegen Feinde an Deck.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4571</EntryCount>
+  <EntryCount>4572</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -23327,6 +23327,11 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     <Entry>
       <ID>5312</ID>
       <DefaultText>{0}% Aktionsgeschwindigkeit, {2}% Vorwärtskommen und {1} Reflexe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5313</ID>
+      <DefaultText>Wie viele {0} hinzufügen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
