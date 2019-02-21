@@ -128,7 +128,7 @@ Trotz seiner angriffslustigen Worte ist deutlich zu bemerken, dass den Wahaki-Kr
     <Entry>
       <ID>35</ID>
       <DefaultText>„Das hier ist keine Bibliothek, Fremder. Dieser Dschungel ist vom Tod selbst berührt worden.“ Etwas an deinen Worten sorgt dafür, dass er sich ein wenig beruhigt.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Das hier ist keine Bibliothek, Fremde. Dieser Dschungel ist vom Tod selbst berührt worden.“ Etwas an deinen Worten sorgt dafür, dass er sich ein wenig beruhigt.</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -158,7 +158,7 @@ Trotz seiner angriffslustigen Worte ist deutlich zu bemerken, dass den Wahaki-Kr
     <Entry>
       <ID>56</ID>
       <DefaultText>„Wir kennen dich, Fremder. Dennoch stört mich deine Anwesenheit.“ Er hält die Axt in beiden Händen und dreht sie mit langsamen, bewussten Bewegungen.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wir kennen dich, Fremde. Dennoch stört mich deine Anwesenheit.“ Er hält die Axt in beiden Händen und dreht sie mit langsamen, bewussten Bewegungen.</FemaleText>
     </Entry>
     <Entry>
       <ID>57</ID>
@@ -188,7 +188,7 @@ Trotz seiner angriffslustigen Worte ist deutlich zu bemerken, dass den Wahaki-Kr
     <Entry>
       <ID>66</ID>
       <DefaultText>„Du bist zum falschen Ort gekommen, Fremder.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Du bist zum falschen Ort gekommen, Fremde.“</FemaleText>
     </Entry>
     <Entry>
       <ID>67</ID>
@@ -212,7 +212,7 @@ Trotz seiner angriffslustigen Worte ist deutlich zu bemerken, dass den Wahaki-Kr
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>„Der Prinz hat Entdecker zu dieser Insel gesandt. Ihre aufgelösten Leichen und ihre blutige Kleidung ist alles, das von ihnen noch übrig ist.“</DefaultText>
+      <DefaultText>„Der Prinz hat Entdecker zu dieser Insel gesandt. Ihre aufgelösten Leichen und ihre blutige Kleidung sind alles, das von ihnen noch übrig ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -344,7 +344,7 @@ Mit seinem Zeh zieht Embeta einen Strich in den Sand. In Gedanken verloren blick
     <Entry>
       <ID>101</ID>
       <DefaultText>„Mögest du lange genug leben, um sauberere Ufer zu sehen als diese, Fremder.“ Respektvoll neigt Embeta den Kopf.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Mögest du lange genug leben, um sauberere Ufer zu sehen als diese, Fremde.“ Respektvoll neigt Embeta den Kopf.</FemaleText>
     </Entry>
     <Entry>
       <ID>102</ID>
@@ -364,14 +364,16 @@ Mit seinem Zeh zieht Embeta einen Strich in den Sand. In Gedanken verloren blick
     <Entry>
       <ID>105</ID>
       <DefaultText>„Die Ruinen tief im Dschungel … Sie sind viel zu kostbar, um zu riskieren, dass sie in die Hände eines Fremden fallen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Die Ruinen tief im Dschungel … Sie sind viel zu kostbar, um zu riskieren, dass sie in die Hände einer Fremden fallen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>106</ID>
       <DefaultText>„Es wäre besser für uns beide, wenn ich dich jetzt töte. Wir werden deine Leiche mit all dem Pomp dem Meer übergeben, den ein würdiger Feind verdient. Eine größere Ehre kann kein Fremder erwarten.“
 
 Embeta nickt. Er hat sich nun mit dieser einfachen Unvermeidlichkeit abgefunden.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Es wäre besser für uns beide, wenn ich dich jetzt töte. Wir werden deine Leiche mit all dem Pomp dem Meer übergeben, den ein würdiger Feind verdient. Eine größere Ehre kann keine Fremde erwarten.“
+
+Embeta nickt. Er hat sich nun mit dieser einfachen Unvermeidlichkeit abgefunden.</FemaleText>
     </Entry>
     <Entry>
       <ID>107</ID>
@@ -416,12 +418,12 @@ Embeta nickt. Er hat sich nun mit dieser einfachen Unvermeidlichkeit abgefunden.
     <Entry>
       <ID>115</ID>
       <DefaultText>„Wenn ein Fremder Neketaka besucht und sich als nützlich erweist … Das kommt selten genug vor, und sollte daher nicht bestraft werden.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wenn eine Fremde Neketaka besucht und sich als nützlich erweist … Das kommt selten genug vor, und sollte daher nicht bestraft werden.“</FemaleText>
     </Entry>
     <Entry>
       <ID>116</ID>
       <DefaultText>„Wir werden dich beobachten, Fremder. Den Versuchen des Dschungels, dich zu verschlingen, werden wir allerdings nicht entgegentreten. Achte darauf, dass du dich in den Ruinen von Motare o Kōzi anständig benimmst.“ Er signalisiert den anderen Kriegern durch eine Kopfbewegung, die Waffen zu senken.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wir werden dich beobachten, Fremde. Den Versuchen des Dschungels, dich zu verschlingen, werden wir allerdings nicht entgegentreten. Achte darauf, dass du dich in den Ruinen von Motare o Kōzi anständig benimmst.“ Er signalisiert den anderen Kriegern durch eine Kopfbewegung, die Waffen zu senken.</FemaleText>
     </Entry>
     <Entry>
       <ID>117</ID>
@@ -476,7 +478,7 @@ Embeta nickt. Er hat sich nun mit dieser einfachen Unvermeidlichkeit abgefunden.
     <Entry>
       <ID>128</ID>
       <DefaultText>„Du sprichst wie ein wahrer Fremder – diejenigen, denen die Insel gehört, die du plündern willst, sind dir völlig gleichgültig.“ Er schüttelt langsam den Kopf.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Du sprichst wie eine wahre Fremde – diejenigen, denen die Insel gehört, die du plündern willst, sind dir völlig gleichgültig.“ Er schüttelt langsam den Kopf.</FemaleText>
     </Entry>
     <Entry>
       <ID>129</ID>

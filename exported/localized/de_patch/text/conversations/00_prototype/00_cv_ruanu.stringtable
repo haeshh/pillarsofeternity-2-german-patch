@@ -20,7 +20,7 @@ Sobald du ihm ins Auge fällst, grinst er umgehend so breit, dass er jeden Muske
     <Entry>
       <ID>3</ID>
       <DefaultText>„Sei gegrüßt, Freund! Es ist stets eine Ehre, Gäste zu empfangen.“ Er neigt seinen Kopf und berührt seine Stirn.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Sei gegrüßt, Freundin! Es ist stets eine Ehre, Gäste zu empfangen.“ Er neigt seinen Kopf und berührt seine Stirn.</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>
@@ -149,7 +149,7 @@ Er dreht und mustert es genau.</DefaultText>
       <ID>121</ID>
       <DefaultText>„Immerhin hat der vorherige Priester mich ordnungsgemäß herausgefordert.“ Er packt das Götzenbild so kraftvoll, dass es jeden Moment zu zerspringen scheint.
 
-Plötzlich sieht er wieder dich an; sein Mund zu einer dünnen Linie gezogen.</DefaultText>
+Plötzlich sieht er wieder dich an; seinen Mund zu einer dünnen Linie gezogen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@ Plötzlich sieht er wieder dich an; sein Mund zu einer dünnen Linie gezogen.</D
       <ID>129</ID>
       <DefaultText>„Wenn die Vailianer kommen, werden sie hier, in Tikawara, einen Außenposten errichten.“
 
-Sein Blick wird unbestimmt, als ob er sich jedes Wortes überzeugte.</DefaultText>
+Sein Blick wird unbestimmt, als ob er sich mit jedem Wort selbst überzeugen müsste.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@ Sein Blick wird unbestimmt, als ob er sich jedes Wortes überzeugte.</DefaultTex
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>„So sicher wie meine Finger Schwimmhäute haben!“ Er lacht zu laut, und hält eine Hand hoch, damit du wartest.</DefaultText>
+      <DefaultText>„So sicher wie meine Finger Schwimmhäute haben!“ Er lacht zu laut und hält eine Hand hoch, damit du wartest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -434,7 +434,7 @@ Er hebt seine Hand, um nach Osten zu deuten. Seine Hand fällt schlaff an Seite 
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>[Zeige ihm die gefälschte Urkunde.] „Ich glaube, du wirst an meinen Papieren nicht auszusetzen haben.“</DefaultText>
+      <DefaultText>[Zeige ihm die gefälschte Urkunde.] „Ich glaube, du wirst an meinen Papieren nichts auszusetzen haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -633,7 +633,7 @@ Mit jedem Eingeständnis sinkt sein Kopf tiefer, als ob es ihn persönlich herab
     </Entry>
     <Entry>
       <ID>335</ID>
-      <DefaultText>„Hier – das ist ein Zeichen der Anerkennung, das von den Rangas weitergegeben wurde. Man sagt, dass aus besseren Zeiten auf Poko Kohara stammt.“
+      <DefaultText>„Hier – das ist ein Zeichen der Anerkennung, das von den Rangas weitergegeben wurde. Man sagt, dass es aus besseren Zeiten auf Poko Kohara stammt.“
 
 Er überreicht dir ein schweres langes Stück Kupfer in Spiralenform.</DefaultText>
       <FemaleText />
@@ -720,7 +720,7 @@ Dagegen ankämpfend zwingt sie sich ein schwaches Lächeln ab und nickt höflich
     <Entry>
       <ID>363</ID>
       <DefaultText>„Sprich weiter, Freund! Was sagst du?“ Er spreizt seine Handflächen.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Sprich weiter, Freundin! Was sagst du?“ Er spreizt seine Handflächen.</FemaleText>
     </Entry>
     <Entry>
       <ID>364</ID>
@@ -809,8 +809,8 @@ Dagegen ankämpfend zwingt sie sich ein schwaches Lächeln ab und nickt höflich
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>„Sprich weiter, Freund! Er öffnet seine Handfläche und wartet.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Sprich weiter, Freund!“ Er öffnet seine Handfläche und wartet.</DefaultText>
+      <FemaleText>„Sprich weiter, Freundin!“ Er öffnet seine Handfläche und wartet.</FemaleText>
     </Entry>
     <Entry>
       <ID>382</ID>

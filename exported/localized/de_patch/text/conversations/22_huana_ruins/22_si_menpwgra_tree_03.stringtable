@@ -134,7 +134,9 @@ Als Reaktion darauf beginnen die ihn umgebenden Ranken zu beben und zu pulsieren
       <DefaultText>&lt;ispeech&gt;Unser Garten wird alle Wunden wieder heilen, die du schlägst, Fremder. Wir haben den langen, harten Winter überstanden – wir können auch dich überdauern.&lt;/ispeech&gt;
 
 Ein Gefühl von Alter und tiefer Trauer durchdringt die Stimme in deinem Kopf. Sie flattert zurück in den Dschungel, bevor du mehr über sie erfahren kannst.</DefaultText>
-      <FemaleText />
+      <FemaleText>&lt;ispeech&gt;Unser Garten wird alle Wunden wieder heilen, die du schlägst, Fremde. Wir haben den langen, harten Winter überstanden – wir können auch dich überdauern.&lt;/ispeech&gt;
+
+Ein Gefühl von Alter und tiefer Trauer durchdringt die Stimme in deinem Kopf. Sie flattert zurück in den Dschungel, bevor du mehr über sie erfahren kannst.</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -150,7 +152,7 @@ Ein Gefühl von Alter und tiefer Trauer durchdringt die Stimme in deinem Kopf. S
       <ID>29</ID>
       <DefaultText>Der Stab windet sich in deiner Hand wie ein lebendiger Ast und verrenkt sich in Richtung des verdorbenen Baumes. Er scheint darauf aus zu sein, in die Rinnsale dunkler Säfte einzutauchen.
 
-Die Heilen-Magie ist in dem alten Wald entflammt.</DefaultText>
+Heilende Magie ist in dem alten Wald entflammt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
