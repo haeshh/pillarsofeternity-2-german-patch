@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>4572</EntryCount>
+  <EntryCount>4573</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -23332,6 +23332,17 @@ Du hast die Möglichkeit, die Workshop-Seite des Charakters zu überprüfen, bev
     <Entry>
       <ID>5313</ID>
       <DefaultText>Wie viele {0} hinzufügen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5314</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Das Verweilen der Phrasen wird deutlich erhöht.
+
+Gewährt das Modal „Schnelle Rezitation“. Dieses erhöht die Ansammlung von Phrasen, entfernt jedoch das Verweilen.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Das Wirken aller Beschwörungen kostet +1 Phrase.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
