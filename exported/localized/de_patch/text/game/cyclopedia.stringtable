@@ -568,7 +568,7 @@ Standardmäßig sind nur einige Angriffe in der Lage einen Leichten Treffer zu l
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Ein Fehlschlag ist jeder Angriffswurf unterhalb 25. Ein Fehlschlag verursacht keinen Schaden, keine Statuseffekte und keine Wirkungen.</DefaultText>
+      <DefaultText>Ein Fehlschlag ist jeder Angriffswurf unterhalb [Graze Min Roll]. Ein Fehlschlag verursacht keinen Schaden, keine Statuseffekte und keine Wirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4829,7 +4829,7 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     </Entry>
     <Entry>
       <ID>1108</ID>
-      <DefaultText>Inspirationen, die die Attribute Macht, Verfassung und Gewandtheit betreffen, werden als Körperinspirationen eingeordnet.</DefaultText>
+      <DefaultText>Inspirationen, die die Attribute Macht, Verfassung und Gewandtheit beeinflussen, gelten als Körperinspirationen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4844,7 +4844,7 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     </Entry>
     <Entry>
       <ID>1111</ID>
-      <DefaultText>Inspirationen, die die Attribute Intellekt, Wahrnehmung und Entschlossenheit betreffen, werden als Geistesinspirationen eingeordnet.</DefaultText>
+      <DefaultText>Inspirationen, die die Attribute Intellekt, Wahrnehmung und Entschlossenheit beeinflussen, gelten als Geistesinspirationen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4859,7 +4859,7 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     </Entry>
     <Entry>
       <ID>1117</ID>
-      <DefaultText>Schiffsverteidiger helfen beim Kampf gegen Feinde an Deck.</DefaultText>
+      <DefaultText>Schiffsverteidiger helfen beim Kampf gegen Feinde im Kampf an Deck.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
