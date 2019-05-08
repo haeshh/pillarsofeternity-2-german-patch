@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5249</ID>
+      <DefaultText>Öffne das Buch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5258</ID>
+      <DefaultText>Details ansehen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5259</ID>
+      <DefaultText>Details schließen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5260</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_parley" tint=1&gt; {0}. verhandeln</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5261</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_board" tint=1&gt; {0}. Entern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5262</ID>
+      <DefaultText>Begib dich in ein Seegefecht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5263</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_intimidate" tint=1&gt; {0}. Einschüchtern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5264</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_leave" tint=1&gt; {0}. Weggehen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5265</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_flee" tint=1&gt; {0}. Versuchen, zu fliehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5266</ID>
+      <DefaultText>&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt; {0}. Aufgabe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5270</ID>
+      <DefaultText>Du befindest dich in der Verfolgung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5271</ID>
+      <DefaultText>Du wirst verfolgt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5272</ID>
+      <DefaultText>Du bereitest dein Schiff auf den Aufbruch vor. Plötzlich erscheint eine in einen Umhang gehüllte Gestalt auf dem Landungssteg und drückt dir mit grober Gewalt ein verbranntes Buch in die Hand. Dann dreht sich die Gestalt um und verschwindet ohne ein Wort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5273</ID>
+      <DefaultText>Verlange eine Unterredung und eröffne die Verhandlung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5274</ID>
+      <DefaultText>Entere das gegnerische Schiff und verwickele den Feind in einen Kampf Deck an Deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5275</ID>
+      <DefaultText>Begib dich in ein Seegefecht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5276</ID>
+      <DefaultText>Erfolg = +&lt;sprite="Inline" name="icon_ship_currency" tint=1&gt;{0}  +&lt;sprite="Inline" name="icon_ship_food" tint=1&gt;{1}   +&lt;sprite="Inline" name="icon_ship_water" tint=1&gt;{2}        Fehlschlag = &lt;sprite="Inline" name="action_board" tint=1&gt;Entern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5277</ID>
+      <DefaultText>Gehe einfach friedlich deiner eigenen Wege.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5278</ID>
+      <DefaultText>Versuche zu entkommen. Das Scheitern dieses Versuchs wird zu einem Seegefecht führen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5279</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5281</ID>
+      <DefaultText>{0} Chance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5282</ID>
+      <DefaultText>Erfolg!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5287</ID>
+      <DefaultText>Das Ultimative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5288</ID>
+      <DefaultText>{0} ergibt sich</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5289</ID>
+      <DefaultText>Du hast Folgendes erlangt:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5290</ID>
+      <DefaultText>Fehlschlag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5291</ID>
+      <DefaultText>Dein Versuch der Einschüchterung ist gescheitert! Das gegnerische Schiff bereitet sich auf einen Kampf an Deck vor!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5292</ID>
+      <DefaultText>Erfolg!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5293</ID>
+      <DefaultText>Du bist erfolgreich deinem Verfolger entkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5294</ID>
+      <DefaultText>Fehlschlag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5295</ID>
+      <DefaultText>Dein Fluchtversuch ist fehlgeschlagen! Das gegnerische Schiff bereitet sich auf ein Seegefecht vor!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5296</ID>
+      <DefaultText>Fliehen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5297</ID>
+      <DefaultText>Für deine Kapitulation verlangt [ShipDuel_Opponent]:
+[ShipDuel_SurrenderCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5299</ID>
+      <DefaultText>Aktiviert alle Herausforderungen und deaktiviert Cheats, Mods und Beraths Segnungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5300</ID>
+      <DefaultText>Benötigt für die Aktivierung Bestie des Winters/Sucher, Schlächter, Überlebender/Vergessenes Heiligtum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5301</ID>
+      <DefaultText>Du musst alle wichtigen Feinde und Bosse im Kampf besiegen, oder das Spiel wird beendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5302</ID>
+      <DefaultText>Rückzug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5303</ID>
+      <DefaultText>Aufgabe</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

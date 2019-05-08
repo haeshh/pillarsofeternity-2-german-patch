@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_post_magransteeth_gods-2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Das klingt aber gar nicht nach der neutralen Königin der Götter, die ich kenne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>[Gegen den Einband von Woedicas verbranntem Buch klopfen und signalisieren, dass du später bereit sein wirst zu sprechen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Eine glühende Hitzewelle trifft dich, gefolgt von einer salzigen Meeresbrise. Göttliche Stimmen dröhnen und kreischen. Ihre Worte lassen die Plattform unter dir und die Luft, die dich umgibt, erbeben.
+
+Die Götter kämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

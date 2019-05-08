@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_endgame_ultimatechallenge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Luft um dich herum füllt sich mit einem erstickenden Gifthauch. Du greifst dir an die Kehle, um atmen zu können, findest jedoch keine Erleichterung. Vor dir verdichtet sich eine vertraute Gestalt – die Silhouette der Bleichen Ritterin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sie schüttelt den Kopf und greift dir mit einer bleichen Hand in die Brust. Wellen der Missbilligung, gefärbt mit dem Gefühl unvollendeter Dinge, erfüllen dich mit kaltem Entsetzen. 
+
+Da war doch etwas, das sie von dir wollte. Eine wichtige Aufgabe. Was war es doch gleich noch?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du wiederholst die Frage an dich selbst, panikartig immer wieder – und stirbst. Dann endet alles. Deine Seele steigt aus deinem Körper auf, und plötzlich spielt die Antwort keine Rolle mehr. Nichts spielt mehr eine Rolle. Einfach alles loslassen, das ist weit leichter und einfacher, als du es dir vorgestellt hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

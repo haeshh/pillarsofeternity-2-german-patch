@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5931</ID>
+      <DefaultText>Das Verbrannte Buch des Rechts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5932</ID>
+      <DefaultText>Der Einband dieses Folianten riecht nach Rauch. Die wenigen noch übriggebliebenen Seiten sind zerknittert und geschwärzt. Einigen Kapitelüberschriften zufolge, die den Brandschaden überstanden haben, war dies offensichtlich einmal ein Buch uralter Gesetze. Jetzt ist es nicht mehr als ein verkohltes Relikt der Autorität.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5939</ID>
+      <DefaultText>Schwarzholzstamm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5940</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

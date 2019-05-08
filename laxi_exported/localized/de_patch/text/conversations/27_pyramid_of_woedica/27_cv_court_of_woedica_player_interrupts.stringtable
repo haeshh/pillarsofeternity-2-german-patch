@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\27_pyramid_of_woedica\27_cv_court_of_woedica_player_interrupts</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Ich suche nach Gerechtigkeit, Schwester. Kümmere dich jetzt sofort darum. Langsam. Ich will zusehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Ich bin die einzige Autorität in dieser Kammer. &lt;i&gt;Ich&lt;/i&gt; werde das Urteil ausführen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Es gibt keine Unschuldigen. Nur diejenigen, die auf ihre Strafe warten. Übergib den Alten in meine Obhut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Sie starrt dich mehrere Moment lang intensiv an, ihre Augen sind so unleserlich wie die Maske, die ihre Gesichtszüge verdeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"WAS?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

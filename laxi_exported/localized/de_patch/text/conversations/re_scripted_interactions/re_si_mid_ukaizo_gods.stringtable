@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_mid_ukaizo_gods</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Woedica möchte nicht, dass sie dieses Problem lösen. Sie will die Königin sein und über euch alle herrschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Ich danke dir dafür. Woedica hat mir Pessimismus ins Ohr geträufelt wie Gift."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Einer von euch hat versucht, mich davon zu überzeugen, dass die Sterblichen zum Scheitern verurteilt sind, aber ich glaube das nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
