@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3363</EntryCount>
+  <EntryCount>3365</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -4126,7 +4126,7 @@
     </Entry>
     <Entry>
       <ID>1477</ID>
-      <DefaultText>Dieser Zauber beschwört einen mächtigen Kampfstab, der Feinde bei jedem erfolgreichen Angriff wegstößt und Humpelnd zurücklässt. Die Beschwörung des Stabes selbst stößt jeden aus der Nähe des Zauberwirkers fort (auch Verbündete).</DefaultText>
+      <DefaultText>Dieser Zauber beschwört einen mächtigen Kampfstab, der die Feinde bei jedem erfolgreichen Angriff zurückstößt und Humpelnd hinterlässt. Die Beschwörung des Stabes selbst stößt jeden (auch Verbündete) aus der Nähe des Zauberwirkers zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17206,6 +17206,16 @@ Keiner.</DefaultText>
     <Entry>
       <ID>5174</ID>
       <DefaultText>Niedergestreckt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5176</ID>
+      <DefaultText>Wenn dies aktiv ist, entfalten die Sprüche des Sängers für sehr viel kürzere Zeit Wirkung, aber die Verweilwirkung wird entfernt.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
