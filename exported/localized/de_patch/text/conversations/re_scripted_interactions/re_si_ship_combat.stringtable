@@ -868,7 +868,7 @@ Das gegnerische Schiff fällt hinter euch zurück, bis es schließlich am Horizo
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt; [Sich ergeben.]</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Surrender"&gt;&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt;&lt;/link&gt; [Sich ergeben.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -941,19 +941,19 @@ Ein raues Gejohle ertönt aus den Kehlen von [ShipDuel_Opponent]s Mannschaft. �
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>[Zum Entern bereitmachen] „Zeigt keine Gnade! Angriff!“</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Board"&gt;&lt;sprite="Inline" name="action_board" tint=1&gt;&lt;/link&gt; „Zeigt keine Gnade! Angriff!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>Das nervöse Murmeln der Besatzung hallt durch das Schiff, als du den Befehl gibst, vorzudringen. Die [ShipDuel_PlayerShip] wird so leichtes Ziel für Harkendes Feuer, was das Risiko auf Verletzungen erhöht:
+      <DefaultText>Das nervöse Murmeln der Besatzung hallt durch das Schiff, als du den Befehl zum Angriff gibst. Die [ShipDuel_PlayerShip] wird dadurch harkendem Feuer ausgesetzt:
 
 [ShipDuel_CloseToBoardCost]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>328</ID>
-      <DefaultText>[Weiter vordringen.]</DefaultText>
+      <DefaultText>„Angriff!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -963,7 +963,7 @@ Ein raues Gejohle ertönt aus den Kehlen von [ShipDuel_Opponent]s Mannschaft. �
     </Entry>
     <Entry>
       <ID>331</ID>
-      <DefaultText />
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Flee"&gt;&lt;sprite="Inline" name="action_flee" tint=1&gt;&lt;/link&gt; „Rückzug!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -975,7 +975,7 @@ Das gegnerische Schiff fällt hinter euch zurück, bis es schließlich am Horizo
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText />
+      <DefaultText>Deine Mannschaft schätzt die Windrichtung falsch ein. Dadurch gelingt es deinem Schiff nicht, die nötige Geschwindigkeit zu erreichen, um zu entkommen. Plötzlich hängen die Segel schlaff von den Masten.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
