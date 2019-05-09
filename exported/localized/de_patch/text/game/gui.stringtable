@@ -3047,7 +3047,7 @@ Legenden zufolge verließen die Rauatai, aufgrund einer schrecklichen Katastroph
     </Entry>
     <Entry>
       <ID>605</ID>
-      <DefaultText>{0} Runden zum Bauen</DefaultText>
+      <DefaultText>{0} Züge zum Bauen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3062,7 +3062,7 @@ Legenden zufolge verließen die Rauatai, aufgrund einer schrecklichen Katastroph
     </Entry>
     <Entry>
       <ID>608</ID>
-      <DefaultText>Endet in Runde {0}.</DefaultText>
+      <DefaultText>Endet in Zug {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3087,12 +3087,12 @@ Legenden zufolge verließen die Rauatai, aufgrund einer schrecklichen Katastroph
     </Entry>
     <Entry>
       <ID>661</ID>
-      <DefaultText>Runde: {0}</DefaultText>
+      <DefaultText>Zug: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>662</ID>
-      <DefaultText>Nächste Baurunde</DefaultText>
+      <DefaultText>Nächster Zug</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6449,7 +6449,7 @@ In Dialogen und geskripteten Interaktionen wird die Athletik für körperliche A
     </Entry>
     <Entry>
       <ID>1443</ID>
-      <DefaultText>Runde</DefaultText>
+      <DefaultText>Zug</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8673,7 +8673,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1900</ID>
-      <DefaultText>{0} Runden</DefaultText>
+      <DefaultText>{0} Züge</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -18968,12 +18968,12 @@ Möchtest du die Telemetrie jetzt aktivieren?</DefaultText>
     </Entry>
     <Entry>
       <ID>4044</ID>
-      <DefaultText>Deine Runde {0}</DefaultText>
+      <DefaultText>Dein Zug {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4045</ID>
-      <DefaultText>Gegnerische Runde {0}</DefaultText>
+      <DefaultText>Gegnerischer Zug {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -20693,7 +20693,7 @@ Möchtest du die Telemetrie jetzt aktivieren?</DefaultText>
     </Entry>
     <Entry>
       <ID>4472</ID>
-      <DefaultText>{0} Runde(n)</DefaultText>
+      <DefaultText>{0} Zug</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -22543,7 +22543,7 @@ Die Visionen suchten dich endlich nicht mehr heim und du zogst dich zurück ins 
     </Entry>
     <Entry>
       <ID>4952</ID>
-      <DefaultText>Ein für 10 Sekunden ohnmächtiges Gruppenmitglied wird getötet</DefaultText>
+      <DefaultText>Jedes für 10 Sekunden (Echtzeit ohne Pause) oder 3 Runden (rundenbasiert) ohnmächtiges Gruppenmitglied wird getötet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
