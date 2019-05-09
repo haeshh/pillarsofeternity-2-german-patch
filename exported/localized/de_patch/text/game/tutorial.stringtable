@@ -138,7 +138,7 @@ Um die ganze Gruppe auszuwählen, drücke &lt;sprite="Inline" name="ico_selectal
       <ID>24</ID>
       <DefaultText>Der Angriffswurf ist eine zufällige Zahl zwischen 1 und 100, auf die die Differenz zwischen der Genauigkeit des Angriffs &lt;sprite="Inline" name="cs_accuracy" tint=1&gt; und der Verteidigung des Ziels &lt;sprite="Inline" name="cs_deflection" tint=1&gt; &lt;sprite="Inline" name="cs_fortitude" tint=1&gt; hinzugerechnet wird. &lt;sprite="Inline" name="cs_reflex" tint=1&gt; &lt;sprite="Inline" name="cs_will" tint=1&gt;. Wenn die Genauigkeit geringer als die Verteidigung ist, erfolgt ein Abzug auf den Angriffswurf. Wenn die Genauigkeit höher als die Verteidigung ist, wird ein Bonus auf den Angriffswurf angewandt.
 
-Ein höherer, finaler Angriffswurf ist immer besser. 0-24 = Fehlschlag, 24-49 = Leichter Treffer, 50-99 = Treffer, 100+ = Kritischer Treffer</DefaultText>
+Ein höherer, finaler Angriffswurf ist immer besser.  [Miss Max Roll] oder weniger = Fehlschlag, [Graze Min Roll]-[Graze Max Roll] = Leichter Treffer, [Hit Min Roll]-[Hit Max Roll] = Treffer, [Crit Min Roll]+ = Kritischer Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>557</EntryCount>
+  <EntryCount>558</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2596,7 +2596,7 @@
     </Entry>
     <Entry>
       <ID>581</ID>
-      <DefaultText>{0:value:percent} Chance, bei kritischem Treffer mit Waffe {0:extravalue} Phrasen zu erhalten</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei kritischem Treffer mit Nahkampfwaffe {0:extravalue} Phrasen zu erhalten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2786,7 +2786,12 @@
     </Entry>
     <Entry>
       <ID>751</ID>
-	  <DefaultText>{0:value:percent} Chance, bei einem im Nahkampf erlittenem kritischen Treffer, die nächste Initiative des Trägers auf Null zu setzen</DefaultText>
+	  <DefaultText>{0:value:percent} Chance, bei einem im Nahkampf erlittenem kritischen Treffer, die nächste Initiative des Trägers aufzuheben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>{0:Value:PercentBonus} Satzakkumulation</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
