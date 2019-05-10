@@ -851,7 +851,7 @@ class Entry {
 			"(?<!xg>)([Ee]rkrank)(te|t|en)", "(?<!xg>)(\\b|Ge)(schwächt(e)?)", "(?<!xg>)(Entkräftet)(e|\\b)",
 			// Entschlossenheit
 			"(?<!xg>)(Standhaft(e)?)", "(?<!xg>)(Resolut(e)?)", "(?<!xg>)(Mutig(e)?)",
-			"(?<!xg>)(Geschockt)(e|\\b)", "(?<!xg>)(Verängstig)(te|t|en)", "(?<!xg>)([Ee]rschütter)(ter|t|n)",
+			"(?<!xg>)([Ee]rschütter)(ter|t|n)", "(?<!xg>)(Verängstig)(te|t|en)", "(?<!xg>)(Geschockt)(e|\\b)",
 			// Gewandheit
 			"(?<!xg>)(Schnelle?n?)", "(?<!xg>)(Flink(e)?)", "(?<!xg>)(Schwungvoll(e)?)",
 			"(?<!xg>)(Humpeln)(\\b|d\\b|de)", "(?<!xg>)(Bewegungsunfähig)(e|\\b)", "(?<!xg>)(G?e?[Ll]ähmt)(er|e|\\b)", "(?<!xg>)(Versteiner)(ung|n|t|)",
