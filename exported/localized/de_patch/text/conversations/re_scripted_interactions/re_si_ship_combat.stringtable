@@ -210,7 +210,7 @@ Als das Schiff die Spitze einer Welle erreicht hat, feuern deine Kanoniere eine 
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Deine Kanonensalve zerfetzt die Segel deines Gegners vom Bug bis zum Heck. Kein einziges bleibt ungeschoren. Es trifft das Deck des Gegners und hinterlässt kaum mehr als zersplittertes Kleinholz.</DefaultText>
+      <DefaultText>Deine Kanonensalve zerfetzt die Segel deines Gegners vom Bug bis zum Heck. Kein einziges bleibt ungeschoren. Sie trifft das Deck des Gegners und hinterlässt kaum mehr als zersplittertes Kleinholz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -541,7 +541,7 @@ Nach einem Ruf des gegnerischen Bootsmannes hallt das Donnern von Kanonenfeuer �
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Die Mannschaft der „[ShipDuel_OpponentShip]“ wird aktiv und besetzt hektisch ihre Posten</DefaultText>
+      <DefaultText>Die Mannschaft der „[ShipDuel_OpponentShip]“ wird aktiv und besetzt hektisch ihre Posten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -563,7 +563,7 @@ Dein Schiff ist schneller und deine Mannschaft ist besser vorbereitet. So kannst
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>Meereswasser strömt durch die Löcher im Rumpf der „[ShipDuel_OpponentShip]“. Es dauert kaum einen Augenblick und schon ist das Schiff halb versunken. Ihre Seeleute springen vom Deck ins Meer. Sie klammern sich an Trümmer und Treibgut und spucken Wasser. Ihre Augen sind vor Furcht geweitet.</DefaultText>
+      <DefaultText>Meerwasser strömt durch die Löcher im Rumpf der „[ShipDuel_OpponentShip]“. Es dauert kaum einen Augenblick und schon ist das Schiff halb versunken. Ihre Seeleute springen vom Deck ins Meer. Sie klammern sich an Trümmer und Treibgut und spucken Wasser. Ihre Augen sind vor Furcht geweitet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -622,12 +622,12 @@ Du spähst zum Horizont und siehst eine unbekannte Flagge in der Brise wehen.</D
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>Der gegnerische Kapitän dreht seine „[ShipDuel_OpponentShip]“ nach backbord.</DefaultText>
+      <DefaultText>Der gegnerische Kapitän dreht seine „[ShipDuel_OpponentShip]“ nach Backbord.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>Der gegnerische Kapitän dreht seine „[ShipDuel_OpponentShip]“ nach steuerbord.</DefaultText>
+      <DefaultText>Der gegnerische Kapitän dreht seine „[ShipDuel_OpponentShip]“ nach Steuerbord.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -749,12 +749,12 @@ Dunkelheit bricht über dich herein. Das helle Sonnenlicht ist nun nichts weiter
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>Die [ShipDuel_PlayerShip] führt eine geschickte Wende nach backbord aus.</DefaultText>
+      <DefaultText>Die [ShipDuel_PlayerShip] führt eine geschickte Wende nach Backbord aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>Die [ShipDuel_PlayerShip] führt eine geschickte Wende nach steuerbord aus.</DefaultText>
+      <DefaultText>Die [ShipDuel_PlayerShip] führt eine geschickte Wende nach Steuerbord aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -779,12 +779,12 @@ Dunkelheit bricht über dich herein. Das helle Sonnenlicht ist nun nichts weiter
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>Die „[ShipDuel_OpponentShip]“ dreht nach backbord, um sich den Windvorteil zu holen.</DefaultText>
+      <DefaultText>Die „[ShipDuel_OpponentShip]“ dreht nach Backbord, um sich den Windvorteil zu holen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>Die „[ShipDuel_OpponentShip]“ dreht nach steuerbord, um sich den Windvorteil zu holen.</DefaultText>
+      <DefaultText>Die „[ShipDuel_OpponentShip]“ dreht nach Steuerbord, um sich den Windvorteil zu holen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -919,7 +919,7 @@ Ein raues Gejohle ertönt aus den Kehlen von [ShipDuel_Opponent]s Mannschaft. �
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>Das nervöse Murmeln der Besatzung hallt durch das Schiff, als du den Befehl gibst, vorzudringen. Die „[ShipDuel_PlayerShip]“ wird so leichtes Ziel für Harkendes Feuer, was das Risiko auf Verletzungen erhöht:
+      <DefaultText>Das nervöse Murmeln der Besatzung hallt durch das Schiff, als du den Befehl gibst, vorzudringen. Die „[ShipDuel_PlayerShip]“ wird so leichtes Ziel für harkendes Feuer, was das Risiko auf Verletzungen erhöht:
 
 [ShipDuel_CloseToBoardCost]</DefaultText>
       <FemaleText />
