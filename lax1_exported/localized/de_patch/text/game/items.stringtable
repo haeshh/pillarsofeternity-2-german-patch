@@ -71,7 +71,7 @@ Obwohl niemand zu wissen scheint, wer diesen Faustschild ursprünglich hergestel
     </Entry>
     <Entry>
       <ID>4425</ID>
-      <DefaultText>Moderne Magran-Priester bevorzugen Schwerter und Feuerwaffen, doch einige frühere Magranit-Krieger in Groß-Vailia trugen sogenannte Weihrauchfässer als Bewaffnung – robuste Rauchfässer, die an einem einfachen Griff über eine Kettenlänge hingen. Weihrauchfässer verbrannten eine Mischung aus Olivenöl und Rauchwerk, die sich über dem unglücklichen Ziel des magranitischen Zorns ergoss. Der Brennstoff spritzte fast unvermeidlich auch auf den Schwenker selbst – eine Buße, die von den Anbetern der Göttin der Flamme jedoch bereitwillig als Beweis ihrer Hingabe akzeptiert wurde.
+      <DefaultText>Moderne Magran-Priester bevorzugen Schwerter und Feuerwaffen, doch einige frühere Magranit-Krieger in Groß-Vailia trugen sogenannte Weihrauchfässer als Bewaffnung – robuste Rauchfässer, die an einem einfachen Griff über eine Kettenlänge hingen. Weihrauchfässer verbrannten eine Mischung aus Olivenöl und Rauchwerk, die sich über das unglückliche Ziel des magranitischen Zorns ergoss. Der Brennstoff spritzte fast unvermeidlich auch auf den Schwenker selbst – eine Buße, die von den Anbetern der Göttin der Flamme jedoch bereitwillig als Beweis ihrer Hingabe akzeptiert wurde.
 
 Obwohl einige Magran-Tempel auch weiterhin Weihrauchfässer im Rahmen von Ritualen verwenden, so gibt es nur noch wenige Beispiele für ihren Einsatz im Kampf.</DefaultText>
       <FemaleText />
@@ -253,7 +253,7 @@ Sie schmeckt salzig.</DefaultText>
     </Entry>
     <Entry>
       <ID>4700</ID>
-      <DefaultText>Dieser Helm, der im Stile der Huana aus einem einzelnen Holzblock geschnitzt wurde, stellt die Gestalt des Keilers von Toamowhai dar. Helle Farben betonen die Schnauze und die Augen, während kleine Flecken, welche eine übernatürliche &lt;xg&gt;Wahrnehmung&lt;/xg&gt; andeuten, Letztere umkreisen. Dieser mit Essenz infundierte Helm hält Hieben stand, die einen Baum fällen würden.</DefaultText>
+      <DefaultText>Dieser Helm, der im Stile der Huana aus einem einzelnen Holzblock geschnitzt wurde, stellt die Gestalt des Keilers von Toamowhai dar. Helle Farben betonen die Schnauze und die Augen, während kleine Flecken, welche eine übernatürliche &lt;xg&gt;Wahrnehmung&lt;/xg&gt; andeuten, letztere umkreisen. Dieser mit Essenz infundierte Helm hält Hieben stand, die einen Baum fällen würden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -641,7 +641,7 @@ Obwohl er bereits vor Jahrhunderten oder noch länger aus dem Boden gewonnen wur
     </Entry>
     <Entry>
       <ID>5387</ID>
-      <DefaultText>Von Feinden {0} Mal verfehlt werden.</DefaultText>
+      <DefaultText>Von Feinden {0}-mal verfehlt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -658,7 +658,7 @@ In jüngerer Vergangenheit wurde er als Zahn des Toamowhai bezeichnet und verwen
     </Entry>
     <Entry>
       <ID>5498</ID>
-      <DefaultText>Töte {0} Feinde, während du an einer Verstand-Wirkung leidest.</DefaultText>
+      <DefaultText>Töte {0} Feinde, während du an einer Geisteswirkung leidest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -683,12 +683,12 @@ In jüngerer Vergangenheit wurde er als Zahn des Toamowhai bezeichnet und verwen
     </Entry>
     <Entry>
       <ID>5504</ID>
-      <DefaultText>Mach den Tiefenjäger ausfindig.</DefaultText>
+      <DefaultText>Mache den Tiefenjäger ausfindig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5505</ID>
-      <DefaultText>Mach den Uralten des Schwefels ausfindig.</DefaultText>
+      <DefaultText>Mache den Uralten des Schwefels ausfindig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -754,9 +754,9 @@ Lobet die vertriebene Königin.“</DefaultText>
 
 Wir können es noch retten, indem wir schnell handeln. Der Wächter leidet vielleicht schon unter der Verdorbenheit der Hexe, ohne es zu ahnen. Kein Gedanke von Gnade soll dein Schwert ruhen lassen.
 
-Sobald du die Scherben wiederhast, &lt;i&gt;dürfen sie unter keinen Umständen zusammenbleiben.&lt;/i&gt; Sobald du es meldest, werden sie in verschiedenen Gruften platziert und durch Zauber gebunden, solange es uns gibt.
+Sobald du die Scherben wiederhast, &lt;i&gt;dürfen sie unter keinen Umständen zusammenbleiben.&lt;/i&gt; Sobald du es meldest, werden sie in verschiedenen Grüften platziert und durch Zauber gebunden, solange es uns gibt.
 
-Sorge auch dafür, dass sie weit entfernt von Perikis Aussichtspunkt gehalten werden. Unsere Feinde murren über die Handwerkerin Izzia als hätte sie einen Hauch Schicksal an sich.
+Sorge auch dafür, dass sie weit entfernt von Perikis Aussichtspunkt gehalten werden. Unsere Feinde murren über die Handwerkerin Izzia, als hätte sie einen Hauch Schicksal an sich.
 
 Für Frieden und Magrans Ehre, mögest du Erfolg haben.“</DefaultText>
       <FemaleText />

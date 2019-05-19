@@ -9,7 +9,9 @@
       <DefaultText>„Du hast etwas für mich, mein Freund? Etwas, das wunderhübsch glänzt und funkelt?“
 
 Die Zwergin nähert sich dir. Die Luft um sie herum riecht scharf nach Öl und Metallspänen.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Du hast etwas für mich, Mädchen? Etwas, das wunderhübsch glänzt und funkelt?“
+
+Die Zwergin nähert sich dir. Die Luft um sie herum riecht scharf nach Öl und Metallspänen.</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -44,7 +46,7 @@ Die Zwergin nähert sich dir. Die Luft um sie herum riecht scharf nach Öl und M
     <Entry>
       <ID>8</ID>
       <DefaultText>„Du hast nichts an oder bei dir, das heute mein Interesse wecken könnte, mein Freund. Wenigstens noch nicht. Komm einfach wieder, wenn sich das ändert.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Du hast nichts an oder bei dir, das heute mein Interesse wecken könnte, Mädchen. Wenigstens noch nicht. Komm einfach wieder, wenn sich das ändert.“</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -145,7 +147,7 @@ Sie greift sich ein Tuch, mit dem sie dir vorsichtig die Stücke leuchtendes Met
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>[Ihr Neriscyrlas’ Hoffnung, den Zahn des Toamowhai und das Gewicht der Offenbarung geben.] „Kannst du diese drei Einzelteile zu einem Ganzen schmieden?“</DefaultText>
+      <DefaultText>[Ihr Neriscyrlas’ Hoffnung, Zahn des Toamowhai und das Gewicht der Offenbarung geben.] „Kannst du diese drei Einzelteile zu einem Ganzen schmieden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -184,7 +186,7 @@ Lächelnd präsentiert dir Izzia die Früchte ihrer Arbeit.</DefaultText>
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[Ihr den Zahn des Toamowhai und das Gewicht der Offenbarung geben.] „Was kannst du mir aus diesen beiden Artefakten schmieden?“</DefaultText>
+      <DefaultText>[Ihr Neriscyrlas’ Hoffnung und das Gewicht der Offenbarung geben.] „Was kannst du mir aus diesen beiden Artefakten schmieden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -332,7 +334,7 @@ Sie lächelt gutgelaunt und zuckt mit den Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>„Hast du noch immer dieses seltsame Etwas, das ich für dich geschmiedet habe? Wenn du irgendwelche seltsamen Metalle gefunden haben, können wir sie damit kombinieren. Du musst es mich nur wissen lassen.“ Izzia bedeutet dir, frei und offen zu sprechen.</DefaultText>
+      <DefaultText>„Hast du noch immer dieses seltsame Stück Etwas, das ich für dich geschmiedet habe? Wenn du irgendwelche seltsamen Metalle gefunden haben, können wir sie damit kombinieren. Du musst es mich nur wissen lassen.“ Izzia bedeutet dir, frei und offen zu sprechen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -392,7 +394,7 @@ Sie lächelt gutgelaunt und zuckt mit den Schultern.</DefaultText>
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>„Natürlich. Mir ist das egal, wenn du dich nicht entscheiden kannst.“</DefaultText>
+      <DefaultText>„Selbstverständlich. Mir ist das egal, wenn du dich nicht entscheiden kannst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
