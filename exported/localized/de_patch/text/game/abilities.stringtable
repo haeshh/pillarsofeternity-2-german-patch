@@ -6748,7 +6748,7 @@ Höllenläufer-Mönche erleiden mehr Schaden mit jeder Wunde, die ihnen zugefüg
     <Entry>
       <ID>2273</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Gewährt Flammen der Hingabe.
+Gewährt &lt;link="gamedata://85c147f5-dffc-4a5e-8083-71db95d6203d"&gt;Flammen der Hingabe&lt;/link&gt;.
 
 Die Flammen der Hingabe verursachen zusätzlichen Zersetzungsschaden (Schwarze Flammen) und verursachen bei den Zielen die Wirkung Erkrankt.</DefaultText>
       <FemaleText />
@@ -6761,7 +6761,7 @@ Die Flammen der Hingabe verursachen zusätzlichen Zersetzungsschaden (Schwarze F
     <Entry>
       <ID>2275</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Gewährt Handauflegen.
+Gewährt &lt;link="gamedata://e56dabac-1065-46bf-b997-ddc06bb29494"&gt;Handauflegen&lt;/link&gt;.
 
 Das Handauflegen verleiht dem Ziel einen geringen Flammenschild.</DefaultText>
       <FemaleText />
@@ -6776,7 +6776,7 @@ Das Handauflegen verleiht dem Ziel einen geringen Flammenschild.</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Gewährt Erzfeind.
 
-Erzfeind erhält das Upgrade zu „Vergoldete Feindschaft“. Die vergoldete Feinschaft führt dazu, dass der Paladin mit einer Segnung aus Gold erfüllt wird, wenn er jemanden zum Erzfeind erklärt. Der Paladin erhält einen Bonus für seinen Rüstungswert, bis er so oft getroffen wurde, dass das Gold zerbrochen ist.</DefaultText>
+Erzfeind erhält das Upgrade zu „&lt;link="gamedata://31b9575e-1b40-46be-9a54-66fbd54c1ac3"&gt;Vergoldete Feindschaft&lt;/link&gt;“. Die vergoldete Feinschaft führt dazu, dass der Paladin mit einer Segnung aus Gold erfüllt wird, wenn er jemanden zum Erzfeind erklärt. Der Paladin erhält einen Bonus für seinen Rüstungswert, bis er so oft getroffen wurde, dass das Gold zerbrochen ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6787,7 +6787,7 @@ Erzfeind erhält das Upgrade zu „Vergoldete Feindschaft“. Die vergoldete Fei
     <Entry>
       <ID>2279</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Gewährt Flammen der Hingabe.
+Gewährt &lt;link="gamedata://e997054b-2de3-4b3b-b6cf-32a9aef9877c"&gt;Flammen der Hingabe&lt;/link&gt;.
 
 Die Flammen der Hingabe heilen nahe Verbündete (Weiße Flammen).</DefaultText>
       <FemaleText />
@@ -6800,7 +6800,7 @@ Die Flammen der Hingabe heilen nahe Verbündete (Weiße Flammen).</DefaultText>
     <Entry>
       <ID>2281</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Gewährt Handauflegen.
+Gewährt &lt;link="gamedata://adfddb3f-a556-40b2-8f6b-a05fa253910e"&gt;Handauflegen&lt;/link&gt;.
 
 Wenn Handauflegen auf einen Verbündeten gewirkt wird, verhindert es seinen Tod.
 
@@ -7015,7 +7015,7 @@ Wenn der Straßenkämpfer weder Flankiert noch Schwer verletzt ist, ist Erholung
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Erhält erhöhte Kraftstufe bei Beschwörungszaubern.
 
-Erhält den „Beschwöre Schutzgeist“ Zauber: Ruft eine helfende Kreatur herbei, die den Zauberer unterstützt. Schutzgeister können nur schlecht kämpfen, aber gewähren ihrem Meister passive Boni.
+Erhält den Zauber „&lt;link="gamedata://8dbb88ba-9b12-4987-871c-57e0a6e5237a"&gt;Schutzgeist beschwören&lt;/link&gt;“: Ruft eine helfende Kreatur herbei, die den Zauberer unterstützt. Schutzgeister können nur schlecht kämpfen, aber gewähren ihrem Meister passive Boni.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Verliert Zugang zu Zaubern der Hervorrufungs- und Illusionsschulen.
@@ -7047,7 +7047,7 @@ Erhöhte Erholungszeit für Zaubersprüche, die nicht der Beschwörungsschule zu
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Erhält erhöhte Kraftstufe bei Verzauberungszaubern.
 
-Erhält die passive Fähigkeit: „Freie Aktion: Wenn der Zauberer von einer Gewandtheitswirkung betroffen ist, macht er sich ein Mal pro Begegnung von diesem Effekt frei und wird vorübergehend immun gegen Gewandtheitswirkungen.“
+Erhält die passive Fähigkeit „&lt;link="gamedata://2aa6a074-b007-4fc1-8731-d69ef26b0dbd"&gt;Freie Aktion&lt;/link&gt;“: Wenn der Zauberer von einer Gewandtheitswirkung betroffen ist, macht er sich ein Mal pro Begegnung von diesem Effekt frei und wird vorübergehend immun gegen Gewandtheitswirkungen.“
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Verliert Zugang zu Zaubern der Illusions- und Transmutationsschulen.
