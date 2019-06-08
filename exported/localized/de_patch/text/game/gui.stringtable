@@ -13493,7 +13493,7 @@ Die Priester von Skaen lernen die folgenden Zaubersprüche automatisch auf der j
 Die Priester von Wael lernen die folgenden Zaubersprüche automatisch auf der jeweiligen Kraftstufe:
 1. &lt;link="gamedata://45a1cdcc-64cb-4989-a694-7984fffa4d88"&gt;Arkaner Schleier&lt;/link&gt;
 2. &lt;link="gamedata://de9cb788-c923-47cb-ac13-39965df7b360"&gt;Ikonische Projektion&lt;/link&gt;
-3. &lt;link="gamedata://9c59f7e6-6593-4d2e-bc55-4e2afc7810b2"&gt;Spiegelbild&lt;/link&gt;
+3. &lt;link="gamedata://9c59f7e6-6593-4d2e-bc55-4e2afc7810b2"&gt;Spiegelbilder&lt;/link&gt;
 4. &lt;link="gamedata://01dda78c-35c9-403e-ba88-eabdcb105577"&gt;Llengraths verlegtes Bild&lt;/link&gt;
 5. &lt;link="gamedata://e5b8380b-4071-4d75-9e29-d0ab61876326"&gt;Verwirrung&lt;/link&gt;
 6. &lt;link="gamedata://676d3c4c-66b6-4647-959a-c539c6bc8c7c"&gt;Arkemyrs wundersame Folter&lt;/link&gt;
@@ -13627,7 +13627,7 @@ Erhöhte Erholungszeit für Zaubersprüche, die nicht der Beschwörungsschule zu
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Erhält erhöhte Kraftstufe bei Illusionsszaubern.
 
-Erhält die passive Fähigkeit „Reflektierender Spiegel“: Wenn der Zauberer zum ersten Mal angegriffen wird, erhält er automatisch ein Mal pro Begegnung die Effekte des Zaubers „Spiegelbild“.
+Erhält die passive Fähigkeit „&lt;link="gamedata://6b179cdf-4590-4695-8869-ab33b582c4de"&gt;Reflektierender Spiegel&lt;/link&gt;“: Einmal pro Begegnung erhält der Zauberer, wenn er zum ersten Mal angegriffen wird, die Effekte des Zaubers „&lt;link="gamedata://9271c114-1219-48b0-a3b0-fd669a781441"&gt;Spiegelbilder&lt;/link&gt;“.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Verliert Zugang zu Zaubern der Beschwörungs- und Verzauberungsschulen.
@@ -13640,7 +13640,7 @@ Erhöhte Erholungszeit für Zaubersprüche, die nicht der Illusionsschule zugeor
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Erhält erhöhte Kraftstufe bei Transmutationszaubern.
 
-Erhält den „Gestalt des einschüchternden Grobians“ Zauber: Verwandelt den Zauberer in einen Oger. In dieser Gestalt sind Zauber deaktiviert, aber körperliche Attribute erhöht.
+Erhält den Zauber „&lt;link="gamedata://ed843e58-09ea-4abf-9157-38d6c8e4f271"&gt;Gestalt des einschüchternden Grobians&lt;/link&gt;“: Verwandelt den Zauberer in einen Oger. In dieser Gestalt sind Zauber deaktiviert, aber körperliche Attribute erhöht.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Verliert Zugang zu Zaubern der Verzauberungs- und Hervorrufungsschulen.
