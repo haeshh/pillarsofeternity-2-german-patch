@@ -6704,14 +6704,14 @@ Erhält nur einen einzigen Schwerpunkt und keine neuen beim Stufenaufstieg.</Def
     <Entry>
       <ID>2265</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Alle Drogeneffekte haben eine verlängerte Wirkungsdauer.
+Alle Arzneieffekte haben eine verlängerte Wirkungsdauer.
 
-Erzeugt Wunden, solange man den Bonus von Drogen erhält.
+Erzeugt Wunden, solange man den Bonus von Arzneien erhält.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Abzüge, die durch den Absturz von Drogen entstehen, machen es dem Mönch unmöglich, geheilt zu werden.
+Abzüge, die durch den Entzug von Arzneien entstehen, machen es dem Mönch unmöglich, geheilt zu werden.
 
-Wunden zersetzen sich, wenn man keine Vorteile von Drogen erhält.</DefaultText>
+Wunden zersetzen sich, wenn man keine Vorteile von Arzneien erhält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13584,7 +13584,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3845</ID>
-      <DefaultText>Während die Effekte eines Drogen-Verbrauchsgegenstandes andauern, generiert der Nalpazca passiv Wunden.</DefaultText>
+      <DefaultText>Während die Effekte eines Arznei-Verbrauchsgegenstandes andauern, generiert der Nalpazca passiv Wunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13594,7 +13594,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3847</ID>
-      <DefaultText>Während keine Effekte eines Drogen-Verbrauchsgegenstandes andauern, degeneriert der Nalpazca passiv Wunden.</DefaultText>
+      <DefaultText>Während keine Effekte eines Arznei-Verbrauchsgegenstandes andauern, degeneriert der Nalpazca passiv Wunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14286,7 +14286,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>3991</ID>
-      <DefaultText>Unter den Absturzeffekten eines Drogen-Verbrauchsgegenstandes können Nalpazca-Mönche keinerlei Heilung bekommen.</DefaultText>
+      <DefaultText>Unter den Entzugseffekten eines Arznei-Verbrauchsgegenstandes können Nalpazca-Mönche keinerlei Heilung bekommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16938,7 +16938,7 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4879</ID>
-      <DefaultText>Nahe Verbündete profitieren von dem beruhigenden Ton der Mundharmonika und erhalten eine erhöhte Kraftstufe für drogenartige Konsumgüter. (Erhöhung ihrer vorteilhaften Dauer und der Zeit bis zu ihrer Absturz-Strafe)</DefaultText>
+      <DefaultText>Nahe Verbündete profitieren von dem beruhigenden Ton der Mundharmonika und erhalten eine erhöhte Kraftstufe für arzneiartige Konsumgüter. (Erhöhung ihrer vorteilhaften Dauer und der Zeit bis zu ihrer Entzugsstrafe)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
