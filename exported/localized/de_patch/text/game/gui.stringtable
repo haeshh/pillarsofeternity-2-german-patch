@@ -8283,7 +8283,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1822</ID>
-      <DefaultText>{0} bei erlittenem Kritischen Treffer</DefaultText>
+      <DefaultText>{0} bei erlittenem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16126,7 +16126,7 @@ Multiklasse-Charaktere können Kräfte aus zwei Klassen auswählen, aber erhalte
     </Entry>
     <Entry>
       <ID>3397</ID>
-      <DefaultText>bei erlittenem Kritischen Treffer</DefaultText>
+      <DefaultText>bei erlittenem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -18579,7 +18579,7 @@ Danke,
     </Entry>
     <Entry>
       <ID>3957</ID>
-      <DefaultText>{0} bei erlittenem Kritischen Treffer</DefaultText>
+      <DefaultText>{0} bei erlittenem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
