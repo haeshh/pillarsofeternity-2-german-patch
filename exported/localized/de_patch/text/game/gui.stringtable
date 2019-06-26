@@ -14406,7 +14406,7 @@ Frömmigkeit und Gebete sind die Eckpfeiler deines öffentlichen Lebens und du f
     </Entry>
     <Entry>
       <ID>3015</ID>
-      <DefaultText>Angriffe unterbrechen bei krit. Treffer</DefaultText>
+      <DefaultText>Angriffe unterbrechen bei &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14416,7 +14416,7 @@ Frömmigkeit und Gebete sind die Eckpfeiler deines öffentlichen Lebens und du f
     </Entry>
     <Entry>
       <ID>3017</ID>
-      <DefaultText>{0:Value:Percent} der Treffer werden in krit. Treffer umgewandelt bei Zielen, die mindestens {0:ExtraValue:Distance} entfernt sind</DefaultText>
+      <DefaultText>{0:Value:Percent} der Treffer werden in kritische Treffer umgewandelt bei Zielen, die mindestens {0:ExtraValue:Distance} entfernt sind</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -18536,12 +18536,12 @@ Nach dem Geisterwandeln erhält der Druide einen deutlichen Abzug bei der Krafts
     </Entry>
     <Entry>
       <ID>3950</ID>
-      <DefaultText>{0} bei einem krit. Treffer mit der Haupthand-Waffe</DefaultText>
+      <DefaultText>{0} bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; mit der Haupthand-Waffe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3951</ID>
-      <DefaultText>{0} bei einem krit. Treffer mit der Nebenhand-Waffe</DefaultText>
+      <DefaultText>{0} bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; mit der Nebenhand-Waffe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
