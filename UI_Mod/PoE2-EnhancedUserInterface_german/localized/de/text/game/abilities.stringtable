@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1</EntryCount>
+  <EntryCount>763</EntryCount>
   <Entries>
     <Entry>
       <ID>237</ID>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Quälender Zweifel am unerschütterlichen Glauben überfällt Feinde im Wirkungsbereich, verringert ihre &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; für Nahkampfangriffe und verwandelt ihre kritischen Treffer zu Treffern.</DefaultText>
+      <DefaultText>Quälender Zweifel am unerschütterlichen Glauben überfällt Feinde im Wirkungsbereich, verringert ihre &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; für Nahkampfangriffe und verwandelt ihre &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; zu Treffern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,7 +551,7 @@
     </Entry>
     <Entry>
       <ID>554</ID>
-      <DefaultText>Beschwört eine riesige Plage giftiger Insekten herauf, die Reinen Zeitschaden zufügen, und jeden im Wirkungsbereich &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Sickened"&gt;&lt;#f7b733&gt;erkranken&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; lassen. Betroffene Ziele können nicht über Konzentration verfügen.</DefaultText>
+      <DefaultText>Beschwört eine riesige Plage giftiger Insekten herauf, die direkten Zeitschaden zufügen, und jeden im Wirkungsbereich &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Sickened"&gt;&lt;#f7b733&gt;erkranken&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; lassen. Betroffene Ziele können nicht über Konzentration verfügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -921,7 +921,7 @@
     </Entry>
     <Entry>
       <ID>863</ID>
-      <DefaultText>(Berserker) – Verleiht die Inspirationen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Tenacious"&gt;&lt;#ff4800&gt;Hartnäckig&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Hardy"&gt;&lt;#f7b733&gt;Zäh&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; anstelle von &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Fit"&gt;&lt;#f7b733&gt;Fit&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Strong"&gt;&lt;#ff4800&gt;Stark&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;. Die Chance auf kritischen Treffer und Blutbad bei Nahkampfangriffen ist während der Raserei deutlich erhöht. Jedoch ist der Barbar während seiner Raserei verwirrt, kann seine &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; nicht sehen und erleidet kontinuierlichen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;direkten Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>(Berserker) – Verleiht die Inspirationen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Tenacious"&gt;&lt;#ff4800&gt;Hartnäckig&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Hardy"&gt;&lt;#f7b733&gt;Zäh&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; anstelle von &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Fit"&gt;&lt;#f7b733&gt;Fit&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Strong"&gt;&lt;#ff4800&gt;Stark&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;. Die Chance auf &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; und Blutbad bei Nahkampfangriffen ist während der Raserei deutlich erhöht. Jedoch ist der Barbar während seiner Raserei verwirrt, kann seine &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; nicht sehen und erleidet kontinuierlichen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;direkten Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -976,7 +976,7 @@
     </Entry>
     <Entry>
       <ID>887</ID>
-      <DefaultText>Mönche erreichen durch das Erdulden der Härten der Existenz ein größeres Verständnis für die Fähigkeiten ihres Körpers. Schaden, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft der Fäuste und Füße eines Mönches sind weit höher als bei anderen Charakteren und erhöhen sich mit steigender Kraftstufe nur noch weiter.</DefaultText>
+      <DefaultText>Mönche erreichen durch das Erdulden der Härten der Existenz ein größeres Verständnis für die Fähigkeiten ihres Körpers. Schaden, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; der Fäuste und Füße eines Mönches sind weit höher als bei anderen Charakteren und erhöhen sich mit steigender Kraftstufe nur noch weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1041,7 +1041,7 @@
     </Entry>
     <Entry>
       <ID>926</ID>
-      <DefaultText>Der Schurke ist besonders geschickt darin, Angriffen auszuweichen, und verwandelt fast alle auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=0.7em&gt;Reflexe&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; abzielende leichte Treffer in Fehlschläge.</DefaultText>
+      <DefaultText>Der Schurke ist besonders geschickt darin, Angriffen auszuweichen, und verwandelt fast alle auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=0.7em&gt;Reflexe&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; abzielende &lt;link="glossary://GlossaryEntry_Graze"&gt;leichte Treffer&lt;/link&gt; in Fehlschläge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1131,7 +1131,7 @@
     </Entry>
     <Entry>
       <ID>1054</ID>
-      <DefaultText>(Brutales Umstoßen) – Verleiht dem Angriff deutlich höhere &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft.</DefaultText>
+      <DefaultText>(Brutales Umstoßen) – Verleiht dem Angriff deutlich höhere &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1256,7 +1256,7 @@
     </Entry>
     <Entry>
       <ID>1467</ID>
-      <DefaultText>Der Kämpfer führt einen Primärangriff aus, der einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft erhält und den &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; des Ziels verringert.</DefaultText>
+      <DefaultText>Der Kämpfer führt einen Primärangriff aus, der einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; erhält und den &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; des Ziels verringert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1336,7 +1336,7 @@
     </Entry>
     <Entry>
       <ID>1577</ID>
-      <DefaultText>Vernichtet Feinde mit einem mächtigen Stoß kalter Luft, der die Bewegung verlangsamt und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;space=0.7em&gt;Frost&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;- und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;space=0.7em&gt;Wuchtschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; mit hoher &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft anrichtet.</DefaultText>
+      <DefaultText>Vernichtet Feinde mit einem mächtigen Stoß kalter Luft, der die Bewegung verlangsamt und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;space=0.7em&gt;Frost&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;- und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;space=0.7em&gt;Wuchtschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; mit hoher &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; anrichtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1501,7 +1501,7 @@
     </Entry>
     <Entry>
       <ID>1947</ID>
-      <DefaultText>Das Medium ist in der Lage, Zeitechos zu nutzen, um mit seiner Waffe stärker zuzuschlagen, was ihre &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft erhöht.</DefaultText>
+      <DefaultText>Das Medium ist in der Lage, Zeitechos zu nutzen, um mit seiner Waffe stärker zuzuschlagen, was ihre &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; erhöht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1602,7 +1602,7 @@ Ausdauer – Gewährt &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Ratin
       <ID>2038</ID>
       <DefaultText>Der Schurke schlägt sein Ziel heftig gegen den Kopf und unterbricht es. Der Bonuseffekt dieses Angriffs hängt von der verwendeten Waffe ab.
 
-Fern: &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraftbonus
+Fern: &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;bonus
 Zweihändig: Wirkt &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Staggered"&gt;&lt;#ff4800&gt;Taumelnd&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;
 Einhändig: &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;Direkter Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; über Zeit</DefaultText>
       <FemaleText />
@@ -1654,7 +1654,7 @@ Einhändig: &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.
     </Entry>
     <Entry>
       <ID>2069</ID>
-      <DefaultText>Erhöht die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft der Zauber des Mediums.</DefaultText>
+      <DefaultText>Erhöht die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; der Zauber des Mediums.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1770,7 +1770,7 @@ Während der Raserei wird fortwährend &lt;nobr&gt;&lt;link="glossary://Glossary
     <Entry>
       <ID>2247</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Erhalte die Fähigkeit „Seelenvernichtung“: Ein seelenangereicherter Nahkampfschlag, der die verbleibende Kraftreserve des Mediums aufbraucht und diese als &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;direkten Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; auf das Ziel wirkt.
+Erhalte die Fähigkeit „&lt;link="gamedata://bf41329e-a30c-464c-8c33-67e6d5ea5687"&gt;Seelenvernichtung&lt;/link&gt;“: Ein seelenangereicherter Nahkampfschlag, der die verbleibende Kraftreserve des Mediums aufbraucht und diese als &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;direkten Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; auf das Ziel wirkt.
 
 Zauber des Mediums mit dem Schlüsselwort Fetzen kosten weniger Fokus.
 
@@ -1785,20 +1785,20 @@ Maximaler Fokus ist reduziert. (Wie auch der Wert bei Kampfbeginn.)</DefaultText
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Anstelle sich in eine tierische Form zu verwandeln, werden die Furien beim Geisterwandeln zu einem Peststurm.
 
-Elementarzauber von Druiden erhalten erhöhte Reichweite und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft.
+Elementarzauber von Druiden erhalten erhöhte Reichweite und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;.
 
 Das Töten eines Feindes während des Geisterwandelns verlängert die Wirkungsdauer der Wandlung.
 
 Lerne die folgenden Druidenzauber auf neuen Kraftstufen:
-1. Tanzende Blitze
-2. Explosion der Sommerflamme
-3. Sturm der Wiederkehr
-4. Hagelsturm
-5. Unaufhörlicher Sturm
-6. Sonnenlanze
-7. Sturmtrotzer
-8. Rächender Sturm
-9. Großer Maelstrom
+1. &lt;link="gamedata://cc76703b-e0eb-4dde-8d16-b920320560a6"&gt;Tanzende Blitze&lt;/link&gt;
+2. &lt;link="gamedata://96128ded-837a-4047-a18a-3b7f88d45dfb"&gt;Explosion der Sommerflamme&lt;/link&gt;
+3. &lt;link="gamedata://af6b5085-5c01-4287-add3-75e6ec94b93b"&gt;Sturm der Wiederkehr&lt;/link&gt;
+4. &lt;link="gamedata://6c9946cf-adc9-49fa-b414-d9e773c7db4a"&gt;Hagelsturm&lt;/link&gt;
+5. &lt;link="gamedata://6bffc4f5-e8f8-4471-a098-5e83b0b664e4"&gt;Unaufhörlicher Sturm&lt;/link&gt;
+6. &lt;link="gamedata://ac37ae92-8056-4ecf-8dda-6f1dd5a8925b"&gt;Sonnenlanze&lt;/link&gt;
+7. &lt;link="gamedata://b0e4451d-cde5-4434-9ae1-88de5ca9f152"&gt;Sturmtrotzer&lt;/link&gt;
+8. &lt;link="gamedata://d06f03f8-edca-46c2-917b-3b941a04312b"&gt;Rächender Sturm&lt;/link&gt;
+9. &lt;link="gamedata://1d8a3400-7e30-43f4-86b8-23d1f5808d46"&gt;Großer Mahlstrom&lt;/link&gt;
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Verjüngungszauber können nicht gewirkt werden.</DefaultText>
@@ -1814,15 +1814,15 @@ Geisterwandler hat eine verlängerte Wirkungsdauer.
 Nach dem Geisterwandeln heilt der Druide einen Teil seiner &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.
 
 Lerne die folgenden Druidenzauber auf neuen Kraftstufen:
-1. Zeichen der Natur
-2. Insektenschwarm
-3. Madenbefall
-4. Form der Delemgan
-5. Schrecken der Natur
-6. Garten des Lebens
-7. Rostige Rüstung
-8. Entropie
-9. Pollenfleck
+1. &lt;link="gamedata://73d53819-6cde-46a5-a674-c24b304a608f"&gt;Mal der Natur&lt;/link&gt;
+2. &lt;link="gamedata://296ebd07-e675-42a7-bedb-ced9606503c5"&gt;Insektenschwarm&lt;/link&gt;
+3. &lt;link="gamedata://c9c433d4-af9a-4790-8366-a6ef45662f11"&gt;Madenbefall&lt;/link&gt;
+4. &lt;link="gamedata://794774fa-234a-4358-8746-195eefdbd76b"&gt;Form der Delemgan&lt;/link&gt;
+5. &lt;link="gamedata://067ebcbf-a9c7-4544-9457-f99160ff0b99"&gt;Schrecken der Natur&lt;/link&gt;
+6. &lt;link="gamedata://eee7b75c-5b46-465d-a65f-59e76304fe80"&gt;Garten des Lebens&lt;/link&gt;
+7. &lt;link="gamedata://c408ccac-319a-40da-aaf1-7186b13f8f2f"&gt;Rostige Rüstung&lt;/link&gt;
+8. &lt;link="gamedata://28af43ef-c857-4dd4-ad35-41e922a2daf5"&gt;Entropie&lt;/link&gt;
+9. &lt;link="gamedata://8897b8d3-6cf1-41ed-bb6b-c8099533ecbe"&gt;Pollenfleck&lt;/link&gt;
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Kann in Tiergestalt keine Zauber wirken.</DefaultText>
@@ -1833,9 +1833,9 @@ Kann in Tiergestalt keine Zauber wirken.</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 +1 Angriffsbindung.
 
-Erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft bei Absetzangriffen.
+Erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; bei Absetzangriffen.
 
-Verschafft „Schild-Meisterschaft“, die einen Bonus auf den &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; bereitstellt, solange ein Schild getragen wird.
+Verschafft „&lt;link="gamedata://e97271cd-23b1-4078-8640-6544e1e6451d"&gt;Schild-Meisterschaft&lt;/link&gt;“, die einen Bonus auf den &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; bereitstellt, solange ein Schild getragen wird.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Vermindertes Vorwärtskommen im Kampf.
@@ -1848,7 +1848,7 @@ Verminderte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Kann einen Waffenschwerpunkt als seine auserwählte Waffe bestimmen.
 
-Erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft mit der auserwählten Waffe.
+Erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; mit der auserwählten Waffe.
 
 Erhöhter Schaden bei Kritischen Treffern mit der auserwählten Waffe.
 
@@ -1861,7 +1861,7 @@ Erhält nur einen einzigen Schwerpunkt und keine neuen beim Stufenaufstieg.</Def
     <Entry>
       <ID>2273</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Gewährt Flammen der Hingabe.
+Gewährt &lt;link="gamedata://85c147f5-dffc-4a5e-8083-71db95d6203d"&gt;Flammen der Hingabe&lt;/link&gt;.
 
 Die Flammen der Hingabe verursachen zusätzlichen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#9ba967&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;#adc455&gt;&lt;space=0.3em&gt;Zersetzungsschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; (Schwarze Flammen) und verursachen bei den Zielen die Wirkung &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Sickened"&gt;&lt;#f7b733&gt;Erkrankt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
@@ -1871,7 +1871,7 @@ Die Flammen der Hingabe verursachen zusätzlichen &lt;nobr&gt;&lt;link="glossary
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Gewährt Erzfeind.
 
-Erzfeind erhält das Upgrade zu „Vergoldete Feindschaft“. Die vergoldete Feinschaft führt dazu, dass der Paladin mit einer Segnung aus Gold erfüllt wird, wenn er jemanden zum Erzfeind erklärt. Der Paladin erhält einen Bonus für seinen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, bis er so oft getroffen wurde, dass das Gold zerbrochen ist.</DefaultText>
+Erzfeind erhält das Upgrade zu „&lt;link="gamedata://31b9575e-1b40-46be-9a54-66fbd54c1ac3"&gt;Vergoldete Feindschaft&lt;/link&gt;“. Die vergoldete Feinschaft führt dazu, dass der Paladin mit einer Segnung aus Gold erfüllt wird, wenn er jemanden zum Erzfeind erklärt. Der Paladin erhält einen Bonus für seinen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, bis er so oft getroffen wurde, dass das Gold zerbrochen ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1879,7 +1879,7 @@ Erzfeind erhält das Upgrade zu „Vergoldete Feindschaft“. Die vergoldete Fei
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Bonus auf Umwandlung von Treffern zu Kritischen Treffern bei Angriffen auf Ziele, die mehr als 4 m entfernt sind.
 
-Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft bei Angriffen auf Ziele, die weniger als 4 m entfernt sind.
+Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; bei Angriffen auf Ziele, die weniger als 4 m entfernt sind.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Verlangsamte Erholungszeit.
@@ -1899,7 +1899,7 @@ Der Verfolger und sein Gefährte erleiden Verbundene Trauer, wenn sie mehr als 7
     <Entry>
       <ID>2305</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Sichere dir den Status des passiven „Meuchelmordes“. Dieser gewährt für Angriffe aus der Heimlichkeit heraus einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; und Schaden bei einem kritischen Treffer.
+Erhalte die passive Fähigkeit „&lt;link="gamedata://ccbac5f4-f5a2-46f8-bedc-8d8679048996"&gt;Attentäter&lt;/link&gt;“. Diese gewährt für Angriffe aus der Heimlichkeit heraus einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; und Schaden bei einem kritischen Treffer.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Jeder erhaltene Schaden wird erhöht.</DefaultText>
@@ -1910,7 +1910,7 @@ Jeder erhaltene Schaden wird erhöht.</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Erhält erhöhte Kraftstufe bei Verzauberungszaubern.
 
-Erhält die passive Fähigkeit: „Freie Aktion: Wenn der Zauberer von einer &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Gewandtheitswirkung&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt; betroffen ist, macht er sich ein Mal pro Begegnung von diesem Effekt frei und wird vorübergehend immun gegen &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Gewandtheitswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;.“
+Erhält die passive Fähigkeit „&lt;link="gamedata://2aa6a074-b007-4fc1-8731-d69ef26b0dbd"&gt;Freie Aktion&lt;/link&gt;“: Wenn der Zauberer von einer &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Gewandtheitswirkung&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt; betroffen ist, macht er sich ein Mal pro Begegnung von diesem Effekt frei und wird vorübergehend immun gegen &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Gewandtheitswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Verliert Zugang zu Zaubern der Illusions- und Transmutationsschulen.
@@ -1974,7 +1974,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2407</ID>
-      <DefaultText>Wenn die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; eines Barbaren auf 0 sinkt, und er eine Nahkampfwaffe ausgerüstet hat, führt er sofort Volle Angriffe auf jeden in Reichweite aus. (Diese Angriffe lösen Blutbad aus.)</DefaultText>
+      <DefaultText>Wenn die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; eines Barbaren auf 0 sinkt, und er eine Nahkampfwaffe ausgerüstet hat, führt er sofort &lt;link="glossary://GlossaryEntry_Full_Attack"&gt;Volle Angriffe&lt;/link&gt; auf jeden in Reichweite aus. (Diese Angriffe lösen Blutbad aus.)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2094,7 +2094,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2534</ID>
-      <DefaultText>Das Schwingen des Säbels in großen bogenartigen Hieben erhöht die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft auf Kosten der Erholungszeit.</DefaultText>
+      <DefaultText>Das Schwingen des Säbels in großen bogenartigen Hieben erhöht die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; auf Kosten der Erholungszeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2159,17 +2159,17 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2590</ID>
-      <DefaultText>Du vernachlässigst deine Verteidigung, um dafür besonders kraftvolle Angriffe mit deinem Panzerbrecher auszuführen. Du gewinnst &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft auf Kosten der &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>Du vernachlässigst deine Verteidigung, um dafür besonders kraftvolle Angriffe mit deinem Panzerbrecher auszuführen. Du gewinnst &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; auf Kosten der &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2592</ID>
-      <DefaultText>Du zielst sorgfältig auf Schwachstellen in der Rüstung deiner Gegner und erhöhst deine &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft auf Kosten der Erholungszeit.</DefaultText>
+      <DefaultText>Du zielst sorgfältig auf Schwachstellen in der Rüstung deiner Gegner und erhöhst deine &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; auf Kosten der Erholungszeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2594</ID>
-      <DefaultText>Du schlägst mit kraftvollen durchdringen Hieben zu und erhältst zusätzliche &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft auf Kosten der Erholungszeit.</DefaultText>
+      <DefaultText>Du schlägst mit kraftvollen durchdringen Hieben zu und erhältst zusätzliche &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; auf Kosten der Erholungszeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2304,7 +2304,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2700</ID>
-      <DefaultText>Erhöht die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft der Verbündeten im Bereich.</DefaultText>
+      <DefaultText>Erhöht die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; der Verbündeten im Bereich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2369,7 +2369,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2755</ID>
-      <DefaultText>&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Quick"&gt;&lt;#72da26&gt;Schnelle&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;res Abfeuern und Nachladen der Pistole auf Kosten der &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>Schnelleres Abfeuern und Nachladen der Pistole auf Kosten der &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2389,7 +2389,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2775</ID>
-      <DefaultText>Gewährt Verbündeten in der Nähe einen Bonus auf die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft.</DefaultText>
+      <DefaultText>Gewährt Verbündeten in der Nähe einen Bonus auf die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2404,7 +2404,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2785</ID>
-      <DefaultText>Lasse den Angriff eines Verbündeten mit den Erinnerungen ihrer Seele widerhallen. Dies gewährt den Verbündeten einen wesentlichen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft-Bonus.</DefaultText>
+      <DefaultText>Lasse den Angriff eines Verbündeten mit den Erinnerungen ihrer Seele widerhallen. Dies gewährt den Verbündeten einen wesentlichen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;-Bonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2444,12 +2444,12 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2827</ID>
-      <DefaultText>Der Waldläufer hat seinen Gefährten trainiert, seine Beweglichkeit und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Quick"&gt;&lt;#72da26&gt;Schnell&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;igkeit einzusetzen, um Feinde im Kampf auszumanövrieren. Wenn ein Feind den tierischen Gefährten des Waldläufers beim Nahkampfangriff verfehlt, trägt das dem Feind einen Abzug für seine &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; ein.</DefaultText>
+      <DefaultText>Der Waldläufer hat seinen Gefährten trainiert, seine Beweglichkeit und Schnelligkeit einzusetzen, um Feinde im Kampf auszumanövrieren. Wenn ein Feind den tierischen Gefährten des Waldläufers beim Nahkampfangriff verfehlt, trägt das dem Feind einen Abzug für seine &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2831</ID>
-      <DefaultText>Wenn ein Schurke einen kritischen Treffer erzielt, verschafft er sich für kurze Zeit Bonus-&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>Wenn ein Schurke einen &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; erzielt, verschafft er sich für kurze Zeit Bonus-&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2759,7 +2759,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>3636</ID>
-      <DefaultText>(&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Quick"&gt;&lt;#72da26&gt;Schnelle&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; &lt;xg&gt;Erholung&lt;/xg&gt;) – Erhöht die Menge regenerierter &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>(Schnelle &lt;xg&gt;Erholung&lt;/xg&gt;) – Erhöht die Menge regenerierter &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2794,7 +2794,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>3749</ID>
-      <DefaultText>Scharfschützen konzentrieren sich einzig und allein auf den Fernkampf und verlassen sich für die Verteidigung auf ihre Tierischen Gefährten. Ihre &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; mit Fernkampfwaffen sind überlegen, aber sie brauchen mehr Zeit, sich nach einem Angriff zu erholen und haben schlechte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>Scharfschützen konzentrieren sich einzig und allein auf den Fernkampf und verlassen sich für die Verteidigung auf ihre Tierischen Gefährten. Ihre &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; mit Fernkampfwaffen sind überlegen, aber sie brauchen mehr Zeit, sich nach einem Angriff zu erholen und haben schlechte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2886,7 +2886,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>3862</ID>
-      <DefaultText>Während die Beseelungskatze dir folgt, erhältst du einen Bonus auf Arkana und Metaphysik, und alle Kreaturen, die von deiner Gruppe beschworen werden, erhalten einen Bonus auf Macht und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft.</DefaultText>
+      <DefaultText>Während die Beseelungskatze dir folgt, erhältst du einen Bonus auf Arkana und Metaphysik, und alle Kreaturen, die von deiner Gruppe beschworen werden, erhalten einen Bonus auf Macht und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2986,7 +2986,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>3921</ID>
-      <DefaultText>Während Nikki dir folgt, erhöht sich die Wahrscheinlichkeit, dass Angriffe gegen dich als leichte Treffer gewertet werden, und alle Gruppenmitglieder erhalten einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; mit Nahkampfwaffen.</DefaultText>
+      <DefaultText>Während Nikki dir folgt, erhöht sich die Wahrscheinlichkeit, dass Angriffe gegen dich als &lt;link="glossary://GlossaryEntry_Graze"&gt;leichte Treffer&lt;/link&gt; gewertet werden, und alle Gruppenmitglieder erhalten einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; mit Nahkampfwaffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3341,7 +3341,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4379</ID>
-      <DefaultText>Du schlägst mit kraftvollen Hieben zu und erhältst zusätzliche &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft auf Kosten der Erholungszeit.</DefaultText>
+      <DefaultText>Du schlägst mit kraftvollen Hieben zu und erhältst zusätzliche &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; auf Kosten der Erholungszeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3376,22 +3376,22 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4416</ID>
-      <DefaultText>Gewährt erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft mit Elektrizitätsangriffen.</DefaultText>
+      <DefaultText>Gewährt erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; mit Elektrizitätsangriffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4419</ID>
-      <DefaultText>Gewährt erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft mit &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;space=-0.7em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;#e86a1d&gt;&lt;space=1em&gt;Feuerangriffen&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>Gewährt erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; mit &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;space=-0.7em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;#e86a1d&gt;&lt;space=1em&gt;Feuerangriffen&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4420</ID>
-      <DefaultText>Gewährt erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft mit &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;space=0.7em&gt;Frost&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;- und Wasserangriffen.</DefaultText>
+      <DefaultText>Gewährt erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; mit &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;space=0.7em&gt;Frost&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;- und Wasserangriffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4422</ID>
-      <DefaultText>Gewährt erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft mit Gift- und Verfallsangriffen.</DefaultText>
+      <DefaultText>Gewährt erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; mit Säure- und Verfallsangriffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3406,12 +3406,12 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4446</ID>
-      <DefaultText>Gewährt ermächtigten Angriffen eine erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft.</DefaultText>
+      <DefaultText>Gewährt ermächtigten Angriffen eine erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4452</ID>
-      <DefaultText>Gewährt skalierende Effizienz mit unbewaffneten Angriffen. Obwohl die unbewaffneten Angriffe nicht so effektiv sein werden wie die eines Mönchs, profitieren sie von erhöhter &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft sowie von erhöhtem Schaden, wenn eine neue Stufe erreicht wird.</DefaultText>
+      <DefaultText>Gewährt skalierende Effizienz mit unbewaffneten Angriffen. Obwohl die unbewaffneten Angriffe nicht so effektiv sein werden wie die eines Mönchs, profitieren sie von erhöhter &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; sowie von erhöhtem Schaden, wenn eine neue Stufe erreicht wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3426,7 +3426,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4505</ID>
-      <DefaultText>Der Kämpfer trifft sein Ziel mit verheerender Kraft und erhält bedeutende zusätzliche &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft während des Angriffs.</DefaultText>
+      <DefaultText>Der Kämpfer trifft sein Ziel mit verheerender Kraft und erhält bedeutende zusätzliche &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; während des Angriffs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3561,7 +3561,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4687</ID>
-      <DefaultText>Erhöht für eine kurze Zeit zu Beginn jedes Kampfes die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft mit dieser Waffe.</DefaultText>
+      <DefaultText>Erhöht für eine kurze Zeit zu Beginn jedes Kampfes die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; mit dieser Waffe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3681,7 +3681,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4899</ID>
-      <DefaultText>Erhalten von zusätzlicher &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft beim Angriff desselben Ziels wie ein Verbündeter.</DefaultText>
+      <DefaultText>Erhalten von zusätzlicher &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; beim Angriff desselben Ziels wie ein Verbündeter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3711,7 +3711,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4927</ID>
-      <DefaultText>Der Waldläufer feuert einen starken, zielsicheren Schuss mit seiner Fernkampfwaffe ab und trifft alle Charaktere in seiner Bahn mit erhöhtem Schaden und stärkerer &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Weakened"&gt;&lt;#f7b733&gt;schwächt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; sie dabei noch.</DefaultText>
+      <DefaultText>Der Waldläufer feuert einen starken, zielsicheren Schuss mit seiner Fernkampfwaffe ab und trifft alle Charaktere in seiner Bahn mit erhöhtem Schaden und stärkerer &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Weakened"&gt;&lt;#f7b733&gt;schwächt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; sie dabei noch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3719,17 +3719,17 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Stelle durch eine erfolgreiche Unterbrechung einer feindlichen Handlung die Disziplin wieder her.
 
-Beschaffe dir einen &lt;link="gamedata://b1bf5832-b633-49fa-8ea2-b74ea720af0a"&gt;&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Brilliant"&gt;&lt;#00a4ff&gt;Brillante&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;n Taktiker&lt;/link&gt;.
+Gewährt &lt;link="gamedata://b1bf5832-b633-49fa-8ea2-b74ea720af0a"&gt;Brillanten Taktiker&lt;/link&gt;.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; werden verringert, wenn du ein Ziel angreifst, das nicht von einem Verbündeten bedroht wird.
+&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; werden verringert, wenn du ein Ziel angreifst, das nicht von einem Verbündeten bedroht wird.
 
 Gewährt &lt;link="gamedata://b6cd697b-176e-4fc3-b538-ae80a78d1ef3"&gt;Taktisches Dilemma&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4945</ID>
-      <DefaultText>Sind, solange sie Flankiert werden, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Shaken"&gt;&lt;#30d3d5&gt;Erschüttert&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Confused"&gt;&lt;#00a4ff&gt;Verwirrt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>Wenn man Flankiert wird, ist man &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Shaken"&gt;&lt;#30d3d5&gt;Erschüttert&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Confused"&gt;&lt;#00a4ff&gt;Verwirrt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3742,14 +3742,14 @@ Gewährt &lt;link="gamedata://b6cd697b-176e-4fc3-b538-ae80a78d1ef3"&gt;Taktische
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Gewährt &lt;link="gamedata://17093a31-44c6-45e4-ac71-78463307d496"&gt;Schutz formen: Raserei&lt;/link&gt; auf Kraftstufe 1.
 
-Gewährt &lt;link="gamedata://f45a289b-c363-4281-aa56-e4a2d81d0ccd"&gt;Schutz formen: Angst&lt;/link&gt; auf Kraftstufe 4.
+Gewährt &lt;link="gamedata://f45a289b-c363-4281-aa56-e4a2d81d0ccd"&gt;Schutz formen: Furcht&lt;/link&gt; auf Kraftstufe 4.
 
 Gewährt &lt;link="gamedata://bfa3f85c-ea51-466c-912b-56d43304bc63"&gt;Schutz formen: Blut&lt;/link&gt; auf Kraftstufe 8.
 
 Gewährt einen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;s-Bonus gegen Geister.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Wenn ein Schutz zerstört wird, fügt dies sofortigen Reinen Schaden und einen Abzug der Kraftstufe zu, bis der Kampf endet.
+Wenn ein Schutz zerstört wird, fügt dies sofortigen direkten Schaden und einen Abzug der Kraftstufe zu, bis der Kampf endet.
 
 Der &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=0.7em&gt;Wille&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; ist verringert.</DefaultText>
       <FemaleText />
@@ -3938,12 +3938,12 @@ Alle Verteidigungen gegen schwer verletzte Angreifer sind verringert.</DefaultTe
     </Entry>
     <Entry>
       <ID>5139</ID>
-      <DefaultText>Das Schwingen des Säbels in großen bogenartigen Hieben erhöht die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft auf Kosten der Initiative.</DefaultText>
+      <DefaultText>Das Schwingen des Säbels in großen bogenartigen Hieben erhöht die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; auf Kosten der Initiative.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5140</ID>
-      <DefaultText>Schlage mit kraftvollen Hieben zu und erhalte zusätzliche &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft auf Kosten der Initiative.</DefaultText>
+      <DefaultText>Schlage mit kraftvollen Hieben zu und erhalte zusätzliche &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; auf Kosten der Initiative.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3953,12 +3953,12 @@ Alle Verteidigungen gegen schwer verletzte Angreifer sind verringert.</DefaultTe
     </Entry>
     <Entry>
       <ID>5144</ID>
-      <DefaultText>Ziele sorgfältig auf Schwachstellen in der Rüstung deiner Gegner und erhöhe deine &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft auf Kosten der Initiative.</DefaultText>
+      <DefaultText>Ziele sorgfältig auf Schwachstellen in der Rüstung deiner Gegner und erhöhe deine &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; auf Kosten der Initiative.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5145</ID>
-      <DefaultText>Schlage mit kräftigen, durchdringenden Hieben zu und erhalte zusätzliche &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft auf Kosten der Initiative.</DefaultText>
+      <DefaultText>Schlage mit kräftigen, durchdringenden Hieben zu und erhalte zusätzliche &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; auf Kosten der Initiative.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3976,7 +3976,7 @@ Alle Verteidigungen gegen schwer verletzte Angreifer sind verringert.</DefaultTe
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Bonus auf Umwandlung von Treffern zu Kritischen Treffern bei Angriffen auf Ziele, die mehr als 4 m entfernt sind.
 
-Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft bei Angriffen auf Ziele, die weniger als 4 m entfernt sind.
+Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; bei Angriffen auf Ziele, die weniger als 4 m entfernt sind.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Initiativenabzug.

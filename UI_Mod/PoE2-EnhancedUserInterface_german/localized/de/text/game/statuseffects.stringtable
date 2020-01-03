@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\statuseffects</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>21</EntryCount>
+  <EntryCount>322</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Waffengenauigkeit, Schaden und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft erhöhen sich mit der Stufe des Trägers der Waffe</DefaultText>
+      <DefaultText>Waffengenauigkeit, Schaden und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; erhöhen sich mit der Stufe des Trägers der Waffe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>{0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft beim Angriff desselben Ziels wie ein Verbündeter.</DefaultText>
+      <DefaultText>{0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; beim Angriff desselben Ziels wie ein Verbündeter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Erzürnt, was Fingerfertig und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Tenacious"&gt;&lt;#ff4800&gt;Hartnäckig&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; macht</DefaultText>
+      <DefaultText>Erzürnt, was &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Nimble"&gt;&lt;#72da26&gt;Flink&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Tenacious"&gt;&lt;#ff4800&gt;Hartnäckig&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; macht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>{0:value} Alle Verteidigungen außer &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; (Der Bonus erhöht sich der Fertigkeit Geschichte)</DefaultText>
+      <DefaultText>{0:value} Alle Verteidigungen außer &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; (Der Bonus erhöht sich mit der Fertigkeit Geschichte)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -546,7 +546,7 @@
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>{0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft. Erhöht sich mit der Fertigkeit Überleben</DefaultText>
+      <DefaultText>{0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;. Erhöht sich mit der Fertigkeit Überleben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -806,7 +806,7 @@
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>Fernkampf-Angriffe erhalten {0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft</DefaultText>
+      <DefaultText>Fernkampf-Angriffe erhalten {0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,7 +816,7 @@
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>Fernkampf-Angriffe erhalten {0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft und {0:extravalue:percentbonus} Bonusschaden</DefaultText>
+      <DefaultText>Fernkampf-Angriffe erhalten {0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; und {0:extravalue:percentbonus} Bonusschaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -876,7 +876,7 @@
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>{0:value:percent} Chance, bei erlittenem kritischem Treffer durch eine Nahkampfwaffe, die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft des Angreifers um {0:extravalue} zu ändern</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei erlittenem kritischem Treffer durch eine Nahkampfwaffe, die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; des Angreifers um {0:extravalue} zu ändern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1081,7 +1081,7 @@
     </Entry>
     <Entry>
       <ID>469</ID>
-      <DefaultText>Verleiht für kurze Zeit zufällig {0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, {0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraftbonus oder {0:extravalue:percentbonus} Bonus auf Erholung, wenn ein Gegner angegriffen wird.</DefaultText>
+      <DefaultText>Verleiht für kurze Zeit zufällig {0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, {0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;bonus oder {0:extravalue:percentbonus} Bonus auf Erholung, wenn ein Gegner angegriffen wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1206,7 +1206,7 @@
     </Entry>
     <Entry>
       <ID>524</ID>
-      <DefaultText>{0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft für Beschwörungen</DefaultText>
+      <DefaultText>{0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; für Beschwörungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1251,7 +1251,7 @@
     </Entry>
     <Entry>
       <ID>556</ID>
-      <DefaultText>{0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft nach Erleiden von &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;space=0.7em&gt;Frostschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; (Kann bis zu {0:extravalue:straight}-mal gestapelt werden)</DefaultText>
+      <DefaultText>{0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; nach Erleiden von &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;space=0.7em&gt;Frostschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; (Kann bis zu {0:extravalue:straight}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1336,7 +1336,7 @@
     </Entry>
     <Entry>
       <ID>598</ID>
-      <DefaultText>{0:value:percent} Chance nach erzieltem kritischem Treffer mit Nahkampfwaffe, die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft der gegnerischen Waffe {0:triggervalue:duration} lang um {0:extravalue} zu verringern</DefaultText>
+      <DefaultText>{0:value:percent} Chance nach erzieltem kritischem Treffer mit Nahkampfwaffe, die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; der gegnerischen Waffe {0:triggervalue:duration} lang um {0:extravalue} zu verringern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1351,7 +1351,7 @@
     </Entry>
     <Entry>
       <ID>602</ID>
-      <DefaultText>{0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft, wenn unter {0:extravalue:straight} Macht</DefaultText>
+      <DefaultText>{0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;, wenn unter {0:extravalue:straight} Macht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1466,7 +1466,7 @@
     </Entry>
     <Entry>
       <ID>652</ID>
-      <DefaultText>Chance von {0:value:percent}, bei einem Treffer {0:triggervalue:duration} lang {0:extravalue} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft zu erhalten ({0:triggercount}-mal stapelbar)</DefaultText>
+      <DefaultText>Chance von {0:value:percent}, bei einem Treffer {0:triggervalue:duration} lang {0:extravalue} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; zu erhalten ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1516,7 +1516,7 @@
     </Entry>
     <Entry>
       <ID>680</ID>
-      <DefaultText>{0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft, wenn du ein Ziel angreifst, das nicht von einem Verbündeten angegriffen wird.</DefaultText>
+      <DefaultText>{0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;, wenn du ein Ziel angreifst, das nicht von einem Verbündeten angegriffen wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1586,7 +1586,7 @@
     </Entry>
     <Entry>
       <ID>716</ID>
-      <DefaultText>Feuert 3 Geschosse, jedoch mit geringerem Schaden und geringerer &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft</DefaultText>
+      <DefaultText>Feuert 3 Geschosse, jedoch mit geringerem Schaden und geringerer &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1606,7 +1606,7 @@
     </Entry>
     <Entry>
       <ID>744</ID>
-      <DefaultText>Verleiht kurzfristig {0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, {0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraftbonus oder {0:extravalue:percentbonus} Initiative, wenn ein Gegner angegriffen wird.</DefaultText>
+      <DefaultText>Verleiht kurzfristig {0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, {0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;bonus oder {0:extravalue:percentbonus} Initiative, wenn ein Gegner angegriffen wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

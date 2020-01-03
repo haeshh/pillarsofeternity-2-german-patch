@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>38</EntryCount>
+  <EntryCount>126</EntryCount>
   <Entries>
     <Entry>
       <ID>126</ID>
@@ -502,7 +502,7 @@ Herbeirufungsbeschwörungen kosten +1 Phrase.</DefaultText>
     <Entry>
       <ID>2823</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Erhalte die Fähigkeit „Seelenvernichtung“: Ein seelenangereicherter Nahkampfschlag, der die verbleibende Kraftreserve des Mediums aufbraucht und diese als &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;direkten Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; auf das Ziel wirkt.
+Erhalte die Fähigkeit „&lt;link="gamedata://bf41329e-a30c-464c-8c33-67e6d5ea5687"&gt;Seelenvernichtung&lt;/link&gt;“: Ein seelenangereicherter Nahkampfschlag, der die verbleibende Kraftreserve des Mediums aufbraucht und diese als &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;direkten Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; auf das Ziel wirkt.
 
 Zauber des Mediums mit dem Schlüsselwort Fetzen kosten weniger Fokus.
 
@@ -517,20 +517,20 @@ Maximaler Fokus ist reduziert. (Wie auch der Wert bei Kampfbeginn.)</DefaultText
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Anstelle sich in eine tierische Form zu verwandeln, werden die Furien beim Geisterwandeln zu einem Peststurm.
 
-Elementarzauber von Druiden erhalten erhöhte Reichweite und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft.
+Elementarzauber von Druiden erhalten erhöhte Reichweite und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;.
 
 Das Töten eines Feindes während des Geisterwandelns verlängert die Wirkungsdauer der Wandlung.
 
 Lerne die folgenden Druidenzauber auf neuen Kraftstufen:
-1. Tanzende Blitze
-2. Explosion der Sommerflamme
-3. Sturm der Wiederkehr
-4. Hagelsturm
-5. Unaufhörlicher Sturm
-6. Sonnenlanze
-7. Sturmtrotzer
-8. Rächender Sturm
-9. Großer Maelstrom
+1. &lt;link="gamedata://cc76703b-e0eb-4dde-8d16-b920320560a6"&gt;Tanzende Blitze&lt;/link&gt;
+2. &lt;link="gamedata://96128ded-837a-4047-a18a-3b7f88d45dfb"&gt;Explosion der Sommerflamme&lt;/link&gt;
+3. &lt;link="gamedata://af6b5085-5c01-4287-add3-75e6ec94b93b"&gt;Sturm der Wiederkehr&lt;/link&gt;
+4. &lt;link="gamedata://6c9946cf-adc9-49fa-b414-d9e773c7db4a"&gt;Hagelsturm&lt;/link&gt;
+5. &lt;link="gamedata://6bffc4f5-e8f8-4471-a098-5e83b0b664e4"&gt;Unaufhörlicher Sturm&lt;/link&gt;
+6. &lt;link="gamedata://ac37ae92-8056-4ecf-8dda-6f1dd5a8925b"&gt;Sonnenlanze&lt;/link&gt;
+7. &lt;link="gamedata://b0e4451d-cde5-4434-9ae1-88de5ca9f152"&gt;Sturmtrotzer&lt;/link&gt;
+8. &lt;link="gamedata://d06f03f8-edca-46c2-917b-3b941a04312b"&gt;Rächender Sturm&lt;/link&gt;
+9. &lt;link="gamedata://1d8a3400-7e30-43f4-86b8-23d1f5808d46"&gt;Großer Mahlstrom&lt;/link&gt;
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Verjüngungszauber können nicht gewirkt werden.</DefaultText>
@@ -546,15 +546,15 @@ Geisterwandler hat eine verlängerte Wirkungsdauer.
 Nach dem Geisterwandeln heilt der Druide einen Teil seiner &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.
 
 Lerne die folgenden Druidenzauber auf neuen Kraftstufen:
-1. Zeichen der Natur
-2. Insektenschwarm
-3. Madenbefall
-4. Form der Delemgan
-5. Schrecken der Natur
-6. Garten des Lebens
-7. Rostige Rüstung
-8. Entropie
-9. Pollenfleck
+1. &lt;link="gamedata://73d53819-6cde-46a5-a674-c24b304a608f"&gt;Mal der Natur&lt;/link&gt;
+2. &lt;link="gamedata://296ebd07-e675-42a7-bedb-ced9606503c5"&gt;Insektenschwarm&lt;/link&gt;
+3. &lt;link="gamedata://c9c433d4-af9a-4790-8366-a6ef45662f11"&gt;Madenbefall&lt;/link&gt;
+4. &lt;link="gamedata://794774fa-234a-4358-8746-195eefdbd76b"&gt;Form der Delemgan&lt;/link&gt;
+5. &lt;link="gamedata://067ebcbf-a9c7-4544-9457-f99160ff0b99"&gt;Schrecken der Natur&lt;/link&gt;
+6. &lt;link="gamedata://eee7b75c-5b46-465d-a65f-59e76304fe80"&gt;Garten des Lebens&lt;/link&gt;
+7. &lt;link="gamedata://c408ccac-319a-40da-aaf1-7186b13f8f2f"&gt;Rostige Rüstung&lt;/link&gt;
+8. &lt;link="gamedata://28af43ef-c857-4dd4-ad35-41e922a2daf5"&gt;Entropie&lt;/link&gt;
+9. &lt;link="gamedata://8897b8d3-6cf1-41ed-bb6b-c8099533ecbe"&gt;Pollenfleck&lt;/link&gt;
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Kann in Tiergestalt keine Zauber wirken.</DefaultText>
@@ -565,7 +565,7 @@ Kann in Tiergestalt keine Zauber wirken.</DefaultText>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Kann einen Waffenschwerpunkt als seine auserwählte Waffe bestimmen.
 
-Erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft mit der auserwählten Waffe.
+Erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; mit der auserwählten Waffe.
 
 Erhöhter Schaden bei Kritischen Treffern mit der auserwählten Waffe.
 
@@ -580,9 +580,9 @@ Erhält nur einen einzigen Schwerpunkt und keine neuen beim Stufenaufstieg.</Def
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 +1 Angriffsbindung.
 
-Erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft bei Absetzangriffen.
+Erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; bei Absetzangriffen.
 
-Verschafft „Schild-Meisterschaft“, die einen Bonus auf den &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; bereitstellt, solange ein Schild getragen wird.
+Verschafft „&lt;link="gamedata://e97271cd-23b1-4078-8640-6544e1e6451d"&gt;Schild-Meisterschaft&lt;/link&gt;“, die einen Bonus auf den &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; bereitstellt, solange ein Schild getragen wird.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Vermindertes Vorwärtskommen im Kampf.
@@ -593,7 +593,7 @@ Verminderte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf
     <Entry>
       <ID>2837</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Gewährt Flammen der Hingabe.
+Gewährt &lt;link="gamedata://85c147f5-dffc-4a5e-8083-71db95d6203d"&gt;Flammen der Hingabe&lt;/link&gt;.
 
 Die Flammen der Hingabe verursachen zusätzlichen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#9ba967&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;#adc455&gt;&lt;space=0.3em&gt;Zersetzungsschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; (Schwarze Flammen) und verursachen bei den Zielen die Wirkung &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Sickened"&gt;&lt;#f7b733&gt;Erkrankt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
@@ -603,7 +603,7 @@ Die Flammen der Hingabe verursachen zusätzlichen &lt;nobr&gt;&lt;link="glossary
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Gewährt Erzfeind.
 
-Erzfeind erhält das Upgrade zu „Vergoldete Feindschaft“. Die vergoldete Feinschaft führt dazu, dass der Paladin mit einer Segnung aus Gold erfüllt wird, wenn er jemanden zum Erzfeind erklärt. Der Paladin erhält einen Bonus für seinen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, bis er so oft getroffen wurde, dass das Gold zerbrochen ist.</DefaultText>
+Erzfeind erhält das Upgrade zu „&lt;link="gamedata://31b9575e-1b40-46be-9a54-66fbd54c1ac3"&gt;Vergoldete Feindschaft&lt;/link&gt;“. Die vergoldete Feinschaft führt dazu, dass der Paladin mit einer Segnung aus Gold erfüllt wird, wenn er jemanden zum Erzfeind erklärt. Der Paladin erhält einen Bonus für seinen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, bis er so oft getroffen wurde, dass das Gold zerbrochen ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -611,7 +611,7 @@ Erzfeind erhält das Upgrade zu „Vergoldete Feindschaft“. Die vergoldete Fei
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Bonus auf Umwandlung von Treffern zu Kritischen Treffern bei Angriffen auf Ziele, die mehr als 4 m entfernt sind.
 
-Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft bei Angriffen auf Ziele, die weniger als 4 m entfernt sind.
+Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; bei Angriffen auf Ziele, die weniger als 4 m entfernt sind.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Verlangsamte Erholungszeit.
@@ -631,7 +631,7 @@ Der Verfolger und sein Gefährte erleiden Verbundene Trauer, wenn sie mehr als 7
     <Entry>
       <ID>2853</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Sichere dir den Status des passiven „Meuchelmordes“. Dieser gewährt für Angriffe aus der Heimlichkeit heraus einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; und Schaden bei einem kritischen Treffer.
+Erhalte die passive Fähigkeit „&lt;link="gamedata://ccbac5f4-f5a2-46f8-bedc-8d8679048996"&gt;Attentäter&lt;/link&gt;“. Diese gewährt für Angriffe aus der Heimlichkeit heraus einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; und Schaden bei einem kritischen Treffer.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Jeder erhaltene Schaden wird erhöht.</DefaultText>
@@ -651,7 +651,7 @@ Zwischen die Augen – Fernkampfangriff mit großem &lt;nobr&gt;&lt;link="glossa
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Erhält erhöhte Kraftstufe bei Verzauberungszaubern.
 
-Erhält die passive Fähigkeit „Freie Handlung“: Wenn der Zauberer von einer &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Gewandtheits-&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;Wirkung betroffen ist, macht er sich ein Mal pro Begegnung von diesem Effekt frei und wird vorübergehend immun gegen &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Gewandtheits-&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;Wirkungen.
+Erhält die passive Fähigkeit „&lt;link="gamedata://2aa6a074-b007-4fc1-8731-d69ef26b0dbd"&gt;Freie Aktion&lt;/link&gt;“: Wenn der Zauberer von einer &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Gewandtheitswirkung&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt; betroffen ist, macht er sich ein Mal pro Begegnung von diesem Effekt frei und wird vorübergehend immun gegen &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Gewandtheitswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Verliert Zugang zu Zaubern der Illusions- und Transmutationsschulen.
@@ -676,7 +676,7 @@ Erhöhte Erholungszeit für Zaubersprüche, die nicht der Verzauberungsschule zu
     </Entry>
     <Entry>
       <ID>3028</ID>
-      <DefaultText>{0:Value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft</DefaultText>
+      <DefaultText>{0:Value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -714,10 +714,10 @@ Erhöhte Erholungszeit für Zaubersprüche, die nicht der Verzauberungsschule zu
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Stelle durch eine erfolgreiche Unterbrechung einer feindlichen Handlung die Disziplin wieder her.
 
-Beschaffe dir einen &lt;link="gamedata://b1bf5832-b633-49fa-8ea2-b74ea720af0a"&gt;&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Brilliant"&gt;&lt;#00a4ff&gt;Brillante&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;n Taktiker&lt;/link&gt;.
+Gewährt &lt;link="gamedata://b1bf5832-b633-49fa-8ea2-b74ea720af0a"&gt;Brillanten Taktiker&lt;/link&gt;.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; werden verringert, wenn du ein Ziel angreifst, das nicht von einem Verbündeten bedroht wird.
+&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; werden verringert, wenn du ein Ziel angreifst, das nicht von einem Verbündeten bedroht wird.
 
 Gewährt &lt;link="gamedata://b6cd697b-176e-4fc3-b538-ae80a78d1ef3"&gt;Taktisches Dilemma&lt;/link&gt;.</DefaultText>
       <FemaleText />
@@ -727,14 +727,14 @@ Gewährt &lt;link="gamedata://b6cd697b-176e-4fc3-b538-ae80a78d1ef3"&gt;Taktische
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Gewährt &lt;link="gamedata://17093a31-44c6-45e4-ac71-78463307d496"&gt;Schutz formen: Raserei&lt;/link&gt; auf Kraftstufe 1.
 
-Gewährt &lt;link="gamedata://f45a289b-c363-4281-aa56-e4a2d81d0ccd"&gt;Schutz formen: Angst&lt;/link&gt; auf Kraftstufe 4.
+Gewährt &lt;link="gamedata://f45a289b-c363-4281-aa56-e4a2d81d0ccd"&gt;Schutz formen: Furcht&lt;/link&gt; auf Kraftstufe 4.
 
 Gewährt &lt;link="gamedata://bfa3f85c-ea51-466c-912b-56d43304bc63"&gt;Schutz formen: Blut&lt;/link&gt; auf Kraftstufe 8.
 
 Gewährt einen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;s-Bonus gegen Geister.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Wenn ein Schutz zerstört wird, fügt dies sofortigen Reinen Schaden und einen Abzug der Kraftstufe zu, bis der Kampf endet.
+Wenn ein Schutz zerstört wird, fügt dies sofortigen direkten Schaden und einen Abzug der Kraftstufe zu, bis der Kampf endet.
 
 Der &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=0.7em&gt;Wille&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; ist verringert.</DefaultText>
       <FemaleText />
@@ -789,7 +789,7 @@ Alle Verteidigungen gegen schwer verletzte Angreifer sind verringert.</DefaultTe
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Bonus auf Umwandlung von Treffern zu Kritischen Treffern bei Angriffen auf Ziele, die mehr als 4 m entfernt sind.
 
-Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlag&lt;/link&gt;&lt;/nobr&gt;skraft bei Angriffen auf Ziele, die weniger als 4 m entfernt sind.
+Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; bei Angriffen auf Ziele, die weniger als 4 m entfernt sind.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Initiativenabzug.
