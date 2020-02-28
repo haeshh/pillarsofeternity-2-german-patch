@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>654</ID>
-      <DefaultText>Fügt bei einem erzielten kritischen Treffer {0:extravalue:duration} lang alle {0:interval} Reinen-Schaden zu (Schaden wird mit aktuellem Fokus des Mediums skaliert)</DefaultText>
+      <DefaultText>Fügt bei einem erzielten kritischen Treffer {0:extravalue:duration} lang alle {0:interval} &lt;link="glossary://GlossaryEntry_Raw"&gt;direkten Schaden&lt;/link&gt; zu (Schaden wird mit aktuellem Fokus des Mediums skaliert)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
