@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>126</EntryCount>
+  <EntryCount>130</EntryCount>
   <Entries>
     <Entry>
       <ID>126</ID>
@@ -647,6 +647,18 @@ Zwischen die Augen – Fernkampfangriff mit großem &lt;nobr&gt;&lt;link="glossa
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2855</ID>
+      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
+Wenn der Straßenkämpfer Flankiert oder &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;&lt;#000000FF&gt; ist, sind Schleichangriffe tödlicher und Erholungszeit vermindert.
+
+Wenn der Straßenkämpfer Flankiert und &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;&lt;#000000FF&gt; ist, erhöht sich der Kritische Schaden.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Wenn der Straßenkämpfer weder Flankiert noch &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;&lt;#000000FF&gt; ist, ist Erholung langsamer.
+&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2858</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Erhält erhöhte Kraftstufe bei Verzauberungszaubern.
@@ -805,6 +817,17 @@ Gewährt passive Wiederherstellung der &lt;link="gamedata://91e98392-f468-44a4-8
 Ermächtigung kann nicht eingesetzt werden.
 
 Alle Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;/color&gt;&lt;space=-0.8em&gt;&lt;/link&gt; und &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;/color&gt;&lt;space=-0.5em&gt;&lt;/link&gt;) gegen &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;schwer verletzte&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;&lt;#000000FF&gt; Angreifer sind verringert.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5251</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Wenn der Straßenkämpfer Flankiert oder &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;&lt;#000000FF&gt; ist, sind Schleichangriffe tödlicher und die Initiative vermindert.
+
+Wenn der Straßenkämpfer Flankiert und &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;&lt;#000000FF&gt; ist, erhöht sich der Kritische Schaden.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Wenn der Straßenkämpfer weder flankiert noch &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;&lt;#000000FF&gt; ist, wird Initiative abgezogen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
