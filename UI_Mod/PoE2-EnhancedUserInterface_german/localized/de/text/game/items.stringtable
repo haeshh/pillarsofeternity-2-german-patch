@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>104</EntryCount>
+  <EntryCount>107</EntryCount>
   <Entries>
     <Entry>
       <ID>254</ID>
@@ -187,6 +187,11 @@ Dieser einfache Speer ist mit Federn und Perlen verziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>3413</ID>
+      <DefaultText>Erzeugt einen großen Bereich der göttlichen Obhut, in dem Verbündete einen Bonus auf alle Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt; und &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;) erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>3414</ID>
       <DefaultText>Erzeugt einen Strahl mit vernichtender Kraft, der das Ziel und alle, die im Strahl erwischt werden, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Staggered"&gt;&lt;#ff4800&gt;Taumeln&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; lässt.</DefaultText>
       <FemaleText />
@@ -198,17 +203,22 @@ Dieser einfache Speer ist mit Federn und Perlen verziert.</DefaultText>
     </Entry>
     <Entry>
       <ID>3416</ID>
-      <DefaultText>Kanalisiert Mondenergie in eine vorgegebene Kraftquelle, wodurch die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; von Verbündeten im Wirkungsbereich regeneriert wird und sie einen geringen Bonus auf alle Verteidigungen erhalten.</DefaultText>
+      <DefaultText>Kanalisiert Mondenergie in eine vorgegebene Kraftquelle, wodurch die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; von Verbündeten im Wirkungsbereich regeneriert wird und sie einen geringen Bonus auf alle Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt; und &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;) erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3418</ID>
-      <DefaultText>Erzeugt ein intensives Leuchtfeuer, durch das Gegner im Wirkungsbereich einen Abzug auf alle Verteidigungen erhalten und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;space=-0.7em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;#e86a1d&gt;&lt;space=1em&gt;Brandzeitschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; erleiden.</DefaultText>
+      <DefaultText>Erzeugt ein intensives Leuchtfeuer, durch das Gegner im Wirkungsbereich einen Abzug auf alle Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt; und &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;) erhalten und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;space=-0.7em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;#e86a1d&gt;&lt;space=1em&gt;Brandzeitschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; erleiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3419</ID>
       <DefaultText>Ein Trio von Steinklauen bricht aus dem Boden hervor, die Fleisch zu Stein wandeln. Jeder, der im Wirkungsbereich gefangen ist, wird &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Paralyzed"&gt;&lt;#72da26&gt;Gelähmt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und mit &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Slashing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_slash" tint=1&gt;&lt;space=0.7em&gt;Hiebschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; belegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3420</ID>
+      <DefaultText>Verwandelt einen einzigen Gegner eines Gestandenen-Volks (Aumaua, Zwerg, Elf, Gottähnlicher, Mensch oder Orlaner) in ein Schwein. Das Schwein hat zwar eine sehr schlechte Verteidigung (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt; und &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;), kann sich dafür aber schnell bewegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,6 +506,11 @@ Solange Frosty dir folgt, erhältst du einen Rüstungsbonus gegen &lt;nobr&gt;&l
     <Entry>
       <ID>5502</ID>
       <DefaultText>Verursache {0} Schaden bei Feinden, während deine &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; unter 25 % liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5649</ID>
+      <DefaultText>lt;line-height=100%&gt;Im Kampf wird Nebula regelmäßig einem Charakter eine Inspiration schenken. Wenn du &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; bist und angegriffen wirst, besteht bei Nebula auch eine kleine Chance, &lt;link="gamedata://179fdaea-68b2-4323-bde7-4193bc8d9ba7"&gt;Rückzug&lt;/link&gt; oder &lt;link="gamedata://5432fc17-3a73-42cc-9a64-fa09949ec031"&gt;Rückruf der Agonie&lt;/link&gt; auf dich zu wirken.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
