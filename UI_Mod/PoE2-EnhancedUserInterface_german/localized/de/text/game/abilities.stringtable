@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>781</EntryCount>
+  <EntryCount>828</EntryCount>
   <Entries>
     <Entry>
       <ID>237</ID>
@@ -531,7 +531,7 @@
     </Entry>
     <Entry>
       <ID>528</ID>
-      <DefaultText>Die Haut von Feinden im Wirkungsbereich wird von Unmengen grabender Maden befallen, die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;direkten Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; über Zeit zufügen. Je verwundeter das Ziel ist, desto größer der Schaden. Ein Ziel mit maximaler &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; erleidet keinen Schaden durch den Zauber.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Die Haut von Feinden im Wirkungsbereich wird von Unmengen grabender Maden befallen, die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;direkten Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; über Zeit zufügen. Je verwundeter das Ziel ist, desto größer der Schaden. Ein Ziel mit maximaler &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; erleidet keinen Schaden durch den Zauber.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -601,7 +601,7 @@
     </Entry>
     <Entry>
       <ID>573</ID>
-      <DefaultText>Überwältigt die geistigen Fähigkeiten des Ziels, mit seinem eigenen Körper zu kommunizieren, wodurch es &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Paralyzed"&gt;&lt;#72da26&gt;Gelähmt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; wird und seine Seele eine Schockwelle ausstößt, die umstehende Feinde &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Immobilized"&gt;&lt;#72da26&gt;Bewegungsunfähig&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; machen kann.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Überwältigt die geistigen Fähigkeiten des Ziels, mit seinem eigenen Körper zu kommunizieren, wodurch es &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Paralyzed"&gt;&lt;#72da26&gt;Gelähmt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; wird und seine Seele eine Schockwelle ausstößt, die umstehende Feinde &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Immobilized"&gt;&lt;#72da26&gt;Bewegungsunfähig&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; machen kann.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -641,32 +641,33 @@
     </Entry>
     <Entry>
       <ID>593</ID>
-      <DefaultText>Plündert den Intellekt und die Wahrnehmung eines Feindes für Energie und schadet diesen Attributen des Gegners, während die Verteidigungen und die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; des Mediums gefördert werden.</DefaultText>
+      <DefaultText>Plündert den Intellekt und die Wahrnehmung eines Feindes für Energie und schadet diesen Attributen des Gegners, während die Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt;, and &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;) und die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; des Mediums gefördert werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>595</ID>
-      <DefaultText>Zersplittert die Seele des Ziels mit reiner Kraft und fügt ihm dabei &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;direkten Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu – Ziele, die Dem Tode nahe sind, explodieren, wodurch alle im Wirkungsbereich &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;space=0.7em&gt;Wuchtschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; erleiden.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Zersplittert die Seele des Ziels mit reiner Kraft und fügt ihm dabei &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;direkten Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu – Ziele, die &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind, explodieren, wodurch alle im Wirkungsbereich &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;space=0.7em&gt;Wuchtschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; erleiden.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>597</ID>
-      <DefaultText>Versieht alle Feinde im Wirkungsbereich mit einem hinterlistigen und mächtigen Zwang, dem Medium zu gehorchen, wodurch das Ziel &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Dominated"&gt;&lt;#00a4ff&gt;Beherrscht&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; wird und alle anderen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Charmed"&gt;&lt;#00a4ff&gt;Bezaubert&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; werden.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Versieht alle Feinde im Wirkungsbereich mit einem hinterlistigen und mächtigen Zwang, dem Medium zu gehorchen, wodurch das Ziel &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Dominated"&gt;&lt;#00a4ff&gt;Beherrscht&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; wird und alle anderen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Charmed"&gt;&lt;#00a4ff&gt;Bezaubert&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; werden.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>599</ID>
-      <DefaultText>Zeigt die mentalen Stärken des verbündeten Ziels und projiziert sie gewaltsam nach außen, wodurch eine Schockwelle erzeugt wird, die jedem im Wirkungsbereich &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;space=0.7em&gt;Wuchtschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zufügt und jeden Gegner im Bereich Niederschlägt.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Zeigt die mentalen Stärken des verbündeten Ziels und projiziert sie gewaltsam nach außen, wodurch eine Schockwelle erzeugt wird, die jedem im Wirkungsbereich &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;space=0.7em&gt;Wuchtschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zufügt und jeden Gegner im Bereich Niederschlägt.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>601</ID>
-      <DefaultText>Zerstört zielgenau die Erinnerung eines Feindes mit berechneter &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;, wodurch er &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Confused"&gt;&lt;#00a4ff&gt;Verwirrt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Dazed"&gt;&lt;#ff4800&gt;Benommen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; wird, bevor sie schnell auf andere Feinde überspringt.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Zerstört zielgenau die Erinnerung eines Feindes mit berechneter &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;, wodurch er &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Confused"&gt;&lt;#00a4ff&gt;Verwirrt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Dazed"&gt;&lt;#ff4800&gt;Benommen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; wird, bevor sie schnell auf andere Feinde überspringt.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>603</ID>
-      <DefaultText>&lt;xg&gt;Verbrennt&lt;/xg&gt; alle ätherische Kräfte, die Verstand, Körper und Seele des feindlichen Ziels zusammenhalten, wodurch es schnell &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;direkten Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; erleidet. Zielen, deren &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; auf 0 fällt, lösen sich spurlos auf.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;&lt;xg&gt;Verbrennt&lt;/xg&gt; alle ätherische Kräfte, die Verstand, Körper und Seele des feindlichen Ziels zusammenhalten, wodurch es schnell &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;direkten Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; erleidet. Zielen, deren &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; auf 0 fällt, lösen sich spurlos auf.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -846,12 +847,12 @@
     </Entry>
     <Entry>
       <ID>830</ID>
-      <DefaultText>Erzeugt einen mächtigen Sturm, der einen einzelnen Feind im Wirkungsbereich regelmäßig mit Blitzen trifft, wodurch er &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Stunned"&gt;&lt;#ff4800&gt;Betäubt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; wird und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Shock"&gt;&lt;space=-0.5em&gt;&lt;#fff151&gt;&lt;voffset=-0.1em&gt;&lt;sprite="Inline" name="cs_shock" tint=1&gt;&lt;/voffset&gt;&lt;space=-0.3em&gt;Schockschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; erleidet.</DefaultText>
+      <DefaultText>Erzeugt einen mächtigen Sturm, der einen einzelnen Feind im Wirkungsbereich regelmäßig mit Blitzen &lt;xg&gt;trifft&lt;/xg&gt;, wodurch er &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Stunned"&gt;&lt;#ff4800&gt;Betäubt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; wird und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Shock"&gt;&lt;space=-0.5em&gt;&lt;#fff151&gt;&lt;voffset=-0.1em&gt;&lt;sprite="Inline" name="cs_shock" tint=1&gt;&lt;/voffset&gt;&lt;space=-0.3em&gt;Schockschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>831</ID>
-      <DefaultText>Beschwört ein riesiges Hirschgeweih herauf, das das erste Ziel auf seinem Weg trifft, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Piercing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_pierce" tint=1&gt;&lt;space=0.7em&gt;Stichschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zufügt und einen Malus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=0.7em&gt;Reflexe&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; bewirkt.</DefaultText>
+      <DefaultText>Beschwört ein riesiges Hirschgeweih herauf, das das erste Ziel auf seinem Weg &lt;xg&gt;trifft&lt;/xg&gt;, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Piercing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_pierce" tint=1&gt;&lt;space=0.7em&gt;Stichschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zufügt und einen Malus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=0.7em&gt;Reflexe&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; bewirkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -866,7 +867,7 @@
     </Entry>
     <Entry>
       <ID>835</ID>
-      <DefaultText>Erzeugt einen tödlichen Sturm, der Feinde im Wirkungsbereich regelmäßig mit Blitzen trifft, wodurch sie &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Stunned"&gt;&lt;#ff4800&gt;Betäubt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; werden und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Shock"&gt;&lt;space=-0.5em&gt;&lt;#fff151&gt;&lt;voffset=-0.1em&gt;&lt;sprite="Inline" name="cs_shock" tint=1&gt;&lt;/voffset&gt;&lt;space=-0.3em&gt;Schockschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; erleiden.</DefaultText>
+      <DefaultText>Erzeugt einen tödlichen Sturm, der Feinde im Wirkungsbereich regelmäßig mit Blitzen &lt;xg&gt;trifft&lt;/xg&gt;, wodurch sie &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Stunned"&gt;&lt;#ff4800&gt;Betäubt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; werden und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Shock"&gt;&lt;space=-0.5em&gt;&lt;#fff151&gt;&lt;voffset=-0.1em&gt;&lt;sprite="Inline" name="cs_shock" tint=1&gt;&lt;/voffset&gt;&lt;space=-0.3em&gt;Schockschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; erleiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -921,7 +922,7 @@
     </Entry>
     <Entry>
       <ID>856</ID>
-      <DefaultText>Es wird eine heimtückische magische Eventualität ausgelöst, wenn der Zauberwirker Schwer verletzt oder Dem Tode nahe ist. Alle umstehenden Feinde werden zurückgestossen und Niedergestreckt, während er kurzzeitig einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und Verteidigung genießt.</DefaultText>
+      <DefaultText>Es wird eine heimtückische magische Eventualität ausgelöst, wenn der Zauberwirker &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist. Alle umstehenden Feinde werden zurückgestossen und Niedergestreckt, während er kurzzeitig einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und Verteidigung genießt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -936,7 +937,7 @@
     </Entry>
     <Entry>
       <ID>860</ID>
-      <DefaultText>Beschwört einen schwarzen Ring nekrotischer Energie herauf, der sich in alle Richtungen ausbreitet und Feinden, die er berührt, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#9ba967&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;#adc455&gt;&lt;space=0.3em&gt;Zersetzungsschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zufügt. Jene, die Dem Tode nahe sind, könnten dabei vernichtet werden.</DefaultText>
+      <DefaultText>Beschwört einen schwarzen Ring nekrotischer Energie herauf, der sich in alle Richtungen ausbreitet und Feinden, die er berührt, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#9ba967&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;#adc455&gt;&lt;space=0.3em&gt;Zersetzungsschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zufügt. Jene, die &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind, könnten dabei vernichtet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -961,7 +962,8 @@
     </Entry>
 	<Entry>
       <ID>867</ID>
-      <DefaultText>Führt dazu, dass der Barbar vor Schmerz ausschlägt, wodurch er einen Bonus auf Schaden erhält, solange er &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe ist&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Führt dazu, dass der Barbar vor Schmerz ausschlägt, wodurch er einen Bonus auf Schaden erhält, solange er &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe ist&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -996,7 +998,7 @@
     </Entry>
     <Entry>
       <ID>884</ID>
-      <DefaultText>(Haltung: Eroberer) – &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;sbonus des Kämpfers erhöht sich, wenn sein Zustand Verletzt oder besser ist. Wenn der Kämpfer schwer verletzt oder Dem Tode nahe ist, erhöht sich sein &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;bonus.</DefaultText>
+      <DefaultText>(Haltung: Eroberer) – &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;sbonus des Kämpfers erhöht sich, wenn sein Zustand Verletzt oder besser ist. Wenn der Kämpfer &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist, erhöht sich sein &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;bonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1161,7 +1163,8 @@
     </Entry>
     <Entry>
       <ID>1052</ID>
-      <DefaultText>Wenn der Barbar Verletzt oder gesünder ist, erhält er eine Resistenz gegen &lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;Körperwirkungen&lt;/link&gt;.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Wenn der Barbar &lt;link="glossary://GlossaryEntry_Hurt"&gt;&lt;#FDD835&gt;Verletzt&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.15em&gt;&lt;#FDD835FF&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#FDD835&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder gesünder ist, erhält er eine Resistenz gegen &lt;link="glossary://GlossaryEntry_Body_Affliction"&gt;Körperwirkungen&lt;/link&gt;.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1206,7 +1209,8 @@
     </Entry>
 	<Entry>
       <ID>1208</ID>
-      <DefaultText>Bei allen Angriffen gegen Feinde, die &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind, werden einige Treffer in Kritische Treffer umgewandelt und alle Kritischen Treffer richten zusätzlichen Schaden an.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Bei allen Angriffen gegen Feinde, die &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind, werden einige Treffer in Kritische Treffer umgewandelt und alle Kritischen Treffer richten zusätzlichen Schaden an.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1231,7 +1235,12 @@
     </Entry>
     <Entry>
       <ID>1307</ID>
-      <DefaultText>Wenn &lt;xg&gt;Feuer&lt;/xg&gt;-Gottähnliche &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind, härten sich ihre Körper und ihr &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; erhöht sich. Ihre Seelen wehren sich außerdem gegen die Angreifer und fügen allen, die sie im Nahkampf treffen, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;space=-0.7em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;#e86a1d&gt;&lt;space=1em&gt;Brandschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Wenn &lt;xg&gt;Feuer&lt;/xg&gt;-Gottähnliche &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind, härten sich ihre Körper und ihr &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; erhöht sich. Ihre Seelen wehren sich außerdem gegen die Angreifer und fügen allen, die sie im Nahkampf treffen, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;space=-0.7em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;#e86a1d&gt;&lt;space=1em&gt;Brandschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>1318</ID>
+      <DefaultText>Verbessert sämtliche Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt;, and &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;) der Antilope</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1259,14 +1268,27 @@
       <DefaultText>Vogel–Gottähnliche sind scharfsinnig und präzise. Sie besitzen eine Resistenz gegen &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;&lt;#00a4ff&gt;Intellekt-&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;/color&gt;&lt;/link&gt; und &lt;link="glossary://GlossaryEntry_Afflictions_Perception"&gt;&lt;#ca58ff&gt;Wahrnehmungswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;/color&gt;&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
+	<Entry>
+      <ID>1336</ID>
+      <DefaultText>&lt;line-height=100%&gt;&lt;xg&gt;Tod&lt;/xg&gt;-Gottähnliche scheinen ein angeborenes Gespür dafür zu haben, wann ihre Feinde kurz vor dem Tod stehen und daher besonders verwundbar sind. Gegen alle Ziele, die &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind, richten &lt;xg&gt;Tod&lt;/xg&gt;-Gottähnliche mehr Schaden aus.
+&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>1337</ID>
-      <DefaultText>Alle Menschen besitzen einen unbezwingbaren Geist, der umso stärker wird, je aussichtsloser die Lage ist. Wenn ein Mensch Schwer verletzt oder Dem Tode nahe ist, erhält er einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; und Schaden.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Alle Menschen besitzen einen unbezwingbaren Geist, der umso stärker wird, je aussichtsloser die Lage ist. Wenn ein Mensch &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist, erhält er einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; und Schaden.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1338</ID>
       <DefaultText>Bergzwerge sind die Rasse, die auf ganz Eora am weitesten gereist ist. Während ihrer unglaublichen Reisen waren sie den verschiedensten tödlichen Gefahren ausgesetzt. Das verschafft ihnen Widerstandskraft gegen &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;&lt;#f7b733&gt;Verfassungswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>1340</ID>
+      <DefaultText>&lt;line-height=100%&gt;Die Seelen aller Mond-Gottähnlichen sind mit Reservoiren heilender Energie verbunden. Wenn ein Mond-Gottähnlicher im Kampf das erste Mal &lt;link="glossary://GlossaryEntry_Hurt"&gt;&lt;#FDD835&gt;Verletzt&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.15em&gt;&lt;#FDD835FF&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#FDD835&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt;, &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist, generiert er automatisch eine Heilwelle um sich herum.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1401,7 +1423,7 @@
     </Entry>
     <Entry>
       <ID>1721</ID>
-      <DefaultText>Der Schurke löst sich aus der Angriffsbindung, weicht dem nächsten Angriff gekonnt aus und huscht an einen Ort außer Reichweite. Anschließend &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Paralyzed"&gt;&lt;#72da26&gt;lähmt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; der nächste Angriff des Schurken mit seiner Hauptwaffe das Ziel.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Der Schurke löst sich aus der Angriffsbindung, weicht dem nächsten Angriff gekonnt aus und huscht an einen Ort außer Reichweite. Anschließend &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Paralyzed"&gt;&lt;#72da26&gt;lähmt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; der nächste Angriff des Schurken mit seiner Hauptwaffe das Ziel.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1421,7 +1443,7 @@
     </Entry>
     <Entry>
       <ID>1737</ID>
-      <DefaultText>Der Druide verbindet winzige Naturgeister zur Gestalt eines großen Hirsches aus &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;space=-0.7em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;#e86a1d&gt;&lt;space=1em&gt;Feuer&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;. Der Hirsch hat einen dauerhaften Flammenschild. Der Druide kann die im Hirsch enthaltenen Geister heftig auseinanderfliegen lassen, was den Hirsch zerstört, aber &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;space=-0.7em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;#e86a1d&gt;&lt;space=1em&gt;Feuer&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;- oder &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Piercing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_pierce" tint=1&gt;&lt;space=0.7em&gt;Stichschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; bei allen verursacht, die von der Explosion getroffen werden.</DefaultText>
+      <DefaultText>Der Druide verbindet winzige Naturgeister zur Gestalt eines großen Hirsches aus Feuer. Der Hirsch hat einen dauerhaften Flammenschild. Der Druide kann die im Hirsch enthaltenen Geister heftig auseinanderfliegen lassen, was den Hirsch zerstört, aber &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;space=-0.7em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;#e86a1d&gt;&lt;space=1em&gt;Feuer&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;- oder &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Piercing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_pierce" tint=1&gt;&lt;space=0.7em&gt;Stichschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; bei allen verursacht, die von der Explosion getroffen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1507,6 +1529,11 @@
     <Entry>
       <ID>1769</ID>
       <DefaultText>Ein trockener Wind bläst über das Schlachtfeld und fügt jedem im Zielgebiet &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;direkten Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu und lässt ihn &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Weakened"&gt;&lt;#f7b733&gt;Geschwächt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>1770</ID>
+      <DefaultText>Verwandelt einen einzigen Gegner eines Gestandenen-Volks (Aumaua, Zwerg, Elf, Gottähnlicher, Mensch oder Orlaner) in ein Schwein. Das Schwein hat zwar eine sehr schlechte Verteidigung (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt;, and &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;), kann sich dafür aber schnell bewegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2285,7 +2312,8 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2654</ID>
-      <DefaultText>Schurken, die Schwer verletzt oder Dem Tode nahe sind, erhalten Immunität gegen &lt;link="glossary://GlossaryEntry_Mind_Affliction"&gt;Geisteswirkungen&lt;/link&gt; (Wahrnehmung, Intellekt und Entschlossenheit).</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Schurken, die &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind, erhalten Immunität gegen &lt;link="glossary://GlossaryEntry_Mind_Affliction"&gt;Geisteswirkungen&lt;/link&gt; (Wahrnehmung, Intellekt und Entschlossenheit).
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2340,7 +2368,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2685</ID>
-      <DefaultText>Im Status Verletzt oder besser erhalten der Waldläufer und sein tierischer Gefährte einen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;sbonus gegen Gegner, deren Status Schwer verletzt oder niedriger ist.</DefaultText>
+      <DefaultText>Im Status &lt;link="glossary://GlossaryEntry_Hurt"&gt;&lt;#FDD835&gt;Verletzt&lt;/color&gt;&lt;space=0.75em&gt;&lt;size=1.15em&gt;&lt;#FDD835FF&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#FDD835&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder besser erhalten der Waldläufer und sein tierischer Gefährte einen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;sbonus gegen Gegner, deren Status &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder niedriger ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2365,7 +2393,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2699</ID>
-      <DefaultText>Löst einen Effekt aus, der Gegnern im Bereich &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;direkten Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zufügt. Diejenigen, die Dem Tode nahe sind, können explodieren und verursachen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#9ba967&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;#adc455&gt;&lt;space=0.3em&gt;Zersetzungsschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; an Gegnern in der Nähe.</DefaultText>
+      <DefaultText>Löst einen Effekt aus, der Gegnern im Bereich &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;space=-0.5em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;#ef5350&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;#b71c1c&gt;&lt;space=1em&gt;direkten Schaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zufügt. Diejenigen, die &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind, können explodieren und verursachen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#9ba967&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;#adc455&gt;&lt;space=0.3em&gt;Zersetzungsschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; an Gegnern in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2473,6 +2501,12 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
       <DefaultText>Lasse den Angriff eines Verbündeten mit den Erinnerungen ihrer Seele widerhallen. Dies gewährt den Verbündeten einen wesentlichen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;-Bonus.</DefaultText>
       <FemaleText />
     </Entry>
+	<Entry>
+      <ID>2789</ID>
+      <DefaultText>&lt;line-height=100%&gt;Verfallsmagie umgibt das Ziel und erstickt seine Lebensessenz. Wenn der Überlebenswille des Ziels nicht stark genug ist, wird es sofort getötet. (Dieser Zauberspruch kann nur bei denjenigen eingesetzt werden, die &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind)
+&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>2791</ID>
       <DefaultText>Beschwört einen zerstörerischen Wirbelwind herauf, der die Opfer hoch in die Luft wirft und bei allen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;space=0.7em&gt;Wuchtschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; hervorruft, die er berührt.</DefaultText>
@@ -2483,9 +2517,14 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
       <DefaultText>(Inspirierter Schlag) – Erhalte nach dem Schlag kurzfristig die Inspirationen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Acute"&gt;&lt;#00a4ff&gt;Scharfsinnig&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Swift"&gt;&lt;#72da26&gt;Schwungvoll&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
+	<Entry>
+      <ID>2801</ID>
+      <DefaultText>Die &lt;link="gamedata://575a4c12-3ad1-438b-a291-62fda30b7567"&gt;&lt;#f2a624&gt;ermächtigten&lt;space=0.5em&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;#ffc638&gt;&lt;space=-3.68em&gt;&lt;voffset=0.14em&gt;&lt;size=65%&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; Angriffe des Kämpfers erhalten als Bonus eine Verwandlung von Treffern in kritische Treffer.</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>2811</ID>
-      <DefaultText>Die ermächtigten Angriffe des Mönches ignorieren alle &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswerte&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und verschaffen einen massiven &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;s-Bonus.</DefaultText>
+      <DefaultText>Die &lt;link="gamedata://575a4c12-3ad1-438b-a291-62fda30b7567"&gt;&lt;#f2a624&gt;ermächtigten&lt;space=0.5em&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;#ffc638&gt;&lt;space=-3.68em&gt;&lt;voffset=0.14em&gt;&lt;size=65%&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; Angriffe des Mönches ignorieren alle &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswerte&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und verschaffen einen massiven &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;s-Bonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2515,12 +2554,18 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2831</ID>
-      <DefaultText>Wenn ein Schurke einen &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; erzielt, verschafft er sich für kurze Zeit Bonus-&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Wenn ein Schurke einen &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; erzielt, verschafft er sich für kurze Zeit Bonus-&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>2835</ID>
+      <DefaultText>&lt;line-height=100%&gt;&lt;link="gamedata://575a4c12-3ad1-438b-a291-62fda30b7567"&gt;&lt;#f2a624&gt;Ermächtigte&lt;space=0.5em&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;#ffc638&gt;&lt;space=-3.68em&gt;&lt;voffset=0.14em&gt;&lt;size=65%&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; Angriffe gegen Feinde, die &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind, sind bei einem Treffer garantiert ein kritischer Treffer und erhalten einen erheblichen Bonus für den Schaden durch den kritischen Treffer.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2837</ID>
-      <DefaultText>Der Körper des Ziels verwandelt sich in Stein. Wenn das Ziel zum Zeitpunkt, in dem der Zauberspruch gewirkt wird, Dem Tode nahe ist, besteht eine Chance auf eine dauerhafte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Petrified"&gt;&lt;#72da26&gt;Versteinerung&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3+&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>Der Körper des Ziels verwandelt sich in Stein. Wenn das Ziel zum Zeitpunkt, in dem der Zauberspruch gewirkt wird, &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist, besteht eine Chance auf eine dauerhafte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Petrified"&gt;&lt;#72da26&gt;Versteinerung&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3+&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2580,22 +2625,22 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2896</ID>
-      <DefaultText>(Wildschlag–Raserei: &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;space=-0.7em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;#e86a1d&gt;&lt;space=1em&gt;Brand&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und verursacht Verbrennung und Schaden über Zeit bei Gegnern in der Nähe.</DefaultText>
+      <DefaultText>(Wildschlag–Raserei: &lt;xg&gt;Brand&lt;/xg&gt;) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und verursacht Verbrennung und Schaden über Zeit bei Gegnern in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2898</ID>
-      <DefaultText>(Wildschlag–Raserei: &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#9ba967&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;#adc455&gt;&lt;space=0.3em&gt;Zersetzung&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und verursacht &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#9ba967&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;#adc455&gt;&lt;space=0.3em&gt;Zersetzung&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und verringert den &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; von Gegnern in der Nähe.</DefaultText>
+      <DefaultText>(Wildschlag–Raserei: &lt;xg&gt;Zersetzung&lt;/xg&gt;) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und verursacht &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#9ba967&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;#adc455&gt;&lt;space=0.3em&gt;Zersetzung&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und verringert den &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; von Gegnern in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2900</ID>
-      <DefaultText>(Wildschlag–Raserei: &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;space=0.7em&gt;Frost&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und friert Gegner in der Nähe ein und verlangsamt sie.</DefaultText>
+      <DefaultText>(Wildschlag–Raserei: &lt;xg&gt;Frost&lt;/xg&gt;) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und friert Gegner in der Nähe ein und verlangsamt sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2902</ID>
-      <DefaultText>(Wildschlag–Raserei: &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Shock"&gt;&lt;space=-0.5em&gt;&lt;#fff151&gt;&lt;voffset=-0.1em&gt;&lt;sprite="Inline" name="cs_shock" tint=1&gt;&lt;/voffset&gt;&lt;space=-0.3em&gt;Schock&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und unterbricht Gegner in der Nähe.</DefaultText>
+      <DefaultText>(Wildschlag–Raserei: &lt;xg&gt;Schock&lt;/xg&gt;) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und unterbricht Gegner in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2688,6 +2733,11 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
       <DefaultText>Zieht ein fernes Ziel näher an denjenigen heran, der die Waffe führt. Dabei erleidet das Ziel &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Slashing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_slash" tint=1&gt;&lt;space=0.7em&gt;Hieb&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;- und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Piercing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_pierce" tint=1&gt;&lt;space=0.7em&gt;Stichschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und wird &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Dazed"&gt;&lt;#ff4800&gt;Benommen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;. Erhöht für kurze Zeit die Angriffsgeschwindigkeit desjenigen, der die Waffe führt.</DefaultText>
       <FemaleText />
     </Entry>
+	<Entry>
+      <ID>3315</ID>
+      <DefaultText>Ernte im Namen Gauns einen Feind. Wenn der Feind &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist, verursacht die Gesegnete Ernte bei ihm einen beträchtlich größeren Schaden.</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>3319</ID>
       <DefaultText>Dreh dich in einem weiten, wirbelnden Bogen, der allen Zielen im Bereich &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Slashing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_slash" tint=1&gt;&lt;space=0.7em&gt;Hieb&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;- und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Piercing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_pierce" tint=1&gt;&lt;space=0.7em&gt;Stichschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zufügt, sie zurückwirft und den Effekt &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Hobbled"&gt;&lt;#72da26&gt;Humpelnd&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zufügt.</DefaultText>
@@ -2695,7 +2745,13 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>3337</ID>
-      <DefaultText>Die Haut der &lt;xg&gt;Feuer&lt;/xg&gt;-Gottähnlichen ist auf natürliche Weise widerstandsfähig gegen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;space=-0.7em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;#e86a1d&gt;&lt;space=1em&gt;Brandschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Die Haut der &lt;xg&gt;Feuer&lt;/xg&gt;-Gottähnlichen ist auf natürliche Weise widerstandsfähig gegen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;space=-0.7em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;#e86a1d&gt;&lt;space=1em&gt;Brandschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>3339</ID>
+      <DefaultText>&lt;line-height=100%&gt;&lt;xg&gt;Tod&lt;/xg&gt;-Gottähnliche erhalten eine höhere Kraftstufe, wenn sie &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2735,7 +2791,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>3429</ID>
-      <DefaultText>Der Träger ist immun gegen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#9ba967&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;#adc455&gt;&lt;space=0.3em&gt;Zersetzungsschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, wenn er Schwer verletzt oder Dem Tode nahe ist.</DefaultText>
+      <DefaultText>Der Träger ist immun gegen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#9ba967&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;#adc455&gt;&lt;space=0.3em&gt;Zersetzungsschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, wenn er &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2756,6 +2812,11 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     <Entry>
       <ID>3451</ID>
       <DefaultText>Zu Beginn des Kampfes ist der Träger immun gegen alle Angriffe, die sich auf die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=0.7em&gt;Reflexe&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; richten. Dies endet erst, wenn der Träger zweimal von anderen Angriffen getroffen wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>3497</ID>
+      <DefaultText>Wenn der Träger &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist, wird sämtlicher Schaden verringert, den er erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2780,12 +2841,12 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>3531</ID>
-      <DefaultText>Diese Aura reduziert die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Heilung&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; der Feinde in der Nähe, wenn der Träger Schwer verletzt ist.</DefaultText>
+      <DefaultText>Diese Aura reduziert die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Heilung&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; der Feinde in der Nähe, wenn der Träger &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3533</ID>
-      <DefaultText>Wenn der Träger vom Zustand unverletzt aus in den Zustand gesund fällt, erhalten die Feinde in der Nähe 75 % weniger &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Heilung&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>Wenn der Träger vom Zustand unverletzt&lt;link="glossary://GlossaryEntry_Unharmed"&gt;&lt;#43e629&gt;unverletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.1em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.60em&gt;&lt;size=1em&gt;+&lt;/size&gt;&lt;/voffset&gt;&lt;space=-1.54em&gt;&lt;voffset=0.59em&gt;&lt;size=1em&gt;+&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt; aus in den Zustand gesund fällt, erhalten die Feinde in der Nähe 75 % weniger &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Heilung&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2800,7 +2861,32 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>3555</ID>
-      <DefaultText>Gewährt &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; über längere Zeit hinweg und verringert den empfangenen Schaden, wenn der Träger sich Dem Tode nahe befindet.</DefaultText>
+      <DefaultText>Gewährt &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; über längere Zeit hinweg und verringert den empfangenen Schaden, wenn der Träger sich &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; befindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>3569</ID>
+      <DefaultText>Diese Kreatur existiert teilweise in dieser Welt und teilweise jenseits des Schleiers. Sie hat einen Verteidigungsbonus (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt;, and &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;) gegen alle Angriffe, die nicht Schleierdurchdringend sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>3570</ID>
+      <DefaultText>Straßenkämpfer wachsen über sich selbst hinaus, wenn die Umstände gegen sie sind und werden besonders tödlich, wenn sie in der Unterzahl und &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>3574</ID>
+      <DefaultText>Kritischer Waffenschaden und Schaden durch Schleichangriffe erhöhen sich und die Erholung ist schneller, wenn der Straßenkämpfer sowohl flankiert als auch &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>3575</ID>
+      <DefaultText>Schaden durch Schleichangriffe erhöht sich und die Erholung ist schneller, wenn der Straßenkämpfer flankiert oder &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3576</ID>
+      <DefaultText>Wenn der Straßenkämpfer weder flankiert noch &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist, ist die Erholung langsamer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2811,6 +2897,11 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     <Entry>
       <ID>3608</ID>
       <DefaultText>Gewährt dem Nutzer zu Beginn des Kampfes für kurze Zeit Widerstand gegen &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Gewandtheitswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>3610</ID>
+      <DefaultText>Wirft einen zufälligen, der Verteidigung dienenden Illusions-Zauberspruch, wenn der Zauberwirker &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2826,6 +2917,11 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     <Entry>
       <ID>3636</ID>
       <DefaultText>(Schnelle &lt;xg&gt;Erholung&lt;/xg&gt;) – Erhöht die Menge regenerierter &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>3643</ID>
+      <DefaultText>Tötet befreundete Charaktere oder Gegner, die &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind. Wenn die Klinge tötet, erhält der Träger etwas von seiner Klassenressource zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3082,7 +3178,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>3953</ID>
-      <DefaultText>Gewährt Resistenz gegen &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;&lt;#f7b733&gt;Verfassungswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt; bei gesundem oder unverletztem Zustand.</DefaultText>
+      <DefaultText>Gewährt Resistenz gegen &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;&lt;#f7b733&gt;Verfassungswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt; bei &lt;link="glossary://GlossaryEntry_Healthy"&gt;&lt;#b5d925&gt;gesundem&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Unharmed"&gt;&lt;#43e629&gt;unverletztem&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.1em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.60em&gt;&lt;size=1em&gt;+&lt;/size&gt;&lt;/voffset&gt;&lt;space=-1.54em&gt;&lt;voffset=0.59em&gt;&lt;size=1em&gt;+&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt; Zustand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3110,6 +3206,11 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
       <DefaultText>Mit bewährter Kampferfahrung mit dem Schild kannst du eingehende Angriffe besser abwehren und bekommst einen Bonus für den &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, wenn ein Schild ausgerüstet ist.</DefaultText>
       <FemaleText />
     </Entry>
+	<Entry>
+      <ID>3989</ID>
+      <DefaultText>Der Träger springt auf seine Beute zu, macht sie &lt;link="glossary://GlossaryEntry_Immobilized"&gt;&lt;#72da26&gt;Bewegungsunfähig&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; und verursacht Blutungsschaden über Zeit.</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>3993</ID>
       <DefaultText>Aura, die gegnerische &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=0.7em&gt;Tapferkeit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=0.7em&gt;Reflexe&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=0.7em&gt;Wille&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; um einen gewissen Wert senkt. Dieser Wert wird durch die Fertigkeit Überleben des Trägers erhöht.</DefaultText>
@@ -3122,7 +3223,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4020</ID>
-      <DefaultText>Ein bezauberndes Aroma, das vom Streitflegel ausgeht, erzeugt eine Aura, die die Willens-&lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; von Gegnern in der Nähe senkt.</DefaultText>
+      <DefaultText>Ein bezauberndes Aroma, das vom Streitflegel ausgeht, erzeugt eine Aura, die die &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Willens&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;/color&gt;&lt;/link&gt;Abwehr von Gegnern in der Nähe senkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3147,12 +3248,12 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4088</ID>
-      <DefaultText>Erzeugt eine Aura, die langsam die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; naher Verbündeter in Abhängigkeit von ihrer verbleibenden &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; wiederherstellt. (Maximale &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Heilung&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; an Zielen, die Dem Tode nahe sind.)</DefaultText>
+      <DefaultText>Erzeugt eine Aura, die langsam die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; naher Verbündeter in Abhängigkeit von ihrer verbleibenden &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; wiederherstellt. (Maximale &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Heilung&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; an Zielen, die &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind.)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4092</ID>
-      <DefaultText>Wenn der Träger Schwer verletzt ist, erhält er über eine lange Dauer eine zufällige &lt;link="glossary://GlossaryEntry_Mind_Inspiration"&gt;Geistesinspiration&lt;/link&gt;.</DefaultText>
+      <DefaultText>Wenn der Träger &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist, erhält er über eine lange Dauer eine zufällige &lt;link="glossary://GlossaryEntry_Mind_Inspiration"&gt;Geistesinspiration&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3172,12 +3273,17 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
 	<Entry>
       <ID>4122</ID>
-      <DefaultText>Von Blut durchtränkt pulsiert und kräuselt sich die Rüstung offenbar unter ihrer eigenen &lt;xg&gt;Macht&lt;/xg&gt;. Gewährt einen Bonus auf alle Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt; und &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;), wenn der Träger Schwer verletzt wurde.</DefaultText>
+      <DefaultText>Von Blut durchtränkt pulsiert und kräuselt sich die Rüstung offenbar unter ihrer eigenen &lt;xg&gt;Macht&lt;/xg&gt;. Gewährt einen Bonus auf alle Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt; und &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;), wenn der Träger &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4124</ID>
-      <DefaultText>Das Blut füllt die Lücken zwischen den Verbindungsstücken und fängt so Stöße ab. Gewährt einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, wenn der Träger Schwer verletzt ist.</DefaultText>
+      <DefaultText>Das Blut füllt die Lücken zwischen den Verbindungsstücken und fängt so Stöße ab. Gewährt einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, wenn der Träger &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>4126</ID>
+      <DefaultText>Die Rüstung dürstet nach flüssiger Lebenskraft und hilft daher gerne dabei, sie zu erlangen. Gewährt einen Bonus auf Angriffsgeschwindigkeit, wenn der Träger &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3207,7 +3313,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4140</ID>
-      <DefaultText>Gewährt Resistenz gegen &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;&lt;#f7b733&gt;Verfassungswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt; im Unverletzten und Gesunden Zustand.</DefaultText>
+      <DefaultText>Gewährt Resistenz gegen &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;&lt;#f7b733&gt;Verfassungswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt; im &lt;link="glossary://GlossaryEntry_Unharmed"&gt;&lt;#43e629&gt;Unverletzten&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.1em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.60em&gt;&lt;size=1em&gt;+&lt;/size&gt;&lt;/voffset&gt;&lt;space=-1.54em&gt;&lt;voffset=0.59em&gt;&lt;size=1em&gt;+&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt; und &lt;link="glossary://GlossaryEntry_Healthy"&gt;&lt;#b5d925&gt;Gesunden&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt; Zustand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3222,7 +3328,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4147</ID>
-      <DefaultText>Wenn der Träger Dem Tode nahe ist, erhält er einen Rüstungsbonus und fügt Nahkampf-Angreifern &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;space=-0.7em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;#e86a1d&gt;&lt;space=1em&gt;Brandschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu.</DefaultText>
+      <DefaultText>Wenn der Träger &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist, erhält er einen &lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;Rüstungsbonus&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;/color&gt;&lt;/link&gt; und fügt Nahkampf-Angreifern &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;space=-0.7em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;#e86a1d&gt;&lt;space=1em&gt;Brandschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3255,6 +3361,11 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
       <DefaultText>Gewährt einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=0.7em&gt;Wille&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
+	<Entry>
+      <ID>4245</ID>
+      <DefaultText>Näht Fleisch und richtet Knochen, wodurch Verletzungen vom Ziel entfernt werden können. Diese Herangehensweise ist allerdings sehr rabiat, und der Patient leidet durch sie unter verringerter Verteidigung (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt; und &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;), bis er sich vernünftig ausruhen konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>4268</ID>
       <DefaultText>Distrahos Knaufstein teilt aus seinem Essenzvorrat. Stellt beim Träger eine kleine Menge &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; wieder her.</DefaultText>
@@ -3263,6 +3374,11 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     <Entry>
       <ID>4270</ID>
       <DefaultText>Distrahos Knaufstein pulsiert vor lebensspendender Essenz. Stellt beim Träger und nahen Verbündeten eine kleine Menge &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; wieder her.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>4271</ID>
+      <DefaultText>(Pfeilwirbel) – Treffer von Windlied auf Zielen, die &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind, können diese &lt;link="glossary://GlossaryEntry_Distracted"&gt;&lt;#ca58ff&gt;Ablenken&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3277,7 +3393,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4276</ID>
-      <DefaultText>Gewährt im Unverletzten und Gesunden Zustand Immunität gegen &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;&lt;#f7b733&gt;Verfassungswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt;.</DefaultText>
+      <DefaultText>Gewährt im &lt;link="glossary://GlossaryEntry_Unharmed"&gt;&lt;#43e629&gt;Unverletzten&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.1em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.60em&gt;&lt;size=1em&gt;+&lt;/size&gt;&lt;/voffset&gt;&lt;space=-1.54em&gt;&lt;voffset=0.59em&gt;&lt;size=1em&gt;+&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Healthy"&gt;&lt;#b5d925&gt;Gesunden&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=0.5em&gt; Zustand Immunität gegen &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;&lt;#f7b733&gt;Verfassungswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3352,7 +3468,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4329</ID>
-      <DefaultText>Wenn der Träger Dem Tode nahe ist, erhält er einen geringen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Heileffekt&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; über Zeit.</DefaultText>
+      <DefaultText>Wenn der Träger &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist, erhält er einen geringen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Heileffekt&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; über Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3367,7 +3483,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4336</ID>
-      <DefaultText>Bricht eine Angriffsbindung und weicht der nächsten Attacke geschickt aus. Danach folgt ein Sprung außer Reichweite. Blendet und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Confused"&gt;&lt;#00a4ff&gt;Verwirrt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; nahe Ziele. Kann einmal pro Ruhepause verwendet werden.</DefaultText>
+      <DefaultText>Bricht eine Angriffsbindung und weicht der nächsten Attacke geschickt aus. Danach folgt ein Sprung außer Reichweite. &lt;link="glossary://GlossaryEntry_Blinded"&gt;&lt;#ca58ff&gt;Blendet&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Confused"&gt;&lt;#00a4ff&gt;Verwirrt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; nahe Ziele. Kann einmal pro Ruhepause verwendet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3472,7 +3588,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4422</ID>
-      <DefaultText>Gewährt erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; mit Säure- und Verfallsangriffen.</DefaultText>
+      <DefaultText>Gewährt erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; mit &lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#d9dc37&gt;Säure-&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;space=-0.3em&gt;&lt;/link&gt; und Verfallsangriffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3482,12 +3598,17 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4442</ID>
-      <DefaultText>Gewährt ermächtigten Angriffen eine erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>Gewährt &lt;link="gamedata://575a4c12-3ad1-438b-a291-62fda30b7567"&gt;&lt;#f2a624&gt;ermächtigten&lt;space=0.5em&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;#ffc638&gt;&lt;space=-3.68em&gt;&lt;voffset=0.14em&gt;&lt;size=65%&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; Angriffen eine erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4444</ID>
+      <DefaultText>&lt;link="gamedata://575a4c12-3ad1-438b-a291-62fda30b7567"&gt;&lt;#f2a624&gt;Ermächtige&lt;space=0.5em&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;#ffc638&gt;&lt;space=-3.68em&gt;&lt;voffset=0.14em&gt;&lt;size=65%&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; Angriffe erhalten bei Wirkungs- und Inspirationseffekten eine erhöhte Dauer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4446</ID>
-      <DefaultText>Gewährt ermächtigten Angriffen eine erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>Gewährt &lt;link="gamedata://575a4c12-3ad1-438b-a291-62fda30b7567"&gt;&lt;#f2a624&gt;ermächtigten&lt;space=0.5em&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;#ffc638&gt;&lt;space=-3.68em&gt;&lt;voffset=0.14em&gt;&lt;size=65%&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; Angriffen eine erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3496,13 +3617,23 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4456</ID>
+      <DefaultText>&lt;link="gamedata://575a4c12-3ad1-438b-a291-62fda30b7567"&gt;&lt;#f2a624&gt;Ermächtigte&lt;space=0.5em&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;#ffc638&gt;&lt;space=-3.68em&gt;&lt;voffset=0.14em&gt;&lt;size=65%&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; Angriffe verursachen erhöhten Schaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4476</ID>
+      <DefaultText>Tötet befreundete Charaktere oder Gegner, die &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4483</ID>
-      <DefaultText>Der Geist von Griffin erhöht den Mut der Gruppe. Gewährt dem Träger und allen nahen Verbündeten &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Steadfast"&gt;&lt;#30d3d5&gt;Standhaft&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, wenn der Träger Schwer verletzt ist.</DefaultText>
+      <DefaultText>Der Geist von Griffin erhöht den Mut der Gruppe. Gewährt dem Träger und allen nahen Verbündeten &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Steadfast"&gt;&lt;#30d3d5&gt;Standhaft&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, wenn der Träger &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4493</ID>
-      <DefaultText>Diese Bronzeplatten haben noch etwas Leben in sich. Erhöht den &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; gegen Waffen, wenn der Träger Schwer verletzt ist.</DefaultText>
+      <DefaultText>Diese Bronzeplatten haben noch etwas Leben in sich. Erhöht den &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; gegen Waffen, wenn der Träger &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3527,12 +3658,12 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4558</ID>
-      <DefaultText>Anstrengung löscht die Furcht des Trägers vor dem bevorstehenden Tod aus. Gewährt Immunität gegenüber &lt;link="glossary://GlossaryEntry_Afflictions_Resolve"&gt;&lt;#30d3d5&gt;Entschlossenheitswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, wenn Dem Tode nahe.</DefaultText>
+      <DefaultText>Anstrengung löscht die Furcht des Trägers vor dem bevorstehenden Tod aus. Gewährt Immunität gegenüber &lt;link="glossary://GlossaryEntry_Afflictions_Resolve"&gt;&lt;#30d3d5&gt;Entschlossenheitswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, wenn &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4559</ID>
-      <DefaultText>Gewährt sich erhöhende &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, wohingegen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; verloren wird. Träger können sich nicht bewegen, wenn sie Dem Tode nahe sind.</DefaultText>
+      <DefaultText>Gewährt sich erhöhende &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, wohingegen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; verloren wird. Träger können sich nicht bewegen, wenn sie &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3542,7 +3673,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4561</ID>
-      <DefaultText>Gewährt einen Bonus auf den &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;sregeneration, wenn Dem Tode nahe.</DefaultText>
+      <DefaultText>Gewährt einen Bonus auf den &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=0.7em&gt;Rüstungswert&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;sregeneration, wenn &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3553,6 +3684,11 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     <Entry>
       <ID>4571</ID>
       <DefaultText>Bewirkt, dass in der Nähe befindliche Verbündete im Lauf der Zeit &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zurückerhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4574</ID>
+      <DefaultText>(Beschützendes Licht) – Verbündete erhalten erhöhte Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt;, and &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;), wenn sie unter dem Schutz des Lichtes stehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3571,6 +3707,21 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4600</ID>
+      <DefaultText>Verwendet die gespeicherte Seelenenergie der leuchtenden Scherbe, um ein Ziel zu schlagen und seine Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt;, and &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;) zu verringern. Der Nachteil wird durch die Fertigkeit Metaphysik noch mächtiger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4602</ID>
+      <DefaultText>Verwendet die gespeicherte Seelenenergie der leuchtenden Scherbe, um ein Ziel zurück- und niederzuschlagen und seine Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt;, and &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;) zu verringern. Der Nachteil wird durch die Fertigkeit Metaphysik noch mächtiger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4606</ID>
+      <DefaultText>Wenn &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; kann der herrliche Fluchtumhang verwendet werden, um sich schnell in Sicherheit zu bringen, die Angriffsbindung zu brechen und meisterhaft den nächsten Angriff zu vermeiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4611</ID>
       <DefaultText>Beschwört einen Wasserball aus flüssiger Kraft herauf, der über dem Ziel explodiert und bei allen im Wirkungsbereich &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;space=0.7em&gt;Wuchtschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; verursacht.</DefaultText>
       <FemaleText />
@@ -3582,7 +3733,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4636</ID>
-      <DefaultText>Du sollst dich nicht beugen. Stellt &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; konstant her, während der Träger Schwer verletzt oder Dem Tode nahe ist.</DefaultText>
+      <DefaultText>Du sollst dich nicht beugen. Stellt &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; konstant her, während der Träger &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3632,7 +3783,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4676</ID>
-      <DefaultText>Eis verschließt die Gelenke der Rüstung, der Träger erhält einen Bonus auf Rüstung, wird aber &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Immobilized"&gt;&lt;#72da26&gt;Bewegungsunfähig&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>Eis verschließt die Gelenke der Rüstung, der Träger erhält einen Bonus auf &lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;Rüstung&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, wird aber &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Immobilized"&gt;&lt;#72da26&gt;Bewegungsunfähig&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3647,7 +3798,12 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4697</ID>
-      <DefaultText>Während dir Frosty folgt, erhältst du zusätzlich Frostrüstung und die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;space=0.7em&gt;Frostangriffe&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; der Gruppe sind genauer.</DefaultText>
+      <DefaultText>Während dir Frosty folgt, erhältst du zusätzlich &lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;Frostrüstung&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;space=-1em&gt;&lt;voffset=0.5&gt;&lt;#b3e5fc&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;/color&gt;&lt;/voffset&gt;&lt;/link&gt; und die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;space=0.7em&gt;Frostangriffe&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; der Gruppe sind genauer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4717</ID>
+      <DefaultText>(Frostgeschädigte Palisaden) Fehlschläge des Feindes gegen den Träger haben eine Chance, einen &lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;Frost&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;/color&gt;&lt;/link&gt;angriff als Vergeltungsschlag auszulösen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3666,6 +3822,26 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>4733</ID>
+      <DefaultText>Der Benutzer erzeugt an einer Stelle eine mächtige Feuerexplosion. Feinde im Explosionsbereich erleiden sofort und über Zeit &lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;#e86a1d&gt;Verbrennungsschaden&lt;/color&gt;&lt;space=0.2em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=1em&gt;. Verbündete im Explosionsbereich werden sofort und über Zeit geheilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4736</ID>
+      <DefaultText>Der Benutzer stachelt die Feinde um sich herum zur Rebellion an. Diese Feinde sind für kurze Zeit &lt;link="glossary://GlossaryEntry_Charmed"&gt;&lt;#00a4ff&gt;bezaubert&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; und ihre Macht, Verfassung und Gewandtheit werden erhöht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4746</ID>
+      <DefaultText>Gottähnliche des Endes sind selbst zu ihren besten Zeiten abstoßend. Wenn sie noch dazu verwundet sind, strahlen sie eine giftige Aura von Schmerz und Ekel aus und machen, wenn sie &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; oder &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tod nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sind, ihre Feinde &lt;link="glossary://GlossaryEntry_Sickened"&gt;&lt;#f7b733&gt;krank&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=75%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4749</ID>
+      <DefaultText>Der Träger zeigt auf einen Feind und &lt;link="glossary://GlossaryEntry_Dominated"&gt;&lt;#00a4ff&gt;beherrscht&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; ihn für eine kurze Zeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>4755</ID>
       <DefaultText>Gewährt einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; und Schaden für den ersten Waffenangriff nach Kampfbeginn.</DefaultText>
       <FemaleText />
@@ -3677,7 +3853,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4769</ID>
-      <DefaultText>Zeichnet das Symbol von Rymrgand auf den Boden, das Gegnern in regelmäßigen Abständen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;space=0.7em&gt;Frostschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zufügt und sie verängstigt zurücklässt.</DefaultText>
+      <DefaultText>Zeichnet das Symbol von Rymrgand auf den Boden, das Gegnern in regelmäßigen Abständen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;space=0.7em&gt;Frostschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zufügt und sie &lt;link="glossary://GlossaryEntry_Frightened"&gt;&lt;#30d3d5&gt;verängstigt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; zurücklässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3702,12 +3878,22 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4782</ID>
-      <DefaultText>Der Benutzer setzt Neriscyrlas’ ätzenden Atem frei, fügt &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#9ba967&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;#adc455&gt;&lt;space=0.3em&gt;Zersetzungsschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu und verängstigt.</DefaultText>
+      <DefaultText>Der Benutzer setzt Neriscyrlas’ ätzenden Atem frei, fügt &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#9ba967&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;#adc455&gt;&lt;space=0.3em&gt;Zersetzungsschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu und &lt;link="glossary://GlossaryEntry_Frightened"&gt;&lt;#30d3d5&gt;verängstigt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4783</ID>
-      <DefaultText>Der Benutzer löst eine Säureexplosion aus, fügt &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#9ba967&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;#adc455&gt;&lt;space=0.3em&gt;Zersetzungsschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu und verängstigt.</DefaultText>
+      <DefaultText>Der Benutzer löst eine Säureexplosion aus, fügt &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#9ba967&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;#adc455&gt;&lt;space=0.3em&gt;Zersetzungsschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu und &lt;link="glossary://GlossaryEntry_Frightened"&gt;&lt;#30d3d5&gt;verängstigt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>4786</ID>
+      <DefaultText>Die Schritte des Trägers vereisen den darunterliegenden Boden und lassen Feinde, die den Bereich betreten, &lt;link="glossary://GlossaryEntry_Hobbled"&gt;&lt;#72da26&gt;humpeln&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=75%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>4787</ID>
+      <DefaultText>Der Träger kanalisiert jegliche latente Energie und erhält dadurch einen Bonus auf die Aktionsgeschwindigkeit, wird aber auch &lt;link="glossary://GlossaryEntry_Weakened"&gt;&lt;#f7b733&gt;geschwächt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3715,9 +3901,19 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
       <DefaultText>Der Träger erhält zu Beginn des Kampfes einen beträchtlichen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=0.7em&gt;Willen&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, verliert jedoch über die Zeit langsam &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=0.7em&gt;Willen&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
+	<Entry>
+      <ID>4852</ID>
+      <DefaultText>Wenn sich keine Verbündeten in der Nähe befinden, verursacht der Träger zusätzlichen &lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;#e72c2c&gt;direkten Schaden&lt;/color&gt;&lt;#ef5350&gt;&lt;space=0.3em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=0.5em&gt;&lt;/link&gt; mit seinen Waffenangriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>4853</ID>
-      <DefaultText>Wenn der Träger zum ersten Mal in einem Kampf schwer verletzt wird, erhält er vorübergehend eine zügige &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Heilung&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <DefaultText>Wenn der Träger zum ersten Mal in einem Kampf &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; wird, erhält er vorübergehend eine zügige &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Heilung&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>4862</ID>
+      <DefaultText>Gift aus den Mundwerkzeugen tritt in den Körper des Opfers ein und &lt;link="glossary://GlossaryEntry_Petrified"&gt;&lt;#72da26&gt;versteinert&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3+&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; es. Stirbt das Opfer im versteinerten Zustand, brechen kristallfressende Spinnenjungtiere aus seinem Körper und unterstützen die Gruppe für einige Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3760,6 +3956,18 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
       <DefaultText>Während Hati dir folgt, erhältst du Bonus-Macht und deine Gruppenmitglieder erhalten einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=0.7em&gt;Reflexe&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
+	<Entry>
+      <ID>4895</ID>
+      <DefaultText>Erhöht basierend auf dem aktuellen Vermögen der Gruppe die Chance des Trägers, Treffer in kritische Treffer zu verwandeln.
+
+&lt;b&gt;Effekt&lt;/b&gt;
+10.000-24.999 Gold:&lt;indent=40em&gt;+3% Chance&lt;/indent&gt;
+25.000-49.999 Gold:&lt;indent=40em&gt;+6% Chance&lt;/indent&gt;
+50.000-99.999 Gold:&lt;indent=40em&gt;+9% Chance&lt;/indent&gt;
+100.000-199.999 Gold:&lt;indent=40em&gt;+12% Chance&lt;/indent&gt;
+200.000+ Gold:&lt;indent=40em&gt;+15% Chance&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>4896</ID>
       <DefaultText>Austreten mit den hinteren Gliedmaßen und Austeilen von hohem &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;space=0.7em&gt;Wuchtschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; an diejenigen, die sich in diesem Gebiet befinden.</DefaultText>
@@ -3795,9 +4003,19 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
       <DefaultText>Der Waldläufer schlägt wie ein Spitzenjäger beim Nahkampf zu – er beobachtet seine Beute und lernt, wie er sie am besten bezwingt. Bei der ersten Verwendung erhält der Waldläufer zusätzliche &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; gegen die Rasse seines Ziels. Dieser Bonus vervielfacht sich mit jedem Treffer mit dieser Fähigkeit gegen Kreaturen derselben Rasse (bis zu einer Grenze). Hat der Waldläufer sich für eine Rasse als Beute entschieden, kann er keine neue Rasse als Beute wählen, bis er eine Pause macht – dann werden alle Stapel zurückgesetzt.</DefaultText>
       <FemaleText />
     </Entry>
+	<Entry>
+      <ID>4921</ID>
+      <DefaultText>(Klaue der Bestie) – Jeder Stapel erhöht auch die Verteidigung (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt;, and &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;) gegen die gewählte Rasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>4925</ID>
+      <DefaultText>Der Waldläufer ruft seinen tierischen Gefährten, was bei ihnen einen Urzorn auslöst und ihnen für längere Zeit mehrere mächtige Inspirationen (Rang 2) gewährt.</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>4927</ID>
-      <DefaultText>Der Waldläufer feuert einen starken, zielsicheren Schuss mit seiner Fernkampfwaffe ab und trifft alle Charaktere in seiner Bahn mit erhöhtem Schaden und stärkerer &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Weakened"&gt;&lt;#f7b733&gt;schwächt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; sie dabei noch.</DefaultText>
+      <DefaultText>Der Waldläufer feuert einen starken, zielsicheren Schuss mit seiner Fernkampfwaffe ab und &lt;xg&gt;trifft&lt;/xg&gt; alle Charaktere in seiner Bahn mit erhöhtem Schaden und stärkerer &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; und &lt;link="glossary://GlossaryEntry_Enfeebled"&gt;&lt;#f7b733&gt;entkräftet&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; sie dabei noch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3835,7 +4053,7 @@ Gewährt &lt;link="gamedata://bfa3f85c-ea51-466c-912b-56d43304bc63"&gt;Schutz fo
 Gewährt einen &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;s-Bonus gegen Geister.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Wenn ein Schutz zerstört wird, fügt dies sofortigen direkten Schaden und einen Abzug der Kraftstufe zu, bis der Kampf endet.
+Wenn ein Schutz zerstört wird, fügt dies sofortigen &lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;#ef5350&gt;direkten Schaden&lt;space=0.3em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=0.5em&gt;&lt;/link&gt; und einen Abzug der Kraftstufe zu, bis der Kampf endet.
 
 Der &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=0.7em&gt;Wille&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; ist verringert.</DefaultText>
       <FemaleText />
@@ -3845,6 +4063,26 @@ Der &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;&lt;s
       <DefaultText>Forme auf dem Schlachtfeld einen Schutz, der einen Blutrausch auslöst und den Verbündeten &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; entsprechend dem Schaden gewährt, den sie anrichten.</DefaultText>
       <FemaleText />
     </Entry>
+	<Entry>
+      <ID>4961</ID>
+      <DefaultText>Forme auf dem Schlachtfeld einen Schutz, der Horrorbilder hervorruft und die Feinde in der Nähe in Angst und &lt;link="glossary://GlossaryEntry_Terrified"&gt;&lt;#30d3d5&gt;Schrecken&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; versetzt, solange das Totem besteht.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>4965</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Gewährt die Fähigkeit, Treffer gegen &lt;link="glossary://GlossaryEntry_Charmed"&gt;&lt;#00a4ff&gt;verzauberte&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; Ziele mit hoher Wahrscheinlichkeit in kritische Treffer zu verwandeln.
+
+Gewährt die Fähigkeit &lt;link="gamedata://b75184f8-63d7-44e3-901d-9c9205ad538c"&gt;Schurkischer Charme&lt;/link&gt;.
+
+Gewährt das Verwandeln von Treffern in &lt;link="glossary://GlossaryEntry_Graze"&gt;leichte Treffer&lt;/link&gt;, wenn frei von Wirkungen.
+
+&lt;b&gt;Abzug&lt;/b&gt;
+Kann nicht angreifen.
+
+Gewährt die Fähigkeit &lt;link="gamedata://26890e79-a660-4593-ae57-08607d5cf296"&gt;Feigheit&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>4967</ID>
       <DefaultText>Wenn keine Verbündeten in der Nähe sind, trägt dir das einen Abzug bei &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; und Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;/color&gt;&lt;space=-0.8em&gt;&lt;/link&gt; und &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;/color&gt;&lt;space=-0.5em&gt;&lt;/link&gt;) ein.</DefaultText>
@@ -3852,7 +4090,7 @@ Der &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;&lt;s
     </Entry>
     <Entry>
       <ID>4969</ID>
-      <DefaultText>Überzeuge einen Gestandenen davon, zu deiner Seite überzuwechseln und seine Verbündeten anzugreifen. Wenn der Schurke über eine höhere Stufe verfügt, gewinnt das Ziel bei einer Verzauberung &lt;link="glossary://GlossaryEntry_Body_Inspiration"&gt;Körperinspirationen&lt;/link&gt;. Je höher die Stufe, desto mächtiger die Inspirationen.</DefaultText>
+      <DefaultText>Überzeuge einen Gestandenen davon, zu deiner Seite überzuwechseln und seine Verbündeten anzugreifen. Wenn der Schurke über eine höhere Stufe verfügt, gewinnt das Ziel bei einer &lt;link="glossary://GlossaryEntry_Charmed"&gt;&lt;#00a4ff&gt;Verzauberung&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; &lt;link="glossary://GlossaryEntry_Body_Inspiration"&gt;Körperinspirationen&lt;/link&gt;. Je höher die Stufe, desto mächtiger die Inspirationen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3899,19 +4137,29 @@ Nach jedem Einsatz verbotener Techniken ist die Seele eines Mönches eine gewiss
       <DefaultText>Lenkt die göttliche Befehlsauthorität, auf dass allen in einem bestimmten Bereich Kampfaktivitäten verboten sind. Dadurch werden die Ziele in &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Staggered"&gt;&lt;#ff4800&gt;Taumeln&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; versetzt und sind außerstande, in irgendeiner Weise zu kämpfen.</DefaultText>
       <FemaleText />
     </Entry>
+	<Entry>
+      <ID>5001</ID>
+      <DefaultText>Lenkt die göttliche Befehlsauthorität, auf dass allen in einem bestimmten Bereich der Verbrauch verboten ist. Dadurch werden die Ziele &lt;link="glossary://GlossaryEntry_Sickened"&gt;&lt;#f7b733&gt;krank&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; und sind außerstande, Tränke oder Schriftrollen einzusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>5002</ID>
       <DefaultText>Lenkt die göttliche Befehlsauthorität, auf dass allen in einem bestimmten Bereich der Krieg verboten ist. Dadurch werden die Ziele &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Shaken"&gt;&lt;#30d3d5&gt;erschüttert&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und sind außerstande, in irgendeiner Weise nicht auf Zaubersprüche bezogene Aktivitäten auszuüben.</DefaultText>
       <FemaleText />
     </Entry>
+	<Entry>
+      <ID>5003</ID>
+      <DefaultText>Lenkt die göttliche Befehlsauthorität, auf dass allen in einem bestimmten Bereich die Zauberei verboten ist. Dadurch werden die Ziele &lt;link="glossary://GlossaryEntry_Confused"&gt;&lt;#00a4ff&gt;verwirrt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; und sind außerstande, in irgendeiner Weise Zaubersprüche zu verhängen.</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>5004</ID>
-      <DefaultText>Lenkt die göttliche Befehlsautorität, auf dass allen in einem bestimmten Bereich die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Heilung&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; verboten ist. Dadurch werden die Ziele entkräftet und sind in der Möglichkeit eingeschränkt, in irgendeiner Weise &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Heilung&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu empfangen.</DefaultText>
+      <DefaultText>Lenkt die göttliche Befehlsautorität, auf dass allen in einem bestimmten Bereich die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Heilung&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; verboten ist. Dadurch werden die Ziele &lt;link="glossary://GlossaryEntry_Enfeebled"&gt;&lt;#f7b733&gt;entkräftet&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; und sind in der Möglichkeit eingeschränkt, in irgendeiner Weise &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Heilung&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu empfangen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5014</ID>
-      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
 Gewährt die Fähigkeit &lt;link="gamedata://9d3e2b8d-1fdd-496f-acc1-51d6d3836e59"&gt;Blutopfer&lt;/link&gt;.
 
 Gewährt passive Wiederherstellung der &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.
@@ -3919,12 +4167,25 @@ Gewährt passive Wiederherstellung der &lt;nobr&gt;&lt;link="glossary://Glossary
 &lt;b&gt;Abzug&lt;/b&gt;
 Ermächtigung kann nicht eingesetzt werden.
 
-Alle Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;/color&gt;&lt;space=-0.8em&gt;&lt;/link&gt; und &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;/color&gt;&lt;space=-0.5em&gt;&lt;/link&gt;) gegen schwer verletzte Angreifer sind verringert.</DefaultText>
+Alle Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Abwehr&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;/color&gt;&lt;space=-0.8em&gt;&lt;/link&gt; und &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;/color&gt;&lt;space=-0.5em&gt;&lt;/link&gt;) gegen &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;schwer verletzte&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; Angreifer sind verringert.
+&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>5016</ID>
+      <DefaultText>Nutze deine eigene Lebenskraft, um deine Magie zu fördern, wenn alles andere versagt. Empfange eine variable Menge an &lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;#ef5350&gt;direktem&lt;space=0.3em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=0.5em&gt;&lt;/link&gt; Schaden, um eine Stufe der Zaubersprüche wiederherzustellen, die dem Verhältnis des empfangenen Schadens entspricht oder darunter liegt.
+
+Nach der Verwendung gewinnen die Zaubersprüche eine kurze Zeit lang einen Bonus für die Kraftstufe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5024</ID>
       <DefaultText>Injiziert einer herbeigerufenen Bestie oder einem Primitiven natürliche Energie. Dadurch gewinnen Bestien oder Primitive die Inspiration &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Robust"&gt;&lt;#f7b733&gt;Robust&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; und gewinnen an Größe.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>5025</ID>
+      <DefaultText>Im Kampf wird Nebula regelmäßig einem Charakter eine Inspiration schenken. Wenn du &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Dem Tode nahe&lt;/color&gt;&lt;space=0.75em&gt;&lt;#83838397&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; bist und angegriffen wirst, besteht bei Nebula auch eine kleine Chance, &lt;link="gamedata://179fdaea-68b2-4323-bde7-4193bc8d9ba7"&gt;Rückzug&lt;/link&gt; oder &lt;link="gamedata://5432fc17-3a73-42cc-9a64-fa09949ec031"&gt;Rückruf der Agonie&lt;/link&gt; auf dich zu wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3979,7 +4240,7 @@ Alle Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CF
     </Entry>
     <Entry>
       <ID>5095</ID>
-      <DefaultText>Solange Blinky der Gruppe folgt, verfügst du über Resistenz gegen Wirkungen auf Wahrnehmung und die Gruppe hat erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; im Nahkampf.</DefaultText>
+      <DefaultText>Solange Blinky der Gruppe folgt, verfügst du über Resistenz gegen &lt;link="glossary://GlossaryEntry_Afflictions_Perception"&gt;&lt;#ca58ff&gt;Wirkungen auf Wahrnehmung&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;/color&gt;&lt;/link&gt; und die Gruppe hat erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; im Nahkampf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4017,6 +4278,11 @@ Alle Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CF
       <DefaultText>Der Benutzer lässt die im Sternenmetall eingeschlossenen Geister frei. Jedes Mal, wenn einer dieser Geister getötet wird, erhält der Träger eine zufällige Inspiration, entweder &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Strong"&gt;&lt;#ff4800&gt;Stark&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Fit"&gt;&lt;#f7b733&gt;Fit&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Quick"&gt;&lt;#72da26&gt;Schnell&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Insightful"&gt;&lt;#ca58ff&gt;Einsichtig&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Smart"&gt;&lt;#00a4ff&gt;Klug&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; oder &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Steadfast"&gt;&lt;#30d3d5&gt;Standhaft&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;.</DefaultText>
       <FemaleText />
     </Entry>
+	<Entry>
+      <ID>5122</ID>
+      <DefaultText>Eine faulige Flüssigkeit schießt aus dem Fläschchen heraus und setzt sich an allem im Bereich fest. Wer davon befleckt ist, wird in regelmäßigen Abständen &lt;link="glossary://GlossaryEntry_Stunned"&gt;&lt;#ff4800&gt;betäubt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>5133</ID>
       <DefaultText>Solange Boras der Gruppe folgt, sind deine Geschichte- und Metaphysik-Fertigkeiten sowie die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; der Gruppe beim Wirken von Zaubern erhöht.</DefaultText>
@@ -4044,7 +4310,7 @@ Alle Verteidigungen (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CF
     </Entry>
     <Entry>
       <ID>5145</ID>
-      <DefaultText>Schlage mit kräftigen, durchdringenden Hieben zu und erhalte zusätzliche &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; auf Kosten der Initiative.</DefaultText>
+      <DefaultText>Schlage mit kräftigen, &lt;link="glossary://GlossaryEntry_Piercing"&gt;&lt;#bc8a66&gt;durchdringenden&lt;/color&gt;&lt;space=0.2em&gt;&lt;#a97e5f&gt;&lt;sprite="Inline" name="cs_pierce" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt; Hieben zu und erhalte zusätzliche &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; auf Kosten der Initiative.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
