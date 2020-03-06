@@ -538,7 +538,7 @@ Verjüngungszauber können nicht gewirkt werden.</DefaultText>
     </Entry>
     <Entry>
       <ID>2828</ID>
-      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
 Der Druide kann pro Kampf zu jedem Geisterwandel-Tier jeweils ein Mal wechseln.
 
 Geisterwandler hat eine verlängerte Wirkungsdauer.
@@ -557,7 +557,7 @@ Lerne die folgenden Druidenzauber auf neuen Kraftstufen:
 9. &lt;link="gamedata://8897b8d3-6cf1-41ed-bb6b-c8099533ecbe"&gt;Pollenfleck&lt;/link&gt;
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Kann in Tiergestalt keine Zauber wirken.</DefaultText>
+Kann in Tiergestalt keine Zauber wirken.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -753,7 +753,7 @@ Der &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;&lt;s
     </Entry>
 	<Entry>
       <ID>5038</ID>
-      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
 Gewährt die Fähigkeit, Treffer gegen &lt;link="glossary://GlossaryEntry_Charmed"&gt;&lt;#00a4ff&gt;verzauberte&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; Ziele mit hoher Wahrscheinlichkeit in kritische Treffer zu verwandeln.
 
 Gewährt die Fähigkeit &lt;link="gamedata://b75184f8-63d7-44e3-901d-9c9205ad538c"&gt;Schurkischer Charme&lt;/link&gt;.
@@ -771,12 +771,12 @@ Gewährt die Fähigkeit &lt;link="gamedata://26890e79-a660-4593-ae57-08607d5cf29
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
 Heilung im Umfang eines Bruchteils des den betroffenen Zielen zugefügten Schadens.
 
-Gewährt die Fähigkeit &lt;link="gamedata://ec3c9d53-7a1b-404d-a037-ff133f1e17a0"&gt;Garrotte&lt;/link&gt;.</DefaultText>
+Gewährt die Fähigkeit &lt;link="gamedata://ec3c9d53-7a1b-404d-a037-ff133f1e17a0"&gt;Garrotte&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5041</ID>
-      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
 Die Effekte der erfüllten Fähigkeiten gewinnen durch die Arkana-Fertigkeit erhöhte &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt;.
 
 Gewährt &lt;link="gamedata://710a9a69-d47b-45e7-9134-432d13e2bcc0"&gt;Erfüllen: Geschosse&lt;/link&gt; auf Kraftstufe 1.
@@ -792,18 +792,18 @@ Gewährt &lt;link="gamedata://e8b4e221-e29b-4758-91c7-6d8f121d7c8b"&gt;Erfüllen
 &lt;b&gt;Abzug&lt;/b&gt;
 Fügt bei Angriffen, die nicht den nachfolgenden Arten angehören, einen Abzug auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; zu: Erfüllen, Elemente, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;space=-0.7em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;#e86a1d&gt;&lt;space=1em&gt;Feuer&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;space=0.7em&gt;Frost&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, Säure, Elektrizität und Zauberspruch.
 
-Die maximale &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; wird verringert.</DefaultText>
+Die maximale &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; wird verringert.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5044</ID>
-      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
 Gewährt Wunden und &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;, wenn feindlichen Wirkungen auslaufen.
 
 Gewährt die Fähigkeit &lt;link="gamedata://0f99851c-d970-4661-9d8b-a394e3951c3d"&gt;Verbotene Faust&lt;/link&gt;.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Verhindert, dass durch erlittenen Schaden Wunden entstehen.</DefaultText>
+Verhindert, dass durch erlittenen Schaden Wunden entstehen.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
