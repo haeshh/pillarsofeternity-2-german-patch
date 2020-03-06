@@ -341,7 +341,7 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>{0:value} Alle Verteidigungen außer &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; (Der Bonus erhöht sich mit der Fertigkeit Geschichte)</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;{0:value} Alle Verteidigungen (&lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Tapferkeit&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Reflexe&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt; und &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Wille&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;) außer &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; (Der Bonus erhöht sich mit der Fertigkeit Geschichte)&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
