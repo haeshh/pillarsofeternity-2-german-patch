@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>907</EntryCount>
+  <EntryCount>909</EntryCount>
   <Entries>
     <Entry>
       <ID>43</ID>
@@ -4860,6 +4860,20 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     <Entry>
       <ID>1117</ID>
       <DefaultText>Schiffsverteidiger helfen beim Kampf gegen Feinde im Kampf an Deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>288372001</ID>
+      <DefaultText>&lt;line-height=100%&gt;Das Rad&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288372002</ID>
+      <DefaultText>&lt;line-height=100%&gt;Angeblich engwithanischer Herkunft, ermöglicht Das Rad – auch bekannt als „&lt;link="glossary://GlossaryEntry_Beraths_Wheel"&gt;Beraths Rad&lt;/link&gt;“ oder das „Rad von Leben und &lt;xg&gt;Tod&lt;/xg&gt;“ – den Prozess der Reinkarnation. Nach dem &lt;xg&gt;Tod&lt;/xg&gt; eines Lebewesens tritt seine Seele in das Zwischenreich ein. Wenn das Zwischenreich voll ist, ziehen die Seelen ins Jenseits, wo sie darauf warten, in neue Körper, in neue Leben umverteilt zu werden.
+
+Ohne das Rad und damit ohne die Möglichkeit, ins Jenseits zu gelangen, wird spekuliert, dass die Seelen aller Sterbenden im Zwischenreich bleiben würden. Das Jenseits würde sich leeren und schließlich das Leben, wie wir es in Eora kennen, würde enden.
+
+Es ist jedoch nicht bekannt, wann das Rad konstruiert wurde oder was ihm, wenn überhaupt, vorausgegangen ist.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
