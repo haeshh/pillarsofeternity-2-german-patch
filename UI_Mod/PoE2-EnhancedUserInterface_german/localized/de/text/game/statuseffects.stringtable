@@ -391,7 +391,7 @@
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Versetzt dem Ziel bei einem kritischen Treffer {0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Shock"&gt;&lt;space=-0.5em&gt;&lt;#fff151&gt;&lt;voffset=-0.1em&gt;&lt;sprite="Inline" name="cs_shock" tint=1&gt;&lt;/voffset&gt;&lt;space=-0.3em&gt;Schockschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;</DefaultText>
+      <DefaultText>Versetzt dem Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; {0:value} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Shock"&gt;&lt;space=-0.5em&gt;&lt;#fff151&gt;&lt;voffset=-0.1em&gt;&lt;sprite="Inline" name="cs_shock" tint=1&gt;&lt;/voffset&gt;&lt;space=-0.3em&gt;Schockschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1381,7 +1381,7 @@
     </Entry>
     <Entry>
       <ID>598</ID>
-      <DefaultText>{0:value:percent} Chance nach erzieltem kritischem Treffer mit Nahkampfwaffe, die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; der gegnerischen Waffe {0:triggervalue:duration} lang um {0:extravalue} zu verringern</DefaultText>
+      <DefaultText>{0:value:percent} Chance nach erzieltem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; mit Nahkampfwaffe, die &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Penetration"&gt;&lt;sprite="Inline" name="cs_penetration" tint=1&gt;&lt;space=0.7em&gt;Durchschlagskraft&lt;/link&gt;&lt;/nobr&gt; der gegnerischen Waffe {0:triggervalue:duration} lang um {0:extravalue} zu verringern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

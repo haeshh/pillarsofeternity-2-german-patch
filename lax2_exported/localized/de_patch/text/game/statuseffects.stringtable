@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>Erhalte alle {0:interval} {0:value:percent} Treffer zu kritischem Treffer (Wirkung wird bei einem erzielten kritischen Treffer zurückgesetzt)</DefaultText>
+      <DefaultText>Erhalte alle {0:interval} {0:value:percent} Treffer zu &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt; (Wirkung wird bei einem erzielten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; zurückgesetzt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>598</ID>
-      <DefaultText>{0:value:percent} Chance nach erzieltem kritischem Treffer mit Nahkampfwaffe, die Durchschlagskraft der gegnerischen Waffe {0:triggervalue:duration} lang um {0:extravalue} zu verringern</DefaultText>
+      <DefaultText>{0:value:percent} Chance nach erzieltem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;r mit Nahkampfwaffe, die Durchschlagskraft der gegnerischen Waffe {0:triggervalue:duration} lang um {0:extravalue} zu verringern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

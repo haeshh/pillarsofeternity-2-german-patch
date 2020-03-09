@@ -336,7 +336,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer für {0:extravalue:duration} unsichtbar zu werden</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; für {0:extravalue:duration} unsichtbar zu werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -761,7 +761,7 @@
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Versetzt dem Ziel bei einem kritischen Treffer {0:value} Schockschaden</DefaultText>
+      <DefaultText>Versetzt dem Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; {0:value} Schockschaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1296,7 +1296,7 @@
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>{0:value:percent} Chance, beim Erzielen eines kritischen Treffers beim Ziel eine zufällige Wirkung auszulösen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, beim Erzielen eines &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffers&lt;/link&gt; beim Ziel eine zufällige Wirkung auszulösen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
