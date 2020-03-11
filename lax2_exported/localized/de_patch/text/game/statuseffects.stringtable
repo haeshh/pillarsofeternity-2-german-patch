@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText>Nach Erleiden eines Treffers oder kritischen Treffers, fügt der nächste erfolgreiche Angriff des Trägers mit Waffen {0:value:bonuspercentbonus} Frostschaden zu</DefaultText>
+      <DefaultText>Nach Erleiden eines &lt;link="glossary://GlossaryEntry_Hits"&gt;Treffers&lt;/link&gt; oder &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffers&lt;/link&gt;, fügt der nächste erfolgreiche Angriff des Trägers mit Waffen {0:value:bonuspercentbonus} Frostschaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

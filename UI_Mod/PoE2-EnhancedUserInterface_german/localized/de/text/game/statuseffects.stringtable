@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer mit einer Nahkampfwaffe einen Angriff mit &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Shock"&gt;&lt;space=-0.5em&gt;&lt;#fff151&gt;&lt;voffset=-0.1em&gt;&lt;sprite="Inline" name="cs_shock" tint=1&gt;&lt;/voffset&gt;&lt;space=-0.3em&gt;Schockschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; gegen das Ziel zu starten</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; mit einer Nahkampfwaffe einen Angriff mit &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Shock"&gt;&lt;space=-0.5em&gt;&lt;#fff151&gt;&lt;voffset=-0.1em&gt;&lt;sprite="Inline" name="cs_shock" tint=1&gt;&lt;/voffset&gt;&lt;space=-0.3em&gt;Schockschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; gegen das Ziel zu starten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1106,7 +1106,7 @@
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText>Nach Erleiden eines Treffers oder kritischen Treffers, fügt der nächste erfolgreiche Angriff des Trägers mit Waffen {0:value:bonuspercentbonus} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;space=0.7em&gt;Frostschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu</DefaultText>
+      <DefaultText>Nach Erleiden eines &lt;link="glossary://GlossaryEntry_Hits"&gt;Treffers&lt;/link&gt; oder &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffers&lt;/link&gt;, fügt der nächste erfolgreiche Angriff des Trägers mit Waffen {0:value:bonuspercentbonus} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;space=0.7em&gt;Frostschaden&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
