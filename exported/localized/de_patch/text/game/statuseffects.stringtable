@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>{0:value:percent} Chance, bei kritischem Treffer einen kegelförmigen Angriff mit Frostschaden zu starten</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt; einen kegelförmigen Angriff mit Frostschaden zu starten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>{0:value:percent} Chance, dass das Ziel bei einem kritischen Treffer für {0:extravalue:duration} durch Eis gelähmt wird</DefaultText>
+      <DefaultText>{0:value:percent} Chance, dass das Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; für {0:extravalue:duration} durch Eis gelähmt wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Der Angriff Erschüttert Gestandene oder Wilde bei einem erzielten kritischen Treffer</DefaultText>
+      <DefaultText>Der Angriff Erschüttert Gestandene oder Wilde bei einem erzielten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Ein kritischer Treffer verschafft {0:triggervalue} Genauigkeit und {0:extravalue:percent} Aktionsgeschwindigkeit ({0:value:straight}-mal stapelbar)</DefaultText>
+      <DefaultText>Ein &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischer Treffer&lt;/link&gt; verschafft {0:triggervalue} Genauigkeit und {0:extravalue:percent} Aktionsgeschwindigkeit ({0:value:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Kritischer Treffer Verängstigt Gestandene</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;Kritischer Treffer&lt;/link&gt; Verängstigt Gestandene</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Bei kritischem Treffer {0:extravalue:duration} lang {0:value:straight} direkter Schaden alle {0:triggervalue:duration}</DefaultText>
+      <DefaultText>Bei &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt;r {0:extravalue:duration} lang {0:value:straight} direkter Schaden alle {0:triggervalue:duration}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Chance von {0:value:percent}, bei kritischem Treffer ein Ziel niederzustrecken und seine Verteidigung um {0:triggercount} für {0:extravalue:duration} zu schwächen</DefaultText>
+      <DefaultText>Chance von {0:value:percent}, bei &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt; ein Ziel niederzustrecken und seine Verteidigung um {0:triggercount} für {0:extravalue:duration} zu schwächen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +266,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Chance, das Ziel bei einem kritischen Treffer Benommen zu machen und niederzustrecken.</DefaultText>
+      <DefaultText>Chance, das Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; Benommen zu machen und niederzustrecken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>{0:value} Abwehr vom Ziel bei einem kritischen Treffer für {0:triggervalue:duration} ({0:extravalue:straight}-mal stapelbar)</DefaultText>
+      <DefaultText>{0:value} Abwehr vom Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; für {0:triggervalue:duration} ({0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,7 +376,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem kritischen Treffer mit einer nekrotischen Lanze zu verwunden</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; mit einer nekrotischen Lanze zu verwunden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +386,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Chance, bei einem kritischen Treffer beim Ziel Humpelnd, Niedergestreckt, direkten Schaden über Zeit für {0:extravalue:duration} zu verursachen – oder eine Verringerung der Aktionsgeschwindigkeit um 25 %</DefaultText>
+      <DefaultText>Chance, bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; beim Ziel Humpelnd, Niedergestreckt, direkten Schaden über Zeit für {0:extravalue:duration} zu verursachen – oder eine Verringerung der Aktionsgeschwindigkeit um 25 %</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -476,17 +476,17 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>{0:value:percent} Chance auf einen kritischen Treffer und {0:extravalue:percent} kritischer Schaden mit Dolchen, Degen, Säbeln, Stiletten und Schwertern</DefaultText>
+      <DefaultText>{0:value:percent} Chance auf einen &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; und {0:extravalue:percent} kritischer Schaden mit Dolchen, Degen, Säbeln, Stiletten und Schwertern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>{0:value:percentbonus} Schaden durch kritischen Treffer und </DefaultText>
+      <DefaultText>{0:value:percentbonus} Schaden durch &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; und </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer im Nahkampf einen Angriff zu führen, der das Ziel zu Boden wirft</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; im Nahkampf einen Angriff zu führen, der das Ziel zu Boden wirft</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -546,12 +546,12 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem im Nahkampf erlittenem kritischen Treffer, einen unterbrechenden Flächenzauber mit Wuchtschaden zu wirken</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem im Nahkampf erlittenem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;, einen unterbrechenden Flächenzauber mit Wuchtschaden zu wirken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Bei kritischem Treffer im Nahkampf Vergeltungsangriff, der direkten Schaden verursacht</DefaultText>
+      <DefaultText>Bei &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt; im Nahkampf Vergeltungsangriff, der direkten Schaden verursacht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -591,7 +591,7 @@
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>Genauigkeits- und Aktionsgeschwindigkeits-Bonus beim Erhalt eines kritischen Treffers.</DefaultText>
+      <DefaultText>Genauigkeits- und Aktionsgeschwindigkeits-Bonus beim Erhalt eines &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffers&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -621,7 +621,7 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>{0:value:percent} Chance, die nächste Erholung des Trägers zu negieren, wenn dieser einen kritischen Treffer im Nahkampf erleidet</DefaultText>
+      <DefaultText>{0:value:percent} Chance, die nächste Erholung des Trägers zu negieren, wenn dieser einen &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; im Nahkampf erleidet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -666,7 +666,7 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>{0:value:percent} Chance, das Ziel bei einem kritischen Treffer mit einer &lt;link="gamedata://0fb344d6-f83f-41e7-9f86-1ab91974ef99"&gt;nekrotischen Lanze&lt;/link&gt; zu verwunden</DefaultText>
+      <DefaultText>{0:value:percent} Chance, das Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; mit einer &lt;link="gamedata://0fb344d6-f83f-41e7-9f86-1ab91974ef99"&gt;nekrotischen Lanze&lt;/link&gt; zu verwunden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -711,12 +711,12 @@
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>Ziel bei kritischem Treffer zurückgeschlagen</DefaultText>
+      <DefaultText>Ziel bei &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt; zurückgeschlagen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Chance, das Ziel bei einem kritischen Treffer niederzustrecken</DefaultText>
+      <DefaultText>Chance, das Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; niederzustrecken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -726,7 +726,7 @@
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>Chance, das Ziel bei einem kritischen Treffer zum Stoppen und Erbrechen zu bringen</DefaultText>
+      <DefaultText>Chance, das Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; zum Stoppen und Erbrechen zu bringen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -736,12 +736,12 @@
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>Chance, das Ziel bei einem kritischen Treffer zu erschüttern</DefaultText>
+      <DefaultText>Chance, das Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; zu erschüttern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Chance, bei einem kritischen Treffer das Ziel und alle Feinde in der Nähe zu erschüttern</DefaultText>
+      <DefaultText>Chance, bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; das Ziel und alle Feinde in der Nähe zu erschüttern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,17 +766,17 @@
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>{0:value:percentbonus} Chance für einen kritischen Treffer bei einem Treffer (Kann {0:extravalue}-mal gestapelt werden und wird bei kritischem Treffer zurückgesetzt)</DefaultText>
+      <DefaultText>{0:value:percentbonus} Chance für einen &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; bei einem Treffer (Kann {0:extravalue}-mal gestapelt werden und wird bei &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt; zurückgesetzt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Zufällige Wirkung für {0:value:duration} beim Ziel bei einem kritischen Treffer</DefaultText>
+      <DefaultText>Zufällige Wirkung für {0:value:duration} beim Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer das Ziel und alle Feinde in der Nähe Benommen zu machen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; das Ziel und alle Feinde in der Nähe Benommen zu machen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,7 +816,7 @@
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>Angriff auf Gestandene oder Wilde, mit Verängstigt Wirkung, bei kritischem Treffer</DefaultText>
+      <DefaultText>Angriff auf Gestandene oder Wilde, mit Verängstigt Wirkung, bei &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -831,17 +831,17 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>{0:value:percent} Chance bei einem kritischen Treffer im Nahkampf die Erholungsphase frühzeitig zu beenden</DefaultText>
+      <DefaultText>{0:value:percent} Chance bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; im Nahkampf die Erholungsphase frühzeitig zu beenden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Bei kritischem Treffer wird der Angriff Niederstrecken auf Ziel ausgeführt</DefaultText>
+      <DefaultText>Bei &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt; wird der Angriff Niederstrecken auf Ziel ausgeführt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer das Ziel für {0:extravalue:duration} mit einer zufälligen körperlichen Wirkung zu belegen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; das Ziel für {0:extravalue:duration} mit einer zufälligen körperlichen Wirkung zu belegen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -886,7 +886,7 @@
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>Kritische Treffer mit der eifrigen Klinge haben eine Change, den Träger oder das Ziel (oder beide) zu heilen</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;Kritische Treffer&lt;/link&gt; mit der eifrigen Klinge haben eine Change, den Träger oder das Ziel (oder beide) zu heilen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -906,32 +906,32 @@
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Bei Tötung: +2 Macht Verwandelt 25 % Treffer in kritische Treffer gegen Ziele mit weniger als 25 % Gesundheit. +15 % Aktionsgeschwindigkeit für 45,0 Sekunden. Effekt ist stapelbar. Unterdrückt den Seelenhunger</DefaultText>
+      <DefaultText>Bei Tötung: +2 Macht Verwandelt 25 % Treffer in &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritische Treffer&lt;/link&gt; gegen Ziele mit weniger als 25 % Gesundheit. +15 % Aktionsgeschwindigkeit für 45,0 Sekunden. Effekt ist stapelbar. Unterdrückt den Seelenhunger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>Bei Tötung: +6 Macht Verwandelt 35 % Treffer in kritische Treffer gegen Ziele mit weniger als 50 % Gesundheit. +30 % Aktionsgeschwindigkeit für 45,0 Sekunden. Effekt ist stapelbar. Unterdrückt den Seelenhunger</DefaultText>
+      <DefaultText>Bei Tötung: +6 Macht Verwandelt 35 % Treffer in &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritische Treffer&lt;/link&gt; gegen Ziele mit weniger als 50 % Gesundheit. +30 % Aktionsgeschwindigkeit für 45,0 Sekunden. Effekt ist stapelbar. Unterdrückt den Seelenhunger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>Bei Tötung: +3 Macht. Verwandelt 25 % Treffer in kritische Treffer gegen Ziele mit weniger als 50 % Gesundheit. +20 % Aktionsgeschwindigkeit für 45,0 Sekunden. Effekt ist stapelbar. Unterdrückt den Seelenhunger</DefaultText>
+      <DefaultText>Bei Tötung: +3 Macht. Verwandelt 25 % Treffer in &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritische Treffer&lt;/link&gt; gegen Ziele mit weniger als 50 % Gesundheit. +20 % Aktionsgeschwindigkeit für 45,0 Sekunden. Effekt ist stapelbar. Unterdrückt den Seelenhunger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>Seelenhunger: +2 Verfassung 30 % kritischer Treffer verwandelt in Treffer. -10 Genauigkeit</DefaultText>
+      <DefaultText>Seelenhunger: +2 Verfassung 30 % &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischer Treffer&lt;/link&gt; verwandelt in Treffer. -10 Genauigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>Unersättlicher Seelenhunger: -4 Verfassung 50 % kritischer Treffer verwandelt in Treffer. -15 Genauigkeit</DefaultText>
+      <DefaultText>Unersättlicher Seelenhunger: -4 Verfassung 50 % &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischer Treffer&lt;/link&gt; verwandelt in Treffer. -15 Genauigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>Unterdrückter Seelenhunger: -1 Verfassung 20 % kritischer Treffer verwandelt in Treffer. -5 Genauigkeit</DefaultText>
+      <DefaultText>Unterdrückter Seelenhunger: -1 Verfassung 20 % &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischer Treffer&lt;/link&gt; verwandelt in Treffer. -5 Genauigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -941,12 +941,12 @@
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>Bei einem erzielten Kritischen Treffer wird ein Flächenzauber mit Frost- und Hiebschaden am Zielort ausgelöst</DefaultText>
+      <DefaultText>Bei einem erzielten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; wird ein Flächenzauber mit Frost- und Hiebschaden am Zielort ausgelöst</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>Das Ziel wird bei einem kritischen Treffer für {0:extravalue:duration} Gelähmt, wenn der Vereiste Klinge {0:value:straight} Stapel besitzt</DefaultText>
+      <DefaultText>Das Ziel wird bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; für {0:extravalue:duration} Gelähmt, wenn der Vereiste Klinge {0:value:straight} Stapel besitzt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -981,7 +981,7 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>Lässt das Ziel bei einem Kritischen Treffer Erkrankt zurück, sobald Unreine Klinge {0:triggercount} Stapel hat</DefaultText>
+      <DefaultText>Lässt das Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; Erkrankt zurück, sobald Unreine Klinge {0:triggercount} Stapel hat</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1031,7 +1031,7 @@
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>{0:triggercount} Brandschaden alle {0:extravalue:duration} für eine Dauer von {0:value:duration} für das Ziel bei einem kritischen Treffer</DefaultText>
+      <DefaultText>{0:triggercount} Brandschaden alle {0:extravalue:duration} für eine Dauer von {0:value:duration} für das Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1051,7 +1051,7 @@
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>Desorientierender Angriff in Kegelformation gegen das Ziel bei einem kritischen Treffer</DefaultText>
+      <DefaultText>Desorientierender Angriff in Kegelformation gegen das Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1091,7 +1091,7 @@
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>Fügt dem Ziel bei einem kritischen Treffer für {0:extravalue:duration} alle {0:value:duration} {0:triggercount} direkten Blutungsschaden zu</DefaultText>
+      <DefaultText>Fügt dem Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; für {0:extravalue:duration} alle {0:value:duration} {0:triggercount} direkten Blutungsschaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1216,7 +1216,7 @@
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>{0:value:percent} Chance auf sofortige Erholung beim Erzielen eines kritischen Treffers</DefaultText>
+      <DefaultText>{0:value:percent} Chance auf sofortige Erholung beim Erzielen eines &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffers&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1241,7 +1241,7 @@
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>{0:value:percent} Chance bei einem kritischen Treffer die Erholungsphase frühzeitig zu beenden</DefaultText>
+      <DefaultText>{0:value:percent} Chance bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; die Erholungsphase frühzeitig zu beenden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1256,7 +1256,7 @@
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>Das Ziel wird, wenn es Abgelenkt ist, bei einem kritischen Treffer niedergestreckt</DefaultText>
+      <DefaultText>Das Ziel wird, wenn es Abgelenkt ist, bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; niedergestreckt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1326,12 +1326,12 @@
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>Wenn das Ziel mit einer Entschlossenheitswirkung belegt ist, füge bei einem erzielten kritischen Treffer alle {0:extravalue:duration} für die Dauer von {0:value:duration} {0:triggercount} direkten Schaden zu</DefaultText>
+      <DefaultText>Wenn das Ziel mit einer Entschlossenheitswirkung belegt ist, füge bei einem erzielten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; alle {0:extravalue:duration} für die Dauer von {0:value:duration} {0:triggercount} direkten Schaden zu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Direkter Blutungsschaden über Zeit für {0:extravalue:duration} beim Ziel, wenn ein kritischer Treffer erzielt wurde</DefaultText>
+      <DefaultText>Direkter Blutungsschaden über Zeit für {0:extravalue:duration} beim Ziel, wenn ein &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischer Treffer&lt;/link&gt; erzielt wurde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1341,7 +1341,7 @@
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>Lähmt das Ziel für {0:value:duration} bei einem kritischen Treffer</DefaultText>
+      <DefaultText>Lähmt das Ziel für {0:value:duration} bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1351,7 +1351,7 @@
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>{0:value:percent} Chance, beim Erzielen eines kritischen Treffers sich sofort zu Erholen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, beim Erzielen eines &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffers&lt;/link&gt; sich sofort zu Erholen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1371,7 +1371,7 @@
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>{0:value:percent} Chance, Primitive einer geringeren Stufe bei einem kritischen Treffer sofort zu vernichten</DefaultText>
+      <DefaultText>{0:value:percent} Chance, Primitive einer geringeren Stufe bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; sofort zu vernichten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1381,7 +1381,7 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Chance, dass das Ziel bei einem kritischen Treffer für {0:extravalue:duration} erkrankt (Tapferkeit wirkt dem entgegen)</DefaultText>
+      <DefaultText>Chance, dass das Ziel bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; für {0:extravalue:duration} erkrankt (Tapferkeit wirkt dem entgegen)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1481,7 +1481,7 @@
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>{0:value:percent} Chance, bei erlittenem kritischen Treffer im Nahkampf Gegner mit zufälliger Wirkung für {0:extravalue:duration} anzugreifen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei erlittenem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; im Nahkampf Gegner mit zufälliger Wirkung für {0:extravalue:duration} anzugreifen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1526,7 +1526,7 @@
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>Verwandelt {0:value:percent} Treffer mit Fernkampfwaffen für {0:extravalue:duration} in kritische Treffer, wenn ein Angriff mit Fernkampfwaffen danebenging</DefaultText>
+      <DefaultText>Verwandelt {0:value:percent} Treffer mit Fernkampfwaffen für {0:extravalue:duration} in &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritische Treffer&lt;/link&gt;, wenn ein Angriff mit Fernkampfwaffen danebenging</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1541,7 +1541,7 @@
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText>{0:value} Gesundheit alle {0:triggervalue:duration} für die Dauer von {0:extravalue:duration} bei einem erlittenen kritischen Treffer. Die Heilung erhöht sich, wenn der Träger an Gesundheit verliert</DefaultText>
+      <DefaultText>{0:value} Gesundheit alle {0:triggervalue:duration} für die Dauer von {0:extravalue:duration} bei einem erlittenen &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;. Die Heilung erhöht sich, wenn der Träger an Gesundheit verliert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1656,7 +1656,7 @@
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>+10 % Schaden bei einem kritischen Treffer als Zersetzungsschaden bis zum Ende des Kampfes hinzugefügt. Kann 10-mal gestapelt werden</DefaultText>
+      <DefaultText>+10 % Schaden bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; als Zersetzungsschaden bis zum Ende des Kampfes hinzugefügt. Kann 10-mal gestapelt werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1666,7 +1666,7 @@
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>Kritische Treffer verursachen Schäden bei allen Feinden, die sich in der Nähe befinden</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;Kritische Treffer&lt;/link&gt; verursachen Schäden bei allen Feinden, die sich in der Nähe befinden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1691,12 +1691,12 @@
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>Weitere {0:value} Willen bis zum Ende des Kampfes beim Erleiden von kritischen Treffern (Kann {0:extravalue:straight}-mal gestapelt werden)</DefaultText>
+      <DefaultText>Weitere {0:value} Willen bis zum Ende des Kampfes beim Erleiden von &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffern&lt;/link&gt; (Kann {0:extravalue:straight}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>{0:value} Verfassung bei erzieltem kritischen Treffer (Der Effekt ist {0:extravalue:straight}-mal stapelbar)</DefaultText>
+      <DefaultText>{0:value} Verfassung bei erzieltem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; (Der Effekt ist {0:extravalue:straight}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1811,7 +1811,7 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>{0:value:percent} Chance auf zufällige Geisteswirkung beim Ziel für {0:extravalue:duration} beim Erzielen eines kritischen Treffers</DefaultText>
+      <DefaultText>{0:value:percent} Chance auf zufällige Geisteswirkung beim Ziel für {0:extravalue:duration} beim Erzielen eines &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffers&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1876,12 +1876,12 @@
     </Entry>
     <Entry>
       <ID>398</ID>
-      <DefaultText>Kritische Treffer deaktivieren bei Gegnern mit niedrigerer Stufe aktive Fähigkeiten für 5 Sekunden</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;Kritische Treffer&lt;/link&gt; deaktivieren bei Gegnern mit niedrigerer Stufe aktive Fähigkeiten für 5 Sekunden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>Kritische Treffer können die Wirkungen Humpelnd oder Erkrankt für {0:extravalue:duration} verursachen.</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;Kritische Treffer&lt;/link&gt; können die Wirkungen Humpelnd oder Erkrankt für {0:extravalue:duration} verursachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1911,12 +1911,12 @@
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>Einen Gegner mit einem kritischen Treffer zu töten wirkt einen Flächenzauber mit Brandschaden</DefaultText>
+      <DefaultText>Einen Gegner mit einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; zu töten wirkt einen Flächenzauber mit Brandschaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer oder kritischem Treffer einen kleinen Flächenzauber mit Brandschaden zu wirken</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer oder &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt; einen kleinen Flächenzauber mit Brandschaden zu wirken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2036,7 +2036,7 @@
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>{0:value:percent} Chance, bei kritischen Treffern mit Nahkampfwaffen sofort noch einmal anzugreifen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffern&lt;/link&gt; mit Nahkampfwaffen sofort noch einmal anzugreifen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2101,12 +2101,12 @@
     </Entry>
     <Entry>
       <ID>445</ID>
-      <DefaultText>Gestandene niedrigerer Stufe werden bei kritischen Treffern mit der Waffe getötet</DefaultText>
+      <DefaultText>Gestandene niedrigerer Stufe werden bei &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffern&lt;/link&gt; mit der Waffe getötet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>Erlittene kritische Treffer durch Nahkampfangriffe haben eine {0:value:percent} Chance, dass sie beim Angreifer den Effekt Verwirrt auslösen (Verbessert sich bei kritischem Erfolg zu Bezaubert)</DefaultText>
+      <DefaultText>Erlittene &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritische Treffer&lt;/link&gt; durch Nahkampfangriffe haben eine {0:value:percent} Chance, dass sie beim Angreifer den Effekt Verwirrt auslösen (Verbessert sich bei kritischem Erfolg zu Bezaubert)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2146,7 +2146,7 @@
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>Fügt Feinden bei einem erzielten Treffer einen stapelbaren Effekt zu. Bei einem kritischen Treffer verlieren alle Gegner im Wirkungsbereich sämtliche Stapel und erleiden pro Stapel {0:extravalue} Schockschaden.</DefaultText>
+      <DefaultText>Fügt Feinden bei einem erzielten Treffer einen stapelbaren Effekt zu. Bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; verlieren alle Gegner im Wirkungsbereich sämtliche Stapel und erleiden pro Stapel {0:extravalue} Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2226,12 +2226,12 @@
     </Entry>
     <Entry>
       <ID>475</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer 20 Gesundheit bei einem Gegner wiederherzustellen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; 20 Gesundheit bei einem Gegner wiederherzustellen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>476</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer 30 Gesundheit bei sich selbst wiederherzustellen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; 30 Gesundheit bei sich selbst wiederherzustellen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2351,12 +2351,12 @@
     </Entry>
     <Entry>
       <ID>502</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer auf ein weibliches Ziel &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Raserei&lt;/link&gt; auf sich selbst zu wirken</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; auf ein weibliches Ziel &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Raserei&lt;/link&gt; auf sich selbst zu wirken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>503</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer auf ein männliches Ziel &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Raserei&lt;/link&gt;auf sich selbst zu wirken</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; auf ein männliches Ziel &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;Raserei&lt;/link&gt;auf sich selbst zu wirken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2451,7 +2451,7 @@
     </Entry>
     <Entry>
       <ID>533</ID>
-      <DefaultText>{0:value:percent} Chance, bei erlittenem kritischen Treffer für {0:extravalue:duration} Konzentration zu erhalten</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei erlittenem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; für {0:extravalue:duration} Konzentration zu erhalten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2516,7 +2516,7 @@
     </Entry>
     <Entry>
       <ID>550</ID>
-      <DefaultText>Kritische Treffer mit Nahkampfwaffe haben eine {0:value:percent} Chance, einen weiteren Schlag auszulösen</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;Kritische Treffer&lt;/link&gt; mit Nahkampfwaffe haben eine {0:value:percent} Chance, einen weiteren Schlag auszulösen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2576,7 +2576,7 @@
     </Entry>
     <Entry>
       <ID>577</ID>
-      <DefaultText>{0:value:percent} Chance, bei erlittenem kritischen Treffer {0:extravalue} Disziplin zu erhalten</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei erlittenem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; {0:extravalue} Disziplin zu erhalten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2596,7 +2596,7 @@
     </Entry>
     <Entry>
       <ID>581</ID>
-      <DefaultText>{0:value:percent} Chance, bei kritischem Treffer mit Nahkampfwaffe {0:extravalue} Phrasen zu erhalten</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt; mit Nahkampfwaffe {0:extravalue} Phrasen zu erhalten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2636,17 +2636,17 @@
     </Entry>
     <Entry>
       <ID>614</ID>
-      <DefaultText>Kritische Treffer mit dieser Waffe transferieren experimentelle Seelenenergie in das Ziel und verwandeln es in eine fühlende Kreatur, wenn das Ziel stirbt</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;Kritische Treffer&lt;/link&gt; mit dieser Waffe transferieren experimentelle Seelenenergie in das Ziel und verwandeln es in eine fühlende Kreatur, wenn das Ziel stirbt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>615</ID>
-      <DefaultText>Kritische Treffer mit dieser Waffe transferieren experimentelle Seelenenergie in das Ziel und verwandeln es in eine fühlende Kreatur, wenn das Ziel stirbt (Kreaturen sind nun immer Verbündete)</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;Kritische Treffer&lt;/link&gt; mit dieser Waffe transferieren experimentelle Seelenenergie in das Ziel und verwandeln es in eine fühlende Kreatur, wenn das Ziel stirbt (Kreaturen sind nun immer Verbündete)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>616</ID>
-      <DefaultText>Kritische Treffer mit dieser Waffe transferieren experimentelle Seelenenergie in das Ziel und verwandeln es in eine fühlende Kreatur, wenn das Ziel stirbt (Kreaturen leben nun doppelt so lange)</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;Kritische Treffer&lt;/link&gt; mit dieser Waffe transferieren experimentelle Seelenenergie in das Ziel und verwandeln es in eine fühlende Kreatur, wenn das Ziel stirbt (Kreaturen leben nun doppelt so lange)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2671,37 +2671,37 @@
     </Entry>
     <Entry>
       <ID>634</ID>
-      <DefaultText>Wenn der Träger über {0:value:straight} oder mehr Macht verfügt, verursachen kritische Treffer mit dieser Waffe {0:extravalue:percent} grundlegenden Waffenschaden in einem Gebiet rings um den Träger</DefaultText>
+      <DefaultText>Wenn der Träger über {0:value:straight} oder mehr Macht verfügt, verursachen &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritische Treffer&lt;/link&gt; mit dieser Waffe {0:extravalue:percent} grundlegenden Waffenschaden in einem Gebiet rings um den Träger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>635</ID>
-      <DefaultText>Wenn der Träger über {0:value:straight} oder mehr Macht verfügt, verursachen Kritische Treffer mit dieser Waffe {0:extravalue:percent} grundlegenden Waffenschaden in einem Gebiet rings um den Träger (Feinde unter {0:triggervalue:straight} Gesundheit werden sofort getötet)</DefaultText>
+      <DefaultText>Wenn der Träger über {0:value:straight} oder mehr Macht verfügt, verursachen &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritische Treffer&lt;/link&gt; mit dieser Waffe {0:extravalue:percent} grundlegenden Waffenschaden in einem Gebiet rings um den Träger (Feinde unter {0:triggervalue:straight} Gesundheit werden sofort getötet)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>636</ID>
-      <DefaultText>Tödliche Treffer mit dieser Waffe gewähren {0:value:percent} Kritischen Treffer-Schaden (Kann bis zu {0:extravalue:straight}-mal gestapelt werden)</DefaultText>
+      <DefaultText>Tödliche Treffer mit dieser Waffe gewähren {0:value:percent} &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;Kritischen Treffer&lt;/link&gt;-Schaden (Kann bis zu {0:extravalue:straight}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>637</ID>
-      <DefaultText>Jedes Mal, wenn ein Verbündeter zu Boden geht, gewährt diese Waffe {0:value:percent} kritischen Treffer-Schaden (Kann bis zu {0:extravalue:straight}-mal gestapelt werden)</DefaultText>
+      <DefaultText>Jedes Mal, wenn ein Verbündeter zu Boden geht, gewährt diese Waffe {0:value:percent} &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;Kritischen Treffer&lt;/link&gt;-Schaden (Kann bis zu {0:extravalue:straight}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>638</ID>
-      <DefaultText>Kritische Treffer mit dieser Waffe haben eine Chance von {0:value:percent}, einen Kegel-Wirkungsbereich auf das Ziel zu schleudern</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;Kritische Treffer&lt;/link&gt; mit dieser Waffe haben eine Chance von {0:value:percent}, einen Kegel-Wirkungsbereich auf das Ziel zu schleudern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>639</ID>
-      <DefaultText>Kritische Treffer mit dieser Waffe haben eine Chance von {0:value:percent}, einen Kegel-Wirkungsbereich auf das Ziel zu schleudern (Wirkungsbereich lässt nun auch Feinde Erkrankt zurück)</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;Kritische Treffer&lt;/link&gt; mit dieser Waffe haben eine Chance von {0:value:percent}, einen Kegel-Wirkungsbereich auf das Ziel zu schleudern (Wirkungsbereich lässt nun auch Feinde Erkrankt zurück)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>640</ID>
-      <DefaultText>Kritische Treffer mit dieser Waffe haben eine Chance von {0:value:percent}, einen Kegel-Wirkungsbereich auf das Ziel zu schleudern (Wirkungsbereich verringert nun auch die feindliche Abwehr)</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;Kritische Treffer&lt;/link&gt; mit dieser Waffe haben eine Chance von {0:value:percent}, einen Kegel-Wirkungsbereich auf das Ziel zu schleudern (Wirkungsbereich verringert nun auch die feindliche Abwehr)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2786,7 +2786,7 @@
     </Entry>
     <Entry>
       <ID>751</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem im Nahkampf erlittenem kritischen Treffer, die nächste Initiative des Trägers aufzuheben</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem im Nahkampf erlittenem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;, die nächste Initiative des Trägers aufzuheben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
