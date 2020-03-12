@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>441</ID>
-      <DefaultText>(Aktueller Bonus: {0:value:percent}) Erhalte alle {0:interval} {0:value:percent} Treffer zu kritischem Treffer (Wirkung wird bei einem erzielten kritischen Treffer zurückgesetzt)</DefaultText>
+      <DefaultText>(Aktueller Bonus: {0:value:percent}) Erhalte alle {0:interval} {0:value:percent} Treffer zu &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt; (Wirkung wird bei einem erzielten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; zurückgesetzt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,12 +76,12 @@
     </Entry>
     <Entry>
       <ID>560</ID>
-      <DefaultText>Kritische Treffer haben eine Chance von {0:value:percent}, den Feind für {0:extravalue:duration} einzufrieren</DefaultText>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;Kritische Treffer&lt;/link&gt; haben eine Chance von {0:value:percent}, den Feind für {0:extravalue:duration} einzufrieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>{0:value:percent} Chance, beim Erzielen eines kritischen Treffers Feinden rund um das Ziel Frost-/Hiebschaden zuzufügen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, beim Erzielen eines &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffers&lt;/link&gt; Feinden rund um das Ziel Frost-/Hiebschaden zuzufügen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>584</ID>
-      <DefaultText>Wird ein kritischer Treffer erzielt, erleidet das Ziel {0:value:straight} direkten Schaden für {0:extravalue:duration} (Die Dauer verlängert sich, wenn das Ziel Schaden austeilt)</DefaultText>
+      <DefaultText>Wird ein &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischer Treffer&lt;/link&gt; erzielt, erleidet das Ziel {0:value:straight} direkten Schaden für {0:extravalue:duration} (Die Dauer verlängert sich, wenn das Ziel Schaden austeilt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>591</ID>
-      <DefaultText>{0:value:bonuspercentbonus} Chance Treffer mit Waffenangriffen in kritische Treffer umzuwandeln (Erhöht sich mit der Fertigkeit {0:skill})</DefaultText>
+      <DefaultText>{0:value:bonuspercentbonus} Chance Treffer mit Waffenangriffen in &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritische Treffer&lt;/link&gt; umzuwandeln (Erhöht sich mit der Fertigkeit {0:skill})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>610</ID>
-      <DefaultText>{0:value:percent} Chance, gegnerische kritische Treffer in Treffer mit nicht schleierdurchdringenden Angriffen umzuwandeln</DefaultText>
+      <DefaultText>{0:value:percent} Chance, gegnerische &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritische Treffer&lt;/link&gt; in Treffer mit nicht schleierdurchdringenden Angriffen umzuwandeln</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
