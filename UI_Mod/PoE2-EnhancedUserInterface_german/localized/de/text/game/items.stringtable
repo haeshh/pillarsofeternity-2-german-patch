@@ -113,7 +113,7 @@ Dieser einfache Speer ist mit Federn und Perlen verziert.</DefaultText>
     </Entry>
     <Entry>
       <ID>3197</ID>
-      <DefaultText>Gewährt treffsichere &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; und verschafft eine wesentliche Chance, Fehlschläge zu Leichten Treffern, Leichte Treffer zu Treffern, und Treffer zu kritischen Treffern zu ändern.</DefaultText>
+      <DefaultText>Gewährt treffsichere &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Accuracy"&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;space=0.7em&gt;Genauigkeit&lt;/link&gt;&lt;/nobr&gt; und verschafft eine wesentliche Chance, Fehlschläge zu &lt;link="glossary://GlossaryEntry_Graze"&gt;leichten Treffern&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Graze"&gt;leichte Treffer&lt;/link&gt; zu &lt;link="glossary://GlossaryEntry_Hits"&gt;Treffern&lt;/link&gt;, und Treffer zu &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffern&lt;/link&gt; zu ändern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
