@@ -2010,12 +2010,12 @@ Erhöhte Erholungszeit für Zaubersprüche, die nicht der Verzauberungsschule zu
     </Entry>
     <Entry>
       <ID>2335</ID>
-      <DefaultText>&lt;line-height=100%&gt;Resistenz: &lt;link="glossary://GlossaryEntry_Afflictions_Resolve"&gt;&lt;#30d3d5&gt;Entschlossenheitswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Resistenz: &lt;link="glossary://GlossaryEntry_Afflictions_Resolve"&gt;Entschlossenheitswirkungen&lt;space=0.7em&gt;&lt;#30d3d5&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2337</ID>
-      <DefaultText>&lt;line-height=100%&gt;Immunität: &lt;link="glossary://GlossaryEntry_Afflictions_Resolve"&gt;&lt;#30d3d5&gt;Entschlossenheitswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Immunität: &lt;link="glossary://GlossaryEntry_Afflictions_Resolve"&gt;Entschlossenheitswirkungen&lt;space=0.7em&gt;&lt;#30d3d5&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2045,17 +2045,17 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2385</ID>
-      <DefaultText>&lt;line-height=100%&gt;Immunität: &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;&lt;#f7b733&gt;Verfassungswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Immunität: &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;Verfassungswirkungen&lt;space=0.7em&gt;&lt;#f7b733&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2386</ID>
-      <DefaultText>&lt;line-height=100%&gt;Resistenz: &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Gewandtheitswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Resistenz: &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;Gewandtheitswirkungen&lt;space=0.7em&gt;&lt;#72da26&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2387</ID>
-      <DefaultText>&lt;line-height=100%&gt;Schwäche: &lt;link="glossary://GlossaryEntry_Afflictions_Perception"&gt;&lt;#ca58ff&gt;Wahrnehmungswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Schwäche: &lt;link="glossary://GlossaryEntry_Afflictions_Perception"&gt;Wahrnehmungswirkungen&lt;space=0.7em&gt;&lt;#ca58ff&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2105,7 +2105,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2465</ID>
-      <DefaultText>&lt;line-height=100%&gt;Immunität: &lt;link="glossary://GlossaryEntry_Afflictions_Might"&gt;&lt;#ff4800&gt;Machtwirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Immunität: &lt;link="glossary://GlossaryEntry_Afflictions_Might"&gt;Machtwirkungen&lt;space=0.7em&gt;&lt;#ff4800&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2205,22 +2205,22 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2542</ID>
-      <DefaultText>&lt;line-height=100%&gt;Immunität: &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;&lt;#00a4ff&gt;Intellektwirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Immunität: &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;Intellektwirkungen&lt;space=0.7em&gt;&lt;#00a4ff&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2543</ID>
-      <DefaultText>&lt;line-height=100%&gt;Resistenz: &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;&lt;#00a4ff&gt;Intellektwirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Resistenz: &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;Intellektwirkungen&lt;space=0.7em&gt;&lt;#00a4ff&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2546</ID>
-      <DefaultText>&lt;line-height=100%&gt;Immunität: &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Gewandtheitswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Immunität: &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;Gewandtheitswirkungen&lt;space=0.7em&gt;&lt;#72da26&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2549</ID>
-      <DefaultText>&lt;line-height=100%&gt;Resistenz: &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;&lt;#f7b733&gt;Verfassungswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Resistenz: &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;Verfassungswirkungen&lt;space=0.7em&gt;&lt;#f7b733&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2431,17 +2431,17 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2707</ID>
-      <DefaultText>&lt;line-height=100%&gt;Resistenz: &lt;link="glossary://GlossaryEntry_Afflictions_Might"&gt;&lt;#ff4800&gt;Machtwirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Resistenz: &lt;link="glossary://GlossaryEntry_Afflictions_Might"&gt;Machtwirkungen&lt;space=0.7em&gt;&lt;#ff4800&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2708</ID>
-      <DefaultText>&lt;line-height=100%&gt;Resistenz: &lt;link="glossary://GlossaryEntry_Afflictions_Perception"&gt;&lt;#ca58ff&gt;Wahrnehmungswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Resistenz: &lt;link="glossary://GlossaryEntry_Afflictions_Perception"&gt;Wahrnehmungswirkungen&lt;space=0.7em&gt;&lt;#ca58ff&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2709</ID>
-      <DefaultText>&lt;line-height=100%&gt;Schwäche: &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Gewandtheitswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Schwäche: &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;Gewandtheitswirkungen&lt;space=0.7em&gt;&lt;#72da26&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2609,7 +2609,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2860</ID>
-      <DefaultText>&lt;line-height=100%&gt;Schwäche: &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;&lt;#f7b733&gt;Verfassungswirkung&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Schwäche: &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;Verfassungswirkung&lt;space=0.7em&gt;&lt;#f7b733&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2629,12 +2629,12 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>2879</ID>
-      <DefaultText>&lt;line-height=100%&gt;Schwäche: &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;Gewandtheitswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Schwäche: &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;Gewandtheitswirkungen&lt;space=0.7em&gt;&lt;#72da26&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2889</ID>
-      <DefaultText>&lt;line-height=100%&gt;Schwäche: &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;&lt;#00a4ff&gt;Intellektwirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Schwäche: &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;Intellektwirkungen&lt;space=0.7em&gt;&lt;#00a4ff&gt;&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2699,7 +2699,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
     <Entry>
       <ID>3192</ID>
-      <DefaultText>&lt;line-height=100%&gt;Immunität: &lt;link="glossary://GlossaryEntry_Afflictions_Perception"&gt;&lt;#ca58ff&gt;Wahrnehmungswirkungen&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Immunität: &lt;link="glossary://GlossaryEntry_Afflictions_Perception"&gt;Wahrnehmungswirkungen&lt;space=0.7em&gt;&lt;#ca58ff&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
