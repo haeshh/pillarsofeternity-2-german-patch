@@ -2291,12 +2291,12 @@
     </Entry>
     <Entry>
       <ID>488</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer (außer Leichte Treffer) für {0:extravalue:duration} Verängstigt zu wirken</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer (außer &lt;link="glossary://GlossaryEntry_Graze"&gt;leichte Treffer&lt;/link&gt;) für {0:extravalue:duration} Verängstigt zu wirken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>489</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem Treffer (außer Leichte Treffer) für {0:extravalue:duration} Geschockt zu wirken</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem Treffer (außer &lt;link="glossary://GlossaryEntry_Graze"&gt;leichte Treffer&lt;/link&gt;) für {0:extravalue:duration} Geschockt zu wirken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

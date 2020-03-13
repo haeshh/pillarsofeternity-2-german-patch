@@ -1171,12 +1171,12 @@
     </Entry>
     <Entry>
       <ID>488</ID>
-      <DefaultText>&lt;line-height=100%&gt;{0:value:percent} Chance, bei einem Treffer (außer Leichte Treffer) für {0:extravalue:duration} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Frightened"&gt;&lt;#30d3d5&gt;Verängstigt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu wirken&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;{0:value:percent} Chance, bei einem Treffer (außer &lt;link="glossary://GlossaryEntry_Graze"&gt;leichte Treffer&lt;/link&gt;) für {0:extravalue:duration} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Frightened"&gt;&lt;#30d3d5&gt;Verängstigt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu wirken&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>489</ID>
-      <DefaultText>&lt;line-height=100%&gt;{0:value:percent} Chance, bei einem Treffer (außer Leichte Treffer) für {0:extravalue:duration} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Terrified"&gt;&lt;#30d3d5&gt;Geschockt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu wirken&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;{0:value:percent} Chance, bei einem Treffer (außer &lt;link="glossary://GlossaryEntry_Graze"&gt;leichte Treffer&lt;/link&gt;) für {0:extravalue:duration} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Terrified"&gt;&lt;#30d3d5&gt;Geschockt&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; zu wirken&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
