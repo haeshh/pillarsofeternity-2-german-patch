@@ -149,7 +149,7 @@ Gewährt &lt;link="gamedata://bfa3f85c-ea51-466c-912b-56d43304bc63"&gt;Schutz fo
 Gewährt einen Genauigkeits-Bonus gegen Geister.
 
 &lt;b&gt;Abzug&lt;/b&gt;
-Wenn ein Schutz zerstört wird, fügt dies sofortigen direkten Schaden und einen Abzug der Kraftstufe zu, bis der Kampf endet.
+Wenn ein Schutz zerstört wird, fügt dies sofortigen &lt;link="glossary://GlossaryEntry_Raw"&gt;direkten Schaden&lt;/link&gt; und einen Abzug der Kraftstufe zu, bis der Kampf endet.
 
 Der Wille ist verringert.</DefaultText>
       <FemaleText />
@@ -226,7 +226,7 @@ Gewährt die Fähigkeit, Treffer gegen verzauberte Ziele mit hoher Wahrscheinlic
 
 Gewährt die Fähigkeit &lt;link="gamedata://b75184f8-63d7-44e3-901d-9c9205ad538c"&gt;Schurkischer Charme&lt;/link&gt;.
 
-Gewährt das Verwandeln von Treffern in leichte Treffer, wenn frei von Wirkungen.
+Gewährt das Verwandeln von Treffern in &lt;link="glossary://GlossaryEntry_Graze"&gt;leichte Treffer&lt;/link&gt;, wenn frei von Wirkungen.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Kann nicht angreifen.
@@ -530,7 +530,7 @@ Alle Verteidigungen gegen schwer verletzte Angreifer sind verringert.</DefaultTe
     </Entry>
     <Entry>
       <ID>5016</ID>
-      <DefaultText>Nutze deine eigene Lebenskraft, um deine Magie zu fördern, wenn alles andere versagt. Empfange eine variable Menge an reinem Schaden, um eine Stufe der Zaubersprüche wiederherzustellen, die dem Verhältnis des empfangenen Schadens entspricht oder darunter liegt.
+      <DefaultText>Nutze deine eigene Lebenskraft, um deine Magie zu fördern, wenn alles andere versagt. Empfange eine variable Menge an direktem Schaden, um eine Stufe der Zaubersprüche wiederherzustellen, die dem Verhältnis des empfangenen Schadens entspricht oder darunter liegt.
 
 Nach der Verwendung gewinnen die Zaubersprüche eine kurze Zeit lang einen Bonus für die Kraftstufe.</DefaultText>
       <FemaleText />

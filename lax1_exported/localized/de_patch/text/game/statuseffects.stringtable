@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>{0:value:percent} Chance, bei erlittenem kritischem Treffer durch eine Nahkampfwaffe, die Durchschlagskraft des Angreifers um {0:extravalue} zu ändern</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei erlittenem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; durch eine Nahkampfwaffe, die Durchschlagskraft des Angreifers um {0:extravalue} zu ändern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>622</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem erzielten kritischen Treffer, {0:triggervalue:duration} lang {0:extravalue:straight} Lindwürmer zu beschwören</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;, {0:triggervalue:duration} lang {0:extravalue:straight} Lindwürmer zu beschwören</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>627</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem erzielten kritischen Treffer, Feinden in einer Linie Frostschaden zuzufügen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;, Feinden in einer Linie Frostschaden zuzufügen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>644</ID>
-      <DefaultText>{0:value:duration} lang {0:statuseffects} auf das Ziel bei einem erzielten kritischen Treffer</DefaultText>
+      <DefaultText>{0:value:duration} lang {0:statuseffects} auf das Ziel bei einem erzielten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,12 +126,12 @@
     </Entry>
     <Entry>
       <ID>648</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem erzielten kritischen Treffer, wenn man unbewaffnet ist, {0:triggervalue:duration} lang {0:extravalue} Rüstungswert zuzufügen ({0:triggercount}-mal stapelbar)</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;, wenn man unbewaffnet ist, {0:triggervalue:duration} lang {0:extravalue} Rüstungswert zuzufügen ({0:triggercount}-mal stapelbar)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>649</ID>
-      <DefaultText>{0:value:percent} Chance, bei erlittenem kritischen Treffer mit einer Nahkampfwaffe, alle {0:interval} beim Angreifer {0:triggervalue:duration} lang {0:extravalue:straight} direkten Blutungsschaden zu verursachen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei erlittenem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; mit einer Nahkampfwaffe, alle {0:interval} beim Angreifer {0:triggervalue:duration} lang {0:extravalue:straight} direkten Blutungsschaden zu verursachen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>654</ID>
-      <DefaultText>Fügt bei einem erzielten kritischen Treffer {0:extravalue:duration} lang alle {0:interval} Reinen-Schaden zu (Schaden wird mit aktuellem Fokus des Mediums skaliert)</DefaultText>
+      <DefaultText>Fügt bei einem erzielten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; {0:extravalue:duration} lang alle {0:interval} &lt;link="glossary://GlossaryEntry_Raw"&gt;direkten Schaden&lt;/link&gt; zu (Schaden wird mit aktuellem Fokus des Mediums skaliert)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

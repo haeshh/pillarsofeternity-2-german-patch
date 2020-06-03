@@ -866,7 +866,7 @@
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>Führt dazu, dass der Zauberwirker versetzt erscheint. Seine Abwehr und seine Reflexe werden für die Dauer erhöht. Außerdem werden viele Abwehr- und Reflexe-Angriffe, die Treffer landen, zu Leichten Treffern umgewandelt.</DefaultText>
+      <DefaultText>Führt dazu, dass der Zauberwirker versetzt erscheint. Seine Abwehr und seine Reflexe werden für die Dauer erhöht. Außerdem werden viele Abwehr- und Reflexe-Angriffe, die Treffer landen, zu &lt;link="glossary://GlossaryEntry_Graze"&gt;leichten Treffern&lt;/link&gt; umgewandelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1561,7 +1561,7 @@
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText>Setzt ein magisches Siegel auf den Boden, das Feinde bei Kontakt vertreibt und Niederstreckt.</DefaultText>
+      <DefaultText>Setzt ein magisches Siegel auf den Boden, das Feinde bei Kontakt vertreibt und niederstreckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2666,12 +2666,12 @@
     </Entry>
     <Entry>
       <ID>830</ID>
-      <DefaultText>Erzeugt einen mächtigen Sturm, der einen einzelnen Feind im Wirkungsbereich regelmäßig mit Blitzen trifft, wodurch er Betäubt wird und Schockschaden erleidet.</DefaultText>
+      <DefaultText>Erzeugt einen mächtigen Sturm, der einen einzelnen Feind im Wirkungsbereich regelmäßig mit Blitzen &lt;xg&gt;trifft&lt;/xg&gt;, wodurch er Betäubt wird und Schockschaden erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>831</ID>
-      <DefaultText>Beschwört ein riesiges Hirschgeweih herauf, das das erste Ziel auf seinem Weg trifft, Stichschaden zufügt und einen Malus auf Abwehr und Reflexe bewirkt.</DefaultText>
+      <DefaultText>Beschwört ein riesiges Hirschgeweih herauf, das das erste Ziel auf seinem Weg &lt;xg&gt;trifft&lt;/xg&gt;, Stichschaden zufügt und einen Malus auf Abwehr und Reflexe bewirkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2691,7 +2691,7 @@
     </Entry>
     <Entry>
       <ID>835</ID>
-      <DefaultText>Erzeugt einen tödlichen Sturm, der Feinde im Wirkungsbereich regelmäßig mit Blitzen trifft, wodurch sie Betäubt werden und Schockschaden erleiden.</DefaultText>
+      <DefaultText>Erzeugt einen tödlichen Sturm, der Feinde im Wirkungsbereich regelmäßig mit Blitzen &lt;xg&gt;trifft&lt;/xg&gt;, wodurch sie Betäubt werden und Schockschaden erleiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3011,7 +3011,7 @@
     </Entry>
     <Entry>
       <ID>920</ID>
-      <DefaultText>Der Schurke nutzt eine Vielzahl hinterhältiger Taktiken, durch die ein Teil seiner Treffer zu kritischen Treffern wird.</DefaultText>
+      <DefaultText>Der Schurke nutzt eine Vielzahl hinterhältiger Taktiken, durch die ein Teil seiner Treffer zu &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffern&lt;/link&gt; wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3546,7 +3546,7 @@
     </Entry>
     <Entry>
       <ID>1129</ID>
-      <DefaultText>Die Nahkampfangriffe des Barbaren erhalten eine Chance auf Unterbrechen bei &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffern&lt;/link&gt;.</DefaultText>
+      <DefaultText>Die Nahkampfangriffe des Barbaren erhalten eine Chance auf Unterbrechung bei &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffern&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3846,7 +3846,7 @@
     </Entry>
     <Entry>
       <ID>1339</ID>
-      <DefaultText>Im Land der Nordzwerge haben schon seit langer Zeit Kreaturen aus der Urzeit (Schleime, Pilze und Pflanzen) sowie Wilder (Oger, Skuldr, Trolle, Vithracks und Xaurips) Jagd auf Jäger gemacht. Viele Generationen voller Streit haben den Nordzwergen eine erhöhte Chance verschafft, ihnen leichte Treffer zu versetzen, statt sie zu verfehlen.</DefaultText>
+      <DefaultText>Im Land der Nordzwerge haben schon seit langer Zeit Kreaturen aus der Urzeit (Schleime, Pilze und Pflanzen) sowie Wilder (Oger, Skuldr, Trolle, Vithracks und Xaurips) Jagd auf Jäger gemacht. Viele Generationen voller Streit haben den Nordzwergen eine erhöhte Chance verschafft, ihnen &lt;link="glossary://GlossaryEntry_Graze"&gt;leichte Treffer&lt;/link&gt; zu versetzen, statt sie zu verfehlen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3856,7 +3856,7 @@
     </Entry>
     <Entry>
       <ID>1341</ID>
-      <DefaultText>Küstenaumauaner sind dafür bekannt, dass sie sich auf See ausgesprochen wohlfühlen und sehr robust gebaut sind. Ob der Grund ihre lange Geschichte als Seefahrer oder eine angeborene Eigenschaft ist – jedenfalls besitzen alle Küstenaumauaner große Widerstandsfähigkeit gegen Machtwirkungen.</DefaultText>
+      <DefaultText>Küstenaumauaner sind dafür bekannt, dass sie sich auf See ausgesprochen wohlfühlen und sehr robust gebaut sind. Ob der Grund ihre lange &lt;xg&gt;Geschichte&lt;/xg&gt; als Seefahrer oder eine angeborene Eigenschaft ist – jedenfalls besitzen alle Küstenaumauaner große Widerstandsfähigkeit gegen Machtwirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5353,7 +5353,7 @@ Wenn der Aufstieg nachlässt, wird der Fokus auf null verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>1975</ID>
-      <DefaultText>(Schwungvolle Schlagserie) – Während sie aktiv ist, besteht bei mit einer Nahkampfwaffe ausgeführten kritischen Treffern die Chance, sofort einen weiteren Angriff auszulösen.</DefaultText>
+      <DefaultText>(Schwungvolle Schlagserie) – Während sie aktiv ist, besteht bei mit einer Nahkampfwaffe ausgeführten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffern&lt;/link&gt; die Chance, sofort einen weiteren Angriff auszulösen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5497,7 +5497,7 @@ Ausdauer – Gewährt Rüstungswert</DefaultText>
     </Entry>
     <Entry>
       <ID>2006</ID>
-      <DefaultText>(Erhabener &lt;xg&gt;Fokus&lt;/xg&gt;) – Einige Treffer werden zu Kritischen Treffern.</DefaultText>
+      <DefaultText>(Erhabener &lt;xg&gt;Fokus&lt;/xg&gt;) – Einige Treffer werden zu &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffern&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5507,7 +5507,7 @@ Ausdauer – Gewährt Rüstungswert</DefaultText>
     </Entry>
     <Entry>
       <ID>2008</ID>
-      <DefaultText>(Erhabener Ansturm) – Einige Treffer auf Verbündete werden zu Leichten Treffern abgeschwächt (oder Fehlschlägen, wenn der Angriff keinen Leichten Treffer verursachen kann).</DefaultText>
+      <DefaultText>(Erhabener Ansturm) – Einige Treffer auf Verbündete werden zu &lt;link="glossary://GlossaryEntry_Graze"&gt;Leichten Treffern&lt;/link&gt; abgeschwächt (oder Fehlschlägen, wenn der Angriff keinen &lt;link="glossary://GlossaryEntry_Graze"&gt;Leichten Treffer&lt;/link&gt; verursachen kann).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6983,7 +6983,7 @@ Schleichangriff verursacht deutlich weniger Schaden.</DefaultText>
     <Entry>
       <ID>2305</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Erhalte die passive Fähigkeit „&lt;link="gamedata://ccbac5f4-f5a2-46f8-bedc-8d8679048996"&gt;Attentäter&lt;/link&gt;“. Diese gewährt für Angriffe aus der Heimlichkeit heraus einen Bonus auf Durchschlagskraft, Genauigkeit und Schaden bei einem kritischen Treffer.
+Erhalte die passive Fähigkeit „&lt;link="gamedata://ccbac5f4-f5a2-46f8-bedc-8d8679048996"&gt;Attentäter&lt;/link&gt;“. Diese gewährt für Angriffe aus der Heimlichkeit heraus einen Bonus auf Durchschlagskraft, Genauigkeit und Schaden bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt;.
 
 &lt;b&gt;Abzug&lt;/b&gt;
 Jeder erhaltene Schaden wird erhöht.</DefaultText>
@@ -8951,7 +8951,7 @@ Das maximale Limit an Wunden ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2721</ID>
-      <DefaultText>Die Zaubersprüche des Mediums, die sich gegen den Willen richten, verwandeln einige ihrer Treffer zu Kritischen Treffern.</DefaultText>
+      <DefaultText>Die Zaubersprüche des Mediums, die sich gegen den Willen richten, verwandeln einige ihrer Treffer zu &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffern&lt;/link&gt;.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9796,7 +9796,7 @@ Das maximale Limit an Wunden ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2896</ID>
-      <DefaultText>(Wildschlag–Raserei: Brand) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und verursacht Verbrennung und Schaden über Zeit bei Gegnern in der Nähe.</DefaultText>
+      <DefaultText>(Wildschlag–Raserei: &lt;xg&gt;Brand&lt;/xg&gt;) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und verursacht Verbrennung und Schaden über Zeit bei Gegnern in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9806,7 +9806,7 @@ Das maximale Limit an Wunden ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2898</ID>
-      <DefaultText>(Wildschlag–Raserei: Zersetzung) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und verursacht Zersetzung und verringert den Rüstungswert von Gegnern in der Nähe.</DefaultText>
+      <DefaultText>(Wildschlag–Raserei: &lt;xg&gt;Zersetzung&lt;/xg&gt;) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und verursacht Zersetzung und verringert den Rüstungswert von Gegnern in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9816,7 +9816,7 @@ Das maximale Limit an Wunden ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2900</ID>
-      <DefaultText>(Wildschlag–Raserei: Frost) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und friert Gegner in der Nähe ein und verlangsamt sie.</DefaultText>
+      <DefaultText>(Wildschlag–Raserei: &lt;xg&gt;Frost&lt;/xg&gt;) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und friert Gegner in der Nähe ein und verlangsamt sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9826,7 +9826,7 @@ Das maximale Limit an Wunden ist verringert.</DefaultText>
     </Entry>
     <Entry>
       <ID>2902</ID>
-      <DefaultText>(Wildschlag–Raserei: Schock) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und unterbricht Gegner in der Nähe.</DefaultText>
+      <DefaultText>(Wildschlag–Raserei: &lt;xg&gt;Schock&lt;/xg&gt;) – Jeder tödliche Schlag während einer Geistwandlung erhöht die Dauer des geistwandlerischen Effekts und unterbricht Gegner in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13154,7 +13154,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3753</ID>
-      <DefaultText>Verzauberer konzentrieren sich auf Magie, die Gegner blendet oder Verwirrt, können aber keine Illusions- oder Transmutationszauber wirken.</DefaultText>
+      <DefaultText>Verzauberer konzentrieren sich auf Magie, die Gegner blendet oder verwirrt, können aber keine Illusions- oder Transmutationszauber wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -13189,7 +13189,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3760</ID>
-      <DefaultText>Während der Lindwurmschlüpfling dir folgt, bekommst du zusätzliche Verteidigung gegen Bodenangriffe und manche Angriffe mit Fernkampfwaffen durch Gruppenmitglieder werden zu Leichten Treffern anstelle von Fehlschlägen.</DefaultText>
+      <DefaultText>Während der Lindwurmschlüpfling dir folgt, bekommst du zusätzliche Verteidigung gegen Bodenangriffe und manche Angriffe mit Fernkampfwaffen durch Gruppenmitglieder werden zu &lt;link="glossary://GlossaryEntry_Graze"&gt;Leichten Treffern&lt;/link&gt; anstelle von Fehlschlägen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14726,7 +14726,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4140</ID>
-      <DefaultText>Gewährt Resistenz gegen Verfassungswirkungen im Unverletzten und Gesunden Zustand.</DefaultText>
+      <DefaultText>Gewährt Resistenz gegen Verfassungswirkungen im Unverletzten oder Gesunden Zustand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -15006,7 +15006,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4276</ID>
-      <DefaultText>Gewährt im Unverletzten und Gesunden Zustand Immunität gegen Verfassungswirkungen.</DefaultText>
+      <DefaultText>Gewährt im Unverletzten oder Gesunden Zustand Immunität gegen Verfassungswirkungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17133,7 +17133,7 @@ Keiner.</DefaultText>
     </Entry>
     <Entry>
       <ID>4927</ID>
-      <DefaultText>Der Waldläufer feuert einen starken, zielsicheren Schuss mit seiner Fernkampfwaffe ab und trifft alle Charaktere in seiner Bahn mit erhöhtem Schaden und stärkerer Durchschlagskraft und schwächt sie dabei noch.</DefaultText>
+      <DefaultText>Der Waldläufer feuert einen starken, zielsicheren Schuss mit seiner Fernkampfwaffe ab und &lt;xg&gt;trifft&lt;/xg&gt; alle Charaktere in seiner Bahn mit erhöhtem Schaden und stärkerer Durchschlagskraft und entkräftet sie dabei noch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

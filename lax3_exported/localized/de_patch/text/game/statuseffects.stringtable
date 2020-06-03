@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>{0:extravalue:duration} lang nach Wirken eines Zauberspruchs {0:value:bonuspercentbonus} Chance, im Nahkampf Treffer in kritische Treffer umzuwandeln</DefaultText>
+      <DefaultText>{0:extravalue:duration} lang nach Wirken eines Zauberspruchs {0:value:bonuspercentbonus} Chance, im Nahkampf Treffer in &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritische Treffer&lt;/link&gt; umzuwandeln</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>567</ID>
-      <DefaultText>Das Erzielen eines kritischen Treffers wirkt {0:extravalue:duration} lang Standhaft auf die Verbündeten in der Nähe des Ziels</DefaultText>
+      <DefaultText>Das Erzielen eines &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffers&lt;/link&gt; wirkt {0:extravalue:duration} lang Standhaft auf die Verbündeten in der Nähe des Ziels</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>617</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem erzielten kritischen Treffer mit einer Nahkampfwaffe {0:extravalue:duration} lang Geschockt auszulösen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; mit einer Nahkampfwaffe {0:extravalue:duration} lang Geschockt auszulösen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,17 +51,17 @@
     </Entry>
     <Entry>
       <ID>620</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem erzielten kritischen Treffer die Abwehr des Feindes {0:extravalue:duration} lang um {0:triggervalue} zu verringern</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; die Abwehr des Feindes {0:extravalue:duration} lang um {0:triggervalue} zu verringern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>621</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem erzielten kritischen Treffer die Abwehr des Feindes {0:extravalue:duration} lang um {0:triggervalue} zu verringern (Erhöht sich mit der Fertigkeit {0:skill})</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem erzielten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; die Abwehr des Feindes {0:extravalue:duration} lang um {0:triggervalue} zu verringern (Erhöht sich mit der Fertigkeit {0:skill})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>700</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer den Feinden in der Nähe nach kurzer Verzögerung direkten Schaden zuzufügen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; den Feinden in der Nähe nach kurzer Verzögerung direkten Schaden zuzufügen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>705</ID>
-      <DefaultText>{0:value:percent} Chance, bei einem kritischen Treffer ein Siegel zu hinterlassen, das Feinden direkten Schaden zufügt</DefaultText>
+      <DefaultText>{0:value:percent} Chance, bei einem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; ein Siegel zu hinterlassen, das Feinden direkten Schaden zufügt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

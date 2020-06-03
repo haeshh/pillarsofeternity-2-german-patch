@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>729</ID>
-      <DefaultText>2 Gesundheit pro {0:triggervalue:duration} für {0:extravalue:duration} bei erlittenem kritischen Treffer (Heilung wird stärker, wenn Träger Gesundheit verliert)</DefaultText>
+      <DefaultText>2 Gesundheit pro {0:triggervalue:duration} für {0:extravalue:duration} bei erlittenem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; (Heilung wird stärker, wenn Träger Gesundheit verliert)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>731</ID>
-      <DefaultText>Erhalte alle {0:interval} 6 % Treffer zu kritischem Treffer (Effekt wird bei erfolgreichem kritischen Treffer zurückgesetzt).</DefaultText>
+      <DefaultText>Erhalte alle {0:interval} 6 % Treffer zu &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt; (Effekt wird bei erfolgreichem &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; zurückgesetzt).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,12 +91,12 @@
     </Entry>
     <Entry>
       <ID>745</ID>
-      <DefaultText>{0:value:percent} Chance auf sofortiges Löschen von Initiative beim Erzielen eines kritischen Treffers</DefaultText>
+      <DefaultText>{0:value:percent} Chance auf sofortiges Löschen von Initiative beim Erzielen eines &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffers&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>746</ID>
-      <DefaultText>{0:value:percent} Chance auf sofortiges Löschen von Initiative beim Erzielen eines kritischen Treffers</DefaultText>
+      <DefaultText>{0:value:percent} Chance auf sofortiges Löschen von Initiative beim Erzielen eines &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffers&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

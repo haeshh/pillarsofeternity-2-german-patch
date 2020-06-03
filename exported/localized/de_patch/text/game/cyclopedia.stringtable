@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>907</EntryCount>
+  <EntryCount>909</EntryCount>
   <Entries>
     <Entry>
       <ID>43</ID>
@@ -884,7 +884,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>Gott des Todes, der Kreisläufe, der Türen, der Sterblichkeit und der Unvermeidbarkeit. Berath ist der Hüter des Kreislaufs von Leben und Tod. Es heißt, er würde die Leben derer fordern, die ihre Zeit verlebt haben. In den Volkssagen taucht Berath meist in der Form der Bleichen Ritterin oder des Totengräbers auf, zweier skelettartiger Gestalten, welche die Todgeweihten herausfordern oder überlisten und auf diese Weise ihren Tod herbeiführen.</DefaultText>
+      <DefaultText>Gott des Todes, der Kreisläufe, der Türen, der Sterblichkeit und der Unvermeidbarkeit. Berath ist der Hüter des Kreislaufs von Leben und &lt;xg&gt;Tod&lt;/xg&gt;. Es heißt, er würde die Leben derer fordern, die ihre Zeit verlebt haben. In den Volkssagen taucht Berath meist in der Form der Bleichen Ritterin oder des Totengräbers auf, zweier skelettartiger Gestalten, welche die Todgeweihten herausfordern oder überlisten und auf diese Weise ihren &lt;xg&gt;Tod&lt;/xg&gt; herbeiführen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -944,7 +944,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>Gott der Entropie, der Kälte, des Winters, des Pechs, der Hungersnot und der Naturkatastrophen. Manifestiert sich als riesiger Albino-Auerochse, der sich in einem gewaltigen Schneesturm fortbewegt. In den schwerfälligen Fußstapfen Rymrgands folgen Tod und Zerfall.</DefaultText>
+      <DefaultText>Gott der Entropie, der Kälte, des Winters, des Pechs, der Hungersnot und der Naturkatastrophen. Manifestiert sich als riesiger Albino-Auerochse, der sich in einem gewaltigen Schneesturm fortbewegt. In den schwerfälligen Fußstapfen Rymrgands folgen &lt;xg&gt;Tod&lt;/xg&gt; und Zerfall.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1024,7 +1024,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>Dyrwalds Nachbar im Norden. Readceras ist eine Nation, die fest in ihrem eothasischen Glauben verwurzelt ist. Begonnen hat dieser Eifer während des Kriegs des Heiligen, und selbst, nachdem Eothas offenbar tot ist, lässt er nicht nach.</DefaultText>
+      <DefaultText>Dyrwalds Nachbar im Norden. Readceras ist eine Nation, die fest in ihrem eothasischen Glauben verwurzelt ist. Begonnen hat dieser &lt;xg&gt;Eifer&lt;/xg&gt; während des Kriegs des Heiligen, und selbst, nachdem Eothas offenbar tot ist, lässt er nicht nach.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1034,7 +1034,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>Eine Handelsmacht und die ehemalige Kolonie einer größeren, älteren Nation, Alt-Vailia. Die Republiken liegen südlich des Dyrwalds und Eir Glanfaths und werden von einem Duc regiert, der vom „Consuagli Asegia“ gewählt wird, einem Rat aus 14 Ducs, darunter auch die fünf mächtigsten, die „Ducs Bels“.</DefaultText>
+      <DefaultText>Eine Handelsmacht und die ehemalige Kolonie einer größeren, älteren Nation, Alt-Vailia. Die Republiken liegen südlich des Dyrwalds und Eir Glanfaths und werden von einem Duc regiert, der vom „Consuagli Asegia“ gewählt wird, einem Rat aus 14 &lt;xg&gt;Ducs&lt;/xg&gt;, darunter auch die fünf mächtigsten, die „Ducs Bels“.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1074,7 +1074,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>Auch bekannt als das „Rad von Leben und Tod“ oder einfach „das Rad“. Beraths Rad ist eine metaphorische Vorstellung, die das kollektive Wogen von Seelen beschreibt, die mit dem Tod aus ihrem Körper entweichen, die Welt über Adrasäulen verlassen und dann in neuen Körpern wiedergeboren werden.</DefaultText>
+      <DefaultText>Auch bekannt als das „Rad von Leben und &lt;xg&gt;Tod&lt;/xg&gt;“ oder einfach „das Rad“. Beraths Rad ist eine metaphorische Vorstellung, die das kollektive Wogen von Seelen beschreibt, die mit dem &lt;xg&gt;Tod&lt;/xg&gt; aus ihrem Körper entweichen, die Welt über Adrasäulen verlassen und dann in neuen Körpern wiedergeboren werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1144,7 +1144,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Ein Versuch von Beseelern, die Todesfälle von Hohlgeburten während Waidwens Vermächtnis einzudämmen, indem die Seelen von Tieren in hohlgeborene Kinder eingesetzt wurden – in der Hoffnung, sie könnten dann selbständig leben. Die Praxis war ein katastrophaler Fehlschlag und führte ohne Ausnahme dazu, dass die Kinder zu Wichten wurden. Sie wird daher oft „die grausame Erlösung“ genannt.</DefaultText>
+      <DefaultText>Ein Versuch von Beseelern, die Todesfälle von Hohlgeburten während Waidwens Vermächtnis einzudämmen, indem die Seelen von Tieren in hohlgeborene Kinder eingesetzt wurden – in der Hoffnung, sie könnten dann selbständig leben. Die Praxis war ein katastrophaler &lt;xg&gt;Fehlschlag&lt;/xg&gt; und führte ohne Ausnahme dazu, dass die Kinder zu Wichten wurden. Sie wird daher oft „die grausame Erlösung“ genannt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1154,7 +1154,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>Eine weit verbreitete Seuche unbekannten Ursprungs, die dazu führte, dass Säuglinge im Dyrwald ohne Seelen geboren wurden. Ihren Namen erhielt die Seuche, weil sie etwa zeitgleich mit dem Tod von St. Waidwen im Krieg des Heiligen begann.</DefaultText>
+      <DefaultText>Eine weit verbreitete Seuche unbekannten Ursprungs, die dazu führte, dass Säuglinge im Dyrwald ohne Seelen geboren wurden. Ihren Namen erhielt die Seuche, weil sie etwa zeitgleich mit dem &lt;xg&gt;Tod&lt;/xg&gt; von St. Waidwen im Krieg des Heiligen begann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1857,7 +1857,7 @@ Im Verlauf des nächsten Jahrhunderts erfolgte der Niedergang von Groß-Vailia z
     </Entry>
     <Entry>
       <ID>431</ID>
-      <DefaultText>Die Roparu sind die niederste soziale Klasse der Huana und dazu bestimmt, als unqualifizierte Arbeiter zu dienen und in Zeiten der Not als Erste zu verhungern. Ihr Status dient dem Überleben im oft harschen Todesfeuer und stellt nicht etwa eine moralische Verurteilung dar. Nach ihrem Tod ist für die Roparu die Wiedergeburt in die Klasse der Kurau oder Mataru vorbestimmt.</DefaultText>
+      <DefaultText>Die Roparu sind die niederste soziale Klasse der Huana und dazu bestimmt, als unqualifizierte Arbeiter zu dienen und in Zeiten der Not als Erste zu verhungern. Ihr Status dient dem &lt;xg&gt;Überleben&lt;/xg&gt; im oft harschen Todesfeuer und stellt nicht etwa eine moralische Verurteilung dar. Nach ihrem &lt;xg&gt;Tod&lt;/xg&gt; ist für die Roparu die Wiedergeburt in die Klasse der Kurau oder Mataru vorbestimmt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2557,7 +2557,7 @@ Es gibt unzählige Geschichten von Hunden, die so treu sind, dass sie noch bei i
     </Entry>
     <Entry>
       <ID>594</ID>
-      <DefaultText>Verzauberer konzentrieren sich auf Magie, die Gegner blendet oder Verwirrt, können aber keine Illusions- oder Transmutationszauber wirken.</DefaultText>
+      <DefaultText>Verzauberer konzentrieren sich auf Magie, die Gegner blendet oder verwirrt, können aber keine Illusions- oder Transmutationszauber wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2602,7 +2602,7 @@ Es gibt unzählige Geschichten von Hunden, die so treu sind, dass sie noch bei i
     </Entry>
     <Entry>
       <ID>603</ID>
-      <DefaultText>Od Nua war ein mächtiger engwithanischer Tyrann. Nach dem Tod seines Sohnes Maros wurde er wahnsinnig, da er wusste, dass es keine Götter gab, die dessen Reinkarnation gewährleisten konnten. Er widmete sein Leben dem Bau einer gigantischen Statue seines Sohnes aus lebendigem Adra. Damit versuchte er, Maros’ Seele dem Jenseits mit Gewalt zu entreißen.
+      <DefaultText>Od Nua war ein mächtiger engwithanischer Tyrann. Nach dem &lt;xg&gt;Tod&lt;/xg&gt; seines Sohnes Maros wurde er wahnsinnig, da er wusste, dass es keine Götter gab, die dessen Reinkarnation gewährleisten konnten. Er widmete sein Leben dem Bau einer gigantischen Statue seines Sohnes aus lebendigem Adra. Damit versuchte er, Maros’ Seele dem Jenseits mit Gewalt zu entreißen.
 
 Od Nua wurde durch die Anstrengungen anderer engwithanischen Tyrannen besiegt und zusammen mit seinem Lebenswerk begraben. Jahrhunderte später errichteten Kolonisten ein Schloss über diesen Ruinen, das sie Caed Nua nannten. Wie die Ruinen selbst galt auch Caed Nua als verflucht.</DefaultText>
       <FemaleText />
@@ -2892,7 +2892,7 @@ Legenden zufolge verließen die Rauatai, aufgrund einer schrecklichen Katastroph
     </Entry>
     <Entry>
       <ID>661</ID>
-      <DefaultText>Waldelfen verfolgen ihre Anfänge bis weit in den Norden des heutigen Aedyr und sind durch die Wälder des Kontinents in Richtung Süden gewandert. Ein Großteil ihrer Geschichte ist mit dem Weidevolk verbunden und sie werden oft in denselben Gegenden gefunden. Einige Historiker glauben, Waldelfen seien irgendwann nach Eir Glanfath ausgewandert, obwohl aedyrische und glanfathanische Elfen kulturell völlig unterschiedliche Gruppen sind. Man begegnet ihnen nur selten außerhalb von Aedyr und dem Östlichen Abschnitt.</DefaultText>
+      <DefaultText>Waldelfen verfolgen ihre Anfänge bis weit in den Norden des heutigen Aedyr und sind durch die Wälder des Kontinents in Richtung Süden gewandert. Ein Großteil ihrer &lt;xg&gt;Geschichte&lt;/xg&gt; ist mit dem Weidevolk verbunden und sie werden oft in denselben Gegenden gefunden. Einige Historiker glauben, Waldelfen seien irgendwann nach Eir Glanfath ausgewandert, obwohl aedyrische und glanfathanische Elfen kulturell völlig unterschiedliche Gruppen sind. Man begegnet ihnen nur selten außerhalb von Aedyr und dem Östlichen Abschnitt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2907,7 +2907,7 @@ Legenden zufolge verließen die Rauatai, aufgrund einer schrecklichen Katastroph
     </Entry>
     <Entry>
       <ID>664</ID>
-      <DefaultText>Die meisten Nordzwerge (Enutanik) leben auf der abgeschiedenen südlichen Insel von Naasitaq, wo sie die felsige Tundra und die schneebedeckten Wälder mit den umherwandernden Bleichelfen und den küstennah fahrenden Schiffen der Aumauaner teilen. Wie ihren nördlichen Vettern wohnt den Enutanik eine instinktive Liebe für Erkundungen inne. Nordzwergen begegnet man häufiger im Ewigen Weiß oder in den südlichen Gebieten des Todesfeuers, in anderen Ländern trifft man sie jedoch nur selten an.</DefaultText>
+      <DefaultText>Die meisten Nordzwerge (Enutanik) leben auf der abgeschiedenen südlichen Insel von Naasitaq, wo sie die felsige Tundra und die schneebedeckten Wälder mit den umherwandernden Bleichelfen und den küstennah fahrenden Schiffen der Aumauaner teilen. Wie ihren nördlichen Vettern wohnt den Enutanik eine instinktive Liebe für Erkundungen inne. Nordzwergen begegnet man häufiger im Ewigen Weiß oder in den südlichen Gebieten des Todesfeuers, in anderen Ländern &lt;xg&gt;trifft&lt;/xg&gt; man sie jedoch nur selten an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3409,7 +3409,7 @@ Jede Inspiration wird durch ihre Zugehörigkeit zu einem Attribut (wie Macht ode
     </Entry>
     <Entry>
       <ID>764</ID>
-      <DefaultText>Haemnegs sind zeremonielle Hochzeiten zwischen Menschen und Elfen im Aedyrischen Reich. Die meisten von ihnen gelten der Festigung von Reichtum, Macht oder Allianzen, doch einige sind das Ergebnis von romantischer Liebe oder Sehnsucht.
+      <DefaultText>Haemnegs sind zeremonielle Hochzeiten zwischen Menschen und Elfen im Aedyrischen Reich. Die meisten von ihnen gelten der Festigung von Reichtum, &lt;xg&gt;Macht&lt;/xg&gt; oder Allianzen, doch einige sind das Ergebnis von romantischer Liebe oder Sehnsucht.
 
 Die bekannteste Haemneg ist die traditionelle Vereinigung des menschlichen Fercönyng und der elfischen Mecwyn.</DefaultText>
       <FemaleText />
@@ -4220,7 +4220,7 @@ Manchmal fallen die Bären des Todesfeuers auch Tigern zum Opfer, wobei Bärenm�
     </Entry>
     <Entry>
       <ID>924</ID>
-      <DefaultText>Gaun ist ein Aspekt von Eothas, der mit Tod und Ernten in Verbindung gebracht wird. Seine Werkzeuge sind symbolisch wichtig: Die Sichel erntet, was im Leben gesät wird und die Laterne führt die Verstorbenen zu ihrem vorgesehenen Pfad von &lt;xg&gt;Tod&lt;xg&gt; und Wiedergeburt. Im Allgemeinen glaubt man, dass Gaun anstatt von Beraths Avataren diejenigen besucht, die den Tod mit Akzeptanz und Verständnis begrüßen. Seine treusten Anhänger sind als die „Ernter von Gaun“ bekannt.
+      <DefaultText>Gaun ist ein Aspekt von Eothas, der mit &lt;xg&gt;Tod&lt;/xg&gt; und Ernten in Verbindung gebracht wird. Seine &lt;xg&gt;Werkzeuge&lt;/xg&gt; sind symbolisch wichtig: Die Sichel erntet, was im Leben gesät wird und die Laterne führt die Verstorbenen zu ihrem vorgesehenen Pfad von &lt;xg&gt;Tod&lt;/xg&gt; und Wiedergeburt. Im Allgemeinen glaubt man, dass Gaun anstatt von Beraths Avataren diejenigen besucht, die den &lt;xg&gt;Tod&lt;/xg&gt; mit Akzeptanz und Verständnis begrüßen. Seine treusten Anhänger sind als die „Ernter von Gaun“ bekannt.
 
 Gaun ist ein Beantworter allen Unrechts und aller Ungleichheiten. Dies hat nicht unerheblich zum Enthusiasmus des Dyrwalds für wachsame Gerechtigkeit beigetragen. Die allgemeine Meinung über Gaun spaltet die Leute: Er wird geschätzt, gefürchtet und durch einen düsteren Sinn für das Finale charakterisiert.</DefaultText>
       <FemaleText />
@@ -4759,7 +4759,7 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     </Entry>
     <Entry>
       <ID>1055</ID>
-      <DefaultText>Thaos ix Arkannon war gehörte der engwithanischen Zivilisation an und war ein Großmeister des bleiernen Schlüssels, einer Organisation, die sich dem Schutz der Geheimnisse der Götter widmet. Nachdem sich Thaos mit der Göttin Woedica verbündet hatte, besaß er die Fähigkeit, sich an alle seine vergangenen Leben zu erinnern. Damit wurde er zu einem der berüchtigtsten Ränkeschmiede in der ganzen Geschichte. Er wurde vom Wächter von Caed Nua getötet, was die Krise der Hohlgeborenen im Dyrwald beendete.</DefaultText>
+      <DefaultText>Thaos ix Arkannon war gehörte der engwithanischen Zivilisation an und war ein Großmeister des bleiernen Schlüssels, einer Organisation, die sich dem Schutz der Geheimnisse der Götter widmet. Nachdem sich Thaos mit der Göttin Woedica verbündet hatte, besaß er die Fähigkeit, sich an alle seine vergangenen Leben zu erinnern. Damit wurde er zu einem der berüchtigtsten Ränkeschmiede in der ganzen &lt;xg&gt;Geschichte&lt;/xg&gt;. Er wurde vom Wächter von Caed Nua getötet, was die Krise der Hohlgeborenen im Dyrwald beendete.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4774,7 +4774,7 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     </Entry>
     <Entry>
       <ID>1060</ID>
-      <DefaultText>Der Gold-Duc ist die einzige Münze, die im Dyrwald geprägt wird. Auf diesen Münzen sind die Gesichter historischer Ducs abgebildet, wenngleich die meisten von ihnen das Gesicht von Admeth Hadret zeigen, dem ersten Duc.</DefaultText>
+      <DefaultText>Der Gold-&lt;xg&gt;Duc&lt;/xg&gt; ist die einzige Münze, die im Dyrwald geprägt wird. Auf diesen Münzen sind die Gesichter historischer Ducs abgebildet, wenngleich die meisten von ihnen das Gesicht von Admeth Hadret zeigen, dem ersten Duc.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4860,6 +4860,20 @@ Eine Lagufaeth–Rotflosse ist ein dominanter, ausgewachsener Lagufaeth. Sie kö
     <Entry>
       <ID>1117</ID>
       <DefaultText>Schiffsverteidiger helfen beim Kampf gegen Feinde im Kampf an Deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>288372001</ID>
+      <DefaultText>&lt;line-height=100%&gt;Das Rad&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288372002</ID>
+      <DefaultText>&lt;line-height=100%&gt;Angeblich engwithanischer Herkunft, ermöglicht Das Rad – auch bekannt als „&lt;link="glossary://GlossaryEntry_Beraths_Wheel"&gt;Beraths Rad&lt;/link&gt;“ oder das „Rad von Leben und &lt;xg&gt;Tod&lt;/xg&gt;“ – den Prozess der Reinkarnation. Nach dem &lt;xg&gt;Tod&lt;/xg&gt; eines Lebewesens tritt seine Seele in das Zwischenreich ein. Wenn das Zwischenreich voll ist, ziehen die Seelen ins Jenseits, wo sie darauf warten, in neue Körper, in neue Leben umverteilt zu werden.
+
+Ohne das Rad und damit ohne die Möglichkeit, ins Jenseits zu gelangen, wird spekuliert, dass die Seelen aller Sterbenden im Zwischenreich bleiben würden. Das Jenseits würde sich leeren und schließlich das Leben, wie wir es in Eora kennen, würde enden.
+
+Es ist jedoch nicht bekannt, wann das Rad konstruiert wurde oder was ihm, wenn überhaupt, vorausgegangen ist.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
